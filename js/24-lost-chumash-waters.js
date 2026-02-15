@@ -29,7 +29,7 @@ const lostWaters = [
   // ===========================
   {name:"Mescaltitlan Island (Quwa') — DESTROYED",
    lat:34.4260, lng:-119.8420,
-   type:"destroyed", icon:"🏝️",
+   type:"destroyed",
    desc:"A <b>sacred Chumash island</b> in the middle of Goleta Bay — the most densely populated area in all of aboriginal California. " +
      "Nine mountain streams fed the surrounding slough. The Portolá expedition (1769) described 'a very grand spot' with a 'large town' on the island. " +
      "In <b>1941</b>, the U.S. military <b>bulldozed Mescaltitlan Island</b> to use as fill dirt for the Santa Barbara Airport runways. " +
@@ -39,7 +39,7 @@ const lostWaters = [
 
   {name:"Goleta Bay — FROM BAY TO SLOUGH",
    lat:34.4200, lng:-119.8500,
-   type:"severely_degraded", icon:"🌊",
+   type:"severely_degraded",
    desc:"What is now the Goleta Slough was once a <b>large navigable bay</b> — ships anchored here until the 1860s. " +
      "In Chumash times, water reached past present-day Hollister Avenue and connected to Devereux Slough, making the UCSB campus an island. " +
      "Chumash villages lined the shore: <b>Helo'</b>, <b>S'axpilil</b>, <b>Elhiman</b>, <b>Alwatalam</b>. " +
@@ -49,7 +49,7 @@ const lostWaters = [
 
   {name:"Upper Devereux Slough — GOLF COURSE TO WETLAND",
    lat:34.4350, lng:-119.8800,
-   type:"restoring", icon:"🔄",
+   type:"restoring",
    desc:"In the 1960s, the northern half of Devereux Slough was filled for the <b>Ocean Meadows Golf Course</b>, destroying roughly half the slough's estuarine habitat. " +
      "Devereux once connected to Goleta Slough, forming a single vast wetland system. " +
      "In 2017-2018, contractors <b>removed 350,000 cubic yards of fill dirt</b> to restore the slough's natural connection. " +
@@ -61,7 +61,7 @@ const lostWaters = [
   // ===========================
   {name:"Carpinteria Salt Marsh — 97% OF CA WETLANDS GONE",
    lat:34.3940, lng:-119.5300,
-   type:"severely_degraded", icon:"🌿",
+   type:"severely_degraded",
    desc:"Once extensive tidal wetlands surrounding the village of <b>Mishopshno</b>. " +
      "A century of draining for development has shrunk the marsh to <b>230 acres</b>. " +
      "The asphaltum (tar) seeps that Chumash used to waterproof tomol canoes still bubble here. " +
@@ -71,7 +71,7 @@ const lostWaters = [
 
   {name:"Santa Ynez Estuary — DIMINISHED",
    lat:34.6850, lng:-120.6100,
-   type:"severely_degraded", icon:"💧",
+   type:"severely_degraded",
    desc:"The mouth of the Santa Ynez River once supported a thriving estuary with tidewater goby, steelhead, and likely beaver-created pools. " +
      "Three upstream dams (Gibraltar 1920, Juncal 1930, Bradbury/Cachuma 1953) reduced freshwater flows dramatically. " +
      "The estuary still functions but is a shadow of its historical self — diminished flows, reduced sediment, fewer fish. " +
@@ -79,7 +79,7 @@ const lostWaters = [
 
   {name:"Malibu Lagoon / Humaliwo — DEGRADED & RESTORED",
    lat:34.0340, lng:-118.6800,
-   type:"restoring", icon:"🔄",
+   type:"restoring",
    desc:"The lagoon at the mouth of Malibu Creek, site of the <b>7,000-year-old village Humaliwo</b>. " +
      "Rindge Dam (1926) upstream blocks all steelhead and 70+ miles of habitat. The lagoon was severely degraded by parking lot runoff, septic systems, and channelization. " +
      "A controversial <b>$6M restoration in 2012</b> removed fill, restored tidal channels, and replanted native vegetation. " +
@@ -88,7 +88,7 @@ const lostWaters = [
 
   {name:"Ormond Beach Wetlands — DRAINED & POLLUTED",
    lat:34.1300, lng:-119.1800,
-   type:"severely_degraded", icon:"☠️",
+   type:"severely_degraded",
    desc:"Over <b>1,000 acres</b> of historic wetlands between Point Mugu and Port Hueneme — once part of the Chumash coastal world between Muwu and Wenemu villages. " +
      "Most wetlands were <b>drained and converted to agriculture</b>. The site became a dumping ground for polluting industries — a power plant and the <b>EPA Halaco Superfund Site</b>. " +
      "South Oxnard, a poorer community, bears the environmental burden. " +
@@ -97,7 +97,7 @@ const lostWaters = [
 
   {name:"Mission Creek Lagoon — CHANNELIZED",
    lat:34.4070, lng:-119.6830,
-   type:"severely_degraded", icon:"🏗️",
+   type:"severely_degraded",
    desc:"Mission Creek flows 7.5 miles from Los Padres National Forest through downtown Santa Barbara to a lagoon at East Beach. " +
      "The village of <b>Syukhtun</b> (pop ~1,000) stood at this creek's outflow. " +
      "The lower creek was <b>channelized into concrete flood control</b>. Three major fish passage barriers blocked endangered steelhead. " +
@@ -106,7 +106,7 @@ const lostWaters = [
 
   {name:"McGrath State Beach / Santa Clara Estuary — SEWAGE & FLOODS",
    lat:34.2230, lng:-119.2640,
-   type:"severely_degraded", icon:"⚠️",
+   type:"severely_degraded",
    desc:"The estuary at the mouth of the <b>Santa Clara River</b> — Southern California's second-largest river and the least altered in the region. " +
      "Historically, the estuary supported tidewater goby, steelhead, and vast shorebird populations. " +
      "Ventura's <b>wastewater discharges</b> have caused repeated flooding, closing the McGrath campground multiple times. " +
@@ -118,7 +118,7 @@ const lostWaters = [
   // ===========================
   {name:"Montgomery Springs (Sapaksi) — NOW DRY",
    lat:34.8830, lng:-119.6670,
-   type:"destroyed", icon:"💀",
+   type:"destroyed",
    desc:"The <b>five springs of Montgomery Potrero</b> at the foot of Sapaksi (Painted Rock). " +
      "These springs sustained the Emigdiano Chumash for millennia — the 'House of the Sun' ceremony site at 5,000 feet depended on this water. " +
      "The springs are <b>now dry</b> (McCaslin 2016). Groundwater pumping and climate change have eliminated them. " +
@@ -126,7 +126,7 @@ const lostWaters = [
 
   {name:"Matilija Hot Springs — BURIED BY SEDIMENT",
    lat:34.4980, lng:-119.3250,
-   type:"severely_degraded", icon:"♨️",
+   type:"severely_degraded",
    desc:"Hot springs on Matilija Creek, upstream of the dam. A place of healing for the Chumash of the Ojai Valley. " +
      "Matilija Dam (1947) has lost <b>90% of its reservoir capacity to sediment</b>. " +
      "The dam was built <b>against Army Corps advice</b>. It blocks all steelhead migration and has buried upstream habitat under silt. " +
@@ -137,7 +137,7 @@ const lostWaters = [
   // ===========================
   {name:"Cachuma Village — DROWNED BY DAM",
    lat:34.5850, lng:-119.9500,
-   type:"destroyed", icon:"🌊",
+   type:"destroyed",
    desc:"The Ineseño Chumash village of <b>Aqicum</b> ('a constant sign') stood in Cachuma Canyon for thousands of years. " +
      "When <b>Bradbury Dam was completed in 1953</b>, Lake Cachuma rose and <b>inundated the village site</b>. " +
      "The dam obliterated thousands of years of Chumash culture beneath reservoir waters. " +
@@ -146,7 +146,7 @@ const lostWaters = [
 
   {name:"Twitchell Reservoir — INUNDATED CUYAMA HABITAT",
    lat:34.9600, lng:-120.2600,
-   type:"destroyed", icon:"🌊",
+   type:"destroyed",
    desc:"<b>Twitchell Dam</b> (1958) inundated the confluence area of the Cuyama and Sisquoc Rivers, blocking <b>66 miles of steelhead habitat</b>. " +
      "The Cuyama River was a sacred Chumash interior corridor — its headwaters in the Chumash Wilderness at 8,000 feet. " +
      "The dam severed the connection between the coastal Santa Maria River and the interior Cuyama watershed."},
@@ -156,21 +156,21 @@ const lostWaters = [
   // ===========================
   {name:"San Jose Creek — CHANNELIZED STEELHEAD STREAM",
    lat:34.4400, lng:-119.8100,
-   type:"severely_degraded", icon:"🏗️",
+   type:"severely_degraded",
    desc:"The largest sub-watershed within the Goleta Slough system. Designated a <b>Core 1 steelhead watershed</b> by NMFS. " +
      "Upper reaches have perennial flows and high-quality spawning habitat, but access is impeded by channelization and barriers. " +
      "This creek once flowed freely through Chumash village territory to the great bay of Goleta."},
 
   {name:"Ventura River — Rice Creek Rerouted",
    lat:34.3500, lng:-119.3100,
-   type:"severely_degraded", icon:"↩️",
+   type:"severely_degraded",
    desc:"Historical ecology analysis by CRC revealed that a <b>channelized section of Rice Creek on the Ventura River Preserve was not the historic alignment</b>. " +
      "The creek was physically moved from its natural course. The Ventura River system — Chumash <b>Shisholop</b> — is 100% dependent on local water, no imports. " +
      "Matilija Dam (1947) and Robles Diversion (1958) fragment the system. A $6M fish ladder (2006) at Robles was required to pass steelhead."},
 
   {name:"Arroyo Burro — VILLAGE CREEK URBANIZED",
    lat:34.4020, lng:-119.7450,
-   type:"severely_degraded", icon:"🏘️",
+   type:"severely_degraded",
    desc:"The creek where the Chumash village of <b>Mismatuk</b> stood, near Santa Barbara Mission. " +
      "Now flows through developed urban landscape. The connection between village site and living creek is severed by roads, buildings, and culverts."}
 ];
@@ -228,15 +228,24 @@ lostWaters.forEach(lw => {
     restoring: 'RESTORING'
   }[lw.type] || 'ALTERED';
 
+  // Geometric shapes: × for destroyed, ◆ for degraded, ○ for restoring
+  const shapeHtml = {
+    destroyed: `<div style="width:12px;height:12px;position:relative;"><div style="position:absolute;top:5px;left:0;width:12px;height:2px;background:${LW_RED};transform:rotate(45deg);border-radius:1px;"></div><div style="position:absolute;top:5px;left:0;width:12px;height:2px;background:${LW_RED};transform:rotate(-45deg);border-radius:1px;"></div></div>`,
+    severely_degraded: `<div style="width:10px;height:10px;background:${LW_ORANGE};transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;"></div>`,
+    restoring: `<div style="width:10px;height:10px;border-radius:50%;border:2px solid ${LW_GREEN};background:transparent;opacity:0.9;"></div>`
+  }[lw.type] || `<div style="width:8px;height:8px;border-radius:50%;background:${LW_GHOST};"></div>`;
+
+  const symbolChar = {destroyed:'✕', severely_degraded:'◆', restoring:'○'}[lw.type] || '•';
+
   const icon = L.divIcon({
     className:'',
-    html:`<div style="font-size:16px;text-shadow:0 0 4px rgba(0,0,0,0.8);">${lw.icon}</div>`,
-    iconSize:[20,20], iconAnchor:[10,10]
+    html: shapeHtml,
+    iconSize:[14,14], iconAnchor:[7,7]
   });
 
   const popup = `
     <div style="max-width:440px;font-family:'Source Sans Pro',sans-serif;">
-      <h4 style="color:${color};margin:0 0 4px;font-size:14px;">${lw.icon} ${lw.name}</h4>
+      <h4 style="color:${color};margin:0 0 4px;font-size:14px;"><span style="font-size:12px;">${symbolChar}</span> ${lw.name}</h4>
       <div style="display:inline-block;padding:1px 8px;border-radius:3px;background:${color}22;color:${color};font-size:10px;font-weight:600;margin-bottom:6px;">${statusLabel}</div>
       <div style="font-size:12px;color:#ccc;line-height:1.55;">${lw.desc}</div>
       <div style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid ${color}33;padding-top:4px;">
@@ -261,7 +270,7 @@ ghostWetlands.forEach(gw => {
 
   polygon.bindPopup(`
     <div style="max-width:400px;font-family:'Source Sans Pro',sans-serif;">
-      <h4 style="color:${LW_GHOST};margin:0 0 4px;font-size:14px;">👻 ${gw.name}</h4>
+      <h4 style="color:${LW_GHOST};margin:0 0 4px;font-size:14px;">${gw.name}</h4>
       <div style="display:inline-block;padding:1px 8px;border-radius:3px;background:${LW_GHOST}22;color:${LW_GHOST};font-size:10px;font-weight:600;margin-bottom:6px;">GHOST — HISTORICAL EXTENT</div>
       <div style="font-size:12px;color:#ccc;line-height:1.55;">${gw.desc}</div>
     </div>`, {maxWidth:420});
@@ -273,7 +282,7 @@ const statsMarker = L.marker([34.30, -119.50], {
   icon: L.divIcon({
     className:'',
     html:'<div style="background:rgba(239,83,80,0.12);border:1px dashed rgba(239,83,80,0.4);border-radius:4px;padding:3px 8px;font:10px \'Source Sans Pro\',sans-serif;color:#EF5350;white-space:nowrap;line-height:1.4;">' +
-         '📊 CA wetland loss: 90%+ statewide<br>' +
+         'CA wetland loss: 90%+ statewide<br>' +
          '&nbsp;&nbsp;&nbsp;SB County: 62% estuarine loss<br>' +
          '&nbsp;&nbsp;&nbsp;SoCal coast: 48% since 1850<br>' +
          '&nbsp;&nbsp;&nbsp;Vegetated marsh: 75% gone</div>',
@@ -283,7 +292,7 @@ const statsMarker = L.marker([34.30, -119.50], {
 
 statsMarker.bindPopup(`
   <div style="max-width:440px;font-family:'Source Sans Pro',sans-serif;">
-    <h4 style="color:${LW_RED};margin:0 0 6px;">📊 The Numbers of Loss</h4>
+    <h4 style="color:${LW_RED};margin:0 0 6px;">The Numbers of Loss</h4>
     <div style="font-size:12px;color:#ccc;line-height:1.7;">
       <b style="color:${LW_RED};">90%+</b> — California's total wetland loss (highest in the nation)<br>
       <b style="color:${LW_RED};">62%</b> — Santa Barbara County estuarine loss (highest of any SoCal county)<br>
@@ -310,9 +319,9 @@ lwLegend.onAdd = function(){
   const d = L.DomUtil.create('div','legend');
   d.style.cssText = 'background:rgba(30,30,30,0.92);padding:10px 14px;border-radius:6px;color:#ccc;font:11px "Source Sans Pro",sans-serif;border:1px solid rgba(239,83,80,0.25);';
   d.innerHTML = '<div style="font-weight:700;color:#EF5350;margin-bottom:5px;">Lost Chumash Waters</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+LW_RED+'">⬤</span> Destroyed / Gone</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+LW_ORANGE+'">⬤</span> Severely Degraded</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+LW_GREEN+'">⬤</span> Restoring</div>' +
+    '<div style="margin:3px 0;"><span style="color:'+LW_RED+'">✕</span> Destroyed / Gone</div>' +
+    '<div style="margin:3px 0;"><span style="color:'+LW_ORANGE+'">◆</span> Severely Degraded</div>' +
+    '<div style="margin:3px 0;"><span style="color:'+LW_GREEN+'">○</span> Restoring</div>' +
     '<div style="margin:3px 0;"><span style="color:'+LW_GHOST+'">- - -</span> Ghost — Historical Extent</div>';
   return d;
 };

@@ -343,11 +343,11 @@ chumashVillages.forEach(v => {
 
   const popup = `
     <div style="max-width:420px;font-family:'Source Sans Pro',sans-serif;">
-      <h4 style="color:${CV_COLOR};margin:0 0 2px;font-size:15px;">🏘️ ${v.name}</h4>
+      <h4 style="color:${CV_COLOR};margin:0 0 2px;font-size:15px;">${v.name}</h4>
       <div style="font-size:11px;color:#aaa;margin-bottom:4px;">
         <b>Modern:</b> ${v.modern} · <b>Division:</b> ${v.division}${v.pop ? ' · <b>Pop:</b> ' + v.pop : ''}
       </div>
-      <div style="font-size:10px;color:#26C6DA;margin-bottom:4px;">💧 ${v.water}</div>
+      <div style="font-size:10px;color:#26C6DA;margin-bottom:4px;">${v.water}</div>
       <div style="font-size:12px;color:#ccc;line-height:1.55;">${v.desc}</div>
       <div style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,171,64,0.15);padding-top:4px;">
         Sources: Johnson 1988; Applegate 1974; King 1969; Harrington; NPS
@@ -370,7 +370,7 @@ const placenamesMarker = L.marker([34.55, -119.30], {
 
 placenamesMarker.bindPopup(`
   <div style="max-width:400px;font-family:'Source Sans Pro',sans-serif;">
-    <h4 style="color:${CV_COLOR};margin:0 0 6px;">🗣️ Chumash Placenames Still Surviving</h4>
+    <h4 style="color:${CV_COLOR};margin:0 0 6px;">Chumash Placenames Still Surviving</h4>
     <div style="font-size:12px;color:#ccc;line-height:1.55;">
       Over <b>40 Chumash placenames</b> survive as the names of rivers, creeks, canyons, mountains, and towns across their territory. The correspondence between the original name and its modern equivalent is seldom exact, but the linguistic DNA of the Chumash world persists in the landscape:<br><br>
       <b>Malibu</b> (Humaliwo) — 'where the surf sounds loudly'<br>

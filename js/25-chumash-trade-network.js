@@ -192,7 +192,7 @@ tomolRoutes.forEach(tr => {
 
   line.bindPopup(`
     <div style="max-width:440px;font-family:'Source Sans Pro',sans-serif;">
-      <h4 style="color:${TN_BLUE};margin:0 0 4px;font-size:14px;">🛶 ${tr.name}</h4>
+      <h4 style="color:${TN_BLUE};margin:0 0 4px;font-size:14px;">${tr.name}</h4>
       <div style="display:inline-block;padding:1px 8px;border-radius:3px;background:${TN_BLUE}22;color:${TN_BLUE};font-size:10px;font-weight:600;margin-bottom:6px;">TOMOL SEA ROUTE</div>
       <div style="font-size:12px;color:#ccc;line-height:1.55;">${tr.desc}</div>
     </div>`, {maxWidth:460});
@@ -208,7 +208,7 @@ obsidianRoutes.forEach(or => {
 
   line.bindPopup(`
     <div style="max-width:440px;font-family:'Source Sans Pro',sans-serif;">
-      <h4 style="color:${TN_OBSIDIAN};margin:0 0 4px;font-size:14px;">🔮 ${or.name}</h4>
+      <h4 style="color:${TN_OBSIDIAN};margin:0 0 4px;font-size:14px;">${or.name}</h4>
       <div style="display:inline-block;padding:1px 8px;border-radius:3px;background:${TN_OBSIDIAN}22;color:${TN_OBSIDIAN};font-size:10px;font-weight:600;margin-bottom:6px;">OBSIDIAN TRADE ROUTE</div>
       <div style="font-size:12px;color:#ccc;line-height:1.55;">${or.desc}</div>
     </div>`, {maxWidth:460});
@@ -217,27 +217,32 @@ obsidianRoutes.forEach(or => {
 
 // ===== RENDER TRADE NODES =====
 tradeNodes.forEach(tn => {
-  const icons = {
-    mint:'🐚', obsidian:'🔮', asphaltum:'🛢️', chert:'⛏️',
-    redwood:'🌲', hub:'⭐'
-  };
   const labels = {
     mint:'SHELL BEAD MINT', obsidian:'OBSIDIAN SOURCE', asphaltum:'ASPHALTUM SOURCE',
     chert:'CHERT QUARRY', redwood:'REDWOOD DRIFTWOOD', hub:'TRADE HUB'
   };
+  const shapeHtml = {
+    mint: `<div style="width:12px;height:12px;border-radius:50%;background:${TN_GOLD};border:2px solid rgba(255,255,255,0.6);box-shadow:0 0 4px rgba(255,213,79,0.4);"></div>`,
+    obsidian: `<div style="width:10px;height:10px;background:${TN_OBSIDIAN};transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);"></div>`,
+    asphaltum: `<div style="width:10px;height:10px;border-radius:2px;background:${TN_TAR};border:1.5px solid rgba(255,255,255,0.4);"></div>`,
+    chert: `<div style="width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:11px solid #8D6E63;opacity:0.9;"></div>`,
+    redwood: `<div style="width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:11px solid #A1887F;opacity:0.9;"></div>`,
+    hub: `<div style="width:14px;height:14px;border-radius:50%;background:${TN_HUB};border:2px solid rgba(255,255,255,0.7);box-shadow:0 0 6px rgba(255,143,0,0.5);"></div>`
+  };
+  const symbolChar = {mint:'●', obsidian:'◆', asphaltum:'■', chert:'▲', redwood:'▲', hub:'●'}[tn.type] || '•';
 
-  const iconEmoji = icons[tn.type] || '📦';
-  const size = tn.type === 'hub' ? 18 : (tn.type === 'mint' || tn.type === 'obsidian' ? 16 : 14);
+  const markerHtml = shapeHtml[tn.type] || `<div style="width:8px;height:8px;border-radius:50%;background:${tn.color};"></div>`;
+  const size = tn.type === 'hub' ? 18 : (tn.type === 'mint' || tn.type === 'obsidian' ? 14 : 12);
 
   const icon = L.divIcon({
     className:'',
-    html:`<div style="font-size:${size}px;text-shadow:0 0 4px rgba(0,0,0,0.8);">${iconEmoji}</div>`,
-    iconSize:[size+4,size+4], iconAnchor:[(size+4)/2,(size+4)/2]
+    html: markerHtml,
+    iconSize:[size,size], iconAnchor:[size/2,size/2]
   });
 
   const popup = `
     <div style="max-width:440px;font-family:'Source Sans Pro',sans-serif;">
-      <h4 style="color:${tn.color};margin:0 0 4px;font-size:14px;">${iconEmoji} ${tn.name}</h4>
+      <h4 style="color:${tn.color};margin:0 0 4px;font-size:14px;"><span style="font-size:11px;">${symbolChar}</span> ${tn.name}</h4>
       <div style="display:inline-block;padding:1px 8px;border-radius:3px;background:${tn.color}22;color:${tn.color};font-size:10px;font-weight:600;margin-bottom:6px;">${labels[tn.type]}</div>
       <div style="font-size:12px;color:#ccc;line-height:1.55;">${tn.desc}</div>
       <div style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid ${tn.color}33;padding-top:4px;">
@@ -254,7 +259,7 @@ const beadRange = L.marker([35.50, -118.50], {
   icon: L.divIcon({
     className:'',
     html:'<div style="background:rgba(255,213,79,0.1);border:1px dashed rgba(255,213,79,0.4);border-radius:4px;padding:3px 8px;font:10px \'Source Sans Pro\',sans-serif;color:#FFD54F;line-height:1.4;">' +
-         '🐚 Shell beads found: Great Basin,<br>' +
+         'Shell beads found: Great Basin,<br>' +
          '&nbsp;&nbsp;&nbsp;Columbia Plateau, Southwest,<br>' +
          '&nbsp;&nbsp;&nbsp;as far as Mississippi River</div>',
     iconSize:[195,45], iconAnchor:[97,22]
@@ -263,7 +268,7 @@ const beadRange = L.marker([35.50, -118.50], {
 
 beadRange.bindPopup(`
   <div style="max-width:440px;font-family:'Source Sans Pro',sans-serif;">
-    <h4 style="color:${TN_GOLD};margin:0 0 6px;">🐚 The Reach of Chumash Money</h4>
+    <h4 style="color:${TN_GOLD};margin:0 0 6px;">The Reach of Chumash Money</h4>
     <div style="font-size:12px;color:#ccc;line-height:1.55;">
       Shell beads originating from the Santa Barbara Channel region have been found across an enormous area of Western North America:<br><br>
       <b>Throughout California</b> — tens of thousands of beads in single burials (San Francisco Bay Area)<br>
@@ -286,10 +291,10 @@ tnLegend.onAdd = function(){
   d.innerHTML = '<div style="font-weight:700;color:#FFD54F;margin-bottom:5px;">Chumash Trade Network</div>' +
     '<div style="margin:3px 0;"><span style="color:'+TN_BLUE+'">- - -</span> Tomol Sea Routes</div>' +
     '<div style="margin:3px 0;"><span style="color:'+TN_OBSIDIAN+'">- - -</span> Obsidian Trade (~300 km)</div>' +
-    '<div style="margin:3px 0;">🐚 Shell Bead Mint / Money</div>' +
-    '<div style="margin:3px 0;">🔮 Obsidian Sources</div>' +
-    '<div style="margin:3px 0;">🛢️ Asphaltum Sources</div>' +
-    '<div style="margin:3px 0;">⭐ Trade Hubs</div>';
+    '<div style="margin:3px 0;"><span style="color:'+TN_GOLD+'">●</span> Shell Bead Mint / Money</div>' +
+    '<div style="margin:3px 0;"><span style="color:'+TN_OBSIDIAN+'">◆</span> Obsidian Sources</div>' +
+    '<div style="margin:3px 0;"><span style="color:'+TN_TAR+'">■</span> Asphaltum Sources</div>' +
+    '<div style="margin:3px 0;"><span style="color:'+TN_HUB+'">●</span> Trade Hubs</div>';
   return d;
 };
 tnLegend.addTo(map);
