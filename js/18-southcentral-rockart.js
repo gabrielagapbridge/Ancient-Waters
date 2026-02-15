@@ -256,6 +256,7 @@ rockArtLegendControl.onAdd = function() {
     '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FF6B9D;margin-right:4px;vertical-align:middle;"></span> Joshua Tree<br>' +
     '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FFD600;margin-right:4px;vertical-align:middle;"></span> Winnemucca (oldest in N. Am.)<br>' +
     '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FFB300;margin-right:4px;vertical-align:middle;"></span> Martis Style 7 (N. Sierra Nevada)<br>' +
+    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#E65100;margin-right:4px;vertical-align:middle;"></span> Chumash Sacred Landscapes<br>' +
     '<div style="margin:4px 0 2px;border-top:1px solid rgba(255,255,255,0.1);padding-top:4px;font-weight:600;color:#aaa;">By Type:</div>' +
     '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FF6B35;margin-right:4px;vertical-align:middle;"></span> Petroglyph (carved) — solid<br>' +
     '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:transparent;border:2px solid #FF6B35;margin-right:4px;vertical-align:middle;"></span> Pictograph (painted) — ring<br>' +
