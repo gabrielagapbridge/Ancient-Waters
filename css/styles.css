@@ -228,9 +228,14 @@
     position: fixed; top: 65px; right: 12px; z-index: 1000;
     background: rgba(26,18,8,0.92); border: 1px solid rgba(193,154,107,0.25);
     border-radius: 8px; padding: 12px 14px; backdrop-filter: blur(10px);
-    max-height: calc(100vh - 160px); overflow-y: auto; width: 230px;
+    max-height: calc(100vh - 180px); overflow-y: scroll; width: 230px;
     scrollbar-width: thin; scrollbar-color: rgba(193,154,107,0.3) transparent;
+    -webkit-overflow-scrolling: touch;
   }
+  .layer-panel::-webkit-scrollbar { width: 6px; }
+  .layer-panel::-webkit-scrollbar-track { background: transparent; }
+  .layer-panel::-webkit-scrollbar-thumb { background: rgba(193,154,107,0.3); border-radius: 3px; }
+  .layer-panel::-webkit-scrollbar-thumb:hover { background: rgba(193,154,107,0.5); }
   .layer-panel h3 {
     font-family: 'Cinzel', serif; font-size: 10px; letter-spacing: 2px;
     text-transform: uppercase; color: var(--sand); margin-bottom: 0;
