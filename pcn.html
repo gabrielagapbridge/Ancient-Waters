@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PCN Rock Art — The Oldest Tradition in California</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0a06;
+    --bg-card: rgba(26,18,8,0.92);
+    --sand: #C19A6B;
+    --text: #e8ddd0;
+    --text-dim: #8a7d6e;
+    --pcn-red: #D32F2F;
+    --pcn-glow: #FF3D0044;
+    --blue-schist: #3F7CAC;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: 'Crimson Pro', Georgia, serif; line-height: 1.7;
+    overflow-x: hidden;
+  }
+
+  /* ===== HERO ===== */
+  .hero {
+    min-height: 100vh; display: flex; flex-direction: column;
+    justify-content: center; align-items: center; text-align: center;
+    padding: 40px 20px; position: relative;
+    background: radial-gradient(ellipse at 50% 80%, rgba(211,47,47,0.06) 0%, transparent 60%);
+  }
+  .hero-icon {
+    width: 80px; height: 80px; margin-bottom: 30px; position: relative;
+  }
+  .hero-icon .ring1 { position:absolute; inset:0; border:3px solid var(--pcn-red); border-radius:50%; opacity:0.4; animation: pulse 3s ease-in-out infinite; }
+  .hero-icon .ring2 { position:absolute; inset:12px; border:2.5px solid var(--pcn-red); border-radius:50%; opacity:0.6; animation: pulse 3s ease-in-out infinite 0.5s; }
+  .hero-icon .ring3 { position:absolute; inset:22px; border:2px solid var(--pcn-red); border-radius:50%; opacity:0.8; animation: pulse 3s ease-in-out infinite 1s; }
+  .hero-icon .nucleus { position:absolute; inset:30px; background:var(--pcn-red); border-radius:50%; box-shadow: 0 0 20px var(--pcn-glow), 0 0 40px var(--pcn-glow); }
+  @keyframes pulse { 0%,100% { opacity:0.3; transform:scale(1); } 50% { opacity:0.7; transform:scale(1.05); } }
+
+  .hero h1 {
+    font-family: 'Cinzel', serif; font-size: clamp(28px, 5vw, 52px);
+    font-weight: 700; letter-spacing: 3px; color: var(--sand);
+    text-transform: uppercase; margin-bottom: 12px;
+  }
+  .hero h1 span { color: var(--pcn-red); }
+  .hero .subtitle {
+    font-size: clamp(14px, 2.2vw, 20px); color: var(--text-dim);
+    max-width: 700px; font-style: italic; margin-bottom: 8px;
+  }
+  .hero .tagline {
+    font-size: 13px; color: var(--pcn-red); letter-spacing: 2px;
+    text-transform: uppercase; font-family: 'Cinzel', serif;
+    margin-top: 16px; opacity: 0.8;
+  }
+  .scroll-hint {
+    position: absolute; bottom: 30px;
+    font-size: 11px; color: var(--text-dim); letter-spacing: 1px;
+    animation: bob 2s ease-in-out infinite;
+  }
+  @keyframes bob { 0%,100% { transform:translateY(0); } 50% { transform:translateY(6px); } }
+
+  /* ===== NAV ===== */
+  .sticky-nav {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(13,10,6,0.95); backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(193,154,107,0.15);
+    padding: 10px 20px; display: flex; justify-content: center;
+    gap: 8px; flex-wrap: wrap;
+  }
+  .nav-link {
+    font-family: 'Cinzel', serif; font-size: 10px; letter-spacing: 1.5px;
+    text-transform: uppercase; color: var(--text-dim); text-decoration: none;
+    padding: 5px 12px; border: 1px solid transparent; border-radius: 4px;
+    transition: all 0.2s;
+  }
+  .nav-link:hover { color: var(--sand); border-color: rgba(193,154,107,0.3); }
+  .nav-link.back { color: var(--pcn-red); border-color: rgba(211,47,47,0.3); }
+
+  /* ===== SECTIONS ===== */
+  section { max-width: 900px; margin: 0 auto; padding: 60px 24px; }
+  section h2 {
+    font-family: 'Cinzel', serif; font-size: clamp(20px, 3.5vw, 32px);
+    color: var(--sand); margin-bottom: 20px; letter-spacing: 1px;
+  }
+  section h2 .num {
+    color: var(--pcn-red); font-size: 0.7em; opacity: 0.6; margin-right: 8px;
+  }
+  section p { margin-bottom: 16px; font-size: 16px; }
+  .divider {
+    width: 60px; height: 2px; background: var(--pcn-red); opacity: 0.4;
+    margin: 0 auto 40px;
+  }
+
+  /* ===== MAP ===== */
+  #pcn-map {
+    width: 100%; height: 70vh; min-height: 450px;
+    border: 1px solid rgba(193,154,107,0.2); border-radius: 8px;
+    margin: 20px 0;
+  }
+  .map-legend {
+    background: var(--bg-card); border: 1px solid rgba(193,154,107,0.2);
+    border-radius: 6px; padding: 12px 16px; margin-top: 12px;
+    display: flex; gap: 20px; flex-wrap: wrap; font-size: 12px;
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-dot {
+    width: 14px; height: 14px; border-radius: 50%; flex-shrink: 0; position: relative;
+  }
+  .legend-dot.pcn-confirmed {
+    border: 2px solid var(--pcn-red);
+    background: transparent;
+  }
+  .legend-dot.pcn-confirmed::after {
+    content: ''; position: absolute; inset: 3px;
+    background: var(--pcn-red); border-radius: 50%;
+  }
+  .legend-dot.pcn-possible { border: 2px dashed var(--pcn-red); opacity: 0.6; }
+  .legend-dot.non-pcn { background: #FF6B35; }
+  .legend-dot.corridor { width: 20px; height: 3px; border-radius: 0; background: var(--pcn-red); opacity: 0.3; }
+
+  /* ===== WHAT MAKES THEM UNIQUE ===== */
+  .feature-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px; margin-top: 20px;
+  }
+  .feature-card {
+    background: var(--bg-card); border: 1px solid rgba(193,154,107,0.12);
+    border-radius: 8px; padding: 20px; border-left: 3px solid var(--pcn-red);
+  }
+  .feature-card h3 {
+    font-family: 'Cinzel', serif; font-size: 13px; color: var(--sand);
+    text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;
+  }
+  .feature-card p { font-size: 14px; color: var(--text-dim); margin: 0; }
+
+  /* ===== TIMELINE ===== */
+  .timeline-vis {
+    position: relative; padding: 20px 0 20px 40px;
+    border-left: 2px solid rgba(193,154,107,0.15); margin: 30px 0;
+  }
+  .tl-event {
+    position: relative; margin-bottom: 30px; padding-left: 20px;
+  }
+  .tl-event::before {
+    content: ''; position: absolute; left: -47px; top: 4px;
+    width: 12px; height: 12px; border-radius: 50%;
+    border: 2px solid var(--pcn-red); background: var(--bg);
+  }
+  .tl-event.pcn-era::before { background: var(--pcn-red); }
+  .tl-date {
+    font-family: 'Cinzel', serif; font-size: 11px; color: var(--pcn-red);
+    letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 4px;
+  }
+  .tl-text { font-size: 14px; color: var(--text-dim); }
+  .tl-text strong { color: var(--text); }
+
+  /* ===== GEOLOGY ===== */
+  .geology-callout {
+    background: rgba(63,124,172,0.08); border: 1px solid rgba(63,124,172,0.2);
+    border-radius: 8px; padding: 24px; margin: 20px 0;
+  }
+  .geology-callout h3 {
+    font-family: 'Cinzel', serif; color: var(--blue-schist); font-size: 14px;
+    text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;
+  }
+
+  /* ===== SITE CARDS ===== */
+  .site-card {
+    background: var(--bg-card); border: 1px solid rgba(193,154,107,0.12);
+    border-radius: 8px; margin-bottom: 12px; overflow: hidden;
+  }
+  .site-card-header {
+    padding: 14px 18px; cursor: pointer; user-select: none;
+    display: flex; justify-content: space-between; align-items: center;
+    transition: background 0.2s;
+  }
+  .site-card-header:hover { background: rgba(193,154,107,0.06); }
+  .site-card-name {
+    font-family: 'Cinzel', serif; font-size: 13px; color: var(--sand); font-weight: 600;
+  }
+  .site-card-type { font-size: 10px; color: var(--pcn-red); letter-spacing: 1px; text-transform: uppercase; }
+  .site-card-arrow { color: var(--text-dim); font-size: 10px; transition: transform 0.25s; }
+  .site-card-arrow.open { transform: rotate(90deg); }
+  .site-card-body {
+    max-height: 0; overflow: hidden; transition: max-height 0.3s ease;
+    padding: 0 18px;
+  }
+  .site-card-body.open { max-height: 600px; padding: 0 18px 16px; }
+  .site-card-body p { font-size: 14px; color: var(--text-dim); margin-bottom: 8px; }
+  .site-card-body .culture-label {
+    font-size: 11px; color: var(--text-dim); padding: 4px 8px;
+    background: rgba(211,47,47,0.08); border-left: 2px solid var(--pcn-red);
+    margin-bottom: 8px;
+  }
+  .site-card-body .src { font-size: 10px; color: #666; }
+
+  /* ===== OPEN QUESTIONS ===== */
+  .question-list { margin: 20px 0; }
+  .question {
+    padding: 16px 0; border-bottom: 1px solid rgba(193,154,107,0.08);
+  }
+  .question h3 {
+    font-family: 'Cinzel', serif; font-size: 14px; color: var(--sand);
+    margin-bottom: 6px;
+  }
+  .question p { font-size: 14px; color: var(--text-dim); margin: 0; }
+
+  /* ===== FOOTER ===== */
+  footer {
+    text-align: center; padding: 40px 20px;
+    border-top: 1px solid rgba(193,154,107,0.1);
+    font-size: 12px; color: var(--text-dim);
+  }
+  footer a { color: var(--sand); text-decoration: none; }
+
+  /* ===== LEAFLET POPUPS ===== */
+  .leaflet-popup-content-wrapper {
+    background: rgba(26,18,8,0.95) !important; color: var(--text) !important;
+    border: 1px solid rgba(193,154,107,0.4) !important; border-radius: 8px !important;
+    font-family: 'Crimson Pro', serif !important;
+  }
+  .leaflet-popup-tip { background: rgba(26,18,8,0.95) !important; }
+  .leaflet-popup-content { margin: 10px 14px !important; font-size: 13px !important; line-height: 1.5 !important; }
+  .leaflet-popup-content h4 { font-family: 'Cinzel', serif; color: var(--sand); font-size: 14px; margin-bottom: 4px; }
+
+  @media (max-width: 768px) {
+    section { padding: 40px 16px; }
+    .feature-grid { grid-template-columns: 1fr; }
+    .map-legend { flex-direction: column; gap: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ===== HERO ===== -->
+<div class="hero">
+  <div class="hero-icon">
+    <div class="ring1"></div>
+    <div class="ring2"></div>
+    <div class="ring3"></div>
+    <div class="nucleus"></div>
+  </div>
+  <h1><span>PCN</span> Rock Art</h1>
+  <p class="subtitle">Pecked Curvilinear Nucleated — a mysterious rock carving tradition older than any known tribe in California</p>
+  <p class="tagline">3,000 – 8,000 years before present</p>
+  <div class="scroll-hint">↓ scroll to explore ↓</div>
+</div>
+
+<!-- ===== STICKY NAV ===== -->
+<nav class="sticky-nav">
+  <a href="index.html" class="nav-link back">← Ancient Waters Map</a>
+  <a href="#mystery" class="nav-link">The Mystery</a>
+  <a href="#map" class="nav-link">Map</a>
+  <a href="#unique" class="nav-link">What Makes Them Unique</a>
+  <a href="#timeline" class="nav-link">Timeline</a>
+  <a href="#geology" class="nav-link">Geology</a>
+  <a href="#sites" class="nav-link">Sites</a>
+  <a href="#questions" class="nav-link">Open Questions</a>
+</nav>
+
+<!-- ===== 1. THE MYSTERY ===== -->
+<section id="mystery">
+  <h2><span class="num">01</span>The Mystery</h2>
+  <div class="divider"></div>
+  <p>Scattered across California's Coast Range — from the Oregon border to Santa Barbara — are boulders carved with a strange, repetitive motif: <strong>circular and oval grooves pecked into rock, leaving a raised center, or nucleus</strong>. They look like nothing else in North American rock art.</p>
+  <p>Nobody knows who made them. Nobody knows exactly why. The carvings predate every tribal boundary we can identify from the contact era. They cross the territories of Coast Miwok, Ohlone, Pomo, Wappo, and dozens of other peoples who arrived in these landscapes thousands of years after the carvings were made.</p>
+  <p>In 1976, Teresa Miller and Reed Haslam gave them a name: <strong>Pecked Curvilinear Nucleated (PCN)</strong>. Miller's 1977 San Francisco State thesis used a predictive model based on geology to discover approximately sixty previously unreported sites. Donna Lee Gillette's 2011 UC Berkeley dissertation remains the most comprehensive study, examining sites across 2,150 hectares of the Hopland Research and Extension Center in Mendocino County.</p>
+  <p>What we know is tantalizing. What we don't know is vast.</p>
+</section>
+
+<!-- ===== 2. THE MAP ===== -->
+<section id="map">
+  <h2><span class="num">02</span>Known PCN Sites</h2>
+  <div class="divider"></div>
+  <p>Every confirmed and suspected PCN site we've documented. The corridor from Cloverdale in the north to the Ohlone Wilderness in the south covers over 200 miles of Coast Range — always on specific rock types, almost always near water.</p>
+  <div id="pcn-map"></div>
+  <div class="map-legend">
+    <div class="legend-item"><div class="legend-dot pcn-confirmed"></div> Confirmed PCN site</div>
+    <div class="legend-item"><div class="legend-dot pcn-possible"></div> Possible / suspected PCN</div>
+    <div class="legend-item"><div class="legend-dot non-pcn"></div> Related rock art (non-PCN)</div>
+    <div class="legend-item"><div class="legend-dot corridor"></div> Approximate PCN corridor</div>
+  </div>
+</section>
+
+<!-- ===== 3. WHAT MAKES THEM UNIQUE ===== -->
+<section id="unique">
+  <h2><span class="num">03</span>What Makes Them Unique</h2>
+  <div class="divider"></div>
+  <p>PCN carvings are unlike any other rock art tradition in western North America. Here's what sets them apart:</p>
+  <div class="feature-grid">
+    <div class="feature-card">
+      <h3>The Motif</h3>
+      <p>Circular or oval grooves pecked into rock, creating a raised center (nucleus). Sometimes accompanied by cupules (small ground cups). The basic elements are circles and ovals with nuclei that appear raised. They seldom occur in any discernible pattern.</p>
+    </div>
+    <div class="feature-card">
+      <h3>The Technique</h3>
+      <p>Pecked, not painted or incised. The carver struck the rock surface repeatedly with a hammerstone to create grooves. This is a subtractive process — material is removed to define the shape. Some researchers have proposed the technique itself may be a form of soft-rock quarrying.</p>
+    </div>
+    <div class="feature-card">
+      <h3>The Rock</h3>
+      <p>Almost exclusively found on <strong>chlorite schist</strong> and <strong>blueschist</strong> — metamorphic rocks created in ancient subduction zones. These rocks only surface along fault lines, which means PCN sites are geologically constrained in a way no other rock art tradition is.</p>
+    </div>
+    <div class="feature-card">
+      <h3>The Water</h3>
+      <p>PCN sites are almost always found near water sources — creeks, springs, seeps. The association is so strong that Miller used proximity to water as a predictor variable in her 1977 site-discovery model, which correctly identified dozens of new sites.</p>
+    </div>
+    <div class="feature-card">
+      <h3>The Distribution</h3>
+      <p>A narrow corridor along the California Coast Range from southern Oregon to Santa Barbara. PCN carvings do not appear in the Sierra Nevada, the Great Basin, the Central Valley, or anywhere outside this specific geological zone — reinforcing the rock-type connection.</p>
+    </div>
+    <div class="feature-card">
+      <h3>The Age</h3>
+      <p>Estimated 3,000–8,000 years before present. Ring Mountain (the type site) may be 5,000–8,000 years old. This predates every known tribal boundary in the region by millennia. The makers were likely Hokan or early Penutian speakers whose identity is lost to time.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 4. THE TIMELINE ===== -->
+<section id="timeline">
+  <h2><span class="num">04</span>Deep Time</h2>
+  <div class="divider"></div>
+  <p>To understand how old PCN carvings are, consider what else was happening in the world — and what hadn't happened yet on this landscape:</p>
+  <div class="timeline-vis">
+    <div class="tl-event pcn-era">
+      <div class="tl-date">~8,000 BP (6000 BCE)</div>
+      <div class="tl-text"><strong>Earliest possible PCN carvings.</strong> Sea levels are still rising from the last ice age. San Francisco Bay is just beginning to flood. The Sacramento–San Joaquin Delta doesn't exist yet. Agriculture hasn't been invented in the Americas.</div>
+    </div>
+    <div class="tl-event pcn-era">
+      <div class="tl-date">~5,000 BP (3000 BCE)</div>
+      <div class="tl-text"><strong>Ring Mountain carvings estimated.</strong> Egypt is building the Great Pyramids. The wheel has just been invented. In California, PCN carvers are pecking circular grooves into blueschist boulders overlooking a bay that's only half its current size.</div>
+    </div>
+    <div class="tl-event pcn-era">
+      <div class="tl-date">~3,000 BP (1000 BCE)</div>
+      <div class="tl-text"><strong>Latest estimated PCN activity.</strong> Homer is composing the Iliad. Iron Age begins in Europe. By this time, the PCN tradition appears to have ended — or evolved into something unrecognizable.</div>
+    </div>
+    <div class="tl-event">
+      <div class="tl-date">~2,400 BP (400 BCE)</div>
+      <div class="tl-text">Oldest mortar holes and habitation artifacts at Ring Mountain. <strong>These are from later peoples</strong> — Coast Miwok ancestors — who lived among the carvings but did not make them.</div>
+    </div>
+    <div class="tl-event">
+      <div class="tl-date">~1,500 BP (500 CE)</div>
+      <div class="tl-text">Coast Miwok, Ohlone, and Pomo cultures are well-established in their historic territories. The PCN carvings are already ancient — as old to these peoples as Roman ruins are to us.</div>
+    </div>
+    <div class="tl-event">
+      <div class="tl-date">1579 CE</div>
+      <div class="tl-text">Francis Drake lands at Point Reyes. The PCN carvings on Ring Mountain are at least 4,000 years old. Nobody records them.</div>
+    </div>
+    <div class="tl-event">
+      <div class="tl-date">1976 CE</div>
+      <div class="tl-text"><strong>Teresa Miller and Reed Haslam coin the term "PCN"</strong> and begin systematic study. Miller's 1977 thesis at San Francisco State University uses geology to predict and discover ~60 new sites.</div>
+    </div>
+    <div class="tl-event">
+      <div class="tl-date">2011 CE</div>
+      <div class="tl-text"><strong>Donna Lee Gillette completes her UC Berkeley dissertation</strong> — the most comprehensive PCN study to date, analyzing 30+ sites and 3,000+ artifacts at Hopland Research Center.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 5. THE GEOLOGY CONNECTION ===== -->
+<section id="geology">
+  <h2><span class="num">05</span>The Geology Connection</h2>
+  <div class="divider"></div>
+  <p>Perhaps the most striking thing about PCN carvings is their geological specificity. While most rock art traditions will use whatever stone is available — sandstone, basalt, granite — PCN carvers sought out a very particular type of rock.</p>
+
+  <div class="geology-callout">
+    <h3>Chlorite Schist & Blueschist</h3>
+    <p>PCN carvings appear almost exclusively on <strong>chlorite schist</strong> — a green-blue metamorphic rock — and <strong>blueschist</strong> (glaucophane schist). These are among the rarest exposed rocks on Earth's surface. They form only under extreme conditions: when oceanic crust is subducted beneath continental crust at high pressure but relatively low temperature (200–500°C at depths of 15–30 km). The rock is then thrust back to the surface along fault zones.</p>
+    <p>In California, these rocks are part of the <strong>Franciscan Complex</strong> — remnants of oceanic crust scraped off the subducting Pacific Plate over the last 200 million years. They surface as isolated outcrops and "knockers" along fault zones throughout the Coast Range. M.C. Blake Jr. (1985) mapped the distribution of blueschist in the San Francisco Bay region specifically in connection with rock art research.</p>
+    <p>The blueschist belt extends over 800 km along the eastern margin of the Coast Range — and PCN sites follow this belt almost exactly.</p>
+  </div>
+
+  <p>Why this rock? Theories range from practical (it's softer and easier to carve than granite) to spiritual (the blue-green color and fault-zone origins may have held sacred significance). Central Pomo mythology connects PCN/cupule boulders to fertility rituals — these "Baby Rocks" were visited by childless women who would fast for four days, then commune with spirits of unborn children believed to dwell within the stone.</p>
+
+  <p>Reed Haslam (1986) proposed that at least some PCN elements are the byproduct of <strong>soft-rock quarrying</strong> — that the material removed from the grooves was the desired product, perhaps ground into powder for ceremonial use. The powder from certain metamorphic rocks has documented use in indigenous fertility and weather rituals throughout California.</p>
+</section>
+
+<!-- ===== 6. SITES DEEP DIVE ===== -->
+<section id="sites">
+  <h2><span class="num">06</span>Site-by-Site</h2>
+  <div class="divider"></div>
+  <p>Every confirmed and suspected PCN site in our database. Click any site to expand its full details.</p>
+  <div id="site-cards"></div>
+</section>
+
+<!-- ===== 7. OPEN QUESTIONS ===== -->
+<section id="questions">
+  <h2><span class="num">07</span>Open Questions</h2>
+  <div class="divider"></div>
+  <p>PCN rock art remains one of the great unsolved puzzles of California archaeology. Here's what we still don't know:</p>
+  <div class="question-list">
+    <div class="question">
+      <h3>Who made them?</h3>
+      <p>The carvers predated every identifiable contact-era tribe. They may have been early Hokan speakers — the oldest language family in California — or an even earlier population. No skeletal remains or habitation sites have been definitively linked to PCN carvers.</p>
+    </div>
+    <div class="question">
+      <h3>Why this specific rock?</h3>
+      <p>The chlorite schist / blueschist specificity is extraordinary. Was it practical (easier to carve)? Spiritual (the blue-green color, the origin from deep within the earth)? Medicinal (the powder produced by pecking)? All three?</p>
+    </div>
+    <div class="question">
+      <h3>Were the nucleated centers removed intentionally?</h3>
+      <p>Some researchers note that the raised centers in PCN carvings could have been removed to create charmstones — polished stone objects found across California. If true, the "art" we see may actually be the negative impression of a manufacturing process.</p>
+    </div>
+    <div class="question">
+      <h3>Do PCN sites follow fault lines?</h3>
+      <p>The geological constraint is clear, but nobody has done a systematic GIS comparison of PCN site locations against detailed fault maps. If the correlation is as tight as it appears, it would suggest the carvers had a sophisticated understanding of geology — or that fault zones held spiritual power.</p>
+    </div>
+    <div class="question">
+      <h3>Are there undiscovered sites?</h3>
+      <p>Teresa Miller's 1977 predictive model found ~60 new sites by looking for the right rock type near water. Given how much of the Coast Range remains unsurveyed, there could be hundreds of undocumented PCN sites. Many are likely on private land, hidden in backyards, buried under development, or lost to quarrying.</p>
+    </div>
+    <div class="question">
+      <h3>What is the relationship to entoptic phenomena?</h3>
+      <p>The circular, concentric patterns of PCN carvings resemble "entoptic" or "phosphene" imagery — visual patterns generated by the nervous system during altered states of consciousness (fasting, trance, psychoactive plants). If PCN carvers were recording vision-quest experiences, the tradition would connect to shamanic practices documented across California — but the link remains speculative.</p>
+    </div>
+    <div class="question">
+      <h3>Is this a single tradition or multiple convergent practices?</h3>
+      <p>Over a span of 5,000 years and 200+ miles, did one continuous cultural tradition produce all PCN carvings? Or did multiple groups independently discover that pecking circles into blueschist produced useful or meaningful results?</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p><a href="index.html">← Return to Ancient Waters & Lost Landscapes</a></p>
+  <p style="margin-top:12px;">Key sources: Gillette (2011) UC Berkeley dissertation; Miller (1977) SFSU thesis; Miller & Haslam (1976); Hedges (1983); Heizer (1953); Anderson (2006); Blake (1985); East Bay Hill People; BARARA</p>
+</footer>
+
+<script>
+// ===== PCN SITE DATA =====
+const pcnSites = [
+  {lat:37.9105,lng:-122.4931,name:'Ring Mountain — Petroglyph Rock',type:'PCN Petroglyphs',confirmed:true,
+   desc:'The most famous Bay Area rock art site and the PCN type site. ~30 boulders with PCN carvings on chlorite blueschist — metamorphic rock from an ancient subduction zone. Circular and ovoid grooves with raised nucleated centers, estimated 5,000-8,000 years old. CA-MRN-442. The only known rock art in Marin County. BARARA conservation effort (1993-1997) installed barriers against vandalism. Mortar holes and artifacts dated to ~2,400 years BP confirm later habitation by different peoples.',
+   src:'Anderson (2006); Gillette (2011); Bay Nature; BARARA; Marin County Open Space',
+   culture:'Found on Coast Miwok (Huimen) ancestral land'},
+  {lat:37.9086,lng:-122.4882,name:'Ring Mountain #2',type:'PCN Petroglyphs',confirmed:true,
+   desc:'Additional PCN elements on a second boulder cluster at lower elevation (488 ft). Same tradition as Petroglyph Rock above.',
+   src:'East Bay Hill People; Gillette (2011)',
+   culture:'Found on Coast Miwok (Huimen) ancestral land'},
+  {lat:38.1233,lng:-122.6012,name:'San Marin PCN Site',type:'PCN Petroglyphs',confirmed:true,
+   desc:'PCN petroglyphs survive in the San Marin area of Novato. Part of the Coast Range PCN tradition extending from Oregon border to Santa Barbara.',
+   src:'East Bay Hill People; Gillette (2011)',
+   culture:'Found on Coast Miwok (Omiomi) ancestral land'},
+  {lat:37.9313,lng:-122.3174,name:'Canyon Trail Park — El Cerrito',type:'PCN Petroglyphs & Cupules',confirmed:true,
+   desc:'~200 individual petroglyph elements including PCNs, cupules, and grooves on a chlorite blueschist boulder beside Baxter Creek. CA-CCO-152. First recorded 1949 by Squire. 20+ bedrock mortars and 175+ cupules. Excavations by Cal State Hayward/BARARA recovered cultural materials. City of El Cerrito approved conservation proposal to create a Native American Interpretive Park. Estimated 4,000-5,000 years old.',
+   src:'O\'Brien et al. (2005); Marymor (2003); Gillette (1998); East Bay Hill People',
+   culture:'Found on Ohlone (Huchiun) ancestral land'},
+  {lat:37.9522,lng:-122.3224,name:'Alvarado Park — Richmond',type:'PCN Petroglyphs & Cupules',confirmed:true,
+   desc:'2 bedrock mortars, 275+ cupules, and 2 confirmed PCNs on a chlorite blueschist outcropping on Wildcat Creek. The highest cupule density of any known Bay Area site.',
+   src:'East Bay Hill People; Gillette (2011)',
+   culture:'Found on Ohlone (Huchiun) ancestral land'},
+  {lat:37.5624,lng:-121.7059,name:'Stromer Spring — Ohlone Wilderness',type:'PCN Petroglyphs & Cupules',confirmed:true,
+   desc:'25 bedrock mortars, numerous cupules, and PCN-style petroglyphs at 2,023 ft elevation above Lake Del Valle. Requires a 2-mile hike with 1,200-ft climb from Del Valle\'s western shore. A major rock art site in the Ohlone backcountry.',
+   src:'East Bay Hill People; Gillette (2011)',
+   culture:'Found on Ohlone (Taunan) ancestral land'},
+  {lat:37.7678,lng:-122.0352,name:'Upper Crow Creek PCN',type:'PCN Petroglyph (confirmed)',confirmed:true,
+   desc:'3 bedrock mortars and a confirmed PCN element. "This sure looks like a Pecked Curvilinear Nucleated petroglyph to us."',
+   src:'East Bay Hill People',
+   culture:'Found on Ohlone (Seunen) ancestral land'},
+  {lat:37.7848,lng:-121.7616,name:'Black Hills Trail — possible PCN',type:'Possible PCN',confirmed:false,
+   desc:'Three bedrock mortars, a possible PCN, and a grinding slick at 1,520 ft. "Pecked curvilinear nucleated petroglyphs are not supposed to occur in Contra Costa County. We\'re not so sure."',
+   src:'East Bay Hill People',
+   culture:'Found on Bay Miwok (Volvon) ancestral land'},
+  {lat:37.7600,lng:-121.7073,name:'Brushy Peak Area — possible PCN',type:'Possible PCN',confirmed:false,
+   desc:'Possible PCN element at 1,045 ft. Unusual because most Bay Area PCNs occur on schist, but this one appears on sandstone.',
+   src:'East Bay Hill People',
+   culture:'Found on Bay Miwok (Ssaoam) ancestral land'},
+  {lat:37.2772,lng:-121.7493,name:'Evergreen Valley Cupule Rock',type:'Cupules & possible PCN',confirmed:false,
+   desc:'32+ cupules on Silver Creek. CA-SCL-63. PCNs confirmed by later stylistic analysis though not initially identified.',
+   src:'East Bay Hill People; A Stylistic Analysis of the Rock Art of Santa Clara County',
+   culture:'Found on Ohlone (Santa Ysabel) ancestral land'},
+  {lat:38.812,lng:-123.017,name:'Cloverdale Petroglyph Boulder',type:'PCN Petroglyphs & Cupules',confirmed:true,
+   desc:'PCN elements and cupules on a boulder along the Russian River near Cloverdale. Part of the Coast Range PCN tradition. Exact location not publicized to protect the site.',
+   src:'East Bay Hill People; Hedges (1983); Gillette (2011)',
+   culture:'Found on Southern Pomo ancestral land'},
+  {lat:38.972,lng:-123.115,name:'UC Hopland Research Center',type:'PCN Petroglyphs & Cupules',confirmed:true,
+   desc:'Five boulders or clusters of boulders with PCN markings and cupules across 2,150 hectares of the HREC. The subject of Gillette\'s seminal UC Berkeley dissertation. Over 30 identified prehistoric sites with 3,000+ catalogued artifacts.',
+   src:'Gillette (2011) UC Berkeley dissertation; UC ANR Hopland REC',
+   culture:'Found on Hopland Pomo (Shóqowa) ancestral land'},
+  {lat:39.07,lng:-122.92,name:'Lakeport Baby Rocks',type:'PCN / Baby Rocks',confirmed:true,
+   desc:'Ethnographically documented PCN/cupule boulders known as "Baby Rocks" in Pomo territory. Used in fertility rituals: a childless woman would fast for four days then visit the rock alone to commune with spirits of unborn children believed to dwell within. Deep grooves, cups, and PCNs present.',
+   src:'Heizer (1953); Loeb (1926); Hedges (1983); Gillette (2011)',
+   culture:'Documented in Eastern Pomo ethnographic context'},
+  {lat:38.94,lng:-123.30,name:'Knight\'s Valley Petroglyph Site',type:'PCN / Baby Rock',confirmed:true,
+   desc:'PCN/cupule boulder in Knight\'s Valley, Sonoma County. Referenced in Loeb and Barrett ethnographies as one of the Pomo "baby rock" localities.',
+   src:'Barrett (1952); Loeb (1926); Gillette (2011)',
+   culture:'Found on Wappo / Southern Pomo border'}
+];
+
+// ===== MAP =====
+const map = L.map('pcn-map', {
+  center: [38.1, -122.3], zoom: 8,
+  zoomControl: true, attributionControl: true
+});
+
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+  attribution: '&copy; Esri', maxZoom: 18
+}).addTo(map);
+
+// PCN corridor (approximate)
+const corridorCoords = [
+  [39.1, -123.2], [38.85, -123.05], [38.6, -122.8], [38.3, -122.65],
+  [38.1, -122.6], [37.95, -122.5], [37.75, -122.1], [37.55, -121.75],
+  [37.3, -121.75]
+];
+L.polyline(corridorCoords, {
+  color: '#D32F2F', weight: 40, opacity: 0.06, lineCap: 'round', lineJoin: 'round'
+}).addTo(map);
+L.polyline(corridorCoords, {
+  color: '#D32F2F', weight: 2, opacity: 0.25, dashArray: '8,6'
+}).addTo(map);
+
+// PCN icon (concentric circles)
+function pcnIcon(confirmed, size) {
+  const s = size || 16;
+  const opacity = confirmed ? 1 : 0.5;
+  const border = confirmed ? 'solid' : 'dashed';
+  return L.divIcon({ className:'', iconSize:[s,s], iconAnchor:[s/2,s/2],
+    html:`<div style="width:${s}px;height:${s}px;position:relative;opacity:${opacity};">
+      <div style="position:absolute;inset:0;border:2px ${border} #D32F2F;border-radius:50%;"></div>
+      <div style="position:absolute;inset:3px;border:1.5px ${border} #D32F2F;border-radius:50%;"></div>
+      <div style="position:absolute;inset:${confirmed?5:6}px;background:#D32F2F;border-radius:50%;box-shadow:0 0 8px #D32F2F66;"></div>
+    </div>` });
+}
+
+pcnSites.forEach(s => {
+  const icon = pcnIcon(s.confirmed, 16);
+  L.marker([s.lat, s.lng], {icon}).addTo(map)
+    .bindPopup(`<h4>${s.name}</h4><div style="font-size:10px;color:#D32F2F;letter-spacing:1px;text-transform:uppercase;margin-bottom:4px;">${s.type} · ${s.confirmed ? 'CONFIRMED' : 'POSSIBLE'}</div><div style="font-size:12px;color:#ccc;line-height:1.5;">${s.desc}</div><div style="margin-top:6px;font-size:10px;color:#888;">Sources: ${s.src}</div>`);
+});
+
+// ===== SITE CARDS =====
+const cardContainer = document.getElementById('site-cards');
+pcnSites.forEach((s, i) => {
+  const card = document.createElement('div');
+  card.className = 'site-card';
+  card.innerHTML = `
+    <div class="site-card-header" onclick="this.querySelector('.site-card-arrow').classList.toggle('open');this.nextElementSibling.classList.toggle('open');">
+      <div>
+        <div class="site-card-name">${s.name}</div>
+        <div class="site-card-type">${s.type} · ${s.confirmed ? 'Confirmed' : 'Possible'}</div>
+      </div>
+      <span class="site-card-arrow">▸</span>
+    </div>
+    <div class="site-card-body">
+      <div class="culture-label">${s.culture}</div>
+      <p>${s.desc}</p>
+      <div class="src">Sources: ${s.src}</div>
+    </div>`;
+  cardContainer.appendChild(card);
+});
+
+// Smooth scrolling for nav links
+document.querySelectorAll('.nav-link[href^="#"]').forEach(a => {
+  a.addEventListener('click', e => {
+    e.preventDefault();
+    document.querySelector(a.getAttribute('href')).scrollIntoView({behavior:'smooth'});
+  });
+});
+</script>
+</body>
+</html>

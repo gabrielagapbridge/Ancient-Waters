@@ -166,14 +166,14 @@ const rockArtData = [
 
 rockArtData.forEach(s => {
   const pcnBadge = s.pcn ? '<span class="rock-art-pcn-badge">PCN TRADITION · pre-contact · est. 3,000-8,000 BP</span>' : '';
+  const pcnLink = s.pcn ? '<div style="margin-top:8px;"><a href="pcn.html" target="_blank" style="color:#D32F2F;font-size:11px;font-weight:600;text-decoration:none;border:1px solid #D32F2F44;padding:3px 8px;border-radius:4px;">Explore PCN Rock Art →</a></div>' : '';
   const cultureNote = s.pcn
     ? `<div style="margin:6px 0;padding:5px 8px;background:rgba(255,61,0,0.1);border-left:3px solid #FF3D00;font-size:11px;line-height:1.4"><strong>⚠ Cultural note:</strong> The PCN (Pecked Curvilinear Nucleated) tradition predates the tribal boundaries known from the contact era. These carvings span the entire California Coast Range from Oregon to Santa Barbara, crossing many later tribal territories. They were likely created by earlier Hokan or Penutian-speaking peoples. Attribution to any single post-contact tribe would be inaccurate.<br><strong>Found on:</strong> ${s.culture}</div>`
     : `<div style="margin:4px 0;font-size:11px;color:#ccc"><strong>Cultural affiliation:</strong> ${s.culture}</div>`;
   const ptClass = s.pcn ? 'pt-pcn' : 'pt-rock-art';
-  const color = s.pcn ? RA_COLORS.pcn : RA_COLORS.bayArea;
-  const icon = raIcon(s.type, color, 9);
+  const icon = s.pcn ? mkPCNIcon(14) : raIcon(s.type, RA_COLORS.bayArea, 9);
   L.marker([s.lat,s.lng],{icon}).addTo(L_groups.rockArt)
-    .bindPopup(`<h4>${s.name}</h4><span class="ptype ${ptClass}">${s.type}</span> ${pcnBadge}${cultureNote}${s.desc}<div class="popup-src">📖 ${s.src}</div>`);
+    .bindPopup(`<h4>${s.name}</h4><span class="ptype ${ptClass}">${s.type}</span> ${pcnBadge}${cultureNote}${s.desc}<div class="popup-src">📖 ${s.src}</div>${pcnLink}`);
 });
 
 // ========== SPRINGS & SACRED WATER SOURCES ==========

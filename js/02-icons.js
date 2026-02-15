@@ -27,6 +27,15 @@ function raIcon(typeStr, color, size=10) {
   return mkPetroIcon(color, size);
 }
 // Rock art icon colors by classification
+// PCN-specific concentric circle icon — echoes the actual carving motif
+function mkPCNIcon(size=14) {
+  return L.divIcon({ className:'', iconSize:[size,size], iconAnchor:[size/2,size/2],
+    html:`<div style="width:${size}px;height:${size}px;position:relative;">
+      <div style="position:absolute;inset:0;border:2px solid #D32F2F;border-radius:50%;opacity:0.7;"></div>
+      <div style="position:absolute;inset:3px;border:1.5px solid #D32F2F;border-radius:50;opacity:0.85;"></div>
+      <div style="position:absolute;inset:5px;background:#D32F2F;border-radius:50%;box-shadow:0 0 6px #D32F2F88;"></div>
+    </div>` });
+}
 const RA_COLORS = {
   pcn: '#D32F2F',       // Deep red — oldest tradition
   bayArea: '#FF6B35',   // Orange — Bay Area tribal-era
