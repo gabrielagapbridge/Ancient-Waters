@@ -255,28 +255,11 @@
 
 <div id="bottom-toolbar" style="position:fixed;bottom:52px;left:12px;z-index:1100;display:flex;gap:8px;align-items:center;">
 <a href="pcn.html" class="tribe-panel-toggle" style="position:static;text-decoration:none;display:flex;align-items:center;gap:4px;" target="_blank"><span style="display:inline-block;width:10px;height:10px;border:2px solid #D32F2F;border-radius:50;position:relative;"><span style="display:block;width:4px;height:4px;background:#D32F2F;border-radius:50%;position:absolute;top:1px;left:1px;"></span></span> PCN Rock Art</a>
-<button class="tribe-panel-toggle" style="position:static;" onclick="openLangPanel()"><span class="btn-icon">🗣️</span> Language Encyclopedia</button>
-<button class="tribe-panel-toggle" style="position:static;" onclick="openTribePanel()"><span class="btn-icon">📜</span> Tribal Encyclopedia</button>
+<a href="languages.html" class="tribe-panel-toggle" style="position:static;text-decoration:none;" target="_blank"><span class="btn-icon">🗣️</span> Language Encyclopedia</a>
+<a href="tribes.html" class="tribe-panel-toggle" style="position:static;text-decoration:none;" target="_blank"><span class="btn-icon">📜</span> Tribal Encyclopedia</a>
 </div>
 
-<div class="tribe-panel" id="lang-panel" style="z-index:1002;">
-  <button class="tribe-panel-close" onclick="document.getElementById('lang-panel').classList.remove('open')">&times;</button>
-  <div class="tribe-header">
-    <h2>🗣️ Language Encyclopedia</h2>
-    <p>California's indigenous language families — deep history, distribution & the Hokan-Penutian story</p>
-  </div>
-  <input type="text" id="lang-search" placeholder="Search languages..." style="width:100%;padding:8px 12px;border:1px solid #444;border-radius:6px;background:#2a2a2a;color:#eee;margin-bottom:12px;font-size:13px;" oninput="filterLangs(this.value)">
-  <div id="lang-list"></div>
-</div>
-<div class="tribe-panel" id="tribe-panel">
-  <button class="tribe-panel-close" onclick="closeTribePanel()">&times;</button>
-  <div class="tribe-header">
-    <h2>&#x1F3DB; Tribal Encyclopedia</h2>
-    <p>Indigenous peoples of the mapped region — territory, timeline & villages</p>
-  </div>
-  <input class="tribe-search" id="tribe-search" type="text" placeholder="Search tribes..." oninput="filterTribes(this.value)">
-  <div class="tribe-list" id="tribe-list"></div>
-</div>
+
 </body>
 <script src="js/01-core.js"></script>
 <script src="js/02-icons.js"></script>

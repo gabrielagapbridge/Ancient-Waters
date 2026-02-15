@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Language Encyclopedia — Ancient Waters</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0a06; --bg-card: rgba(26,18,8,0.92); --sand: #C19A6B;
+    --text: #e8ddd0; --text-dim: #8a7d6e;
+    --hokan: #E91E63; --penutian: #2196F3; --yukian: #FF9800; --special: #FF6B35;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--bg); color:var(--text); font-family:'Crimson Pro',Georgia,serif; line-height:1.7; }
+
+  .page-header {
+    text-align:center; padding:50px 20px 30px;
+    border-bottom:1px solid rgba(193,154,107,0.15);
+    background:radial-gradient(ellipse at 50% 80%, rgba(171,71,188,0.04) 0%, transparent 60%);
+  }
+  .page-header h1 {
+    font-family:'Cinzel',serif; font-size:clamp(24px,4vw,40px); color:var(--sand);
+    letter-spacing:3px; text-transform:uppercase; margin-bottom:8px;
+  }
+  .page-header p { font-size:16px; color:var(--text-dim); max-width:650px; margin:0 auto; }
+
+  .sticky-nav {
+    position:sticky; top:0; z-index:100; background:rgba(13,10,6,0.95);
+    backdrop-filter:blur(10px); border-bottom:1px solid rgba(193,154,107,0.15);
+    padding:10px 20px; display:flex; justify-content:center; gap:8px; flex-wrap:wrap; align-items:center;
+  }
+  .nav-link {
+    font-family:'Cinzel',serif; font-size:10px; letter-spacing:1.5px;
+    text-transform:uppercase; color:var(--text-dim); text-decoration:none;
+    padding:5px 12px; border:1px solid transparent; border-radius:4px; transition:all 0.2s;
+  }
+  .nav-link:hover { color:var(--sand); border-color:rgba(193,154,107,0.3); }
+  .nav-link.back { color:#AB47BC; border-color:rgba(171,71,188,0.3); }
+  .filter-btn {
+    font-family:'Cinzel',serif; font-size:10px; letter-spacing:1px; text-transform:uppercase;
+    padding:5px 12px; border:1px solid rgba(193,154,107,0.2); border-radius:4px;
+    background:transparent; color:var(--text-dim); cursor:pointer; transition:all 0.2s;
+  }
+  .filter-btn:hover { color:var(--sand); border-color:rgba(193,154,107,0.4); }
+  .filter-btn.active { border-color:var(--sand); color:var(--sand); background:rgba(193,154,107,0.08); }
+  .search-box {
+    padding:6px 14px; border:1px solid rgba(193,154,107,0.25); border-radius:6px;
+    background:rgba(26,18,8,0.8); color:var(--text); font-size:13px;
+    font-family:'Crimson Pro',serif; width:220px; outline:none;
+  }
+  .search-box:focus { border-color:var(--sand); }
+
+  .content { max-width:900px; margin:0 auto; padding:30px 20px; }
+
+  /* Language card */
+  .lang-card {
+    background:var(--bg-card); border:1px solid rgba(193,154,107,0.12);
+    border-radius:8px; margin-bottom:12px; overflow:hidden;
+    border-left:3px solid transparent;
+  }
+  .lang-card[data-type="superstock"] { border-left-color:currentColor; }
+  .lang-card[data-type="family"] { border-left-width:3px; }
+  .lang-card-header {
+    padding:16px 20px; cursor:pointer; user-select:none;
+    display:flex; justify-content:space-between; align-items:flex-start;
+  }
+  .lang-card-header h3 { font-family:'Cinzel',serif; font-size:16px; font-weight:600; }
+  .lang-type {
+    font-size:9px; text-transform:uppercase; letter-spacing:1.5px;
+    padding:2px 8px; border-radius:3px; margin-top:4px; display:inline-block;
+  }
+  .lang-type.superstock { background:rgba(233,30,99,0.12); color:var(--hokan); }
+  .lang-type.family { background:rgba(255,152,0,0.12); color:var(--yukian); }
+  .lang-type.language { background:rgba(33,150,243,0.12); color:var(--penutian); }
+  .lang-type.special { background:rgba(255,107,53,0.12); color:var(--special); }
+  .lang-arrow { color:var(--text-dim); font-size:12px; transition:transform 0.25s; margin-top:4px; }
+  .lang-arrow.open { transform:rotate(90deg); }
+  .lang-summary { font-size:14px; color:var(--text-dim); margin-top:6px; }
+
+  .lang-card-body {
+    max-height:0; overflow:hidden; transition:max-height 0.4s ease; padding:0 20px;
+  }
+  .lang-card-body.open { max-height:1500px; padding:0 20px 20px; }
+
+  .lang-detail { font-size:15px; color:var(--text-dim); margin-bottom:12px; line-height:1.7; }
+  .lang-detail strong { color:var(--text); }
+
+  .lang-info-box {
+    background:rgba(193,154,107,0.04); border:1px solid rgba(193,154,107,0.1);
+    border-radius:6px; padding:12px 16px; margin-bottom:12px;
+  }
+  .lang-info-box h4 {
+    font-family:'Cinzel',serif; font-size:11px; color:var(--sand);
+    text-transform:uppercase; letter-spacing:1px; margin-bottom:6px;
+  }
+  .lang-info-box p { font-size:14px; color:var(--text-dim); margin:0; }
+
+  .lang-sources { font-size:11px; color:#666; border-top:1px solid rgba(193,154,107,0.08); padding-top:8px; }
+
+  @media (max-width:768px) {
+    .search-box { width:100%; }
+    .sticky-nav { gap:4px; }
+    .filter-btn { font-size:9px; padding:4px 8px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>Language Encyclopedia</h1>
+  <p>California's indigenous language families — deep history, distribution & the Hokan-Penutian story</p>
+</div>
+
+<nav class="sticky-nav">
+  <a href="index.html" class="nav-link back">← Ancient Waters Map</a>
+  <input type="text" class="search-box" id="search" placeholder="Search languages..." oninput="filterLangs(this.value)">
+  <button class="filter-btn active" onclick="setFilter('all')">All</button>
+  <button class="filter-btn" onclick="setFilter('superstock')" style="color:var(--hokan)">Superstocks</button>
+  <button class="filter-btn" onclick="setFilter('family')" style="color:var(--yukian)">Families</button>
+  <button class="filter-btn" onclick="setFilter('language')" style="color:var(--penutian)">Languages</button>
+</nav>
+
+<div class="content" id="lang-list"></div>
+
+<script>
+let langData = [];
+let currentFilter = 'all';
+
+fetch('js/12-lang-encyclopedia.js').then(r => r.text()).then(text => {
+  const match = text.match(/const langEncyclopediaData = (\[[\s\S]*?\n\];)/);
+  if (match) {
+    try { langData = eval(match[1]); } catch(e) { console.error('Parse error:', e); }
+  }
+  renderLangs(langData);
+});
+
+function setFilter(type) {
+  currentFilter = type;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  applyFilters();
+}
+
+function filterLangs(q) {
+  applyFilters(q);
+}
+
+function applyFilters(q) {
+  q = (q || document.getElementById('search').value).toLowerCase();
+  let filtered = langData;
+  if (currentFilter !== 'all') filtered = filtered.filter(l => l.type === currentFilter);
+  if (q) filtered = filtered.filter(l =>
+    (l.name||'').toLowerCase().includes(q) || (l.summary||'').toLowerCase().includes(q) ||
+    (l.detail||'').toLowerCase().includes(q) || (l.families||'').toLowerCase().includes(q)
+  );
+  renderLangs(filtered);
+}
+
+function renderLangs(data) {
+  const list = document.getElementById('lang-list');
+  list.innerHTML = data.map((l, i) => {
+    const typeClass = l.type || 'language';
+    const col = l.color || '#AB47BC';
+    return `<div class="lang-card" data-type="${l.type}" style="border-left-color:${col}">
+      <div class="lang-card-header" onclick="toggleLang(${i})">
+        <div>
+          <h3 style="color:${col}">${l.name}</h3>
+          <span class="lang-type ${typeClass}">${l.type === 'superstock' ? 'Superstock' : l.type === 'family' ? 'Language Family' : l.type === 'special' ? 'Special Topic' : 'Language'}</span>
+          <div class="lang-summary">${l.summary}</div>
+        </div>
+        <span class="lang-arrow" id="larrow-${i}">▸</span>
+      </div>
+      <div class="lang-card-body" id="lbody-${i}">
+        <div class="lang-detail">${l.detail}</div>
+        ${l.families ? '<div class="lang-info-box"><h4>Member Languages / Families</h4><p>'+l.families+'</p></div>' : ''}
+        ${l.bayAreaConnection ? '<div class="lang-info-box"><h4>Bay Area Connection</h4><p>'+l.bayAreaConnection+'</p></div>' : ''}
+        <div class="lang-sources">Sources: ${l.src || 'Various'}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function toggleLang(i) {
+  const body = document.getElementById('lbody-'+i);
+  const arrow = document.getElementById('larrow-'+i);
+  const wasOpen = body.classList.contains('open');
+  document.querySelectorAll('.lang-card-body').forEach(b => b.classList.remove('open'));
+  document.querySelectorAll('.lang-arrow').forEach(a => a.classList.remove('open'));
+  if (!wasOpen) {
+    body.classList.add('open');
+    arrow.classList.add('open');
+  }
+}
+</script>
+</body>
+</html>

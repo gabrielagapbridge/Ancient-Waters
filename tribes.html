@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tribal Encyclopedia — Ancient Waters</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0a06; --bg-card: rgba(26,18,8,0.92); --sand: #C19A6B;
+    --text: #e8ddd0; --text-dim: #8a7d6e; --turquoise: #40E0D0;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--bg); color:var(--text); font-family:'Crimson Pro',Georgia,serif; line-height:1.7; }
+
+  /* Header */
+  .page-header {
+    text-align:center; padding:50px 20px 30px;
+    border-bottom:1px solid rgba(193,154,107,0.15);
+    background:radial-gradient(ellipse at 50% 80%, rgba(193,154,107,0.04) 0%, transparent 60%);
+  }
+  .page-header h1 {
+    font-family:'Cinzel',serif; font-size:clamp(24px,4vw,40px); color:var(--sand);
+    letter-spacing:3px; text-transform:uppercase; margin-bottom:8px;
+  }
+  .page-header p { font-size:16px; color:var(--text-dim); max-width:600px; margin:0 auto; }
+
+  /* Nav */
+  .sticky-nav {
+    position:sticky; top:0; z-index:100; background:rgba(13,10,6,0.95);
+    backdrop-filter:blur(10px); border-bottom:1px solid rgba(193,154,107,0.15);
+    padding:10px 20px; display:flex; justify-content:center; gap:8px; flex-wrap:wrap; align-items:center;
+  }
+  .nav-link {
+    font-family:'Cinzel',serif; font-size:10px; letter-spacing:1.5px;
+    text-transform:uppercase; color:var(--text-dim); text-decoration:none;
+    padding:5px 12px; border:1px solid transparent; border-radius:4px; transition:all 0.2s;
+  }
+  .nav-link:hover { color:var(--sand); border-color:rgba(193,154,107,0.3); }
+  .nav-link.back { color:var(--turquoise); border-color:rgba(64,224,208,0.3); }
+  .search-box {
+    padding:6px 14px; border:1px solid rgba(193,154,107,0.25); border-radius:6px;
+    background:rgba(26,18,8,0.8); color:var(--text); font-size:13px;
+    font-family:'Crimson Pro',serif; width:260px; outline:none;
+  }
+  .search-box:focus { border-color:var(--sand); }
+  .result-count { font-size:11px; color:var(--text-dim); margin-left:8px; }
+
+  /* Content */
+  .content { max-width:900px; margin:0 auto; padding:30px 20px; }
+
+  /* Tribe Card */
+  .tribe-card {
+    background:var(--bg-card); border:1px solid rgba(193,154,107,0.12);
+    border-radius:8px; margin-bottom:12px; overflow:hidden; transition:border-color 0.3s;
+  }
+  .tribe-card:hover { border-color:rgba(193,154,107,0.25); }
+  .tribe-card-header {
+    padding:16px 20px; cursor:pointer; user-select:none;
+    display:flex; justify-content:space-between; align-items:flex-start;
+  }
+  .tribe-card-header h3 {
+    font-family:'Cinzel',serif; font-size:16px; color:var(--sand); font-weight:600;
+  }
+  .tribe-card-header .alt-names { font-size:12px; color:var(--text-dim); margin-top:2px; }
+  .tribe-card-header .dates {
+    font-size:11px; color:var(--text-dim); white-space:nowrap; margin-left:12px;
+    font-family:'Cinzel',serif; letter-spacing:0.5px;
+  }
+  .tribe-arrow { color:var(--text-dim); font-size:12px; transition:transform 0.25s; margin-top:4px; }
+  .tribe-arrow.open { transform:rotate(90deg); }
+
+  .tribe-card-body {
+    max-height:0; overflow:hidden; transition:max-height 0.4s ease;
+    padding:0 20px;
+  }
+  .tribe-card-body.open { max-height:2000px; padding:0 20px 20px; }
+
+  /* Mini map */
+  .tribe-mini-map { width:100%; height:200px; border-radius:6px; margin-bottom:16px; border:1px solid rgba(193,154,107,0.15); }
+
+  /* Info grid */
+  .info-grid {
+    display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-bottom:16px;
+  }
+  .info-item { }
+  .info-item .label { font-size:10px; color:var(--text-dim); text-transform:uppercase; letter-spacing:1px; }
+  .info-item .value { font-size:14px; color:var(--text); }
+  .info-item.full { grid-column:span 2; }
+
+  /* Timeline bar */
+  .timeline-bar {
+    width:100%; height:6px; background:rgba(193,154,107,0.1); border-radius:3px;
+    margin:12px 0 4px; position:relative;
+  }
+  .timeline-fill { position:absolute; height:100%; border-radius:3px; }
+  .timeline-labels {
+    display:flex; justify-content:space-between;
+    font-size:9px; color:var(--text-dim); margin-bottom:12px;
+  }
+
+  /* Description */
+  .tribe-desc { font-size:15px; color:var(--text-dim); margin-bottom:12px; line-height:1.7; }
+  .tribe-desc strong { color:var(--text); }
+
+  /* Villages */
+  .village-section h4 {
+    font-family:'Cinzel',serif; font-size:12px; color:var(--sand);
+    text-transform:uppercase; letter-spacing:1px; margin-bottom:8px;
+  }
+  .village-chips { display:flex; flex-wrap:wrap; gap:4px; margin-bottom:12px; }
+  .village-chips span {
+    background:rgba(193,154,107,0.08); border:1px solid rgba(193,154,107,0.15);
+    border-radius:4px; padding:2px 8px; font-size:12px; color:var(--text-dim);
+  }
+
+  /* Sources */
+  .sources { font-size:11px; color:#666; border-top:1px solid rgba(193,154,107,0.08); padding-top:8px; }
+
+  /* Back to map link */
+  .map-link {
+    display:inline-block; margin-top:8px; padding:6px 14px;
+    border:1px solid rgba(64,224,208,0.3); border-radius:5px;
+    color:var(--turquoise); font-size:12px; text-decoration:none;
+    font-family:'Cinzel',serif; letter-spacing:0.5px;
+    transition:all 0.2s;
+  }
+  .map-link:hover { background:rgba(64,224,208,0.08); }
+
+  /* Leaflet popups */
+  .leaflet-popup-content-wrapper { background:rgba(26,18,8,0.95)!important; color:var(--text)!important; border:1px solid rgba(193,154,107,0.4)!important; border-radius:8px!important; font-family:'Crimson Pro',serif!important; }
+  .leaflet-popup-tip { background:rgba(26,18,8,0.95)!important; }
+
+  @media (max-width:768px) {
+    .info-grid { grid-template-columns:1fr; }
+    .info-item.full { grid-column:span 1; }
+    .search-box { width:100%; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>Tribal Encyclopedia</h1>
+  <p>Indigenous peoples of the mapped region — territory, timeline, villages & deep history</p>
+</div>
+
+<nav class="sticky-nav">
+  <a href="index.html" class="nav-link back">← Ancient Waters Map</a>
+  <input type="text" class="search-box" id="search" placeholder="Search tribes, territories, languages..." oninput="filterTribes(this.value)">
+  <span class="result-count" id="result-count"></span>
+</nav>
+
+<div class="content" id="tribe-list"></div>
+
+<script>
+// ===== TRIBAL DATA (embedded from js/19-tribal-encyclopedia.js) =====
+// We'll fetch and eval the data file, or embed it directly
+</script>
+<script>
+// Territory polygons
+const territoryPolygons = {
+  "Coast Miwok": [[38.35,-123.05],[38.35,-122.45],[38.15,-122.45],[37.85,-122.55],[37.83,-122.60],[37.85,-122.65],[38.05,-122.95],[38.20,-123.05],[38.35,-123.05]],
+  "Bay Miwok (Volvon)": [[37.95,-122.05],[37.95,-121.65],[37.72,-121.65],[37.72,-121.85],[37.82,-122.05],[37.95,-122.05]],
+  "Plains Miwok": [[38.55,-121.70],[38.55,-121.10],[37.90,-121.10],[37.90,-121.70],[38.55,-121.70]],
+  "Ramaytush Ohlone": [[37.82,-122.52],[37.82,-122.35],[37.60,-122.35],[37.60,-122.52],[37.82,-122.52]],
+  "Chochenyo Ohlone": [[37.95,-122.35],[37.95,-122.10],[37.50,-122.10],[37.50,-122.35],[37.95,-122.35]],
+  "Karkin Ohlone": [[38.10,-122.35],[38.10,-122.15],[38.00,-122.15],[38.00,-122.35],[38.10,-122.35]],
+  "Tamyen Ohlone": [[37.50,-122.10],[37.50,-121.75],[37.20,-121.75],[37.20,-122.10],[37.50,-122.10]],
+  "Ancestral Puebloans": [[37.50,-111.50],[37.50,-106.50],[35.50,-106.50],[35.50,-111.50],[37.50,-111.50]],
+  "Hohokam": [[34.00,-112.80],[34.00,-111.00],[32.50,-111.00],[32.50,-112.80],[34.00,-112.80]],
+  "Kashaya Pomo": [[38.70,-123.50],[38.70,-123.05],[38.30,-123.05],[38.30,-123.50],[38.70,-123.50]],
+  "Huimen (Coast Miwok tribelet)": [[37.93,-122.58],[37.93,-122.43],[37.84,-122.43],[37.84,-122.58],[37.93,-122.58]],
+  "Sierra Miwok": [[38.70,-121.10],[38.70,-119.80],[37.30,-119.80],[37.30,-121.10],[38.70,-121.10]],
+  "Yokuts": [[38.00,-121.00],[38.00,-118.50],[35.00,-118.50],[35.00,-121.00],[38.00,-121.00]],
+  "Patwin": [[39.40,-122.50],[39.40,-121.50],[38.05,-121.50],[38.05,-122.50],[39.40,-122.50]],
+  "Lake Miwok": [[39.00,-122.80],[39.00,-122.40],[38.70,-122.40],[38.70,-122.80],[39.00,-122.80]],
+  "Wappo": [[38.80,-122.80],[38.80,-122.30],[38.30,-122.30],[38.30,-122.80],[38.80,-122.80]],
+  "Olompali (Coast Miwok tribelet)": [[38.20,-122.65],[38.20,-122.50],[38.10,-122.50],[38.10,-122.65],[38.20,-122.65]]
+};
+
+// Load tribal data by fetching the JS file and extracting the array
+let tribalData = [];
+
+fetch('js/19-tribal-encyclopedia.js').then(r => r.text()).then(text => {
+  // Extract tribalData array from the file
+  const match = text.match(/const tribalData = (\[[\s\S]*?\n\];)/);
+  if (match) {
+    try { tribalData = eval(match[1]); } catch(e) { console.error('Parse error:', e); }
+  }
+  renderTribes(tribalData);
+  document.getElementById('result-count').textContent = tribalData.length + ' entries';
+});
+
+function filterTribes(q) {
+  q = q.toLowerCase();
+  const filtered = tribalData.filter(t =>
+    (t.name||'').toLowerCase().includes(q) || (t.altNames||'').toLowerCase().includes(q) ||
+    (t.territory||'').toLowerCase().includes(q) || (t.language||'').toLowerCase().includes(q) ||
+    (t.culture||'').toLowerCase().includes(q) || (t.description||'').toLowerCase().includes(q)
+  );
+  renderTribes(filtered);
+  document.getElementById('result-count').textContent = filtered.length + ' of ' + tribalData.length;
+}
+
+function renderTribes(data) {
+  const list = document.getElementById('tribe-list');
+  list.innerHTML = data.map((t, i) => {
+    const span = 10000;
+    const ts = t.timeStart || -2000;
+    const te = t.timeEnd || 1900;
+    const startPct = Math.max(0, ((ts + 8000) / span) * 100);
+    const endPct = Math.min(100, ((te + 8000) / span) * 100);
+    const widthPct = endPct - startPct;
+    const col = t.color || '#40E0D0';
+    const occ = t.occupation || ((ts < 0 ? Math.abs(ts)+' BCE' : ts+' CE') + ' — ' + (te < 0 ? Math.abs(te)+' BCE' : te+' CE'));
+    const villageChips = (t.villages||[]).map(v => '<span>'+v+'</span>').join('') || '<span style="color:#666">Not documented</span>';
+
+    return `<div class="tribe-card" id="tc-${i}">
+      <div class="tribe-card-header" onclick="toggleCard(${i})">
+        <div>
+          <h3>${t.name}</h3>
+          ${t.altNames ? '<div class="alt-names">Also: '+t.altNames+'</div>' : ''}
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <div class="dates">${occ}</div>
+          <span class="tribe-arrow" id="arrow-${i}">▸</span>
+        </div>
+      </div>
+      <div class="tribe-card-body" id="body-${i}">
+        <div class="tribe-mini-map" id="tmap-${i}"></div>
+        <div class="info-grid">
+          <div class="info-item"><div class="label">Language</div><div class="value">${t.language||'Unknown'}</div></div>
+          <div class="info-item"><div class="label">Population</div><div class="value">${t.population||'Unknown'}</div></div>
+          <div class="info-item full"><div class="label">Territory</div><div class="value">${t.territory||'See description'}</div></div>
+        </div>
+        <div class="timeline-bar"><div class="timeline-fill" style="left:${startPct}%;width:${widthPct}%;background:${col}"></div></div>
+        <div class="timeline-labels"><span>8000 BCE</span><span>4000 BCE</span><span>0 CE</span><span>2000 CE</span></div>
+        <div class="tribe-desc">${t.description||t.culture||''}</div>
+        ${t.keyDates ? '<div class="tribe-desc"><strong>Key dates:</strong> '+t.keyDates+'</div>' : ''}
+        <div class="village-section"><h4>Named Villages & Sites</h4><div class="village-chips">${villageChips}</div></div>
+        <div class="sources">Sources: ${t.sources||'Various'}</div>
+        <a href="index.html" class="map-link">View on Ancient Waters Map →</a>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+const miniMaps = {};
+function toggleCard(i) {
+  const body = document.getElementById('body-'+i);
+  const arrow = document.getElementById('arrow-'+i);
+  const wasOpen = body.classList.contains('open');
+
+  // Close all
+  document.querySelectorAll('.tribe-card-body').forEach(b => b.classList.remove('open'));
+  document.querySelectorAll('.tribe-arrow').forEach(a => a.classList.remove('open'));
+
+  if (!wasOpen) {
+    body.classList.add('open');
+    arrow.classList.add('open');
+
+    // Create mini map if not already
+    setTimeout(() => {
+      const el = document.getElementById('tmap-'+i);
+      if (el && !miniMaps[i]) {
+        const t = tribalData[i];
+        const mini = L.map(el, {zoomControl:false, attributionControl:false, dragging:true, scrollWheelZoom:false});
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(mini);
+        const poly = territoryPolygons[t.name];
+        if (poly) {
+          const shape = L.polygon(poly, {color:t.color,weight:2.5,opacity:0.9,fillColor:t.color,fillOpacity:0.18,dashArray:'6,4'}).addTo(mini);
+          mini.fitBounds(shape.getBounds().pad(0.3));
+          L.polygon(poly, {color:t.color,weight:5,opacity:0.2,fillColor:'transparent',fillOpacity:0}).addTo(mini);
+        } else {
+          mini.setView([t.centerLat,t.centerLng], t.zoom);
+          L.circle([t.centerLat,t.centerLng], {radius:t.zoom>11?12000:t.zoom>9?40000:120000, color:t.color,weight:2,opacity:0.6,fillColor:t.color,fillOpacity:0.15,dashArray:'6,4'}).addTo(mini);
+        }
+        L.marker([t.centerLat,t.centerLng], {
+          icon:L.divIcon({className:'',html:'<div style="font-size:10px;color:'+t.color+';text-shadow:0 0 6px #000;white-space:nowrap;font-family:Cinzel,serif;letter-spacing:1px">'+t.name.toUpperCase()+'</div>',iconSize:[140,20],iconAnchor:[70,10]})
+        }).addTo(mini);
+        miniMaps[i] = mini;
+      } else if (miniMaps[i]) {
+        miniMaps[i].invalidateSize();
+      }
+    }, 350);
+
+    // Scroll into view
+    document.getElementById('tc-'+i).scrollIntoView({behavior:'smooth', block:'start'});
+  }
+}
+</script>
+</body>
+</html>
