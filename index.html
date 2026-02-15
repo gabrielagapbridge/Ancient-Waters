@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ancient Waters & Lost Landscapes</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div class="loading" id="loading">
+  <h2>Ancient Waters</h2>
+  <p>Shellmounds, historic shoreline, 27 lost waterways & 430+ sites across the Southwest & Bay Area...</p>
+  <div class="load-bar"><div class="load-fill"></div></div>
+</div>
+
+<div class="title-bar">
+  <h1>Ancient Waters & Lost Landscapes</h1>
+  <p>Pre-contact water features, 525+ sites — Southwest & Bay Area with historical shoreline, buried waterways & 1873 land grants</p>
+</div>
+
+<div class="region-nav">
+  <button class="region-btn active" onclick="flyTo('overview')">Overview</button>
+  <button class="region-btn" onclick="flyTo('southwest')">Southwest</button>
+  <button class="region-btn" onclick="flyTo('jtree')">Joshua Tree</button>
+  <button class="region-btn" onclick="flyTo('bayarea')">Bay Area</button>
+  <button class="region-btn" onclick="flyTo('centralvalley')">Central Valley</button>
+  <button class="region-btn" onclick="flyTo('owensvalley')">Owens Valley</button>
+  <button class="region-btn" onclick="flyTo('eastbay')">East Bay Hills</button>
+</div>
+
+<div class="stats-bar" id="stats-bar">
+  <h3 onclick="document.getElementById('stats-body').classList.toggle('collapsed');this.querySelector('.sa').textContent=document.getElementById('stats-body').classList.contains('collapsed')?'▶':'▼'" style="cursor:pointer;user-select:none;">Visible Features <span class="sa" style="float:right;font-size:8px;">▼</span></h3>
+  <div id="stats-body">
+  <div class="stat-row"><span>SW Sites</span><span class="stat-val">30</span></div>
+  <div class="stat-row"><span>Joshua Tree</span><span class="stat-val">21</span></div>
+  <div class="stat-row"><span>East Bay Hills</span><span class="stat-val">289</span></div>
+    <div class="stat-row"><span>Shellmounds & Villages</span><span class="stat-val">75</span></div>
+    <div class="stat-row"><span>Construction Finds</span><span class="stat-val">21</span></div>
+    <div class="stat-row"><span>Fill Zones</span><span class="stat-val">7</span></div>
+    <div class="stat-row"><span>Land Grants</span><span class="stat-val">7</span></div>
+  <div class="stat-row"><span>Springs</span><span class="stat-val">13</span></div>
+  <div class="stat-row"><span>Trade Routes</span><span class="stat-val">8</span></div>
+  <div class="stat-row"><span>Rock Art Regions</span><span class="stat-val">4</span></div>
+  <div class="stat-row"><span>Rock Art Sites (S-Central)</span><span class="stat-val">15</span></div>
+  <div class="stat-row"><span>Ciénegas</span><span class="stat-val">4</span></div>
+  <div class="stat-row"><span>Dams</span><span class="stat-val">11</span></div>
+  <div class="stat-row" style="margin-top:4px;padding-top:4px;border-top:1px solid rgba(193,154,107,0.15);">
+    <span style="color:var(--sand);">Total Points</span><span class="stat-val">541+</span>
+  </div>
+  </div>
+</div>
+
+<div id="map"></div>
+
+<div class="layer-panel" id="layer-panel">
+  <div class="layer-panel-header" onclick="toggleLayerPanel()">
+    <h3>Map Layers</h3>
+    <span class="collapse-arrow" id="collapse-arrow">▼</span>
+  </div>
+  <div class="layer-panel-body" id="layer-body">
+
+  <div class="layer-section">
+    <div class="layer-section-title">Basemap</div>
+    <div style="display:flex;gap:4px;margin-bottom:6px;">
+      <button class="basemap-btn active" id="btn-terrain" onclick="switchBase('terrain')">Terrain</button>
+      <button class="basemap-btn" id="btn-satellite" onclick="switchBase('satellite')">Satellite</button>
+      <button class="basemap-btn" id="btn-dark" onclick="switchBase('dark')">Dark</button>
+    </div>
+  </div>
+
+  <div class="layer-section">
+    <div class="layer-section-title">Pre-Contact Water</div>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ancientRivers')"><span style="color:var(--turquoise)">Free-flowing rivers</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ancientLakes')"><span style="color:rgba(64,224,208,0.7)">Ancient / pluvial lakes</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('hohokamCanals')"><span style="color:var(--canal-gold)">Hohokam canals</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('springs')"><span style="color:var(--spring)">Springs & sacred water</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('cienegas')"><span style="color:var(--cienega)">Lost ciénegas</span></label>
+  </div>
+
+  <div class="layer-section">
+    <div class="layer-section-title">Lost Lakes & Ancient Waters</div>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('lakeCorcoran')"><span style="color:#1565C0">Lake Corcoran — Inland Sea (~600,000 BP)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('centralValleyLakes')"><span style="color:#4FC3F7">Central Valley lost lakes (Tulare / Buena Vista / Kern)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('owensChain')"><span style="color:#29B6F6">Owens River cascade (7-lake chain to Death Valley)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('waterDiversions')"><span style="color:#EF5350">Water diversions & aqueducts</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pluvialLakes')"><span style="color:#1E88E5">Pleistocene pluvial lakes</span></label>
+  </div>
+
+  <div class="layer-section">
+    <div class="layer-section-title">Culture & Connection</div>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tradeRoutes')"><span style="color:var(--trade)">Trade routes</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('rockArt')"><span style="color:var(--rockart)">Rock art style regions</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('spanishSites')"><span style="color:var(--spanish)">Spanish colonial sites</span></label>
+  </div>
+
+  <div class="layer-section">
+    <div class="layer-section-title">Modern Changes</div>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modernDams')"><span style="color:var(--accent-red)">Major dams</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modernReservoirs')"><span style="color:rgba(33,150,243,0.7)">Reservoirs</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('lostRivers')"><span style="color:rgba(193,68,14,0.8)">Dried / diverted rivers</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modernInfra')"><span style="color:#3498DB">CAP canal & infrastructure</span></label>
+  </div>
+
+  <div class="layer-section">
+    <div class="layer-section-title">Indigenous Sites</div>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('swSites')"><span style="color:var(--pueblo)">SW pueblos & villages</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('jtreeSites')"><span style="color:var(--jtree)">Joshua Tree rock art</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('rockArt')"><span style="color:var(--rock-art)">Rock art sites (PCN / petroglyphs / pictographs)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('scRockArt')"><span style="color:#FF5722">South-Central CA Rock Art (Lee & Hyder 1991)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('langTerritories')"><span style="color:#AB47BC">Language family territories</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('languageZones')"><span style="color:#AB47BC">Language family territories (Hokan / Penutian / Yukian)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayMiwokTribelets')"><span style="color:#64B5F6">Bay Miwok tribelets (Mt. Diablo region)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yokutsTerr')"><span style="color:#FFB74D">Northern Valley Yokuts (San Joaquin Valley)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('sValleyYokuts')"><span style="color:#FFA726">Southern Valley Yokuts (Tulare Lake region)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('foothillYokuts')"><span style="color:#8D6E63">Foothill Yokuts (Sierra Nevada foothills)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yokutsNeighbors')"><span style="color:#CE93D8">Yokuts neighbors (Mono / Miwok / Chumash / Kawaiisu / Tubatulabal / Kitanemuk)</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('eastBaySites')"><span style="color:var(--eastbay)">East Bay Hills sites</span></label>
+  </div>
+
+  <div class="layer-section">
+    <div class="layer-section-title">Bay Area Deep History</div>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('shellmounds')"><span style="color:var(--shellmound)">Ohlone shellmounds</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('buriedCreeks')"><span style="color:var(--buried-creek)">Buried / lost creeks</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('marinCreeks')"><span style="color:#26C6DA">Marin County waterways</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayFill')"><span style="color:var(--bay-fill)">Bay fill zones</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('constructionFinds')"><span style="color:var(--construction)">Construction discoveries</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayMissions')"><span style="color:var(--bay-mission)">Bay Area missions</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('historicShoreline')"><span style="color:#FF6D00">Fill zones / lost shoreline</span></label>
+  </div>
+
+  </div>
+</div>
+
+<div class="coord-display" id="coord-display">Move mouse over map</div>
+
+<div class="timeline-panel">
+  <div class="timeline-row">
+    <div class="timeline-label" id="era-label">All Eras</div>
+    <input type="range" class="timeline-slider" id="timeline" min="0" max="7" value="0" oninput="onTimeline(this.value)">
+  </div>
+  <div class="timeline-ticks">
+    <span class="timeline-tick active" onclick="setEra(0)">All</span>
+    <span class="timeline-tick" onclick="setEra(1)">10,000 BCE</span>
+    <span class="timeline-tick" onclick="setEra(2)">1000 BCE</span>
+    <span class="timeline-tick" onclick="setEra(3)">1450 CE</span>
+    <span class="timeline-tick" onclick="setEra(4)">1540</span>
+    <span class="timeline-tick" onclick="setEra(5)">1850</span>
+    <span class="timeline-tick" onclick="setEra(6)">1940</span>
+    <span class="timeline-tick" onclick="setEra(7)">Today</span>
+  </div>
+</div>
+
+
+<div id="bottom-toolbar" style="position:fixed;bottom:52px;left:12px;z-index:1100;display:flex;gap:8px;align-items:center;">
+<button class="tribe-panel-toggle" style="position:static;" onclick="openLangPanel()"><span class="btn-icon">🗣️</span> Language Encyclopedia</button>
+<button class="tribe-panel-toggle" style="position:static;" onclick="openTribePanel()"><span class="btn-icon">📜</span> Tribal Encyclopedia</button>
+</div>
+
+<div class="tribe-panel" id="lang-panel" style="z-index:1002;">
+  <button class="tribe-panel-close" onclick="document.getElementById('lang-panel').classList.remove('open')">&times;</button>
+  <div class="tribe-header">
+    <h2>🗣️ Language Encyclopedia</h2>
+    <p>California's indigenous language families — deep history, distribution & the Hokan-Penutian story</p>
+  </div>
+  <input type="text" id="lang-search" placeholder="Search languages..." style="width:100%;padding:8px 12px;border:1px solid #444;border-radius:6px;background:#2a2a2a;color:#eee;margin-bottom:12px;font-size:13px;" oninput="filterLangs(this.value)">
+  <div id="lang-list"></div>
+</div>
+<div class="tribe-panel" id="tribe-panel">
+  <button class="tribe-panel-close" onclick="closeTribePanel()">&times;</button>
+  <div class="tribe-header">
+    <h2>&#x1F3DB; Tribal Encyclopedia</h2>
+    <p>Indigenous peoples of the mapped region — territory, timeline & villages</p>
+  </div>
+  <input class="tribe-search" id="tribe-search" type="text" placeholder="Search tribes..." oninput="filterTribes(this.value)">
+  <div class="tribe-list" id="tribe-list"></div>
+</div>
+</body>
+<script src="js/01-core.js"></script>
+<script src="js/02-icons.js"></script>
+<script src="js/03-water-features.js"></script>
+<script src="js/04-southwest-sites.js"></script>
+<script src="js/05-eastbay-sites.js"></script>
+<script src="js/06-rockart-pcn.js"></script>
+<script src="js/07-springs-trade.js"></script>
+<script src="js/08-bayarea-shellmounds.js"></script>
+<script src="js/09-territories.js"></script>
+<script src="js/10-greatbasin.js"></script>
+<script src="js/11-marin-waterways.js"></script>
+<script src="js/12-lang-encyclopedia.js"></script>
+<script src="js/13-bayfill-history.js"></script>
+<script src="js/14-richardson-bay.js"></script>
+<script src="js/15-land-grants.js"></script>
+<script src="js/16-timeline.js"></script>
+<script src="js/17-region-nav.js"></script>
+<script src="js/18-southcentral-rockart.js"></script>
+<script src="js/19-tribal-encyclopedia.js"></script>
+</html>
