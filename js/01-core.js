@@ -58,6 +58,9 @@ layerNames.forEach(n => { L_groups[n] = (n === 'eastBaySites') ? L.markerCluster
 
 function toggle(name) { map.hasLayer(L_groups[name]) ? map.removeLayer(L_groups[name]) : L_groups[name].addTo(map); }
 
+// Layers hidden by default (too large or distracting at overview zoom)
+['lakeCorcoran'].forEach(n => { if(L_groups[n]) map.removeLayer(L_groups[n]); });
+
 // Basemap switching
 const baseMaps = { terrain, satellite, dark: darkMap };
 let activeBase = 'terrain';
