@@ -284,17 +284,4 @@ beadRange.bindPopup(`
 
 
 // ===== LEGEND =====
-const tnLegend = L.control({position:'bottomleft'});
-tnLegend.onAdd = function(){
-  const d = L.DomUtil.create('div','legend');
-  d.style.cssText = 'background:rgba(30,30,30,0.92);padding:10px 14px;border-radius:6px;color:#ccc;font:11px "Source Sans Pro",sans-serif;border:1px solid rgba(255,213,79,0.25);';
-  d.innerHTML = '<div style="font-weight:700;color:#FFD54F;margin-bottom:5px;">Chumash Trade Network</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+TN_BLUE+'">- - -</span> Tomol Sea Routes</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+TN_OBSIDIAN+'">- - -</span> Obsidian Trade (~300 km)</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+TN_GOLD+'">●</span> Shell Bead Mint / Money</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+TN_OBSIDIAN+'">◆</span> Obsidian Sources</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+TN_TAR+'">■</span> Asphaltum Sources</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+TN_HUB+'">●</span> Trade Hubs</div>';
-  return d;
-};
-tnLegend.addTo(map);
+// Legend removed — integrated into culture-based layer panel

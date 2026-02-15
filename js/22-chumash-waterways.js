@@ -349,23 +349,4 @@ sacredWaters.forEach(s => {
 
 
 // ===== WATERWAYS LEGEND =====
-const waterLegend = L.control({position:'bottomleft'});
-waterLegend.onAdd = function(){
-  const d = L.DomUtil.create('div','info legend');
-  d.style.cssText = 'background:rgba(20,20,20,0.88);padding:8px 10px;border-radius:6px;color:#ccc;font:11px "Source Sans Pro",sans-serif;line-height:1.7;max-width:200px;';
-  d.innerHTML =
-    '<b style="color:#E65100;">Chumash Waterways</b><br>' +
-    '<span style="display:inline-block;width:18px;height:3px;background:#26C6DA;margin-right:4px;vertical-align:middle;"></span> Rivers & creeks<br>' +
-    '<span style="display:inline-block;width:18px;height:3px;background:#4DD0E1;margin-right:4px;vertical-align:middle;"></span> Free-flowing<br>' +
-    '<span style="display:inline-block;width:8px;height:8px;background:#EF5350;margin-right:4px;vertical-align:middle;border-radius:2px;"></span> Dams<br>' +
-    '<span style="display:inline-block;width:8px;height:8px;background:#FFA726;margin-right:4px;vertical-align:middle;border-radius:2px;"></span> Dams slated for removal<br>' +
-    '<span style="display:inline-block;width:8px;height:8px;background:#AB47BC;margin-right:4px;vertical-align:middle;border-radius:50%;"></span> Diversions<br>' +
-    '<span style="display:inline-block;width:8px;height:8px;background:#66BB6A;margin-right:4px;vertical-align:middle;border-radius:50%;"></span> Sacred springs<br>' +
-    '<span style="display:inline-block;width:8px;height:8px;background:#42A5F5;margin-right:4px;vertical-align:middle;border-radius:50%;"></span> Estuaries & lagoons';
-  return d;
-};
-waterLegend.addTo(map);
-
-// Hide/show legend with layer
-map.on('overlayremove', function(e){ if(e.name==='chumashWaterways') waterLegend.remove(); });
-map.on('overlayadd', function(e){ if(e.name==='chumashWaterways') waterLegend.addTo(map); });
+// Legend removed — integrated into culture-based layer panel

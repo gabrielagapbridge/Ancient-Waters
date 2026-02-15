@@ -217,60 +217,6 @@ interactionZones.forEach(z => {
   }).addTo(L_groups.scRockArt).bindPopup(`<div style="max-width:320px;"><h4 style="color:${z.color};margin:0 0 6px;">🎭 ${z.name}</h4><div style="font-size:12px;color:#ccc;line-height:1.5;">${z.desc}</div><div style="font-size:10px;color:#888;margin-top:4px;">Source: Lee & Hyder 1991</div></div>`, {maxWidth:340});
 });
 
-// --- ROCK ART PIGMENT LEGEND (as a map control) ---
-const pigmentLegendControl = L.control({position: 'bottomleft'});
-pigmentLegendControl.onAdd = function() {
-  const div = L.DomUtil.create('div', '');
-  div.id = 'pigment-legend';
-  div.style.cssText = 'background:rgba(20,20,40,0.92);padding:8px 12px;border-radius:8px;border:1px solid rgba(255,87,34,0.3);font-family:Source Sans Pro,sans-serif;display:none;max-width:200px;margin-bottom:8px;';
-  div.innerHTML = '<div style="color:#FF5722;font-weight:700;font-size:11px;margin-bottom:4px;cursor:pointer;user-select:none;" onclick="var b=this.nextElementSibling;b.style.display=b.style.display===\'none\'?\'block\':\'none\';this.querySelector(\'span\').textContent=b.style.display===\'none\'?\'▶\':\'▼\'">Pigment Sources <span style="float:right;font-size:9px;">▶</span></div>' +
-    '<div style="font-size:9px;color:#ccc;line-height:1.6;display:none;">' +
-    '<span style="color:#E53935;">■</span> <b>Red:</b> Hematite (iron oxide/red ochre)<br>' +
-    '<span style="color:#212121;">■</span> <b>Black:</b> Charcoal or manganese oxide<br>' +
-    '<span style="color:#EEEEEE;">■</span> <b>White:</b> Gypsum, clay, or diatomaceous earth<br>' +
-    '<span style="color:#FDD835;">■</span> <b>Yellow:</b> Limonite (yellow ochre) — extensive Yokuts use<br>' +
-    '<span style="color:#4CAF50;">■</span> <b>Green:</b> Unique earth pigment — Kawaiisu only<br>' +
-    '<span style="color:#00ACC1;">■</span> <b>Blue-green:</b> Azurite/malachite? — Chumash only<br>' +
-    '<div style="margin-top:4px;border-top:1px solid rgba(255,255,255,0.1);padding-top:4px;">' +
-    '<b>Binders:</b> Water, animal fat, plant juices<br>' +
-    '<b>Brushes:</b> Rodent-tail hair, yucca fiber, fingers<br>' +
-    '<b>Applied to:</b> Sandstone, granite shelters</div></div>';
-  return div;
-};
-pigmentLegendControl.addTo(map);
-
-// Rock Art Classification Legend
-const rockArtLegendControl = L.control({position: 'bottomright'});
-rockArtLegendControl.onAdd = function() {
-  const div = L.DomUtil.create('div', '');
-  div.id = 'rockart-legend';
-  div.style.cssText = 'background:rgba(20,20,40,0.92);padding:8px 12px;border-radius:8px;border:1px solid rgba(255,107,53,0.3);font-family:Source Sans Pro,sans-serif;max-width:220px;margin-bottom:8px;';
-  div.innerHTML =
-    '<div style="color:#FF6B35;font-weight:700;font-size:11px;margin-bottom:4px;cursor:pointer;user-select:none;" onclick="var b=this.nextElementSibling;b.style.display=b.style.display===\'none\'?\'block\':\'none\';this.querySelector(\'span\').textContent=b.style.display===\'none\'?\'▶\':\'▼\'">Rock Art Legend <span style="float:right;font-size:9px;">▼</span></div>' +
-    '<div style="font-size:9px;color:#ccc;line-height:1.7;">' +
-    '<div style="margin-bottom:2px;font-weight:600;color:#aaa;">By Tradition:</div>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#D32F2F;margin-right:4px;vertical-align:middle;"></span> PCN (pre-contact, 3k–8k BP)<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FF6B35;margin-right:4px;vertical-align:middle;"></span> Bay Area (tribal-era)<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FF7043;margin-right:4px;vertical-align:middle;"></span> Great Basin (Heizer & Baumhoff)<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FF5722;margin-right:4px;vertical-align:middle;"></span> South-Central CA (Lee & Hyder)<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FF6B9D;margin-right:4px;vertical-align:middle;"></span> Joshua Tree<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FFD600;margin-right:4px;vertical-align:middle;"></span> Winnemucca (oldest in N. Am.)<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FFB300;margin-right:4px;vertical-align:middle;"></span> Martis Style 7 (N. Sierra Nevada)<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#E65100;margin-right:4px;vertical-align:middle;"></span> Chumash Sacred Landscapes<br>' +
-    '<div style="margin:4px 0 2px;border-top:1px solid rgba(255,255,255,0.1);padding-top:4px;font-weight:600;color:#aaa;">By Type:</div>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#FF6B35;margin-right:4px;vertical-align:middle;"></span> Petroglyph (carved) — solid<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:transparent;border:2px solid #FF6B35;margin-right:4px;vertical-align:middle;"></span> Pictograph (painted) — ring<br>' +
-    '<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:linear-gradient(135deg,#FF6B35 50%,transparent 50%);border:2px solid #FF6B35;margin-right:4px;vertical-align:middle;"></span> Both — half<br>' +
-    '</div>';
-  return div;
-};
-rockArtLegendControl.addTo(map);
-
-// Show/hide pigment legend with scRockArt layer
-map.on('overlayadd overlayremove layeradd layerremove', function() {
-  const el = document.getElementById('pigment-legend');
-  if (el) el.style.display = map.hasLayer(L_groups.scRockArt) ? 'block' : 'none';
-});
-document.getElementById('pigment-legend').style.display = 'block';
+// Legends removed — integrated into culture-based layer panel
 
 

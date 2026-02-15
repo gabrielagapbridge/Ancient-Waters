@@ -314,15 +314,4 @@ statsMarker.bindPopup(`
 
 
 // ===== LEGEND =====
-const lwLegend = L.control({position:'bottomleft'});
-lwLegend.onAdd = function(){
-  const d = L.DomUtil.create('div','legend');
-  d.style.cssText = 'background:rgba(30,30,30,0.92);padding:10px 14px;border-radius:6px;color:#ccc;font:11px "Source Sans Pro",sans-serif;border:1px solid rgba(239,83,80,0.25);';
-  d.innerHTML = '<div style="font-weight:700;color:#EF5350;margin-bottom:5px;">Lost Chumash Waters</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+LW_RED+'">✕</span> Destroyed / Gone</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+LW_ORANGE+'">◆</span> Severely Degraded</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+LW_GREEN+'">○</span> Restoring</div>' +
-    '<div style="margin:3px 0;"><span style="color:'+LW_GHOST+'">- - -</span> Ghost — Historical Extent</div>';
-  return d;
-};
-lwLegend.addTo(map);
+// Legend removed — integrated into culture-based layer panel
