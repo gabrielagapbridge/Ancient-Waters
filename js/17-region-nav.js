@@ -8,10 +8,12 @@ function flyTo(region) {
     bayarea: [37.78, -122.25, 10],
     centralvalley: [36.0, -119.5, 7],
     owensvalley: [36.8, -117.8, 8],
-    eastbay: [37.75, -121.9, 10]
+    eastbay: [37.75, -121.9, 10],
+    chumash: [34.35, -119.5, 9]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});
+  if (typeof expandCulturesForRegion === 'function') expandCulturesForRegion(region);
 }
 
 // Loading

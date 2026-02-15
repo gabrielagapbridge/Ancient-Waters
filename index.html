@@ -32,6 +32,7 @@
   <button class="region-btn" onclick="flyTo('centralvalley')">Central Valley</button>
   <button class="region-btn" onclick="flyTo('owensvalley')">Owens Valley</button>
   <button class="region-btn" onclick="flyTo('eastbay')">East Bay Hills</button>
+  <button class="region-btn" onclick="flyTo('chumash')">Chumash Coast</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -74,70 +75,160 @@
     </div>
   </div>
 
-  <div class="layer-section">
-    <div class="layer-section-title">Pre-Contact Water</div>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ancientRivers')"><span style="color:var(--turquoise)">Free-flowing rivers</span></label>
+  <!-- ============ CULTURE SECTIONS ============ -->
+
+  <!-- CHUMASH -->
+  <div class="culture-section" id="culture-chumash" data-regions="overview southwest chumash">
+    <div class="culture-header" onclick="toggleCulture('chumash')">
+      <div class="culture-color-bar" style="background:#E65100;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Chumash</div>
+        <div class="culture-meta">Channel Coast & Islands · ~13,000 BP – contact</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('chumash',this.checked)" title="Toggle all Chumash layers">
+      <span class="culture-arrow" id="arrow-chumash">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-chumash">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('chumashVillages')"><span style="color:#FFAB40">Villages — 45+ settlements</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('chumashWaterways')"><span style="color:#26C6DA">Waterways — rivers, dams & sacred waters</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('chumashSacred')"><span style="color:#E65100">Sacred landscapes & rock art</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('lostWaters')"><span style="color:#EF5350">Lost waters — what was taken</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tradeNetwork')"><span style="color:#FFD54F">Trade network — shell money & obsidian</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('scRockArt')"><span style="color:#FF5722">South-Central rock art (shared region)</span></label>
+    </div>
+  </div>
+
+  <!-- COAST MIWOK & NORTH BAY -->
+  <div class="culture-section" id="culture-coastmiwok" data-regions="bayarea">
+    <div class="culture-header" onclick="toggleCulture('coastmiwok')">
+      <div class="culture-color-bar" style="background:#FF6B35;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Coast Miwok & North Bay</div>
+        <div class="culture-meta">Marin & Sonoma Coast · ~6000 BCE – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('coastmiwok',this.checked)" title="Toggle all Coast Miwok layers">
+      <span class="culture-arrow" id="arrow-coastmiwok">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-coastmiwok">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('shellmounds')"><span style="color:var(--shellmound)">Villages & shellmounds</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('marinCreeks')"><span style="color:#26C6DA">Waterways — Marin County creeks</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('historicShoreline')"><span style="color:#FF6D00">Richardson Bay marshes & land grants</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('langTerritories')"><span style="color:#AB47BC">Language territories</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayMissions')"><span style="color:var(--bay-mission)">Bay Area missions</span></label>
+    </div>
+  </div>
+
+  <!-- BAY MIWOK & OHLONE -->
+  <div class="culture-section" id="culture-bayohlone" data-regions="bayarea eastbay">
+    <div class="culture-header" onclick="toggleCulture('bayohlone')">
+      <div class="culture-color-bar" style="background:#9B59B6;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Bay Miwok & Ohlone</div>
+        <div class="culture-meta">East Bay & SF Peninsula · ~9800 BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('bayohlone',this.checked)" title="Toggle all Bay Miwok/Ohlone layers">
+      <span class="culture-arrow" id="arrow-bayohlone">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-bayohlone">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('eastBaySites')"><span style="color:var(--eastbay)">East Bay Hills — 289 sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('shellmounds')"><span style="color:var(--shellmound)">Ohlone shellmounds</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayFill')"><span style="color:var(--bay-fill)">Bay fill — lost shoreline</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('constructionFinds')"><span style="color:var(--construction)">Construction discoveries</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('buriedCreeks')"><span style="color:var(--buried-creek)">Buried / lost creeks</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayMiwokTribelets')"><span style="color:#64B5F6">Bay Miwok tribelets</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('rockArt')"><span style="color:var(--rock-art)">PCN rock art (3,000–8,000 BP)</span></label>
+    </div>
+  </div>
+
+  <!-- YOKUTS & NEIGHBORS -->
+  <div class="culture-section" id="culture-yokuts" data-regions="centralvalley">
+    <div class="culture-header" onclick="toggleCulture('yokuts')">
+      <div class="culture-color-bar" style="background:#FFB74D;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Yokuts & Neighbors</div>
+        <div class="culture-meta">Central Valley & Sierra Foothills · ~10,000 BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('yokuts',this.checked)" title="Toggle all Yokuts layers">
+      <span class="culture-arrow" id="arrow-yokuts">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-yokuts">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('centralValleyLakes')"><span style="color:#4FC3F7">Lost lakes — Tulare, Buena Vista, Kern</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('lakeCorcoran')"><span style="color:#1565C0">Lake Corcoran — Inland Sea (~600,000 BP)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yokutsTerr')"><span style="color:#FFB74D">Northern Valley Yokuts territory</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('sValleyYokuts')"><span style="color:#FFA726">Southern Valley Yokuts territory</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('foothillYokuts')"><span style="color:#8D6E63">Foothill Yokuts territory</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yokutsNeighbors')"><span style="color:#CE93D8">Neighbors (Mono, Kawaiisu, Tübatulabal, Kitanemuk)</span></label>
+    </div>
+  </div>
+
+  <!-- SOUTHWEST PEOPLES -->
+  <div class="culture-section" id="culture-southwest" data-regions="southwest jtree">
+    <div class="culture-header" onclick="toggleCulture('southwest')">
+      <div class="culture-color-bar" style="background:#D84315;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Southwest Peoples</div>
+        <div class="culture-meta">Puebloan, Hohokam, Sinagua & more · ~1500 BCE – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('southwest',this.checked)" title="Toggle all Southwest layers">
+      <span class="culture-arrow" id="arrow-southwest">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-southwest">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('swSites')"><span style="color:var(--pueblo)">Pueblos & villages</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('hohokamCanals')"><span style="color:var(--canal-gold)">Hohokam canals</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('springs')"><span style="color:var(--spring)">Sacred springs</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('cienegas')"><span style="color:var(--cienega)">Lost ciénegas — desert wetlands</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('spanishSites')"><span style="color:var(--spanish)">Spanish colonial encounters</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('jtreeSites')"><span style="color:var(--jtree)">Joshua Tree rock art</span></label>
+    </div>
+  </div>
+
+  <!-- GREAT BASIN PEOPLES -->
+  <div class="culture-section" id="culture-greatbasin" data-regions="owensvalley jtree">
+    <div class="culture-header" onclick="toggleCulture('greatbasin')">
+      <div class="culture-color-bar" style="background:#FF7043;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Great Basin Peoples</div>
+        <div class="culture-meta">Paiute, Shoshone, Washoe · ~14,800 BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('greatbasin',this.checked)" title="Toggle all Great Basin layers">
+      <span class="culture-arrow" id="arrow-greatbasin">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-greatbasin">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('greatBasinRockArt')"><span style="color:#FF7043">Rock art — Coso, Lagomarsino & 15+ sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('owensChain')"><span style="color:#29B6F6">Owens River cascade</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('waterDiversions')"><span style="color:#EF5350">Water diversions & aqueducts</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pluvialLakes')"><span style="color:#1E88E5">Pleistocene pluvial lakes</span></label>
+    </div>
+  </div>
+
+  <!-- NORTHERN SIERRA -->
+  <div class="culture-section" id="culture-sierra" data-regions="overview">
+    <div class="culture-header" onclick="toggleCulture('sierra')">
+      <div class="culture-color-bar" style="background:#FFB300;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Northern Sierra</div>
+        <div class="culture-meta">Martis Complex / Style 7 · ~4000–1500 BP</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('sierra',this.checked)" title="Toggle all Northern Sierra layers">
+      <span class="culture-arrow" id="arrow-sierra">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-sierra">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('martisRockArt')"><span style="color:#FFB300">Style 7 petroglyphs — 41 sites</span></label>
+    </div>
+  </div>
+
+  <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
+  <div class="layer-section" style="margin-top:6px;">
+    <div class="layer-section-title">Landscape & Environment</div>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ancientRivers')"><span style="color:var(--turquoise)">Pre-dam rivers</span></label>
     <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ancientLakes')"><span style="color:rgba(64,224,208,0.7)">Ancient / pluvial lakes</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('hohokamCanals')"><span style="color:var(--canal-gold)">Hohokam canals</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('springs')"><span style="color:var(--spring)">Springs & sacred water</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('cienegas')"><span style="color:var(--cienega)">Lost ciénegas</span></label>
-  </div>
-
-  <div class="layer-section">
-    <div class="layer-section-title">Lost Lakes & Ancient Waters</div>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('lakeCorcoran')"><span style="color:#1565C0">Lake Corcoran — Inland Sea (~600,000 BP)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('centralValleyLakes')"><span style="color:#4FC3F7">Central Valley lost lakes (Tulare / Buena Vista / Kern)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('owensChain')"><span style="color:#29B6F6">Owens River cascade (7-lake chain to Death Valley)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('waterDiversions')"><span style="color:#EF5350">Water diversions & aqueducts</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pluvialLakes')"><span style="color:#1E88E5">Pleistocene pluvial lakes</span></label>
-  </div>
-
-  <div class="layer-section">
-    <div class="layer-section-title">Culture & Connection</div>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tradeRoutes')"><span style="color:var(--trade)">Trade routes</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('rockArt')"><span style="color:var(--rockart)">Rock art style regions</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('spanishSites')"><span style="color:var(--spanish)">Spanish colonial sites</span></label>
-  </div>
-
-  <div class="layer-section">
-    <div class="layer-section-title">Modern Changes</div>
     <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modernDams')"><span style="color:var(--accent-red)">Major dams</span></label>
     <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modernReservoirs')"><span style="color:rgba(33,150,243,0.7)">Reservoirs</span></label>
     <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('lostRivers')"><span style="color:rgba(193,68,14,0.8)">Dried / diverted rivers</span></label>
     <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modernInfra')"><span style="color:#3498DB">CAP canal & infrastructure</span></label>
-  </div>
-
-  <div class="layer-section">
-    <div class="layer-section-title">Indigenous Sites</div>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('swSites')"><span style="color:var(--pueblo)">SW pueblos & villages</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('jtreeSites')"><span style="color:var(--jtree)">Joshua Tree rock art</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('rockArt')"><span style="color:var(--rock-art)">Rock art sites (PCN / petroglyphs / pictographs)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('scRockArt')"><span style="color:#FF5722">South-Central CA Rock Art (Lee & Hyder 1991)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('martisRockArt')"><span style="color:#FFB300">Martis Style 7 Rock Art (Northern Sierra Nevada)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('chumashSacred')"><span style="color:#E65100">Chumash Sacred Landscapes & Rock Art</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('chumashWaterways')"><span style="color:#26C6DA">Chumash Waterways — Rivers, Dams & Sacred Waters</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('chumashVillages')"><span style="color:#FFAB40">Chumash Villages — 45+ Named Settlements</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('lostWaters')"><span style="color:#EF5350">Lost Chumash Waters — What Was Taken</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tradeNetwork')"><span style="color:#FFD54F">Chumash Trade Network — Shell Money & Obsidian</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('langTerritories')"><span style="color:#AB47BC">Language family territories</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('languageZones')"><span style="color:#AB47BC">Language family territories (Hokan / Penutian / Yukian)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayMiwokTribelets')"><span style="color:#64B5F6">Bay Miwok tribelets (Mt. Diablo region)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yokutsTerr')"><span style="color:#FFB74D">Northern Valley Yokuts (San Joaquin Valley)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('sValleyYokuts')"><span style="color:#FFA726">Southern Valley Yokuts (Tulare Lake region)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('foothillYokuts')"><span style="color:#8D6E63">Foothill Yokuts (Sierra Nevada foothills)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yokutsNeighbors')"><span style="color:#CE93D8">Yokuts neighbors (Mono / Miwok / Chumash / Kawaiisu / Tubatulabal / Kitanemuk)</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('eastBaySites')"><span style="color:var(--eastbay)">East Bay Hills sites</span></label>
-  </div>
-
-  <div class="layer-section">
-    <div class="layer-section-title">Bay Area Deep History</div>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('shellmounds')"><span style="color:var(--shellmound)">Ohlone shellmounds</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('buriedCreeks')"><span style="color:var(--buried-creek)">Buried / lost creeks</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('marinCreeks')"><span style="color:#26C6DA">Marin County waterways</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayFill')"><span style="color:var(--bay-fill)">Bay fill zones</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('constructionFinds')"><span style="color:var(--construction)">Construction discoveries</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bayMissions')"><span style="color:var(--bay-mission)">Bay Area missions</span></label>
-    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('historicShoreline')"><span style="color:#FF6D00">Fill zones / lost shoreline</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tradeRoutes')"><span style="color:var(--trade)">Historic trade routes</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('languageZones')"><span style="color:#AB47BC">Language family territories</span></label>
+    <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('rockArt')"><span style="color:var(--rockart)">Rock art style regions</span></label>
   </div>
 
   </div>

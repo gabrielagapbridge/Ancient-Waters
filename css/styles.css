@@ -292,6 +292,58 @@
     content: '✓'; position: absolute; top: -2px; left: 1px; font-size: 10px; color: white;
   }
 
+  /* Culture-based sections */
+  .culture-section {
+    margin-bottom: 2px; border-radius: 5px;
+    border: 1px solid rgba(193,154,107,0.08);
+    overflow: hidden;
+  }
+  .culture-header {
+    display: flex; align-items: center; gap: 6px;
+    padding: 7px 8px; cursor: pointer; user-select: none;
+    background: rgba(193,154,107,0.04);
+    transition: background 0.2s;
+    position: relative;
+  }
+  .culture-header:hover { background: rgba(193,154,107,0.1); }
+  .culture-color-bar {
+    width: 3px; height: 28px; border-radius: 2px; flex-shrink: 0;
+  }
+  .culture-header-text { flex: 1; min-width: 0; }
+  .culture-name {
+    font-family: 'Cinzel', serif; font-size: 11px; font-weight: 600;
+    color: var(--sand); letter-spacing: 0.5px; line-height: 1.2;
+  }
+  .culture-meta {
+    font-size: 9px; color: var(--text-dim); line-height: 1.3; margin-top: 1px;
+  }
+  .culture-master {
+    appearance: none; width: 11px; height: 11px;
+    border: 1.5px solid var(--text-dim); border-radius: 2px;
+    cursor: pointer; position: relative; flex-shrink: 0;
+  }
+  .culture-master:checked { background: var(--water-ancient); border-color: var(--turquoise); }
+  .culture-master:checked::after {
+    content: '✓'; position: absolute; top: -2px; left: 0.5px; font-size: 9px; color: white;
+  }
+  .culture-arrow {
+    color: var(--text-dim); font-size: 10px; flex-shrink: 0;
+    transition: transform 0.25s ease;
+  }
+  .culture-arrow.open { transform: rotate(90deg); }
+  .culture-layers {
+    max-height: 0; overflow: hidden; padding: 0 8px 0 18px;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+  }
+  .culture-layers.open {
+    max-height: 400px; padding: 4px 8px 8px 18px;
+  }
+  .culture-layers .layer-toggle { font-size: 11px; margin-bottom: 2px; }
+  .culture-section.expanded {
+    border-color: rgba(193,154,107,0.18);
+    background: rgba(193,154,107,0.02);
+  }
+
   /* Stats bar */
   .stats-bar {
     position: fixed; top: 65px; left: 12px; z-index: 1000;

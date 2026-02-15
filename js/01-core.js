@@ -77,3 +77,37 @@ function toggleLayerPanel() {
   arrow.classList.toggle('collapsed');
 }
 
+// ===== CULTURE SECTION ACCORDION =====
+function toggleCulture(id) {
+  const layers = document.getElementById('layers-' + id);
+  const arrow = document.getElementById('arrow-' + id);
+  const section = document.getElementById('culture-' + id);
+  const isOpen = layers.classList.contains('open');
+  layers.classList.toggle('open');
+  arrow.classList.toggle('open');
+  section.classList.toggle('expanded');
+}
+
+function toggleCultureAll(id, checked) {
+  const container = document.getElementById('layers-' + id);
+  container.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+    if (cb.checked !== checked) { cb.checked = checked; cb.onchange(); }
+  });
+}
+
+// Auto-expand culture sections when region nav is clicked
+function expandCulturesForRegion(regionId) {
+  document.querySelectorAll('.culture-section').forEach(section => {
+    const regions = (section.dataset.regions || '').split(' ');
+    const layers = section.querySelector('.culture-layers');
+    const arrow = section.querySelector('.culture-arrow');
+    if (regions.includes(regionId)) {
+      if (!layers.classList.contains('open')) {
+        layers.classList.add('open');
+        arrow.classList.add('open');
+        section.classList.add('expanded');
+      }
+    }
+  });
+}
+
