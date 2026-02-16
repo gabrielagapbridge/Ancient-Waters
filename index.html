@@ -352,6 +352,21 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-wappo" data-regions="overview sacvalley">
+    <div class="culture-header" onclick="toggleCulture('wappo')">
+      <div class="culture-color-bar" style="background:#8B008B;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Wappo, Shasta & Mt. Shasta</div>
+        <div class="culture-meta">Napa Valley & Upper Klamath · 4,000+ BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('wappo',this.checked)" title="Toggle all Wappo layers">
+      <span class="culture-arrow" id="arrow-wappo">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-wappo">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wappoVillages')"><span style="color:#8B008B">Villages, territories & obsidian sources</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -431,4 +446,5 @@
 <script src="js/31-klamath-trinity.js"></script>
 <script src="js/32-wintu-yana.js"></script>
 <script src="js/33-maidu.js"></script>
+<script src="js/34-wappo-shasta.js"></script>
 </html>
