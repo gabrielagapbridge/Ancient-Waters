@@ -34,6 +34,7 @@
   <button class="region-btn" onclick="flyTo('eastbay')">East Bay Hills</button>
   <button class="region-btn" onclick="flyTo('chumash')">Chumash Coast</button>
   <button class="region-btn" onclick="flyTo('lakecountry')">Lake Country</button>
+  <button class="region-btn" onclick="flyTo('russianriver')">Russian River</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -219,7 +220,7 @@
   </div>
 
   <!-- POMO & LAKE COUNTRY -->
-  <div class="culture-section" id="culture-pomo" data-regions="overview lakecountry">
+  <div class="culture-section" id="culture-pomo" data-regions="overview lakecountry russianriver">
     <div class="culture-header" onclick="toggleCulture('pomo')">
       <div class="culture-color-bar" style="background:#8D6E63;"></div>
       <div class="culture-header-text">
@@ -230,11 +231,15 @@
       <span class="culture-arrow" id="arrow-pomo">▸</span>
     </div>
     <div class="culture-layers" id="layers-pomo">
-      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoVillages')"><span style="color:#8D6E63">Villages & territory — Clear Lake basin</span></label>
-      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoWaterways')"><span style="color:#4FC3F7">Waterways — creeks & Cache Creek outlet</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoVillages')"><span style="color:#8D6E63">Clear Lake villages & territory</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoWaterways')"><span style="color:#4FC3F7">Clear Lake waterways</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoSacred')"><span style="color:#CE93D8">Sacred sites — Konocti, Borax Lake, Bloody Island</span></label>
-      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoLostWaters')"><span style="color:#EF5350">Lost wetlands — 84% destroyed</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoLostWaters')"><span style="color:#EF5350">Clear Lake lost wetlands</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoRockArt')"><span style="color:#FFB74D">Rock art — Baby Rocks & PCN sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoCoastalVillages')"><span style="color:#FFB74D">Russian River & Coast villages</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoCoastalWater')"><span style="color:#26C6DA">Russian River & tributaries</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoCoastalSacred')"><span style="color:#CE93D8">Coastal sacred sites — Metini, Tolay Lake</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoCoastalLost')"><span style="color:#EF5350">Lost waters — Lake Sonoma, Eel River diversion</span></label>
     </div>
   </div>
 
@@ -310,4 +315,5 @@
 <script src="js/24-lost-chumash-waters.js"></script>
 <script src="js/25-chumash-trade-network.js"></script>
 <script src="js/26-pomo-clear-lake.js"></script>
+<script src="js/27-pomo-russian-river.js"></script>
 </html>

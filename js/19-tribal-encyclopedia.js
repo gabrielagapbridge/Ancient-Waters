@@ -601,6 +601,36 @@ const tribalData = [
     villages: ["Elem (Rattlesnake Island — political/religious center)", "Koi Village (Indian Island — 300+ people, 8,000+ years)", "Kamdot (Anderson Island)", "Anderson Marsh settlements"],
     keyDates: "~14,000 BP: Earliest occupation at Anderson Marsh • ~5,000 BP: Elem community established, shell bead economy • 1832-33: Hudson's Bay Company trappers visit • 1851: Gibbs documents Elem; McKee treaty negotiations • 1856: Most Pomo forced to Mendocino Reservation; Koi allowed to stay as cheap labor • 1870-72: Koi attend Ghost Dance — return to find island stolen • 1872: Elem Indian Colony established • 1920s: Mercury mine waste bulldozed into lake • 2005: Bloody Island memorial",
     sources: "Barrett 1908; Gibbs 1853; Powers 1877; Praetzellis 1981; Parker 1994; Harrington 1948; White et al. 1994; Wolf Creek Archeology"
+  },
+  {
+    name: "Kashaya Pomo (Southwestern Pomo)",
+    altNames: "Kashia, 'People From the Top of the Land', 'Expert Gamblers'",
+    language: "Kashaya (Pomoan/Hokan)",
+    dialect: "Kashaya — the most viable of the seven Pomoan languages, with 10+ fluent speakers as of 2011",
+    timeStart: -12500, timeEnd: 2026, occupation: "12,500+ years",
+    territory: "Sonoma Coast — Gualala River to Duncan's Point, inland to Dry Creek confluence (~30 mi coast, ~30 mi inland)",
+    population: "~1,500 pre-contact; ~1,000 enrolled members today (Stewarts Point Rancheria)",
+    centerLat: 38.55, centerLng: -123.25, zoom: 11,
+    color: "#E57373",
+    description: "The Kashaya — 'People From the Top of the Land' — are the only Pomo group to live on the Pacific coast. The name 'Kashaya' ('expert gamblers') was given by a neighboring Pomo group. Their principal village Metini, near what became Fort Ross, was the site of a ceremonial assembly house. The Kashaya lived a sophisticated seasonal round: coastal camps in summer for shellfish, abalone, seaweed, and sea mammals; inland ridgetop villages in winter for acorns and game. The Kashaya's first prolonged contact with outsiders came in 1812 when Russian traders built Fort Ross — the Kashaya called the Russians 'undersea people' because their ships appeared to rise from the horizon. For 30 years, a tri-cultural community (Russian, Aleut, Kashaya) coexisted. UC Berkeley archaeologist Kent Lightfoot's 20-year excavation of Metini Village revealed how the Kashaya adapted Russian materials (working bottle glass with obsidian-knapping techniques) while maintaining their cultural landscape and dance house traditions. After the Russians left in 1841, the Kashaya fared better than many Pomo groups — their coastal remoteness spared them the worst of the Gold Rush violence. From the 1870s they lived on Charles Haupt's ranch near Stewarts Point (Haupt had married a Kashaya woman). In 2015, rancher Bill Richardson gifted his 700-acre farm to the tribe — the first coastal land the Kashaya had owned since 1915. Their roundhouse at Stewarts Point is still used for ceremonies.",
+    villages: ["Metini (Fort Ross area — principal village)", "Danaga (Salt Point coast)", "Gualala River villages", "Jenner area — river mouth seasonal camps", "Haupt Ranch villages (1870s–1915)", "Stewarts Point Rancheria"],
+    keyDates: "~12,500 BP: Earliest Kashaya presence on Sonoma Coast • 1812: Fort Ross established — Kashaya-Russian coexistence begins • 1841: Russians depart • 1870s: Kashaya settle at Haupt Ranch • 1915: Stewarts Point Rancheria established (41.5 acres inland) • 1983: Tillie Hardwick lawsuit restores terminated rancherias • 1998–2018: Lightfoot/UC Berkeley excavates Metini Village • 2015: 700-acre Kashia Coastal Reserve returned to tribe",
+    sources: "Barrett 1908; Lightfoot 2005/2018; Oswalt 1964; Fort Ross SHP; Kashia Band; Trust for Public Land"
+  },
+  {
+    name: "Southern Pomo",
+    altNames: "Gallinomero, Mihilakawna, Makahmo, Cainameros",
+    language: "Southern Pomo (Pomoan/Hokan)",
+    dialect: "Southern Pomo — preserves the greatest number of Proto-Pomo syllables. Critically endangered: 1 fluent speaker as of 2012",
+    timeStart: -5000, timeEnd: 2026, occupation: "7,000+ years",
+    territory: "Lower Russian River valley — Santa Rosa and Sebastopol north to Cloverdale, Dry Creek and Alexander Valleys",
+    population: "Several thousand pre-contact; today: Dry Creek (~900), Cloverdale, Lytton, Graton Rancheria members",
+    centerLat: 38.60, centerLng: -122.85, zoom: 10,
+    color: "#FFB74D",
+    description: "The Southern Pomo — also called Gallinomero — occupied the heart of the Russian River valley, the richest and most densely settled part of Pomo territory. They called the river Ashokawna ('east water place') or Bidapte ('big river'). The Laguna de Santa Rosa — a 30,000-acre freshwater wetland — was their ecological treasure, and the village of Batiklechawi at Sebastopol was its gateway. The Mihilakawna and Makahmo peoples of the Dry Creek area had settled by 500 CE. As the southernmost Pomo, they were the first to suffer European invasion. Spanish missionaries enslaved many Southern Pomo from the Santa Rosa Plain to Mission San Rafael (1821–1828). The Gold Rush brought devastating American settlement. The federal government forced relocation — remembered as the 'Death March.' The Dry Creek habitation area was flooded by Warm Springs Dam (1983) creating Lake Sonoma. Today, the Dry Creek Rancheria Band operates River Rock Casino and runs an active Southern Pomo language restoration program directed by Dr. Neil Alexander Walker (hired 2011). Elsie Allen (1899–1990), born at Cloverdale Rancheria, became one of the most celebrated Pomo basket weavers by defying the tradition of burying baskets with the dead — publishing 'Pomo Basketmaking' (1972) to preserve the art for future generations.",
+    villages: ["Batiklechawi (Sebastopol — head of Laguna)", "Hukabetawi (Santa Rosa)", "Ossokowi (Russian River near Geyserville)", "Makahmo (Dry Creek/Sulphur Creek)", "Kale (Cloverdale)", "Kalme (Russian River drainage)"],
+    keyDates: "~500 CE: Mihilakawna/Makahmo settlement at Dry Creek • 1821–1828: Spanish enslave Southern Pomo to Mission San Rafael • 1850s: American settlers claim 86,000 acres; forced relocations • 1899: Elsie Allen born at Cloverdale • 1915: Dry Creek Rancheria established (75 acres) • 1958: Rancheria terminated • 1983: Tillie Hardwick lawsuit; Lake Sonoma floods ancestral lands • 2011: Southern Pomo language program begins • 2013: Tribe secures cultural lease at Lake Sonoma",
+    sources: "Barrett 1908; Kroeber 1925; Oswalt field notes; Dry Creek Rancheria; Cloverdale Rancheria; Walker 2020"
   }
 ];
 
