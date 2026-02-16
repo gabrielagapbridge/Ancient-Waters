@@ -923,6 +923,44 @@ function locateTribe(i) {
   setTimeout(() => clearTerritoryOverlay(), 30000);
 }
 
+// === MATTOLE / LOST COAST ENTRIES ===
+const mattoleTribes = {
+  mattole: {
+    name: "Mattole (Mattóal / Ni'ekeni')",
+    territory: "Mattole River valley and coast near Cape Mendocino, southern Humboldt County",
+    language: "Mattole — Athabaskan (California Dene). Extinct ~1950s.",
+    population: "Pre-contact: ~2,500 (Mattole + Bear River combined, Baumhoff 1958). Kroeber estimated 500 Mattole alone.",
+    description: "The Mattole — called Ni'ekeni' ('The People') by themselves — occupied the Mattole River valley and the dramatic Lost Coast where the King Range plunges 4,000 feet to the Pacific in just three miles. They arrived in the region around the 16th century, though carbon dating shows continuous habitation for 6,000+ years. The Mattole were unique among Southern Athabaskans: their men tattooed their foreheads (other groups restricted facial tattooing to women), and they built houses with vertical walls and pitched roofs rather than the conical bark structures of their neighbors. With at least 60 villages along the Mattole River, their economy centered on salmon, supplemented by ocean resources — shellfish, sea lions, ocean fish. The Mattole Valley Treaty of Peace (1858) briefly paused settler violence, but the Bald Hills War destroyed their autonomy. The language was documented by Fang-Kuei Li in 1930; the last speaker died in the 1950s. Today, the Bear River Band of Rohnerville Rancheria (619 enrolled members) carries forward Mattole identity, and in 2020 held the first Salmon Return Ceremony at the Mattole River mouth in over a century.",
+    villages: ["~60 Mattole River villages (Baumhoff 1958)", "Petrolia area (river mouth/estuary)", "Honeydew area (middle valley)", "Upper North Fork Mattole"],
+    sources: "Li 1930; Nomland 1938; Elsasser 1978; Baumhoff 1958; Golla 2011"
+  },
+  wiyot: {
+    name: "Wiyot (Sulateluk)",
+    territory: "Humboldt Bay, lower Eel River, Bear River to Little River — southern Humboldt County",
+    language: "Wiyot — Algic family (related to Algonquian!). Last speaker died 1962. Revitalization underway.",
+    population: "Pre-contact: 3,000-5,000. Declined to ~200 after 1860 massacres, ~100 by 1910. Now ~600 enrolled (Wiyot Tribe) + 619 (Bear River Band).",
+    description: "The Wiyot are one of only two Algic-speaking peoples in California (along with the Yurok) — their language is related to Algonquian languages spoken thousands of miles away in the Great Lakes and Atlantic coast, suggesting an ancient migration or deep linguistic connection that remains debated. They occupied Humboldt Bay and surrounding waterways from time immemorial, with the island of Tuluwat at the center of their spiritual universe. The World Renewal Ceremony, held annually at Tuluwat for seven to ten days, was the cornerstone of Wiyot religious life — healers and ceremonial leaders were mostly women who received their powers on mountaintops at night. On February 26, 1860, settlers crossed Humboldt Bay and massacred 80-250 Wiyot, mostly women and children, with axes, knives, and clubs during the World Renewal Ceremony. Coordinated attacks hit Bear River, Eel River, and Mattole Valley the same day. Bret Harte, then a young newspaper editor, condemned the killings and was forced to flee. No one was ever prosecuted. In 2019, the city of Eureka formally returned Tuluwat Island — the first time a U.S. municipality voluntarily returned land to a tribe without legal compulsion. The World Renewal Ceremony has returned to the island.",
+    villages: ["Tuluwat (Indian Island — center of Wiyot world, returned 2019)", "Eureka area villages", "Table Bluff villages", "Eel River delta villages", "Bear River area (shared with Mattole)"],
+    sources: "Kroeber 1925; Nomland 1938; Loud 1918; Elsasser 1978; Northwestern California Genocide Project"
+  },
+  bearriver: {
+    name: "Bear River Band (Ni'ekeni')",
+    territory: "Bear River and coast near Cape Mendocino — boundary between Mattole and Wiyot",
+    language: "Bear River dialect of Mattole (Athabaskan). Documented by Goddard 1929.",
+    population: "Pre-contact: included in Mattole estimate. Listed as 23 in 1937. Now part of Rohnerville Rancheria (619 enrolled).",
+    description: "The Bear River people occupied the liminal zone between the Athabaskan Mattole and the Algic Wiyot — a cultural crossroads where two fundamentally different language families met. With at least 7 villages along Bear River, they were closely related to the Mattole linguistically but shared territory and intermarried with the Wiyot. Their villages — Tcalko', Chilsheck, Chilenche, Selsche'ech, Tlanko, Estakana, and Sehtla — were devastated in the coordinated massacres of February 1860. The Rohnerville Rancheria, established in 1910 for homeless landless Natives, was terminated in 1958 under the Rancheria Act. Federal recognition was restored in 1983 through the Tillie-Hardwick class action lawsuit. Today the Bear River Band of Rohnerville Rancheria (619 enrolled) includes Mattole, Wiyot, and Wailaki people. They operate the Bear River Casino Resort and in 2020 held a historic Salmon Return Ceremony at the Mattole River mouth, the first tribal ceremony there in over a century.",
+    villages: ["Tcalko'", "Chilsheck", "Chilenche", "Selsche'ech", "Tlanko", "Estakana", "Sehtla"],
+    sources: "Goddard 1929; Nomland 1938; Baumhoff 1958; bearriverrancheria.org"
+  }
+};
+
+// Register Mattole/Lost Coast tribes in encyclopedia search
+Object.entries(mattoleTribes).forEach(([key, tribe]) => {
+  if (typeof tribalEncyclopedia !== 'undefined') {
+    tribalEncyclopedia[key] = tribe;
+  }
+});
+
 // Clear territory overlay on map click
 map.on('click', function() { clearTerritoryOverlay(); });
 

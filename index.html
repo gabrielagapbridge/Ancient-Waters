@@ -36,6 +36,7 @@
   <button class="region-btn" onclick="flyTo('lakecountry')">Lake Country</button>
   <button class="region-btn" onclick="flyTo('russianriver')">Russian River</button>
   <button class="region-btn" onclick="flyTo('eelriver')">Eel River</button>
+  <button class="region-btn" onclick="flyTo('lostcoast')">Lost Coast</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -264,6 +265,25 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-mattole" data-regions="overview lostcoast">
+    <div class="culture-header" onclick="toggleCulture('mattole')">
+      <div class="culture-color-bar" style="background:#8B4513;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Mattole, Wiyot & Lost Coast</div>
+        <div class="culture-meta">Southern Humboldt · 6,000+ BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('mattole',this.checked)" title="Toggle all Mattole layers">
+      <span class="culture-arrow" id="arrow-mattole">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-mattole">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mattoleVillages')"><span style="color:#8B4513">Villages, territories & peoples</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mattoleWater')"><span style="color:#1E90FF">Waterways — Mattole, Bear, Humboldt Bay</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mattoleSacred')"><span style="color:#DC143C">Sacred sites — Tuluwat, King Range, Sally Bell</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mattoleLost')"><span style="color:#B22222">Massacres, collapse & termination</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mattoleModern')"><span style="color:#228B22">Modern tribes & restoration</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -338,4 +358,5 @@
 <script src="js/26-pomo-clear-lake.js"></script>
 <script src="js/27-pomo-russian-river.js"></script>
 <script src="js/28-yuki-eel-river.js"></script>
+<script src="js/29-mattole-lost-coast.js"></script>
 </html>
