@@ -382,7 +382,7 @@
     font-family: 'Crimson Pro', serif !important;
   }
   .leaflet-popup-tip { background: rgba(26,18,8,0.95) !important; }
-  .leaflet-popup-content { margin: 10px 14px !important; font-size: 13px !important; line-height: 1.5 !important; max-width: 300px; }
+  .leaflet-popup-content { margin: 10px 14px !important; font-size: 13px !important; line-height: 1.5 !important; max-width: 400px; }
   .leaflet-popup-content h4 { font-family: 'Cinzel', serif; color: var(--sand); font-size: 14px; margin-bottom: 4px; }
   .leaflet-popup-content .ptype { font-size: 9px; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 6px; display: block; }
   .pt-ancient { color: var(--turquoise); }
