@@ -335,16 +335,49 @@ L.circleMarker([39.85, -123.50], {
   Wailaki territory — borderlands with Yuki`
 ).addTo(L_groups.yukiRockArt);
 
-// Eel River Canyon Petroglyphs (Trinity County)
+// Slakaiya Rock / Eel River Canyon Petroglyphs (Trinity County)
+// Paper: Dan Foster & John Foster, "An Outstanding Petroglyph Site near the Eel River"
 L.circleMarker([40.05, -123.48], {
-  radius: 6, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.7,
+  radius: 7, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.8,
   weight: 2, pane: 'markerPane'
-}).bindPopup(`<b>Eel River Canyon Petroglyphs (CA-TRI-1)</b><br>
-  Rediscovered 1993 in remote Eel River Canyon, Trinity County<br>
-  First found 1913 by U.S. Government engineer — lost for 80 years<br>
-  Major site: 3 housepits, midden deposits, abundant artifacts<br>
-  <b>Two panels of petroglyphs: elaborate, superimposed elements in 6 discrete styles</b><br>
-  Wailaki/Lassik territory`
+}).bindPopup(`<b>Slakaiya Rock Petroglyphs (CA-TRI-1)</b><br>
+  Steep canyon on the main fork of the Eel River, Trinity County<br>
+  First discovered 1913 by O.W. Degen (Northwestern Pacific Railroad surveyor)<br>
+  <b>Lost for 80 years</b> — rediscovered 1993 by a state forester<br>
+  Major site: 3 housepits, midden deposits, abundant chipped & ground stone artifacts<br>
+  <b>Two panels of petroglyphs in 6 discrete styles spanning ~500–2,500 BP</b><br>
+  Largest panel: 253 cm wide × 150 cm tall<br>
+  Motifs: circles, linked diamonds, tally marks, abstract shapes<br>
+  Deeply incised lines superimposed over older designs — centuries of continuous use<br>
+  <b>Possible links to Wailaki female fertility rituals</b> (similar to Pomo practices)<br>
+  <i>Eel River Wailaki territory — paper by Dan Foster & John Foster (CDF/State Parks)</i>`
+).addTo(L_groups.yukiRockArt);
+
+// Coleman Creek Petroglyphs — unknown to archaeology until river trip discovery
+// Source: Jon Harman (DStretch), visited April 2012 with Pierre Pelet (BARARA)
+L.circleMarker([39.92, -123.45], {
+  radius: 5, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.7,
+  weight: 2, pane: 'markerPane'
+}).bindPopup(`<b>Coleman Creek Petroglyphs (Eel River)</b><br>
+  Discovered by a photographer on a river trip — <b>previously unknown to archaeologists</b><br>
+  "Many petroglyphs in a setting of beautiful meadows steeply sloping down to the Eel"<br>
+  Visited 2012 by Jon Harman (DStretch) & Pierre Pelet (Bay Area Rock Art Research Assoc.)<br>
+  Not yet formally documented by Dan Foster (Senior State Archaeologist, ret. 2012)<br>
+  Accessible only by river — remote Eel River canyon<br>
+  <i>Wailaki territory</i>`
+).addTo(L_groups.yukiRockArt);
+
+// Spyrock Station site — distinct from the Spyrock Road site (CA-MEN-1912)
+// Source: Paul Freeman (BARARA), visited by Harman & Pelet
+L.circleMarker([39.80, -123.45], {
+  radius: 5, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.65,
+  weight: 2, pane: 'markerPane'
+}).bindPopup(`<b>Spyrock Station Petroglyphs</b><br>
+  Distinct site from the Spyrock Road petroglyphs (CA-MEN-1912)<br>
+  Located near the former Spyrock railroad station on the Eel River<br>
+  Source: Paul Freeman (Bay Area Rock Art Research Association)<br>
+  Visited by Jon Harman & Pierre Pelet on Eel River trips<br>
+  <i>Wailaki/Yuki borderlands</i>`
 ).addTo(L_groups.yukiRockArt);
 
 // ========== LOST WATERS ==========
