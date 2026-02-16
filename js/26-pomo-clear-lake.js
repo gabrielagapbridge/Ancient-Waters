@@ -4,6 +4,13 @@
 
 (function(){
 
+// Create a custom pane for background polygons (territory, lake outline)
+// so they render below markers and don't intercept clicks
+if (!map.getPane('pomoBackgroundPane')) {
+  map.createPane('pomoBackgroundPane');
+  map.getPane('pomoBackgroundPane').style.zIndex = 350; // below overlayPane (400) and markerPane (600)
+}
+
 const POMO_COLORS = {
   village: '#8D6E63',    // warm brown
   sacred: '#CE93D8',     // lavender
@@ -25,7 +32,7 @@ L.polygon([
   [39.02, -122.84],[39.05, -122.85],[39.08, -122.85]
 ], {
   color: '#4FC3F7', weight:2, opacity:0.7, fillColor:'#4FC3F7', fillOpacity:0.15,
-  dashArray:'6,4'
+  dashArray:'6,4', pane:'pomoBackgroundPane'
 }).bindPopup(`<div style="max-width:340px;font-family:'Crimson Text',serif">
   <h3 style="color:#4FC3F7;margin:0 0 8px">Clear Lake — Xa-bati'n</h3>
   <p style="font-size:13px;color:#B0BEC5"><strong>"Water Big"</strong> (Eastern Pomo)</p>
@@ -183,7 +190,7 @@ L.polygon([
   [39.20, -123.00],[39.25, -123.00]
 ], {
   color: '#8D6E63', weight: 2, opacity: 0.6, fillColor: '#8D6E63',
-  fillOpacity: 0.08, dashArray: '8,6'
+  fillOpacity: 0.08, dashArray: '8,6', pane:'pomoBackgroundPane'
 }).bindPopup(`<div style="max-width:320px;font-family:'Crimson Text',serif">
   <h3 style="color:#8D6E63;margin:0 0 6px">Clear Lake Pomo Territory</h3>
   <p style="font-size:13px;color:#CFD8DC">Approximate territory of the <strong>Eastern, Southeastern, and Northern Pomo</strong> groups centered on Clear Lake. Boundaries from Barrett (1908) and Stewart (1940). The Eastern Pomo occupied Big Valley and the main lake shores; the Southeastern Pomo held the eastern arm (Rattlesnake Island, Indian Island, Anderson Island); the Northern Pomo held Upper Lake and Scotts Valley.</p>
