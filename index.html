@@ -33,6 +33,7 @@
   <button class="region-btn" onclick="flyTo('owensvalley')">Owens Valley</button>
   <button class="region-btn" onclick="flyTo('eastbay')">East Bay Hills</button>
   <button class="region-btn" onclick="flyTo('chumash')">Chumash Coast</button>
+  <button class="region-btn" onclick="flyTo('lakecountry')">Lake Country</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -215,6 +216,26 @@
     </div>
   </div>
 
+  <!-- POMO & LAKE COUNTRY -->
+  <div class="culture-section" id="culture-pomo" data-regions="overview lakecountry">
+    <div class="culture-header" onclick="toggleCulture('pomo')">
+      <div class="culture-color-bar" style="background:#8D6E63;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Pomo & Lake Country</div>
+        <div class="culture-meta">Clear Lake Basin · 14,000 BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('pomo',this.checked)" title="Toggle all Pomo layers">
+      <span class="culture-arrow" id="arrow-pomo">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-pomo">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoVillages')"><span style="color:#8D6E63">Villages & territory — Clear Lake basin</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoWaterways')"><span style="color:#4FC3F7">Waterways — creeks & Cache Creek outlet</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoSacred')"><span style="color:#CE93D8">Sacred sites — Konocti, Borax Lake, Bloody Island</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoLostWaters')"><span style="color:#EF5350">Lost wetlands — 84% destroyed</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('pomoRockArt')"><span style="color:#FFB74D">Rock art — Baby Rocks & PCN sites</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -286,4 +307,5 @@
 <script src="js/23-chumash-villages.js"></script>
 <script src="js/24-lost-chumash-waters.js"></script>
 <script src="js/25-chumash-trade-network.js"></script>
+<script src="js/26-pomo-clear-lake.js"></script>
 </html>

@@ -9,7 +9,8 @@ function flyTo(region) {
     centralvalley: [36.0, -119.5, 7],
     owensvalley: [36.8, -117.8, 8],
     eastbay: [37.75, -121.9, 10],
-    chumash: [34.35, -119.5, 9]
+    chumash: [34.35, -119.5, 9],
+    lakecountry: [39.0, -122.75, 11]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});
