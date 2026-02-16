@@ -64,7 +64,7 @@ const villages = [
 villages.forEach(v => {
   L.circleMarker([v.lat, v.lng], {
     radius: 7, fillColor: v.color, color: '#3E2723', weight: 1.5,
-    fillOpacity: 0.85
+    fillOpacity: 0.85, pane:'markerPane'
   }).bindPopup(`<div style="max-width:320px;font-family:'Crimson Text',serif">
     <h3 style="color:${v.color};margin:0 0 4px">${v.name}</h3>
     <p style="font-size:12px;color:#FFAB91;margin:0 0 6px">${v.sub}</p>
@@ -85,7 +85,7 @@ const sacred = [
 sacred.forEach(s => {
   L.circleMarker([s.lat, s.lng], {
     radius: 9, fillColor: s.color, color: '#4A148C', weight: 2,
-    fillOpacity: 0.75
+    fillOpacity: 0.75, pane:'markerPane'
   }).bindPopup(`<div style="max-width:340px;font-family:'Crimson Text',serif">
     <h3 style="color:${s.color};margin:0 0 6px">${s.name}</h3>
     <p style="font-size:13px;color:#CFD8DC">${s.desc}</p>
@@ -112,7 +112,7 @@ const waterways = [
 
 waterways.forEach(w => {
   L.polyline(w.coords, {
-    color: w.color, weight: 3, opacity: 0.8, dashArray: '8,4'
+    color: w.color, weight: 3, opacity: 0.8, dashArray: '8,4', pane:'pomoBackgroundPane'
   }).bindPopup(`<div style="max-width:320px;font-family:'Crimson Text',serif">
     <h3 style="color:${w.color};margin:0 0 6px">${w.name}</h3>
     <p style="font-size:13px;color:#CFD8DC">${w.desc}</p>
@@ -132,7 +132,7 @@ const lostWetlands = [
 lostWetlands.forEach(lw => {
   L.circleMarker([lw.lat, lw.lng], {
     radius: 8, fillColor: lw.color, color: '#B71C1C', weight: 2,
-    fillOpacity: 0.7, dashArray: '4,3'
+    fillOpacity: 0.7, dashArray: '4,3', pane:'markerPane'
   }).bindPopup(`<div style="max-width:340px;font-family:'Crimson Text',serif">
     <h3 style="color:${lw.color};margin:0 0 6px">${lw.name}</h3>
     <p style="font-size:13px;color:#CFD8DC">${lw.desc}</p>
@@ -145,7 +145,7 @@ lostWetlands.forEach(lw => {
 // Note: The island is now a hill — the lake receded and wetlands were drained
 L.circleMarker([39.1475, -122.865], {
   radius: 10, fillColor: POMO_COLORS.massacre, color: '#fff', weight: 2,
-  fillOpacity: 0.9
+  fillOpacity: 0.9, pane:'markerPane'
 }).bindPopup(`<div style="max-width:360px;font-family:'Crimson Text',serif">
   <h3 style="color:#EF5350;margin:0 0 4px">Bo-no-po-ti (Bloody Island)</h3>
   <p style="font-size:12px;color:#FFCDD2;margin:0 0 8px">"Old Island" / "Island Village" — Badon-napo-ti</p>
@@ -209,7 +209,7 @@ const rancherias = [
 rancherias.forEach(r => {
   L.circleMarker([r.lat, r.lng], {
     radius: 5, fillColor: '#A5D6A7', color: '#2E7D32', weight: 1.5,
-    fillOpacity: 0.8
+    fillOpacity: 0.8, pane:'markerPane'
   }).bindPopup(`<div style="max-width:280px;font-family:'Crimson Text',serif">
     <h3 style="color:#A5D6A7;margin:0 0 6px">${r.name}</h3>
     <p style="font-size:12px;color:#81C784;margin:0 0 4px">Modern Rancheria (present day)</p>
