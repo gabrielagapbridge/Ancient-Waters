@@ -35,6 +35,7 @@
   <button class="region-btn" onclick="flyTo('chumash')">Chumash Coast</button>
   <button class="region-btn" onclick="flyTo('lakecountry')">Lake Country</button>
   <button class="region-btn" onclick="flyTo('russianriver')">Russian River</button>
+  <button class="region-btn" onclick="flyTo('eelriver')">Eel River</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -243,6 +244,26 @@
     </div>
   </div>
 
+  <!-- ============ YUKI, CAHTO & EEL RIVER ============ -->
+  <div class="culture-section" id="culture-yuki" data-regions="overview eelriver">
+    <div class="culture-header" onclick="toggleCulture('yuki')">
+      <div class="culture-color-bar" style="background:#795548;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Yuki, Cahto & Eel River</div>
+        <div class="culture-meta">Mendocino Interior · 10,000+ BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('yuki',this.checked)" title="Toggle all Yuki layers">
+      <span class="culture-arrow" id="arrow-yuki">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-yuki">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yukiVillages')"><span style="color:#795548">Villages, territories & rancherias</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yukiWater')"><span style="color:#1E88E5">Eel River system — 3,684 sq mi watershed</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yukiSacred')"><span style="color:#CE93D8">Sacred sites — Round Valley, Tc'ih-Léh-Dûñ</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yukiLost')"><span style="color:#EF5350">Lost waters & genocide — Round Valley, dam diversion</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yukiRockArt')"><span style="color:#FFB74D">Rock art — Spyrock, Bell Springs, Eel River Canyon</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -316,4 +337,5 @@
 <script src="js/25-chumash-trade-network.js"></script>
 <script src="js/26-pomo-clear-lake.js"></script>
 <script src="js/27-pomo-russian-river.js"></script>
+<script src="js/28-yuki-eel-river.js"></script>
 </html>

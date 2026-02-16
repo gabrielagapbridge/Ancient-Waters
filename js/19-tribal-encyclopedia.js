@@ -631,6 +631,54 @@ const tribalData = [
     villages: ["Batiklechawi (Sebastopol — head of Laguna)", "Hukabetawi (Santa Rosa)", "Ossokowi (Russian River near Geyserville)", "Makahmo (Dry Creek/Sulphur Creek)", "Kale (Cloverdale)", "Kalme (Russian River drainage)"],
     keyDates: "~500 CE: Mihilakawna/Makahmo settlement at Dry Creek • 1821–1828: Spanish enslave Southern Pomo to Mission San Rafael • 1850s: American settlers claim 86,000 acres; forced relocations • 1899: Elsie Allen born at Cloverdale • 1915: Dry Creek Rancheria established (75 acres) • 1958: Rancheria terminated • 1983: Tillie Hardwick lawsuit; Lake Sonoma floods ancestral lands • 2011: Southern Pomo language program begins • 2013: Tribe secures cultural lease at Lake Sonoma",
     sources: "Barrett 1908; Kroeber 1925; Oswalt field notes; Dry Creek Rancheria; Cloverdale Rancheria; Walker 2020"
+  },
+  {
+    name: "Yuki (Ukomno'om — 'Valley People')",
+    altNames: "Yukiah, Round Valley Yuki, Huchnom, Coast Yuki",
+    language: "Northern Yukian (Yukian family — language isolate)",
+    dialect: "Three dialects: Round Valley Yuki, Huchnom, Coast Yuki — partially mutually intelligible",
+    territory: "Round Valley & upper Eel River drainage, Mendocino County — extending from North Fork to Eden Valley and South Eel",
+    timeStart: -8000,
+    timeEnd: 1983,
+    color: "#795548",
+    population: "Pre-contact: 2,000–20,000 (estimates vary widely). 2010 census: 569 claimed Yuki ancestry (255 full-blooded). Today: part of Round Valley Indian Tribes (5,781 enrolled 2022)",
+    occupation: "10,000+ BP – present (language extinct 1983)",
+    description: "The Yuki may be California's most ancient surviving people. Their language — a true isolate with no known relatives except the distant Wappo — suggests they predate every wave of migration into California. The Round Valley Indian Tribes state the Yuki have been in their homeland 'since time began,' possibly 10,000+ years. Alfred Kroeber noted their unusual physical characteristics (short stature, dolichocephalic skulls) — similar only to the extinct Guaycura and Pericú of Baja California, also thought to be ancient Americans. The Yuki counted in base-8 (octal) — counting the spaces between fingers rather than the fingers themselves — one of the only such systems in the Americas. Organized into 8-9 tribal subdivisions with 500+ village sites, the Yuki occupied the rugged interior mountains centered on Round Valley, a nearly circular valley on the Middle Fork Eel River. They suffered one of the most devastating genocides in US history: from perhaps 10,000-20,000 people to several hundred between 1854 and 1864. Benjamin Madley documents this as 'a clear-cut example of genocide' — driven not by epidemic but by direct killing, kidnapping, and willful neglect. The Yuki language went extinct in 1983 with the death of Arthur Anderson, though revitalization is underway at the Round Valley grade school.",
+    villages: ["Ukomno'm (Round Valley — multiple groups)", "Ta'no'm (main Eel River — 6 sub-groups)", "Witukomno'm (Eden Valley)", "Sukshultaano'm (N. Fork Middle Eel / Hull Creek)", "Huititno'm (S. Fork Middle Eel)", "Utitno'm (Forks of Middle & South Eel)", "Huchnom (South Eel / Potter Valley)", "Ukohtontilka (Coast Yuki — 11 coastal groups)"],
+    keyDates: "10,000+ BP: Yuki homeland established • ~2500 BP: Pomo expansion pushes Yuki from wider territory • 1854: Asbill brothers 'discover' Round Valley, kill Yuki, kidnap 35 women • 1856: Nome Cult Farm established • 1858-59: Winter massacres kill 150-170+ • 1859: Mendocino War • 1863: Nome Cult Trail / Concow Trail of Tears • 1864: Round Valley Reservation formalized • 1983: Last Yuki speaker Arthur Anderson dies • 2015: First CA forest carbon offset project at Round Valley • 2022: Tc'ih-Léh-Dûñ returned to Sinkyone Council",
+    sources: "Kroeber 1925; Barrett 1908; Madley 2016; Balodis 2016; Cook 1943/1976; RVIT rvit.org; Heizer 1953"
+  },
+  {
+    name: "Cahto / Kato (Tlokyhan — 'Grass People')",
+    altNames: "Kato, Kaipomo, Cahto Tribe of the Laytonville Rancheria",
+    language: "Kato (California Athabaskan / Na-Dene)",
+    dialect: "Kato — distinct from other Southern Athabaskans; most speakers bilingual in Northern Pomo",
+    territory: "Long Valley, Cahto Valley, upper South Fork Eel River — present-day Laytonville/Branscomb area, Mendocino County",
+    timeStart: 800,
+    timeEnd: 1960,
+    color: "#5D4037",
+    population: "Pre-contact: 500–1,100. Today: Cahto Indian Tribe of the Laytonville Rancheria (~264 acres)",
+    occupation: "~800 CE – present (language extinct 1960s)",
+    description: "The Cahto are the southernmost Athabaskan-speaking people on the Pacific Coast — a remarkable geographic outlier, as most Athabaskan speakers live in Alaska, western Canada, or the American Southwest (Apache, Navajo). Their name comes from the Northern Pomo word for 'lake,' referencing the key village of Djilbi. The Cahto called themselves Tlokyhan ('Grass People'). They occupied about 50 village sites in three small valleys along the upper South Fork Eel River, surrounded by redwood forests. Bordered on three sides by Yukian-speaking peoples, the Cahto culturally resembled the Yuki and Pomo more than their fellow Athabaskans to the north. Their creation mythology centers on two deities: Chénĕśh (the creator, identified with thunder and lightning) and Nághai-cho ('Great Traveler'), a trickster who constantly urges creation while pretending he could do it himself. Pliny Earle Goddard documented over 50 Cahto villages in 1909, though most of his notes have been lost. The Kato language went extinct in the 1960s. Today the Cahto Indian Tribe operates the Red Fox Casino in Laytonville.",
+    villages: ["Djilbi (principal village — gave the tribe its name)", "ka'ibi ('nuts in' — near Laytonville)", "nebō'cēgût ('ground hump on-top')", "seLgaitceli'nda ('rock white run-out')", "Siinkook-kiiyaahaangn (Jackson Valley / Branscomb band)", "Beehshoochinmiî' ('Horseshoe Bend')"],
+    keyDates: "~800-900 CE: Athabaskan migration reaches Mendocino • 1850s: American settlers arrive • 1860s: Violence, displacement • 1906: Goddard begins documenting language/villages • 1960s: Last Cahto speakers die • Today: Cahto Indian Tribe of the Laytonville Rancheria",
+    sources: "Goddard 1909; Kroeber 1925; Baumhoff 1958; Cahto Tribe; factcards.califa.org"
+  },
+  {
+    name: "Wailaki & Eel River Athabaskans (Kinist'ee — 'The People')",
+    altNames: "Wailaki, Lassik, Nongatl, Sinkyone, Eel River Dene",
+    language: "Wailaki / Eel River Dene (Athabaskan / Na-Dene)",
+    dialect: "Wailaki, Lassik, Nongatl, Sinkyone — dialect continuum, not distinct 'tribes' in lived experience",
+    territory: "Eel River and North Fork Eel River drainage, Mendocino, Trinity & Humboldt Counties",
+    timeStart: 900,
+    timeEnd: 2026,
+    color: "#6D4C41",
+    population: "Pre-contact: ~10,700 combined Eel River Athabaskans (Baumhoff 1958). By 1910: ~300 Wailaki remained. Today: descendants in Round Valley Indian Tribes, Grindstone Rancheria, InterTribal Sinkyone Wilderness Council",
+    occupation: "~900 CE – present",
+    description: "The Wailaki — 'north language' in Wintun — called themselves Kinist'ee ('The People'). They are part of the Eel River Athabaskan peoples, a dialect continuum that includes the Lassik, Nongatl, and Sinkyone. These groupings were assigned by ethnographers and may not reflect how people actually identified. The Wailaki arrived in California around 900 CE and occupied nearly 100 villages along the Eel River. They believed spirits inhabited all objects and their creator god was Katanagai ('Night Traveler'). The Bald Hills War (1860s) was devastating — the Whilkut, Nongatl, and Lassik were essentially annihilated as autonomous peoples. Survivors were forced to Round Valley Reservation. The InterTribal Sinkyone Wilderness Council, founded in 1986, has achieved groundbreaking land-back results: 4,531+ acres of ancestral redwood forest returned to tribal stewardship, including the 523-acre Tc'ih-Léh-Dûñ ('Fish Run Place') — 200 acres of old-growth coast redwoods returned in 2022. Kayla Rae Begay, a Wailaki descendant, completed a doctoral grammar of Wailaki at UC Berkeley in 2017.",
+    villages: ["Tsennahkenne (Eel River Wailaki — multiple bands)", "Bahneko (North Fork Wailaki — 6 tribelets)", "Che-teg-gah-ahng (Pitch Wailaki)", "Bis-kaiyaah (east side Eel River)", "Tc'ih-Léh-Dûñ ('Fish Run Place' — Sinkyone, returned 2022)"],
+    keyDates: "~900 CE: Athabaskan arrival in California • 1860-65: Bald Hills War — Nongatl, Lassik nearly annihilated • 1864: Survivors forced to Round Valley • 1986: InterTribal Sinkyone Wilderness Council founded • 1997: First InterTribal Protected Area (3,845 acres) • 2017: Begay publishes Wailaki Grammar (UC Berkeley) • 2022: 523 acres old-growth redwood returned as Tc'ih-Léh-Dûñ • 2024: Council co-founder Priscilla Hunter dies",
+    sources: "Goddard 1923; Kroeber 1925; Baumhoff 1958; Begay 2017; Keter 2024; InterTribal Sinkyone Wilderness Council; Save the Redwoods League"
   }
 ];
 
