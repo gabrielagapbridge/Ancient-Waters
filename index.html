@@ -38,6 +38,7 @@
   <button class="region-btn" onclick="flyTo('eelriver')">Eel River</button>
   <button class="region-btn" onclick="flyTo('lostcoast')">Lost Coast</button>
   <button class="region-btn" onclick="flyTo('lavabeds')">Lava Beds</button>
+  <button class="region-btn" onclick="flyTo('sacvalley')">Sacramento Valley</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -318,6 +319,23 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-wintu" data-regions="overview sacvalley lavabeds">
+    <div class="culture-header" onclick="toggleCulture('wintu')">
+      <div class="culture-color-bar" style="background:#8B6914;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Wintu, Yana/Yahi & Nomlaki</div>
+        <div class="culture-meta">Sacramento headwaters · 12,000+ BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('wintu',this.checked)" title="Toggle all Wintu layers">
+      <span class="culture-arrow" id="arrow-wintu">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-wintu">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wintuRockArt')"><span style="color:#FF8C00">Rock art — Slakaiya Rock (6 styles), Paleo sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wintuVillages')"><span style="color:#8B6914">Villages, territories & Ishi Wilderness</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wintuLost')"><span style="color:#B22222">Shasta Dam — flooded homeland</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -395,4 +413,5 @@
 <script src="js/29-mattole-lost-coast.js"></script>
 <script src="js/30-modoc-lavabeds.js"></script>
 <script src="js/31-klamath-trinity.js"></script>
+<script src="js/32-wintu-yana.js"></script>
 </html>

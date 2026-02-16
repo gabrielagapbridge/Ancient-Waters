@@ -14,7 +14,8 @@ function flyTo(region) {
     russianriver: [38.7, -123.0, 10],
     eelriver: [39.7, -123.3, 10],
     lostcoast: [40.4, -124.15, 10],
-    lavabeds: [41.75, -121.50, 10]
+    lavabeds: [41.75, -121.50, 10],
+    sacvalley: [40.5, -122.0, 8]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});
