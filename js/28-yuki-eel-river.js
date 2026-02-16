@@ -336,22 +336,54 @@ L.circleMarker([39.85, -123.50], {
 ).addTo(L_groups.yukiRockArt);
 
 // Slakaiya Rock / Eel River Canyon Petroglyphs (Trinity County)
-// Paper: Dan Foster & John Foster, "An Outstanding Petroglyph Site near the Eel River"
+// Source: Foster & Foster, "Slakaiya Rock (CA-TRI-1): A Rediscovered Petroglyph Site
+// Near the Eel River, Trinity County, California" in Essays in California Archaeology:
+// A Memorial to Franklin Fenenga (Wallace & Riddell eds.), UC ARF No. 60
 L.circleMarker([40.05, -123.48], {
-  radius: 7, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.8,
+  radius: 8, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.9,
   weight: 2, pane: 'markerPane'
-}).bindPopup(`<b>Slakaiya Rock Petroglyphs (CA-TRI-1)</b><br>
-  Steep canyon on the main fork of the Eel River, Trinity County<br>
-  First discovered 1913 by O.W. Degen (Northwestern Pacific Railroad surveyor)<br>
-  <b>Lost for 80 years</b> — rediscovered 1993 by a state forester<br>
-  Major site: 3 housepits, midden deposits, abundant chipped & ground stone artifacts<br>
-  <b>Two panels of petroglyphs in 6 discrete styles spanning ~500–2,500 BP</b><br>
-  Largest panel: 253 cm wide × 150 cm tall<br>
-  Motifs: circles, linked diamonds, tally marks, abstract shapes<br>
-  Deeply incised lines superimposed over older designs — centuries of continuous use<br>
-  <b>Possible links to Wailaki female fertility rituals</b> (similar to Pomo practices)<br>
-  <i>Eel River Wailaki territory — paper by Dan Foster & John Foster (CDF/State Parks)</i>`
+}).bindPopup(`<b>Slakaiya Rock (CA-TRI-1)</b><br>
+  <i>The most significant petroglyph site in the Eel River region</i><br>
+  East bank of Main Fork Eel River, deep canyon, ~520 ft elevation<br>
+  Site: 105 × 55 m, oak-woodland on stream terrace with schist boulders<br>
+  3 housepits (~3m diameter, 60cm deep), midden, abundant lithics<br>
+  <b>Two rock art panels with 6 discrete styles:</b><br>
+  • <b>Panel 1:</b> 253 cm × 150 cm on vertical schist face, partly in rock shelter<br>
+  &nbsp;&nbsp;SR Style 4: Pecked abstract curvilinear — zigzags, circles, linked circles,<br>
+  &nbsp;&nbsp;linked diamonds, tally marks, 39 dots. Made by punch & hammer (antler tip?)<br>
+  &nbsp;&nbsp;SR Style 5: Hundreds of fine scratched lines (chert flake/biface)<br>
+  &nbsp;&nbsp;SR Style 6: Deeply incised lines — <b>female fertility ritual</b> (Barrett 1952, Loeb 1926)<br>
+  • <b>Panel 2:</b> 147 × 135 cm, moss-covered until rediscovery<br>
+  &nbsp;&nbsp;SR Style 1: Two large PCN petroglyphs (27×24 cm & 19×16 cm)<br>
+  &nbsp;&nbsp;SR Style 2: 36 cupules (2.5-5 cm, possibly early Holocene)<br>
+  &nbsp;&nbsp;SR Style 3: 6 grooved lines (largest 42 cm long)<br>
+  <b>Chronology:</b> Styles 1-3 (oldest) → Style 4 → Style 5 → Style 6 (~350 BP to historic)<br>
+  Some Style 4 elements appear re-pecked by historic Wailaki (1850-1900)<br>
+  <b>History:</b> Discovered 1913 by O.W. Degen (NWP Railroad surveyor).<br>
+  Degen wrote to Kroeber; material passed to Goddard (studying Wailaki).<br>
+  Listed as Steward's PT.2 (1929). Lost 80 years — inaccurate location records.<br>
+  Rediscovered Oct 1993 by CDF forester Dave Drennan during timber inspection.<br>
+  Named for the <b>Slakaiya tribelet</b> (1 of 18 Wailaki groups, Goddard 1923)<br>
+  <i>Foster & Foster, in Wallace & Riddell eds., UC ARF No. 60</i>`
 ).addTo(L_groups.yukiRockArt);
+
+// Slakaiya Wailaki villages — from Goddard 1923:104 via Foster & Foster
+const slakVillages = [
+  {lat:40.06, lng:-123.47, name:'sketeclkascanan',
+   desc:'"Mush throw away sunny place" — a large Slakaiya village downstream with a ceremonial rock. Mush-like substance on rock face each spring predicted the year\'s acorn crop. Named for Panther, who threw away mush here when tired from hunting. (Goddard 1923)'},
+  {lat:40.04, lng:-123.49, name:'kaslenkyobi',
+   desc:'"Spring large in" — a good rock shelter where a family wintered. Captain Jim, Goddard\'s informant, was forced to leave his father-in-law to die here when pursued by white men. (Goddard 1923)'},
+  {lat:40.07, lng:-123.46, name:'kaitcdantadan',
+   desc:'"Christmas berries place" — northernmost Slakaiya hamlet, near a bend in the Eel. Graveyard a quarter mile north. Northern boundary marked by tributary creek tciskot. (Goddard 1923)'},
+  {lat:40.03, lng:-123.48, name:'tosekyok\'at',
+   desc:'A large Slakaiya village a quarter mile downstream from the boundary creek. (Goddard 1923)'}
+];
+slakVillages.forEach(v => {
+  L.circleMarker([v.lat, v.lng], {
+    radius: 4, color: C.wailaki, fillColor: C.wailaki, fillOpacity: 0.7,
+    weight: 1, pane: 'markerPane'
+  }).bindPopup(`<b>${v.name}</b> (Slakaiya Wailaki village)<br>${v.desc}`).addTo(L_groups.yukiVillages);
+});
 
 // Coleman Creek Petroglyphs — unknown to archaeology until river trip discovery
 // Source: Jon Harman (DStretch), visited April 2012 with Pierre Pelet (BARARA)
@@ -361,23 +393,66 @@ L.circleMarker([39.92, -123.45], {
 }).bindPopup(`<b>Coleman Creek Petroglyphs (Eel River)</b><br>
   Discovered by a photographer on a river trip — <b>previously unknown to archaeologists</b><br>
   "Many petroglyphs in a setting of beautiful meadows steeply sloping down to the Eel"<br>
-  Visited 2012 by Jon Harman (DStretch) & Pierre Pelet (Bay Area Rock Art Research Assoc.)<br>
+  Visited 2012 by Jon Harman (DStretch) & Pierre Pelet (BARARA)<br>
   Not yet formally documented by Dan Foster (Senior State Archaeologist, ret. 2012)<br>
   Accessible only by river — remote Eel River canyon<br>
   <i>Wailaki territory</i>`
 ).addTo(L_groups.yukiRockArt);
 
 // Spyrock Station site — distinct from the Spyrock Road site (CA-MEN-1912)
-// Source: Paul Freeman (BARARA), visited by Harman & Pelet
+// Contains SR Style 4 pecked designs PLUS cupules superimposed over them
+// Photo by Robert Connick, 1960. Source: Foster & Foster; Paul Freeman (BARARA)
 L.circleMarker([39.80, -123.45], {
-  radius: 5, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.65,
+  radius: 6, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.75,
   weight: 2, pane: 'markerPane'
 }).bindPopup(`<b>Spyrock Station Petroglyphs</b><br>
-  Distinct site from the Spyrock Road petroglyphs (CA-MEN-1912)<br>
-  Located near the former Spyrock railroad station on the Eel River<br>
-  Source: Paul Freeman (Bay Area Rock Art Research Association)<br>
-  Visited by Jon Harman & Pierre Pelet on Eel River trips<br>
-  <i>Wailaki/Yuki borderlands</i>`
+  Distinct from Spyrock Road (CA-MEN-1912), ~10 miles downstream<br>
+  Located on the Eel River near the former Spyrock railroad station<br>
+  Contains many SR Style 4 pecked abstract designs:<br>
+  wavy lines, linked circles, zigzags, abstract figures, AND dozens of cupules<br>
+  <b>Cupules superimposed over pecked elements</b> — key to regional chronology<br>
+  (Proves cupules younger than Style 4 at this site; confirmed by repatination differences)<br>
+  Photo by Robert Connick (1960); Paul Freeman (BARARA) source<br>
+  <i>Foster & Foster use this site to establish the style sequence across the region</i>`
+).addTo(L_groups.yukiRockArt);
+
+// Keystone Petroglyphs (CA-MEN-2200) — central Mendocino County
+// Source: Gary & McLear-Gary 1988; Foster & Foster
+L.circleMarker([39.15, -123.15], {
+  radius: 5, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.7,
+  weight: 2, pane: 'markerPane'
+}).bindPopup(`<b>Keystone Petroglyphs (CA-MEN-2200)</b><br>
+  Central Mendocino County, between Willits and Ukiah<br>
+  Contains concentric-circle motifs (among oldest styles in region)<br>
+  Concentric circles, cupules, shields with superimposed incised lines<br>
+  Gary & McLear-Gary (1988) proposed a chronological sequence here:<br>
+  1) abstract curvilinear/grids 2) concentric circles 3) incised lines<br>
+  <b>Consistent with the sequence at Slakaiya Rock</b><br>
+  <i>Pomo territory — one of 178 sites in Pomo/Yuki/Coast Miwok lands</i>`
+).addTo(L_groups.yukiRockArt);
+
+// Feliz Creek Petroglyphs (CA-MEN-793) — Mendocino County
+L.circleMarker([39.05, -123.12], {
+  radius: 5, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.65,
+  weight: 2, pane: 'markerPane'
+}).bindPopup(`<b>Feliz Creek Petroglyphs (CA-MEN-793)</b><br>
+  Near Ukiah, Mendocino County<br>
+  Concentric circles and deeply incised lines<br>
+  Part of the 178+ petroglyph sites documented in Pomo/Yuki/Coast Miwok territory<br>
+  <i>Pomo territory — southern end of the Eel River rock art corridor</i>`
+).addTo(L_groups.yukiRockArt);
+
+// Elledge Valley Baby Rock #2 — Mendocino County
+L.circleMarker([39.02, -123.08], {
+  radius: 4, color: C.rockart, fillColor: C.rockart, fillOpacity: 0.6,
+  weight: 2, pane: 'markerPane'
+}).bindPopup(`<b>Elledge Valley Baby Rock #2</b><br>
+  Near Ukiah, Mendocino County<br>
+  PCN/cupule site — part of the "Baby Rocks" tradition<br>
+  Hedges (1983a) noted: deeply incised lines always present,<br>
+  but at this site only a single cupule — suggesting incised lines<br>
+  more strongly linked to fertility rituals than cupules themselves<br>
+  <i>Pomo territory</i>`
 ).addTo(L_groups.yukiRockArt);
 
 // ========== LOST WATERS ==========
