@@ -302,6 +302,22 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-klamath" data-regions="overview lavabeds">
+    <div class="culture-header" onclick="toggleCulture('klamath')">
+      <div class="culture-color-bar" style="background:#B8860B;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Karuk, Hupa, Yurok & Tolowa</div>
+        <div class="culture-meta">Klamath-Trinity Rivers · 2,000+ BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('klamath',this.checked)" title="Toggle all Klamath layers">
+      <span class="culture-arrow" id="arrow-klamath">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-klamath">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('klamathVillages')"><span style="color:#B8860B">Villages, territories & peoples</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('klamathWater')"><span style="color:#1E90FF">Klamath, Trinity & Smith Rivers</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -378,4 +394,5 @@
 <script src="js/28-yuki-eel-river.js"></script>
 <script src="js/29-mattole-lost-coast.js"></script>
 <script src="js/30-modoc-lavabeds.js"></script>
+<script src="js/31-klamath-trinity.js"></script>
 </html>
