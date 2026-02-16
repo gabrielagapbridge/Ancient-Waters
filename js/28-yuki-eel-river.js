@@ -108,8 +108,148 @@ L.polyline([
   color: C.water, weight: 2, opacity: 0.5, pane: 'yukiBackgroundPane'
 }).bindPopup(`<b>Ten Mile River</b><br>Largest stream in Coast Yuki territory<br>
   Empties into Pacific — important salmon run<br>
+  <b>Record coho return:</b> 5,574 adult CCC coho in 2023-24 — exceeded ESA recovery targets<br>
+  TNC restoration: floodplain reconnection, large wood structures since 2018<br>
   <i>Boundary between Coast Yuki and Northern Pomo</i>`
 ).addTo(L_groups.yukiWater);
+
+// Noyo River — Pomo: Chemli-bida. Mouth at Fort Bragg / Noyo Harbor
+L.polyline([
+  [39.45, -123.35],[39.44, -123.40],[39.43, -123.45],[39.44, -123.50],
+  [39.44, -123.55],[39.43, -123.60],[39.42, -123.65],[39.43, -123.72],
+  [39.44, -123.78],[39.45, -123.80]
+], {
+  color: C.water, weight: 2.5, opacity: 0.65, pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Noyo River (Pomo: Chemli-bida)</b><br>
+  41 miles, 113 sq mi watershed — Fort Bragg's drinking water supply<br>
+  "Noyo" referred to a Pomo village on Pudding Creek, not the river itself<br>
+  <b>Still flowing</b> — largely undeveloped, classic salmon-steelhead habitat<br>
+  Skunk Train railroad follows the river from Willits to Fort Bragg<br>
+  Coho salmon (endangered), chinook, steelhead — all ESA-listed<br>
+  Trout Unlimited replaced old culverts blocking fish passage (2020)<br>
+  Exceeded ESA coho recovery targets in 2023-24 season<br>
+  Listed under Clean Water Act as impaired (sediment, temperature)<br>
+  <i>Coast Yuki southern boundary / Northern Pomo territory</i>`
+).addTo(L_groups.yukiWater);
+
+// Big River — 41.7 miles, longest undeveloped estuary in California
+L.polyline([
+  [39.30, -123.30],[39.30, -123.38],[39.29, -123.45],[39.30, -123.52],
+  [39.31, -123.60],[39.30, -123.68],[39.31, -123.73],[39.31, -123.79]
+], {
+  color: C.water, weight: 2.5, opacity: 0.6, pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Big River</b><br>
+  41.7 miles, 181 sq mi watershed — empties at Mendocino village<br>
+  <b>Longest undeveloped estuary in California</b> — brackish water extends 8 mi upstream<br>
+  Named for giant redwoods that once lined its banks (Arroyo Grande on 1844 Mexican diseño)<br>
+  Pre-contact: Me-tum'mah (Mitom Pomo / Northern Pomo) territory<br>
+  Buldam village on north bank near mouth<br>
+  Coho, chinook, steelhead — all ESA-listed. Record coho returns 2023-24<br>
+  Beavers restored in mid-20th century — beaver ponds now helping salmon habitat<br>
+  First sawmill on Mendocino Coast built at mouth (1852)<br>
+  <i>Northern Pomo territory — boundary with Coast Yuki to the north</i>`
+).addTo(L_groups.yukiWater);
+
+// Navarro River — Anderson Valley, flows to Pacific at Navarro-by-the-Sea
+L.polyline([
+  [39.15, -123.15],[39.15, -123.22],[39.14, -123.30],[39.14, -123.38],
+  [39.13, -123.45],[39.12, -123.52],[39.12, -123.58],[39.13, -123.66],
+  [39.14, -123.72],[39.14, -123.76]
+], {
+  color: C.water, weight: 2.5, opacity: 0.6, pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Navarro River</b><br>
+  ~40 miles through Anderson Valley to Pacific at Navarro-by-the-Sea<br>
+  <b>Still flowing</b> — major coho/chinook/steelhead river<br>
+  Estuary restoration: $8.3M TNC grant for floodplain reconnection<br>
+  2024: first coho in Neefus Gulch (N. Fork Navarro tributary) in 70+ years<br>
+  after TU removed 18-ft earthen dam and restored 1,600 ft stream channel<br>
+  <i>Northern Pomo / Central Pomo territory</i>`
+).addTo(L_groups.yukiWater);
+
+// Albion River — small coastal river south of Mendocino
+L.polyline([
+  [39.22, -123.50],[39.22, -123.58],[39.22, -123.65],[39.23, -123.72],[39.23, -123.76]
+], {
+  color: C.water, weight: 1.5, opacity: 0.5, pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Albion River</b><br>
+  Small coastal river south of Mendocino village<br>
+  Coho, chinook, steelhead habitat — all ESA-listed<br>
+  Last wooden bridge on Hwy 1 crossed here until 2020<br>
+  <i>Central Pomo territory</i>`
+).addTo(L_groups.yukiWater);
+
+// Garcia River — near Point Arena. One of last wild coho populations
+L.polyline([
+  [38.95, -123.30],[38.94, -123.38],[38.93, -123.45],[38.93, -123.52],
+  [38.94, -123.58],[38.95, -123.62],[38.96, -123.68],[38.96, -123.72]
+], {
+  color: C.water, weight: 2, opacity: 0.5, pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Garcia River</b><br>
+  Flows to Pacific near Point Arena<br>
+  <b>One of last naturally reproducing wild coho populations</b> on southern Pacific Coast<br>
+  Lost ~95% of historic winter salmon habitat<br>
+  TNC built 18 enormous log jams in estuary (2022) — first restoration<br>
+  Record coho returns 2023-24<br>
+  Manchester-Point Arena Band of Pomo engaged in restoration planning<br>
+  <i>"There was a time you could walk across the Garcia on the backs of coho salmon"</i>`
+).addTo(L_groups.yukiWater);
+
+// Usal Creek — northernmost Coast Yuki territory, now Sinkyone Wilderness
+L.polyline([
+  [39.82, -123.78],[39.80, -123.80],[39.78, -123.82],[39.77, -123.84]
+], {
+  color: C.water, weight: 1.5, opacity: 0.4, pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Usal Creek</b><br>
+  Flows to Pacific at Usal Beach — northern boundary of Coast Yuki territory<br>
+  Now within Sinkyone Wilderness State Park<br>
+  Conservation Fund owns lands in watershed<br>
+  <i>Coast Yuki / Sinkyone borderlands</i>`
+).addTo(L_groups.yukiWater);
+
+// Pudding Creek — Fort Bragg. "Noyo" village was actually here
+L.polyline([
+  [39.47, -123.72],[39.47, -123.76],[39.48, -123.80]
+], {
+  color: C.water, weight: 1.5, opacity: 0.4, pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Pudding Creek</b><br>
+  Small creek in Fort Bragg — the Pomo village "Noyo" was actually here, not on the Noyo River<br>
+  Coho salmon life-cycle monitoring station<br>
+  <i>Northern Pomo territory</i>`
+).addTo(L_groups.yukiWater);
+
+// ========== LOST / IMPAIRED WATERS (dashed red) ==========
+
+// Lake Pillsbury — Eel River blocked by Scott Dam (already in lost waters above,
+// but add the reservoir itself as a "lost" waterway)
+L.polyline([
+  [39.43, -122.95],[39.42, -122.92],[39.40, -122.90],[39.38, -122.88],
+  [39.36, -122.87],[39.34, -122.88]
+], {
+  color: C.lost, weight: 3, opacity: 0.6, dashArray: '8,5',
+  pane: 'yukiBackgroundPane'
+}).bindPopup(`<b>Lake Pillsbury — Drowned Upper Eel River</b><br>
+  Created by Scott Dam (1922) — blocks the uppermost Eel River<br>
+  Inundated Huchnom homeland and upper Eel fish habitat<br>
+  Blocked salmon/steelhead access to ~10% of the entire Eel watershed<br>
+  PG&E surrendering license — dam removal could begin ~2028<br>
+  <i>When removed, Eel becomes longest free-flowing river in California</i>`
+).addTo(L_groups.yukiLost);
+
+// Ghost streams of the logged watersheds — Mendocino Coast
+// 95% of historic winter salmon habitat lost across the coast
+L.circleMarker([39.35, -123.55], {
+  radius: 7, color: C.lost, fillColor: C.lost, fillOpacity: 0.25,
+  weight: 2, dashArray: '5,3', pane: 'markerPane'
+}).bindPopup(`<b>Lost Salmon Habitat — Mendocino Coast</b><br>
+  <b>Only 5% of historic winter habitat for salmon remains</b> (NOAA/TNC studies)<br>
+  Rivers still flow but streams lack old-growth complexity — massive redwoods,<br>
+  fallen trunks, root balls, woody debris all removed by 150 years of logging<br>
+  Floodplains disconnected, estuaries simplified, temperatures elevated<br>
+  Coho salmon: from hundreds of thousands to <1% of historic numbers statewide<br>
+  <b>Hope:</b> 15,000+ CCC coho returned to Mendocino Coast 2023-24 — record since monitoring began<br>
+  $14.5M NOAA grant (2023) for large-scale restoration across 5 watersheds<br>
+  <i>"We can recover this species and heal the rivers from their historic damage" — NOAA</i>`
+).addTo(L_groups.yukiLost);
 
 // ========== TERRITORY POLYGONS ==========
 
