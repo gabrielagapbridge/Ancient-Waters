@@ -336,6 +336,22 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-maidu" data-regions="overview sacvalley">
+    <div class="culture-header" onclick="toggleCulture('maidu')">
+      <div class="culture-color-bar" style="background:#DAA520;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Maidu, Konkow & Mountain Maidu</div>
+        <div class="culture-meta">Feather River & Sierra · 4,000+ BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('maidu',this.checked)" title="Toggle all Maidu layers">
+      <span class="culture-arrow" id="arrow-maidu">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-maidu">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maiduRockArt')"><span style="color:#FFB347">Sierra petroglyphs — 46+ Martis sites, Lakes Basin</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maiduVillages')"><span style="color:#DAA520">Villages, territories & Konkow Trail of Tears</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -414,4 +430,5 @@
 <script src="js/30-modoc-lavabeds.js"></script>
 <script src="js/31-klamath-trinity.js"></script>
 <script src="js/32-wintu-yana.js"></script>
+<script src="js/33-maidu.js"></script>
 </html>
