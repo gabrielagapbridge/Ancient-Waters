@@ -37,6 +37,7 @@
   <button class="region-btn" onclick="flyTo('russianriver')">Russian River</button>
   <button class="region-btn" onclick="flyTo('eelriver')">Eel River</button>
   <button class="region-btn" onclick="flyTo('lostcoast')">Lost Coast</button>
+  <button class="region-btn" onclick="flyTo('lavabeds')">Lava Beds</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -284,6 +285,23 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-modoc" data-regions="overview lavabeds">
+    <div class="culture-header" onclick="toggleCulture('modoc')">
+      <div class="culture-color-bar" style="background:#CD853F;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Modoc & Lava Beds</div>
+        <div class="culture-meta">Far NE California · 6,000+ BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('modoc',this.checked)" title="Toggle all Modoc layers">
+      <span class="culture-arrow" id="arrow-modoc">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-modoc">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modocRockArt')"><span style="color:#FFD700">Rock art — Petroglyph Point (5,000+ carvings)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modocVillages')"><span style="color:#CD853F">Villages, territory & Modoc War</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('modocLost')"><span style="color:#B22222">Tule Lake — drained wetland</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -359,4 +377,5 @@
 <script src="js/27-pomo-russian-river.js"></script>
 <script src="js/28-yuki-eel-river.js"></script>
 <script src="js/29-mattole-lost-coast.js"></script>
+<script src="js/30-modoc-lavabeds.js"></script>
 </html>
