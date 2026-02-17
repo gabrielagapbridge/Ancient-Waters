@@ -204,22 +204,29 @@ L.polygon([
   color: PLT.yakama, fillColor: PLT.yakama, fillOpacity: 0.06,
   weight: 2, dashArray: '10,6', pane: 'plateauBackgroundPane',
   interactive: true
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.yakama};margin:0 0 4px;">YAKAMA NATION</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">14 Confederated Tribes & Bands of the Yakama Nation</div>
-  <p><b>Self-name:</b> Mamachatpam (people of the Yakima River)</p>
-  <p><b>Language:</b> Ichishkíin Sínwit (Sahaptin) — Plateau Penutian family. Closely related to Nez Perce. 15 dialects in 3 groups. Linguistic evidence places Sahaptin speakers in the Columbia Basin for 2,000–5,000+ years.</p>
-  <p><b>Territory:</b> 12+ million acres ceded in 1855 Treaty — from the Cascade crest east to the Columbia River, Yakima River watershed, Klickitat River, and tributaries. Columbia River lowlands to alpine peaks. Sacred mountain: Pahto (Mt. Adams, 12,281 ft).</p>
-  <p><b>Population:</b> 60–70 villages of 50–200 people each (~7,000 total at contact). Today: 10,000+ enrolled members.</p>
-  <p><b>14 bands:</b> Kah-milt-pah, Klickitat, Klinquit, Kow-was-say-ee, Li-ay-was, Oche-chotes, Palouse, Pisquose, Se-ap-cat, Shyiks, Skin-pah, Wenatshapam, Wish-ham, Yakama.</p>
-  <p><b>Seasonal round:</b> Spring: root-digging on prairies (camas, bitterroot, lomatium). Summer: salmon fishing at falls and rapids. Fall: berry-picking in mountains (huckleberry, serviceberry). Winter: sheltered river valleys in mat-covered longhouses (up to 100+ ft long).</p>
-  <p><b>Horses:</b> Arrived ~1730. The Yakama became expert breeders, maintaining large herds on the bunchgrass prairies. Horses transformed trade, warfare, and seasonal movement — enabling buffalo hunting trips to Montana.</p>
-  <p><b>Treaty & Wars:</b> June 9, 1855 Treaty at Walla Walla council with Gov. Isaac Stevens ceded 12+ million acres, reserving 1.3 million. Chief Kamiakin reluctantly signed, then led the Yakima Wars (1855–1858) after treaty violations. Gold miners trespassed; Indian agent Andrew Bolon was killed. Col. George Wright's brutal campaign ended resistance — he slaughtered 800+ Yakama horses and hanged chiefs. Kamiakin escaped to British Columbia.</p>
-  <p><b>Archaeological depth:</b> 12,000+ years of evidence in Yakama territory. The Yakima River valley has been continuously inhabited since the end of the last Ice Age.</p>
-  <p><b>Reservation:</b> 1.3 million acres (Yakima County) — one of the largest in the US. Topock, WA is the capital.</p>
-  <p><b>Spelling:</b> The tribe spells its name "Yakama" (restored to original Sahaptin); the city, county, and river retain "Yakima" (anglicized).</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Schuster 1998, "Yakima and Neighboring Groups" in Handbook Vol. 12: Plateau; Hunn 1990, "Nch'i-Wana: The Big River"; Beavert & Hargus 2009; Yakama Nation Cultural Center; Trafzer 1997, "Death Stalks the Yakama"</p>
-</div>`, {maxWidth:420}).addTo(L_groups.yakamaTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.yakama}">YAKAMA NATION</h3>
+  <div class="tribe-sub">14 Confederated Tribes & Bands · Sahaptin speakers · 10,000+ enrolled</div>
+  <div class="tribe-quick">
+    <p><b>Language:</b> Ichishkíin Sínwit (Sahaptin) — spoken 2,000–5,000+ years</p>
+    <p><b>Territory:</b> 12+ million acres — Cascade crest to Columbia River. Sacred mountain: Pahto (Mt. Adams)</p>
+    <p><b>Reservation:</b> 1.3 million acres, Yakima County — one of the largest in the U.S.</p>
+  </div>
+  <details><summary>Bands & Culture</summary><div class="det">
+    <p><b>14 bands:</b> Kah-milt-pah, Klickitat, Klinquit, Kow-was-say-ee, Li-ay-was, Oche-chotes, Palouse, Pisquose, Se-ap-cat, Shyiks, Skin-pah, Wenatshapam, Wish-ham, Yakama</p>
+    <p><b>Seasonal round:</b> Spring root-digging (camas, bitterroot), summer salmon fishing, fall berry-picking (huckleberry), winter in mat-covered longhouses (100+ ft long)</p>
+    <p><b>Settlement:</b> 60–70 villages of 50–200 people (~7,000 total at contact)</p>
+    <p><b>Horses (~1730):</b> Transformed trade, warfare, and seasonal movement — enabled buffalo hunting trips to Montana</p>
+  </div></details>
+  <details><summary>Treaty & Wars</summary><div class="det">
+    <p><b>1855 Treaty:</b> Walla Walla council with Gov. Isaac Stevens — ceded 12+ million acres, reserved 1.3 million</p>
+    <p><b>Yakima Wars (1855–58):</b> Chief Kamiakin led resistance after treaty violations and gold trespassers. Col. George Wright's campaign ended resistance — he slaughtered 800+ Yakama horses and hanged chiefs. Kamiakin escaped to British Columbia</p>
+    <p><b>Spelling:</b> Tribe restored "Yakama" (Sahaptin); city/county/river retain "Yakima" (anglicized)</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Schuster 1998, Handbook Vol. 12; Hunn 1990, "Nch'i-Wana"; Beavert & Hargus 2009; Yakama Nation Cultural Center; Trafzer 1997</p>
+  </div></details>
+</div>`, {maxWidth:360}).addTo(L_groups.yakamaTerr);
 
 L.marker([46.60, -120.50], {
   icon: L.divIcon({
@@ -272,20 +279,30 @@ L.polygon([
   color: PLT.spokane, fillColor: PLT.spokane, fillOpacity: 0.06,
   weight: 2, dashArray: '10,6', pane: 'plateauBackgroundPane',
   interactive: true
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.spokane};margin:0 0 4px;">SPOKANE TRIBE</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">Sqeliz — "Children of the Sun"</div>
-  <p><b>Language:</b> Interior Salish (Spokane-Kalispel-Flathead branch). Salish languages expanded south into the Plateau ~4,000–5,000 years ago from British Columbia.</p>
-  <p><b>Territory:</b> ~3 million acres in northeastern Washington centered on the Spokane River system — from the Columbia River east to Lake Coeur d'Alene, Spokane River and all tributaries.</p>
-  <p><b>Population:</b> 1,400–2,500 at contact. Today: ~2,900 enrolled members.</p>
-  <p><b>Three divisions:</b> Upper Spokane (Sntʔtʔúlixʷ — "People of the Falls," at Spokane Falls), Middle Spokane (Snxʷme̓nʔey — "People of the Steelhead River," downstream), Lower Spokane (Scqesciłni — "People of Little Falls," at the Little Falls rapids). Each had distinct territory but shared language, culture, and intermarried.</p>
-  <p><b>Subsistence:</b> Salmon (caught at Spokane Falls and rapids with spears, nets, and weirs), roots (camas, bitterroot — women dug at prairies around Spokane), berries, deer, elk. After horses (~1730), buffalo hunting trips to Montana plains became common.</p>
-  <p><b>Habitation:</b> 9,000+ years confirmed at Spokane Falls. Semi-subterranean pit houses in winter, tule mat lodges in summer. Villages along the Spokane River at rapids and fishing sites.</p>
-  <p><b>Contact:</b> Spokane House (1810) — first permanent non-Indian settlement in Washington — built at the Spokane/Little Spokane confluence. Lewis & Clark did not enter Spokane territory (1805–06) but the Spokane heard of them.</p>
-  <p><b>Conflicts:</b> Battle of Spokane Plains (Sept. 1858) — Col. George Wright defeated combined Spokane, Coeur d'Alene, and Palouse forces. Wright executed chiefs and slaughtered 800+ horses as punishment. The Spokane signed no formal treaty but were confined to a reservation (1881).</p>
-  <p><b>Reservation:</b> 159,000 acres in Stevens County, WA (est. 1881). Wellpinit is the tribal headquarters.</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Ross 1998, "Spokane" in Handbook Vol. 12; Ruby & Brown 1970, "The Spokane Indians"; Spokane Tribe of Indians (spokanetribe.com); HistoryLink.org</p>
-</div>`, {maxWidth:420}).addTo(L_groups.spokaneTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.spokane}">SPOKANE TRIBE</h3>
+  <div class="tribe-sub">Sqeliz — "Children of the Sun" · Interior Salish · ~2,900 enrolled</div>
+  <div class="tribe-quick">
+    <p><b>Language:</b> Interior Salish (Spokane-Kalispel-Flathead branch) — ~4,000–5,000 years on the Plateau</p>
+    <p><b>Territory:</b> ~3 million acres centered on the Spokane River system, NE Washington</p>
+    <p><b>Reservation:</b> 159,000 acres, Stevens County. HQ: Wellpinit, WA</p>
+  </div>
+  <details><summary>Three Divisions</summary><div class="det">
+    <p><b>Upper Spokane</b> (Sntʔtʔúlixʷ — "People of the Falls") — at Spokane Falls</p>
+    <p><b>Middle Spokane</b> (Snxʷme̓nʔey — "People of the Steelhead River") — downstream</p>
+    <p><b>Lower Spokane</b> (Scqesciłni — "People of Little Falls") — at Little Falls rapids</p>
+    <p>Population: 1,400–2,500 at contact. Salmon, roots, berries, deer/elk. After horses (~1730): buffalo trips to Montana.</p>
+  </div></details>
+  <details><summary>History</summary><div class="det">
+    <p><b>9,000+ years</b> of habitation confirmed at Spokane Falls</p>
+    <p><b>Spokane House (1810):</b> First non-Indian settlement in WA — North West Company fur post at Spokane/Little Spokane confluence</p>
+    <p><b>Battle of Spokane Plains (1858):</b> Col. Wright defeated combined Spokane/Coeur d'Alene/Palouse forces. Executed chiefs, slaughtered 800+ horses</p>
+    <p>The city of Spokane grew directly on top of the Spokane people's most sacred site</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Ross 1998, Handbook Vol. 12; Ruby & Brown 1970, "The Spokane Indians"; Spokane Tribe (spokanetribe.com); HistoryLink.org</p>
+  </div></details>
+</div>`, {maxWidth:340}).addTo(L_groups.spokaneTerr);
 
 L.marker([47.80, -117.40], {
   icon: L.divIcon({
@@ -324,18 +341,24 @@ L.polygon([
   color: PLT.palouse, fillColor: PLT.palouse, fillOpacity: 0.06,
   weight: 2, dashArray: '10,6', pane: 'plateauBackgroundPane',
   interactive: true
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.palouse};margin:0 0 4px;">PALOUSE</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">Palúuspam — "People of the Palouse"</div>
-  <p><b>Language:</b> Sahaptin (closely related to Yakama and Nez Perce). The rolling bunchgrass hills of southeastern Washington — the "Palouse" landscape — take their name from this people.</p>
-  <p><b>Territory:</b> Palouse River, lower Snake River, and the rolling prairies of SE Washington. The rich bunchgrass provided ideal horse pasture.</p>
-  <p><b>The Appaloosa:</b> After horses arrived (~1730), the Palouse became among the most expert horse breeders in North America. They developed the spotted Appaloosa breed — named after the Palouse River ("a Palouse horse" → "Appaloosa"). They selectively bred for the distinctive spotted coat, endurance, and surefootedness. By the early 1800s, some families owned herds of 1,000+ horses.</p>
-  <p><b>Subsistence:</b> Salmon fishing at Snake River rapids, camas and root gathering on prairies, hunting deer and elk in surrounding hills. After horses, buffalo hunting trips to Montana.</p>
-  <p><b>Treaty refusal:</b> The Palouse refused to sign the 1855 Yakama Treaty and refused the Nez Perce Treaty. They refused to move to any reservation. Some joined the Yakima Wars (1855–58). After defeat, most were forced onto various reservations — Yakama, Colville, or Nez Perce. The Palouse never received their own reservation.</p>
-  <p><b>Chief Tilcoax:</b> Led Palouse resistance during the Yakima Wars. Refused to surrender and continued resistance after other chiefs made peace.</p>
-  <p><b>Today:</b> Palouse descendants are enrolled in the Yakama Nation, Colville Confederated Tribes, and Nez Perce Tribe. The Appaloosa is the state horse of Idaho.</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Trafzer & Scheuerman 1986, "Renegade Tribe: The Palouse Indians"; Haines 1955, "The Appaloosa Horse"; Handbook Vol. 12; Appaloosa Museum, Moscow, ID</p>
-</div>`, {maxWidth:420}).addTo(L_groups.palouseTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.palouse}">PALOUSE</h3>
+  <div class="tribe-sub">Palúuspam — "People of the Palouse" · Sahaptin speakers · No reservation</div>
+  <div class="tribe-quick">
+    <p><b>Language:</b> Sahaptin (closely related to Yakama and Nez Perce)</p>
+    <p><b>Territory:</b> Palouse River, lower Snake River, and rolling bunchgrass prairies of SE Washington — the "Palouse" landscape is named for them</p>
+    <p><b>Today:</b> Descendants enrolled in Yakama, Colville, and Nez Perce tribes</p>
+  </div>
+  <details><summary>The Appaloosa Horse</summary><div class="det">
+    <p>After horses arrived (~1730), the Palouse became among the finest breeders in North America. They developed the spotted <b>Appaloosa</b> breed — "a Palouse horse" → "Appaloosa." Selectively bred for spotted coat, endurance, and surefootedness. Some families owned 1,000+ horses. Now the state horse of Idaho.</p>
+  </div></details>
+  <details><summary>Treaty Refusal & Resistance</summary><div class="det">
+    <p>Refused the 1855 Yakama Treaty. Refused the Nez Perce Treaty. Refused to move to any reservation. Chief Tilcoax led resistance during the Yakima Wars (1855–58). After defeat, Palouse were scattered across Yakama, Colville, and Nez Perce reservations. They never received their own land.</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Trafzer & Scheuerman 1986, "Renegade Tribe"; Haines 1955, "The Appaloosa Horse"; Handbook Vol. 12; Appaloosa Museum, Moscow, ID</p>
+  </div></details>
+</div>`, {maxWidth:340}).addTo(L_groups.palouseTerr);
 
 L.marker([46.70, -117.60], {
   icon: L.divIcon({
@@ -356,19 +379,24 @@ L.polyline([
   [46.65, -119.93]  // Priest Rapids area
 ], {
   color: PLT.wanapum, weight: 4, opacity: 0.6, dashArray: '12,6'
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.wanapum};margin:0 0 4px;">WANAPUM</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">Wánapam — "River People"</div>
-  <p><b>Language:</b> Sahaptin (Plateau Penutian). Wánapam literally means "river people" — their entire identity was defined by the Columbia.</p>
-  <p><b>Territory:</b> Columbia River from Pasco (Snake River mouth) upstream ~50 miles to Priest Rapids — a stretch of river that was their entire world.</p>
-  <p><b>Population:</b> 500–800 at contact. Today: ~60 still live near Priest Rapids.</p>
-  <p><b>Principal village:</b> P'ná, 2 miles downstream of present Priest Rapids Dam. Anthropologist Verne Ray documented at least 4 village sites at the dam location (1936).</p>
-  <p><b>Rock art:</b> The Wanapum carved 300+ petroglyphs into basalt cliffs along the Columbia — one of the densest concentrations in the Northwest. Twin human figures with rayed arcs, mountain sheep, sun designs, abstract patterns. Most were drowned by Wanapum Dam (1963); 60 salvaged to Ginkgo State Park.</p>
-  <p><b>Dreamer Religion:</b> The prophet Smohalla (~1815–1895), a Wanapum, founded the Washane (Dreamer) Religion. He taught the earth was the mother of all people and could not be sold or divided. His followers prayed, danced, and dreamed rather than fighting. His teaching: "My young men shall never work. Men who work cannot dream, and wisdom comes to us in dreams."</p>
-  <p><b>No treaty, no land:</b> The Wanapum never fought settlers and never signed a treaty. Because they never went to war or negotiated, they were never assigned a reservation. They have no federally recognized land rights to this day. When Wanapum Dam was built (1963), Grant County PUD gave them permission to live on a small area near the dam — essentially guests on their own ancestral land.</p>
-  <p><b>Wanapum Heritage Center:</b> In 2015, Grant County PUD opened the Wanapum Heritage Center at Priest Rapids Dam — a cultural center designed with Wanapum input to tell their story and house cultural collections.</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Click 1986, "Smohalla and the Dreamer Religion"; Relander 1956, "Drummers and Dreamers"; Ray 1936; Wanapum Heritage Center; Handbook Vol. 12</p>
-</div>`, {maxWidth:420}).addTo(L_groups.wanapumTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.wanapum}">WANAPUM</h3>
+  <div class="tribe-sub">Wánapam — "River People" · Sahaptin speakers · ~60 remain near Priest Rapids</div>
+  <div class="tribe-quick">
+    <p><b>Territory:</b> Columbia River — Pasco to Priest Rapids (~50 miles)</p>
+    <p><b>Status:</b> No treaty, no reservation, no federally recognized land rights</p>
+    <p><b>Rock art:</b> 300+ petroglyphs carved into basalt cliffs (most drowned by Wanapum Dam, 1963)</p>
+  </div>
+  <details><summary>Dreamer Religion</summary><div class="det">
+    <p>Prophet <b>Smohalla</b> (~1815–1895) founded the Washane (Dreamer) Religion. He taught the earth was the mother of all people and could not be sold. "My young men shall never work. Men who work cannot dream, and wisdom comes to us in dreams."</p>
+  </div></details>
+  <details><summary>No Treaty, No Land</summary><div class="det">
+    <p>The Wanapum never fought and never signed a treaty. Because they never negotiated, they received no reservation. When Wanapum Dam was built (1963), Grant County PUD let them stay on a small parcel — guests on their own ancestral land. The Wanapum Heritage Center opened 2015.</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Click 1986; Relander 1956, "Drummers and Dreamers"; Ray 1936; Wanapum Heritage Center; Handbook Vol. 12</p>
+  </div></details>
+</div>`, {maxWidth:340}).addTo(L_groups.wanapumTerr);
 
 L.marker([46.45, -119.70], {
   icon: L.divIcon({
@@ -399,19 +427,27 @@ L.polygon([
   color: PLT.colville, fillColor: PLT.colville, fillOpacity: 0.05,
   weight: 2, dashArray: '10,6', pane: 'plateauBackgroundPane',
   interactive: true
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.colville};margin:0 0 4px;">COLVILLE CONFEDERATED TRIBES</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">11 Bands — Confederation est. April 9, 1872 by Executive Order of President Grant</div>
-  <p><b>11 bands:</b> Wenatchee (Pisquose), Entiat, Chelan, Methow, Okanogan (Sinkaietk), Nespelem, San Poil (Snpəlčqéns), Lakes (Sinixt/Arrow Lakes), Moses-Columbia, Palouse, and Chief Joseph Band of Nez Perce.</p>
-  <p><b>Languages:</b> Interior Salish (most bands), Sahaptin (Palouse, Nez Perce), and Okanagan (Okanogan). The confederation brings together peoples who spoke different languages but shared a Plateau culture.</p>
-  <p><b>Territory:</b> Combined pre-contact territories of the 11 bands spanned most of north-central Washington from the Cascades east to the Columbia/Spokane area and north to the Canadian border — millions of acres.</p>
-  <p><b>Formation:</b> Not a traditional political unit — the confederation was created by the U.S. government. In 1872, President Grant's Executive Order established the Colville Reservation for bands that had not signed treaties or had been displaced. Over decades, various bands were relocated there. The Chief Joseph Band of Nez Perce was forcibly settled on the reservation after their 1877 flight for freedom ended in surrender in Montana.</p>
-  <p><b>Kettle Falls (Shonitkwu):</b> The great salmon fishery and trading center was the shared heart of many Colville bands for 9,000+ years. Inundated by Grand Coulee Dam (1942), which blocked all salmon above it — devastating the economic and spiritual foundation of these peoples.</p>
-  <p><b>Grand Coulee Dam:</b> Built 1933–1942 on Colville Reservation land. The tribe received no compensation until 1994 — 52 years later — when Congress authorized annual payments. The tribe estimates total losses at over $3 billion.</p>
-  <p><b>Lakes (Sinixt):</b> The Canadian government declared the Sinixt/Arrow Lakes people "extinct" in 1956. They are very much alive as part of the Colville Confederation. In 2021, the Canadian Supreme Court ruled the Sinixt have Aboriginal rights in British Columbia.</p>
-  <p><b>Today:</b> 1.4 million-acre reservation in Okanogan and Ferry Counties. ~9,400 enrolled members. Tribal headquarters in Nespelem, WA.</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Colville Confederated Tribes (colvilletribes.com); Chance & Chance 1982; Kennedy & Bouchard 1998, Handbook Vol. 12; NPS; Canadian Supreme Court R. v. Desautel (2021)</p>
-</div>`, {maxWidth:420}).addTo(L_groups.colvilleTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.colville}">COLVILLE CONFEDERATED TRIBES</h3>
+  <div class="tribe-sub">11 Bands · Est. 1872 by Pres. Grant · ~9,400 enrolled · HQ: Nespelem, WA</div>
+  <div class="tribe-quick">
+    <p><b>Languages:</b> Interior Salish (most bands), Sahaptin (Palouse, Nez Perce), Okanagan</p>
+    <p><b>Reservation:</b> 1.4 million acres, Okanogan & Ferry Counties</p>
+    <p><b>Bands:</b> Wenatchee, Entiat, Chelan, Methow, Okanogan, Nespelem, San Poil, Lakes (Sinixt), Moses-Columbia, Palouse, Chief Joseph Band Nez Perce</p>
+  </div>
+  <details><summary>Formation & History</summary><div class="det">
+    <p>Not a traditional political unit — created by U.S. government. President Grant's 1872 Executive Order established the reservation for bands without treaties or displaced from homelands. Chief Joseph's Nez Perce were forcibly settled here after their 1877 flight ended in Montana.</p>
+  </div></details>
+  <details><summary>Grand Coulee Dam</summary><div class="det">
+    <p>Built 1933–42 on Colville land. Blocked ALL salmon above — no fish ladder. Inundated Kettle Falls (9,000+ years of use). Tribe received no compensation until 1994 — 52 years later. Estimated total losses: $3+ billion.</p>
+  </div></details>
+  <details><summary>The Sinixt (Lakes)</summary><div class="det">
+    <p>The Canadian government declared the Sinixt/Arrow Lakes people "extinct" in 1956. They are alive as part of the Colville Confederation. In 2021, the Canadian Supreme Court (R. v. Desautel) ruled the Sinixt have Aboriginal rights in British Columbia.</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Colville Confederated Tribes (colvilletribes.com); Chance & Chance 1982; Kennedy & Bouchard 1998, Handbook Vol. 12; Canadian Supreme Court R. v. Desautel 2021</p>
+  </div></details>
+</div>`, {maxWidth:340}).addTo(L_groups.colvilleTerr);
 
 L.marker([48.30, -119.00], {
   icon: L.divIcon({
@@ -439,21 +475,27 @@ L.polygon([
   color: PLT.coeur, fillColor: PLT.coeur, fillOpacity: 0.06,
   weight: 2, dashArray: '10,6', pane: 'plateauBackgroundPane',
   interactive: true
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.coeur};margin:0 0 4px;">COEUR D'ALENE</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">Schitsu'umsh — "The Ones Found Here" or "Those Who Are Found Here"</div>
-  <p><b>Language:</b> Interior Salish (Southern branch). Related to Spokane, Kalispel, and Flathead.</p>
-  <p><b>Territory:</b> 4–5 million acres centered on Lake Coeur d'Alene and the Coeur d'Alene River system in northern Idaho, extending into eastern Washington and western Montana. From the Bitterroot Range west to the Palouse prairie.</p>
-  <p><b>Population:</b> ~5,000 at contact in ~35 semi-permanent winter villages. Today: ~2,500 enrolled members.</p>
-  <p><b>Name origin:</b> French Canadian fur traders named them "Cœur d'Alêne" — "Heart of an Awl" (meaning sharp-hearted or shrewd) — acknowledging their skill and toughness in trade negotiations. The Coeur d'Alene drove famously hard bargains.</p>
-  <p><b>Subsistence:</b> Salmon and steelhead (Coeur d'Alene, St. Joe, and Spokane Rivers), water potato (wapato) and camas from lake marshes, bitterroot from prairies, deer and elk from mountains. Lake Coeur d'Alene provided year-round fish and waterfowl.</p>
-  <p><b>Sacred sites:</b> Steptoe Butte — 500-million-year-old quartzite rising 1,000+ ft above the Palouse prairie. Vision quest site. Named by the U.S. military after Lt. Col. Steptoe, whom the Coeur d'Alene defeated at the Battle of Pine Creek (May 1858).</p>
-  <p><b>Coeur d'Alene War (1858):</b> Alongside Spokane and Palouse warriors, the Coeur d'Alene defeated Steptoe's column near present-day Rosalia, WA. Col. Wright's retaliatory campaign broke resistance — he hanged leaders and destroyed food stores and horses.</p>
-  <p><b>Cataldo Mission:</b> The oldest standing building in Idaho (built 1850–53). Jesuit missionaries and Coeur d'Alene people built the church together using traditional post-and-beam construction with wattle-and-daub walls. Now a state park.</p>
-  <p><b>Environmental justice:</b> The Coeur d'Alene basin was devastated by silver/lead mining (Bunker Hill mine, 1885–1981). Millions of tons of heavy metals contaminated Lake Coeur d'Alene and 200+ miles of waterways. The tribe has led cleanup efforts and won a landmark $780 million settlement (2011) — one of the largest environmental settlements in U.S. history.</p>
-  <p><b>Today:</b> 345,000-acre reservation south of Lake Coeur d'Alene. Tribal headquarters in Plummer, ID.</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Palmer 1998, "Coeur d'Alene" in Handbook Vol. 12; Frey 2001, "Landscape Traveled by Coyote and Crane"; Coeur d'Alene Tribe (cdatribe-nsn.gov); NPS Cataldo Mission; EPA Bunker Hill Superfund Site</p>
-</div>`, {maxWidth:420}).addTo(L_groups.coeurTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.coeur}">COEUR D'ALENE</h3>
+  <div class="tribe-sub">Schitsu'umsh — "The Ones Found Here" · Interior Salish · ~2,500 enrolled</div>
+  <div class="tribe-quick">
+    <p><b>Territory:</b> 4–5 million acres centered on Lake Coeur d'Alene, N. Idaho into E. Washington & W. Montana</p>
+    <p><b>Name:</b> French traders called them "Heart of an Awl" — acknowledging their toughness in trade</p>
+    <p><b>Reservation:</b> 345,000 acres south of Lake Coeur d'Alene. HQ: Plummer, ID</p>
+  </div>
+  <details><summary>Culture & Sacred Sites</summary><div class="det">
+    <p>~35 winter villages, ~5,000 at contact. Salmon, wapato, camas, deer/elk from lake and mountains.</p>
+    <p><b>Steptoe Butte:</b> 500-million-year-old quartzite — vision quest site. Named after Lt. Col. Steptoe whom the Coeur d'Alene defeated at Battle of Pine Creek (May 1858).</p>
+    <p><b>Cataldo Mission (1850–53):</b> Oldest standing building in Idaho. Jesuits and Coeur d'Alene built it together. Now a state park.</p>
+  </div></details>
+  <details><summary>Wars & Environmental Justice</summary><div class="det">
+    <p><b>1858 War:</b> With Spokane and Palouse, defeated Steptoe's column. Col. Wright's retaliation: hangings, horse slaughter, food destruction.</p>
+    <p><b>Mining disaster:</b> Silver/lead mining (Bunker Hill, 1885–1981) contaminated Lake Coeur d'Alene and 200+ miles of waterways. The tribe won a $780 million settlement (2011) — one of the largest environmental settlements in U.S. history.</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Palmer 1998, Handbook Vol. 12; Frey 2001, "Landscape Traveled by Coyote and Crane"; Coeur d'Alene Tribe (cdatribe-nsn.gov); EPA Bunker Hill Superfund</p>
+  </div></details>
+</div>`, {maxWidth:340}).addTo(L_groups.coeurTerr);
 
 L.marker([47.40, -116.80], {
   icon: L.divIcon({
@@ -488,21 +530,27 @@ L.polygon([
   color: PLT.kalispel, fillColor: PLT.kalispel, fillOpacity: 0.05,
   weight: 2, dashArray: '10,6', pane: 'plateauBackgroundPane',
   interactive: true
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.kalispel};margin:0 0 4px;">KALISPEL TRIBE</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">Qlispé — "People of the Pend Oreille" (also Pend d'Oreilles)</div>
-  <p><b>Language:</b> Interior Salish (Kalispel-Spokane-Flathead branch). Very closely related to Spokane. The name "Pend Oreille" (French: "ear pendant") was given by fur traders who noted their shell earrings.</p>
-  <p><b>Territory:</b> ~200 miles along the Pend Oreille and Clark Fork Rivers, from NE Washington through northern Idaho to western Montana. Lake Pend Oreille (Idaho's largest lake) was central to their territory.</p>
-  <p><b>Two divisions:</b> Upper Kalispel (moved to the Flathead Reservation in Montana with the Salish and Kootenai) and Lower Kalispel (remained on the Pend Oreille River in NE Washington — refused to leave their homeland).</p>
-  <p><b>Population:</b> ~1,000–1,600 at contact. Lower Kalispel today: ~470 enrolled members.</p>
-  <p><b>Subsistence:</b> Salmon and trout from Pend Oreille River and Lake Pend Oreille, camas from lakeside meadows, bitterroot, deer, elk, bear. Large bark canoes navigated the lake and rivers. After horses, buffalo hunting trips across the Rockies to Montana.</p>
-  <p><b>Archaeology:</b> 9,000+ year old encampment documented near Priest River, ID — among the oldest habitation sites in the Pend Oreille region.</p>
-  <p><b>Bear Paw Rock:</b> Sacred petroglyphs memorializing a genesis story of the Kalispel people, near Denton Slough. Now partially flooded by Albeni Falls Dam (1955).</p>
-  <p><b>Resistance to removal:</b> Unlike most tribes, the Lower Kalispel stubbornly refused to join the Flathead Reservation when pressured throughout the 1850s–1900s. They remained on their river. Finally received a small reservation (4,600 acres) in 1914 — one of the last reservations created in the U.S.</p>
-  <p><b>Dam impacts:</b> Albeni Falls Dam (1955) on the Pend Oreille River flooded ~2,000 acres of Kalispel land including Indian Meadows (powwow grounds) and Bear Paw Rock. Box Canyon Dam (1955) further altered river flows.</p>
-  <p><b>Today:</b> 4,600-acre reservation in Pend Oreille County, WA, near Usk. The tribe operates Northern Quest Resort & Casino in Spokane (major employer). Headquarters in Usk, WA.</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Lahren 1998, "Kalispel" in Handbook Vol. 12; Kalispel Tribe of Indians (kalispeltribe.com); Ruby & Brown 1981, "The Kalispel"; NPS</p>
-</div>`, {maxWidth:420}).addTo(L_groups.kalispelTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.kalispel}">KALISPEL TRIBE</h3>
+  <div class="tribe-sub">Qlispé — "People of the Pend Oreille" · Interior Salish · ~470 enrolled (Lower)</div>
+  <div class="tribe-quick">
+    <p><b>Territory:</b> ~200 miles along Pend Oreille & Clark Fork Rivers — NE Washington through N. Idaho to W. Montana</p>
+    <p><b>Two divisions:</b> Upper (moved to Flathead Reservation, MT) and Lower (refused to leave — remained in WA)</p>
+    <p><b>Reservation:</b> 4,600 acres, Pend Oreille County. HQ: Usk, WA</p>
+  </div>
+  <details><summary>Culture & Archaeology</summary><div class="det">
+    <p>1,000–1,600 at contact. Salmon/trout, camas, bitterroot, deer, bear. Large bark canoes on lake and rivers. After horses: buffalo trips to Montana.</p>
+    <p><b>9,000+ years:</b> Encampment near Priest River, ID — among the oldest in the Pend Oreille region.</p>
+    <p><b>Bear Paw Rock:</b> Sacred petroglyphs memorializing a genesis story. Partially flooded by Albeni Falls Dam (1955).</p>
+  </div></details>
+  <details><summary>Resistance & Dam Impacts</summary><div class="det">
+    <p>The Lower Kalispel stubbornly refused to join the Flathead Reservation throughout the 1850s–1900s. Received a small reservation in 1914 — one of the last created in the U.S.</p>
+    <p>Albeni Falls Dam (1955) flooded ~2,000 acres including Indian Meadows powwow grounds and Bear Paw Rock.</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Lahren 1998, Handbook Vol. 12; Kalispel Tribe (kalispeltribe.com); Ruby & Brown 1981; NPS</p>
+  </div></details>
+</div>`, {maxWidth:340}).addTo(L_groups.kalispelTerr);
 
 L.marker([48.20, -116.80], {
   icon: L.divIcon({
@@ -531,22 +579,33 @@ L.polygon([
   color: PLT.nezperce, fillColor: PLT.nezperce, fillOpacity: 0.05,
   weight: 2, dashArray: '10,6', pane: 'plateauBackgroundPane',
   interactive: true
-}).bindPopup(`<div class="popup-content" style="max-width:400px;">
-  <h3 style="color:${PLT.nezperce};margin:0 0 4px;">NEZ PERCE</h3>
-  <div style="font-size:11px;color:#aaa;margin-bottom:8px;">Nimiipuu — "The Real People" or "We the People"</div>
-  <p><b>Language:</b> Nez Perce (Nimipuutímt) — Sahaptian family. Related to but distinct from Sahaptin languages (Yakama, Palouse). Sahaptian speakers have occupied the Columbia Plateau for 2,000–5,000+ years.</p>
-  <p><b>Territory:</b> 13+ million acres across central Idaho, SE Washington, and NE Oregon. The Clearwater, Salmon, and Snake River basins — including Hells Canyon (deepest gorge in North America, deeper than the Grand Canyon). From the Bitterroot Mountains west to the Blue Mountains.</p>
-  <p><b>Population:</b> ~6,000 at contact. Today: ~3,500 enrolled members.</p>
-  <p><b>Name:</b> "Nez Percé" (French: "pierced nose") was applied by French traders, possibly from a misunderstanding — the Nez Perce did NOT typically pierce their noses (neighboring Chinookan peoples did). The name stuck despite being wrong.</p>
-  <p><b>Subsistence:</b> Salmon (Clearwater, Salmon, Snake Rivers — massive annual runs), camas root (dug from Camas Prairie and Weippe Prairie — Lewis & Clark survived on Nez Perce camas in 1805), bitterroot, huckleberries. Deer, elk, mountain sheep. After horses: buffalo hunting trips across the Rockies.</p>
-  <p><b>Horse culture:</b> The Nez Perce were among the finest horse breeders in the Americas. Along with the Palouse, they developed the Appaloosa breed through selective breeding for spotted coat, speed, endurance, and temperament. Their horse herds numbered in the thousands — the foundation of their wealth and military power.</p>
-  <p><b>Lewis & Clark (1805):</b> The expedition stumbled out of the Bitterroot Mountains starving in September 1805. The Nez Perce, led by Chief Twisted Hair, fed them, nursed them back to health, taught them to make dugout canoes, and cared for their horses over winter. Without Nez Perce generosity, the expedition would have ended in the Bitterroots. The Nez Perce asked for nothing in return.</p>
-  <p><b>The 1863 "Steal Treaty":</b> After gold was discovered on Nez Perce land (1860), the government forced a new treaty reducing the reservation from 7.5 million to 750,000 acres — a 90% reduction. Non-treaty bands (including Chief Joseph's Wallowa band) refused to sign. This split the Nez Perce into "treaty" and "non-treaty" factions.</p>
-  <p><b>Chief Joseph's Flight (1877):</b> When the Army ordered all non-treaty Nez Perce onto the reduced reservation, ~750 people (including women, children, and elderly) fled toward Canada under Chiefs Joseph (Hin-mah-too-yah-lat-kekt — "Thunder Rolling Down the Mountains"), Looking Glass, and White Bird. They fought a running 1,170-mile retreat across Idaho, Wyoming, and Montana — defeating or eluding the U.S. Army in multiple battles. Captured just 40 miles from Canada at Bear Paw (Oct. 1877). Joseph's surrender speech: "Hear me, my chiefs! I am tired; my heart is sick and sad. From where the sun now stands, I will fight no more forever."</p>
-  <p><b>Exile:</b> Joseph's band was exiled to Indian Territory (Oklahoma) for 8 years. Many died of malaria and heartbreak. Joseph never returned to the Wallowa Valley. He was sent to the Colville Reservation, where he died in 1904 — "of a broken heart," his doctor said.</p>
-  <p><b>Today:</b> Nez Perce Reservation: 750,000 acres in north-central Idaho. Tribal headquarters in Lapwai, ID. Nez Perce National Historical Park spans 38 sites across 4 states telling the complete Nez Perce story.</p>
-  <p style="font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;"><b>Sources:</b> Walker 1998, "Nez Perce" in Handbook Vol. 12; Josephy 1965, "The Nez Perce Indians and the Opening of the Northwest"; Hampton 1994, "Children of Grace: The Nez Perce War of 1877"; NPS Nez Perce NHP; Nez Perce Tribe (nezperce.org)</p>
-</div>`, {maxWidth:420}).addTo(L_groups.nezperceTerr);
+}).bindPopup(`<div class="popup-content">
+  <h3 class="tribe-header" style="color:${PLT.nezperce}">NEZ PERCE</h3>
+  <div class="tribe-sub">Nimiipuu — "The Real People" · Sahaptian · ~3,500 enrolled · HQ: Lapwai, ID</div>
+  <div class="tribe-quick">
+    <p><b>Territory:</b> 13+ million acres — Clearwater, Salmon, Snake River basins including Hells Canyon (deepest gorge in N. America)</p>
+    <p><b>Name:</b> "Nez Percé" (French: "pierced nose") was a misidentification — the Nez Perce did NOT pierce their noses</p>
+    <p><b>Reservation:</b> 750,000 acres, north-central Idaho</p>
+  </div>
+  <details><summary>Culture & Horses</summary><div class="det">
+    <p>~6,000 at contact. Salmon (massive Clearwater/Salmon runs), camas (Weippe & Camas Prairies), bitterroot, deer, elk.</p>
+    <p><b>Appaloosa:</b> Among the finest horse breeders in the Americas. With the Palouse, developed the Appaloosa through selective breeding. Herds numbered in the thousands — the foundation of their wealth and military power.</p>
+    <p><b>Lewis & Clark (1805):</b> The expedition stumbled from the Bitterroots starving. The Nez Perce fed them, nursed them, taught canoe-making, and cared for their horses over winter. Without Nez Perce generosity, the expedition would have failed.</p>
+  </div></details>
+  <details><summary>Treaties & the "Steal Treaty"</summary><div class="det">
+    <p><b>1855:</b> Treaty reserved 7.5 million acres.</p>
+    <p><b>1863 "Steal Treaty":</b> After gold discovered on Nez Perce land (1860), reservation reduced 90% — from 7.5 million to 750,000 acres. Non-treaty bands (including Chief Joseph's Wallowa) refused to sign.</p>
+  </div></details>
+  <details><summary>Chief Joseph's Flight (1877)</summary><div class="det">
+    <p>When ordered onto the reduced reservation, ~750 Nez Perce (women, children, elderly) fled toward Canada under Chiefs Joseph (Hin-mah-too-yah-lat-kekt — "Thunder Rolling Down the Mountains"), Looking Glass, and White Bird.</p>
+    <p>1,170-mile fighting retreat across Idaho, Wyoming, Montana — defeating the Army in multiple battles. Captured 40 miles from Canada at Bear Paw (Oct. 1877).</p>
+    <p>Joseph's surrender: <i>"Hear me, my chiefs! I am tired; my heart is sick and sad. From where the sun now stands, I will fight no more forever."</i></p>
+    <p>Exiled to Oklahoma 8 years. Many died. Joseph sent to Colville Reservation; died 1904 — "of a broken heart," his doctor said. Never returned to Wallowa Valley.</p>
+  </div></details>
+  <details><summary>Sources</summary><div class="det">
+    <p>Walker 1998, Handbook Vol. 12; Josephy 1965, "The Nez Perce Indians"; Hampton 1994; NPS Nez Perce NHP; nezperce.org</p>
+  </div></details>
+</div>`, {maxWidth:340}).addTo(L_groups.nezperceTerr);
 
 L.marker([46.10, -115.80], {
   icon: L.divIcon({
