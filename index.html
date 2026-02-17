@@ -39,6 +39,7 @@
   <button class="region-btn" onclick="flyTo('lostcoast')">Lost Coast</button>
   <button class="region-btn" onclick="flyTo('lavabeds')">Lava Beds</button>
   <button class="region-btn" onclick="flyTo('sacvalley')">Sacramento Valley</button>
+  <button class="region-btn" onclick="flyTo('easternwa')">Eastern WA</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -367,6 +368,32 @@
     </div>
   </div>
 
+  <!-- ============ EASTERN WASHINGTON / COLUMBIA PLATEAU ============ -->
+  <div class="culture-section" id="culture-plateau" data-regions="overview easternwa">
+    <div class="culture-header" onclick="toggleCulture('plateau')">
+      <div class="culture-color-bar" style="background:#B8860B;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Columbia Plateau Peoples</div>
+        <div class="culture-meta">Eastern WA · 11,300 BCE – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('plateau',this.checked)" title="Toggle all Plateau layers">
+      <span class="culture-arrow" id="arrow-plateau">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-plateau">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('plateauArchSites')"><span style="color:#4682B4">Precontact sites (Clovis, Windust, Cascade)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yakamaTerr')"><span style="color:#B8860B">Yakama Nation (14 bands)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('spokaneTerr')"><span style="color:#CD853F">Spokane Tribe</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('palouseTerr')"><span style="color:#D2691E">Palouse</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wanapumTerr')"><span style="color:#DAA520">Wanapum</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('colvilleTerr')"><span style="color:#BC8F8F">Colville Confederated (11 bands)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('coeurTerr')"><span style="color:#8FBC8F">Coeur d'Alene</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('kalispelTerr')"><span style="color:#5F9EA0">Kalispel</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('nezperceTerr')"><span style="color:#A0522D">Nez Perce (Nimiipuu)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('plateauRockArt')"><span style="color:#FFD700">Rock art sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('plateauDams')"><span style="color:#696969">Dams & inundated sites</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -449,4 +476,5 @@
 <script src="js/34-wappo-shasta.js"></script>
 <script src="js/35-tribe-popups.js"></script>
 <script src="js/36-tribe-popups-2.js"></script>
+<script src="js/37-eastern-wa.js"></script>
 </html>
