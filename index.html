@@ -40,6 +40,7 @@
   <button class="region-btn" onclick="flyTo('lavabeds')">Lava Beds</button>
   <button class="region-btn" onclick="flyTo('sacvalley')">Sacramento Valley</button>
   <button class="region-btn" onclick="flyTo('easternwa')">Eastern WA</button>
+  <button class="region-btn" onclick="flyTo('hudsonvalley')">Hudson Valley</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -394,6 +395,29 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-mohican" data-regions="overview hudsonvalley">
+    <div class="culture-header" onclick="toggleCulture('mohican')">
+      <div class="culture-color-bar" style="background:#8B4513;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Mohican / Hudson Valley</div>
+        <div class="culture-meta">Muh-he-kun-ne-tuk · 15,000 BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('mohican',this.checked)" title="Toggle all Mohican layers">
+      <span class="culture-arrow" id="arrow-mohican">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-mohican">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanGlacialLakes')"><span style="color:#4682B4">Glacial lakes (Albany, Hitchcock, Vermont)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanChamplainSea')"><span style="color:#006994">Champlain Sea (saltwater — beluga whales!)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanArchSites')"><span style="color:#708090">Paleoindian / archaeological sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanRivers')"><span style="color:#006D6F">Rivers & trade routes (Hudson, CT, Housatonic)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanVillages')"><span style="color:#DEB887">Mohican villages & habitation</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanSacred')"><span style="color:#DC143C">Sacred sites, fisheries & petroglyphs</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanWetlands')"><span style="color:#2E8B57">Surviving tidal wetlands</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanDams')"><span style="color:#696969">Dams & destruction</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanLost')"><span style="color:#B22222">Lost features (drowned petroglyphs, salmon runs)</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -477,4 +501,5 @@
 <script src="js/35-tribe-popups.js"></script>
 <script src="js/36-tribe-popups-2.js"></script>
 <script src="js/37-eastern-wa.js"></script>
+<script src="js/38-mohican-hudson.js"></script>
 </html>

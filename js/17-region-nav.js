@@ -16,7 +16,8 @@ function flyTo(region) {
     lostcoast: [40.4, -124.15, 10],
     lavabeds: [41.75, -121.50, 10],
     sacvalley: [40.5, -122.0, 8],
-    easternwa: [47.0, -118.5, 7]
+    easternwa: [47.0, -118.5, 7],
+    hudsonvalley: [42.5, -73.5, 7]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});

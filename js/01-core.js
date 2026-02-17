@@ -94,7 +94,16 @@ const layerNames = ['ancientRivers','ancientLakes','modernDams','modernReservoir
   'kalispelTerr',
   'nezperceTerr',
   'plateauRockArt',
-  'plateauDams'];
+  'plateauDams',
+  'mohicanGlacialLakes',
+  'mohicanChamplainSea',
+  'mohicanArchSites',
+  'mohicanRivers',
+  'mohicanVillages',
+  'mohicanSacred',
+  'mohicanWetlands',
+  'mohicanDams',
+  'mohicanLost'];
 layerNames.forEach(n => { L_groups[n] = (n === 'eastBaySites') ? L.markerClusterGroup({maxClusterRadius:40}) : L.layerGroup(); L_groups[n].addTo(map); });
 
 function toggle(name) { map.hasLayer(L_groups[name]) ? map.removeLayer(L_groups[name]) : L_groups[name].addTo(map); }
