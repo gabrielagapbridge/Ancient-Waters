@@ -113,7 +113,11 @@ const layerNames = ['ancientRivers','ancientLakes','modernDams','modernReservoir
   'mohicanLakesBefore',
   'mohicanLakesAfter',
   'mohicanReservoirs',
-  'mohicanHousatonicDams'];
+  'mohicanHousatonicDams',
+  'mohicanTerritory',
+  'mohicanHistoric',
+  'mohicanUrban',
+  'mohicanModern'];
 layerNames.forEach(n => { L_groups[n] = (n === 'eastBaySites') ? L.markerClusterGroup({maxClusterRadius:40}) : L.layerGroup(); L_groups[n].addTo(map); });
 
 function toggle(name) { map.hasLayer(L_groups[name]) ? map.removeLayer(L_groups[name]) : L_groups[name].addTo(map); }
