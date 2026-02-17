@@ -41,6 +41,7 @@
   <button class="region-btn" onclick="flyTo('sacvalley')">Sacramento Valley</button>
   <button class="region-btn" onclick="flyTo('easternwa')">Eastern WA</button>
   <button class="region-btn" onclick="flyTo('hudsonvalley')">Hudson Valley</button>
+  <button class="region-btn" onclick="flyTo('manhattan')">Mannahatta</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -415,6 +416,12 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanWetlands')"><span style="color:#2E8B57">Surviving tidal wetlands</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanDams')"><span style="color:#696969">Dams & destruction</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanLost')"><span style="color:#B22222">Lost features (drowned petroglyphs, salmon runs)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanOrigShoreline')"><span style="color:#FF8C00">Original shorelines (pre-fill)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanFillZones')"><span style="color:#A0522D">Artificial fill zones</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanBuriedWater')"><span style="color:#6495ED">Buried streams & lost ponds</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanLostIslands')"><span style="color:#CD853F">Lost islands & side channels</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanArchInFill')"><span style="color:#DAA520">Archaeological finds in fill</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mohicanContamination')"><span style="color:#8B0000">Contamination zones (PCBs, landfills)</span></label>
     </div>
   </div>
 
@@ -502,4 +509,5 @@
 <script src="js/36-tribe-popups-2.js"></script>
 <script src="js/37-eastern-wa.js"></script>
 <script src="js/38-mohican-hudson.js"></script>
+<script src="js/39-mohican-fill.js"></script>
 </html>
