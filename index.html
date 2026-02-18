@@ -21,7 +21,7 @@
 
 <div class="title-bar">
   <h1>Ancient Waters & Lost Landscapes</h1>
-  <p>Pre-contact water features, 525+ sites — Southwest & Bay Area with historical shoreline, buried waterways & 1873 land grants</p>
+  <p>Pre-contact water features, 617+ sites — Southwest & Bay Area with historical shoreline, buried waterways & 1873 land grants</p>
 </div>
 
 <div class="region-nav">
@@ -44,6 +44,7 @@
   <button class="region-btn" onclick="flyTo('hudsonvalley')">Hudson Valley</button>
   <button class="region-btn" onclick="flyTo('manhattan')">Mannahatta</button>
   <button class="region-btn" onclick="flyTo('mojavedesert')">Mojave Desert</button>
+  <button class="region-btn" onclick="flyTo('diablorange')">Diablo Range</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -59,11 +60,12 @@
   <div class="stat-row"><span>Springs</span><span class="stat-val">13</span></div>
   <div class="stat-row"><span>Trade Routes</span><span class="stat-val">8</span></div>
   <div class="stat-row"><span>Rock Art Regions</span><span class="stat-val">4</span></div>
+  <div class="stat-row"><span>Diablo Range Cupules</span><span class="stat-val">76+</span></div>
   <div class="stat-row"><span>Rock Art Sites (S-Central)</span><span class="stat-val">15</span></div>
   <div class="stat-row"><span>Ciénegas</span><span class="stat-val">4</span></div>
   <div class="stat-row"><span>Dams</span><span class="stat-val">11</span></div>
   <div class="stat-row" style="margin-top:4px;padding-top:4px;border-top:1px solid rgba(193,154,107,0.15);">
-    <span style="color:var(--sand);">Total Points</span><span class="stat-val">541+</span>
+    <span style="color:var(--sand);">Total Points</span><span class="stat-val">617+</span>
   </div>
   </div>
 </div>
@@ -171,6 +173,23 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('sValleyYokuts')"><span style="color:#FFA726">Southern Valley Yokuts territory</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('foothillYokuts')"><span style="color:#8D6E63">Foothill Yokuts territory</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('yokutsNeighbors')"><span style="color:#CE93D8">Neighbors (Mono, Kawaiisu, Tübatulabal, Kitanemuk)</span></label>
+    </div>
+  </div>
+
+  <!-- DIABLO RANGE CUPULE PETROGLYPHS -->
+  <div class="culture-section" id="culture-diablo" data-regions="diablorange eastbay">
+    <div class="culture-header" onclick="toggleCulture('diablo')">
+      <div class="culture-color-bar" style="background:#8D6E63;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Diablo Range Cupule Petroglyphs</div>
+        <div class="culture-meta">Mt. Diablo to Temblor Range · 76+ sites · Parkman 1986 study</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('diablo',this.checked)" title="Toggle all Diablo Range layers">
+      <span class="culture-arrow" id="arrow-diablo">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-diablo">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('diabloCupules')"><span style="color:#D7CCC8">Cupule petroglyph sites — 76+ recorded</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('diabloTerritory')"><span style="color:#8D6E63">Diablo Range boundary (approximate)</span></label>
     </div>
   </div>
 
@@ -564,5 +583,5 @@
 <script src="js/44-mojave-spirit-geo.js"></script>
 <script src="js/45-mojave-rockart.js"></script>
 <script src="js/46-hulkuhku-landscape.js"></script>
-<script src="js/46-hulkuhku-landscape.js"></script>
+<script src="js/47-diablo-cupules.js"></script>
 </html>
