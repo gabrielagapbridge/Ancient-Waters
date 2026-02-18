@@ -42,6 +42,7 @@
   <button class="region-btn" onclick="flyTo('easternwa')">Eastern WA</button>
   <button class="region-btn" onclick="flyTo('hudsonvalley')">Hudson Valley</button>
   <button class="region-btn" onclick="flyTo('manhattan')">Mannahatta</button>
+  <button class="region-btn" onclick="flyTo('mojavedesert')">Mojave Desert</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -433,6 +434,29 @@
     </div>
   </div>
 
+  <div class="culture-section" id="culture-mojave" data-regions="overview mojavedesert">
+    <div class="culture-header" onclick="toggleCulture('mojave')">
+      <div class="culture-color-bar" style="background:#FF8F00;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Mojave Desert Peoples</div>
+        <div class="culture-meta">Mohave, Chemehuevi, Vanyume, Serrano & more · Pleistocene – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('mojave',this.checked)" title="Toggle all Mojave Desert layers">
+      <span class="culture-arrow" id="arrow-mojave">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-mojave">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveLakes')"><span style="color:#42A5F5">Ancient pluvial lakes</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveRiver')"><span style="color:#2196F3">Mojave River system</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveSprings')"><span style="color:#00ACC1">Desert springs & oases</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveColorado')"><span style="color:#1565C0">Colorado River corridor</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveVillages')"><span style="color:#FF8F00">Village sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveSacred')"><span style="color:#CE93D8">Sacred sites & geoglyphs</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveArch')"><span style="color:#EF5350">Archaeological sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveTrail')"><span style="color:#D4760A">Mojave Trail (trade route)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveTerritories')"><span style="color:#A1887F">Tribal territories</span></label>
+    </div>
+  </div>
+
   <!-- ============ LANDSCAPE & ENVIRONMENT ============ -->
   <div class="layer-section" style="margin-top:6px;">
     <div class="layer-section-title">Landscape & Environment</div>
@@ -520,4 +544,5 @@
 <script src="js/39-mohican-fill.js"></script>
 <script src="js/40-mohican-lakes.js"></script>
 <script src="js/41-mohican-arch-sites.js"></script>
+<script src="js/42-mojave-desert.js"></script>
 </html>
