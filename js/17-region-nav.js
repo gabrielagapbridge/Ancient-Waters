@@ -10,6 +10,7 @@ function flyTo(region) {
     owensvalley: [36.8, -117.8, 8],
     eastbay: [37.75, -121.9, 10],
     chumash: [34.35, -119.5, 9],
+    windwolves: [34.91, -119.17, 12],
     lakecountry: [39.0, -122.75, 11],
     russianriver: [38.7, -123.0, 10],
     eelriver: [39.7, -123.3, 10],
