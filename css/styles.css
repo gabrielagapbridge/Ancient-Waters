@@ -362,12 +362,12 @@
 
   /* Region nav */
   .region-nav {
-    position: fixed; top: 8px; left: 12px; right: 12px; z-index: 1001;
-    display: flex; gap: 0; border-radius: 16px;
+    position: fixed; top: 8px; left: 0; right: 0; z-index: 1001;
+    display: flex; gap: 0;
     overflow-x: auto; overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
-    border: 1px solid rgba(193,154,107,0.25);
+    padding: 0 12px;
     scroll-behavior: smooth;
   }
   .region-nav::-webkit-scrollbar { display: none; }
@@ -377,7 +377,10 @@
     background: rgba(26,18,8,0.85); color: var(--text-dim);
     backdrop-filter: blur(10px); transition: all 0.3s;
     white-space: nowrap; flex-shrink: 0;
+    border-right: 1px solid rgba(193,154,107,0.15);
   }
+  .region-btn:first-child { border-radius: 16px 0 0 16px; }
+  .region-btn:last-child { border-radius: 0 16px 16px 0; border-right: none; }
   .region-btn.active { background: rgba(30,107,138,0.5); color: var(--turquoise); }
   .region-btn:hover { color: var(--sand); }
 
@@ -460,5 +463,5 @@
     .layer-panel { width: 190px; font-size: 11px; top: 55px; }
     .stats-bar { display: none; }
     .title-bar h1 { font-size: 15px; }
-    .region-nav { top: 5px; }
+    .region-nav { top: 5px; padding: 0 8px; }
   }
