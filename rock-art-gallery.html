@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rock Art Gallery — Ancient Waters</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0a0a;
+  --bg-card: #141414;
+  --bg-card-hover: #1a1a1a;
+  --border: #2a2a2a;
+  --border-accent: #FF7043;
+  --text: #e0e0e0;
+  --text-dim: #888;
+  --text-bright: #fff;
+  --accent: #FF7043;
+  --accent2: #FFD600;
+  --accent3: #E040FB;
+  --region-header: #1e1e1e;
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'EB Garamond', Georgia, serif;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* --- HEADER --- */
+.gallery-header {
+  text-align: center;
+  padding: 60px 20px 40px;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, #111 0%, var(--bg) 100%);
+}
+.gallery-header h1 {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.gallery-header .subtitle {
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--text-dim);
+  margin-bottom: 16px;
+}
+.gallery-header .description {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 0.95rem;
+  color: #999;
+  line-height: 1.7;
+}
+.gallery-header .stats {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+.gallery-header .stat {
+  text-align: center;
+}
+.gallery-header .stat-num {
+  font-family: 'Cinzel', serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.gallery-header .stat-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--text-dim);
+}
+.nav-back {
+  display: inline-block;
+  margin-top: 20px;
+  color: var(--accent);
+  text-decoration: none;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+.nav-back:hover { opacity: 1; }
+
+/* --- FILTER BAR --- */
+.filter-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(10,10,10,0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.filter-bar input[type="search"] {
+  flex: 1;
+  min-width: 200px;
+  background: #1a1a1a;
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 14px;
+  border-radius: 4px;
+  font-family: 'EB Garamond', serif;
+  font-size: 0.95rem;
+}
+.filter-bar input::placeholder { color: #555; }
+.filter-bar select {
+  background: #1a1a1a;
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-family: 'EB Garamond', serif;
+  font-size: 0.9rem;
+}
+.filter-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+/* --- REGION SECTIONS --- */
+.region {
+  border-bottom: 1px solid var(--border);
+}
+.region-header {
+  padding: 24px 28px;
+  background: var(--region-header);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transition: background 0.2s;
+}
+.region-header:hover { background: #222; }
+.region-header h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--accent);
+  flex: 1;
+}
+.region-header .region-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  letter-spacing: 1px;
+}
+.region-header .chevron {
+  color: var(--text-dim);
+  transition: transform 0.3s;
+  font-size: 1.2rem;
+}
+.region.open .chevron { transform: rotate(90deg); }
+.region-desc {
+  padding: 0 28px 16px;
+  font-size: 0.9rem;
+  color: #777;
+  font-style: italic;
+  display: none;
+}
+.region.open .region-desc { display: block; }
+.region-body {
+  display: none;
+  padding: 0 20px 24px;
+}
+.region.open .region-body { display: block; }
+
+/* --- SITE CARDS --- */
+.site-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 16px;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+.site-card:hover { border-color: #444; }
+.site-card-header {
+  padding: 16px 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.site-card-header h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-bright);
+  flex: 1;
+}
+.site-number {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--accent);
+  background: rgba(255,112,67,0.1);
+  padding: 3px 8px;
+  border-radius: 3px;
+  letter-spacing: 1px;
+}
+.site-meta {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+}
+.site-img-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  color: var(--text-dim);
+  background: #1a1a1a;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+.site-card .chevron-sm {
+  color: #555;
+  transition: transform 0.3s;
+}
+.site-card.open .chevron-sm { transform: rotate(90deg); }
+
+/* --- IMAGE GRID --- */
+.site-images {
+  display: none;
+  padding: 0 20px 20px;
+}
+.site-card.open .site-images { display: block; }
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+.image-cell {
+  background: #0e0e0e;
+  border: 1px solid #222;
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: border-color 0.2s, transform 0.15s;
+}
+.image-cell:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.image-cell img {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: invert(0.92) contrast(1.1);
+  /* Invert the black-on-white drawings to white-on-dark for our dark theme */
+}
+.image-cell .img-caption {
+  padding: 8px 10px;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  border-top: 1px solid #1a1a1a;
+  line-height: 1.4;
+}
+.image-cell .img-source {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: #555;
+}
+
+/* --- LIGHTBOX --- */
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(0,0,0,0.95);
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 40px;
+}
+.lightbox.active { display: flex; }
+.lightbox img {
+  max-width: 90vw;
+  max-height: 75vh;
+  object-fit: contain;
+  border: 2px solid #333;
+  border-radius: 4px;
+  filter: invert(0.92) contrast(1.1);
+}
+.lightbox .lb-caption {
+  margin-top: 16px;
+  color: #ccc;
+  font-size: 1rem;
+  text-align: center;
+  max-width: 600px;
+}
+.lightbox .lb-source {
+  color: #666;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  margin-top: 4px;
+}
+.lightbox .lb-close {
+  position: absolute;
+  top: 20px;
+  right: 24px;
+  color: #888;
+  font-size: 2rem;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 0.2s;
+}
+.lightbox .lb-close:hover { color: #fff; }
+.lightbox .lb-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #666;
+  font-size: 3rem;
+  cursor: pointer;
+  padding: 20px;
+  user-select: none;
+  transition: color 0.2s;
+}
+.lightbox .lb-nav:hover { color: #fff; }
+.lightbox .lb-prev { left: 10px; }
+.lightbox .lb-next { right: 10px; }
+
+/* --- ADD YOUR OWN SECTION --- */
+.add-section {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 24px 28px;
+  background: var(--bg-card);
+  border: 1px dashed #444;
+  border-radius: 8px;
+  text-align: center;
+}
+.add-section h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.1rem;
+  color: var(--accent2);
+  margin-bottom: 10px;
+}
+.add-section p {
+  font-size: 0.9rem;
+  color: #888;
+  line-height: 1.6;
+}
+.add-section code {
+  background: #1a1a1a;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  color: var(--accent);
+}
+
+/* --- FOOTER --- */
+.gallery-footer {
+  text-align: center;
+  padding: 30px 20px;
+  border-top: 1px solid var(--border);
+  color: #555;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 600px) {
+  .image-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+  .lightbox { padding: 20px; }
+}
+</style>
+</head>
+<body>
+
+<div class="gallery-header">
+  <h1>⚒ Rock Art Gallery</h1>
+  <div class="subtitle">Petroglyphs & Pictographs of the Great Basin</div>
+  <div class="description">
+    Archaeological recordings of rock art sites across Nevada and Eastern California.
+    Organized by region, with site numbers from the University of California Archaeological Survey.
+    Add your own photographs and drawings to expand this living archive.
+  </div>
+  <div class="stats" id="stats"></div>
+  <a href="index.html" class="nav-back">← BACK TO MAP</a>
+</div>
+
+<div class="filter-bar">
+  <input type="search" id="searchInput" placeholder="Search sites, numbers, counties...">
+  <select id="regionFilter">
+    <option value="all">All Regions</option>
+  </select>
+  <span class="filter-count" id="filterCount"></span>
+</div>
+
+<main id="gallery"></main>
+
+<div class="add-section">
+  <h3>✦ Add Your Own Rock Art</h3>
+  <p>
+    This gallery is designed to grow. To add new images — your own photographs, drawings, or finds from published sources — add entries to
+    <code>data/rock-art-gallery.json</code> and place image files in <code>images/petroglyphs/</code>.
+    Each image needs: <code>file</code> (filename), <code>caption</code>, and <code>source</code>.
+    New regions and sites can be added the same way.
+  </p>
+</div>
+
+<div class="gallery-footer">
+  Primary source: Heizer & Baumhoff (1962) <em>Prehistoric Rock Art of Nevada and Eastern California</em>, UC Press.
+  <br>Part of the <a href="index.html" style="color:var(--accent)">Ancient Waters</a> project.
+</div>
+
+<!-- LIGHTBOX -->
+<div class="lightbox" id="lightbox">
+  <div class="lb-close" onclick="closeLightbox()">×</div>
+  <div class="lb-nav lb-prev" onclick="navLightbox(-1)">‹</div>
+  <div class="lb-nav lb-next" onclick="navLightbox(1)">›</div>
+  <img id="lbImg" src="" alt="">
+  <div class="lb-caption" id="lbCaption"></div>
+  <div class="lb-source" id="lbSource"></div>
+</div>
+
+<script>
+const IMG_BASE = 'images/petroglyphs/';
+let galleryData = null;
+let allImages = []; // flat list for lightbox navigation
+let currentLbIndex = 0;
+
+async function init() {
+  try {
+    const resp = await fetch('data/rock-art-gallery.json');
+    galleryData = await resp.json();
+  } catch(e) {
+    document.getElementById('gallery').innerHTML = '<p style="color:red;padding:40px;text-align:center">Error loading gallery data. Make sure data/rock-art-gallery.json exists.</p>';
+    return;
+  }
+  
+  buildStats();
+  buildFilters();
+  renderGallery();
+  setupSearch();
+}
+
+function buildStats() {
+  let totalImages = 0, totalSites = 0;
+  galleryData.regions.forEach(r => {
+    r.sites.forEach(s => {
+      totalSites++;
+      totalImages += s.images.length;
+    });
+  });
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><div class="stat-num">${galleryData.regions.length}</div><div class="stat-label">Regions</div></div>
+    <div class="stat"><div class="stat-num">${totalSites}</div><div class="stat-label">Sites</div></div>
+    <div class="stat"><div class="stat-num">${totalImages}</div><div class="stat-label">Drawings</div></div>
+  `;
+}
+
+function buildFilters() {
+  const sel = document.getElementById('regionFilter');
+  galleryData.regions.forEach(r => {
+    const opt = document.createElement('option');
+    opt.value = r.id;
+    opt.textContent = r.name;
+    sel.appendChild(opt);
+  });
+  sel.addEventListener('change', renderGallery);
+}
+
+function renderGallery() {
+  const container = document.getElementById('gallery');
+  const filter = document.getElementById('regionFilter').value;
+  const search = (document.getElementById('searchInput').value || '').toLowerCase();
+  
+  allImages = [];
+  let html = '';
+  let visibleSites = 0;
+  
+  galleryData.regions.forEach(region => {
+    if (filter !== 'all' && region.id !== filter) return;
+    
+    // Filter sites by search
+    const matchingSites = region.sites.filter(s => {
+      if (!search) return true;
+      const hay = (s.name + ' ' + s.site_number + ' ' + s.county + ' ' + s.images.map(i=>i.caption).join(' ')).toLowerCase();
+      return hay.includes(search);
+    });
+    if (matchingSites.length === 0) return;
+    
+    const imgCount = matchingSites.reduce((a, s) => a + s.images.length, 0);
+    
+    html += `<div class="region open" data-id="${region.id}">
+      <div class="region-header" onclick="toggleRegion(this)">
+        <h2>${region.name}</h2>
+        <span class="region-count">${matchingSites.length} SITES · ${imgCount} IMAGES</span>
+        <span class="chevron">›</span>
+      </div>
+      <div class="region-desc">${region.description}</div>
+      <div class="region-body">`;
+    
+    matchingSites.forEach(site => {
+      visibleSites++;
+      html += `<div class="site-card open">
+        <div class="site-card-header" onclick="toggleSite(this)">
+          <span class="site-number">${site.site_number}</span>
+          <h3>${site.name}</h3>
+          <span class="site-meta">${site.county}</span>
+          <span class="site-img-count">${site.images.length} img</span>
+          <span class="chevron-sm">›</span>
+        </div>
+        <div class="site-images">
+          <div class="image-grid">`;
+      
+      site.images.forEach(img => {
+        const globalIdx = allImages.length;
+        allImages.push({
+          src: IMG_BASE + img.file,
+          caption: img.caption,
+          source: img.source,
+          site: site.name,
+          siteNum: site.site_number
+        });
+        html += `<div class="image-cell" onclick="openLightbox(${globalIdx})">
+          <img src="${IMG_BASE}${img.file}" alt="${img.caption}" loading="lazy">
+          <div class="img-caption">${img.caption}</div>
+          <div class="img-source" style="padding:0 10px 6px">${img.source}</div>
+        </div>`;
+      });
+      
+      html += `</div></div></div>`;
+    });
+    
+    html += `</div></div>`;
+  });
+  
+  container.innerHTML = html;
+  document.getElementById('filterCount').textContent = `${visibleSites} sites · ${allImages.length} images`;
+}
+
+function setupSearch() {
+  let debounce;
+  document.getElementById('searchInput').addEventListener('input', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(renderGallery, 200);
+  });
+}
+
+function toggleRegion(el) {
+  el.closest('.region').classList.toggle('open');
+}
+function toggleSite(el) {
+  el.closest('.site-card').classList.toggle('open');
+}
+
+// --- LIGHTBOX ---
+function openLightbox(idx) {
+  currentLbIndex = idx;
+  showLightboxImage();
+  document.getElementById('lightbox').classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('active');
+  document.body.style.overflow = '';
+}
+function navLightbox(dir) {
+  currentLbIndex = (currentLbIndex + dir + allImages.length) % allImages.length;
+  showLightboxImage();
+}
+function showLightboxImage() {
+  const img = allImages[currentLbIndex];
+  document.getElementById('lbImg').src = img.src;
+  document.getElementById('lbCaption').textContent = `${img.site} (${img.siteNum}) — ${img.caption}`;
+  document.getElementById('lbSource').textContent = img.source;
+}
+
+// Keyboard nav
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('lightbox').classList.contains('active')) return;
+  if (e.key === 'Escape') closeLightbox();
+  if (e.key === 'ArrowLeft') navLightbox(-1);
+  if (e.key === 'ArrowRight') navLightbox(1);
+});
+
+// Click outside to close
+document.getElementById('lightbox').addEventListener('click', e => {
+  if (e.target.id === 'lightbox') closeLightbox();
+});
+
+init();
+</script>
+</body>
+</html>

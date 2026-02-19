@@ -1,0 +1,614 @@
+{
+  "metadata": {
+    "title": "Rock Art Gallery",
+    "subtitle": "Petroglyphs & Pictographs of the Great Basin",
+    "description": "Archaeological drawings and photographs of rock art sites across Nevada and Eastern California.",
+    "last_updated": "2026-02-18"
+  },
+  "regions": [
+    {
+      "id": "churchill",
+      "name": "Churchill County \u2014 Carson Sink",
+      "state": "NV",
+      "description": "The Carson Sink area near Fallon contains one of the densest concentrations of rock art in Nevada, clustered around ancient Lake Lahontan shorelines and game migration trails through the Stillwater Range.",
+      "sites": [
+        {
+          "id": "grimes-point",
+          "name": "Grimes Point",
+          "site_number": "Ch-1",
+          "county": "Churchill County",
+          "state": "NV",
+          "coordinates": [
+            39.4015,
+            -118.6476
+          ],
+          "images": [
+            {
+              "file": "Ch-1_fig36.png",
+              "caption": "Fig. 36 \u2014 Grimes Point petroglyphs, panels a-p",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ch-1_fig37.png",
+              "caption": "Fig. 37 \u2014 Grimes Point petroglyphs, panels a-h",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ch-1_fig38.png",
+              "caption": "Fig. 38 \u2014 Grimes Point petroglyphs, panels a-j",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ch-1_fig39.png",
+              "caption": "Fig. 39 \u2014 Grimes Point petroglyphs, panels a-n",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ch-1_fig40.png",
+              "caption": "Fig. 40 \u2014 Grimes Point petroglyphs, panels a-m",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "hidden-cave-cluster",
+          "name": "Hidden Cave, Fish Cave, Burnt Cave & Dynamite Cave",
+          "site_number": "Ch-3, Ch-20, Ch-26, Ch-43",
+          "county": "Churchill County",
+          "state": "NV",
+          "coordinates": [
+            39.4,
+            -118.64
+          ],
+          "images": [
+            {
+              "file": "Ch-multi_fig42.png",
+              "caption": "Fig. 42 \u2014 Hidden Cave (Ch-3); Fish Cave (Ch-20); Burnt Cave (Ch-26); Dynamite Cave (Ch-43)",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "dynamite-salt-allen",
+          "name": "Dynamite Cave, Salt Cave & Allen Springs",
+          "site_number": "Ch-43, Ch-51, Ch-57",
+          "county": "Churchill County",
+          "state": "NV",
+          "coordinates": [
+            39.55,
+            -118.35
+          ],
+          "images": [
+            {
+              "file": "Ch-multi_fig41.png",
+              "caption": "Fig. 41 \u2014 Dynamite Cave (Ch-43); Salt Cave (Ch-51); Allen Springs (Ch-57)",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clark-vof",
+      "name": "Clark County \u2014 Valley of Fire",
+      "state": "NV",
+      "description": "Valley of Fire State Park contains Nevada's most spectacular rock art, carved into red Aztec sandstone by Ancestral Puebloan, Southern Paiute, and earlier peoples over thousands of years.",
+      "sites": [
+        {
+          "id": "atlatl-rock",
+          "name": "Atlatl Rock",
+          "site_number": "Cl-1",
+          "county": "Clark County",
+          "state": "NV",
+          "coordinates": [
+            36.423,
+            -114.551
+          ],
+          "images": [
+            {
+              "file": "Cl-1_fig45.png",
+              "caption": "Fig. 45 \u2014 Atlatl Rock overview panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig46.png",
+              "caption": "Fig. 46 \u2014 Atlatl Rock details",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig47.png",
+              "caption": "Fig. 47 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig48.png",
+              "caption": "Fig. 48 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig49.png",
+              "caption": "Fig. 49 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig50.png",
+              "caption": "Fig. 50 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig51.png",
+              "caption": "Fig. 51 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig52.png",
+              "caption": "Fig. 52 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig53.png",
+              "caption": "Fig. 53 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig54.png",
+              "caption": "Fig. 54 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig55.png",
+              "caption": "Fig. 55 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig56.png",
+              "caption": "Fig. 56 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig57.png",
+              "caption": "Fig. 57 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig58.png",
+              "caption": "Fig. 58 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-1_fig59.png",
+              "caption": "Fig. 59 \u2014 Atlatl Rock panels",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "mouses-tank",
+          "name": "Mouse's Tank / Petroglyph Canyon",
+          "site_number": "Cl-149",
+          "county": "Clark County",
+          "state": "NV",
+          "coordinates": [
+            36.441,
+            -114.517
+          ],
+          "images": [
+            {
+              "file": "Cl-149_fig69.png",
+              "caption": "Fig. 69 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-149_fig70.png",
+              "caption": "Fig. 70 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-149_fig71.png",
+              "caption": "Fig. 71 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-149_fig72.png",
+              "caption": "Fig. 72 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-149_fig73.png",
+              "caption": "Fig. 73 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-149_fig74.png",
+              "caption": "Fig. 74 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-149_fig75.png",
+              "caption": "Fig. 75 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-149_fig76.png",
+              "caption": "Fig. 76 \u2014 Mouse's Tank petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "lost-city",
+          "name": "Pueblo Grande de Nevada \u2014 Lost City",
+          "site_number": "Cl-8",
+          "county": "Clark County",
+          "state": "NV",
+          "coordinates": [
+            36.525,
+            -114.443
+          ],
+          "images": [
+            {
+              "file": "Cl-8_fig64.png",
+              "caption": "Fig. 64 \u2014 Lost City petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "keyhole-canyon",
+          "name": "Keyhole Canyon",
+          "site_number": "Cl-125",
+          "county": "Clark County",
+          "state": "NV",
+          "coordinates": [
+            35.52,
+            -114.7
+          ],
+          "images": [
+            {
+              "file": "Cl-125_fig66.png",
+              "caption": "Fig. 66 \u2014 Keyhole Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-125_fig67.png",
+              "caption": "Fig. 67 \u2014 Keyhole Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "grapevine-cluster",
+          "name": "Grapevine Canyon, Arrowhead Canyon & Christmas Tree Pass",
+          "site_number": "Cl-3, Cl-143, Cl-146",
+          "county": "Clark County",
+          "state": "NV",
+          "coordinates": [
+            35.28,
+            -114.72
+          ],
+          "images": [
+            {
+              "file": "Cl-multi_fig68.png",
+              "caption": "Fig. 68 \u2014 Grapevine Canyon; Arrowhead Canyon; Christmas Tree Pass",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "hiko-cave-springs",
+          "name": "Hiko Springs & Cave Springs",
+          "site_number": "Li-1, Cl-24",
+          "county": "Lincoln/Clark County",
+          "state": "NV",
+          "coordinates": [
+            37.59,
+            -115.22
+          ],
+          "images": [
+            {
+              "file": "Li-1_fig60.png",
+              "caption": "Fig. 60 \u2014 Hiko Springs petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-24_fig61.png",
+              "caption": "Fig. 61 \u2014 Cave Springs petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-24_fig62.png",
+              "caption": "Fig. 62 \u2014 Cave Springs petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Cl-24_fig63.png",
+              "caption": "Fig. 63 \u2014 Cave Springs and Lost City",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lander",
+      "name": "Lander County \u2014 Loneliest Road",
+      "state": "NV",
+      "description": "Hickison Summit marks a prehistoric ambush point on Highway 50 where migratory deer funneled between two buttes.",
+      "sites": [
+        {
+          "id": "hickison-potts",
+          "name": "Hickison Summit & Potts Cave",
+          "site_number": "La-4, La-1",
+          "county": "Lander County",
+          "state": "NV",
+          "coordinates": [
+            39.449,
+            -116.752
+          ],
+          "images": [
+            {
+              "file": "La-multi_fig79.png",
+              "caption": "Fig. 79 \u2014 Potts Cave and Hickison Summit",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "La-4_fig80.png",
+              "caption": "Fig. 80 \u2014 Hickison Summit petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lyon",
+      "name": "Lyon County \u2014 Walker River",
+      "state": "NV",
+      "description": "The East Walker River corridor has the densest concentration of petroglyph boulders documented in the Heizer & Baumhoff survey \u2014 over 15 figure plates of individual boulder recordings.",
+      "sites": [
+        {
+          "id": "east-walker",
+          "name": "East Walker River",
+          "site_number": "Ly-1",
+          "county": "Lyon County",
+          "state": "NV",
+          "coordinates": [
+            38.8,
+            -119.2
+          ],
+          "images": [
+            {
+              "file": "Ly-1_fig81.png",
+              "caption": "Fig. 81 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig82.png",
+              "caption": "Fig. 82 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig83.png",
+              "caption": "Fig. 83 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig84.png",
+              "caption": "Fig. 84 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig85.png",
+              "caption": "Fig. 85 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig86.png",
+              "caption": "Fig. 86 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig87.png",
+              "caption": "Fig. 87 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig88.png",
+              "caption": "Fig. 88 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig89.png",
+              "caption": "Fig. 89 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig90.png",
+              "caption": "Fig. 90 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig91.png",
+              "caption": "Fig. 91 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig92.png",
+              "caption": "Fig. 92 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig93.png",
+              "caption": "Fig. 93 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-1_fig95.png",
+              "caption": "Fig. 95 \u2014 East Walker River petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "smith-simpson",
+          "name": "Smith Valley & Simpson Pass",
+          "site_number": "Ly-2, Ly-7",
+          "county": "Lyon County",
+          "state": "NV",
+          "coordinates": [
+            38.78,
+            -119.35
+          ],
+          "images": [
+            {
+              "file": "Ly-multi_fig96.png",
+              "caption": "Fig. 96 \u2014 Smith Valley and Simpson Pass",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ly-7_fig97.png",
+              "caption": "Fig. 97 \u2014 Simpson Pass petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mineral",
+      "name": "Mineral County \u2014 Walker Lake",
+      "state": "NV",
+      "description": "Rock art sites along the deer migration trails between the Wassuk Range, Walker Lake, and desert valleys to the east.",
+      "sites": [
+        {
+          "id": "cottonwood",
+          "name": "Cottonwood Canyon",
+          "site_number": "Mi-1",
+          "county": "Mineral County",
+          "state": "NV",
+          "coordinates": [
+            38.42,
+            -118.6
+          ],
+          "images": [
+            {
+              "file": "Mi-1_fig98.png",
+              "caption": "Fig. 98 \u2014 Cottonwood Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "garfield",
+          "name": "Garfield Flat",
+          "site_number": "Mi-3",
+          "county": "Mineral County",
+          "state": "NV",
+          "coordinates": [
+            38.65,
+            -118.45
+          ],
+          "images": [
+            {
+              "file": "Mi-multi_fig99.png",
+              "caption": "Fig. 99 \u2014 Cottonwood Canyon and Garfield Flat",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Mi-3_fig100.png",
+              "caption": "Fig. 100 \u2014 Garfield Flat petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Mi-3_fig101.png",
+              "caption": "Fig. 101 \u2014 Garfield Flat petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Mi-3_fig102.png",
+              "caption": "Fig. 102 \u2014 Garfield Flat petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "whisky",
+          "name": "Whisky Flat",
+          "site_number": "Mi-4",
+          "county": "Mineral County",
+          "state": "NV",
+          "coordinates": [
+            38.52,
+            -118.38
+          ],
+          "images": [
+            {
+              "file": "Mi-multi_fig103.png",
+              "caption": "Fig. 103 \u2014 Garfield Flat and Whisky Flat",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Mi-4_fig104.png",
+              "caption": "Fig. 104 \u2014 Whisky Flat petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Mi-4_fig105.png",
+              "caption": "Fig. 105 \u2014 Whisky Flat petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Mi-4_fig106.png",
+              "caption": "Fig. 106 \u2014 Whisky Flat petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "dutch-railroad",
+          "name": "Dutch Creek, Rattlesnake Well & Railroad Canyon",
+          "site_number": "Mi-5, Mi-14, Mi-15",
+          "county": "Mineral County",
+          "state": "NV",
+          "coordinates": [
+            38.35,
+            -118.5
+          ],
+          "images": [
+            {
+              "file": "Mi-multi_fig107.png",
+              "caption": "Fig. 107 \u2014 Dutch Creek; Rattlesnake Well; Railroad Canyon",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "misc-nv",
+      "name": "Other Nevada Counties",
+      "state": "NV",
+      "description": "Sites across Eureka, Humboldt, Lincoln, and other counties.",
+      "sites": [
+        {
+          "id": "misc",
+          "name": "Multi-County Sites",
+          "site_number": "Various",
+          "county": "Various",
+          "state": "NV",
+          "coordinates": [
+            39.5,
+            -117.0
+          ],
+          "images": [
+            {
+              "file": "Cl-multi_fig78.png",
+              "caption": "Fig. 78 \u2014 Grapevine Canyon; Dunphy; Humboldt County; Hiko Springs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
