@@ -45,6 +45,7 @@
   <button class="region-btn" onclick="flyTo('manhattan')">Mannahatta</button>
   <button class="region-btn" onclick="flyTo('mojavedesert')">Mojave Desert</button>
   <button class="region-btn" onclick="flyTo('diablorange')">Diablo Range</button>
+  <button class="region-btn" onclick="flyToEasternCA()">Eastern CA</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -61,11 +62,12 @@
   <div class="stat-row"><span>Trade Routes</span><span class="stat-val">8</span></div>
   <div class="stat-row"><span>Rock Art Regions</span><span class="stat-val">4</span></div>
   <div class="stat-row"><span>Diablo Range Cupules</span><span class="stat-val">76+</span></div>
+  <div class="stat-row"><span>Eastern CA Petroglyphs</span><span class="stat-val">60+</span></div>
   <div class="stat-row"><span>Rock Art Sites (S-Central)</span><span class="stat-val">15</span></div>
   <div class="stat-row"><span>Ciénegas</span><span class="stat-val">4</span></div>
   <div class="stat-row"><span>Dams</span><span class="stat-val">11</span></div>
   <div class="stat-row" style="margin-top:4px;padding-top:4px;border-top:1px solid rgba(193,154,107,0.15);">
-    <span style="color:var(--sand);">Total Points</span><span class="stat-val">617+</span>
+    <span style="color:var(--sand);">Total Points</span><span class="stat-val">677+</span>
   </div>
   </div>
 </div>
@@ -190,6 +192,26 @@
     <div class="culture-layers" id="layers-diablo">
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('diabloCupules')"><span style="color:#D7CCC8">Cupule petroglyph sites — 76+ recorded</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('diabloTerritory')"><span style="color:#8D6E63">Diablo Range boundary (approximate)</span></label>
+    </div>
+  </div>
+
+  <!-- EASTERN CALIFORNIA PETROGLYPHS -->
+  <div class="culture-section" id="culture-easternca" data-regions="easternca">
+    <div class="culture-header" onclick="toggleCulture('easternca')">
+      <div class="culture-color-bar" style="background:#E8A87C;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Eastern California Petroglyphs</div>
+        <div class="culture-meta">Heizer & Baumhoff 1962 · Inyo, Lassen, Modoc, Mono, Plumas · 60+ sites</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('easternca',this.checked)" title="Toggle all Eastern CA layers">
+      <span class="culture-arrow" id="arrow-easternca">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-easternca">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaInyoPetro')"><span style="color:#E8A87C">◆ Inyo County — Owens Valley (40+ sites)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaLassenPetro')"><span style="color:#D4A574">◆ Lassen County — Pit River (11 sites)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaModocPetro')"><span style="color:#C49A6C">◆ Modoc County — Lava Beds (7 sites)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaMonoPetro')"><span style="color:#B8916A">◆ Mono County (4 sites)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaPlumasPetro')"><span style="color:#A88860">◆ Plumas County (2 sites)</span></label>
     </div>
   </div>
 
@@ -585,4 +607,5 @@
 <script src="js/45-mojave-rockart.js"></script>
 <script src="js/46-hulkuhku-landscape.js"></script>
 <script src="js/47-diablo-cupules.js"></script>
+<script src="js/48-eastern-ca-petroglyphs.js"></script>
 </html>

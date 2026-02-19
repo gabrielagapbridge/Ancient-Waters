@@ -1171,6 +1171,432 @@
           ]
         }
       ]
+    },
+    {
+      "id": "appendix-e-nevada",
+      "name": "\u2726 Appendix E \u2014 Additional Nevada Sites",
+      "description": "Petroglyph sites discovered or documented after the main survey, primarily in Elko County, Nevada. Site Ch-71 at Deer Creek is a narrow canyon ambush point where rock art flanks a natural game trail.",
+      "sites": [
+        {
+          "id": "ch71-deer-creek",
+          "name": "Deer Creek Canyon (Ch-71)",
+          "site_number": "Ch-71",
+          "county": "Elko County",
+          "state": "NV",
+          "coordinates": [
+            40.85,
+            -115.75
+          ],
+          "images": [
+            {
+              "file": "appendix_e/s01_p1.png",
+              "caption": "Fig. E-1 \u2014 Petroglyph symbols at Ch-71 (curvilinear, snake, abstract)",
+              "source": "Heizer & Baumhoff 1962, Fig. E-1"
+            },
+            {
+              "file": "appendix_e/s01_p2.png",
+              "caption": "Fig. E-2 \u2014 Petroglyph symbols at Ch-71 (large anthropomorph, snakes)",
+              "source": "Heizer & Baumhoff 1962, Fig. E-2"
+            },
+            {
+              "file": "appendix_e/s01_p3.png",
+              "caption": "Fig. E-3 \u2014 Petroglyph symbols at Ch-71 (humans, quadrupeds, mountain sheep)",
+              "source": "Heizer & Baumhoff 1962, Fig. E-3"
+            },
+            {
+              "file": "appendix_e/s01_p4.png",
+              "caption": "Fig. E-4 \u2014 Petroglyph symbols at Ch-71 (complex panels, shield figures)",
+              "source": "Heizer & Baumhoff 1962, Fig. E-4"
+            },
+            {
+              "file": "appendix_e/s01_p5.png",
+              "caption": "Fig. E-5 \u2014 Petroglyph symbols at Ch-71 (ceremonial figures, meandering lines)",
+              "source": "Heizer & Baumhoff 1962, Fig. E-5"
+            }
+          ],
+          "description": "Narrow canyon on the east fork of the Jarbidge River, Elko County. The passage between sheer rock walls was used as a natural ambush point \u2014 antelope and deer tracks were abundant. Petroglyphs are found just below the ambush spur. Figures classified as Great Basin Abstract Curvilinear style. The rocks are flat-topped and stand about 20 feet high.",
+          "rock_art_style": "Great Basin Abstract Curvilinear",
+          "date_range": "Unknown, likely Great Basin period",
+          "tribal_affiliation": "Western Shoshone / Northern Paiute"
+        }
+      ]
+    },
+    {
+      "id": "appendix-f-eastern-california",
+      "name": "\u2726 Appendix F \u2014 Petroglyphs of Eastern California",
+      "description": "Comprehensive survey of petroglyph sites across five eastern California counties: Inyo, Lassen, Modoc, Mono, and Plumas. Eastern California petroglyphs are stylistically inseparable from Nevada \u2014 the result of the same cultural and environmental influences. Three Great Basin rock art styles are present: Representational, Curvilinear, and Rectilinear. Great Basin Curvilinear is almost ubiquitous, while Great Basin Representational is concentrated along the east flank of the Sierra.",
+      "sites": [
+        {
+          "id": "iny-208-birchim-canyon",
+          "name": "Birchim Canyon / Chalfant Valley (Iny-208)",
+          "site_number": "Iny-208",
+          "county": "Inyo County",
+          "state": "CA",
+          "coordinates": [
+            37.52,
+            -118.35
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s13_p1.png",
+              "caption": "Fig. F-1 \u2014 a-b Iny-208; c-d Iny-208; f-g Iny-208 (bighorn sheep, anthropomorphs)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-1"
+            },
+            {
+              "file": "appendix_f/s13_p2.png",
+              "caption": "Fig. F-2 \u2014 Iny-208 (large bighorn sheep panel, detailed representational art)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-2"
+            },
+            {
+              "file": "appendix_f/s13_p3.png",
+              "caption": "Fig. F-3 \u2014 Iny-208 (bighorn herd with large-bodied sheep, curving horns)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-3"
+            },
+            {
+              "file": "appendix_f/s13_p4.png",
+              "caption": "Fig. F-4 \u2014 e-f Iny-208 (long snake-like figures, cross-hatching, chair motifs)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-4"
+            },
+            {
+              "file": "appendix_f/s13_p5.png",
+              "caption": "Fig. F-5 \u2014 Iny-208 (dense panel with hunting scene, bighorn, meanders)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-5"
+            }
+          ],
+          "description": "Major petroglyph site in Chalfant Valley / Volcanic Tableland area north of Bishop. Features extensive representational art including large bighorn sheep panels, hunting scenes, anthropomorphic figures, and abstract curvilinear designs. One of the richest rock art concentrations in Owens Valley.",
+          "rock_art_style": "Great Basin Representational / Curvilinear",
+          "date_range": "ca. 3,500+ years ago",
+          "tribal_affiliation": "Owens Valley Paiute (Numa)"
+        },
+        {
+          "id": "iny-208-volcanic-tableland",
+          "name": "Volcanic Tableland Panels (Iny-208 continued)",
+          "site_number": "Iny-208",
+          "county": "Inyo County",
+          "state": "CA",
+          "coordinates": [
+            37.48,
+            -118.38
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s18_p0.png",
+              "caption": "Fig. F-6 \u2014 a-b Iny-208 (serpentine lines, large anthropomorphs, small animals)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-6"
+            },
+            {
+              "file": "appendix_f/s18_p1.png",
+              "caption": "Fig. F-7 \u2014 a-f Iny-208 (mounted bighorn, tally marks, hunting scenes)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-7"
+            },
+            {
+              "file": "appendix_f/s18_p2.png",
+              "caption": "Fig. F-8 \u2014 Iny-208 (herd of bighorn sheep in migration pattern)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-8"
+            },
+            {
+              "file": "appendix_f/s18_p3.png",
+              "caption": "Fig. F-9 \u2014 Iny-208 (circular arrangement of bighorn sheep, wheel motif)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-9"
+            },
+            {
+              "file": "appendix_f/s18_p4.png",
+              "caption": "Fig. F-10 \u2014 a-f Iny-xxx (handprints, centipede figure, ceremonial symbols)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-10"
+            },
+            {
+              "file": "appendix_f/s18_p5.png",
+              "caption": "Fig. F-11 \u2014 a-b Iny-xxx; c Iny-xxx (rock face panels with multiple figures)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-11"
+            }
+          ],
+          "description": "Continued documentation of the Volcanic Tableland petroglyph complex near Bishop. Includes remarkable bighorn sheep herd panels, circular compositions, and ceremonial/symbolic figures. The volcanic tableland is a vast Bishop Tuff formation covered in desert varnish, providing ideal surfaces for pecking.",
+          "rock_art_style": "Great Basin Representational / Curvilinear",
+          "date_range": "ca. 3,500+ years ago",
+          "tribal_affiliation": "Owens Valley Paiute (Numa)"
+        },
+        {
+          "id": "iny-271-coso",
+          "name": "Coso Range Area Sites (Iny-271, Iny-272)",
+          "site_number": "Iny-271/272",
+          "county": "Inyo County",
+          "state": "CA",
+          "coordinates": [
+            36.6,
+            -117.9
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s20_p0.png",
+              "caption": "Fig. F-12 \u2014 a-e Iny-xxx; f-i Iny-xxx (shield figures, spider/insect, crosshatch)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-12"
+            },
+            {
+              "file": "appendix_f/s20_p1.png",
+              "caption": "Fig. F-13 \u2014 a-g Iny-xxx; h-l Iny-xxx; m Iny-xxx (complex panels, concentric circles, maze)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-13"
+            },
+            {
+              "file": "appendix_f/s20_p2.png",
+              "caption": "Fig. F-14 \u2014 a-l Iny-xxx (anthropomorphs with elaborate headdresses, Phi symbols)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-14"
+            },
+            {
+              "file": "appendix_f/s20_p3.png",
+              "caption": "Fig. F-15 \u2014 a-c Iny-xxx (human figures with atlatls, dance scene, tally marks)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-15"
+            },
+            {
+              "file": "appendix_f/s20_p4.png",
+              "caption": "Fig. F-16 \u2014 a-e Iny-xxx (dense complex panels, grid patterns, abstract symbols)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-16"
+            },
+            {
+              "file": "appendix_f/s20_p5.png",
+              "caption": "Fig. F-17 \u2014 a-m Iny-xxx (crosshatch, quadrupeds, ladder motifs, dots)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-17"
+            }
+          ],
+          "description": "Sites in the southern Owens Valley and eastern slopes near the Coso Range. Includes the famous Swansea Petroglyphs (Iny-272) \u2014 a solar calendrical observatory on wave-polished dolomite marble at the former shoreline of Pleistocene Owens Lake. Petroglyphs include rayed circles, spirals, equinox markers, bighorn sheep, and ceremonial figures. The 6-bar equinox marker can predict the actual equinox within hours.",
+          "rock_art_style": "Great Basin Representational / Curvilinear / Abstract",
+          "date_range": "ca. 4,000+ years ago; some Paleoindian elements possible",
+          "tribal_affiliation": "Owens Valley Paiute / Shoshone"
+        },
+        {
+          "id": "iny-south-owens",
+          "name": "Southern Owens Valley Sites (Iny-xxx series)",
+          "site_number": "Multiple Iny sites",
+          "county": "Inyo County",
+          "state": "CA",
+          "coordinates": [
+            36.8,
+            -118.05
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s24_p0.png",
+              "caption": "Fig. F-18 \u2014 a Iny-xxx; b-c Iny-xxx (shield/heraldic figure, inscribed boulders)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-18"
+            },
+            {
+              "file": "appendix_f/s24_p1.png",
+              "caption": "Fig. F-19 \u2014 a-e Iny-xxx (hunting scene with many figures, anthropomorphs in action)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-19"
+            },
+            {
+              "file": "appendix_f/s24_p2.png",
+              "caption": "Fig. F-20 \u2014 a-e Iny-xxx (complex abstract panels, barred rectangles, meanders)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-20"
+            },
+            {
+              "file": "appendix_f/s24_p3.png",
+              "caption": "Fig. F-21 \u2014 a-h Iny-xxx (elaborate anthropomorphs, rain/fertility symbols, crosshatch)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-21"
+            },
+            {
+              "file": "appendix_f/s24_p4.png",
+              "caption": "Fig. F-22 \u2014 a Iny-xxx; b Iny-xxx; c-d Iny-xxx (concentric circles, elaborate panel)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-22"
+            },
+            {
+              "file": "appendix_f/s24_p5.png",
+              "caption": "Fig. F-23 \u2014 a-f Iny-xxx (rock face panoramic panels with multiple figures)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-23"
+            }
+          ],
+          "description": "Multiple petroglyph sites along the southern Owens Valley, documenting the full range of Great Basin rock art styles. Includes representational hunting scenes, elaborate anthropomorphic figures with headdresses, and complex abstract panels with concentric circles, meanders, and grid patterns.",
+          "rock_art_style": "Great Basin Representational / Curvilinear / Rectilinear",
+          "date_range": "Multiple periods",
+          "tribal_affiliation": "Owens Valley Paiute / Shoshone / earlier peoples"
+        },
+        {
+          "id": "iny-deep-springs",
+          "name": "Deep Springs / Fish Lake Valley Sites",
+          "site_number": "Iny-xxx (southern)",
+          "county": "Inyo County",
+          "state": "CA",
+          "coordinates": [
+            37.35,
+            -118.0
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s29_p0.png",
+              "caption": "Fig. F-24 \u2014 a-f Iny-xxx (scattered figures on large rock faces)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-24"
+            },
+            {
+              "file": "appendix_f/s29_p1.png",
+              "caption": "Fig. F-25 \u2014 a-f Iny-xxx (animal figures, quadrupeds, human with weapon)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-25"
+            },
+            {
+              "file": "appendix_f/s29_p2.png",
+              "caption": "Fig. F-26 \u2014 a-c Iny-xxx (panoramic rock face panels)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-26"
+            },
+            {
+              "file": "appendix_f/s29_p3.png",
+              "caption": "Fig. F-27 \u2014 a-d Iny-xxx (corn/maize figure, bighorn, dogs/coyotes, horse?)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-27"
+            },
+            {
+              "file": "appendix_f/s29_p4.png",
+              "caption": "Fig. F-28 \u2014 a Iny-xxx; b Iny-xxx (elaborate ceremonial figures, sun symbols)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-28"
+            }
+          ],
+          "description": "Sites in the eastern Inyo County area near Deep Springs Valley and Fish Lake Valley. Notable for the diversity of representational figures including possible post-contact imagery (horse figures). Features elaborate ceremonial scenes and sun/star symbols.",
+          "rock_art_style": "Great Basin Representational / Curvilinear",
+          "date_range": "Multiple periods, some possibly post-contact",
+          "tribal_affiliation": "Owens Valley Paiute / Western Shoshone"
+        },
+        {
+          "id": "iny-439-lone-pine",
+          "name": "Lone Pine Area Sites (Iny-439)",
+          "site_number": "Iny-439",
+          "county": "Inyo County",
+          "state": "CA",
+          "coordinates": [
+            36.6,
+            -118.06
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s31_p0.png",
+              "caption": "Fig. F-30 \u2014 a-c Iny-439 (dense panels with quadrupeds, humans, turtles, abstract)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-30"
+            }
+          ],
+          "description": "Dense petroglyph panels near Lone Pine featuring turtles, quadrupeds, human figures, and elaborate abstract designs. Some of the most complex multi-element panels in the Owens Valley.",
+          "rock_art_style": "Great Basin Representational / Curvilinear",
+          "date_range": "Multiple periods",
+          "tribal_affiliation": "Owens Valley Paiute"
+        },
+        {
+          "id": "las-lassen-county",
+          "name": "Lassen County Petroglyph Sites",
+          "site_number": "Las-1 through Las-79",
+          "county": "Lassen County",
+          "state": "CA",
+          "coordinates": [
+            40.65,
+            -120.6
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s31_p1.png",
+              "caption": "Fig. F-31 \u2014 a Plu-x; b Lar-xxx; c Lar-x; d Lar-xxx (Plumas & Lassen County sites)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-31"
+            },
+            {
+              "file": "appendix_f/s31_p2.png",
+              "caption": "Fig. F-32 \u2014 a-h Las-xxx (curvilinear, dot grids, crosshatch, large caterpillar)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-32"
+            },
+            {
+              "file": "appendix_f/s31_p3.png",
+              "caption": "Fig. F-33 \u2014 a Las-xxx; b Las-xxx (not natural grouping) (ceremonial & abstract)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-33"
+            },
+            {
+              "file": "appendix_f/s31_p4.png",
+              "caption": "Fig. F-34 \u2014 a-c Las-xxx; d Las-xxx; e Las-xxx (diverse styles, grid, rayed circles)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-34"
+            },
+            {
+              "file": "appendix_f/s31_p5.png",
+              "caption": "Fig. F-35 \u2014 a-b Las-xxx (b not natural grouping) (complex abstract panels)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-35"
+            },
+            {
+              "file": "appendix_f/s34_p0.png",
+              "caption": "Fig. F-36 \u2014 a Las-xxx; b-e Las-xxx; f Las-xxx (meanders, ovals, chain motifs)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-36"
+            },
+            {
+              "file": "appendix_f/s34_p1.png",
+              "caption": "Fig. F-37 \u2014 a-b Las-xxx (a not natural grouping); c Las-xxx; d-e Mod-xxx",
+              "source": "Heizer & Baumhoff 1962, Fig. F-37"
+            }
+          ],
+          "description": "Extensive collection of petroglyph sites across Lassen County in northeastern California. Features primarily Great Basin Curvilinear style with concentric circles, dot grids, crosshatch patterns, and rayed sun symbols. Sites are distributed along river drainages of the Pit River system and surrounding volcanic terrain.",
+          "rock_art_style": "Great Basin Curvilinear",
+          "date_range": "Multiple periods",
+          "tribal_affiliation": "Pit River (Achumawi/Atsugewi)"
+        },
+        {
+          "id": "mod-modoc-county",
+          "name": "Modoc County Petroglyph Sites",
+          "site_number": "Mod-10 through Mod-71",
+          "county": "Modoc County",
+          "state": "CA",
+          "coordinates": [
+            41.6,
+            -121.15
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s34_p2.png",
+              "caption": "Fig. F-38 \u2014 a Mod-xxx; b-j Mod-xxx (complex ceremonial panels, rayed figures)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-38"
+            },
+            {
+              "file": "appendix_f/s34_p3.png",
+              "caption": "Fig. F-39 \u2014 a Mod-xxx (not natural grouping); b Mod-xxx; c Mod-xxx; d Mod-xxx",
+              "source": "Heizer & Baumhoff 1962, Fig. F-39"
+            }
+          ],
+          "description": "Petroglyph sites in Modoc County, far northeastern California. Includes Petroglyph Point at Lava Beds National Monument \u2014 one of the largest panels of Native American rock art in California with over 5,000 individual carvings. Modoc rock art features distinctive geometric patterns rather than animal/human figures, setting it apart from other Great Basin sites.",
+          "rock_art_style": "Great Basin Curvilinear / Geometric",
+          "date_range": "6,000+ years ago to contact period",
+          "tribal_affiliation": "Modoc"
+        },
+        {
+          "id": "mono-county-sites",
+          "name": "Mono County Petroglyph Sites",
+          "site_number": "Mno-6 through Mno-300",
+          "county": "Mono County",
+          "state": "CA",
+          "coordinates": [
+            38.0,
+            -119.1
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s34_p4.png",
+              "caption": "Fig. F-40 \u2014 a-c Mno-xxx; d Plu-xxx (not natural grouping) (elaborate panels, zigzag)",
+              "source": "Heizer & Baumhoff 1962, Fig. F-40"
+            }
+          ],
+          "description": "Petroglyph sites across Mono County, particularly along the eastern Sierra slope. Features a mix of Great Basin Curvilinear and Representational styles with zigzag patterns, sun symbols, and elaborate anthropomorphic figures.",
+          "rock_art_style": "Great Basin Curvilinear / Representational",
+          "date_range": "Multiple periods",
+          "tribal_affiliation": "Northern Paiute / Mono (Monache)"
+        },
+        {
+          "id": "dist-map-eastern-ca",
+          "name": "Distribution Map \u2014 Eastern California Petroglyphs",
+          "site_number": "Fig. F-41",
+          "county": "Multiple Counties",
+          "state": "CA",
+          "coordinates": [
+            37.5,
+            -118.5
+          ],
+          "images": [
+            {
+              "file": "appendix_f/s34_p5.png",
+              "caption": "Fig. F-41 \u2014 Distribution of petroglyph sites in eastern California",
+              "source": "Heizer & Baumhoff 1962, Fig. F-41"
+            }
+          ],
+          "description": "Overview distribution map showing the locations of all documented petroglyph sites in eastern California as surveyed by Heizer & Baumhoff. Sites are concentrated in Inyo County (Owens Valley), with additional clusters in Lassen, Modoc, and Mono counties. The five counties covered are Inyo, Lassen, Modoc, Mono, and Plumas.",
+          "rock_art_style": "Reference Map",
+          "date_range": "Survey published 1962",
+          "tribal_affiliation": "Multiple \u2014 Owens Valley Paiute, Shoshone, Pit River, Modoc, Mono"
+        }
+      ]
     }
   ]
 }
