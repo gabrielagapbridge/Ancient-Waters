@@ -7,6 +7,290 @@
   },
   "regions": [
     {
+      "id": "plates-photos",
+      "name": "\u2726 Photographic Plates",
+      "state": "NV",
+      "description": "Original black-and-white field photographs from the 1950s-60s survey. These are the actual rock surfaces as photographed by Heizer & Baumhoff \u2014 the only known published photographs of many of these sites.",
+      "sites": [
+        {
+          "id": "plates-grimes",
+          "name": "Grimes Point Photographs",
+          "site_number": "Ch-1",
+          "county": "Churchill County",
+          "state": "NV",
+          "coordinates": [
+            39.4015,
+            -118.6476
+          ],
+          "images": [
+            {
+              "file": "plate_plate01.png",
+              "caption": "Plate 1 \u2014 Grimes Point petroglyph boulders",
+              "source": "Heizer & Baumhoff 1962, Plate 1"
+            },
+            {
+              "file": "plate_plate02.png",
+              "caption": "Plate 2 \u2014 Grimes Point petroglyph boulders",
+              "source": "Heizer & Baumhoff 1962, Plate 2"
+            }
+          ]
+        },
+        {
+          "id": "plates-multi1",
+          "name": "Dunphy, Garfield Flat, Grimes & Grapevine",
+          "site_number": "Various",
+          "county": "Various",
+          "state": "NV",
+          "coordinates": [
+            39.4,
+            -118.0
+          ],
+          "images": [
+            {
+              "file": "plate_plate03.png",
+              "caption": "Plate 3 \u2014 Dunphy; Garfield Flat; Grapevine Canyon; Grimes",
+              "source": "Heizer & Baumhoff 1962, Plate 3"
+            }
+          ]
+        },
+        {
+          "id": "plates-atlatl",
+          "name": "Atlatl Rock Photographs",
+          "site_number": "Cl-1",
+          "county": "Clark County",
+          "state": "NV",
+          "coordinates": [
+            36.423,
+            -114.551
+          ],
+          "images": [
+            {
+              "file": "plate_plate04.png",
+              "caption": "Plate 4 \u2014 Atlatl Rock site photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 4"
+            }
+          ]
+        },
+        {
+          "id": "plates-cave-whisky",
+          "name": "Cave Springs & Whisky Flat Photographs",
+          "site_number": "Cl-24, Mi-4",
+          "county": "Clark/Mineral",
+          "state": "NV",
+          "coordinates": [
+            37.0,
+            -116.0
+          ],
+          "images": [
+            {
+              "file": "plate_plate05.png",
+              "caption": "Plate 5 \u2014 Cave Springs and Whisky Flat photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 5"
+            }
+          ]
+        },
+        {
+          "id": "plates-mouse",
+          "name": "Mouse's Tank Photographs",
+          "site_number": "Cl-149",
+          "county": "Clark County",
+          "state": "NV",
+          "coordinates": [
+            36.441,
+            -114.517
+          ],
+          "images": [
+            {
+              "file": "plate_plate06.png",
+              "caption": "Plate 6 \u2014 Mouse's Tank site photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 6"
+            }
+          ]
+        },
+        {
+          "id": "plates-hickison",
+          "name": "Hickison Summit Photographs",
+          "site_number": "La-4",
+          "county": "Lander County",
+          "state": "NV",
+          "coordinates": [
+            39.449,
+            -116.752
+          ],
+          "images": [
+            {
+              "file": "plate_plate07.png",
+              "caption": "Plate 7 \u2014 Hickison Summit: views from south and east of saddle",
+              "source": "Heizer & Baumhoff 1962, Plate 7"
+            }
+          ]
+        },
+        {
+          "id": "plates-walker",
+          "name": "East Walker River Photographs",
+          "site_number": "Ly-1",
+          "county": "Lyon County",
+          "state": "NV",
+          "coordinates": [
+            38.8,
+            -119.2
+          ],
+          "images": [
+            {
+              "file": "plate_plate08.png",
+              "caption": "Plate 8 \u2014 East Walker River site photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 8"
+            }
+          ]
+        },
+        {
+          "id": "plates-smith-massacre",
+          "name": "Smith Valley, Massacre Lake & Simpson Pass",
+          "site_number": "Ly-2, Wa-9, Ly-7",
+          "county": "Various",
+          "state": "NV",
+          "coordinates": [
+            39.5,
+            -119.0
+          ],
+          "images": [
+            {
+              "file": "plate_plate09.png",
+              "caption": "Plate 9 \u2014 Smith Valley pit-and-groove petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Plate 9"
+            },
+            {
+              "file": "plate_plate10.png",
+              "caption": "Plate 10 \u2014 Massacre Lake and Simpson Pass photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 10"
+            },
+            {
+              "file": "plate_plate11.png",
+              "caption": "Plate 11 \u2014 Massacre Lake and Simpson Pass photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 11"
+            }
+          ]
+        },
+        {
+          "id": "plates-garfield-whisky",
+          "name": "Garfield Flat & Whisky Flat Photographs",
+          "site_number": "Mi-3, Mi-4",
+          "county": "Mineral County",
+          "state": "NV",
+          "coordinates": [
+            38.55,
+            -118.42
+          ],
+          "images": [
+            {
+              "file": "plate_plate12.png",
+              "caption": "Plate 12 \u2014 Garfield Flat photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 12"
+            },
+            {
+              "file": "plate_plate13.png",
+              "caption": "Plate 13 \u2014 Whisky Flat: rock surfaces, petroglyphs, pecked circles",
+              "source": "Heizer & Baumhoff 1962, Plate 13"
+            }
+          ]
+        },
+        {
+          "id": "plates-springs-antiquity",
+          "name": "Spanish Springs & Court of Antiquity Photographs",
+          "site_number": "St-1, Wa-5",
+          "county": "Storey/Washoe",
+          "state": "NV",
+          "coordinates": [
+            39.8,
+            -119.55
+          ],
+          "images": [
+            {
+              "file": "plate_plate14.png",
+              "caption": "Plate 14 \u2014 Spanish Springs and Court of Antiquity photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 14"
+            }
+          ]
+        },
+        {
+          "id": "plates-lago",
+          "name": "Lagomarsino Canyon Photographs",
+          "site_number": "St-1",
+          "county": "Storey County",
+          "state": "NV",
+          "coordinates": [
+            39.4435,
+            -119.5693
+          ],
+          "images": [
+            {
+              "file": "plate_plate16.png",
+              "caption": "Plate 16 \u2014 Burnt Cave and Lagomarsino site",
+              "source": "Heizer & Baumhoff 1962, Plate 16"
+            },
+            {
+              "file": "plate_plate17.png",
+              "caption": "Plate 17 \u2014 Lagomarsino Canyon photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 17"
+            }
+          ]
+        },
+        {
+          "id": "plates-misc",
+          "name": "Additional Site Photographs",
+          "site_number": "Various",
+          "county": "Various",
+          "state": "NV",
+          "coordinates": [
+            38.5,
+            -117.0
+          ],
+          "images": [
+            {
+              "file": "plate_plate15.png",
+              "caption": "Plate 15 \u2014 Pipe Spring and Li-1 photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 15"
+            },
+            {
+              "file": "plate_plate18.png",
+              "caption": "Plate 18 \u2014 Sun Gap site photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 18"
+            },
+            {
+              "file": "plate_plate19.png",
+              "caption": "Plate 19 \u2014 Nye County photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 19"
+            },
+            {
+              "file": "plate_plate20.png",
+              "caption": "Plate 20 \u2014 Mixed sites photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 20"
+            },
+            {
+              "file": "plate_plate21.png",
+              "caption": "Plate 21 \u2014 Mixed sites photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 21"
+            },
+            {
+              "file": "plate_plate22.png",
+              "caption": "Plate 22 \u2014 Sun Gap large boulder",
+              "source": "Heizer & Baumhoff 1962, Plate 22"
+            },
+            {
+              "file": "plate_plate23.png",
+              "caption": "Plate 23 \u2014 Nye Cl-33 photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 23"
+            },
+            {
+              "file": "plate_plate24.png",
+              "caption": "Plate 24 \u2014 Nye Cl-33 photographs",
+              "source": "Heizer & Baumhoff 1962, Plate 24"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "churchill",
       "name": "Churchill County \u2014 Carson Sink",
       "state": "NV",
@@ -817,6 +1101,72 @@
               "file": "WP-multi_fig131.png",
               "caption": "Fig. 131 \u2014 White Pine County sites",
               "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lagomarsino",
+      "name": "\u2726 Lagomarsino Canyon \u2014 Appendix D",
+      "state": "NV",
+      "description": "Appendix D of Heizer & Baumhoff is devoted entirely to Lagomarsino Canyon (St-1) \u2014 the largest rock art site in Nevada with 2,229 panels. This detailed recording was done by the UC Archaeological Survey and represents the most complete documentation of any single Nevada rock art site at the time.",
+      "sites": [
+        {
+          "id": "lago-appendix",
+          "name": "Lagomarsino Canyon (St-1)",
+          "site_number": "St-1",
+          "county": "Storey County",
+          "state": "NV",
+          "coordinates": [
+            39.4435,
+            -119.5693
+          ],
+          "images": [
+            {
+              "file": "St-1_lago_figD1.png",
+              "caption": "Fig. D-1 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD2.png",
+              "caption": "Fig. D-2 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD3.png",
+              "caption": "Fig. D-3 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD4.png",
+              "caption": "Fig. D-4 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD5.png",
+              "caption": "Fig. D-5 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD6.png",
+              "caption": "Fig. D-6 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD7.png",
+              "caption": "Fig. D-7 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD8.png",
+              "caption": "Fig. D-8 \u2014 Lagomarsino Canyon petroglyphs",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
+            },
+            {
+              "file": "St-1_lago_figD9.png",
+              "caption": "Fig. D-9 \u2014 Lagomarsino Canyon petroglyphs and element classification",
+              "source": "Heizer & Baumhoff 1962, Appendix D"
             }
           ]
         }
