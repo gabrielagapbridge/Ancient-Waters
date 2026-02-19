@@ -585,25 +585,237 @@
       ]
     },
     {
-      "id": "misc-nv",
-      "name": "Other Nevada Counties",
+      "id": "nye",
+      "name": "Nye County \u2014 Central Nevada",
       "state": "NV",
-      "description": "Sites across Eureka, Humboldt, Lincoln, and other counties.",
+      "description": "Remote rock art sites in the desert ranges of central Nevada, including caves near Goldfield in Western Shoshone territory.",
       "sites": [
         {
-          "id": "misc",
-          "name": "Multi-County Sites",
-          "site_number": "Various",
-          "county": "Various",
+          "id": "nye-sites",
+          "name": "Nye County Sites",
+          "site_number": "Ny-3, Ny-9, Ny-28, Ny-29",
+          "county": "Nye County",
           "state": "NV",
           "coordinates": [
-            39.5,
-            -117.0
+            38.6,
+            -117.15
           ],
           "images": [
             {
-              "file": "Cl-multi_fig78.png",
-              "caption": "Fig. 78 \u2014 Grapevine Canyon; Dunphy; Humboldt County; Hiko Springs",
+              "file": "Ny-3_fig108.png",
+              "caption": "Fig. 108 \u2014 Ny-3 petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Ny-9_fig109.png",
+              "caption": "Fig. 109 \u2014 Ny-9 petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "multi-NyPe_fig110.png",
+              "caption": "Fig. 110 \u2014 Big George Cave (Ny-28); Atomic Tanks (Ny-29); Pole Canyon (Pe-1); Star Peak (Pe-6)",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pershing",
+      "name": "Pershing County \u2014 Northern Nevada",
+      "state": "NV",
+      "description": "Cave and shelter sites in the remote ranges north of the Humboldt River, on the frontier between Northern Paiute and Western Shoshone territories.",
+      "sites": [
+        {
+          "id": "pershing-sites",
+          "name": "Pershing County Sites",
+          "site_number": "Pe-1, Pe-6, Pe-14",
+          "county": "Pershing County",
+          "state": "NV",
+          "coordinates": [
+            40.45,
+            -118.1
+          ],
+          "images": [
+            {
+              "file": "Pe-14_fig111.png",
+              "caption": "Fig. 111 \u2014 Leonard Rock Shelter (Pe-14) petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "multi-PeWa_fig112.png",
+              "caption": "Fig. 112 \u2014 Pe-14; Wa-5; Wa-7 Pah-Rah; WP-1; Spanish Springs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storey",
+      "name": "Storey County \u2014 Virginia City",
+      "state": "NV",
+      "description": "Rock art sites near Reno and Virginia City, including Spanish Springs Valley \u2014 now suburbanized but once a Northern Paiute and Washo gathering area.",
+      "sites": [
+        {
+          "id": "spanish-springs",
+          "name": "Spanish Springs Valley",
+          "site_number": "St-1",
+          "county": "Storey County",
+          "state": "NV",
+          "coordinates": [
+            39.6,
+            -119.6
+          ],
+          "images": [
+            {
+              "file": "St-1_fig113.png",
+              "caption": "Fig. 113 \u2014 Spanish Springs site petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "St-1_fig114.png",
+              "caption": "Fig. 114 \u2014 Spanish Springs Valley petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "washoe",
+      "name": "Washoe County \u2014 Northern Nevada",
+      "state": "NV",
+      "description": "Sites in the remote northwestern reaches of Nevada near the Oregon border, including the remarkable Court of Antiquity and the extensive Massacre Lake petroglyph complex \u2014 one of the largest in northern Nevada.",
+      "sites": [
+        {
+          "id": "court-of-antiquity",
+          "name": "Court of Antiquity",
+          "site_number": "Wa-5",
+          "county": "Washoe County",
+          "state": "NV",
+          "coordinates": [
+            40.95,
+            -119.5
+          ],
+          "images": [
+            {
+              "file": "Wa-5_fig115.png",
+              "caption": "Fig. 115 \u2014 Court of Antiquity petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-5_fig116.png",
+              "caption": "Fig. 116 \u2014 Court of Antiquity petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-5_fig117.png",
+              "caption": "Fig. 117 \u2014 Court of Antiquity petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        },
+        {
+          "id": "massacre-lake",
+          "name": "Massacre Lake",
+          "site_number": "Wa-9",
+          "county": "Washoe County",
+          "state": "NV",
+          "coordinates": [
+            40.98,
+            -119.55
+          ],
+          "images": [
+            {
+              "file": "Wa-multi_fig118.png",
+              "caption": "Fig. 118 \u2014 Massacre Lake; Wa-7 Pah-Rah; Windy Tondi",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig119.png",
+              "caption": "Fig. 119 \u2014 Massacre Lake petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig120.png",
+              "caption": "Fig. 120 \u2014 Massacre Lake petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig121.png",
+              "caption": "Fig. 121 \u2014 Massacre Lake petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig122.png",
+              "caption": "Fig. 122 \u2014 Massacre Lake petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig123.png",
+              "caption": "Fig. 123 \u2014 Massacre Lake petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig124.png",
+              "caption": "Fig. 124 \u2014 Massacre Lake petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig125.png",
+              "caption": "Fig. 125 \u2014 Massacre Lake petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "Wa-9_fig126.png",
+              "caption": "Fig. 126 \u2014 Massacre Lake and Pipe Spring petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whitepine",
+      "name": "White Pine County \u2014 Eastern Nevada",
+      "state": "NV",
+      "description": "The easternmost Nevada sites in the Heizer & Baumhoff survey, near the Utah border in Goshute (Western Shoshone) territory. A transition zone between Great Basin and Fremont cultural traditions.",
+      "sites": [
+        {
+          "id": "wp-sites",
+          "name": "White Pine County Sites",
+          "site_number": "WP-1, WP-3, WP-5, WP-9, WP-14",
+          "county": "White Pine County",
+          "state": "NV",
+          "coordinates": [
+            39.15,
+            -114.85
+          ],
+          "images": [
+            {
+              "file": "WP-multi_fig127.png",
+              "caption": "Fig. 127 \u2014 Tunnel Canyon (WP-1); Rocking Rock Shelter (WP-3); Cluckamung Creek (WP-5); WP-9",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "WP-multi_fig128.png",
+              "caption": "Fig. 128 \u2014 WP-9 and WP-14 petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "WP-multi_fig129.png",
+              "caption": "Fig. 129 \u2014 WP-9 and WP-14 petroglyphs",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "WP-multi_fig130.png",
+              "caption": "Fig. 130 \u2014 Tunnel Canyon, Rocking Rock, Cluckamung Creek, Shaman Canyon",
+              "source": "Heizer & Baumhoff 1962"
+            },
+            {
+              "file": "WP-multi_fig131.png",
+              "caption": "Fig. 131 \u2014 White Pine County sites",
               "source": "Heizer & Baumhoff 1962"
             }
           ]
