@@ -218,4 +218,49 @@ rancherias.forEach(r => {
 });
 
 
+// ========== CA-LAK-386 — Cache Creek Fishery Site ==========
+// Source: Gobalet, Kenneth W. (1989) "Remains of Tiny Fish from a Late
+// Prehistoric Pomo Site Near Clear Lake, California." Journal of California
+// and Great Basin Anthropology, 11(2):231-239.
+// Site location: along Cache Creek near Lower Lake, ~2.5 km upstream from
+// Clear Lake outlet at Cache Creek Dam. Within ethnographic Clear Lake Pomo territory.
+
+L.circleMarker([38.935, -122.595], {
+  radius: 8, fillColor: '#AB47BC', color: '#7B1FA2', weight: 2,
+  fillOpacity: 0.85, pane:'markerPane'
+}).bindPopup(`<div style="max-width:320px;font-family:'Crimson Text',serif">
+  <h3 style="color:#AB47BC;margin:0 0 4px">CA-LAK-386 — Cache Creek Fishery</h3>
+  <p style="font-size:12px;color:#CE93D8;margin:0 0 8px">Late Prehistoric · Clear Lake Pomo Territory</p>
+
+  <p style="font-size:13px;color:#CFD8DC">Archaeological site along <strong>Cache Creek</strong> near Lower Lake, situated where the creek meandered through a low-gradient tule marsh ~2.5 km upstream from Clear Lake's outlet. Excavated 1988–1989 by California Archaeological Consultants for the U.S. Army Corps of Engineers.</p>
+
+  <p style="font-size:13px;color:#CFD8DC">Gobalet's pioneering <strong>fine-mesh screening</strong> (1/16-inch sieves) recovered remains of tiny fish invisible to standard 1/4-inch field methods — revealing that Pomo fishers targeted <strong>small fish in marshy backwaters</strong> using poison, baskets, dip nets, and fine seines year-round.</p>
+
+  <details style="margin:8px 0">
+    <summary style="font-size:13px;color:#4FC3F7;cursor:pointer;font-weight:bold">🐟 10 of 14 Native Species Identified ▾</summary>
+    <div style="margin-top:6px;padding:6px;background:rgba(255,255,255,0.05);border-radius:4px">
+      <p style="font-size:12px;color:#B0BEC5;margin:0 0 4px"><strong>Cyprinidae (minnows):</strong> Sacramento blackfish, hardhead, hitch, Sacramento squawfish, Clear Lake splittail†</p>
+      <p style="font-size:12px;color:#B0BEC5;margin:0 0 4px"><strong>Catostomidae:</strong> Sacramento sucker</p>
+      <p style="font-size:12px;color:#B0BEC5;margin:0 0 4px"><strong>Gasterosteidae:</strong> Threespine stickleback</p>
+      <p style="font-size:12px;color:#B0BEC5;margin:0 0 4px"><strong>Centrarchidae:</strong> Sacramento perch</p>
+      <p style="font-size:12px;color:#B0BEC5;margin:0 0 4px"><strong>Embiotocidae:</strong> Tule perch</p>
+      <p style="font-size:12px;color:#B0BEC5;margin:0 0 4px"><strong>Cottidae:</strong> Prickly sculpin</p>
+      <p style="font-size:12px;color:#EF5350;margin:4px 0 0">† Clear Lake splittail (<em>Pogonichthys ciscoides</em>) — <strong>now extinct</strong>. Once the most abundant species in the lake. Thicktail chub (<em>Gila crassicauda</em>) also extinct.</p>
+    </div>
+  </details>
+
+  <details style="margin:8px 0">
+    <summary style="font-size:13px;color:#4FC3F7;cursor:pointer;font-weight:bold">📊 Year-Round Fishing Evidence ▾</summary>
+    <div style="margin-top:6px;padding:6px;background:rgba(255,255,255,0.05);border-radius:4px">
+      <p style="font-size:12px;color:#B0BEC5;margin:0 0 4px">Growth ring analysis of 27 fish vertebrae showed deaths in <strong>every season</strong> — 17 elements indicate summer-to-fall, 11 winter-to-spring. This confirms year-round occupation and continuous exploitation of the marshy fishery.</p>
+      <p style="font-size:12px;color:#B0BEC5;margin:0">Most remains were Sacramento perch and tule perch — small juveniles under 80mm found in <strong>slow-moving water with emergent vegetation</strong>, conditions that still exist along Cache Creek today.</p>
+    </div>
+  </details>
+
+  <p style="font-size:12px;color:#FFB74D;margin:8px 0 4px">⚡ <strong>Why this matters:</strong> Standard 1/4-inch screens recovered only 29 identifiable bones. Fine screening of the same deposits yielded <strong>124 elements</strong> — proving that large-screen bias dramatically underrepresents small-fish use at inland sites across California.</p>
+
+  <p style="font-size:11px;color:#78909C;margin-top:8px">Source: Gobalet 1989, <em>J. of California & Great Basin Anthropology</em> 11(2):231-239</p>
+</div>`, {maxWidth:340}).addTo(L_groups.pomoVillages);
+
+
 })();
