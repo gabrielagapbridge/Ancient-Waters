@@ -351,7 +351,7 @@ L.marker([39.40,-118.65], {icon:L.divIcon({className:'custom-marker',
 // Excavated 1980 by C. Melvin Aikens, Steens Mountain Prehistory Project
 // Burns Northern Paiute seasonal gathering area
 // Source: Wilde 1989, JCGBA 11(2):215-230
-L.circleMarker([42.38, -118.58], {radius: 6, color: '#FF7043', fillColor: '#B0BEC5', fillOpacity: 0.8, weight: 2})
+L.circleMarker([42.38, -118.58], {radius: 6, color: '#FF7043', fillColor: '#B0BEC5', fillOpacity: 0.8, weight: 2, pane: 'markerPane'})
   .bindPopup(`<div class="popup-content">
     <h3 style="color:#B0BEC5">⬢ Tule Springs Hearth Site (35Ha406)</h3>
     <p><b>Site number:</b> 35Ha406</p>
@@ -371,7 +371,7 @@ L.circleMarker([42.38, -118.58], {radius: 6, color: '#FF7043', fillColor: '#B0BE
   </div>`, {maxWidth:420}).addTo(L_groups.preNumicSites);
 
 // Tule Springs marsh label
-L.marker([42.37, -118.58], {icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:8px;color:#4FC3F7;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.7">TULE SPRINGS MARSH</div>',iconSize:[140,12],iconAnchor:[70,6]})}).addTo(L_groups.preNumicSites);
+L.marker([42.37, -118.58], {icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:8px;color:#4FC3F7;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.7;pointer-events:none">TULE SPRINGS MARSH</div>',iconSize:[140,12],iconAnchor:[70,6]}), interactive:false}).addTo(L_groups.preNumicSites);
 
 // Tule Springs marsh area (approximate extent)
 L.ellipse ? null :
@@ -379,10 +379,10 @@ L.circle([42.375, -118.58], {radius: 400, color:'#1E88E5', fillColor:'#29B6F6', 
 }).addTo(L_groups.preNumicSites).bindPopup(`<h4 style="color:#4FC3F7">🌿 Tule Springs Marsh</h4><div style="font-size:10px;color:#aaa;margin-bottom:4px">Alvord Basin, Harney County, OR · ~100 × 500 m · Spring-fed</div><div style="font-size:12px;color:#ccc;line-height:1.5">A spring-fed desert marsh in the eastern Alvord Basin supporting cattail, bulrush, sedges, and other marsh species. Small seep springs along stabilized dunes to the north suggest minor faulting allowed groundwater emergence. Wada (<i>Suaeda</i> spp.) grows in saline soil around the marsh edge. This oasis in the dry Alvord Desert became a <b>magnet for human habitation</b> during drier climatic episodes of the past 2,000 years — one of the few reliable water sources on the valley floor east of Steens Mountain.</div><div style="margin-top:6px;font-size:10px;color:#888">Sources: Wilde 1989; Mehringer & Wigand 1985</div>`, {maxWidth:380});
 
 // Steens Mountain label
-L.marker([42.63, -118.90], {icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:10px;color:#CE93D8;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:2px;opacity:0.8">STEENS MOUNTAIN</div>',iconSize:[160,14],iconAnchor:[80,7]})}).addTo(L_groups.preNumicSites);
+L.marker([42.63, -118.90], {icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:10px;color:#CE93D8;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:2px;opacity:0.8;pointer-events:none">STEENS MOUNTAIN</div>',iconSize:[160,14],iconAnchor:[80,7]}), interactive:false}).addTo(L_groups.preNumicSites);
 
 // Alvord Basin / Alvord Desert label
-L.marker([42.45, -118.55], {icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:9px;color:#FF7043;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.7">ALVORD BASIN</div>',iconSize:[120,12],iconAnchor:[60,6]})}).addTo(L_groups.preNumicSites);
+L.marker([42.45, -118.55], {icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:9px;color:#FF7043;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.7;pointer-events:none">ALVORD BASIN</div>',iconSize:[120,12],iconAnchor:[60,6]}), interactive:false}).addTo(L_groups.preNumicSites);
 
 // Pluvial Lake Alvord (Pleistocene lake that once filled the basin)
 L.polygon([
@@ -394,7 +394,7 @@ L.polygon([
   color:'#1565C0', fillColor:'#1E88E5', fillOpacity:0.18, weight:1.5, opacity:0.5, dashArray:'6,4'
 }).addTo(L_groups.pluvialLakes).bindPopup(`<h4 style="color:#42A5F5">🌊 Pluvial Lake Alvord</h4><div style="font-size:10px;color:#aaa;margin-bottom:4px">Alvord Basin, SE Oregon · Pleistocene · ~30 mi long · Fed by Steens Mountain glaciers</div><div style="font-size:12px;color:#ccc;line-height:1.5">During the Pleistocene, the Alvord Basin was filled by a large pluvial lake fed by glacial meltwater from <b>Steens Mountain</b> — the highest point in southeastern Oregon at 9,738 ft. The lake occupied the basin between Steens Mountain to the west and the Trout Creek Mountains to the east. Ancient shoreline terraces and beach ridges are still visible on the basin margins.<br><br>As the climate warmed after ~10,000 years ago, the lake dried to the <b>Alvord Desert</b> — a vast white alkali playa. Only spring-fed marshes like <b>Tule Springs</b> and a few perennial streams (Wildhorse Creek, Pike Creek) survived as water sources, becoming critical habitation points for Great Basin peoples during the late Holocene.</div><div style="margin-top:6px;font-size:10px;color:#888">Sources: Reheis 1999; USGS; Wilde 1989; Mehringer & Wigand 1985</div>`, {maxWidth:420});
 
-L.marker([42.05,-118.55],{icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:8px;color:#42A5F5;text-shadow:0 0 4px #000;white-space:nowrap;letter-spacing:1px;opacity:0.6">PLUVIAL LAKE ALVORD</div>',iconSize:[140,12],iconAnchor:[70,6]})}).addTo(L_groups.pluvialLakes);
+L.marker([42.05,-118.55],{icon:L.divIcon({className:'',html:'<div style="font-family:Cinzel,serif;font-size:8px;color:#42A5F5;text-shadow:0 0 4px #000;white-space:nowrap;letter-spacing:1px;opacity:0.6;pointer-events:none">PLUVIAL LAKE ALVORD</div>',iconSize:[140,12],iconAnchor:[70,6]}), interactive:false}).addTo(L_groups.pluvialLakes);
 
 L.marker([36.05,-118.75],{icon:L.divIcon({className:'custom-marker',
     html:'<div style="font-size:16px;cursor:pointer" title="Tule River Indian Reservation">🏠</div>',
