@@ -362,15 +362,21 @@
 
   /* Region nav */
   .region-nav {
-    position: fixed; top: 8px; right: 12px; z-index: 1001;
-    display: flex; gap: 0; border-radius: 16px; overflow: hidden;
+    position: fixed; top: 8px; left: 12px; right: 12px; z-index: 1001;
+    display: flex; gap: 0; border-radius: 16px;
+    overflow-x: auto; overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
     border: 1px solid rgba(193,154,107,0.25);
+    scroll-behavior: smooth;
   }
+  .region-nav::-webkit-scrollbar { display: none; }
   .region-btn {
     padding: 6px 14px; font-family: 'Cinzel', serif; font-size: 10px;
     letter-spacing: 1px; text-transform: uppercase; border: none; cursor: pointer;
     background: rgba(26,18,8,0.85); color: var(--text-dim);
     backdrop-filter: blur(10px); transition: all 0.3s;
+    white-space: nowrap; flex-shrink: 0;
   }
   .region-btn.active { background: rgba(30,107,138,0.5); color: var(--turquoise); }
   .region-btn:hover { color: var(--sand); }
