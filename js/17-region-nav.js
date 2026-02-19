@@ -21,7 +21,8 @@ function flyTo(region) {
     hudsonvalley: [42.5, -73.5, 7],
     manhattan: [40.72, -74.005, 13],
     mojavedesert: [35.0, -116.0, 8],
-    diablorange: [37.35, -121.55, 9]
+    diablorange: [37.35, -121.55, 9],
+    maine: [44.7, -68.5, 7]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});

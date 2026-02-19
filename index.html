@@ -46,6 +46,7 @@
   <button class="region-btn" onclick="flyTo('mojavedesert')">Mojave Desert</button>
   <button class="region-btn" onclick="flyTo('diablorange')">Diablo Range</button>
   <button class="region-btn" onclick="flyToEasternCA()">Eastern CA</button>
+  <button class="region-btn" onclick="flyTo('maine')">Maine</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -212,6 +213,28 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaModocPetro')"><span style="color:#C49A6C">◆ Modoc County — Lava Beds (7 sites)</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaMonoPetro')"><span style="color:#B8916A">◆ Mono County (4 sites)</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ecaPlumasPetro')"><span style="color:#A88860">◆ Plumas County (2 sites)</span></label>
+    </div>
+  </div>
+
+  <!-- MAINE / WABANAKI PETROGLYPHS -->
+  <div class="culture-section" id="culture-maine" data-regions="overview maine">
+    <div class="culture-header" onclick="toggleCulture('maine')">
+      <div class="culture-color-bar" style="background:#4A148C;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Maine / Wabanaki Petroglyphs</div>
+        <div class="culture-meta">Passamaquoddy, Abenaki, Penobscot · 3,000 BP – Contact</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('maine',this.checked)" title="Toggle all Maine layers">
+      <span class="culture-arrow" id="arrow-maine">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-maine">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mainePetro')"><span style="color:#FFD700">◆ Petroglyphs (Machias Bay & Embden)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mainePickto')"><span style="color:#FF6347">🎨 Pictograph sites (SW Maine)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineStyles')"><span style="color:#78909C">📊 Hedden's 6-style chronology</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineWater')"><span style="color:#1E90FF">🌊 Rivers & waterways</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineSacred')"><span style="color:#DC143C">Sacred sites & villages</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineTerritory')"><span style="color:#4A148C">Tribal territories</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineConserved')"><span style="color:#2E7D32">🌿 Conserved / returned lands</span></label>
     </div>
   </div>
 
@@ -608,4 +631,5 @@
 <script src="js/46-hulkuhku-landscape.js"></script>
 <script src="js/47-diablo-cupules.js"></script>
 <script src="js/48-eastern-ca-petroglyphs.js"></script>
+<script src="js/49-maine-petroglyphs.js"></script>
 </html>
