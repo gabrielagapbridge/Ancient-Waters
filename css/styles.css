@@ -336,7 +336,7 @@
     transition: max-height 0.3s ease, padding 0.3s ease;
   }
   .culture-layers.open {
-    max-height: 400px; padding: 4px 8px 8px 18px;
+    max-height: 1200px; padding: 4px 8px 8px 18px;
   }
   .culture-layers .layer-toggle { font-size: 11px; margin-bottom: 2px; }
   .culture-section.expanded {
