@@ -47,6 +47,7 @@
   <button class="region-btn" onclick="flyTo('diablorange')">Diablo Range</button>
   <button class="region-btn" onclick="flyToEasternCA()">Eastern CA</button>
   <button class="region-btn" onclick="flyTo('maine')">Maine</button>
+  <button class="region-btn" onclick="flyTo('wampanoag')">Wampanoag</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -235,6 +236,28 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineSacred')"><span style="color:#DC143C">Sacred sites & villages</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineTerritory')"><span style="color:#4A148C">Tribal territories</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('maineConserved')"><span style="color:#2E7D32">🌿 Conserved / returned lands</span></label>
+    </div>
+  </div>
+
+  <!-- WAMPANOAG — People of the First Light -->
+  <div class="culture-section" id="culture-wampanoag" data-regions="overview wampanoag">
+    <div class="culture-header" onclick="toggleCulture('wampanoag')">
+      <div class="culture-color-bar" style="background:#8B4513;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Wampanoag — People of the First Light</div>
+        <div class="culture-meta">SE Massachusetts, Cape Cod, Martha's Vineyard, Nantucket · 12,000 BP – present</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('wampanoag',this.checked)" title="Toggle all Wampanoag layers">
+      <span class="culture-arrow" id="arrow-wampanoag">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-wampanoag">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagTerritory')"><span style="color:#8B4513">Wampanoag Nation territory</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagArch')"><span style="color:#4682B4">★ Archaeological sites (12,000 BP – Woodland)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagVillages')"><span style="color:#DEB887">⬢ Contact-period villages & communities</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagPetro')"><span style="color:#FFD700">◆ Petroglyphs & rock art (Dighton Rock, Hand Rock)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagSacred')"><span style="color:#DC143C">Sacred sites & historical events</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagTrails')"><span style="color:#D4760A">Native trails & water routes</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagEpidemic')"><span style="color:#8B0000">☠ Epidemic devastation zones (1616–1619)</span></label>
     </div>
   </div>
 
@@ -632,4 +655,5 @@
 <script src="js/47-diablo-cupules.js"></script>
 <script src="js/48-eastern-ca-petroglyphs.js"></script>
 <script src="js/49-maine-petroglyphs.js"></script>
+<script src="js/50-wampanoag.js"></script>
 </html>

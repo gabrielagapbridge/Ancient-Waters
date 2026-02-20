@@ -22,7 +22,8 @@ function flyTo(region) {
     manhattan: [40.72, -74.005, 13],
     mojavedesert: [35.0, -116.0, 8],
     diablorange: [37.35, -121.55, 9],
-    maine: [44.7, -68.5, 7]
+    maine: [44.7, -68.5, 7],
+    wampanoag: [41.75, -70.65, 9]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});
