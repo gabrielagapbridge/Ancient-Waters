@@ -50,6 +50,7 @@
   <button class="region-btn" onclick="flyTo('wampanoag')">Wampanoag</button>
   <button class="region-btn" onclick="flyTo('thunderbird')">⚡ Thunderbird</button>
   <button class="region-btn" onclick="flyTo('ctriver')">🏔️ CT River</button>
+  <button class="region-btn" onclick="flyTo('berkshire')">🏔️ Berkshires</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -306,6 +307,30 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrDams')"><span style="color:#4A4A4A">⬛ Dams that drowned sites</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrMuseums')"><span style="color:#708090">■ Museums & interpretation</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrRiver')"><span style="color:#2563EB">〰️ Connecticut River path</span></label>
+    </div>
+  </div>
+
+  <!-- BERKSHIRES / HUDSON VALLEY / CT COAST -->
+  <div class="culture-section" id="culture-berkshire" data-regions="berkshire">
+    <div class="culture-header" onclick="toggleCulture('berkshire')">
+      <div class="culture-color-bar" style="background:#2D4A3E;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">🏔️ Berkshires / Hudson / CT Coast</div>
+        <div class="culture-meta">Mohican, Lenape, Pequot, Mohegan · 12,000+ years</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('berkshire',this.checked)" title="Toggle all Berkshire layers">
+      <span class="culture-arrow" id="arrow-berkshire">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-berkshire">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcArch')"><span style="color:#C17817">◆ Archaeological sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcVillages')"><span style="color:#2D6A4F">● Villages & settlements</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcSacred')"><span style="color:#8B4513">▲ Sacred / ceremonial</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcRockArt')"><span style="color:#E6A817">◆ Rock art / petroglyphs</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcReturned')"><span style="color:#1B7340">★ Returned lands</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcMassacre')"><span style="color:#8B0000">⊗ Massacre sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcTrails')"><span style="color:#4682B4">▲ Trails & paths</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcMuseums')"><span style="color:#708090">■ Museums & institutions</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('bhcRiverPath')"><span style="color:#4A7C59">〰️ River paths</span></label>
     </div>
   </div>
 
@@ -707,4 +732,5 @@
 <script src="js/51-wampanoag-submerged.js"></script>
 <script src="js/52-thunderbird-northeast.js"></script>
 <script src="js/53-ct-river-valley.js"></script>
+<script src="js/54-berkshire-hudson-coast.js"></script>
 </html>
