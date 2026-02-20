@@ -474,6 +474,174 @@ body {
   color: var(--accent);
 }
 
+/* --- TYPOLOGY SECTION --- */
+.typology-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 20px 40px;
+  border-top: 2px solid var(--accent2);
+}
+.typology-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.typology-header h2 {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(1.3rem, 3vw, 2rem);
+  color: var(--accent2);
+  letter-spacing: 2px;
+  margin-bottom: 8px;
+}
+.typology-header .typ-subtitle {
+  font-style: italic;
+  color: var(--text-dim);
+  font-size: 1rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.typ-axis {
+  margin-bottom: 36px;
+}
+.typ-axis-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+}
+.typ-axis-header h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.25rem;
+  color: var(--text-bright);
+  flex: 1;
+}
+.typ-axis-icon {
+  font-size: 1.5rem;
+}
+.typ-axis-toggle {
+  font-size: 1.2rem;
+  color: var(--accent2);
+  transition: transform 0.3s;
+}
+.typ-axis.open .typ-axis-toggle {
+  transform: rotate(90deg);
+}
+.typ-axis-body {
+  display: none;
+}
+.typ-axis.open .typ-axis-body {
+  display: block;
+}
+.typ-axis-intro {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.7;
+  margin-bottom: 20px;
+  padding-left: 12px;
+  border-left: 2px solid var(--border);
+}
+.typ-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 18px;
+}
+.typ-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px;
+  transition: border-color 0.3s;
+}
+.typ-card:hover {
+  border-color: var(--accent2);
+}
+.typ-card-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 6px;
+}
+.typ-card h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  color: var(--text-bright);
+}
+.typ-card .typ-badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  padding: 2px 8px;
+  border-radius: 10px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+.badge-dominant { background: rgba(255,112,67,0.2); color: var(--accent); }
+.badge-common { background: rgba(255,214,0,0.2); color: var(--accent2); }
+.badge-rare { background: rgba(224,64,251,0.15); color: var(--accent3); }
+.badge-regional { background: rgba(100,181,246,0.2); color: #64B5F6; }
+.badge-oldest { background: rgba(129,199,132,0.2); color: #81C784; }
+.badge-historic { background: rgba(255,255,255,0.1); color: #aaa; }
+.typ-card .typ-period {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--accent2);
+  margin-bottom: 8px;
+}
+.typ-card .typ-desc {
+  font-size: 0.85rem;
+  color: var(--text);
+  line-height: 1.65;
+}
+.typ-card .typ-desc strong {
+  color: var(--accent);
+}
+.typ-card .typ-examples {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  font-style: italic;
+}
+.typ-card-wide {
+  grid-column: 1 / -1;
+}
+.typ-subtypes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+.typ-subtype {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 6px;
+  padding: 12px;
+}
+.typ-subtype h5 {
+  font-family: 'Cinzel', serif;
+  font-size: 0.85rem;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+.typ-subtype p {
+  font-size: 0.8rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+.typology-citation {
+  margin-top: 30px;
+  padding: 16px;
+  background: #111;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  line-height: 1.6;
+}
+.typology-citation strong {
+  color: var(--accent2);
+}
+
 .add-section {
   max-width: 700px;
   margin: 40px auto;
@@ -532,6 +700,8 @@ body {
   <a href="index.html" class="nav-back">← BACK TO MAP</a>
   <span style="margin: 0 12px; color: #333;">|</span>
   <a href="#theories" class="nav-back">↓ ROCK ART THEORIES</a>
+  <span style="margin: 0 12px; color: #333;">|</span>
+  <a href="#typology" class="nav-back">↓ CLASSIFICATION &amp; TYPOLOGY</a>
 </div>
 
 <div class="filter-bar">
@@ -640,6 +810,329 @@ body {
   </div>
 </div>
 
+<!-- ========== CLASSIFICATION & TYPOLOGY SECTION ========== -->
+<div class="typology-section" id="typology">
+  <div class="typology-header">
+    <h2>✦ Classification &amp; Typology</h2>
+    <p class="typ-subtitle">How archaeologists categorize Great Basin rock art — by what it depicts, which cultural tradition produced it, and how it was made</p>
+  </div>
+
+  <!-- ===== AXIS 1: BY MOTIF ===== -->
+  <div class="typ-axis open" id="axis-motif">
+    <div class="typ-axis-header" onclick="this.parentElement.classList.toggle('open')">
+      <span class="typ-axis-icon">◉</span>
+      <h3>By Motif — What the Image Depicts</h3>
+      <span class="typ-axis-toggle">›</span>
+    </div>
+    <div class="typ-axis-body">
+      <div class="typ-axis-intro">
+        The most fundamental classification divides rock art by subject matter. Abstract/geometric imagery dominates the Great Basin — roughly 80% of all recorded motifs — while representational figures (humans, animals, scenes) make up the remainder. The deliberate prevalence of ambiguous abstract designs likely made their meanings a form of controlled, special knowledge.
+      </div>
+      <div class="typ-cards">
+
+        <!-- CURVILINEAR ABSTRACT -->
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Curvilinear Abstract</h4>
+            <span class="typ-badge badge-dominant">~31% OF ALL MOTIFS</span>
+          </div>
+          <div class="typ-period">10,000 B.P. → Contact</div>
+          <div class="typ-desc">
+            The single most common motif family. Includes <strong>circles, concentric circles, connected circles, spirals, dots, serpentine lines, curvilinear meanders, and wavy lines</strong>. These appear to be the earliest and most persistent design vocabulary in the Great Basin. Some researchers (Lewis-Williams, Dowson) connect these to entoptic phenomena — geometric form constants hardwired into the human visual system that appear during altered states of consciousness.
+          </div>
+          <div class="typ-examples">Sites: Found at virtually every Great Basin rock art site</div>
+        </div>
+
+        <!-- RECTILINEAR ABSTRACT -->
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Rectilinear Abstract</h4>
+            <span class="typ-badge badge-dominant">~25% OF ALL MOTIFS</span>
+          </div>
+          <div class="typ-period">10,000 B.P. → Contact</div>
+          <div class="typ-desc">
+            Includes <strong>grids, rectangles, rakes, cross-hatching, zigzags, ladders, and straight parallel lines</strong>. Always co-occurs with curvilinear motifs at the same sites but is generally less abundant. Together, curvilinear and rectilinear abstracts form the backbone of the Basin and Range Tradition.
+          </div>
+          <div class="typ-examples">Sites: Co-occurs with curvilinear at all major sites</div>
+        </div>
+
+        <!-- ANTHROPOMORPHS -->
+        <div class="typ-card typ-card-wide">
+          <div class="typ-card-head">
+            <h4>Anthropomorphs (Human-like Figures)</h4>
+            <span class="typ-badge badge-common">~5% OF MOTIFS</span>
+          </div>
+          <div class="typ-period">Variable — regionally and temporally restricted styles are key cultural markers</div>
+          <div class="typ-desc">
+            Though a small percentage of total imagery, anthropomorphs are critically important because their distinctive stylistic treatments are the <strong>best way to identify cultural affiliation</strong>. Simple stick figures are universal, but several regionally restricted, formally distinct styles carry deep cultural-historical significance:
+          </div>
+          <div class="typ-subtypes">
+            <div class="typ-subtype">
+              <h5>Stick-Figure Anthropomorphs</h5>
+              <p>The simplest and most widespread form. Found across the entire Great Basin at all time periods. Sometimes shown with exaggerated hands, fingers, feet, or toes. Occasionally phallic or bearing weapons.</p>
+            </div>
+            <div class="typ-subtype">
+              <h5>Fremont Anthropomorphs</h5>
+              <p><strong>Triangular, trapezoidal, or rectangular torsos</strong>, often lacking legs, sometimes with headgear, "horns," ear decoration, or internal body patterns. Found in eastern/southern Nevada and Utah. Associated with Fremont semi-horticultural cultures (ca. 1500–800 B.P.). The Sevier substyle closely resembles Fremont clay figurines.</p>
+            </div>
+            <div class="typ-subtype">
+              <h5>Western Puebloan (Kayenta)</h5>
+              <p><strong>Triangular, rectangular, or hourglass-shaped bodies</strong>, sometimes with horns. Found in Valley of Fire, lower Moapa Valley, western Utah. Associated with Ancestral Puebloan groups. Stylistically overlaps with but is visually distinct from Fremont forms.</p>
+            </div>
+            <div class="typ-subtype">
+              <h5>Pahranagat Anthropomorphs</h5>
+              <p>Unique to Pahranagat Valley, SE Nevada. <strong>Two types:</strong> (1) Rectangular "fringed" body with internal grids/dots, often headless with stick legs; (2) Solid-pecked ovoid body with large eyes in negative space and a head protrusion. Contemporary Great Basin Native communities identify these as the spirit figure <strong>"Water Baby"</strong> and their associated shamans' helpers.</p>
+            </div>
+            <div class="typ-subtype">
+              <h5>Coso Patterned-Body</h5>
+              <p>Elaborate figures with <strong>internally decorated bodies</strong> at the Coso Range, eastern California. Show stylistic connections to both Fremont and Anasazi rock art traditions, suggesting cultural linkages along the Colorado River drainage rather than with interior Great Basin hunter-gatherer groups.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- ZOOMORPHS -->
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Zoomorphs (Animal Figures)</h4>
+            <span class="typ-badge badge-common">VARIABLE BY REGION</span>
+          </div>
+          <div class="typ-desc">
+            <strong>Bighorn sheep</strong> are overwhelmingly dominant, especially in eastern and southern Nevada. Their symbolic importance likely exceeded their dietary role — small mammals, deer, antelope, and especially plants were more important food sources. Other animals include deer, elk, coyotes, mountain lions, lizards, and ambiguous serpentine forms (possible snakes). Zoomorphs are more prominent in southern/eastern Nevada and less common in the north and west.
+          </div>
+        </div>
+
+        <!-- SCENES & COMPOSITIONS -->
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Representational Scenes</h4>
+            <span class="typ-badge badge-rare">RARE</span>
+          </div>
+          <div class="typ-desc">
+            <strong>Hunting scenes</strong> (a human with bow beside a bighorn sheep) are the most recognizable narrative compositions. Interestingly, atlatl hunting scenes are virtually unknown despite the atlatl's long use — when shown, atlatls are usually held but not used. This is a key dating marker: <strong>bow-and-arrow scenes postdate ~1,500 years ago</strong>. Other scenes include depictions of material culture (dart points — extremely rare) and possible ceremonial compositions.
+          </div>
+        </div>
+
+        <!-- CUPULES -->
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Cupules (Pit-and-Groove)</h4>
+            <span class="typ-badge badge-rare">DISTINCT FORM</span>
+          </div>
+          <div class="typ-desc">
+            Hemispherical cup-shaped depressions, usually a few centimeters wide and deep, <strong>pecked or ground into boulders</strong>. Once believed to be the earliest Great Basin rock art style, though this dating is now debated. Distinctively different from all other motif types and likely produced for an entirely different purpose. Among the oldest known petroglyph forms worldwide (Bhimbetka cupules in India date to 200,000–700,000 B.P.).
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== AXIS 2: BY STYLE/TRADITION ===== -->
+  <div class="typ-axis open" id="axis-style">
+    <div class="typ-axis-header" onclick="this.parentElement.classList.toggle('open')">
+      <span class="typ-axis-icon">◉</span>
+      <h3>By Style &amp; Tradition — Cultural-Chronological Classification</h3>
+      <span class="typ-axis-toggle">›</span>
+    </div>
+    <div class="typ-axis-body">
+      <div class="typ-axis-intro">
+        Style classification intersects motif with time and cultural identity. Each tradition reflects not just aesthetic choices but distinct peoples, economies, and social organizations. Identifying a rock art style at a site can reveal who made it, roughly when, and what kind of society they lived in.
+      </div>
+      <div class="typ-cards">
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Great Basin Carved Abstract (GBCA)</h4>
+            <span class="typ-badge badge-oldest">OLDEST KNOWN</span>
+          </div>
+          <div class="typ-period">ca. 13,000–9,000 B.P. (Terminal Pleistocene / Early Holocene)</div>
+          <div class="typ-desc">
+            The oldest identified style. Characterized by <strong>deeply carved, dense geometric patterns with wide lines and very little negative space</strong>. Best known from Winnemucca Lake, Nevada — potentially the oldest scientifically dated rock art in North America (10,500–14,800 years old). Concentrated in the northern Great Basin and not widely distributed.
+          </div>
+          <div class="typ-examples">Key site: Winnemucca Lake, NV</div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Great Basin Pecked (GBP)</h4>
+            <span class="typ-badge badge-dominant">LONGEST-LIVED</span>
+          </div>
+          <div class="typ-period">ca. 11,000–13,000 B.P. → 20th century</div>
+          <div class="typ-desc">
+            Originated in the southern Great Basin and continued for over 10,000 years. Encompasses <strong>simple geometric designs plus stylized representational motifs</strong> — commonly bighorn sheep and anthropomorphs. Recent rock varnish dating confirms this style was present in the Snake River Valley by at least 10,000 B.P.
+          </div>
+          <div class="typ-examples">Key sites: Celebration Park (ID), Snake River Valley</div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Basin and Range Tradition</h4>
+            <span class="typ-badge badge-dominant">MOST WIDESPREAD</span>
+          </div>
+          <div class="typ-period">ca. 8,000–150 B.P. (Archaic through Late Prehistoric)</div>
+          <div class="typ-desc">
+            The most common and widespread style. The full range of <strong>curvilinear and rectilinear abstract motifs</strong>, plus stick-figure anthropomorphs and zoomorphs. Strongly associated with Archaic hunter-gatherer cultures. Its enormous time depth and geographic spread make finer chronological subdivision extremely difficult. Abstract designs account for ~80% of imagery in this tradition.
+          </div>
+          <div class="typ-examples">Key sites: Grimes Point, Massacre Lake, most Nevada sites</div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Fremont Rock Art</h4>
+            <span class="typ-badge badge-regional">EASTERN NV / UTAH</span>
+          </div>
+          <div class="typ-period">ca. 1,500–800 B.P. (A.D. 500–1200)</div>
+          <div class="typ-desc">
+            Associated with the Fremont archaeological culture — <strong>semi-horticultural peoples with variable reliance on wild resources</strong>. Distinguished by broad-shouldered anthropomorphs with elaborate headgear, body decoration, and occasional horns. The Sevier Fremont substyle uses highly schematic triangular/trapezoidal forms. Fremont people were distinct from and eventually replaced by Numic-speaking hunter-gatherers.
+          </div>
+          <div class="typ-examples">Key sites: Katchina Cave, eastern NV; Fremont sites across Utah</div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Ancestral Puebloan (Western Kayenta)</h4>
+            <span class="typ-badge badge-regional">SOUTHERN NV / COLORADO DRAINAGE</span>
+          </div>
+          <div class="typ-period">ca. 1,500–700 B.P. (A.D. 500–1300)</div>
+          <div class="typ-desc">
+            Associated with Puebloan horticultural groups. <strong>Triangular, rectangular, or hourglass-shaped anthropomorphs</strong> sometimes with horns or headgear. Overlaps chronologically with Fremont but is stylistically distinct. Found in the Valley of Fire, lower Moapa Valley, and into the Arizona Strip. Both Fremont and Anasazi groups developed in response to horticultural economies that collapsed during 12th–13th century drought.
+          </div>
+          <div class="typ-examples">Key sites: Lost City (NV), Valley of Fire</div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Grapevine Canyon Style</h4>
+            <span class="typ-badge badge-regional">SOUTHERN NV / MOJAVE</span>
+          </div>
+          <div class="typ-period">Age uncertain</div>
+          <div class="typ-desc">
+            A distinctive abstract style found along the <strong>Colorado River drainage south of Las Vegas Valley</strong>, extending into the eastern Mojave Desert and Arizona Strip. Composed of symmetrical, rectilinear elements forming complex geometric motifs that use <strong>negative space as essential design components</strong>. Unique visual character sets it apart from Basin and Range Tradition abstracts.
+          </div>
+          <div class="typ-examples">Key site: Grapevine Canyon, NV</div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Coso Tradition</h4>
+            <span class="typ-badge badge-regional">COSO RANGE, CA</span>
+          </div>
+          <div class="typ-period">Produced over a very long period; majority argued to be more recent</div>
+          <div class="typ-desc">
+            Characterized by <strong>large numbers of bighorn sheep and elaborate patterned-body anthropomorphs</strong>. The Coso Range is the most striking exception to the general Great Basin pattern of abstract-dominated art. Stylistic similarities to Fremont and Anasazi art suggest cultural connections along the Colorado drainage. Whether this reflects revitalization movements, semi-sedentary community development, or other processes is debated.
+          </div>
+          <div class="typ-examples">Key site: Little Petroglyph Canyon, Coso Range, CA</div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Scratched Rock Art</h4>
+            <span class="typ-badge badge-common">NUMIC EXPANSION?</span>
+          </div>
+          <div class="typ-period">ca. 1,000–500 B.P. (possibly earlier)</div>
+          <div class="typ-desc">
+            Fine incised lines rather than pecking. Bettinger &amp; Baumhoff (1982) associated scratched art with <strong>incoming Numic populations</strong>, arguing it was intended to "obliterate" pre-existing art and re-socialize the landscape. However, scratched art isn't always superimposed over older art — sometimes it enhances or embellishes existing designs. In California, it predominantly takes the form of defacement. Age is difficult to determine since rock varnish may not form the same way on scratched surfaces.
+          </div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Historic Period</h4>
+            <span class="typ-badge badge-historic">POST-CONTACT</span>
+          </div>
+          <div class="typ-period">ca. A.D. 1700 → 1900s</div>
+          <div class="typ-desc">
+            Depictions of <strong>horses, cowboys, wagons, and other post-contact subjects</strong>. The only rock art clearly attributable to historic Great Basin Native populations. Sporadic and idiosyncratic in distribution — probably not part of a larger cultural institution. Its production may have been revived by the experience of colonialism (Quinlan &amp; Woody 2003).
+          </div>
+          <div class="typ-examples">Key site: Stuart Ranch, NV</div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== AXIS 3: BY TECHNIQUE ===== -->
+  <div class="typ-axis open" id="axis-technique">
+    <div class="typ-axis-header" onclick="this.parentElement.classList.toggle('open')">
+      <span class="typ-axis-icon">◉</span>
+      <h3>By Production Technique — How It Was Made</h3>
+      <span class="typ-axis-toggle">›</span>
+    </div>
+    <div class="typ-axis-body">
+      <div class="typ-axis-intro">
+        The method of production provides clues about tools available, time invested, cultural intent, and relative dating. Petroglyphs (carved) vastly outnumber pictographs (painted) in the Great Basin, largely because they survive better in open desert environments.
+      </div>
+      <div class="typ-cards">
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Pecked</h4>
+            <span class="typ-badge badge-dominant">MOST COMMON</span>
+          </div>
+          <div class="typ-desc">
+            A hammerstone strikes the rock surface directly or through a chisel stone, creating <strong>small pits that are interconnected to form designs</strong>. The most labor-intensive technique — elaborate petroglyphs required many perfectly placed hits and untold hours. Removes dark desert varnish to expose lighter rock beneath. Can be fully pecked (solid) or outline-pecked.
+          </div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Engraved / Incised</h4>
+            <span class="typ-badge badge-common">COMMON</span>
+          </div>
+          <div class="typ-desc">
+            A <strong>sharp lithic tool cuts narrow lines</strong> into the rock surface. Produces finer, more controlled lines than pecking. Well-suited for detailed designs and internal body decoration on anthropomorphs.
+          </div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Abraded / Ground</h4>
+            <span class="typ-badge badge-common">COMMON</span>
+          </div>
+          <div class="typ-desc">
+            A stone is <strong>rubbed against the rock surface</strong> to create smooth, ground-down areas. Sometimes used to prepare surfaces before other techniques are applied. Can create broader, smoother marks than pecking or incising.
+          </div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Scratched</h4>
+            <span class="typ-badge badge-rare">FINE / SHALLOW</span>
+          </div>
+          <div class="typ-desc">
+            Fine lines scratched with a sharp tool. Produces the <strong>shallowest, least visible marks</strong>. Potentially associated with Numic populations. Can be difficult to distinguish from natural striations, and its true age is challenging to determine since rock varnish may regrow differently on scratched versus pecked surfaces.
+          </div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Painted (Pictographs)</h4>
+            <span class="typ-badge badge-rare">LESS COMMON IN GREAT BASIN</span>
+          </div>
+          <div class="typ-desc">
+            Pigments — <strong>hematite/ochre for red, kaolin/gypsum for white, charcoal for black</strong> — mixed with binders (animal fats, plant oils) and applied with brushes (animal hair, yucca fiber) or fingers. Much rarer in the Great Basin than petroglyphs because they survive poorly in open settings. Best preserved in caves and rock shelters. Pictographs can be radiocarbon dated (unlike petroglyphs), though sampling is destructive.
+          </div>
+        </div>
+
+        <div class="typ-card">
+          <div class="typ-card-head">
+            <h4>Combined Techniques</h4>
+            <span class="typ-badge badge-rare">OCCASIONAL</span>
+          </div>
+          <div class="typ-desc">
+            Some panels show <strong>multiple techniques layered over time</strong>: pecked outlines filled with paint, painted figures later outlined by incision, or scratched additions to older pecked art. These "painted petroglyphs" and palimpsests of techniques provide evidence of sites being revisited and reworked across generations — sometimes over thousands of years.
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="typology-citation">
+    <strong>Sources:</strong> Nevada Rock Art Foundation (nvrockart.org); Basin and Range National Monument 3D Rock Art Project (legiongis.com); Quinlan &amp; Woody (2003); Heizer &amp; Baumhoff (1962); Schaafsma (1971, 1980); Andreae &amp; Andreae (2022) <em>PLOS One</em>; Lewis-Williams &amp; Dowson (1988).
+  </div>
+</div>
+
 <div class="add-section">
   <h3>✦ Add Your Own Rock Art</h3>
   <p>
@@ -652,7 +1145,8 @@ body {
 
 <div class="gallery-footer">
   Sources: Heizer & Baumhoff (1962) <em>Prehistoric Rock Art of Nevada and Eastern California</em>, UC Press;
-  Quinlan & Woody (2003) <em>American Antiquity</em> 68(2): 372–390.
+  Quinlan & Woody (2003) <em>American Antiquity</em> 68(2): 372–390;
+  Nevada Rock Art Foundation; Basin and Range NM 3D Project.
   <br>Part of the <a href="index.html" style="color:var(--accent)">Ancient Waters</a> project.
 </div>
 
