@@ -49,13 +49,13 @@
   if(!window.L_groups) window.L_groups = {};
 
   // Band-level territory polygons
-  L_groups.nvNorthernPaiuteBands = L.layerGroup();
-  L_groups.nvWesternShoshoneBands = L.layerGroup();
-  L_groups.nvSouthernPaiuteBands = L.layerGroup();
-  L_groups.nvWashoeBands = L.layerGroup();
-  L_groups.nvMojaveFortMojave = L.layerGroup();
+  L_groups.nvNorthernPaiuteBands = L.layerGroup().addTo(map);
+  L_groups.nvWesternShoshoneBands = L.layerGroup().addTo(map);
+  L_groups.nvSouthernPaiuteBands = L.layerGroup().addTo(map);
+  L_groups.nvWashoeBands = L.layerGroup().addTo(map);
+  L_groups.nvMojaveFortMojave = L.layerGroup().addTo(map);
   // Modern reservations & colonies
-  L_groups.nvReservations = L.layerGroup();
+  L_groups.nvReservations = L.layerGroup().addTo(map);
 
   // ============================================================
   // HELPER — popup builder
