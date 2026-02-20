@@ -26,7 +26,8 @@ function flyTo(region) {
     wampanoag: [41.75, -70.65, 9],
     thunderbird: [42.0, -73.0, 6],
     ctriver: [42.4, -72.55, 8],
-    berkshire: [42.0, -73.2, 8]
+    berkshire: [42.0, -73.2, 8],
+    haudenosaunee: [42.8, -76.2, 7]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});
