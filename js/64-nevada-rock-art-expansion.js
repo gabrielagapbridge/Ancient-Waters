@@ -275,19 +275,12 @@
   //  📊 CHRONOLOGY KEY — overlay marker
   //  Placed near center of Nevada for reference
   // ============================================================
+  // Chronology key is now displayed in sidebar — click the style guide marker below for details
   L.marker([39.5,-117.5], {
     icon: L.divIcon({
-      className: '',
-      html: `<div style="background:rgba(30,30,30,0.92);border:1px solid rgba(193,154,107,0.3);border-radius:8px;padding:8px 12px;font-size:10px;color:#ccc;line-height:1.6;white-space:nowrap;pointer-events:auto;cursor:pointer">
-        <div style="font-weight:700;color:#E8D5C4;font-size:11px;margin-bottom:4px">🪨 Nevada Rock Art Timeline</div>
-        <span style="color:${RA.paleo}">●</span> <b>Paleoindian / GBCA</b> — 14,800–10,000 BP<br>
-        <span style="color:${RA.archE}">●</span> <b>Early Archaic</b> — 10,000–6,000 BP<br>
-        <span style="color:${RA.archM}">●</span> <b>Middle Archaic / BRT</b> — 6,000–3,000 BP<br>
-        <span style="color:${RA.archL}">●</span> <b>Late Archaic / Peak BRT</b> — 3,000–1,500 BP<br>
-        <span style="color:${RA.fremont}">●</span> <b>Fremont / Puebloan</b> — 200–1300 CE<br>
-        <span style="color:${RA.late}">●</span> <b>Late Prehistoric / Numic</b> — 1000 CE–contact
-      </div>`,
-      iconSize: [260, 140], iconAnchor: [130, 70]
+      className: 'custom-marker',
+      html: `<div style="font-size:16px;cursor:pointer;filter:drop-shadow(0 0 4px #FFD600)" title="Click: Nevada Rock Art Style Guide">🪨</div>`,
+      iconSize: [18,18], iconAnchor: [9,9]
     })
   }).addTo(L_groups.nvRockArtArchaic)
   .bindPopup(`<div style="max-width:440px">
