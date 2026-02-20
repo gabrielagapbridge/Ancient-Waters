@@ -1597,6 +1597,97 @@
           "tribal_affiliation": "Multiple \u2014 Owens Valley Paiute, Shoshone, Pit River, Modoc, Mono"
         }
       ]
+    },
+    {
+      "id": "quinlan-woody-2003",
+      "name": "\u2726 Quinlan & Woody (2003) \u2014 Rock Art & Ethnic Identification",
+      "description": "Photographs from 'Marks of Distinction: Rock Art and Ethnic Identification in the Great Basin' (American Antiquity 68:2, pp. 372-390). This article argues that Great Basin rock art functioned as a marker of ethnic identity tied to domestic settlement, social reproduction, and the Numic language dispersal.",
+      "sites": [
+        {
+          "name": "High Basins \u2014 Rock Art with Ground Stone",
+          "site_number": "QW-Fig.2",
+          "county": "High Basins, Nevada",
+          "images": [
+            {
+              "file": "quinlan-woody-fig2-high-basins-groundstone.png",
+              "caption": "Rock art in direct association with ground stone at a domestic habitation site",
+              "source": "Quinlan & Woody 2003, Fig. 2"
+            }
+          ]
+        },
+        {
+          "name": "Stuart Ranch \u2014 Historic Horse-and-Rider Petroglyph",
+          "site_number": "QW-Fig.3",
+          "county": "Stuart Ranch, Nevada",
+          "images": [
+            {
+              "file": "quinlan-woody-fig3-stuart-ranch-rider.png",
+              "caption": "Historic imagery depicting a rider on horse \u2014 one of the few rock art forms attributable to historic Numic populations",
+              "source": "Quinlan & Woody 2003, Fig. 3"
+            }
+          ]
+        },
+        {
+          "name": "Grimes Point \u2014 Revarnished Abstract Petroglyphs",
+          "site_number": "QW-Fig.4",
+          "county": "Churchill County, Nevada",
+          "images": [
+            {
+              "file": "quinlan-woody-fig4-grimes-point-revarnished.png",
+              "caption": "Heavily revarnished abstract rock art, predominantly Basin and Range Tradition in form \u2014 among the oldest in the Great Basin",
+              "source": "Quinlan & Woody 2003, Fig. 4"
+            }
+          ]
+        },
+        {
+          "name": "Massacre Lake \u2014 Basin and Range Tradition Style",
+          "site_number": "QW-Fig.5",
+          "county": "Washoe County, Nevada",
+          "images": [
+            {
+              "file": "quinlan-woody-fig5-massacre-lake-basin-range.png",
+              "caption": "Classic Basin and Range Tradition abstract motifs \u2014 geometric curvilinear designs that comprise the bulk of Great Basin rock art",
+              "source": "Quinlan & Woody 2003, Fig. 5"
+            }
+          ]
+        },
+        {
+          "name": "Great Basin Anthropomorph Types \u2014 Comparative Drawing",
+          "site_number": "QW-Fig.6",
+          "county": "Multiple Sites, NV",
+          "images": [
+            {
+              "file": "quinlan-woody-fig6-anthropomorph-types.png",
+              "caption": "Three types: (a) Fremont, Katchina Cave, NV; (b) Western Kayenta, Lost City, NV; (c) Basin and Range Tradition, Lagomarsino, NV",
+              "source": "Quinlan & Woody 2003, Fig. 6 (after Schaafsma 1971)"
+            }
+          ]
+        },
+        {
+          "name": "Little Petroglyph Canyon \u2014 Coso Patterned-Body Anthropomorphs",
+          "site_number": "QW-Fig.7",
+          "county": "Coso Range, California",
+          "images": [
+            {
+              "file": "quinlan-woody-fig7-coso-anthropomorphs.png",
+              "caption": "Elaborate patterned-body anthropomorphs with stylistic similarities to Fremont and Anasazi rock art",
+              "source": "Quinlan & Woody 2003, Fig. 7"
+            }
+          ]
+        },
+        {
+          "name": "Great Basin Tribal Territories \u2014 Hydrographic Map",
+          "site_number": "QW-Fig.1",
+          "county": "Great Basin Region",
+          "images": [
+            {
+              "file": "quinlan-woody-fig1-tribal-territories-map.png",
+              "caption": "Hydrographic Great Basin showing historic tribal territories: Northern Shoshone, Western Shoshone, Northern Paiute, Southern Paiute, Washoe, Ute",
+              "source": "Quinlan & Woody 2003, Fig. 1"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -339,6 +339,141 @@ body {
 .lightbox .lb-next { right: 10px; }
 
 /* --- ADD YOUR OWN SECTION --- */
+/* --- THEORIES SECTION --- */
+.theories-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 20px 40px;
+  border-top: 2px solid var(--accent);
+}
+.theories-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.theories-header h2 {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(1.3rem, 3vw, 2rem);
+  color: var(--accent);
+  letter-spacing: 2px;
+  margin-bottom: 8px;
+}
+.theories-subtitle {
+  font-style: italic;
+  color: var(--text-dim);
+  font-size: 1rem;
+}
+.theories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 24px;
+}
+.theory-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 24px;
+  transition: border-color 0.3s;
+}
+.theory-card:hover {
+  border-color: var(--accent);
+}
+.theory-card-wide {
+  grid-column: 1 / -1;
+}
+.theory-icon {
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+.theory-card h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.15rem;
+  color: var(--text-bright);
+  margin-bottom: 4px;
+}
+.theory-period {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--accent);
+  letter-spacing: 0.5px;
+  margin-bottom: 14px;
+}
+.theory-body {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.7;
+}
+.theory-body p {
+  margin-bottom: 10px;
+}
+.theory-body strong {
+  color: var(--accent2);
+}
+.theory-images {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+.theory-images img {
+  max-height: 140px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: border-color 0.2s, transform 0.2s;
+  object-fit: cover;
+}
+.theory-images img:hover {
+  border-color: var(--accent);
+  transform: scale(1.03);
+}
+.theory-images-wide {
+  justify-content: center;
+}
+.theory-images-wide img {
+  max-height: 300px;
+  max-width: 100%;
+}
+.style-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 8px;
+}
+.style-entry {
+  border-left: 3px solid var(--accent);
+  padding-left: 16px;
+}
+.style-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--accent);
+  letter-spacing: 0.5px;
+}
+.style-name {
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  color: var(--text-bright);
+  margin: 2px 0 4px;
+}
+.style-desc {
+  font-size: 0.85rem;
+  color: var(--text);
+  line-height: 1.6;
+}
+.theories-citation {
+  margin-top: 30px;
+  padding: 16px;
+  background: #111;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  line-height: 1.6;
+}
+.theories-citation strong {
+  color: var(--accent);
+}
+
 .add-section {
   max-width: 700px;
   margin: 40px auto;
@@ -395,6 +530,8 @@ body {
   </div>
   <div class="stats" id="stats"></div>
   <a href="index.html" class="nav-back">← BACK TO MAP</a>
+  <span style="margin: 0 12px; color: #333;">|</span>
+  <a href="#theories" class="nav-back">↓ ROCK ART THEORIES</a>
 </div>
 
 <div class="filter-bar">
@@ -407,6 +544,102 @@ body {
 
 <main id="gallery"></main>
 
+<!-- ========== ROCK ART THEORIES SECTION ========== -->
+<div class="theories-section" id="theories">
+  <div class="theories-header">
+    <h2>✦ Theories of Rock Art Interpretation</h2>
+    <p class="theories-subtitle">Competing frameworks for understanding why prehistoric peoples created rock art in the Great Basin</p>
+  </div>
+  
+  <div class="theories-grid">
+    <!-- HUNTING MAGIC -->
+    <div class="theory-card" id="theory-hunting">
+      <div class="theory-icon">🏹</div>
+      <h3>Hunting Magic</h3>
+      <div class="theory-period">Heizer & Baumhoff 1962 · Steward 1929, 1938</div>
+      <div class="theory-body">
+        <p>The earliest systematic theory of Great Basin rock art. Heizer and Baumhoff argued that petroglyphs were placed along game migration routes and near hunting blinds to supernaturally aid in the procurement of game animals — particularly bighorn sheep and deer. Rock art imagery was suggested to depict hunting scenes, game animals, and fertility themes.</p>
+        <p><strong>Key evidence:</strong> Spatial association of rock art with game trails, hunting blinds, and ambush points. Prevalence of animal imagery at some sites.</p>
+        <p><strong>Critique:</strong> Quinlan & Woody (2003) argue this model is too restrictive — it limits rock art's audience to hunters and struggles to account for the prevalence of abstract imagery or the domestic settlement context of many sites.</p>
+      </div>
+      <div class="theory-images">
+        <img src="images/petroglyphs/quinlan-woody-fig2-high-basins-groundstone.png" alt="Rock art with ground stone" onclick="openTheoryLightbox(this)" data-caption="Fig. 2: Rock art in direct association with ground stone at a domestic habitation site — High Basins, Nevada (Quinlan & Woody 2003). This domestic association challenges the hunting magic model.">
+      </div>
+    </div>
+
+    <!-- SHAMANISM / NEUROPSYCHOLOGICAL -->
+    <div class="theory-card" id="theory-shamanism">
+      <div class="theory-icon">🌀</div>
+      <h3>Shamanism &amp; Neuropsychological Model</h3>
+      <div class="theory-period">Whitley 1994, 1998 · Lewis-Williams 1981, 1988</div>
+      <div class="theory-body">
+        <p>Drawing on neuropsychological research into altered states of consciousness and the cross-cultural anthropology of shamanism, this approach argues that Great Basin rock art predominantly represents shamanic metaphors and vision-quest experiences. Sites functioned as vision-quest locales where supernatural powers and visions could be obtained, used exclusively by shamans.</p>
+        <p><strong>Key evidence:</strong> Entoptic (geometric) imagery consistent with trance states. Ethnographic accounts of shamans and rock art. Sites in remote, secluded locations consistent with vision-quest retreats.</p>
+        <p><strong>Critique:</strong> Vigorous debate exists over the degree of ethnographic support for this model. Quinlan & Woody argue the domestic context of much rock art opens the possibility that it was encountered by a broad cross-section of society, not just ritual specialists.</p>
+      </div>
+      <div class="theory-images">
+        <img src="images/petroglyphs/quinlan-woody-fig7-coso-anthropomorphs.png" alt="Coso anthropomorphs" onclick="openTheoryLightbox(this)" data-caption="Fig. 7: Coso patterned-body anthropomorphs — Little Petroglyph Canyon, Coso Range, California (Quinlan & Woody 2003). The Coso Range is the most striking exception to the domestic settlement pattern.">
+        <img src="images/petroglyphs/quinlan-woody-fig5-massacre-lake-basin-range.png" alt="Massacre Lake" onclick="openTheoryLightbox(this)" data-caption="Fig. 5: Basin and Range Tradition abstract motifs — Massacre Lake, Nevada (Quinlan & Woody 2003). Abstract imagery predominates in the Great Basin.">
+      </div>
+    </div>
+
+    <!-- SOCIAL REPRODUCTION & ETHNIC IDENTITY -->
+    <div class="theory-card" id="theory-social">
+      <div class="theory-icon">🔥</div>
+      <h3>Social Reproduction &amp; Ethnic Identity</h3>
+      <div class="theory-period">Quinlan & Woody 2003 · Bradley 2000</div>
+      <div class="theory-body">
+        <p>Quinlan and Woody propose that rock art functioned as a powerful symbolic resource embedded in ritual, used to negotiate social relationships, legitimize access to land and resources, and mediate social tensions. The landscape context — particularly the close association of rock art with domestic settlements — suggests it was incorporated into community-wide rituals, not restricted to specialized practitioners.</p>
+        <p><strong>Key evidence:</strong> In Nevada, of 1,037 recorded rock art sites, lithics were reported at 188 sites and ground stone at 114. Approximately 40% of studied sites in southern Nevada showed domestic debris. The predominantly abstract character of Great Basin rock art (Basin and Range Tradition) suggests concern with internal social communication.</p>
+        <p><strong>Numic dispersal connection:</strong> Rock art patterns map onto the spread of Numic-speaking peoples across the Great Basin. The earliest art is abstract (Basin and Range Tradition, dated to before 6800 B.P.), while incoming Numic populations may have modified existing rock art through scratching — potentially to "re-socialize" the landscape. The near-total absence of rock art production among historic Numic peoples suggests it belonged to preceding populations with different social organizations.</p>
+      </div>
+      <div class="theory-images">
+        <img src="images/petroglyphs/quinlan-woody-fig4-grimes-point-revarnished.png" alt="Grimes Point revarnished" onclick="openTheoryLightbox(this)" data-caption="Fig. 4: Heavily revarnished abstract rock art at Grimes Point, Nevada (Quinlan & Woody 2003). The deep varnish indicates great antiquity — this art likely predates Numic-speaking populations.">
+        <img src="images/petroglyphs/quinlan-woody-fig3-stuart-ranch-rider.png" alt="Stuart Ranch rider" onclick="openTheoryLightbox(this)" data-caption="Fig. 3: Historic horse-and-rider petroglyph at Stuart Ranch, Nevada (Quinlan & Woody 2003). One of the few rock art forms clearly attributable to historic Numic populations.">
+        <img src="images/petroglyphs/quinlan-woody-fig6-anthropomorph-types.png" alt="Anthropomorph types" onclick="openTheoryLightbox(this)" data-caption="Fig. 6: Three types of Great Basin anthropomorph — (a) Fremont, (b) Western Kayenta, (c) Basin and Range Tradition (Quinlan & Woody 2003). Style differences may reflect distinct cultural identities.">
+      </div>
+    </div>
+
+    <!-- ROCK ART STYLES TIMELINE -->
+    <div class="theory-card theory-card-wide" id="theory-styles">
+      <div class="theory-icon">📐</div>
+      <h3>Rock Art Styles &amp; the Numic Dispersal</h3>
+      <div class="theory-period">Synthesis from Quinlan & Woody 2003 · Bettinger & Baumhoff 1982 · Schaafsma 1971, 1980</div>
+      <div class="theory-body">
+        <div class="style-timeline">
+          <div class="style-entry">
+            <div class="style-date">Before 6800 B.P.</div>
+            <div class="style-name">Basin and Range Tradition</div>
+            <div class="style-desc">Abstract geometric motifs — circles, curvilinear meanders, vulviforms, squares. The earliest and most widespread style, deeply revarnished at sites like Grimes Point and Long Lake, Oregon. Emphasis on abstract expression may indicate concern with internal social communication rather than naturalistic representation.</div>
+          </div>
+          <div class="style-entry">
+            <div class="style-date">ca. 1000–1300 A.D.</div>
+            <div class="style-name">Fremont &amp; Anasazi Figurative Traditions</div>
+            <div class="style-desc">Broad-shouldered anthropomorphs with horns or elaborate headgear, alongside bighorn sheep. Associated with semi-agricultural economies in Utah and the Southwest. Stylistic connections between Fremont, Western Kayenta, and Coso Range art suggest cultural linkages along the Colorado River drainage.</div>
+          </div>
+          <div class="style-entry">
+            <div class="style-date">ca. 1000–1500 A.D.</div>
+            <div class="style-name">Numic Expansion &amp; Scratched Art</div>
+            <div class="style-desc">As Numic-speaking peoples spread from the Death Valley area into the eastern and southwestern Great Basin, incoming populations may have produced scratched rock art to "re-socialize" the landscape and its existing monuments. Once the landscape was re-socialized, rock art production became sporadic and its memory was lost.</div>
+          </div>
+          <div class="style-entry">
+            <div class="style-date">Contact Period</div>
+            <div class="style-name">Historic Imagery</div>
+            <div class="style-desc">Depictions of horses, cowboys, and wagons — the only rock art clearly attributable to historic Numic populations. Sporadic and idiosyncratic in distribution, probably not part of a larger cultural institution.</div>
+          </div>
+        </div>
+      </div>
+      <div class="theory-images theory-images-wide">
+        <img src="images/petroglyphs/quinlan-woody-fig1-tribal-territories-map.png" alt="Tribal territories map" onclick="openTheoryLightbox(this)" data-caption="Fig. 1: Hydrographic Great Basin showing historic tribal territories — Northern Shoshone, Western Shoshone, Northern Paiute, Southern Paiute, Washoe, Ute (Quinlan & Woody 2003).">
+      </div>
+    </div>
+  </div>
+
+  <div class="theories-citation">
+    <strong>Primary source:</strong> Quinlan, Angus R., and Alanah Woody. 2003. "Marks of Distinction: Rock Art and Ethnic Identification in the Great Basin." <em>American Antiquity</em> 68(2): 372–390.
+  </div>
+</div>
+
 <div class="add-section">
   <h3>✦ Add Your Own Rock Art</h3>
   <p>
@@ -418,7 +651,8 @@ body {
 </div>
 
 <div class="gallery-footer">
-  Primary source: Heizer & Baumhoff (1962) <em>Prehistoric Rock Art of Nevada and Eastern California</em>, UC Press.
+  Sources: Heizer & Baumhoff (1962) <em>Prehistoric Rock Art of Nevada and Eastern California</em>, UC Press;
+  Quinlan & Woody (2003) <em>American Antiquity</em> 68(2): 372–390.
   <br>Part of the <a href="index.html" style="color:var(--accent)">Ancient Waters</a> project.
 </div>
 
@@ -598,6 +832,16 @@ document.addEventListener('keydown', e => {
 document.getElementById('lightbox').addEventListener('click', e => {
   if (e.target.id === 'lightbox') closeLightbox();
 });
+
+// Theory image lightbox
+function openTheoryLightbox(imgEl) {
+  const caption = imgEl.getAttribute('data-caption') || '';
+  document.getElementById('lbImg').src = imgEl.src;
+  document.getElementById('lbCaption').textContent = caption;
+  document.getElementById('lbSource').textContent = '';
+  document.getElementById('lightbox').classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
 
 init();
 </script>
