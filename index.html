@@ -49,6 +49,7 @@
   <button class="region-btn" onclick="flyTo('maine')">Maine</button>
   <button class="region-btn" onclick="flyTo('wampanoag')">Wampanoag</button>
   <button class="region-btn" onclick="flyTo('thunderbird')">⚡ Thunderbird</button>
+  <button class="region-btn" onclick="flyTo('ctriver')">🏔️ CT River</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -280,6 +281,31 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tbdLost')"><span style="color:#B22222">✖ Lost / submerged sites</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tbdArtifacts')"><span style="color:#9370DB">⬡ Portable artifacts & cultural items</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tbdMuseums')"><span style="color:#708090">🏛️ Museum collections</span></label>
+    </div>
+  </div>
+
+  <!-- SOUTHWEST PEOPLES -->
+
+  <!-- CT RIVER VALLEY -->
+  <div class="culture-section" id="culture-ctriver" data-regions="overview ctriver thunderbird">
+    <div class="culture-header" onclick="toggleCulture('ctriver')">
+      <div class="culture-color-bar" style="background:#2D6A4F;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">🏔️ Kwinitekw — CT River Valley</div>
+        <div class="culture-meta">Abenaki, Pocumtuck, Nonotuck, Wangunk & more · 12,000+ years</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('ctriver',this.checked)" title="Toggle all CT River layers">
+      <span class="culture-arrow" id="arrow-ctriver">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-ctriver">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrRockArt')"><span style="color:#E6A817">◆ Rock art / petroglyphs</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrVillages')"><span style="color:#2D6A4F">● Villages & settlements</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrSacred')"><span style="color:#8B4513">▲ Sacred / ceremonial sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrLost')"><span style="color:#B22222">✖ Lost / submerged sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrMassacre')"><span style="color:#8B0000">⊗ Massacre / conflict sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrDams')"><span style="color:#4A4A4A">⬛ Dams that drowned sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrMuseums')"><span style="color:#708090">■ Museums & interpretation</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('ctrRiver')"><span style="color:#2563EB">〰️ Connecticut River path</span></label>
     </div>
   </div>
 
@@ -680,4 +706,5 @@
 <script src="js/50-wampanoag.js"></script>
 <script src="js/51-wampanoag-submerged.js"></script>
 <script src="js/52-thunderbird-northeast.js"></script>
+<script src="js/53-ct-river-valley.js"></script>
 </html>
