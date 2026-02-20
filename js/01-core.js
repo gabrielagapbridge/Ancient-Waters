@@ -44,6 +44,7 @@ const layerNames = ['ancientRivers','ancientLakes','modernDams','modernReservoir
   'pluvialLakes',
   'numicTerritories',
   'preNumicSites',
+  'sacredWater','spiritRockArt','spiritArchaeo',
   'scRockArt',
   'centralValleyLakes','owensChain','waterDiversions','lakeCorcoran',
   'springs','cienegas','tradeRoutes','modernInfra',
