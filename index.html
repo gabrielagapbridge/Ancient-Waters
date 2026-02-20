@@ -48,6 +48,7 @@
   <button class="region-btn" onclick="flyToEasternCA()">Eastern CA</button>
   <button class="region-btn" onclick="flyTo('maine')">Maine</button>
   <button class="region-btn" onclick="flyTo('wampanoag')">Wampanoag</button>
+  <button class="region-btn" onclick="flyTo('thunderbird')">⚡ Thunderbird</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -260,6 +261,25 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagEpidemic')"><span style="color:#8B0000">☠ Epidemic devastation zones (1616–1619)</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagSubmerged')"><span style="color:#006064">🌊 Submerged landscape / lost coastlines</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('wampanoagThreat')"><span style="color:#D32F2F">⚠ Modern sea level rise threat zones</span></label>
+    </div>
+  </div>
+
+  <!-- THUNDERBIRD MOTIF — NORTHEASTERN SITES -->
+  <div class="culture-section" id="culture-thunderbird" data-regions="overview hudsonvalley maine wampanoag thunderbird">
+    <div class="culture-header" onclick="toggleCulture('thunderbird')">
+      <div class="culture-color-bar" style="background:#FFD700;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">⚡ Thunderbird Motif — Northeast</div>
+        <div class="culture-meta">Algonkian, Iroquoian & Lenape · ~3000 BP – Contact · Lenik 2012</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('thunderbird',this.checked)" title="Toggle all Thunderbird layers">
+      <span class="culture-arrow" id="arrow-thunderbird">▸</span>
+    </div>
+    <div class="culture-layers" id="layers-thunderbird">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tbdRockArt')"><span style="color:#FFD700">◆ Rock art sites (active & Canadian)</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tbdLost')"><span style="color:#B22222">✖ Lost / submerged sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tbdArtifacts')"><span style="color:#9370DB">⬡ Portable artifacts & cultural items</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('tbdMuseums')"><span style="color:#708090">🏛️ Museum collections</span></label>
     </div>
   </div>
 
@@ -659,4 +679,5 @@
 <script src="js/49-maine-petroglyphs.js"></script>
 <script src="js/50-wampanoag.js"></script>
 <script src="js/51-wampanoag-submerged.js"></script>
+<script src="js/52-thunderbird-northeast.js"></script>
 </html>
