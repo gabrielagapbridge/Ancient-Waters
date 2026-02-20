@@ -194,7 +194,13 @@ const layerNames = ['ancientRivers','ancientLakes','modernDams','modernReservoir
   'hdnNNYI',
   'hdnStLawrence',
   'hdnWaterways',
-  'hdnSullivanPath'];
+  'hdnSullivanPath',
+  'wdtTerritory',
+  'wdtVillages',
+  'wdtOssuaries',
+  'wdtMissions',
+  'wdtDestruction',
+  'wdtWaterways'];
 layerNames.forEach(n => { L_groups[n] = (n === 'eastBaySites') ? L.markerClusterGroup({maxClusterRadius:40}) : L.layerGroup(); L_groups[n].addTo(map); });
 
 function toggle(name) { map.hasLayer(L_groups[name]) ? map.removeLayer(L_groups[name]) : L_groups[name].addTo(map); }
