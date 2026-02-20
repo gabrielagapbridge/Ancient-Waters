@@ -28,7 +28,9 @@ function flyTo(region) {
     ctriver: [42.4, -72.55, 8],
     berkshire: [42.0, -73.2, 8],
     haudenosaunee: [42.8, -76.2, 7],
-    wendake: [44.5, -79.7, 8]
+    wendake: [44.5, -79.7, 8],
+    neutral: [43.1, -80.0, 8],
+    erie: [42.3, -79.5, 8]
   };
   const v = views[region];
   map.flyTo([v[0],v[1]], v[2], {duration:1.5});
