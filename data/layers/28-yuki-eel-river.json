@@ -6,472 +6,1688 @@
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.72, -123.60],[39.68, -123.55],[39.62, -123.50],[39.55, -123.42],
-        [39.50, -123.38],[39.45, -123.35],[39.40, -123.38],[39.35, -123.42],
-        [39.30, -123.45],[39.28, -123.42],[39.25, -123.38],[39.22, -123.35],
-        [39.18, -123.30],[39.15, -123.28],[39.10, -123.22],[39.08, -123.18],
-        [39.05, -123.10],[39.02, -123.05],[39.00, -123.00],[38.97, -122.97],
-        [38.95, -122.95],[38.92, -122.93]
+        [
+          39.72,
+          -123.6
+        ],
+        [
+          39.68,
+          -123.55
+        ],
+        [
+          39.62,
+          -123.5
+        ],
+        [
+          39.55,
+          -123.42
+        ],
+        [
+          39.5,
+          -123.38
+        ],
+        [
+          39.45,
+          -123.35
+        ],
+        [
+          39.4,
+          -123.38
+        ],
+        [
+          39.35,
+          -123.42
+        ],
+        [
+          39.3,
+          -123.45
+        ],
+        [
+          39.28,
+          -123.42
+        ],
+        [
+          39.25,
+          -123.38
+        ],
+        [
+          39.22,
+          -123.35
+        ],
+        [
+          39.18,
+          -123.3
+        ],
+        [
+          39.15,
+          -123.28
+        ],
+        [
+          39.1,
+          -123.22
+        ],
+        [
+          39.08,
+          -123.18
+        ],
+        [
+          39.05,
+          -123.1
+        ],
+        [
+          39.02,
+          -123.05
+        ],
+        [
+          39.0,
+          -123.0
+        ],
+        [
+          38.97,
+          -122.97
+        ],
+        [
+          38.95,
+          -122.95
+        ],
+        [
+          38.92,
+          -122.93
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 4, "opacity": 0.85, "pane": "yukiBackgroundPane", "dashArray": null},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 4,
+        "opacity": 0.85,
+        "pane": "yukiBackgroundPane",
+        "dashArray": null
+      },
       "popup": "<b>Eel River (Main Stem)</b><br>\n  ~196 miles from Mendocino National Forest to Pacific Ocean<br>\n  3,684 sq mi watershed — California's 3rd largest<br>\n  Highest suspended sediment yield of any major river globally<br>\n  398 miles Wild & Scenic designation (state 1972, federal 1981)<br>\n  <i>Named for Pacific lamprey — oldest fish species in the river, millions of years of presence</i><br>\n  <b>Dam removal pending:</b> PG&E surrendering Potter Valley Project license —\n  demolition could begin ~2028, making the Eel the longest free-flowing river in California"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.78, -122.92],[39.75, -122.98],[39.72, -123.05],[39.70, -123.10],
-        [39.68, -123.15],[39.65, -123.20],[39.62, -123.25],[39.58, -123.28],
-        [39.55, -123.32],[39.52, -123.35],[39.50, -123.38]
+        [
+          39.78,
+          -122.92
+        ],
+        [
+          39.75,
+          -122.98
+        ],
+        [
+          39.72,
+          -123.05
+        ],
+        [
+          39.7,
+          -123.1
+        ],
+        [
+          39.68,
+          -123.15
+        ],
+        [
+          39.65,
+          -123.2
+        ],
+        [
+          39.62,
+          -123.25
+        ],
+        [
+          39.58,
+          -123.28
+        ],
+        [
+          39.55,
+          -123.32
+        ],
+        [
+          39.52,
+          -123.35
+        ],
+        [
+          39.5,
+          -123.38
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 3, "opacity": 0.7, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 3,
+        "opacity": 0.7,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Middle Fork Eel River</b><br>\n  70 miles, 753 sq mi — largest tributary by drainage area<br>\n  Rises in Yolla Bolly Mountains (Trinity County)<br>\n  Joins mainstem at Dos Rios<br>\n  <i>Heart of Yuki territory — Round Valley sits between Middle and North Forks</i><br>\n  Black Butte River joins east of Covelo"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.68, -123.68],[39.65, -123.63],[39.60, -123.58],[39.55, -123.55],
-        [39.50, -123.52],[39.45, -123.50],[39.42, -123.48],[39.40, -123.50],
-        [39.38, -123.52],[39.35, -123.55],[39.32, -123.58],[39.30, -123.60],
-        [39.28, -123.62],[39.25, -123.60],[39.22, -123.57]
+        [
+          39.68,
+          -123.68
+        ],
+        [
+          39.65,
+          -123.63
+        ],
+        [
+          39.6,
+          -123.58
+        ],
+        [
+          39.55,
+          -123.55
+        ],
+        [
+          39.5,
+          -123.52
+        ],
+        [
+          39.45,
+          -123.5
+        ],
+        [
+          39.42,
+          -123.48
+        ],
+        [
+          39.4,
+          -123.5
+        ],
+        [
+          39.38,
+          -123.52
+        ],
+        [
+          39.35,
+          -123.55
+        ],
+        [
+          39.32,
+          -123.58
+        ],
+        [
+          39.3,
+          -123.6
+        ],
+        [
+          39.28,
+          -123.62
+        ],
+        [
+          39.25,
+          -123.6
+        ],
+        [
+          39.22,
+          -123.57
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 3, "opacity": 0.7, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 3,
+        "opacity": 0.7,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>South Fork Eel River</b><br>\n  105 miles from Laytonville to Dyerville through ancient redwood forests<br>\n  689 sq mi drainage — carries the most water (highest rainfall)<br>\n  No major dams — one of the most pristine large rivers in California<br>\n  <i>Cahto and Sinkyone homeland</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.82, -123.15],[39.78, -123.18],[39.75, -123.22],[39.72, -123.28],
-        [39.68, -123.32],[39.65, -123.38],[39.62, -123.42]
+        [
+          39.82,
+          -123.15
+        ],
+        [
+          39.78,
+          -123.18
+        ],
+        [
+          39.75,
+          -123.22
+        ],
+        [
+          39.72,
+          -123.28
+        ],
+        [
+          39.68,
+          -123.32
+        ],
+        [
+          39.65,
+          -123.38
+        ],
+        [
+          39.62,
+          -123.42
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 2.5, "opacity": 0.6, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 2.5,
+        "opacity": 0.6,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>North Fork Eel River</b><br>35 miles, entirely in Trinity County<br>\n  286 sq mi drainage — Wailaki territory<br>\n  Remote, rugged wilderness"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.50, -123.38],[39.48, -123.36],[39.45, -123.35],[39.42, -123.35]
+        [
+          39.5,
+          -123.38
+        ],
+        [
+          39.48,
+          -123.36
+        ],
+        [
+          39.45,
+          -123.35
+        ],
+        [
+          39.42,
+          -123.35
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 2, "opacity": 0.5, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 2,
+        "opacity": 0.5,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Outlet Creek</b><br>Drains from Willits area into the Eel<br>\n  One of the few coho salmon runs on the mainstem"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.55, -123.55],[39.54, -123.60],[39.53, -123.65],[39.54, -123.72],[39.55, -123.76]
+        [
+          39.55,
+          -123.55
+        ],
+        [
+          39.54,
+          -123.6
+        ],
+        [
+          39.53,
+          -123.65
+        ],
+        [
+          39.54,
+          -123.72
+        ],
+        [
+          39.55,
+          -123.76
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 2, "opacity": 0.5, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 2,
+        "opacity": 0.5,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Ten Mile River</b><br>Largest stream in Coast Yuki territory<br>\n  Empties into Pacific — important salmon run<br>\n  <b>Record coho return:</b> 5,574 adult CCC coho in 2023-24 — exceeded ESA recovery targets<br>\n  TNC restoration: floodplain reconnection, large wood structures since 2018<br>\n  <i>Boundary between Coast Yuki and Northern Pomo</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.45, -123.35],[39.44, -123.40],[39.43, -123.45],[39.44, -123.50],
-        [39.44, -123.55],[39.43, -123.60],[39.42, -123.65],[39.43, -123.72],
-        [39.44, -123.78],[39.45, -123.80]
+        [
+          39.45,
+          -123.35
+        ],
+        [
+          39.44,
+          -123.4
+        ],
+        [
+          39.43,
+          -123.45
+        ],
+        [
+          39.44,
+          -123.5
+        ],
+        [
+          39.44,
+          -123.55
+        ],
+        [
+          39.43,
+          -123.6
+        ],
+        [
+          39.42,
+          -123.65
+        ],
+        [
+          39.43,
+          -123.72
+        ],
+        [
+          39.44,
+          -123.78
+        ],
+        [
+          39.45,
+          -123.8
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 2.5, "opacity": 0.65, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 2.5,
+        "opacity": 0.65,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Noyo River (Pomo: Chemli-bida)</b><br>\n  41 miles, 113 sq mi watershed — Fort Bragg's drinking water supply<br>\n  \"Noyo\" referred to a Pomo village on Pudding Creek, not the river itself<br>\n  <b>Still flowing</b> — largely undeveloped, classic salmon-steelhead habitat<br>\n  Skunk Train railroad follows the river from Willits to Fort Bragg<br>\n  Coho salmon (endangered), chinook, steelhead — all ESA-listed<br>\n  Trout Unlimited replaced old culverts blocking fish passage (2020)<br>\n  Exceeded ESA coho recovery targets in 2023-24 season<br>\n  Listed under Clean Water Act as impaired (sediment, temperature)<br>\n  <i>Coast Yuki southern boundary / Northern Pomo territory</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.30, -123.30],[39.30, -123.38],[39.29, -123.45],[39.30, -123.52],
-        [39.31, -123.60],[39.30, -123.68],[39.31, -123.73],[39.31, -123.79]
+        [
+          39.3,
+          -123.3
+        ],
+        [
+          39.3,
+          -123.38
+        ],
+        [
+          39.29,
+          -123.45
+        ],
+        [
+          39.3,
+          -123.52
+        ],
+        [
+          39.31,
+          -123.6
+        ],
+        [
+          39.3,
+          -123.68
+        ],
+        [
+          39.31,
+          -123.73
+        ],
+        [
+          39.31,
+          -123.79
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 2.5, "opacity": 0.6, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 2.5,
+        "opacity": 0.6,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Big River</b><br>\n  41.7 miles, 181 sq mi watershed — empties at Mendocino village<br>\n  <b>Longest undeveloped estuary in California</b> — brackish water extends 8 mi upstream<br>\n  Named for giant redwoods that once lined its banks (Arroyo Grande on 1844 Mexican diseño)<br>\n  Pre-contact: Me-tum'mah (Mitom Pomo / Northern Pomo) territory<br>\n  Buldam village on north bank near mouth<br>\n  Coho, chinook, steelhead — all ESA-listed. Record coho returns 2023-24<br>\n  Beavers restored in mid-20th century — beaver ponds now helping salmon habitat<br>\n  First sawmill on Mendocino Coast built at mouth (1852)<br>\n  <i>Northern Pomo territory — boundary with Coast Yuki to the north</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.15, -123.15],[39.15, -123.22],[39.14, -123.30],[39.14, -123.38],
-        [39.13, -123.45],[39.12, -123.52],[39.12, -123.58],[39.13, -123.66],
-        [39.14, -123.72],[39.14, -123.76]
+        [
+          39.15,
+          -123.15
+        ],
+        [
+          39.15,
+          -123.22
+        ],
+        [
+          39.14,
+          -123.3
+        ],
+        [
+          39.14,
+          -123.38
+        ],
+        [
+          39.13,
+          -123.45
+        ],
+        [
+          39.12,
+          -123.52
+        ],
+        [
+          39.12,
+          -123.58
+        ],
+        [
+          39.13,
+          -123.66
+        ],
+        [
+          39.14,
+          -123.72
+        ],
+        [
+          39.14,
+          -123.76
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 2.5, "opacity": 0.6, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 2.5,
+        "opacity": 0.6,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Navarro River</b><br>\n  ~40 miles through Anderson Valley to Pacific at Navarro-by-the-Sea<br>\n  <b>Still flowing</b> — major coho/chinook/steelhead river<br>\n  Estuary restoration: $8.3M TNC grant for floodplain reconnection<br>\n  2024: first coho in Neefus Gulch (N. Fork Navarro tributary) in 70+ years<br>\n  after TU removed 18-ft earthen dam and restored 1,600 ft stream channel<br>\n  <i>Northern Pomo / Central Pomo territory</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.22, -123.50],[39.22, -123.58],[39.22, -123.65],[39.23, -123.72],[39.23, -123.76]
+        [
+          39.22,
+          -123.5
+        ],
+        [
+          39.22,
+          -123.58
+        ],
+        [
+          39.22,
+          -123.65
+        ],
+        [
+          39.23,
+          -123.72
+        ],
+        [
+          39.23,
+          -123.76
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 1.5, "opacity": 0.5, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 1.5,
+        "opacity": 0.5,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Albion River</b><br>\n  Small coastal river south of Mendocino village<br>\n  Coho, chinook, steelhead habitat — all ESA-listed<br>\n  Last wooden bridge on Hwy 1 crossed here until 2020<br>\n  <i>Central Pomo territory</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [38.95, -123.30],[38.94, -123.38],[38.93, -123.45],[38.93, -123.52],
-        [38.94, -123.58],[38.95, -123.62],[38.96, -123.68],[38.96, -123.72]
+        [
+          38.95,
+          -123.3
+        ],
+        [
+          38.94,
+          -123.38
+        ],
+        [
+          38.93,
+          -123.45
+        ],
+        [
+          38.93,
+          -123.52
+        ],
+        [
+          38.94,
+          -123.58
+        ],
+        [
+          38.95,
+          -123.62
+        ],
+        [
+          38.96,
+          -123.68
+        ],
+        [
+          38.96,
+          -123.72
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 2, "opacity": 0.5, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 2,
+        "opacity": 0.5,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Garcia River</b><br>\n  Flows to Pacific near Point Arena<br>\n  <b>One of last naturally reproducing wild coho populations</b> on southern Pacific Coast<br>\n  Lost ~95% of historic winter salmon habitat<br>\n  TNC built 18 enormous log jams in estuary (2022) — first restoration<br>\n  Record coho returns 2023-24<br>\n  Manchester-Point Arena Band of Pomo engaged in restoration planning<br>\n  <i>\"There was a time you could walk across the Garcia on the backs of coho salmon\"</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.82, -123.78],[39.80, -123.80],[39.78, -123.82],[39.77, -123.84]
+        [
+          39.82,
+          -123.78
+        ],
+        [
+          39.8,
+          -123.8
+        ],
+        [
+          39.78,
+          -123.82
+        ],
+        [
+          39.77,
+          -123.84
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 1.5, "opacity": 0.4, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 1.5,
+        "opacity": 0.4,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Usal Creek</b><br>\n  Flows to Pacific at Usal Beach — northern boundary of Coast Yuki territory<br>\n  Now within Sinkyone Wilderness State Park<br>\n  Conservation Fund owns lands in watershed<br>\n  <i>Coast Yuki / Sinkyone borderlands</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiWater",
       "geometry": [
-        [39.47, -123.72],[39.47, -123.76],[39.48, -123.80]
+        [
+          39.47,
+          -123.72
+        ],
+        [
+          39.47,
+          -123.76
+        ],
+        [
+          39.48,
+          -123.8
+        ]
       ],
-      "style": {"color": "#1E88E5", "weight": 1.5, "opacity": 0.4, "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#1E88E5",
+        "weight": 1.5,
+        "opacity": 0.4,
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Pudding Creek</b><br>\n  Small creek in Fort Bragg — the Pomo village \"Noyo\" was actually here, not on the Noyo River<br>\n  Coho salmon life-cycle monitoring station<br>\n  <i>Northern Pomo territory</i>"
     },
     {
       "type": "polyline",
       "layer": "yukiLost",
       "geometry": [
-        [39.43, -122.95],[39.42, -122.92],[39.40, -122.90],[39.38, -122.88],
-        [39.36, -122.87],[39.34, -122.88]
+        [
+          39.43,
+          -122.95
+        ],
+        [
+          39.42,
+          -122.92
+        ],
+        [
+          39.4,
+          -122.9
+        ],
+        [
+          39.38,
+          -122.88
+        ],
+        [
+          39.36,
+          -122.87
+        ],
+        [
+          39.34,
+          -122.88
+        ]
       ],
-      "style": {"color": "#EF5350", "weight": 3, "opacity": 0.6, "dashArray": "8,5", "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#EF5350",
+        "weight": 3,
+        "opacity": 0.6,
+        "dashArray": "8,5",
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Lake Pillsbury — Drowned Upper Eel River</b><br>\n  Created by Scott Dam (1922) — blocks the uppermost Eel River<br>\n  Inundated Huchnom homeland and upper Eel fish habitat<br>\n  Blocked salmon/steelhead access to ~10% of the entire Eel watershed<br>\n  PG&E surrendering license — dam removal could begin ~2028<br>\n  <i>When removed, Eel becomes longest free-flowing river in California</i>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiLost",
-      "geometry": {"lat": 39.35, "lng": -123.55},
-      "icon": {"factory": "circleMarker", "radius": 7, "color": "#EF5350", "fillColor": "#EF5350", "fillOpacity": 0.25, "weight": 2, "dashArray": "5,3", "pane": "markerPane"},
-      "popup": "<b>Lost Salmon Habitat — Mendocino Coast</b><br>\n  <b>Only 5% of historic winter habitat for salmon remains</b> (NOAA/TNC studies)<br>\n  Rivers still flow but streams lack old-growth complexity — massive redwoods,<br>\n  fallen trunks, root balls, woody debris all removed by 150 years of logging<br>\n  Floodplains disconnected, estuaries simplified, temperatures elevated<br>\n  Coho salmon: from hundreds of thousands to <1% of historic numbers statewide<br>\n  <b>Hope:</b> 15,000+ CCC coho returned to Mendocino Coast 2023-24 — record since monitoring began<br>\n  $14.5M NOAA grant (2023) for large-scale restoration across 5 watersheds<br>\n  <i>\"We can recover this species and heal the rivers from their historic damage\" — NOAA</i>"
+      "geometry": {
+        "lat": 39.35,
+        "lng": -123.55
+      },
+      "popup": "<b>Lost Salmon Habitat — Mendocino Coast</b><br>\n  <b>Only 5% of historic winter habitat for salmon remains</b> (NOAA/TNC studies)<br>\n  Rivers still flow but streams lack old-growth complexity — massive redwoods,<br>\n  fallen trunks, root balls, woody debris all removed by 150 years of logging<br>\n  Floodplains disconnected, estuaries simplified, temperatures elevated<br>\n  Coho salmon: from hundreds of thousands to <1% of historic numbers statewide<br>\n  <b>Hope:</b> 15,000+ CCC coho returned to Mendocino Coast 2023-24 — record since monitoring began<br>\n  $14.5M NOAA grant (2023) for large-scale restoration across 5 watersheds<br>\n  <i>\"We can recover this species and heal the rivers from their historic damage\" — NOAA</i>",
+      "style": {
+        "radius": 7,
+        "fillColor": "#EF5350",
+        "color": "#EF5350",
+        "weight": 2,
+        "fillOpacity": 0.25,
+        "dashArray": "5,3"
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
       "type": "polygon",
       "layer": "yukiVillages",
       "geometry": [
-        [39.90, -123.05],[39.90, -122.85],[39.80, -122.80],[39.70, -122.85],
-        [39.60, -122.90],[39.55, -123.00],[39.50, -123.10],[39.45, -123.15],
-        [39.45, -123.30],[39.50, -123.40],[39.55, -123.38],[39.62, -123.32],
-        [39.70, -123.25],[39.80, -123.15],[39.85, -123.10]
+        [
+          39.9,
+          -123.05
+        ],
+        [
+          39.9,
+          -122.85
+        ],
+        [
+          39.8,
+          -122.8
+        ],
+        [
+          39.7,
+          -122.85
+        ],
+        [
+          39.6,
+          -122.9
+        ],
+        [
+          39.55,
+          -123.0
+        ],
+        [
+          39.5,
+          -123.1
+        ],
+        [
+          39.45,
+          -123.15
+        ],
+        [
+          39.45,
+          -123.3
+        ],
+        [
+          39.5,
+          -123.4
+        ],
+        [
+          39.55,
+          -123.38
+        ],
+        [
+          39.62,
+          -123.32
+        ],
+        [
+          39.7,
+          -123.25
+        ],
+        [
+          39.8,
+          -123.15
+        ],
+        [
+          39.85,
+          -123.1
+        ]
       ],
-      "style": {"color": "#795548", "fillColor": "#795548", "fillOpacity": 0.08, "weight": 1.5, "dashArray": "6,4", "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#795548",
+        "fillColor": "#795548",
+        "fillOpacity": 0.08,
+        "weight": 1.5,
+        "dashArray": "6,4",
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Yuki Proper (Ukomno'om)</b><br>\n  \"Valley People\" — self-name<br>\n  Round Valley & upper Eel River drainage<br>\n  8-9 tribal subdivisions, 500+ village sites<br>\n  <b>Language isolate</b> — unrelated to any known language family<br>\n  Possibly 10,000+ years in this homeland<br>\n  <i>\"Yuki\" is Wintun for \"foreigner\" or \"enemy\"</i>"
     },
     {
       "type": "polygon",
       "layer": "yukiVillages",
       "geometry": [
-        [39.45, -123.15],[39.45, -123.00],[39.38, -122.95],[39.30, -122.98],
-        [39.25, -123.08],[39.25, -123.20],[39.30, -123.25],[39.38, -123.22]
+        [
+          39.45,
+          -123.15
+        ],
+        [
+          39.45,
+          -123.0
+        ],
+        [
+          39.38,
+          -122.95
+        ],
+        [
+          39.3,
+          -122.98
+        ],
+        [
+          39.25,
+          -123.08
+        ],
+        [
+          39.25,
+          -123.2
+        ],
+        [
+          39.3,
+          -123.25
+        ],
+        [
+          39.38,
+          -123.22
+        ]
       ],
-      "style": {"color": "#A1887F", "fillColor": "#A1887F", "fillOpacity": 0.08, "weight": 1.5, "dashArray": "6,4", "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#A1887F",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.08,
+        "weight": 1.5,
+        "dashArray": "6,4",
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Huchnom (\"Outside the Valley\")</b><br>\n  Yuki subgroup on South Eel River & Potter Valley<br>\n  Intermediaries between Yuki and Pomo<br>\n  Participated in Pomo/Cahto ceremonies<br>\n  Known as \"Redwoods\" at Round Valley after forced relocation (1869)<br>\n  Pre-contact pop: ~500 (Kroeber)"
     },
     {
       "type": "polygon",
       "layer": "yukiVillages",
       "geometry": [
-        [39.70, -123.78],[39.70, -123.72],[39.65, -123.65],[39.55, -123.55],
-        [39.50, -123.55],[39.45, -123.62],[39.42, -123.68],[39.44, -123.78],
-        [39.50, -123.82],[39.58, -123.82],[39.65, -123.80]
+        [
+          39.7,
+          -123.78
+        ],
+        [
+          39.7,
+          -123.72
+        ],
+        [
+          39.65,
+          -123.65
+        ],
+        [
+          39.55,
+          -123.55
+        ],
+        [
+          39.5,
+          -123.55
+        ],
+        [
+          39.45,
+          -123.62
+        ],
+        [
+          39.42,
+          -123.68
+        ],
+        [
+          39.44,
+          -123.78
+        ],
+        [
+          39.5,
+          -123.82
+        ],
+        [
+          39.58,
+          -123.82
+        ],
+        [
+          39.65,
+          -123.8
+        ]
       ],
-      "style": {"color": "#8D6E63", "fillColor": "#8D6E63", "fillOpacity": 0.08, "weight": 1.5, "dashArray": "6,4", "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#8D6E63",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.08,
+        "weight": 1.5,
+        "dashArray": "6,4",
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Coast Yuki (Ukohtontilka)</b><br>\n  \"Ocean People\" / \"People Beside the Big Water\"<br>\n  ~50 miles of Mendocino Coast: Noyo River to Usal Creek<br>\n  11 groups, each with coastal strip extending inland to redwood forests<br>\n  Separated from interior Yuki by Cahto migration<br>\n  Diet: salmon, mussels, abalone, surf fish, sea lions (no canoes)<br>\n  Invented wooden spatula to pry abalone from rocks<br>\n  Pre-contact: ~500; down to 15-20 by early 1900s"
     },
     {
       "type": "polygon",
       "layer": "yukiVillages",
       "geometry": [
-        [39.72, -123.55],[39.72, -123.45],[39.65, -123.42],[39.58, -123.42],
-        [39.55, -123.48],[39.55, -123.58],[39.58, -123.65],[39.65, -123.65]
+        [
+          39.72,
+          -123.55
+        ],
+        [
+          39.72,
+          -123.45
+        ],
+        [
+          39.65,
+          -123.42
+        ],
+        [
+          39.58,
+          -123.42
+        ],
+        [
+          39.55,
+          -123.48
+        ],
+        [
+          39.55,
+          -123.58
+        ],
+        [
+          39.58,
+          -123.65
+        ],
+        [
+          39.65,
+          -123.65
+        ]
       ],
-      "style": {"color": "#5D4037", "fillColor": "#5D4037", "fillOpacity": 0.08, "weight": 1.5, "dashArray": "6,4", "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#5D4037",
+        "fillOpacity": 0.08,
+        "weight": 1.5,
+        "dashArray": "6,4",
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Cahto / Kato (Tlokyhan — \"Grass People\")</b><br>\n  <b>Southernmost Athabaskan speakers</b> on the Pacific Coast<br>\n  Long Valley, Cahto Valley, upper South Fork Eel River<br>\n  ~50 village sites surrounded by redwood forests<br>\n  Bordered on 3 sides by Yukian peoples<br>\n  Most speakers bilingual in Northern Pomo<br>\n  Name from Pomo word for \"lake\" — key village: Djilbi<br>\n  Pre-contact: 500-1,100"
     },
     {
       "type": "polygon",
       "layer": "yukiVillages",
       "geometry": [
-        [39.95, -123.20],[39.95, -123.45],[39.90, -123.55],[39.82, -123.50],
-        [39.75, -123.42],[39.70, -123.38],[39.68, -123.30],[39.70, -123.20],
-        [39.75, -123.10],[39.82, -123.08],[39.90, -123.12]
+        [
+          39.95,
+          -123.2
+        ],
+        [
+          39.95,
+          -123.45
+        ],
+        [
+          39.9,
+          -123.55
+        ],
+        [
+          39.82,
+          -123.5
+        ],
+        [
+          39.75,
+          -123.42
+        ],
+        [
+          39.7,
+          -123.38
+        ],
+        [
+          39.68,
+          -123.3
+        ],
+        [
+          39.7,
+          -123.2
+        ],
+        [
+          39.75,
+          -123.1
+        ],
+        [
+          39.82,
+          -123.08
+        ],
+        [
+          39.9,
+          -123.12
+        ]
       ],
-      "style": {"color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.08, "weight": 1.5, "dashArray": "6,4", "pane": "yukiBackgroundPane"},
+      "style": {
+        "color": "#6D4C41",
+        "fillColor": "#6D4C41",
+        "fillOpacity": 0.08,
+        "weight": 1.5,
+        "dashArray": "6,4",
+        "pane": "yukiBackgroundPane"
+      },
       "popup": "<b>Wailaki (Kinist'ee — \"The People\")</b><br>\n  Eel River Athabaskan / Dene speakers<br>\n  Main Eel south of Kekawaka Creek & North Fork Eel<br>\n  3 subdivisions: Eel River, North Fork, Pitch Wailaki<br>\n  ~95-100 villages, 19+ tribelets<br>\n  Arrived in California ~900 AD<br>\n  Creator god: Katanagai (\"Night Traveler\")<br>\n  Pre-contact: ~2,700 Wailaki; Eel River Athabaskans combined: ~10,700+<br>\n  <i>\"Wailaki\" is Wintun for \"north language\"</i>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.79, "lng": -123.12},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#795548", "fillColor": "#795548", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Ukomno'om villages — Round Valley (Covelo)</b><br>Heart of Yuki world. Nearly circular valley on Middle Eel headwaters. Barrett's Pomo name: maca'-kai (\"Indian hemp valley\"). Supported largest Yuki population — multiple village groups including Chochhanuk, Mameshishmo, U'wit, Hake, Son."
+      "geometry": {
+        "lat": 39.79,
+        "lng": -123.12
+      },
+      "popup": "<b>Ukomno'om villages — Round Valley (Covelo)</b><br>Heart of Yuki world. Nearly circular valley on Middle Eel headwaters. Barrett's Pomo name: maca'-kai (\"Indian hemp valley\"). Supported largest Yuki population — multiple village groups including Chochhanuk, Mameshishmo, U'wit, Hake, Son.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#795548",
+        "color": "#795548",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.68, "lng": -123.05},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#795548", "fillColor": "#795548", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Witukomno'om — Eden Valley</b><br>Yuki subdivision in the Sanhedrin Range between Middle and South Eel Rivers. Small valley with distinct dialect. K'ilikuno'm at lower end."
+      "geometry": {
+        "lat": 39.68,
+        "lng": -123.05
+      },
+      "popup": "<b>Witukomno'om — Eden Valley</b><br>Yuki subdivision in the Sanhedrin Range between Middle and South Eel Rivers. Small valley with distinct dialect. K'ilikuno'm at lower end.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#795548",
+        "color": "#795548",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.60, "lng": -122.95},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#795548", "fillColor": "#795548", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Utitno'm — Forks of Middle & South Eel</b><br>Yuki group at the strategic confluence. Controlled access between river drainages."
+      "geometry": {
+        "lat": 39.6,
+        "lng": -122.95
+      },
+      "popup": "<b>Utitno'm — Forks of Middle & South Eel</b><br>Yuki group at the strategic confluence. Controlled access between river drainages.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#795548",
+        "color": "#795548",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.85, "lng": -123.02},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#795548", "fillColor": "#795548", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Sukshultaano'm — North Fork Middle Eel</b><br>Yuki group on Hull Creek (Súkshudltatúm = \"straight pine\"). Northernmost Yuki territory."
+      "geometry": {
+        "lat": 39.85,
+        "lng": -123.02
+      },
+      "popup": "<b>Sukshultaano'm — North Fork Middle Eel</b><br>Yuki group on Hull Creek (Súkshudltatúm = \"straight pine\"). Northernmost Yuki territory.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#795548",
+        "color": "#795548",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.72, "lng": -122.92},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#795548", "fillColor": "#795548", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Huititno'm — South Fork Middle Eel</b><br>Yuki group in the deep canyons east of Round Valley."
+      "geometry": {
+        "lat": 39.72,
+        "lng": -122.92
+      },
+      "popup": "<b>Huititno'm — South Fork Middle Eel</b><br>Yuki group in the deep canyons east of Round Valley.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#795548",
+        "color": "#795548",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.55, "lng": -123.05},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#795548", "fillColor": "#795548", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Ta'no'm — Main Eel River</b><br>Yuki group along the main Eel. 6 known sub-groups: Kichilpitno'm, Kashansichno'm, Pomahanno'm, Mantno'm, Hanchhotno'm, Ulamolno'm."
+      "geometry": {
+        "lat": 39.55,
+        "lng": -123.05
+      },
+      "popup": "<b>Ta'no'm — Main Eel River</b><br>Yuki group along the main Eel. 6 known sub-groups: Kichilpitno'm, Kashansichno'm, Pomahanno'm, Mantno'm, Hanchhotno'm, Ulamolno'm.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#795548",
+        "color": "#795548",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.35, "lng": -123.10},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#A1887F", "fillColor": "#A1887F", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Huchnom villages — South Eel River</b><br>\"Outside the Valley\" people. South Eel drainage to Potter Valley. Intermediaries between Yuki & Pomo — participated in ceremonies of both. Cremated their dead."
+      "geometry": {
+        "lat": 39.35,
+        "lng": -123.1
+      },
+      "popup": "<b>Huchnom villages — South Eel River</b><br>\"Outside the Valley\" people. South Eel drainage to Potter Valley. Intermediaries between Yuki & Pomo — participated in ceremonies of both. Cremated their dead.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#A1887F",
+        "color": "#A1887F",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.63, "lng": -123.78},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#8D6E63", "fillColor": "#8D6E63", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Coast Yuki village cluster — Rockport/Usal area</b><br>Northern Coast Yuki territory. Shell-mound dwellers. 11 groups along 50 miles of coast, each with elected headman."
+      "geometry": {
+        "lat": 39.63,
+        "lng": -123.78
+      },
+      "popup": "<b>Coast Yuki village cluster — Rockport/Usal area</b><br>Northern Coast Yuki territory. Shell-mound dwellers. 11 groups along 50 miles of coast, each with elected headman.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#8D6E63",
+        "color": "#8D6E63",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.54, "lng": -123.76},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#8D6E63", "fillColor": "#8D6E63", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Coast Yuki — Ten Mile River villages</b><br>Ten Mile River was the largest stream in Coast Yuki territory. Salmon caught with spears going upstream, scoop nets coming down."
+      "geometry": {
+        "lat": 39.54,
+        "lng": -123.76
+      },
+      "popup": "<b>Coast Yuki — Ten Mile River villages</b><br>Ten Mile River was the largest stream in Coast Yuki territory. Salmon caught with spears going upstream, scoop nets coming down.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#8D6E63",
+        "color": "#8D6E63",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.48, "lng": -123.75},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#8D6E63", "fillColor": "#8D6E63", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Coast Yuki — Westport/Beall's Landing area</b><br>Southern Coast Yuki territory near modern Westport. Summer camps on windy beaches, permanent villages slightly inland in redwood forests."
+      "geometry": {
+        "lat": 39.48,
+        "lng": -123.75
+      },
+      "popup": "<b>Coast Yuki — Westport/Beall's Landing area</b><br>Southern Coast Yuki territory near modern Westport. Summer camps on windy beaches, permanent villages slightly inland in redwood forests.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#8D6E63",
+        "color": "#8D6E63",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.69, "lng": -123.49},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#5D4037", "fillColor": "#5D4037", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Djilbi — Principal Cahto village</b><br>The village that gave the Cahto their name (from Pomo word for \"lake\"). Located in Cahto Valley. Self-name: Tlokyhan (\"Grass People\"). Goddard recorded 50+ Cahto villages."
+      "geometry": {
+        "lat": 39.69,
+        "lng": -123.49
+      },
+      "popup": "<b>Djilbi — Principal Cahto village</b><br>The village that gave the Cahto their name (from Pomo word for \"lake\"). Located in Cahto Valley. Self-name: Tlokyhan (\"Grass People\"). Goddard recorded 50+ Cahto villages.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#5D4037",
+        "color": "#5D4037",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.68, "lng": -123.54},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#5D4037", "fillColor": "#5D4037", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Cahto villages — Long Valley (Laytonville)</b><br>Three valleys of Cahto settlement. Houses: circular pits 2 ft deep, 4 forked posts, bark/earth covering. Rebuilt every two winters. Villages including ka'ibi (\"nuts in\"), nebō'cēgût (\"ground hump on-top\"), seLgaitceli'nda (\"rock white run-out\")."
+      "geometry": {
+        "lat": 39.68,
+        "lng": -123.54
+      },
+      "popup": "<b>Cahto villages — Long Valley (Laytonville)</b><br>Three valleys of Cahto settlement. Houses: circular pits 2 ft deep, 4 forked posts, bark/earth covering. Rebuilt every two winters. Villages including ka'ibi (\"nuts in\"), nebō'cēgût (\"ground hump on-top\"), seLgaitceli'nda (\"rock white run-out\").",
+      "style": {
+        "radius": 5,
+        "fillColor": "#5D4037",
+        "color": "#5D4037",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.65, "lng": -123.60},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#5D4037", "fillColor": "#5D4037", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Cahto — Branscomb/Jackson Valley band</b><br>Siinkook-kiiyaahaangn (\"South Fork Eel River band\"). Villages along South Fork Eel near Branscomb. Multiple named sites including Beehshoochinmiî' (\"Horseshoe Bend\")."
+      "geometry": {
+        "lat": 39.65,
+        "lng": -123.6
+      },
+      "popup": "<b>Cahto — Branscomb/Jackson Valley band</b><br>Siinkook-kiiyaahaangn (\"South Fork Eel River band\"). Villages along South Fork Eel near Branscomb. Multiple named sites including Beehshoochinmiî' (\"Horseshoe Bend\").",
+      "style": {
+        "radius": 5,
+        "fillColor": "#5D4037",
+        "color": "#5D4037",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.88, "lng": -123.32},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Wailaki — Eel River Mainstem villages</b><br>Tsennahkenne (Eel River Wailaki). Largest subdivision. Villages on both sides of Eel River from Boulder Creek to Cottonwood Creek. Multiple bands including Bis-kaiyaah, Daadii'schow-kaiyaah."
+      "geometry": {
+        "lat": 39.88,
+        "lng": -123.32
+      },
+      "popup": "<b>Wailaki — Eel River Mainstem villages</b><br>Tsennahkenne (Eel River Wailaki). Largest subdivision. Villages on both sides of Eel River from Boulder Creek to Cottonwood Creek. Multiple bands including Bis-kaiyaah, Daadii'schow-kaiyaah.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#6D4C41",
+        "color": "#6D4C41",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.82, "lng": -123.18},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.9, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Wailaki — North Fork band (Bahneko)</b><br>North Fork Wailaki. 6 tribelets along the North Fork Eel. Traded obsidian and shells with Pomo, Yuki, and Cahto."
+      "geometry": {
+        "lat": 39.82,
+        "lng": -123.18
+      },
+      "popup": "<b>Wailaki — North Fork band (Bahneko)</b><br>North Fork Wailaki. 6 tribelets along the North Fork Eel. Traded obsidian and shells with Pomo, Yuki, and Cahto.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#6D4C41",
+        "color": "#6D4C41",
+        "weight": 1.5,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiSacred",
-      "geometry": {"lat": 39.79, "lng": -123.12},
-      "icon": {"factory": "circleMarker", "radius": 10, "color": "#B71C1C", "fillColor": "#B71C1C", "fillOpacity": 0.3, "weight": 2, "dashArray": "4,3", "pane": "markerPane"},
-      "popup": "<b>Round Valley — Yuki Homeland & Genocide Site</b><br>\n  The Yuki considered this valley their homeland \"since time began\"<br>\n  Nearly circular valley on Middle Eel River headwaters<br>\n  <b>1854:</b> Asbill brothers arrive — kill Yuki, kidnap 35 girls/women to sell as wives<br>\n  <b>1856:</b> U.S. establishes Nome Cult Farm (later Round Valley Reservation)<br>\n  <b>1858-59:</b> Brutal winter massacres — 150-170+ killed in targeted raids<br>\n  <b>1859:</b> Mendocino War — militias kill hundreds, force survivors to reservation<br>\n  <b>1863:</b> Nome Cult Trail — 461 Concow Maidu force-marched; only 277 survived<br>\n  <b>Result:</b> From perhaps 10,000-20,000 Yuki to several hundred by 1864<br>\n  <i>Benjamin Madley (2016): \"a clear-cut example of genocide\"</i><br>\n  <i>E.N. Anderson: \"the extermination of the Yuki was a genocidal massacre\"</i>"
+      "geometry": {
+        "lat": 39.79,
+        "lng": -123.12
+      },
+      "popup": "<b>Round Valley — Yuki Homeland & Genocide Site</b><br>\n  The Yuki considered this valley their homeland \"since time began\"<br>\n  Nearly circular valley on Middle Eel River headwaters<br>\n  <b>1854:</b> Asbill brothers arrive — kill Yuki, kidnap 35 girls/women to sell as wives<br>\n  <b>1856:</b> U.S. establishes Nome Cult Farm (later Round Valley Reservation)<br>\n  <b>1858-59:</b> Brutal winter massacres — 150-170+ killed in targeted raids<br>\n  <b>1859:</b> Mendocino War — militias kill hundreds, force survivors to reservation<br>\n  <b>1863:</b> Nome Cult Trail — 461 Concow Maidu force-marched; only 277 survived<br>\n  <b>Result:</b> From perhaps 10,000-20,000 Yuki to several hundred by 1864<br>\n  <i>Benjamin Madley (2016): \"a clear-cut example of genocide\"</i><br>\n  <i>E.N. Anderson: \"the extermination of the Yuki was a genocidal massacre\"</i>",
+      "style": {
+        "radius": 10,
+        "fillColor": "#B71C1C",
+        "color": "#B71C1C",
+        "weight": 2,
+        "fillOpacity": 0.3,
+        "dashArray": "4,3"
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiSacred",
-      "geometry": {"lat": 39.70, "lng": -123.72},
-      "icon": {"factory": "circleMarker", "radius": 8, "color": "#CE93D8", "fillColor": "#CE93D8", "fillOpacity": 0.5, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Tc'ih-Léh-Dûñ (\"Fish Run Place\")</b><br>\n  523 acres of old-growth redwood returned to InterTribal Sinkyone Wilderness Council (2022)<br>\n  200 acres of ancient coast redwoods, 1.5 miles of Anderson Creek<br>\n  Renamed from \"Andersonia West\" — \"an act of cultural empowerment and Indigenous resilience\"<br>\n  Sinkyone Council: consortium of 10 federally recognized tribes (founded 1986)<br>\n  Also stewarding 3,845-acre InterTribal Sinkyone Wilderness (since 1997)<br>\n  Adjacent to 7,250-acre Sinkyone Wilderness State Park<br>\n  <i>\"Our ancestors are still here, they're still around us\" — Buffie Schmidt, Sherwood Valley Rancheria</i><br>\n  <b>National Geographic July 2022 \"We Are Here\" cover story</b>"
+      "geometry": {
+        "lat": 39.7,
+        "lng": -123.72
+      },
+      "popup": "<b>Tc'ih-Léh-Dûñ (\"Fish Run Place\")</b><br>\n  523 acres of old-growth redwood returned to InterTribal Sinkyone Wilderness Council (2022)<br>\n  200 acres of ancient coast redwoods, 1.5 miles of Anderson Creek<br>\n  Renamed from \"Andersonia West\" — \"an act of cultural empowerment and Indigenous resilience\"<br>\n  Sinkyone Council: consortium of 10 federally recognized tribes (founded 1986)<br>\n  Also stewarding 3,845-acre InterTribal Sinkyone Wilderness (since 1997)<br>\n  Adjacent to 7,250-acre Sinkyone Wilderness State Park<br>\n  <i>\"Our ancestors are still here, they're still around us\" — Buffie Schmidt, Sherwood Valley Rancheria</i><br>\n  <b>National Geographic July 2022 \"We Are Here\" cover story</b>",
+      "style": {
+        "radius": 8,
+        "fillColor": "#CE93D8",
+        "color": "#CE93D8",
+        "weight": 2,
+        "fillOpacity": 0.5
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiSacred",
-      "geometry": {"lat": 39.98, "lng": -123.92},
-      "icon": {"factory": "circleMarker", "radius": 6, "color": "#CE93D8", "fillColor": "#CE93D8", "fillOpacity": 0.4, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Needle Rock — Sinkyone Wilderness State Park</b><br>\n  Northwest corner of Mendocino Coast — gateway to the Lost Coast<br>\n  Traditional Sinkyone territory<br>\n  7,250-acre park — site of original activism that led to Sinkyone Council founding (1986)<br>\n  Co-founder Priscilla Hunter (Coyote Valley Pomo) championed return of 4,531+ acres<br>\n  <i>She \"journeyed home to her ancestors\" November 2024</i>"
+      "geometry": {
+        "lat": 39.98,
+        "lng": -123.92
+      },
+      "popup": "<b>Needle Rock — Sinkyone Wilderness State Park</b><br>\n  Northwest corner of Mendocino Coast — gateway to the Lost Coast<br>\n  Traditional Sinkyone territory<br>\n  7,250-acre park — site of original activism that led to Sinkyone Council founding (1986)<br>\n  Co-founder Priscilla Hunter (Coyote Valley Pomo) championed return of 4,531+ acres<br>\n  <i>She \"journeyed home to her ancestors\" November 2024</i>",
+      "style": {
+        "radius": 6,
+        "fillColor": "#CE93D8",
+        "color": "#CE93D8",
+        "weight": 2,
+        "fillOpacity": 0.4
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 39.82, "lng": -123.42},
-      "icon": {"factory": "circleMarker", "radius": 6, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.8, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Spyrock Road Petroglyphs (CA-MEN-1912)</b><br>\n  Discovered 1982 beside Spy Rock Road, near Eel River<br>\n  <b>First evidence of complex rock art boulders in the western United States</b><br>\n  Wailaki/Yuki borderlands territory<br>\n  Bay Area Rock Art Archive field trips documented 1998<br>\n  <i>Spyrock named for a 540-ft landmark hill east of the Eel River</i>"
+      "geometry": {
+        "lat": 39.82,
+        "lng": -123.42
+      },
+      "popup": "<b>Spyrock Road Petroglyphs (CA-MEN-1912)</b><br>\n  Discovered 1982 beside Spy Rock Road, near Eel River<br>\n  <b>First evidence of complex rock art boulders in the western United States</b><br>\n  Wailaki/Yuki borderlands territory<br>\n  Bay Area Rock Art Archive field trips documented 1998<br>\n  <i>Spyrock named for a 540-ft landmark hill east of the Eel River</i>",
+      "style": {
+        "radius": 6,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.8
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 39.85, "lng": -123.50},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.7, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Bell Springs Petroglyphs (CA-MEN-0433)</b><br>\n  Bell Springs area, Eel River region<br>\n  Documented in Bay Area Rock Art Archive field trips (1998)<br>\n  Wailaki territory — borderlands with Yuki"
+      "geometry": {
+        "lat": 39.85,
+        "lng": -123.5
+      },
+      "popup": "<b>Bell Springs Petroglyphs (CA-MEN-0433)</b><br>\n  Bell Springs area, Eel River region<br>\n  Documented in Bay Area Rock Art Archive field trips (1998)<br>\n  Wailaki territory — borderlands with Yuki",
+      "style": {
+        "radius": 5,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.7
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 40.05, "lng": -123.48},
-      "icon": {"factory": "circleMarker", "radius": 8, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.9, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Slakaiya Rock (CA-TRI-1)</b><br>\n  <i>The most significant petroglyph site in the Eel River region</i><br>\n  East bank of Main Fork Eel River, deep canyon, ~520 ft elevation<br>\n  Site: 105 × 55 m, oak-woodland on stream terrace with schist boulders<br>\n  3 housepits (~3m diameter, 60cm deep), midden, abundant lithics<br>\n  <b>Two rock art panels with 6 discrete styles:</b><br>\n  • <b>Panel 1:</b> 253 cm × 150 cm on vertical schist face, partly in rock shelter<br>\n  &nbsp;&nbsp;SR Style 4: Pecked abstract curvilinear — zigzags, circles, linked circles,<br>\n  &nbsp;&nbsp;linked diamonds, tally marks, 39 dots. Made by punch & hammer (antler tip?)<br>\n  &nbsp;&nbsp;SR Style 5: Hundreds of fine scratched lines (chert flake/biface)<br>\n  &nbsp;&nbsp;SR Style 6: Deeply incised lines — <b>female fertility ritual</b> (Barrett 1952, Loeb 1926)<br>\n  • <b>Panel 2:</b> 147 × 135 cm, moss-covered until rediscovery<br>\n  &nbsp;&nbsp;SR Style 1: Two large PCN petroglyphs (27×24 cm & 19×16 cm)<br>\n  &nbsp;&nbsp;SR Style 2: 36 cupules (2.5-5 cm, possibly early Holocene)<br>\n  &nbsp;&nbsp;SR Style 3: 6 grooved lines (largest 42 cm long)<br>\n  <b>Chronology:</b> Styles 1-3 (oldest) → Style 4 → Style 5 → Style 6 (~350 BP to historic)<br>\n  Some Style 4 elements appear re-pecked by historic Wailaki (1850-1900)<br>\n  <b>History:</b> Discovered 1913 by O.W. Degen (NWP Railroad surveyor).<br>\n  Degen wrote to Kroeber; material passed to Goddard (studying Wailaki).<br>\n  Listed as Steward's PT.2 (1929). Lost 80 years — inaccurate location records.<br>\n  Rediscovered Oct 1993 by CDF forester Dave Drennan during timber inspection.<br>\n  Named for the <b>Slakaiya tribelet</b> (1 of 18 Wailaki groups, Goddard 1923)<br>\n  <i>Foster & Foster, in Wallace & Riddell eds., UC ARF No. 60</i>"
+      "geometry": {
+        "lat": 40.05,
+        "lng": -123.48
+      },
+      "popup": "<b>Slakaiya Rock (CA-TRI-1)</b><br>\n  <i>The most significant petroglyph site in the Eel River region</i><br>\n  East bank of Main Fork Eel River, deep canyon, ~520 ft elevation<br>\n  Site: 105 × 55 m, oak-woodland on stream terrace with schist boulders<br>\n  3 housepits (~3m diameter, 60cm deep), midden, abundant lithics<br>\n  <b>Two rock art panels with 6 discrete styles:</b><br>\n  • <b>Panel 1:</b> 253 cm × 150 cm on vertical schist face, partly in rock shelter<br>\n  &nbsp;&nbsp;SR Style 4: Pecked abstract curvilinear — zigzags, circles, linked circles,<br>\n  &nbsp;&nbsp;linked diamonds, tally marks, 39 dots. Made by punch & hammer (antler tip?)<br>\n  &nbsp;&nbsp;SR Style 5: Hundreds of fine scratched lines (chert flake/biface)<br>\n  &nbsp;&nbsp;SR Style 6: Deeply incised lines — <b>female fertility ritual</b> (Barrett 1952, Loeb 1926)<br>\n  • <b>Panel 2:</b> 147 × 135 cm, moss-covered until rediscovery<br>\n  &nbsp;&nbsp;SR Style 1: Two large PCN petroglyphs (27×24 cm & 19×16 cm)<br>\n  &nbsp;&nbsp;SR Style 2: 36 cupules (2.5-5 cm, possibly early Holocene)<br>\n  &nbsp;&nbsp;SR Style 3: 6 grooved lines (largest 42 cm long)<br>\n  <b>Chronology:</b> Styles 1-3 (oldest) → Style 4 → Style 5 → Style 6 (~350 BP to historic)<br>\n  Some Style 4 elements appear re-pecked by historic Wailaki (1850-1900)<br>\n  <b>History:</b> Discovered 1913 by O.W. Degen (NWP Railroad surveyor).<br>\n  Degen wrote to Kroeber; material passed to Goddard (studying Wailaki).<br>\n  Listed as Steward's PT.2 (1929). Lost 80 years — inaccurate location records.<br>\n  Rediscovered Oct 1993 by CDF forester Dave Drennan during timber inspection.<br>\n  Named for the <b>Slakaiya tribelet</b> (1 of 18 Wailaki groups, Goddard 1923)<br>\n  <i>Foster & Foster, in Wallace & Riddell eds., UC ARF No. 60</i>",
+      "style": {
+        "radius": 8,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.9
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 40.06, "lng": -123.47},
-      "icon": {"factory": "circleMarker", "radius": 4, "color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.7, "weight": 1, "pane": "markerPane"},
-      "popup": "<b>sketeclkascanan</b> (Slakaiya Wailaki village)<br>\"Mush throw away sunny place\" — a large Slakaiya village downstream with a ceremonial rock. Mush-like substance on rock face each spring predicted the year's acorn crop. Named for Panther, who threw away mush here when tired from hunting. (Goddard 1923)"
+      "geometry": {
+        "lat": 40.06,
+        "lng": -123.47
+      },
+      "popup": "<b>sketeclkascanan</b> (Slakaiya Wailaki village)<br>\"Mush throw away sunny place\" — a large Slakaiya village downstream with a ceremonial rock. Mush-like substance on rock face each spring predicted the year's acorn crop. Named for Panther, who threw away mush here when tired from hunting. (Goddard 1923)",
+      "style": {
+        "radius": 4,
+        "fillColor": "#6D4C41",
+        "color": "#6D4C41",
+        "weight": 1,
+        "fillOpacity": 0.7
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 40.04, "lng": -123.49},
-      "icon": {"factory": "circleMarker", "radius": 4, "color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.7, "weight": 1, "pane": "markerPane"},
-      "popup": "<b>kaslenkyobi</b> (Slakaiya Wailaki village)<br>\"Spring large in\" — a good rock shelter where a family wintered. Captain Jim, Goddard's informant, was forced to leave his father-in-law to die here when pursued by white men. (Goddard 1923)"
+      "geometry": {
+        "lat": 40.04,
+        "lng": -123.49
+      },
+      "popup": "<b>kaslenkyobi</b> (Slakaiya Wailaki village)<br>\"Spring large in\" — a good rock shelter where a family wintered. Captain Jim, Goddard's informant, was forced to leave his father-in-law to die here when pursued by white men. (Goddard 1923)",
+      "style": {
+        "radius": 4,
+        "fillColor": "#6D4C41",
+        "color": "#6D4C41",
+        "weight": 1,
+        "fillOpacity": 0.7
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 40.07, "lng": -123.46},
-      "icon": {"factory": "circleMarker", "radius": 4, "color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.7, "weight": 1, "pane": "markerPane"},
-      "popup": "<b>kaitcdantadan</b> (Slakaiya Wailaki village)<br>\"Christmas berries place\" — northernmost Slakaiya hamlet, near a bend in the Eel. Graveyard a quarter mile north. Northern boundary marked by tributary creek tciskot. (Goddard 1923)"
+      "geometry": {
+        "lat": 40.07,
+        "lng": -123.46
+      },
+      "popup": "<b>kaitcdantadan</b> (Slakaiya Wailaki village)<br>\"Christmas berries place\" — northernmost Slakaiya hamlet, near a bend in the Eel. Graveyard a quarter mile north. Northern boundary marked by tributary creek tciskot. (Goddard 1923)",
+      "style": {
+        "radius": 4,
+        "fillColor": "#6D4C41",
+        "color": "#6D4C41",
+        "weight": 1,
+        "fillOpacity": 0.7
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 40.03, "lng": -123.48},
-      "icon": {"factory": "circleMarker", "radius": 4, "color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.7, "weight": 1, "pane": "markerPane"},
-      "popup": "<b>tosekyok'at</b> (Slakaiya Wailaki village)<br>A large Slakaiya village a quarter mile downstream from the boundary creek. (Goddard 1923)"
+      "geometry": {
+        "lat": 40.03,
+        "lng": -123.48
+      },
+      "popup": "<b>tosekyok'at</b> (Slakaiya Wailaki village)<br>A large Slakaiya village a quarter mile downstream from the boundary creek. (Goddard 1923)",
+      "style": {
+        "radius": 4,
+        "fillColor": "#6D4C41",
+        "color": "#6D4C41",
+        "weight": 1,
+        "fillOpacity": 0.7
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 39.92, "lng": -123.45},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.7, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Coleman Creek Petroglyphs (Eel River)</b><br>\n  Discovered by a photographer on a river trip — <b>previously unknown to archaeologists</b><br>\n  \"Many petroglyphs in a setting of beautiful meadows steeply sloping down to the Eel\"<br>\n  Visited 2012 by Jon Harman (DStretch) & Pierre Pelet (BARARA)<br>\n  Not yet formally documented by Dan Foster (Senior State Archaeologist, ret. 2012)<br>\n  Accessible only by river — remote Eel River canyon<br>\n  <i>Wailaki territory</i>"
+      "geometry": {
+        "lat": 39.92,
+        "lng": -123.45
+      },
+      "popup": "<b>Coleman Creek Petroglyphs (Eel River)</b><br>\n  Discovered by a photographer on a river trip — <b>previously unknown to archaeologists</b><br>\n  \"Many petroglyphs in a setting of beautiful meadows steeply sloping down to the Eel\"<br>\n  Visited 2012 by Jon Harman (DStretch) & Pierre Pelet (BARARA)<br>\n  Not yet formally documented by Dan Foster (Senior State Archaeologist, ret. 2012)<br>\n  Accessible only by river — remote Eel River canyon<br>\n  <i>Wailaki territory</i>",
+      "style": {
+        "radius": 5,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.7
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 39.80, "lng": -123.45},
-      "icon": {"factory": "circleMarker", "radius": 6, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.75, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Spyrock Station Petroglyphs</b><br>\n  Distinct from Spyrock Road (CA-MEN-1912), ~10 miles downstream<br>\n  Located on the Eel River near the former Spyrock railroad station<br>\n  Contains many SR Style 4 pecked abstract designs:<br>\n  wavy lines, linked circles, zigzags, abstract figures, AND dozens of cupules<br>\n  <b>Cupules superimposed over pecked elements</b> — key to regional chronology<br>\n  (Proves cupules younger than Style 4 at this site; confirmed by repatination differences)<br>\n  Photo by Robert Connick (1960); Paul Freeman (BARARA) source<br>\n  <i>Foster & Foster use this site to establish the style sequence across the region</i>"
+      "geometry": {
+        "lat": 39.8,
+        "lng": -123.45
+      },
+      "popup": "<b>Spyrock Station Petroglyphs</b><br>\n  Distinct from Spyrock Road (CA-MEN-1912), ~10 miles downstream<br>\n  Located on the Eel River near the former Spyrock railroad station<br>\n  Contains many SR Style 4 pecked abstract designs:<br>\n  wavy lines, linked circles, zigzags, abstract figures, AND dozens of cupules<br>\n  <b>Cupules superimposed over pecked elements</b> — key to regional chronology<br>\n  (Proves cupules younger than Style 4 at this site; confirmed by repatination differences)<br>\n  Photo by Robert Connick (1960); Paul Freeman (BARARA) source<br>\n  <i>Foster & Foster use this site to establish the style sequence across the region</i>",
+      "style": {
+        "radius": 6,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.75
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 39.15, "lng": -123.15},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.7, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Keystone Petroglyphs (CA-MEN-2200)</b><br>\n  Central Mendocino County, between Willits and Ukiah<br>\n  Contains concentric-circle motifs (among oldest styles in region)<br>\n  Concentric circles, cupules, shields with superimposed incised lines<br>\n  Gary & McLear-Gary (1988) proposed a chronological sequence here:<br>\n  1) abstract curvilinear/grids 2) concentric circles 3) incised lines<br>\n  <b>Consistent with the sequence at Slakaiya Rock</b><br>\n  <i>Pomo territory — one of 178 sites in Pomo/Yuki/Coast Miwok lands</i>"
+      "geometry": {
+        "lat": 39.15,
+        "lng": -123.15
+      },
+      "popup": "<b>Keystone Petroglyphs (CA-MEN-2200)</b><br>\n  Central Mendocino County, between Willits and Ukiah<br>\n  Contains concentric-circle motifs (among oldest styles in region)<br>\n  Concentric circles, cupules, shields with superimposed incised lines<br>\n  Gary & McLear-Gary (1988) proposed a chronological sequence here:<br>\n  1) abstract curvilinear/grids 2) concentric circles 3) incised lines<br>\n  <b>Consistent with the sequence at Slakaiya Rock</b><br>\n  <i>Pomo territory — one of 178 sites in Pomo/Yuki/Coast Miwok lands</i>",
+      "style": {
+        "radius": 5,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.7
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 39.05, "lng": -123.12},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.65, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Feliz Creek Petroglyphs (CA-MEN-793)</b><br>\n  Near Ukiah, Mendocino County<br>\n  Concentric circles and deeply incised lines<br>\n  Part of the 178+ petroglyph sites documented in Pomo/Yuki/Coast Miwok territory<br>\n  <i>Pomo territory — southern end of the Eel River rock art corridor</i>"
+      "geometry": {
+        "lat": 39.05,
+        "lng": -123.12
+      },
+      "popup": "<b>Feliz Creek Petroglyphs (CA-MEN-793)</b><br>\n  Near Ukiah, Mendocino County<br>\n  Concentric circles and deeply incised lines<br>\n  Part of the 178+ petroglyph sites documented in Pomo/Yuki/Coast Miwok territory<br>\n  <i>Pomo territory — southern end of the Eel River rock art corridor</i>",
+      "style": {
+        "radius": 5,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.65
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiRockArt",
-      "geometry": {"lat": 39.02, "lng": -123.08},
-      "icon": {"factory": "circleMarker", "radius": 4, "color": "#FFB74D", "fillColor": "#FFB74D", "fillOpacity": 0.6, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Elledge Valley Baby Rock #2</b><br>\n  Near Ukiah, Mendocino County<br>\n  PCN/cupule site — part of the \"Baby Rocks\" tradition<br>\n  Hedges (1983a) noted: deeply incised lines always present,<br>\n  but at this site only a single cupule — suggesting incised lines<br>\n  more strongly linked to fertility rituals than cupules themselves<br>\n  <i>Pomo territory</i>"
+      "geometry": {
+        "lat": 39.02,
+        "lng": -123.08
+      },
+      "popup": "<b>Elledge Valley Baby Rock #2</b><br>\n  Near Ukiah, Mendocino County<br>\n  PCN/cupule site — part of the \"Baby Rocks\" tradition<br>\n  Hedges (1983a) noted: deeply incised lines always present,<br>\n  but at this site only a single cupule — suggesting incised lines<br>\n  more strongly linked to fertility rituals than cupules themselves<br>\n  <i>Pomo territory</i>",
+      "style": {
+        "radius": 4,
+        "fillColor": "#FFB74D",
+        "color": "#FFB74D",
+        "weight": 2,
+        "fillOpacity": 0.6
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiLost",
-      "geometry": {"lat": 39.43, "lng": -122.95},
-      "icon": {"factory": "circleMarker", "radius": 8, "color": "#EF5350", "fillColor": "#EF5350", "fillOpacity": 0.4, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Potter Valley Project — Eel River Captured (1908)</b><br>\n  Scott Dam (1922) created Lake Pillsbury, blocking uppermost Eel River<br>\n  Cape Horn Dam diverts water through 1-mile tunnel to Russian River<br>\n  Blocked fish passage to ~10% of watershed for 100+ years<br>\n  <b>Hope:</b> PG&E surrendering license (2023); demolition possible ~2028<br>\n  <b>When dams come down, the Eel becomes the longest free-flowing river in California</b><br>\n  <i>Huchnom homeland — diverted their river to another watershed entirely</i>"
+      "geometry": {
+        "lat": 39.43,
+        "lng": -122.95
+      },
+      "popup": "<b>Potter Valley Project — Eel River Captured (1908)</b><br>\n  Scott Dam (1922) created Lake Pillsbury, blocking uppermost Eel River<br>\n  Cape Horn Dam diverts water through 1-mile tunnel to Russian River<br>\n  Blocked fish passage to ~10% of watershed for 100+ years<br>\n  <b>Hope:</b> PG&E surrendering license (2023); demolition possible ~2028<br>\n  <b>When dams come down, the Eel becomes the longest free-flowing river in California</b><br>\n  <i>Huchnom homeland — diverted their river to another watershed entirely</i>",
+      "style": {
+        "radius": 8,
+        "fillColor": "#EF5350",
+        "color": "#EF5350",
+        "weight": 2,
+        "fillOpacity": 0.4
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiLost",
-      "geometry": {"lat": 39.79, "lng": -123.14},
-      "icon": {"factory": "circleMarker", "radius": 9, "color": "#B71C1C", "fillColor": "#B71C1C", "fillOpacity": 0.25, "weight": 2, "dashArray": "5,3", "pane": "markerPane"},
-      "popup": "<b>Nome Cult Farm → Round Valley Reservation (1856-present)</b><br>\n  Yuki homeland transformed into a concentration point for 6+ displaced tribes<br>\n  Settlers took the southern half of the valley; govt crammed tribes into the north<br>\n  Multiple tribes \"driven like cattle\" — elderly and sick died en route<br>\n  High picket fences corralled captives<br>\n  Ghost village Amacha: built for 100, \"one day soldiers took all the people and burned the houses\"<br>\n  <i>The Yuki — the valley's original people — became a minority in their own homeland</i>"
+      "geometry": {
+        "lat": 39.79,
+        "lng": -123.14
+      },
+      "popup": "<b>Nome Cult Farm → Round Valley Reservation (1856-present)</b><br>\n  Yuki homeland transformed into a concentration point for 6+ displaced tribes<br>\n  Settlers took the southern half of the valley; govt crammed tribes into the north<br>\n  Multiple tribes \"driven like cattle\" — elderly and sick died en route<br>\n  High picket fences corralled captives<br>\n  Ghost village Amacha: built for 100, \"one day soldiers took all the people and burned the houses\"<br>\n  <i>The Yuki — the valley's original people — became a minority in their own homeland</i>",
+      "style": {
+        "radius": 9,
+        "fillColor": "#B71C1C",
+        "color": "#B71C1C",
+        "weight": 2,
+        "fillOpacity": 0.25,
+        "dashArray": "5,3"
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiLost",
-      "geometry": {"lat": 39.60, "lng": -123.70},
-      "icon": {"factory": "circleMarker", "radius": 7, "color": "#EF5350", "fillColor": "#EF5350", "fillOpacity": 0.3, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>Lost Redwood Forests — Sinkyone/Coast Yuki Territory</b><br>\n  Entire South Fork Eel / Sinkyone coast clearcut from 1850s onward<br>\n  Old-growth coast redwoods reduced to 5% of original extent statewide<br>\n  Loss of redwoods = loss of entire subsistence ecosystem:<br>\n  salmon streams, basket materials (sedge, willow), food plants, shelter<br>\n  <i>Sinkyone Council working to restore: 4,531+ acres now under tribal stewardship</i>"
+      "geometry": {
+        "lat": 39.6,
+        "lng": -123.7
+      },
+      "popup": "<b>Lost Redwood Forests — Sinkyone/Coast Yuki Territory</b><br>\n  Entire South Fork Eel / Sinkyone coast clearcut from 1850s onward<br>\n  Old-growth coast redwoods reduced to 5% of original extent statewide<br>\n  Loss of redwoods = loss of entire subsistence ecosystem:<br>\n  salmon streams, basket materials (sedge, willow), food plants, shelter<br>\n  <i>Sinkyone Council working to restore: 4,531+ acres now under tribal stewardship</i>",
+      "style": {
+        "radius": 7,
+        "fillColor": "#EF5350",
+        "color": "#EF5350",
+        "weight": 2,
+        "fillOpacity": 0.3
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiLost",
-      "geometry": {"lat": 39.55, "lng": -123.42},
-      "icon": {"factory": "circleMarker", "radius": 6, "color": "#EF5350", "fillColor": "#EF5350", "fillOpacity": 0.3, "weight": 2, "pane": "markerPane"},
-      "popup": "<b>1964 Christmas Flood — Eel River Devastation</b><br>\n  >500,000 cubic feet per second — record for 20th century<br>\n  Warm Pineapple Express rains melted snowpack<br>\n  Destroyed towns, ancient redwoods, highways, railroad<br>\n  Washed away much of Weott, stranded hundreds in Eel River Canyon<br>\n  Exacerbated by clearcut logging — increased runoff and sediment<br>\n  <i>The river itself became a weapon of destruction</i>"
+      "geometry": {
+        "lat": 39.55,
+        "lng": -123.42
+      },
+      "popup": "<b>1964 Christmas Flood — Eel River Devastation</b><br>\n  >500,000 cubic feet per second — record for 20th century<br>\n  Warm Pineapple Express rains melted snowpack<br>\n  Destroyed towns, ancient redwoods, highways, railroad<br>\n  Washed away much of Weott, stranded hundreds in Eel River Canyon<br>\n  Exacerbated by clearcut logging — increased runoff and sediment<br>\n  <i>The river itself became a weapon of destruction</i>",
+      "style": {
+        "radius": 6,
+        "fillColor": "#EF5350",
+        "color": "#EF5350",
+        "weight": 2,
+        "fillOpacity": 0.3
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.79, "lng": -123.12},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#66BB6A", "fillColor": "#66BB6A", "fillOpacity": 0.8, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Round Valley Indian Reservation (Covelo)</b><br>~44 sq mi (26,000+ acres). Confederation: Yuki, Wailaki, Concow, Little Lake Pomo, Nomlaki, Pit River. Enrollment: 5,781 (2022); ~21% on-reservation. First CA forest carbon offset (2015). Yuki & Wailaki taught at grade school. The Yuki — the only CA tribe to continuously live on their ancestral homeland."
+      "geometry": {
+        "lat": 39.79,
+        "lng": -123.12
+      },
+      "popup": "<b>Round Valley Indian Reservation (Covelo)</b><br>~44 sq mi (26,000+ acres). Confederation: Yuki, Wailaki, Concow, Little Lake Pomo, Nomlaki, Pit River. Enrollment: 5,781 (2022); ~21% on-reservation. First CA forest carbon offset (2015). Yuki & Wailaki taught at grade school. The Yuki — the only CA tribe to continuously live on their ancestral homeland.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#66BB6A",
+        "color": "#66BB6A",
+        "weight": 1.5,
+        "fillOpacity": 0.8
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.68, "lng": -123.50},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#66BB6A", "fillColor": "#66BB6A", "fillOpacity": 0.8, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Cahto Indian Tribe — Laytonville Rancheria</b><br>~264 acres, ~3 mi west of Laytonville. Cahto and Pomo peoples. Operates Red Fox Casino. Tribal police, housing authority, EPA office. Pre-contact Cahto: 500-1,100."
+      "geometry": {
+        "lat": 39.68,
+        "lng": -123.5
+      },
+      "popup": "<b>Cahto Indian Tribe — Laytonville Rancheria</b><br>~264 acres, ~3 mi west of Laytonville. Cahto and Pomo peoples. Operates Red Fox Casino. Tribal police, housing authority, EPA office. Pre-contact Cahto: 500-1,100.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#66BB6A",
+        "color": "#66BB6A",
+        "weight": 1.5,
+        "fillOpacity": 0.8
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.72, "lng": -123.72},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#66BB6A", "fillColor": "#66BB6A", "fillOpacity": 0.8, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>InterTribal Sinkyone Wilderness Council</b><br>Not a rancheria — a 10-tribe land trust & conservation consortium. Founded 1986. 4,531+ acres under protection. Members: Cahto, Pinoleville Pomo, Round Valley, Sherwood Valley, Coyote Valley, Scotts Valley, Hopland, Redwood Valley, Robinson, Manchester-Pt Arena. First-ever InterTribal Protected Area (1997)."
+      "geometry": {
+        "lat": 39.72,
+        "lng": -123.72
+      },
+      "popup": "<b>InterTribal Sinkyone Wilderness Council</b><br>Not a rancheria — a 10-tribe land trust & conservation consortium. Founded 1986. 4,531+ acres under protection. Members: Cahto, Pinoleville Pomo, Round Valley, Sherwood Valley, Coyote Valley, Scotts Valley, Hopland, Redwood Valley, Robinson, Manchester-Pt Arena. First-ever InterTribal Protected Area (1997).",
+      "style": {
+        "radius": 5,
+        "fillColor": "#66BB6A",
+        "color": "#66BB6A",
+        "weight": 1.5,
+        "fillOpacity": 0.8
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "yukiVillages",
-      "geometry": {"lat": 39.42, "lng": -123.35},
-      "icon": {"factory": "circleMarker", "radius": 5, "color": "#66BB6A", "fillColor": "#66BB6A", "fillOpacity": 0.8, "weight": 1.5, "pane": "markerPane"},
-      "popup": "<b>Sherwood Valley Rancheria of Pomo Indians</b><br>Near Willits, Mendocino County. Pomo people. Vice-chair Buffie Schmidt spoke at Tc'ih-Léh-Dûñ ceremony 2022."
+      "geometry": {
+        "lat": 39.42,
+        "lng": -123.35
+      },
+      "popup": "<b>Sherwood Valley Rancheria of Pomo Indians</b><br>Near Willits, Mendocino County. Pomo people. Vice-chair Buffie Schmidt spoke at Tc'ih-Léh-Dûñ ceremony 2022.",
+      "style": {
+        "radius": 5,
+        "fillColor": "#66BB6A",
+        "color": "#66BB6A",
+        "weight": 1.5,
+        "fillOpacity": 0.8
+      },
+      "options": {
+        "pane": "markerPane"
+      }
     }
   ]
 }
