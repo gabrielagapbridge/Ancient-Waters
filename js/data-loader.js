@@ -190,8 +190,17 @@ function buildMarkerOptions(f) {
         });
         break;
       default:
-        // Fallback: try to use the factory name as a function
-        console.warn('Data loader: unknown icon factory "' + f.icon.factory + '"');
+        if (f.icon.html) {
+          // Fallback: treat as divIcon if html is present
+          opts.icon = L.divIcon({
+            className: f.icon.className || '',
+            html: f.icon.html || '',
+            iconSize: f.icon.iconSize || [20, 20],
+            iconAnchor: f.icon.iconAnchor || [10, 10]
+          });
+        } else {
+          console.warn('Data loader: unknown icon factory "' + f.icon.factory + '"');
+        }
     }
   }
 

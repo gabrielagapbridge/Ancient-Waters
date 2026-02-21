@@ -41,308 +41,308 @@
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.779,"lng":-122.414},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Civic Center BART Discovery</h4><span class=\"ptype pt-construction\">1969 \u2014 BART construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>5,000-year-old remains of a female aged 24-26 discovered during construction of the Civic Center BART station. One of many accidental discoveries that illustrate how indigenous sites lie beneath modern infrastructure.<div class=\"popup-src\">\ud83d\udcd6 SFGate (2024); FoundSF \"Searching for the Yelamu\"; BART historical records</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.789,"lng":-122.394},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Transbay Transit Center Discovery</h4><span class=\"ptype pt-construction\">2014 \u2014 Transbay construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Well-preserved remains of a 7,600-year-old man, likely Ohlone, found beneath 30+ feet of fill during concrete preparation. One of the oldest human remains found on the SF peninsula. Located in an \"Archaeological Mitigation Zone.\"<div class=\"popup-src\">\ud83d\udcd6 SFGate (2024); SF Chronicle; Archaeology Magazine</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.766,"lng":-122.389},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>CCA Campus Discovery</h4><span class=\"ptype pt-construction\">2018 \u2014 campus expansion testing</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>8,000-year-old buried site found 40 feet below surface \u2014 the oldest evidence ever discovered of the bay's first inhabitants. Obsidian and chert tool flakes, marine shells indicating cooking. No human remains found. CCA built permanent interpretive features in partnership with Ohlone.<div class=\"popup-src\">\ud83d\udcd6 SFGate (2024); AECOM archaeological report; CCA interpretive plan</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.838,"lng":-122.292},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Bay Street Mall Construction</h4><span class=\"ptype pt-construction\">1999-2003 \u2014 mall construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>~300 intact burials found despite expectations that nothing remained. ~100 recovered from behind what became Victoria's Secret. $2 million spent on archaeological work. Bodies reburied on-site. Construction continued despite protest. An unknown number of remains still lie beneath the shopping center.<div class=\"popup-src\">\ud83d\udcd6 Cediel, \"Shellmound\" (2005); E'ville Eye; KQED; Emeryville Historical Society</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.863,"lng":-122.297},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>1919 Fourth Street Discovery</h4><span class=\"ptype pt-construction\">2016 \u2014 trenching for development</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Four ancient burials disturbed during trenching for construction just across the street from the West Berkeley Shellmound, outside previously established archaeological boundaries. Demonstrated that the indigenous village site was larger than thought.<div class=\"popup-src\">\ud83d\udcd6 West Berkeley Shellmound Wikipedia; shellmound.org; Berkeley city records</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.766,"lng":-122.244},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Alameda / Santa Clara Ave Extension</h4><span class=\"ptype pt-construction\">1908 \u2014 street construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>450+ individuals disinterred from the 3-acre Sather Mound when developers bisected it to extend Santa Clara Avenue and Mound Street. Previously in 1892, a journalist excavated without permission and \"played football\" with skulls. SF Academy of Sciences subsequently excavated extensively.<div class=\"popup-src\">\ud83d\udcd6 Alameda LocalWiki; SF Daily Call (1892); Imelda Merlin historical accounts</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.349,"lng":-122.050},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Mission Santa Clara Disturbances</h4><span class=\"ptype pt-construction\">19th-20th century \u2014 multiple events</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Native burials at Mission Santa Clara disturbed by construction multiple times over decades. Remains and artifacts collected by various institutions. 2012 excavation found postholes, artifacts, and plant remains from tule reed dwellings \u2014 evidence of a bustling indigenous town around the church.<div class=\"popup-src\">\ud83d\udcd6 Panich (2022); Archaeology Magazine \"California's Coastal Homelands\" (2022); SCU Archives</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.806,"lng":-122.430},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Fort Mason Discovery</h4><span class=\"ptype pt-construction\">Recent \u2014 NPS surveys</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Three previously unknown archaeological sites discovered at Fort Mason in San Francisco. Part of the broader pattern of finds showing that indigenous habitation extended across the northern waterfront of the peninsula.<div class=\"popup-src\">\ud83d\udcd6 FoundSF \"Searching for the Yelamu\"; NPS Golden Gate NRA cultural resources</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.934,"lng":-122.519},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Larkspur Luxury Home Destruction</h4><span class=\"ptype pt-construction\">2010s \u2014 residential construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>4,500-year-old \"grandfather midden\" with 600 burials destroyed under confidentiality agreement for luxury homes. Contained unprecedented ceremonial condor burial, 100+ bear bones, atlatl sticks, flutes. State archaeologist E. Breck Parkman: \"In my 40 years, I've never heard of a site quite like this one.\" Radiocarbon dating was arbitrarily limited; DNA testing prohibited. Artifacts reburied on-site and paved over.<div class=\"popup-src\">\ud83d\udcd6 SFGate (2014); E. Breck Parkman; Al Schwitalla; East Bay Hill People</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.105,"lng":-122.568},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Olompali / Marin Mounds Leveled</h4><span class=\"ptype pt-construction\">1874-1875 \u2014 road construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Shell and soil mounds from the 8,000-year-old Olompali settlement were leveled and used as fill material across Marin County, according to an 1911 Marin Journal article. Relics and human remains were scattered across the county as rapid development in the 1960s unearthed masses of Coast Miwok artifacts \u2014 leading to the founding of the Museum of the American Indian in Novato (1967).<div class=\"popup-src\">\ud83d\udcd6 Marin Journal (1911); Museum of the American Indian; MAPOM (est. 1970)</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.425,"lng":-121.740},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>UC Davis Mondavi Center</h4><span class=\"ptype pt-construction\">1999 \u2014 university construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Patwin Indian remains discovered at the Robert Mondavi Center for the Performing Arts construction site. The university subsequently built a Native American Contemplative Garden within the Arboretum to honor the Patwin people whose territory includes the campus and surrounding Sacramento Valley.<div class=\"popup-src\">\ud83d\udcd6 Wikipedia (Patwin); UC Davis Arboretum</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.960,"lng":-122.345},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Marin Mounds Bulldozed for Topsoil (1960s)</h4><span class=\"ptype pt-construction\">Coast Miwok \u2014 destroyed for topsoil</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Moratto (1973) Case #3: \"A Marin County entrepreneur spent the early 1960s bulldozing local Indian mounds to sell the midden material as topsoil.\" Stopped only when the alkaline shell-rich earth killed domestic plants. Marin County later passed Ordinance No. 1589 \u2014 one of only 3 CA counties making it unlawful to disturb any Indian midden without a permit.<div class=\"popup-src\">\ud83d\udcd6 Moratto (1973) \"Status of CA Archaeology\" Case #3; SCA Special Report No. 3</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.963,"lng":-122.360},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>San Pablo Shellmound I (destroyed ~1969)</h4><span class=\"ptype pt-construction\">Ohlone \u2014 destroyed for housing</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Moratto (1973) Case #29: A monumental shellmound representing 2,000+ years of habitation exposed during home building in San Pablo. Student volunteers raced to salvage remains, \"sometimes meeting heavy opposition from the contractor.\" Builders and archaeologists nearly came to blows. Public letters called it \"disgraceful\" \u2014 site destroyed anyway.<div class=\"popup-src\">\ud83d\udcd6 Moratto (1973) Case #29; CSU San Francisco files</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.965,"lng":-122.355},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>San Pablo Shellmound II (trailer park)</h4><span class=\"ptype pt-construction\">Ohlone \u2014 destroyed for trailer park</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Moratto (1973) Case #25: A large undamaged mound in San Pablo replaced by a trailer park. Archaeologists who attempted salvage \"were harassed and finally removed by the contractor.\" Dozens of pot hunters were allowed to dig freely. One of the last intact large mounds on the east shore of San Pablo Bay.<div class=\"popup-src\">\ud83d\udcd6 Moratto (1973) Case #25; Elsasser, Lowie Museum; Coles, Contra Costa College</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.964,"lng":-122.358},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Fernandez Site CCo-259 (sold 25c/yard)</h4><span class=\"ptype pt-construction\">Ohlone \u2014 sold to topsoil company</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Moratto (1973) Case #32: Known to Berkeley Archaeological Survey as critically important. Landowner promised to protect it. When the Survey was finally ready, \"the landowner confessed with some shame that he had sold the site to a topsoil company for 25 cents per yard and that the site was no longer in existence.\"<div class=\"popup-src\">\ud83d\udcd6 Moratto (1973) Case #32; Dr. Robert F. Heizer, UC Berkeley</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.333,"lng":-123.048},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Bodega Bay Midden Son-299 (bulldozed)</h4><span class=\"ptype pt-construction\">Coast Miwok (Olamentko) \u2014 bulldozed by owner</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Moratto (1973) Case #33: A large deep midden on Bodega Bay shore, critical to local prehistory. Two years after Berkeley sampled it, \"the owner destroyed the site with a bulldozer in order to discover materials for his private collection. He found little by this method, but he effectively destroyed a very important site.\"<div class=\"popup-src\">\ud83d\udcd6 Moratto (1973) Case #33; Dr. Robert F. Heizer, UC Berkeley</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.340,"lng":-122.690},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Largest Pomo Cremation Site (crushed 1950s)</h4><span class=\"ptype pt-construction\">Southern Pomo \u2014 ground by gravel plant</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Moratto (1973) Case #16: The largest known Pomo cremation and mortuary site, on Santa Rosa Creek, \"was ground to oblivion by a gravel crushing plant in the early 1950s.\" Schoolchildren ravaged the bulldozed heaps, hauling off wagons of mortars, pestles, charmstones, beads, and human remains. Most went through the crusher.<div class=\"popup-src\">\ud83d\udcd6 Moratto (1973) Case #16; Michael J. Moratto, CSU San Francisco</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.882,"lng":-122.500},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>MRN-14 Bulldozed for Housing (1976)</h4><span class=\"ptype pt-construction\">1976 \u2014 housing construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>After 10 days of excavation by SF State and MAPOM volunteers in 1974-1975, the site was bulldozed in 1976 for a residential development. The 3-meter-deep mound contained 12 features, cremated human remains throughout, infant burial with elaborate grave goods, and evidence of occupation from AD 0 to contact. Riley (1979) later found evidence of contact-period hunting (domestic cow bones) contradicting earlier claims the site was abandoned pre-contact.<div class=\"popup-src\">\ud83d\udcd6 Barrow (2009); Moratto et al. (1974); Riley (1979)</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.890,"lng":-122.315},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Nelson 1909: Collections Sent to British Museum</h4><span class=\"ptype pt-construction\">1900s \u2014 museum looting</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Nelson noted during his 1909 survey that multiple San Rafael sites had been looted for artifacts. Collections from at least two sites were shipped to the British Museum in London, where they remain today. Other sites were carted away for \"gardens, ballast for roads and sidewalks, chicken feed, and tennis court construction.\" Of 425 Bay Area mounds Nelson documented, only ~4 are visible today.<div class=\"popup-src\">\ud83d\udcd6 Nelson (1909) \"Shellmounds of the SF Bay Region\"; Barrow (2009); KQED; Corrina Gould</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.770,"lng":-121.710},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>CCo-696 Reservoir Construction (1990s)</h4><span class=\"ptype pt-construction\">1990s \u2014 reservoir construction</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Construction of Los Vaqueros Reservoir triggered massive excavations at 8+ sites (CCo-447/H, -458/H, -459, -468, -469, -621/H, -636, -637) plus newly discovered CCo-696. The reservoir flooded a valley inhabited for nearly 10,000 years. CCo-696 alone yielded ~150 human burials and the oldest known cultural remains in the SF Bay-Delta region (9,800 cal BP). Sonoma State conducted 9 surveys across 25,000 acres.<div class=\"popup-src\">\ud83d\udcd6 Meyer & Rosenthal (1997); Bramlette (1988); Ziesing (1997); CCWD</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":37.755,"lng":-121.690},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Los Vaqueros Expansion (2011 burials)</h4><span class=\"ptype pt-construction\">2011 \u2014 reservoir expansion</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Expansion of Los Vaqueros Reservoir in 2011 threatened to expose additional Native American burial sites. The Volvon people had been completely removed from their homeland by 1806, absorbed into Mission San Jose \u2014 making cultural consultation complex as no direct Volvon tribal entity exists today.<div class=\"popup-src\">\ud83d\udcd6 Anthropology Now (2015); CCWD; Muwekma Ohlone Tribal Council</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.313,"lng":-121.498},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Gualacomne (Freeport)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Sacramento River village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Important landholding Plains Miwok village-community on both sides of the Sacramento River at present-day Freeport. The suffix -amni/-umni means \"people of\" in Plains Miwok \u2014 so Gualacomne means \"people of Gualaco.\" Barrett (1908) showed this suffix was not tribal but locational: if a person moved villages, they took the name of their new home. First contacted by Spanish in Gabriel Moraga's 1808 expedition up the Sacramento Valley.<div class=\"popup-src\">\ud83d\udcd6 Barrett (1908) UC Publications; Kroeber (1908/1919); Lodi Winegrape Commission; Wilton Rancheria</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.258,"lng":-121.506},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Hulpu-mni (east bank Sacramento)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Kroeber village site</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Village-community of the Hulpumni on the east bank of the Sacramento River below Sacramento. Kroeber (1919) listed Hulpumni among the Plains Miwok names ending in -mni that suggest Yokuts-style tribal names, but Barrett (1908) proved these were village names, not tribes. The Plains Miwok dialect was the most distinct of the four Sierra Miwok dialects, with 40% of word stems unique to itself.<div class=\"popup-src\">\ud83d\udcd6 Barrett (1908); Kroeber (1919) Handbook of Indians of CA; Bureau of American Ethnology</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.175,"lng":-121.578},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Ilamne (Yolano)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 west Sacramento village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village on the west side of the Sacramento River northwest of Freeport, at present-day Yolano (Solano County). One of the western-most Plains Miwok settlements, showing their territory extended across the Sacramento into the tule marshlands of the Delta.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Lodi Winegrape Commission; Milliken (1995)</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.157,"lng":-121.692},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Anizumne (Rio Vista)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Sacramento River west</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village-community at present-day Rio Vista on the west side of the Sacramento River. Located at the edge of the vast tule marshland of the Sacramento-San Joaquin Delta. The Plains Miwok took salmon and sturgeon from these Delta waters and used elaborate tule boats for navigation. First European contact with Delta Miwok occurred in 1772 when Pedro Fages arrived at the San Joaquin River near Pittsburg-Antioch.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Wilton Rancheria tribal history; Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.165,"lng":-121.690},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Chucumne (Liberty Island)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Delta island village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village on Liberty Island on the west side of the Sacramento River. Island villages in the Delta were strategically important \u2014 the Anza-Font expedition of 1776 documented that when Spanish explorers approached, Miwok women and children were sent across the rivers to safety while warriors remained. The Miwok had mastered tule boat construction for Delta navigation.<div class=\"popup-src\">\ud83d\udcd6 Font (1776) in Bolton 1930; Wilton Rancheria; Kroeber (1919)</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.200,"lng":-121.400},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Cosomne (Wilton Rancheria)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Cosumnes River village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Village-community of the Cosomne on the Cosumnes River at present-day Wilton. The Cosumnes River formed the approximate northern boundary of the entire main Miwok territory. Barrett (1908) noted informants disagreed whether the boundary was at the river itself or slightly north at Elk Grove. Today the Wilton Rancheria of Miwok Indians maintains federal recognition here.<div class=\"popup-src\">\ud83d\udcd6 Barrett (1908); Wilton Rancheria; Kroeber (1919); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.095,"lng":-121.331},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Sonolomne (near Galt)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Dry Creek village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village probably on Dry and Laguna creeks east of present-day Galt. Located in the transition zone between the Sacramento plains and the gentle rise into the foothills. Barrett (1908) noted that in this area \"it is difficult to say definitely where the plains end and the foot-hills begin, so gentle and undulating are the first rises.\"<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Barrett (1908); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.100,"lng":-121.270},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Ochech-ak/Otcehamni (near Galt)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Barrett's key informant village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Village site a few miles west of Galt. Barrett (1908) used this village to demonstrate how the Miwok naming system worked: O'tcex was the place name, and Otceha'mni meant \"people of O'tce\" \u2014 proving these were not tribal names like the Yokuts had, but village-community designations. Barrett's Plains Miwok vocabulary came from a single informant who spoke the Mokelumne dialect.<div class=\"popup-src\">\ud83d\udcd6 Barrett (1908) UC Publ. Am. Arch. Ethn. Vol.6 No.2; Kroeber (1908)</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.165,"lng":-121.170},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Muquelemne (Ione)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Mokelumne River village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Village at present-day Ione on the Mokelumne River. The informant Jesus Oliver, living near Ione in 1906, told Kroeber that the people near Stockton were called Chulamni \u2014 but this proved to be a Yokuts group, not Miwok. The boundary between Plains Miwok and the Amador (foothill) dialect ran from the forks of the Cosumnes River southwest to Jackson Creek near Ione.<div class=\"popup-src\">\ud83d\udcd6 Barrett (1908); Kroeber (1908); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.104,"lng":-121.243},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Mokel-umni (near Lockford)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 \"People of Mokel\"</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>The village-community that gave its name to the Mokelumne River \u2014 and eventually to Lodi. Mo'kel was the place name, moke'lumni meant \"people of Mokel.\" Barrett (1908) obtained a vocabulary from a single Plains Miwok informant who spoke this dialect. \"Mokelumne\" was corrupted from the Miwok words mogul (river) and one (people of). All Plains Miwok communities in the Mokelumne watershed were gone by 1848.<div class=\"popup-src\">\ud83d\udcd6 Barrett (1908); Kroeber (1908/1919); Clark, Ralph \"Lodi\u2014Images of America\"; Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.052,"lng":-121.260},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Lelamne (Clements)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Mokelumne River village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Lel-amni village on the Mokelumne River at present-day Clements. Kroeber (1919) noted this as one of the Plains Miwok village-communities. Located in what is now the Clements Hills Viticultural Area of the Lodi wine region. By the 1830s most Plains Miwok had succumbed to waves of malaria, smallpox, and cholera epidemics introduced through mission contact.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Barrett (1908); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.032,"lng":-121.100},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Seuamne (Jenny Lind)</h4><span class=\"ptype pt-construction\">Plains/Northern Sierra Miwok \u2014 transitional village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Village-community at present-day Jenny Lind on the Calaveras River. Described as \"intermediate to Northern Sierra Miwok\" \u2014 sitting on the dialectic boundary between Plains and Amador (foothill) Miwok. The Calaveras River roughly marked the southern edge of Plains Miwok territory, beyond which lay Yokuts land in the San Joaquin Valley plains.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Barrett (1908); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.025,"lng":-121.160},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Chilamne (Bellota)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Calaveras River village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village at present-day Bellota on the Calaveras River. The Calaveras River formed the critical boundary: Barrett (1908) showed that south of it, the San Joaquin Valley plains were entirely Yokuts territory, not Miwok. Kroeber confirmed with vocabulary evidence that Plains Miwok informants near Merced Falls and Knight's Ferry stated \"the plains in these two regions were held by people speaking the Yokuts language.\"<div class=\"popup-src\">\ud83d\udcd6 Barrett (1908); Kroeber (1908); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.047,"lng":-121.365},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Unizumne (Thornton)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 river confluence village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village at present-day Thornton at the confluence of the Cosumnes and Mokelumne rivers. A strategically important location controlling access to both major waterways. The Plains Miwok used these river corridors for salmon and sturgeon fishing, and the surrounding grasslands and oak groves provided acorns \u2014 their chief food source.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Lodi Winegrape Commission; Barrett (1908)</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.040,"lng":-121.495},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Guaypemne (Terminus)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Mokelumne River delta</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village at present-day Terminus on the Mokelumne River delta. Located at the edge of the vast tule marsh that formed the Sacramento-San Joaquin Delta. These Delta-edge villages were adapted to a riparian environment of grasslands, oaks, and marshland that early European settlers called \"an abundant paradise.\"<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Clark, Ralph \"Lodi\u2014Images of America\"; Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.008,"lng":-121.458},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Musupum (Andrus Island)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Delta island village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village on Andrus Island at the confluence of the Mokelumne and San Joaquin rivers. One of several island settlements showing Plains Miwok mastery of Delta waterways. The Anza expedition of 1776 described elaborate tule boats used by Delta Miwok, illustrating their sophisticated river-and-marsh adaptation.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Wilton Rancheria; Font (1776); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.076,"lng":-121.527},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Ochejamne (Courtland)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Sacramento River village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village at present-day Courtland on the east side of the Sacramento River. Located in the heart of the Delta, where the Sacramento River splits into distributary channels. Today this area is famous for pear orchards built on the deep peat soils of reclaimed Delta islands \u2014 soils enriched by millennia of tule marsh decomposition.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "constructionFinds",
       "geometry": {"lat":38.120,"lng":-121.565},
-      "icon": {"className":"","iconSize":[9,9],"iconAnchor":[4.5,4.5],"html":"<div style=\"width:9px;height:9px;background:#FFD600;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #FFD60044;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#FFD600","size":9},
       "popup": "<h4>Quenemsia (Grand Island)</h4><span class=\"ptype pt-construction\">Plains Miwok \u2014 Delta distributary village</span><div class=\"popup-what\">Construction / accidental discovery site \u2014 from news reports & archaeological records</div>Plains Miwok village on Grand Island among the distributary channels of the Sacramento River. The network of Plains Miwok Delta villages \u2014 Anizumne, Chucumne, Musupum, Quenemsia, Ochejamne \u2014 formed an interconnected water-adapted community controlling river confluences and island territories across the Delta.<div class=\"popup-src\">\ud83d\udcd6 Kroeber (1919); Lodi Winegrape Commission</div>"
     },
     {
       "type": "marker",
       "layer": "bayMissions",
       "geometry": {"lat":37.764,"lng":-122.427},
-      "icon": {"className":"","iconSize":[10,10],"iconAnchor":[5,5],"html":"<div style=\"width:10px;height:10px;background:#CE93D8;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #CE93D844;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#CE93D8","size":10},
       "popup": "<h4>Mission San Francisco de As\u00eds (Dolores)</h4><span class=\"ptype pt-bay-mission\">Bay Area Mission \u2014 1776</span><div class=\"popup-what\">Spanish colonial mission site \u2014 location from NPS/state records</div>Sixth California mission. Established near Ohlone settlements along Mission Creek. Church records document 5,000+ Native deaths at Bay Area missions from disease and maltreatment. The Yelamu population (~160-300) was devastated within a generation.<div class=\"popup-src\">\ud83d\udcd6 Milliken, \"A Time of Little Choice\" (1995); Panich (2022); Archaeology Magazine; mission archives</div>"
     },
     {
       "type": "marker",
       "layer": "bayMissions",
       "geometry": {"lat":37.519,"lng":-121.917},
-      "icon": {"className":"","iconSize":[10,10],"iconAnchor":[5,5],"html":"<div style=\"width:10px;height:10px;background:#CE93D8;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #CE93D844;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#CE93D8","size":10},
       "popup": "<h4>Mission San Jos\u00e9</h4><span class=\"ptype pt-bay-mission\">Bay Area Mission \u2014 1797</span><div class=\"popup-what\">Spanish colonial mission site \u2014 location from NPS/state records</div>Founded near Tuibun Ohlone territory. One of the most productive missions. Forcibly gathered indigenous peoples from across the East Bay and Central Valley. The nearby Coyote Hills shellmounds represent the pre-mission lifeways that were destroyed.<div class=\"popup-src\">\ud83d\udcd6 Milliken, \"A Time of Little Choice\" (1995); Panich (2022); Archaeology Magazine; mission archives</div>"
     },
     {
       "type": "marker",
       "layer": "bayMissions",
       "geometry": {"lat":37.349,"lng":-122.050},
-      "icon": {"className":"","iconSize":[10,10],"iconAnchor":[5,5],"html":"<div style=\"width:10px;height:10px;background:#CE93D8;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #CE93D844;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#CE93D8","size":10},
       "popup": "<h4>Mission Santa Clara de As\u00eds</h4><span class=\"ptype pt-bay-mission\">Bay Area Mission \u2014 1777</span><div class=\"popup-what\">Spanish colonial mission site \u2014 location from NPS/state records</div>2012 excavation revealed a thriving indigenous town of tule houses around the church. 8,200+ Native deaths documented across Bay Area missions. Recent archaeological work done collaboratively with Muwekma Ohlone tribe.<div class=\"popup-src\">\ud83d\udcd6 Milliken, \"A Time of Little Choice\" (1995); Panich (2022); Archaeology Magazine; mission archives</div>"
     },
     {
       "type": "marker",
       "layer": "bayMissions",
       "geometry": {"lat":37.974,"lng":-122.531},
-      "icon": {"className":"","iconSize":[10,10],"iconAnchor":[5,5],"html":"<div style=\"width:10px;height:10px;background:#CE93D8;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #CE93D844;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#CE93D8","size":10},
       "popup": "<h4>Mission San Rafael Arc\u00e1ngel</h4><span class=\"ptype pt-bay-mission\">Bay Area Mission \u2014 1817</span><div class=\"popup-what\">Spanish colonial mission site \u2014 location from NPS/state records</div>Founded as an asistencia (sub-mission) for sick neophytes from Mission Dolores. Located in Coast Miwok territory. Many shellmounds documented along the Marin coast by Nelson in 1909.<div class=\"popup-src\">\ud83d\udcd6 Milliken, \"A Time of Little Choice\" (1995); Panich (2022); Archaeology Magazine; mission archives</div>"
     },
     {
       "type": "marker",
       "layer": "bayMissions",
       "geometry": {"lat":38.293,"lng":-122.456},
-      "icon": {"className":"","iconSize":[10,10],"iconAnchor":[5,5],"html":"<div style=\"width:10px;height:10px;background:#CE93D8;border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 5px #CE93D844;\"></div>"},
+      "icon": {"factory":"mkIcon","color":"#CE93D8","size":10},
       "popup": "<h4>Mission San Francisco Solano</h4><span class=\"ptype pt-bay-mission\">Bay Area Mission \u2014 1823</span><div class=\"popup-what\">Spanish colonial mission site \u2014 location from NPS/state records</div>Last and northernmost California mission, in Sonoma. Established in Wappo/Patwin territory. Completed the ring of missions that enclosed the Bay Area's indigenous populations.<div class=\"popup-src\">\ud83d\udcd6 Milliken, \"A Time of Little Choice\" (1995); Panich (2022); Archaeology Magazine; mission archives</div>"
     },
     {
@@ -356,7 +356,7 @@
       "type": "marker",
       "layer": "shellmounds",
       "geometry": {"lat":37.65,"lng":-122.10},
-      "icon": {"className":"","html":"<div style=\"font-family:Cinzel,serif;font-size:9px;color:#FF4500;text-shadow:0 0 4px #000;white-space:nowrap;letter-spacing:1px;opacity:0.6\">425+ SHELLMOUNDS<br>DOCUMENTED 1909</div>","iconSize":[130,30],"iconAnchor":[65,15]},
+      "icon": {"factory":"divIcon","className":"","html":"<div style=\"font-family:Cinzel,serif;font-size:9px;color:#FF4500;text-shadow:0 0 4px #000;white-space:nowrap;letter-spacing:1px;opacity:0.6\">425+ SHELLMOUNDS<br>DOCUMENTED 1909</div>","iconSize":[130,30],"iconAnchor":[65,15]},
       "popup": null
     },
     {

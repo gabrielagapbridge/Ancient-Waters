@@ -115,112 +115,112 @@
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#29B6F6;margin:0 0 2px\">Quinn River</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">~100 mi · OR border → Black Rock Desert · terminates in playa</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Quinn River</b> rises near the Oregon border and flows south ~100 miles to disappear into the <b>Black Rock Desert</b> playa — one of the flattest surfaces on Earth (home of Burning Man and land speed records). During the Pleistocene, the Quinn fed into <b>Lake Lahontan</b>. The river corridor was important for Northern Paiute seasonal movements and for the <b>Fort McDermitt</b> Paiute-Shoshone community. The Quinn is intermittent — flowing in spring and drying to disconnected pools by late summer.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; Fort McDermitt Paiute-Shoshone</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":36.72,"lng":-114.72},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Muddy Springs (Moapa)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 90°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Warm springs feeding the Muddy River. <b>Moapa dace</b> — a Pleistocene relict fish — survives only here. Sacred to the Moapa Band. Moapa Reservation was established around these springs.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":37.46,"lng":-115.19},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Ash Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 95°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the largest warm springs in southern Nevada. Volume: 1,100 gallons/minute. Located along the White River corridor in <b>Pahranagat Valley</b> — a desert oasis used by Southern Paiute and earlier peoples for millennia. Nearby Pahranagat NWR preserves a rare desert wetland.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":38.84,"lng":-115.69},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Big Spring (Duckwater)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 85°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Warm spring in Railroad Valley that gives <b>Duckwater</b> its name — wild ducks flocked to these springs. The <b>Duckwater Shoshone</b> reservation was established here. Nearby thermal springs support the endangered <b>Railroad Valley springfish</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":38.33,"lng":-116.28},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Hot Creek Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 180°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the largest hot spring systems in Nevada, discharging 5,800 gallons/minute into Hot Creek. Located in the remote <b>Hot Creek Valley</b> in Nye County. Springs like this were critical waystations for Western Shoshone seasonal rounds.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":40.50,"lng":-115.40},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Ruby Valley Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · varies</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Springs along the base of the <b>Ruby Mountains</b> that create the lush Ruby Valley. The <b>Treaty of Ruby Valley</b> (1863) was signed here — the foundational document of Western Shoshone land rights. Ruby Marshes (now a NWR) support major waterfowl populations.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":36.32,"lng":-115.27},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Tule Springs (Las Vegas)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · ambient</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Ancient springs that created a lush marshland in the Las Vegas Valley during the Pleistocene. Mammoth, horse, camel, and giant ground sloth fossils found here. Now <b>Tule Springs Fossil Beds National Monument</b> (2014). Human presence dates to ~10,000 years ago. \"Las Vegas\" (\"The Meadows\") was named for these springs.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":36.42,"lng":-114.52},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Rogers Spring (Lake Mead)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 80°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Warm spring flowing into Lake Mead near Overton. Created a desert oasis that attracted Ancestral Puebloans and later Southern Paiute peoples. One of the warmest springs in the Lake Mead NRA. The endangered <b>Moapa White River springfish</b> was once found here.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":39.33,"lng":-116.85},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Spencer Hot Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 160°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Natural hot springs in Big Smoky Valley on the edge of Western Shoshone territory. Free soaking pools along Highway 376. These thermal waters were used by indigenous peoples for centuries — hot springs throughout the Great Basin were considered places of power (pooha).</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":36.28,"lng":-115.68},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Kyle Springs (Mt. Charleston)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · cool</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Springs on the flanks of <b>Mt. Charleston</b> (11,916 ft) in the Spring Mountains — highest point in the Las Vegas Range. These springs sustained <b>Tudinu</b> (Las Vegas Paiute) during summer when they retreated from the desert heat to the cool mountains. Endemic species: <b>Mt. Charleston blue butterfly</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSprings",
       "geometry": {"lat":41.38,"lng":-119.18},
       "style": {"radius":5,"color":"#00E5FF","fillColor":"#00E5FF","fillOpacity":0.8,"weight":1.5},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Soldier Meadows Hot Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 100-120°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Remote hot springs in the <b>Black Rock Desert</b> area. The <b>desert dace</b> — a Pleistocene relict fish — survives only in the thermal springs here. Soldier Meadows was an 1860s military station. The springs create an oasis supporting unexpected lush vegetation in one of the most barren landscapes in North America.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSinks",
       "geometry": {"lat":39.88,"lng":-118.65},
       "style": {"radius":8,"color":"#1565C0","fillColor":"#1565C0","fillOpacity":0.25,"weight":2,"dashArray":"4,4"},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#1565C0;margin:0 0 2px\">🌊 Humboldt Sink</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Terminal sink/lake · varies</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The terminal basin of the <b>Humboldt River</b> — Nevada's longest river dies here in a broad, marshy depression. During wet years it forms a shallow lake; in dry years it's a dusty playa. Connected to the <b>Carson Sink</b> to the south during extreme floods. The <b>Forty Mile Desert</b> between the Humboldt Sink and the Carson River was the deadliest stretch of the California Trail — scattered with the bones of oxen and abandoned wagons. During the Pleistocene, this was all underwater as part of <b>Lake Lahontan</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; Bureau of Reclamation; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSinks",
       "geometry": {"lat":39.55,"lng":-118.35},
       "style": {"radius":8,"color":"#1565C0","fillColor":"#1565C0","fillOpacity":0.25,"weight":2,"dashArray":"4,4"},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#1565C0;margin:0 0 2px\">🌊 Carson Sink / Stillwater Marsh</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Terminal sink/lake · ~34,000 acres</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Where the Carson River terminates in one of the most important wetland ecosystems in the Great Basin. <b>Stillwater Marsh</b> — now a National Wildlife Refuge — supported the <b>Toidokado</b> (Northern Paiute) and before them the <b>Lovelock Culture</b> for thousands of years. Cattail, tule, ducks, fish — the richest resources in the western Great Basin. The Stillwater Mummy and Spirit Cave mummy (10,600 years old) were found nearby. Today the marsh depends on agricultural return flows and Newlands Project water.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; Bureau of Reclamation; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSinks",
       "geometry": {"lat":40.85,"lng":-119.00},
       "style": {"radius":8,"color":"#1565C0","fillColor":"#1565C0","fillOpacity":0.25,"weight":2,"dashArray":"4,4"},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#1565C0;margin:0 0 2px\">🌊 Black Rock Desert</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Terminal sink/lake · ~1,000 sq mi</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">A vast, flat playa — the bed of the northern arm of <b>Lake Lahontan</b>. One of the flattest surfaces on Earth, used for land speed records (763 mph, 1997) and <b>Burning Man</b>. The <b>Quinn River</b> terminates here. During the Pleistocene, this was a deep arm of Lake Lahontan. Hot springs along its edges (Soldier Meadows, Black Rock Hot Springs) were used by Northern Paiute bands. The <b>Applegate Trail</b> cut across its edges.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; Bureau of Reclamation; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSinks",
       "geometry": {"lat":40.60,"lng":-119.75},
       "style": {"radius":8,"color":"#1565C0","fillColor":"#1565C0","fillOpacity":0.25,"weight":2,"dashArray":"4,4"},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#1565C0;margin:0 0 2px\">🌊 Smoke Creek Desert</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Terminal sink/lake · ~200 sq mi</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">A dry playa west of the Pyramid Lake basin, part of the <b>Kamodokado</b> (Northern Paiute) territory. Fed by Smoke Creek, which rises in the Skedaddle Mountains. During the Pleistocene, connected to Lake Lahontan. The <b>Smoke Creek Desert</b> was one of the most barren sections of the Nobles Trail (emigrant route).</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; Bureau of Reclamation; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSinks",
       "geometry": {"lat":38.68,"lng":-118.72},
       "style": {"radius":8,"color":"#1565C0","fillColor":"#1565C0","fillOpacity":0.25,"weight":2,"dashArray":"4,4"},
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#1565C0;margin:0 0 2px\">🌊 Walker Lake</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Terminal sink/lake · ~38,000 acres (declining)</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">A terminal lake that has been <b>shrinking dramatically</b> since upstream irrigation diversions began in the 1920s. The lake has dropped <b>over 150 feet</b> and salinity has increased to levels lethal to Lahontan cutthroat trout. Once a thriving fishery that sustained the <b>Agai Dicutta</b> Paiute for centuries. The Walker River Paiute Tribe has fought for decades to restore minimum inflows. One of the great environmental tragedies of the American West.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; Bureau of Reclamation; tribal sources</div></div>"
     },
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "nvSinks",
       "geometry": {"lat":40.02,"lng":-119.53},
       "style": {"radius":8,"color":"#1565C0","fillColor":"#1565C0","fillOpacity":0.25,"weight":2,"dashArray":"4,4"},
