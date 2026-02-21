@@ -1,0 +1,195 @@
+{
+  "source": "52-thunderbird-northeast.js",
+  "featureCount": 28,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "tbdRockArt",
+      "geometry": {"lat": 44.3833, "lng": -65.2167},
+      "style": {"radius": 8, "color": "#006D6F", "fillColor": "#006D6F", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#006D6F\">◆ Kejimkujik Lake Petroglyphs — Mi'kmaq</h3>\n    <p><b>Location:</b> Kejimkujik National Park & National Historic Site, SW Nova Scotia, Canada</p>\n    <p><b>Coordinates:</b> 44.3833°N, 65.2167°W</p>\n    <p><b>Culture:</b> Mi'kmaq (Kespukwitk district)</p>\n    <p><b>Rock art:</b> 500+ individual petroglyphs on reddish-brown slate outcrops along lakeshores. Four petroglyph sites around Kejimkujik Lake and George Lake. Fine-line engravings recording Mi'kmaq culture and lifeways over several centuries (primarily 17th–19th centuries).</p>\n    <p><b>Thunderbird:</b> A \"Micmac thunderbird\" was drawn by local postmaster George Creed (1887–1888) — an unusual portrayal of two triangles joined at their apex forming the body. Long neck, parallel horizontal lines, no arms or feet. 9.5 cm (3¾ inches). Robertson (1973) identifies it as the supernatural being \"Kaktoogwak\" or \"Thunder.\"</p>\n    <p><b>Serpent association:</b> 33 snake and snake-like images plus 2 figures of Jipijka'm, a horned serpent said to live underwater. The thunderbird glyph was carved as protection against these feared underworld spirits.</p>\n    <p><b>First recorded:</b> 1873 by Joseph More; detailed recording by George Creed 1887–1888. Garrick Mallery of the Smithsonian published some of Creed's work in 1893.</p>\n    <p><b>Status:</b> Protected within National Park & National Historic Site. Guided tours available July–August (walking & canoe). Petroglyph areas require advance booking. Canada's only dual-designated National Park/National Historic Site.</p>\n    <p><b>Source:</b> Lenik 2012: 165–166; Robertson 1973; Mallery 1893:487</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdRockArt",
+      "geometry": {"lat": 44.6206, "lng": -78.0461},
+      "style": {"radius": 8, "color": "#006D6F", "fillColor": "#006D6F", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#006D6F\">◆ Peterborough Petroglyphs — Kinoomaagewaabkong</h3>\n    <p><b>Location:</b> Petroglyphs Provincial Park, 2249 Northeys Bay Rd, Woodview, Ontario, Canada</p>\n    <p><b>Coordinates:</b> 44.6206°N, 78.0461°W</p>\n    <p><b>Culture:</b> Algonkian-speaking peoples (900–1400 CE)</p>\n    <p><b>Known as:</b> Kinoomaagewaabkong — \"the rocks that teach\" (Ojibwe/Nishnaabe)</p>\n    <p><b>Rock art:</b> ~900–1,200 carvings on a white crystalline limestone (marble) outcrop — the largest known concentration of pre-contact rock carvings in Canada. Pecked with gneiss hammers into a rectangular area roughly 60m × 35m. Depicts humans, animals, birds, reptiles, snakes, boats, supernatural beings, and abstract designs.</p>\n    <p><b>Thunderbirds:</b> 6 thunderbird glyphs. Three are simple, legless images with outstretched wings. Three appear as human-like figures with wings (Vastokas & Vastokas 1973:93). The juxtaposition of thunderbird and serpent images suggests the spiritual battle between sky and underworld.</p>\n    <p><b>Serpent association:</b> 29 serpent glyphs including one Great Horned Serpent and four horned snakes. These serpentine creatures appear to emerge from crevices in the limestone — suggesting they came from the underworld via an underground stream once present beneath the rock.</p>\n    <p><b>Protected:</b> Enclosed in a protective building since 1984 (cost $800,000 CDN) to shield from acid rain, frost, algae, and vandalism. Day-use only, open May–October. Photography prohibited for cultural reasons.</p>\n    <p><b>Source:</b> Lenik 2012: 166; Vastokas & Vastokas 1973; 2004</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 42.905, "lng": -78.930},
+      "style": {"radius": 5, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Peace Bridge Site — Thunderbird Slate Bar</h3>\n    <p><b>Location:</b> Fort Erie, Ontario, Canada</p>\n    <p><b>Culture:</b> Late Woodland / early Historic Contact (late 1600s, radiocarbon dated)</p>\n    <p><b>Artifact:</b> A tabular fragment of black slate containing two incised thunderbird images. One is complete with outstretched drooping wings, a \"fan shaped tail,\" and a head turned to the side represented by two parallel lines. Below it is a second opposing thunderbird, upper half missing — visible is a forked tail and one downward-slanting wing.</p>\n    <p><b>Context:</b> Found in association with a cultural feature containing maize. The artifact represents one of the earliest directly-dated thunderbird images from an archaeological context in the Northeast.</p>\n    <p><b>Source:</b> Lenik 2012: 172–173; Cooper 2005:65; Wintemberg 1924</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdRockArt",
+      "geometry": {"lat": 39.920, "lng": -76.390},
+      "style": {"radius": 8, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.9, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Big Indian Rock — Safe Harbor Petroglyphs</h3>\n    <p><b>Location:</b> Susquehanna River below Safe Harbor Dam, Lancaster County, Pennsylvania</p>\n    <p><b>Coordinates:</b> ~39.920°N, 76.390°W</p>\n    <p><b>Culture:</b> Shenks Ferry / Algonkian peoples (~800–1,200 years old)</p>\n    <p><b>Thunderbirds:</b> 8 thunderbird images — the largest single-rock concentration of thunderbird petroglyphs in the Northeast. Depicted with heads turned to the side, wings extended, and legs spread apart. One thunderbird has power lines extending down from its wings. Another has a cupule just below its left wing.</p>\n    <p><b>Associated imagery:</b> Anthropomorphic figures (possibly depicting spiritual communication), bird tracks, animal tracks, and human figures. Paul Nevin (2010) speculates Big Indian Rock was a \"public place\" where people \"sent messages to the Creator.\"</p>\n    <p><b>Access:</b> By boat/kayak ONLY. Launch from Safe Harbor Park on Conestoga River. Guided tours available through Paul Nevin (safeharborpetroglyphs.com). Best viewed at sunrise/sunset when low sun angles reveal the pecked images.</p>\n    <p><b>Source:</b> Lenik 2012: 171–172; Nevin 2004:250; Cadzow 1934</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdRockArt",
+      "geometry": {"lat": 39.918, "lng": -76.388},
+      "style": {"radius": 7, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.9, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Little Indian Rock — Safe Harbor Petroglyphs</h3>\n    <p><b>Location:</b> Susquehanna River, just upstream from Big Indian Rock</p>\n    <p><b>Thunderbirds:</b> 7 thunderbird images on a rock containing 150+ total petroglyphs — one of the densest concentrations in the state. One thunderbird is associated with a pecked serpent that is 75 cm (2½ feet) long.</p>\n    <p><b>Bird tracks:</b> 58 bird tracks on Little Indian Rock alone (78 total at Safe Harbor). These may represent the thunderbird's footprints — a Dakota tradition in South Dakota describes a \"Thunder Bird's Track\" boulder.</p>\n    <p><b>Nevin's interpretation:</b> Little Indian Rock was \"more of a private place where people 'received messages from the Creator.'\"</p>\n    <p><b>Source:</b> Lenik 2012: 171–172; Nevin 2004:250</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdRockArt",
+      "geometry": {"lat": 39.919, "lng": -76.392},
+      "style": {"radius": 5, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Safe Harbor — Footprint, Circle & Eagle Rocks</h3>\n    <p><b>Location:</b> Additional rock outcrops in the Susquehanna River near Big & Little Indian Rock</p>\n    <p><b>Thunderbirds:</b> 6 additional thunderbird images: 1 on Footprint Rock, 1 on Circle Rock, 4 on Eagle Rock. 3 Eagle Rock thunderbirds are associated with a serpent that also measures 75 cm, along with a human figure and bird track.</p>\n    <p><b>Total at Safe Harbor:</b> 21 thunderbird images across 5 rock outcrops — the largest concentration of thunderbird glyphs on non-portable rock in the entire Northeast.</p>\n    <p><b>400+ petroglyphs</b> across 7 bedrock exposures in a half-mile stretch of river — the most outstanding accessible Native American rock art in the northeastern United States.</p>\n    <p><b>Source:</b> Lenik 2012: 171–172; Nevin 2004</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdLost",
+      "geometry": {"lat": 39.950, "lng": -76.420},
+      "style": {"radius": 7, "color": "#B22222", "fillColor": "#B22222", "fillOpacity": 0.6, "weight": 2, "dashArray": "5 5"},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">✖ Walnut Island Petroglyphs (SUBMERGED)</h3>\n    <p><b>Original location:</b> Susquehanna River near Washington Boro, Lancaster County, PA</p>\n    <p><b>Status:</b> SUBMERGED by Safe Harbor Dam (constructed early 1930s). Now impounded below water.</p>\n    <p><b>Rock art:</b> 21 groups of petroglyphs totaling 200+ individual glyphs and cupules. Two thunderbird images with outstretched drooping wings, a spiral, and cup marks were pecked into the rock surface.</p>\n    <p><b>Salvage:</b> In 1931, archaeologist Donald A. Cadzow of the Pennsylvania Historical Commission removed many carvings by drilling them out with pneumatic drills — extracting individual or grouped figures for safekeeping.</p>\n    <p><b>Where to see them:</b> Salvaged petroglyphs are now at the State Museum of Pennsylvania in Harrisburg. Additional specimens at Blue Rock Heritage Center, Washington Boro, and petroglyph designs are incorporated into the mosaic floor of the Pennsylvania State Capitol Building.</p>\n    <p><b>Source:</b> Lenik 2012: 170; Cadzow 1934</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdLost",
+      "geometry": {"lat": 39.945, "lng": -76.415},
+      "style": {"radius": 5, "color": "#B22222", "fillColor": "#B22222", "fillOpacity": 0.5, "weight": 2, "dashArray": "5 5"},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">✖ Cresswell Rock & Bald Friar (SUBMERGED)</h3>\n    <p><b>Original location:</b> Susquehanna River near Washington Boro, PA and Havre de Grace, MD</p>\n    <p><b>Status:</b> SUBMERGED below the water impounded by hydroelectric power dams on the lower Susquehanna.</p>\n    <p><b>Context:</b> Cresswell Rock, Walnut Island, and the Bald Friar site were three of four major petroglyph concentrations on the Susquehanna. With Safe Harbor, they formed the densest concentration of rock art in the entire Northeast — more than 1,000 separate carvings across a 23-mile stretch.</p>\n    <p><b>Source:</b> Lenik 2012: 170</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdRockArt",
+      "geometry": {"lat": 41.840, "lng": -70.950},
+      "style": {"radius": 6, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Nemasket River Thunderbird Boulder</h3>\n    <p><b>Location:</b> Along the Nemasket River, Lakeville, Massachusetts</p>\n    <p><b>Coordinates:</b> ~41.840°N, 70.950°W</p>\n    <p><b>Discovered:</b> 2007 (Taylor 2008)</p>\n    <p><b>Culture:</b> Wampanoag / Historic Contact period</p>\n    <p><b>Description:</b> A carved thunderbird image on a large glacially deposited boulder. The figure was cut deeply into the east vertical face of the boulder, which faces the river. It is a stick-figure style image with its head turned to the right, wings widespread and down-turned near each end, a somewhat enlarged body, and widespread feet. An incised straight line is present below the glyph along with another line to the bird's right — possibly framing lines.</p>\n    <p><b>Interpretation:</b> Lenik suggests this figure was carved with metal tools and dates to the Historic Contact period. The thunderbird represents a shaman's attempt to communicate with spiritual beings and marks the location as a sacred place consistent with Algonkian ideology and spiritual flight concepts.</p>\n    <p><b>Source:</b> Lenik 2012: 169; Taylor 2008 69(2):65–66</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdRockArt",
+      "geometry": {"lat": 41.870, "lng": -70.920},
+      "style": {"radius": 6, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Assawompset Lake Thunderbird</h3>\n    <p><b>Location:</b> North shore of Assawompset Lake, Middleborough, Massachusetts</p>\n    <p><b>Culture:</b> Wampanoag</p>\n    <p><b>Description:</b> A large boulder partially covered by drifting sand, low-lying with a vertical face on its southerly side. A thunderbird figure is pecked into the vertical face of the rock. Its head is turned to its right, wings are widespread with a long rounded tail, and legs are not depicted. Lenik interprets the figure as a thunderbird in flight — consistent with Algonkian shamanistic concepts of spiritual flight.</p>\n    <p><b>Source:</b> Lenik 2012: 169</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 41.889, "lng": -70.906},
+      "style": {"radius": 5, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.6, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Middleborough — Petroglyph Cluster Context</h3>\n    <p><b>Location:</b> Three petroglyph sites recorded along the Nemasket River in Middleborough: Hand Rock, Chestnut Street, and Great Rock (Lenik 2002:114–120).</p>\n    <p><b>Thunderbird connection:</b> Along with the 2007 Nemasket River thunderbird boulder and the Assawompset Lake thunderbird, these sites form a cluster of rock art in the Wampanoag heartland — concentrated around the intersection of the Nemasket River and Assawompset Pond, one of the most important interior waterways in southeastern New England.</p>\n    <p><b>Source:</b> Lenik 2002; 2012:169</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 42.985, "lng": -71.465},
+      "style": {"radius": 6, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Smyth Site — Copper Thunderbird Gorgets</h3>\n    <p><b>Location:</b> Amoskeag Falls, Manchester, New Hampshire</p>\n    <p><b>Culture:</b> Historic Contact period (early 1600s – early 1700s)</p>\n    <p><b>Artifacts:</b> TWO copper thunderbird pendants/gorgets recovered from archaeological excavations.</p>\n    <p><b>Large gorget (Figure 22):</b> 25.4 cm (10 inches) with two suspension holes below the head. Triangular head, excurvate sides, prominent shoulders, wings extending downward, legs spread apart. Probably made from a copper kettle. First quarter of the 17th century.</p>\n    <p><b>Smaller pendant (Figure 23):</b> 8.7 cm (3.45 inches), found 1967–1969 from topsoil layer. Slim body, long narrow wings, short spread-apart legs forming an inverted V. Decorated with fine cross-hatched lines. Also Historic Contact period.</p>\n    <p><b>Ojibwa connection:</b> Among Algonkian tribes of the upper Great Lakes, copper was considered a sacred and powerful mineral. Lenik suggests these copper thunderbirds drew their meaning and power from this traditional belief.</p>\n    <p><b>Source:</b> Lenik 2012: 175–176; Bouck & Richardson 2007; Foster et al. 1981</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 41.020, "lng": -75.080},
+      "style": {"radius": 5, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Pahaquarra — Pewter Thunderbird</h3>\n    <p><b>Location:</b> Delaware Water Gap National Recreation Area, Warren County, New Jersey</p>\n    <p><b>Culture:</b> Lenape (Delaware) — Paleoindian through Historic Contact</p>\n    <p><b>Artifact:</b> A thunderbird figure cast from pewter, found by a private collector. Measures 8 cm (3⅛ inches) wing tip to wing tip and 6 cm (2⅜ inches) in height. Exact provenience not reported.</p>\n    <p><b>Site significance:</b> The Pahaquarra site has extensive evidence of Indian occupation from the Paleoindian period through the Historic Contact period, including pits, hearths, house patterns, burials, and European trade goods.</p>\n    <p><b>Source:</b> Lenik 2012: 177; Kraft 2001:380; 1976</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 41.220, "lng": -74.780},
+      "style": {"radius": 5, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Minisink Site — Shell Thunderbird Pendants</h3>\n    <p><b>Location:</b> Upper Delaware River Valley, Sussex County, New Jersey (National Historic Landmark)</p>\n    <p><b>Culture:</b> Lenape — Late Woodland / early Historic Contact</p>\n    <p><b>Artifacts:</b> Four shell pendants carved to represent birds, found in children's burials. In 1915, archaeologist Max Schrabisch reported \"two exquisitely carved ornaments of an immaculate white color representing hawks or eagles\" found with pieces of mica, zinc, a jasper scraper, and 12 glass beads. Lenik believes these represent thunderbirds.</p>\n    <p><b>Site:</b> The most intensively occupied site in the upper Delaware Valley during the Late Woodland and early Historic Contact periods. 300+ human burials excavated. 66 specimens of portable art recovered.</p>\n    <p><b>Source:</b> Lenik 2012: 178–179; Heye & Pepper 1915:37–40; Schrabisch 1915</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 44.913, "lng": -73.130},
+      "style": {"radius": 5, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Swanton — Thunderbird Steatite Pipe</h3>\n    <p><b>Location:</b> Swanton, Vermont (Early Woodland cemetery)</p>\n    <p><b>Age:</b> 2,000–3,000 years old — one of the oldest thunderbird representations in the Northeast</p>\n    <p><b>Artifact:</b> A blocked-end tubular pipe made from steatite containing an incised figure of a thunderbird, with three abstract symbols below the image. Found in an Early Woodland period cemetery with approximately 25 graves along with exotic artifacts and red ochre.</p>\n    <p><b>Source:</b> Lenik 2012: 174; Lenik 2002:111–112; Willoughby 1935</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 44.260, "lng": -68.520},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Pond Island — Thunderbird Slate Fragment</h3>\n    <p><b>Location:</b> Pond Island beach, Blue Hill Bay, Maine</p>\n    <p><b>Artifact:</b> A flat piece of slate with an incised thunderbird fragment, found in a shell midden. Triangular body outline with interior parallel lines joined by short oblique lines and chevrons. Three parallel lines form a V-shaped decoration in the chest area. Rock art researcher Mark Hedden (1991) concluded it was \"an unusually elaborate version of a triangular torso anthropomorph with birdlike attributes.\"</p>\n    <p><b>Connection:</b> The birdlike attributes are consistent with shamanistic beliefs in Algonkian ideology — representing shamans or thunderbirds as intermediaries between the spirit world and humans.</p>\n    <p><b>Source:</b> Lenik 2012: 173; Hedden 1991 31(1):42; Lenik 2002:71–72</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 41.850, "lng": -71.050},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Hammond Petroglyph Pendant</h3>\n    <p><b>Location:</b> Found along the Taunton River, southeastern Massachusetts</p>\n    <p><b>Culture:</b> Wampanoag</p>\n    <p><b>Artifact:</b> A pentagonal-shaped pendant of reddish brown slate, found by a relic collector. Single suspension hole near upper end. On the obverse: a vertically oriented fine-line incised thunderbird with head turned to the side, wings outstretched downward, and a forked tail. On the reverse: a triangular, somewhat ladder-like geometric motif.</p>\n    <p><b>Source:</b> Lenik 2012: 174; Taylor 2008 69(2):64–65</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 40.880, "lng": -72.375},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Sebonac Creek — Thunderbird Pottery Shard</h3>\n    <p><b>Location:</b> Sebonac Creek site, Long Island, New York</p>\n    <p><b>Culture:</b> Shinnecock (Late Woodland-Ceramic period)</p>\n    <p><b>Artifact:</b> Fragment of Indian pottery with an incised figure: triangular body, thin waist, broad shoulders, small oval-shaped head projection, and a curved tail. Mark E. Harrington (1977 [1924]) interpreted this as a thunderbird. It has both human and bird-like attributes — possibly representing a shaman with a special relationship to thunderbirds and the spiritual ability of out-of-body flight.</p>\n    <p><b>Source:</b> Lenik 2012: 178; Harrington 1977 [1924]:40</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 41.340, "lng": -70.760},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.7, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Menemsha Pond — Thunderbird Pottery Fragment</h3>\n    <p><b>Location:</b> East shore of Menemsha Pond, Martha's Vineyard, Massachusetts</p>\n    <p><b>Culture:</b> Wampanoag (800–1300 AD)</p>\n    <p><b>Artifact:</b> An incised anthropomorph/bird-like figure on a pottery fragment recovered from archaeological excavations (1912–13). Headless, lacking shoulders. Body and drooping arms represented by parallel lines. Five horizontal or ladder-like lines present within the lower interior body. Shell-tempered pottery with cord-wrapped stick impressed decorative pattern.</p>\n    <p><b>Source:</b> Lenik 2012: 178; Hedden 1991 31(1):44–45; Bouck & Richardson 2007 35:17</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 41.075, "lng": -72.335},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.6, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Shelter Island & Martha's Vineyard — Thunderbird on Hide & Daybook</h3>\n    <p><b>Martha's Vineyard:</b> A thunderbird figure was \"impressed\" into the animal hide cover of a daybook kept by Matthew Mayhew (1780–1785), a boat builder and descendant of missionaries to the Wampanoag. The image measures 32 cm (12½ inches) wing tip to wing tip. Now at Martha's Vineyard Museum.</p>\n    <p><b>Shelter Island:</b> Sylvester Manor, a 17th-century Dutch provisioning plantation (est. 1652). Nine seasons of excavation (1998–2006) recovered numerous Native American artifacts from this multi-cultural site where Dutch, English, Native Americans, and enslaved Africans lived together.</p>\n    <p><b>Source:</b> Lenik 2012: 180; Bouck & Richardson 2007 35:11–19; Gary 2007</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 41.000, "lng": -75.300},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.6, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Delaware Bay — Thunderbird War Club (now in Sweden)</h3>\n    <p><b>Origin:</b> New Sweden Colony, Delaware Bay (1638–1655)</p>\n    <p><b>Culture:</b> Lenape and/or Susquehannock</p>\n    <p><b>Artifact:</b> A ball-headed war club with brass or copper wedges inserted into the wood forming a thunderbird image, a rhomboid figure, and parallel zig-zag rows. Now in the collection of Skokloster Castle near Uppsala, Sweden, where it was brought from the New Sweden Colony.</p>\n    <p><b>Marker placed at:</b> approximate origin area (upper Delaware Valley)</p>\n    <p><b>Source:</b> Lenik 2012: 177; Kraft 1995 50:1–17</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 42.745, "lng": -73.680},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.6, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Lansingburgh — Cast Lead Thunderbird</h3>\n    <p><b>Location:</b> Lansingburgh, New York (archaeological excavation of an Indian site)</p>\n    <p><b>Artifact:</b> A \"lead figure of a swallow-tailed bird or thunderbird,\" described as \"tiny\" and measuring under one inch. Broken specimen — head missing, one wing and legs spread apart are extant. Found in 1894.</p>\n    <p><b>Source:</b> Lenik 2012: 177–178; Dunn 2000:120</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 42.750, "lng": -77.170},
+      "style": {"radius": 4, "color": "#9370DB", "fillColor": "#9370DB", "fillOpacity": 0.6, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Rochester Junction — Seneca Shell Thunderbird</h3>\n    <p><b>Location:</b> Rochester Junction site, upstate New York</p>\n    <p><b>Culture:</b> Seneca Iroquois (c. 1675–1687)</p>\n    <p><b>Artifact:</b> A shell pendant representing a thunderbird. Sculpted figure with head facing forward, eyes indicated by two small circular depressions, wings at rest along its body, and legs spread apart. Attributed to the Seneca Iroquois.</p>\n    <p><b>Now at:</b> Rochester Museum and Science Center</p>\n    <p><b>Source:</b> Lenik 2012: 179; Hayes 1988:60–61</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdMuseums",
+      "geometry": {"lat": 40.264, "lng": -76.886},
+      "style": {"radius": 5, "color": "#708090", "fillColor": "#708090", "fillOpacity": 0.5, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">🏛️ State Museum of Pennsylvania — Salvaged Petroglyphs</h3>\n    <p><b>Location:</b> 300 North St, Harrisburg, PA</p>\n    <p><b>Collection:</b> Petroglyphs removed from Walnut Island and Cresswell Rock before Safe Harbor Dam construction (1931). Includes thunderbird images, spirals, cupules, animal and human figures. Casts of additional petroglyphs on display.</p>\n    <p><b>Also:</b> Seven petroglyph designs from Safe Harbor sites are incorporated into the mosaic floor of the Pennsylvania State Capitol Building.</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdMuseums",
+      "geometry": {"lat": 39.983, "lng": -76.410},
+      "style": {"radius": 4, "color": "#708090", "fillColor": "#708090", "fillOpacity": 0.5, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">🏛️ Blue Rock Heritage Center</h3>\n    <p><b>Location:</b> Washington Boro, Lancaster County, PA</p>\n    <p><b>Collection:</b> Three petroglyphs (containing four images) salvaged from Walnut Island before dam construction. On loan from the Pennsylvania Historical and Museum Commission.</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 42.350, "lng": -73.500},
+      "style": {"radius": 4, "color": "#DC143C", "fillColor": "#DC143C", "fillOpacity": 0.5, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">🎨 Mohican Chief Etowaukum — Thunderbird Tattoos (1710)</h3>\n    <p><b>Context:</b> Upper Hudson River Valley (Mohican territory)</p>\n    <p><b>Documentation:</b> A 1710 portrait by Jan Verelst shows Mohican chief Etowaukum with four thunderbird tattoos on his face. According to ethnohistoric accounts, Iroquois and Mohican Indians in the upper Hudson River Valley of New York and New Jersey adorned their bodies with facial tattoos (Heckewelder 1881:206; Van der Donck 1968:39).</p>\n    <p><b>Significance:</b> Tattooing of the body conveyed visible information about the person and their beliefs. Thunderbird tattoos likely indicated warrior status or spiritual connection.</p>\n    <p><b>Source:</b> Lenik 2012: 180; Brasser 1978:202</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tbdArtifacts",
+      "geometry": {"lat": 40.050, "lng": -75.300},
+      "style": {"radius": 4, "color": "#DC143C", "fillColor": "#DC143C", "fillOpacity": 0.5, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">🎨 Lenape Chief Lapawinsoe — Thunderbird & Serpent Tattoos (1735)</h3>\n    <p><b>Context:</b> Delaware River Valley (Lenape territory)</p>\n    <p><b>Documentation:</b> A 1735 portrait by Gustavus Hesselius shows Lenape elder Lapawinsoe with two thunderbirds and a snake or serpent tattooed on his forehead. This directly reflects the thunderbird-serpent cosmological duality — the sky guardian and the underworld creature together on the forehead of a spiritual leader.</p>\n    <p><b>Significance:</b> The thunderbird was viewed as \"an active and swift-footed warrior\" (Schoolcraft 1851 I:402). Tattooing conveyed power and spiritual authority.</p>\n    <p><b>Source:</b> Lenik 2012: 180</p>\n  </div>"
+    }
+  ]
+}

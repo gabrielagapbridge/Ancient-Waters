@@ -1,0 +1,206 @@
+{
+  "source": "60-inland-nw-expansion-2.js",
+  "featureCount": 25,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "plateauArchSites",
+      "geometry": {"lat": 48.70, "lng": -116.32},
+      "style": {"radius": 6, "color": "#2C3E50", "fillColor": "#2C3E50", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#2C3E50\">\ud83e\udd8c Kootenai Tribe of Idaho \u2014 Ktunaxa (\"Those Who Guard the Land\")</h3>\n    <p><b>Self-name:</b> \u0294aq\u0313anqmi (Idaho Ksanka). Part of the broader <b>Ktunaxa Nation</b> \u2014 seven bands spanning Idaho, Montana, Washington, British Columbia, and Alberta.</p>\n    <p><b>Language:</b> Kutenai \u2014 a <b>language isolate</b>, unrelated to any other known language in the world. It has a distinctly musical quality.</p>\n    <p><b>Creation:</b> Oral history says they were created by <b>Kwi\u01c2qa Nupika</b> (Quilxka Nupita), the Creator-Spirit, with a sacred duty to safeguard the land forever.</p>\n    <p><b>Territory:</b> Centered on the Kootenai River from Idaho through Montana to the falls in Montana. Broad-spectrum hunter-gatherers \u2014 white-tailed deer, elk, caribou, bear, bull trout, whitefish, camas, bitterroot, huckleberries, serviceberries. Occasional buffalo-hunting trips to Montana and salmon harvest at Kettle Falls on the Columbia.</p>\n    <p><b>Sturgeon-Nose Canoe:</b> Like the Kalispel canoe but with a sharper point \u2014 shaped like the nose of a sturgeon. Unique to this region.</p>\n    <p><b>Non-Treaty Tribe:</b> In 1855, Governor Stevens wanted to place them on a shared Montana reservation. The Idaho Kootenai <b>never signed the treaty</b> \u2014 \"none from our band went over to sign it. We never left but stayed in our homeland here.\"</p>\n    <p><b>Sun Worship:</b> The Kootenai worshipped the sun and believed in reincarnation. They believed the dead resided in the sun and would one day return to the shores of Lake Pend Oreille.</p>\n    <p><b>Declaration of War (1974):</b> When the tribe numbered only 67 people, they formally <b>declared war on the United States</b> on September 20, 1974 \u2014 a peaceful act of desperation seeking federal recognition and a land base. It worked: they were deeded 12.5 acres. Since then they've expanded and built the Kootenai River Inn Casino.</p>\n    <p><b>Sturgeon Recovery:</b> In 1991, the tribe built the first sturgeon hatchery in Indian Country, leading a groundbreaking effort to save the endangered Kootenai River white sturgeon \u2014 a species central to Ktunaxa identity.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 450}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "plateauArchSites",
+      "geometry": {"lat": 48.45, "lng": -115.75},
+      "style": {"radius": 5, "color": "#DC143C", "fillColor": "#DC143C", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#DC143C\">\u26e9\ufe0f Kootenai Falls \u2014 Sacred Site of the Ktunaxa</h3>\n    <p><b>Location:</b> Kootenai River, ~20 miles east of Bonners Ferry, near Troy, Montana</p>\n    <p>One of the <b>largest undammed waterfalls in the Northwest</b>. Sacred to the Kootenai for millennia \u2014 a place of prayer, ceremony, and spiritual power. Dance ceremonies on the shores of Lake Pend Oreille paid homage to the sun in accordance with the belief that the dead resided there.</p>\n    <p>The Kootenai's sacred covenant with Kwi\u01c2qa Nupika is tied to this place \u2014 they were placed on earth to be guardians of the land forever.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "plateauArchSites",
+      "geometry": {"lat": 48.70, "lng": -116.33},
+      "style": {"radius": 3, "color": "#C0392B", "fillColor": "#C0392B", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#C0392B\">\u26ea St. Michael's Mission \u2014 Kootenai</h3>\n    <p><b>Location:</b> Bonners Ferry, Idaho</p>\n    <p>One of several island encampment sites used by the Kootenai. Jesuit missionaries from DeSmet visited yearly. After allotment-era losses, the mission grounds became one of the few remaining Kootenai spaces. Chief Blind established a village three miles below Bonners Ferry on the Kootenai River. When he passed in 1869, his son Abraham moved the village \u2014 following the Kootenai custom of relocating when a chief dies.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "palouseTerr",
+      "geometry": {"lat": 46.66, "lng": -118.23},
+      "style": {"radius": 7, "color": "#D35400", "fillColor": "#DC143C", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#DC143C\">\ud83c\udf0a Palouse Falls \u2014 Aputapat (\"Falling Water\")</h3>\n    <p><b>Location:</b> Palouse Falls State Park Heritage Site, Franklin County, WA \u2014 198-foot waterfall</p>\n    <p><b>Sacred Site:</b> The Palouse (Pal\u00fa\u0161pam \u2014 \"People of Pal\u00fas\") considered the falls a sacred place possessing <b>healing powers</b>. It was a community gathering place for ceremonies and rituals. They are also known as Naha'u'umpu'u \u2014 \"People of the River.\"</p>\n    <p><b>Creation Story \u2014 The Great Beaver:</b> During the time of the Animal People, Beaver lived peacefully at his lodge near Rock Lake. The five Wolf Brothers killed him with spears, but not before an epic battle that shaped the entire Palouse landscape. Beaver was mortally wounded at the falls. In his death agony, he thrashed and flailed, gouging the rocks with his mighty claws and teeth, carving the sheer cliffs that surround the falls.</p>\n    <p>Beaver died at the Snake River confluence, where his giant <b>heart transformed to stone</b> \u2014 the large rock on the west side of the Palouse River still visible today. The Palus are said to have \"sprung from his heart.\"</p>\n    <p><b>Geology:</b> Created ~13,000 years ago by the catastrophic Missoula Floods \u2014 ice-dammed glacial Lake Missoula burst repeatedly, sending walls of water across eastern Washington. The floods overtopped the ancient Palouse River channel, diverting it and carving the 200-foot canyon through columnar basalt. One of the few remaining active waterfalls from this massive flood path.</p>\n    <p><b>Palouse Village:</b> The tribe's largest and oldest village (Pal\u00fas) stood near the confluence of the Palouse and Snake Rivers. Lewis and Clark noted the village in 1805. The Palouse were renowned horsemen who developed the spotted <b>Appaloosa</b> horse breed.</p>\n    <p><b>Today:</b> Washington's official state waterfall (designated 2014, championed by Washtucna elementary school students). 10,000+ years of archaeological evidence.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 450}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "palouseTerr",
+      "geometry": {"lat": 46.59, "lng": -118.22},
+      "style": {"radius": 4, "color": "#D35400", "fillColor": "#D35400", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#D35400\">\ud83c\udfd8\ufe0f Pal\u00fas Village \u2014 Confluence of Snake & Palouse Rivers</h3>\n    <p><b>Location:</b> Near Lyons Ferry State Park, Franklin County, WA</p>\n    <p>The Palouse tribe's largest and oldest village, noted by Lewis and Clark in 1805. Neighboring people called them <b>Pal\u00fa\u0161pam</b> \u2014 \"People of Pal\u00fas.\" The Sahaptin-speaking Palouse were master horsemen whose spotted horses became the Appaloosa breed.</p>\n    <p>Human remains from the village, disturbed by later construction, were reburied on a nearby hillside beneath a marker reading \"The last resting place of the Palouse Indians.\"</p>\n    <p>Local tribes ceded ownership under duress in the Yakima Treaty of Camp Stevens (1855), retaining rights to harvest at \"usual and accustomed places.\"</p>\n  </div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "plateauArchSites",
+      "geometry": {"lat": 46.60, "lng": -118.19},
+      "style": {"radius": 6, "color": "#8E44AD", "fillColor": "#FFD700", "fillOpacity": 0.9, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:600px;overflow-y:auto;\">\n    <h3 style=\"color:#8E44AD\">\u2b50 Marmes Rockshelter \u2014 11,000+ Years (INUNDATED 1969)</h3>\n    <p><b>Location:</b> Palouse River Canyon, near Lyons Ferry, Franklin County, WA</p>\n    <p><b>Discovery:</b> Rancher John McGregor showed WSU anthropologist Richard Daugherty the site in 1952. Excavation began in 1962 under Daugherty and geologist Roald Fryxell.</p>\n    <p><b>Finds:</b> Thousands of Stone Age artifacts \u2014 the oldest human remains in Washington State, radiocarbon-dated to <b>over 11,000 years before present</b>. At the time, the oldest in North America. The alcove was 40 feet wide and 25 feet deep. Continuous habitation for ~8,000 years documented in stratified deposits.</p>\n    <p><b>Mortuary practices</b> of early Plateau inhabitants confirmed from at least 12,000 years ago \u2014 ceremonial burial pits, bone tools, animal remains.</p>\n    <p><b>The Race Against the Dam:</b> Lower Monumental Dam construction was already underway. In 1965, rancher Marmes bulldozed a trench that exposed human and elk bones dated to 10,000 years. Senator Magnuson secured a presidential executive order from LBJ \u2014 <b>$1.5 million</b> for a protective cofferdam.</p>\n    <p><b>The Failure:</b> In February 1969, the reservoir filled. Water seeped through gravel beneath the cofferdam, flooding the site under <b>40 feet of water</b>. Scientists frantically covered what they could with plastic and sand, then watched helplessly.</p>\n    <p><b>Legacy:</b> The loss galvanized public opinion, leading to stronger archaeological protection laws. National Historic Landmark (1966) \u2014 one of the first in Washington. Today only the crumbling top of the cofferdam is visible from Lyons Ferry State Park. If the dams are ever breached, archaeologists plan to return.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 450}
+    },
+    {
+      "type": "polyline",
+      "layer": "nezperceTerr",
+      "geometry": [[46.73, -115.55], [46.63, -115.45], [46.55, -115.35], [46.45, -115.32], [46.42, -115.31], [46.38, -115.28], [46.37, -115.93]],
+      "style": {"color": "#8B4513", "weight": 3, "opacity": 0.7, "dashArray": "10,5"},
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#8B4513\">\ud83d\udee4\ufe0f K'useyneiskit \u2014 The Lolo Trail (National Historic Landmark)</h3>\n    <p>The Nez Perce name for this ancient ridgeline route across the Bitterroot Mountains is <b>K'useyneiskit</b>. Used for thousands of years \u2014 Nez Perce traveling east to the Great Plains for buffalo, Flathead and Salish peoples trading west.</p>\n    <p>Lewis and Clark crossed it in September 1805 (nearly starving) and June 1806 (guided by Nez Perce). The 1877 Nez Perce under Chief Joseph fled along it. The CCC built the Lolo Motorway along the corridor in the 1930s.</p>\n    <p>Contains multiple sacred Nez Perce sites: Smoking Place, Indian Post Office, Spirit Revival Ridge, Sinque Hole.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nezperceTerr",
+      "geometry": {"lat": 46.55, "lng": -115.35},
+      "style": {"radius": 4, "color": "#DC143C", "fillColor": "#DC143C", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">\ud83d\uddff Indian Post Office \u2014 Nez Perce Cairn Site</h3>\n    <p><b>Location:</b> Highest point on the Lolo Trail, Idaho</p>\n    <p>A series of stone cairns traditionally used by the Nez Perce for communication and ceremonial purposes. The \"post office\" name reflects the trail-marker function \u2014 travelers left and received messages through cairn arrangements. Incredible 360\u00b0 views of the Bitterroot Mountains.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nezperceTerr",
+      "geometry": {"lat": 46.45, "lng": -115.32},
+      "style": {"radius": 5, "color": "#DC143C", "fillColor": "#DC143C", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#DC143C\">\ud83c\udf3f The Smoking Place \u2014 Sacred Nez Perce Site</h3>\n    <p><b>Location:</b> Lolo Trail, Nez Perce-Clearwater National Forest, Idaho</p>\n    <p>A sacred Nimiipuu site with <b>ceremonial stone cairns</b> \u2014 a conic mound of stones 6-8 feet high with a 15-foot pine pole erected on top. Used for prayer and ceremony for centuries before European contact.</p>\n    <p><b>Lewis & Clark (June 1806):</b> \"We halted by the request of the [Nez Perce] Guides a fiew minits on an ellevated point and Smoked a pipe... the nativs have raised a conic mound of Stons of 6 or 8 feet high and erected a pine pole of 15 feet long. From this place we had an extencive view of these Stupendeous Mountains principally Covered with Snow\" \u2014 Meriwether Lewis</p>\n    <p>Please respect this sacred site. Protected by federal law.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nezperceTerr",
+      "geometry": {"lat": 46.42, "lng": -115.31},
+      "style": {"radius": 3, "color": "#8B4513", "fillColor": "#8B4513", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\ud83d\udd73\ufe0f Sinque Hole \u2014 Lewis & Clark Camp (Sept 17, 1805)</h3>\n    <p><b>Location:</b> Grave Creek meadow, Lolo Trail, Idaho</p>\n    <p>\"Camped at a Small branch on the mountain near a round deep Sinque hole full of water\" \u2014 Private Whitehouse. A waterlogged meadow used as a camping area by Nez Perce, trappers, road builders, and hunters for centuries.</p>\n    <p>Contains the grave of a teenage Nez Perce boy who died here around 1895.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nezperceTerr",
+      "geometry": {"lat": 46.38, "lng": -115.28},
+      "style": {"radius": 4, "color": "#DC143C", "fillColor": "#F39C12", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#F39C12\">\ud83c\udf04 Spirit Revival Ridge \u2014 \"Inexpressible Joy\"</h3>\n    <p><b>Location:</b> Lolo Trail near Sherman Peak, Idaho</p>\n    <p>The ridge where the starving Corps of Discovery first glimpsed the western plains and Camas Prairie below. Lewis wrote: \"the ridge terminated and we to our inexpressable joy discovered a large tract of Prairie... the appearance of this country, our only hope for subsistance greately revived the sperits of the party.\"</p>\n    <p>After days of near-starvation crossing the Bitterroots, this sight meant survival \u2014 the Nez Perce villages and food were below.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nezperceTerr",
+      "geometry": {"lat": 46.63, "lng": -115.55},
+      "style": {"radius": 4, "color": "#8B4513", "fillColor": "#8B4513", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u26f0\ufe0f Lolo Pass \u2014 Gateway to the Bitterroots</h3>\n    <p><b>Location:</b> Idaho-Montana border (5,235 ft elevation)</p>\n    <p>The Nez Perce used this pass for thousands of years to cross to Montana buffalo grounds. Lewis and Clark crossed here in both directions. In 1877, the fleeing Nez Perce crossed under pursuit by the U.S. Army. Today a visitor center tells the story.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 300}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "spokaneTerr",
+      "geometry": {"lat": 47.66, "lng": -117.41},
+      "style": {"radius": 3, "color": "#E74C3C", "fillColor": "#E74C3C", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#E74C3C\">\ud83c\udfe0 Spokan Garry's Camp \u2014 Spokane River Gorge</h3>\n    <p><b>Chief Spokan Garry</b> (~1811-1892), leader of the Middle Spokane, served as liaison between settlers and tribes. In his later years he lived in and near the Spokane River Gorge \u2014 the area now called Kendall Yards. Today the Spokane Tribe's Gathering at the Falls Powwow draws representatives from over 200 tribes annually.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "spokaneTerr",
+      "geometry": {"lat": 47.90, "lng": -117.80},
+      "style": {"radius": 3, "color": "#C0392B", "fillColor": "#C0392B", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#C0392B\">\u26ea Tshimikain Mission (1838) \u2014 Walker & Eells</h3>\n    <p><b>Location:</b> Chamokane Creek (Tshimikain), lower Spokane River basin</p>\n    <p>Protestant mission established 1838 by Elkanah Walker and Cushing Eells among the Spokane people \u2014 one of several missions across the Plateau. Chamokane Creek was an important Spokane fishing site. The creek later became contaminated by uranium mine effluent.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "plateauArchSites",
+      "geometry": {"lat": 47.57, "lng": -117.55},
+      "style": {"radius": 5, "color": "#555555", "fillColor": "#555555", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#555555\">\u2694\ufe0f Battle of Four Lakes / Spokane Plains (1858)</h3>\n    <p><b>Location:</b> Near present-day Cheney, WA (Four Lakes) and Spokane Plains</p>\n    <p>Colonel George Wright's campaign against the Spokane, Coeur d'Alene, and Palouse tribes. On September 1, 1858, Wright's forces defeated a coalition of ~500 warriors at Four Lakes using new long-range rifles. On September 5, another engagement at Spokane Plains.</p>\n    <p><b>Aftermath:</b> Wright captured 800-900 Palouse horses and <b>ordered them all slaughtered</b> at a place now called \"Horse Slaughter Camp\" near Liberty Lake \u2014 destroying the tribes' wealth and mobility. He then hanged Yakama Chief Qualchan and others without trial at Latah Creek.</p>\n    <p>These acts ended organized military resistance by Plateau tribes. The Spokane and Coeur d'Alene were forced onto reservations.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "palouseTerr",
+      "geometry": {"lat": 47.65, "lng": -117.10},
+      "style": {"radius": 4, "color": "#555555", "fillColor": "#8B0000", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">\ud83d\udc80 Horse Slaughter Camp (September 1858)</h3>\n    <p><b>Location:</b> Near Liberty Lake, WA</p>\n    <p>Colonel Wright ordered the slaughter of <b>800-900 captured Palouse horses</b> \u2014 the Palouse tribe's greatest wealth and pride. The Palouse had developed the Appaloosa breed over generations. Destroying these animals was a calculated act to break the tribes' power, mobility, and spirit.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "coeurTerr",
+      "geometry": {"lat": 47.35, "lng": -116.76},
+      "style": {"radius": 4, "color": "#1B4F72", "fillColor": "#1B4F72", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1B4F72\">\ud83c\udf32 Heyburn State Park \u2014 Idaho's Oldest (1908)</h3>\n    <p><b>Location:</b> Southern end of Lake Chatcolet / Lake Coeur d'Alene, Benewah County</p>\n    <p>Idaho's oldest state park (1908), on land that was part of the original Coeur d'Alene Reservation. The Schitsu'umsh gathered here for centuries \u2014 the lakes and rivers provided fish, the prairies provided camas. Today it sits at the ecological and cultural heart of Coeur d'Alene country.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "coeurTerr",
+      "geometry": {"lat": 47.32, "lng": -116.57},
+      "style": {"radius": 3, "color": "#1B4F72", "fillColor": "#2980B9", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2980B9\">\ud83c\udf0a St. Joe River \u2014 First Mission Site (1842)</h3>\n    <p>Father De Smet's first mission to the Coeur d'Alene was built along the St. Joe River in 1842 \u2014 but abandoned due to seasonal flooding. The St. Joe was a primary waterway for the Schitsu'umsh, supporting villages, fishing, and transportation by canoe.</p>\n    <p>The Supreme Court's 2001 ruling confirmed Coeur d'Alene tribal ownership of related St. Joe River waters.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "coeurTerr",
+      "geometry": {"lat": 47.52, "lng": -116.10},
+      "style": {"radius": 4, "color": "#555", "fillColor": "#8B0000", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#8B0000\">\u2620\ufe0f Silver Valley \u2014 Bunker Hill Superfund Site</h3>\n    <p><b>Location:</b> Coeur d'Alene River basin, Shoshone County, Idaho</p>\n    <p>Over 100 years of silver, lead, and zinc mining produced billions of dollars in minerals while dumping <b>72 million tons of mine waste</b> into the Coeur d'Alene watershed. A 1929 newspaper described a river trip: \"Up the River of Muck and into the Valley of Death.\"</p>\n    <p>Designated 1983 as the nation's <b>second-largest Superfund site</b>. In 1991, the Coeur d'Alene Tribe filed a landmark natural resource damage lawsuit \u2014 one of the largest in American history. The U.S. (1996) and Idaho (2011) joined. Settlements in 2008 and 2011 funded cleanup.</p>\n    <p>Tribal elder Henry SiJohn: \"If we control the lake, we can clean it up. We do what we do not just for the Coeur d'Alene Tribe, but for everybody.\"</p>\n  </div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "coeurTerr",
+      "geometry": {"lat": 47.40, "lng": -116.85},
+      "style": {"radius": 4, "color": "#555555", "fillColor": "#555555", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#555555\">\u2694\ufe0f Coeur d'Alene War / Skitswish War (1858)</h3>\n    <p><b>May-September 1858:</b> Also called the Spokane-Coeur d'Alene-Palouse War. Coeur d'Alene, Spokane, and Palouse warriors fought U.S. forces in response to settler encroachment and treaty violations. After initial victories, the tribes were defeated by Colonel Wright's superior weapons.</p>\n    <p>The discovery of silver in 1863 brought floods of miners and settlers, accelerating dispossession of Coeur d'Alene lands.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 340}
+    },
+    {
+      "type": "polyline",
+      "layer": "plateauArchSites",
+      "geometry": [[48.16, -116.55], [48.00, -116.20], [47.80, -115.80], [47.50, -115.30], [47.20, -114.50]],
+      "style": {"color": "#8B4513", "weight": 2, "opacity": 0.5, "dashArray": "6,4"},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\ud83e\udd2c Buffalo Trail \u2014 Idaho to Montana</h3>\n    <p>Ancient route used by Kalispel, Coeur d'Alene, Kootenai, and Spokane families for year-long buffalo-hunting expeditions to the Montana plains. The trail departed from Lake Pend Oreille area and crossed the Bitterroot Range. Young men made the journey as rites of passage into leadership. Families gathered at Denton Slough upon return.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "polyline",
+      "layer": "kalispelTerr",
+      "geometry": [[48.10, -116.55], [48.20, -117.10], [48.40, -117.25], [48.75, -117.35], [49.00, -117.55]],
+      "style": {"color": "#2980B9", "weight": 2, "opacity": 0.5, "dashArray": "6,4"},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2980B9\">\ud83c\udf0a Pend Oreille River \u2014 Ntxwe (\"The River\")</h3>\n    <p>The Kalispel name \"ntxwe\" symbolically reduces all other streams to inferior status. 200 miles binding together the entire Kalispel homeland from Lake Pend Oreille through NE Washington into British Columbia. The river provided fish, transportation, camas meadows in its floodplains, and the cultural identity of the \"People of the Oreille.\"</p>\n    <p>Today the river is controlled by multiple dams, but the Kalispel Tribe has set its own water quality standards under EPA authorization.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 350}
+    },
+    {
+      "type": "polyline",
+      "layer": "plateauArchSites",
+      "geometry": [[48.75, -116.32], [48.65, -116.10], [48.50, -115.90], [48.45, -115.75]],
+      "style": {"color": "#2980B9", "weight": 2, "opacity": 0.5, "dashArray": "6,4"},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2980B9\">\ud83c\udf0a Kootenai River \u2014 Lifeline of the Ktunaxa</h3>\n    <p>The Idaho section includes 66 river miles \u2014 47 miles of wide, slow meanders from Porthill to Bonners Ferry, then 19 canyon miles to Montana. The river sustained the Kootenai with bull trout, whitefish, white sturgeon, and burbot. Libby Dam (Montana) now controls flow, while the tribe fights to restore endangered sturgeon.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 340}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "palouseTerr",
+      "geometry": {"lat": 47.15, "lng": -117.65},
+      "style": {"radius": 3, "color": "#D35400", "fillColor": "#DC143C", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#D35400\">\ud83e\udda6 Rock Lake \u2014 Beaver's Lodge (Palouse Creation)</h3>\n    <p><b>Location:</b> Whitman County, WA</p>\n    <p>In the Palouse creation story, this is \"Hole-in-the-Ground\" where Beaver lived peacefully before the five Wolf Brothers attacked. The battle between Beaver and the Wolves created the rocky, undulating geography of the entire Palouse country. Rock Lake itself is the remains of Beaver's lodge.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 320}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "palouseTerr",
+      "geometry": {"lat": 46.40, "lng": -117.00},
+      "style": {"radius": 3, "color": "#D35400", "fillColor": "#D35400", "fillOpacity": 0.6, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#D35400\">\ud83d\udc34 Appaloosa Heritage \u2014 Palouse Horse Country</h3>\n    <p><b>Location:</b> Palouse Prairie region, SE Washington / N Idaho</p>\n    <p>The Palouse people were renowned horsemen who selectively bred the spotted <b>Appaloosa</b> \u2014 named after the \"Palouse River country.\" The breed was developed over generations for endurance, speed, and sure-footedness on the hilly Palouse terrain. Colonel Wright's 1858 slaughter of 800-900 Palouse horses was a direct assault on this breeding legacy.</p>\n  </div>",
+      "popupOptions": {"maxWidth": 340}
+    }
+  ]
+}

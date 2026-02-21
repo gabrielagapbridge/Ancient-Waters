@@ -1,0 +1,220 @@
+{
+  "source": "41-mohican-arch-sites.js",
+  "featureCount": 23,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "mohicanTerritory",
+      "geometry": [
+        [41.93, -74.10], [42.05, -74.20], [42.30, -74.35], [42.60, -74.30],
+        [42.85, -74.20], [43.10, -74.00], [43.40, -73.80], [43.80, -73.60],
+        [44.20, -73.40], [44.50, -73.30], [44.50, -73.10], [44.20, -72.90],
+        [43.80, -72.50], [43.40, -72.30], [43.10, -72.20], [42.85, -72.30],
+        [42.60, -72.40], [42.30, -72.50], [42.05, -72.80], [41.93, -73.00],
+        [41.80, -73.20], [41.70, -73.40], [41.60, -73.50], [41.50, -73.60],
+        [41.50, -73.80], [41.60, -73.95], [41.75, -74.05], [41.93, -74.10]
+      ],
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#8B4513",
+        "fillOpacity": 0.07,
+        "weight": 2,
+        "dashArray": "8,6",
+        "pane": "mohicanBackgroundPane",
+        "interactive": true
+      },
+      "popup": "<div class=\"popup-content\" style=\"min-width:280px;max-width:350px;\">\n  <h3 style=\"color:#8B4513;margin:0 0 4px 0;font-size:16px;\">Mohican (Stockbridge-Munsee)</h3>\n  <div style=\"color:#aaa;font-size:11px;margin-bottom:8px;\">\n    Muhheaconneok \u00b7 Eastern Algonquian \u00b7 ~1,500 enrolled\n  </div>\n  <div style=\"font-size:12px;line-height:1.6;\">\n    <p style=\"margin:4px 0;\"><b>Territory:</b> Hudson Valley (Kingston\u2013Lake Champlain), Berkshires, Housatonic Valley, east to CT River</p>\n    <p style=\"margin:4px 0;\"><b>Language:</b> Mohican (Eastern Algonquian)</p>\n    <p style=\"margin:4px 0;\"><b>Reservation:</b> Stockbridge-Munsee Community, Shawano County, Wisconsin</p>\n  </div>\n\n  <details style=\"margin-top:8px;\">\n    <summary style=\"cursor:pointer;color:#C19A6B;font-weight:bold;font-size:12px;\">\u25b8 Culture & Identity</summary>\n    <div style=\"font-size:11px;padding:6px 0 0 8px;line-height:1.5;\">\n      <b>Self-name:</b> Muhheaconneok \u2014 \"People of the Waters that Are Never Still.\" Named after the Muhheacannituck (Hudson River) which flows with the tide in both directions. In 1604, Sachem John Waunaucon Quinney recounted the nation numbered approximately 25,000 people. Subsistence centered on the Hudson's annual flooding (rich agricultural soils), spring fish runs (salmon, shad, sturgeon, herring), shellfish, wetland gathering, and controlled burning of forests near waterways to improve habitats. Seasonal rounds moved between river floodplain camps (spring/summer) and inland hunting grounds (fall/winter). Place names survive: Housatonic, Schaghticoke, Pontoosuc, Taconic.\n    </div>\n  </details>\n\n  <details style=\"margin-top:4px;\">\n    <summary style=\"cursor:pointer;color:#C19A6B;font-weight:bold;font-size:12px;\">\u25b8 History / Wars / Treaties</summary>\n    <div style=\"font-size:11px;padding:6px 0 0 8px;line-height:1.5;\">\n      <b>1609:</b> Henry Hudson received at Schodack Island. <b>1630s\u20131660s:</b> Beaver Wars devastated population; alliance with Dutch then English. <b>1736:</b> Stockbridge Mission established \u2014 Mohicans invited English missionaries, built meetinghouse as dual-governance space. <b>1775\u20131783:</b> Mohicans fought in Revolutionary War; Washington hosted ox roast to thank Mohican veterans. <b>1783\u20131830s:</b> Progressive dispossession from Stockbridge. <b>1830s\u20131856:</b> Forced removal westward \u2014 Oneida territory \u2192 Fox River, WI \u2192 Stockbridge, WI. Today: Stockbridge-Munsee Community maintains THPO with NE extension office at Williams College, Williamstown MA.\n    </div>\n  </details>\n\n  <details style=\"margin-top:4px;\">\n    <summary style=\"cursor:pointer;color:#C19A6B;font-weight:bold;font-size:12px;\">\u25b8 Archaeological Evidence</summary>\n    <div style=\"font-size:11px;padding:6px 0 0 8px;line-height:1.5;\">\n      12,000+ years in the Hudson Valley. Key sites: Papscanee Island/Goldkrest Site (Late Woodland village, corn production ~AD 1000); Schodack Island (\"Place of the Fire\" \u2014 principal chief's residence); Flint Mine Hill (largest flint quarry in NY, 10,000+ years of use); Stockbridge 1739 Meetinghouse (two Mohican homesites beneath); 1783 Ox Roast / King Solomon homesite (cultural layers 3 ft deep, predating 1700s); Stockbridge Bog (7,000+ years habitation, controlled burns); Columbia County McVaugh collection (9,000 years of projectile points).\n    </div>\n  </details>\n\n  <details style=\"margin-top:4px;\">\n    <summary style=\"cursor:pointer;color:#C19A6B;font-weight:bold;font-size:12px;\">\u25b8 Sources</summary>\n    <div style=\"font-size:10px;padding:6px 0 0 8px;color:#888;line-height:1.4;\">\n      Lavin et al. 1996, \"The Goldkrest Site\" (J. Middle Atlantic Archaeology 12); Huey 1996 (J. Middle Atlantic Archaeology 12); Parker 1924 (Flint Mine Hill excavation); Wheeler 2013 \"To Live Upon Hope\" (Cornell); Stockbridge-Munsee THPO (Bonney Hartley); NPS; NYSM; Upper Housatonic Valley NHA\n    </div>\n  </details>\n</div>",
+      "popupOptions": {"maxWidth": 350}
+    },
+    {
+      "type": "marker",
+      "layer": "mohicanTerritory",
+      "geometry": {"lat": 42.50, "lng": -73.40},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 13px Georgia,serif;color:#8B4513;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">M O H I C A N</div>",
+        "iconSize": [200, 30],
+        "iconAnchor": [100, 15],
+        "className": ""
+      },
+      "options": {"interactive": false}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.53, "lng": -73.73},
+      "style": {"radius": 8, "color": "#DAA520", "fillColor": "#DAA520", "fillOpacity": 0.7, "weight": 2.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DAA520\">\u2b22 Papscanee Island / Goldkrest Site (Nanosech)</h3>\n  <p><b>Location:</b> Hudson River, south of Albany, Rensselaer County, NY (Towns of East Greenbush & Schodack)</p>\n  <p><b>Date:</b> ~AD 1000 \u2014 Contact period (Late Woodland). Multi-component \u2014 earlier occupations present.</p>\n  <p><b>Culture:</b> Mohican (Muhheaconneok)</p>\n  <p><b>Indigenous name:</b> Nanosech \u2014 may refer to warm-season fishing at this location</p>\n  <p><b>Discovery & excavation:</b> Excavated by archaeologist Lucianne Lavin. Goldkrest Site revealed forest clearing through controlled burning dating to ~AD 1000.</p>\n  <p><b>Key findings:</b> Radiocarbon-dated burned soil patches with charcoal indicate the transition from seasonal use to permanent agricultural settlement. By the 1400s, a small Mohican settlement was established with ample evidence of corn production. The site shows the island was used as the Hudson River floodplain stabilized and became suitable for gardening.</p>\n  <p><b>Significance:</b> Considered perhaps the best-preserved known Late Woodland Native village site in New York State. Nominated for the National Register of Historic Places.</p>\n  <p><b>Current status:</b> Threatened by installation of the National Grid E-37 Pipeline.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Lavin et al. 1996, \"The Goldkrest Site\" (J. Middle Atlantic Archaeology 12:113-129); Morton Archaeological Research Services; Curtin Archaeological Consulting\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.50, "lng": -73.75},
+      "style": {"radius": 8, "color": "#DEB887", "fillColor": "#DEB887", "fillOpacity": 0.7, "weight": 2.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DEB887\">\u25cf Schodack Island \u2014 \"Place of the Fire\"</h3>\n  <p><b>Location:</b> East side of Hudson River below Albany, NY</p>\n  <p><b>Date:</b> Multi-period \u2014 primary use during Late Woodland and Contact periods</p>\n  <p><b>Culture:</b> Mohican \u2014 major center of political and cultural life</p>\n  <p><b>Indigenous name:</b> Schodack \u2014 Mohican for \"Place of the Fire\" (suffix \"-ik\" means \"place of\")</p>\n  <p><b>Significance:</b> Residence of the principal Mohican chief. Part of a cluster of islands that served as a hub for the Mohican confederacy. Possibly where Henry Hudson was first formally received in 1609.</p>\n  <p><b>Current status:</b> Schodack Island State Park \u2014 publicly accessible.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Huey 1996, \"A Short History of Cuyper Island\" (J. Middle Atlantic Archaeology 12:131-147); N'DahAhki/Mohicans\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.35, "lng": -73.80},
+      "style": {"radius": 10, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.9, "weight": 3},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#FFD700\">\u2605 Flint Mine Hill Archaeological District</h3>\n  <p><b>Location:</b> Town of Coxsackie, Greene County, NY</p>\n  <p><b>Date:</b> 10,000+ years of continuous use \u2014 earliest Paleoindians through Mohican era</p>\n  <p><b>Culture:</b> Multi-cultural \u2014 used by successive peoples across all cultural periods</p>\n  <p><b>Discovery & excavation:</b> First excavated in 1924 by Dr. Arthur Parker, renowned NY archaeologist. Thousands of flint points catalogued.</p>\n  <p><b>Key findings:</b> Largest and most important flint quarry site in all of New York State. One of the few major sources of flint (Deepkill and Normanskill Shale and Chert) in the Northeast, located deep in Mohican territory. Points found at various levels of refinement demonstrate technological development over thousands of years. At one Middle Archaic site (6,000\u20138,000 BP), three adjacent artifact depositions may indicate three households or band groups.</p>\n  <p><b>Significance:</b> 10,000+ years of continuous use \u2014 one of the longest-utilized resource sites in the eastern US. A shared resource in the heart of Mohican territory.</p>\n  <p><b>Current status:</b> <span style=\"color:#2E8B57;font-weight:bold;\">PRESERVED:</span> Purchased and donated by Flint Mine Solar, LLC to The Archaeological Conservancy in 2021 for ongoing preservation.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Parker 1924 (excavation records); The Archaeological Conservancy; Clio historical marker database\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHistoric",
+      "geometry": {"lat": 42.2840, "lng": -73.3200},
+      "style": {"radius": 7, "color": "#8A2BE2", "fillColor": "#8A2BE2", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#8A2BE2\">\u25c8 Stockbridge 1739 Meetinghouse Site (Wnahktukook)</h3>\n  <p><b>Location:</b> Stockbridge, MA \u2014 in the area known as Wnahktukook, \"the Great Meadow\"</p>\n  <p><b>Date:</b> Meetinghouse 1736\u20131739; archaeological layers well before European contact</p>\n  <p><b>Culture:</b> Mohican \u2014 dual governance space between Mohican sachems and English settlers</p>\n  <p><b>Discovery & excavation:</b> Active excavation summer 2021, led by Tribal Historic Preservation Manager Bonney Hartley (Stockbridge-Munsee). Uses innovative non-ground-disturbing technology including ground-penetrating radar and magnetometer.</p>\n  <p><b>Key findings:</b> Dig found <b>two Mohican homesites in two distinct layers beneath the meetinghouse</b>, dating well before European contact. The project aims to uncover the original building footprint and develop interpretive materials. Political petitions from tribal leaders here have been digitized by Harvard University.</p>\n  <p><b>Significance:</b> Built through Mohican initiative \u2014 not imposed by colonists. A site of agency where Mohican leaders negotiated their future. The pre-contact layers prove long Mohican presence before the mission period.</p>\n  <p><b>Current status:</b> Active archaeological research by THPO. Funded by $40,000 NPS Under-Represented Communities grant (Historic Preservation Fund).</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> NPS \"Innovative Archaeology Project Focuses on Mohican Tribal Heritage\"; New England Public Media 2021; BTW Berkshires; Stockbridge-Munsee THPO\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHistoric",
+      "geometry": {"lat": 42.2870, "lng": -73.3150},
+      "style": {"radius": 7, "color": "#8A2BE2", "fillColor": "#8A2BE2", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#8A2BE2\">\u25c8 1783 Ox Roast / King Solomon Homesite</h3>\n  <p><b>Location:</b> Along the Housatonic River, Stockbridge, MA</p>\n  <p><b>Date:</b> 1783 feast event; cultural layers predating 1700s, three feet below surface</p>\n  <p><b>Culture:</b> Mohican \u2014 long-term residential presence</p>\n  <p><b>Discovery & excavation:</b> August 2021, led by Bonney Hartley with Morton Archaeological Research Services. Funded by Town of Stockbridge through the Massachusetts Community Preservation Act.</p>\n  <p><b>Key findings:</b> Site extends far deeper than the 1783 event \u2014 two distinct habitation layers from different time periods discovered, one below the other. Artifacts predate the 1700s. Evidence of long-term Mohican residential presence, contradicting narratives that minimized their settlement here.</p>\n  <p><b>Significance:</b> In 1783, George Washington sponsored a feast here to thank Mohican veterans for service in the Revolutionary War. Washington wrote that the Mohicans \"fought and bled by our side.\" But the archaeology proves people lived here long before that \u2014 the feast was just one moment in a much longer story.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> BTW Berkshires; Housatonic Heritage / Native American Heritage Trail; Morton Archaeological Research Services\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.3100, "lng": -73.3150},
+      "style": {"radius": 6, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#FFD700\">\u2b22 Stockbridge Bog Area Sites</h3>\n  <p><b>Location:</b> Route 7, north of Stockbridge, MA</p>\n  <p><b>Date:</b> 7,000+ years of habitation at bog edges</p>\n  <p><b>Culture:</b> Mohican ancestors \u2014 multi-period</p>\n  <p><b>Key findings:</b> One site used for large-scale skinning and butchering, 3,000\u20134,000 years ago. Another habitation site dates to ~2,000 years ago. Evidence of deliberate wildfires set to improve habitat for hunted animals.</p>\n  <p><b>Environment:</b> The bog originally contained clear water surrounded by thick forest with abundant plant and animal life. Seasonal use likely in fall/winter for gathering wild plant foods (hickory nuts) and hunting.</p>\n  <p><b>Significance:</b> 7,000+ years of documented use demonstrates deep-time continuity. Controlled burning practices reveal sophisticated landscape management thousands of years before European contact.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Housatonic Heritage / Native American Heritage Trail\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHistoric",
+      "geometry": {"lat": 41.9800, "lng": -73.6600},
+      "style": {"radius": 6, "color": "#8A2BE2", "fillColor": "#8A2BE2", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#8A2BE2\">\u25c8 Shekomeko \u2014 Mohican Village & Moravian Mission</h3>\n  <p><b>Location:</b> Present-day Pine Plains, Dutchess County, NY</p>\n  <p><b>Date:</b> Mohican village (pre-contact); Moravian mission 1740\u20131746</p>\n  <p><b>Culture:</b> Mohican \u2014 major village site</p>\n  <p><b>Key findings:</b> The Moravian Church established a mission here in 1740 under Christian Henry Rauch \u2014 one of the first Christian congregations of Native Americans in what is now the United States.</p>\n  <p><b>Significance:</b> The Mohican leader Tschoop, baptized here in 1742, was advisor to Sachem Shabash and is believed to be the model for <b>Chingachgook</b> in James Fenimore Cooper's <i>The Last of the Mohicans</i>. The mission was abandoned 1745\u20131746 due to settler hostility; families dispersed to Bethlehem PA, Stockbridge MA, and other missions.</p>\n  <p><b>Current status:</b> Monument at Pine Plains marks the site.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Little Nine Partners Historical Society; Wheeler 2013 \"To Live Upon Hope\" (Cornell); Dally-Starna & Starna 2009\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.59, "lng": -73.82},
+      "style": {"radius": 6, "color": "#DAA520", "fillColor": "#DAA520", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DAA520\">\u2b22 Bethlehem, NY \u2014 Mohican Habitation Sites</h3>\n  <p><b>Location:</b> Town of Bethlehem, Albany County, NY (approximate \u2014 exact locations confidential)</p>\n  <p><b>Date:</b> ~1600 BCE onwards \u2014 \"River Indians\" artifacts</p>\n  <p><b>Culture:</b> Mohican</p>\n  <p><b>Discovery & excavation:</b> 1980s \u2014 Floyd Brewer and the Bethlehem Archaeology Group unearthed Mohican artifacts at multiple sites along the Hudson in what is now suburban Bethlehem.</p>\n  <p><b>Key findings:</b> Evidence of habitation from ~1600 BCE, including unusually shaped projectile points and tools for grinding acorns and seeds.</p>\n  <p><b>Current status:</b> The Stockbridge-Munsee Community has purchased some of these ancestral lands where human remains were found. <b>Exact locations kept confidential at the tribe's request to prevent disturbance.</b></p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> The Altamont Enterprise 2018; Stockbridge-Munsee Community\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHistoric",
+      "geometry": {"lat": 41.9100, "lng": -73.4300},
+      "style": {"radius": 5, "color": "#8A2BE2", "fillColor": "#8A2BE2", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#8A2BE2\">\u25c8 Wechquadnach \u2014 Mohican Village & Moravian Mission</h3>\n  <p><b>Location:</b> East shore of Indian Pond, Sharon, CT</p>\n  <p><b>Date:</b> Mohican village (pre-contact); Moravian mission (1740s)</p>\n  <p><b>Culture:</b> Mohican \u2014 part of interconnected network across Housatonic Valley</p>\n  <p><b>Significance:</b> Connected to the broader network of Mohican settlements including Shekomeko and Schaghticoke. A Moravian monument was raised in Sharon in 1859 honoring missionaries who worked among the Mohican community here.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Native American Heritage Trail; Bidwell House Museum\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHistoric",
+      "geometry": {"lat": 41.6900, "lng": -73.4800},
+      "style": {"radius": 7, "color": "#8A2BE2", "fillColor": "#8A2BE2", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#8A2BE2\">\u25c8 Schaghticoke \u2014 CT (Oldest Reservation in the US)</h3>\n  <p><b>Location:</b> Along the Housatonic River, Kent, CT</p>\n  <p><b>Indigenous name:</b> Schaghticoke \u2014 from Algonkian \"pishgoch-ti-goch,\" meaning \"confluence of two rivers\"</p>\n  <p><b>Date:</b> Reservation established 1736 \u2014 oldest in the United States</p>\n  <p><b>Culture:</b> Multi-tribal community including Mohican people \u2014 center of refuge, resistance, and alliance-building for displaced Native peoples.</p>\n  <p><b>Significance:</b> Important political center. Relationships between Mohican sachems and Schaghticoke communities were central to regional diplomacy.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Schaghticoke First Nations; Deerfield History Museum\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.8050, "lng": -73.5800},
+      "style": {"radius": 6, "color": "#DEB887", "fillColor": "#DEB887", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DEB887\">\u25cf Schaghticoke \u2014 NY (Hoosic-Hudson Confluence)</h3>\n  <p><b>Location:</b> Confluence of the Hoosic River and Hudson River, Rensselaer County, NY</p>\n  <p><b>Culture:</b> Originally an exclusively Mohican site \u2014 named for the \"confluence of two rivers\"</p>\n  <p><b>Significance:</b> Strategic location where two major river systems meet \u2014 controlling this confluence meant controlling trade and movement through the valley.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Schaghticoke First Nations; NYSM\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.1100, "lng": -73.3550},
+      "style": {"radius": 5, "color": "#DEB887", "fillColor": "#DEB887", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DEB887\">\u25cf Schaghticoke \u2014 MA (Sheffield)</h3>\n  <p><b>Location:</b> Present-day Sheffield, MA</p>\n  <p><b>Culture:</b> Mohican community, later absorbed into Stockbridge</p>\n  <p><b>Significance:</b> Part of the network of Mohican settlement nodes across the Housatonic Valley.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Deerfield History Museum; Schaghticoke First Nations\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 41.8000, "lng": -73.9400},
+      "style": {"radius": 5, "color": "#DAA520", "fillColor": "#DAA520", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DAA520\">\u2b22 Magdalene Island</h3>\n  <p><b>Location:</b> Middle reach of the Hudson River, Dutchess County, NY</p>\n  <p><b>Date:</b> Multi-period \u2014 ancient indigenous occupation</p>\n  <p><b>Key findings:</b> Long known to archaeologists as a location visited by ancient indigenous peoples. Stone tools and other artifacts curated at the New York State Museum.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> New York State Museum, Archaeology Department\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.4200, "lng": -73.7000},
+      "style": {"radius": 6, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#FFD700\">\u2b22 Columbia County Sites (McVaugh Collection)</h3>\n  <p><b>Location:</b> North of Kinderhook, Columbia County, NY</p>\n  <p><b>Date:</b> 10,000\u20131,000 years BP \u2014 9,000 years of indigenous history</p>\n  <p><b>Culture:</b> Multi-period \u2014 records continuous habitation east of the Hudson</p>\n  <p><b>Discovery:</b> ~50 stone tools (mostly projectile points) collected by Roger McVaugh in the 1920s while plowing farmland. Donated to the New York State Museum.</p>\n  <p><b>Key findings:</b> Points range from notched and stemmed forms (10,000\u20137,500 BP) to triangular forms (4,000\u20131,000 BP). One of few archaeological collections from east of the Hudson in the NYSM.</p>\n  <p><b>Significance:</b> 9,000-year continuous sequence of toolmaking \u2014 evidence of human presence through virtually every cultural period in the Northeast.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> New York State Museum, \"McVaugh Donation: Insights into Hudson Valley Archaeology\"\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 42.6600, "lng": -74.0200},
+      "style": {"radius": 5, "color": "#DAA520", "fillColor": "#DAA520", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DAA520\">\u2b22 Indian Ladder Trail</h3>\n  <p><b>Location:</b> Thacher State Park, Albany County, NY</p>\n  <p><b>Date:</b> Multi-period \u2014 ancient trail route (cliff face fossils date back 300 million years)</p>\n  <p><b>Description:</b> Indigenous peoples used the cliff face route along the Helderberg Escarpment. The trail provided a critical passage through otherwise impassable terrain.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Scenic Hudson; NYS Parks\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanArchSites",
+      "geometry": {"lat": 41.1150, "lng": -74.0700},
+      "style": {"radius": 5, "color": "#DAA520", "fillColor": "#DAA520", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#DAA520\">\u2b22 Monsey Glen</h3>\n  <p><b>Location:</b> Rockland County, NY</p>\n  <p><b>Date:</b> Two occupation periods \u2014 one dating back 3,000 years</p>\n  <p><b>Culture:</b> Algonquin peoples (Mohican-adjacent territory)</p>\n  <p><b>Key findings:</b> Shallow caves with artifacts from two eras of Algonquin occupation. The older occupation dates to approximately 3,000 years ago.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Scenic Hudson\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanModern",
+      "geometry": {"lat": 42.7130, "lng": -73.2050},
+      "style": {"radius": 6, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#2E8B57\">\u25c9 Stockbridge-Munsee THPO \u2014 NE Extension Office</h3>\n  <p><b>Location:</b> Williams College, Williamstown, MA</p>\n  <p><b>Description:</b> The Stockbridge-Munsee Community's Tribal Historic Preservation Office maintains an extension office in the Northeast, partnering with Williams College OIDEI. Focused on protecting cultural heritage sites and conducting archaeological research across the ancestral homeland.</p>\n  <p><b>Led by:</b> Bonney Hartley, Tribal Historic Preservation Manager</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Stockbridge-Munsee Community (mohican.com); Williams College OIDEI\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanModern",
+      "geometry": {"lat": 42.2000, "lng": -73.3500},
+      "style": {"radius": 5, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#2E8B57\">\u25c9 Upper Housatonic Valley National Heritage Area</h3>\n  <p><b>Location:</b> Berkshire County, MA & Litchfield County, CT</p>\n  <p><b>Description:</b> Manages the Native American Heritage Trail \u2014 walking tours and interpretive sites documenting Mohican history across the Housatonic Valley. A key organization connecting living Mohican heritage to the landscape.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> housatonicheritage.org\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanModern",
+      "geometry": {"lat": 42.2100, "lng": -73.2200},
+      "style": {"radius": 4, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#2E8B57\">\u25c9 Bidwell House Museum</h3>\n  <p><b>Location:</b> Monterey, MA</p>\n  <p><b>Description:</b> Museum focused on Mohican history in the Berkshires. Hosts lectures and programming on Mohican archaeological research and heritage.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> bidwellhousemuseum.org\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanModern",
+      "geometry": {"lat": 42.3480, "lng": -73.8020},
+      "style": {"radius": 4, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.7, "weight": 1.5},
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#2E8B57\">\u25c9 Flint Mine Hill \u2014 Archaeological Conservancy Preserve</h3>\n  <p><b>Location:</b> Coxsackie, Greene County, NY</p>\n  <p><b>Description:</b> The property was purchased and donated by Flint Mine Solar, LLC to The Archaeological Conservancy in 2021. One of the most important flint quarry sites in the Northeast, now permanently preserved from development.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> The Archaeological Conservancy; Clio\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanTerritory",
+      "geometry": [
+        [42.50, -74.00], [42.50, -73.60], [42.20, -73.60], [42.20, -74.00]
+      ],
+      "style": {
+        "color": "#C19A6B",
+        "fillColor": "#C19A6B",
+        "fillOpacity": 0.03,
+        "weight": 1.5,
+        "dashArray": "3,5",
+        "interactive": true
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#C19A6B\">\u25ce Flint Mine Resource Zone</h3>\n  <p><b>Type:</b> Resource-sharing area</p>\n  <p><b>Peoples involved:</b> Mohican and multiple neighboring nations over 10,000+ years</p>\n  <p><b>Time period:</b> ~10,000 BP \u2014 Contact period</p>\n  <p><b>Description:</b> The Deepkill and Normanskill chert outcrops in Greene County provided one of the few major sources of flint in the entire Northeast. Points made from this chert are found across a wide area, indicating this was a shared resource that attracted peoples from multiple traditions over thousands of years.</p>\n  <p><b>Key sites:</b> Flint Mine Hill Archaeological District</p>\n  <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\">\n    <b>Sources:</b> Parker 1924; The Archaeological Conservancy; NYSM\n  </p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    }
+  ]
+}

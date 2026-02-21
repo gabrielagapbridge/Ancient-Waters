@@ -1,0 +1,17 @@
+{
+  "RA_COLORS": {
+    "pcn":       "#D32F2F",
+    "bayArea":   "#FF6B35",
+    "greatBasin":"#FF7043",
+    "scCal":     "#FF5722",
+    "jtree":     "#FF6B9D",
+    "yokuts":    "#FFB74D"
+  },
+  "prebuilt": {
+    "damIcon":     {"factory":"mkIcon","color":"#C1440E","size":12},
+    "swIcon":      {"factory":"mkIcon","color":"#E07B39","size":10},
+    "jtIcon":      {"factory":"mkIcon","color":"#FF6B9D","size":9},
+    "ebIcon":      {"factory":"mkIcon","color":"#7FD8BE","size":7},
+    "spanishIcon": {"factory":"mkIcon","color":"#9B59B6","size":10}
+  }
+}

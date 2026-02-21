@@ -1,0 +1,229 @@
+{
+  "source": "65-tahoe-deep-dive.js",
+  "featureCount": 17,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "tahoeLake",
+      "geometry": [
+        [39.245,-120.195],[39.235,-120.155],[39.225,-120.115],[39.215,-120.085],
+        [39.200,-120.060],[39.180,-120.040],[39.155,-120.030],[39.130,-120.020],
+        [39.108,-120.005],[39.085,-119.995],[39.060,-119.980],[39.040,-119.970],
+        [39.015,-119.960],[38.995,-119.955],[38.975,-119.950],[38.955,-119.945],
+        [38.935,-119.945],[38.920,-119.955],[38.905,-119.975],[38.895,-120.000],
+        [38.890,-120.030],[38.895,-120.060],[38.905,-120.090],[38.920,-120.105],
+        [38.940,-120.105],[38.960,-120.105],[38.975,-120.115],[38.990,-120.120],
+        [39.010,-120.130],[39.030,-120.140],[39.055,-120.155],[39.080,-120.165],
+        [39.100,-120.175],[39.115,-120.190],[39.130,-120.205],[39.140,-120.215],
+        [39.155,-120.215],[39.170,-120.215],[39.185,-120.215],[39.200,-120.210],
+        [39.215,-120.205],[39.230,-120.205],[39.245,-120.195]
+      ],
+      "style": {
+        "color": "#CE93D8",
+        "weight": 2.5,
+        "opacity": 0.8,
+        "fillColor": "#29B6F6",
+        "fillOpacity": 0.12,
+        "dashArray": "6,3"
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#CE93D8;margin:0 0 2px\">\ud83d\udc9c Da ow aga \u2014 Lake Tahoe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">D\u00e1\u02d4aw \u00b7 6,225 ft \u00b7 1,645 ft deep \u00b7 191 sq mi \u00b7 2 million years old</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Da ow aga</b> (Washoe: \"edge of lake\") is the spiritual and geographic <b>center of the Washoe world</b>. The Washoe have lived here since, in their words, \"the beginning.\" Archaeological evidence confirms at least a <b>12,000-year presence</b>.<br><br><b>The lake itself:</b> Formed ~2 million years ago when the down-faulted block between the Sierra Nevada and Carson Range filled with water. <b>Mt. Pluto</b> erupted, creating a volcanic dam that raised ancient lake levels hundreds of feet above today. During the Pleistocene, glaciers carved Emerald Bay, Cascade Lake, and Fallen Leaf Lake, and repeatedly dammed the <b>Truckee River</b> outlet \u2014 sometimes raising the lake 170 meters above modern levels. When ice dams broke, <b>catastrophic j\u00f6kulhlaups</b> (glacial outburst floods) roared down the Truckee, carrying house-sized boulders as far as Verdi.<br><br>63 streams flow in. Only one \u2014 the <b>Truckee River</b> \u2014 flows out. The water never reaches the ocean.<br><br>During the mid-Holocene (4,000-7,000 years ago), extended drought dropped the lake <b>below its natural rim</b>, cutting off the Truckee entirely. Submerged trees confirm this ancient low stand. The lake has dropped below its rim again in recent droughts \u2014 a haunting echo of that ancient cycle.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Birkeland 1964; Hyne et al. 1972; Keep Tahoe Blue; Washoe Tribe</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 39.04, "lng": -119.95},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:16px;cursor:pointer\">\u26f0\ufe0f</div>",
+        "iconSize": [16, 16],
+        "iconAnchor": [8, 8]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FF80AB;margin:0 0 2px\">\u26f0\ufe0f De'ek Wadapush \u2014 Cave Rock</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Sacred site \u00b7 \"Rock Standing Gray\" \u00b7 Washoe spiritual center</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Cave Rock</b> (De'ek Wadapush) is the most sacred site in the Washoe world \u2014 described by Washoe Chairman A. Brian Wallace as <i>\"one of the linchpins in the cosmology of the tribe.\"</i> This remnant of an ancient volcano rises dramatically from the southeastern shore. <b>Only trained Washoe medicine people (pooha'gim) were permitted to go there</b> \u2014 it is a place of immense spiritual power where healing ceremonies, vision quests, and prayers were conducted.<br><br>The site was listed as a <b>Traditional Cultural Property</b> on the National Register of Historic Places (1996). In 2003, the Forest Service banned rock climbing after decades of Washoe advocacy. The 9th Circuit upheld the ban in 2007 \u2014 a landmark victory for sacred site protection. However, Highway 50's tunnel bored directly through Cave Rock in 1931 and 1957, and recreational use continues around it. The Washoe have never fully regained access to their most holy place.<br><br>Paleo-environmental deposits inside the caves record Lake Tahoe's changing levels over thousands of years.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sacred Land Film Project; USFS LTBMU; Washoe Tribe; 9th Circuit 2007</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 39.04, "lng": -120.13},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83c\udfd5\ufe0f</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">\ud83c\udfd5\ufe0f Magulu Watah \u2014 Meeks Bay</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Major summer encampment \u00b7 West shore \u00b7 Welmelti territory</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Meeks Bay</b> (Magulu Watah) was one of the most important Washoe summer gathering sites on the west shore of Lake Tahoe. Families of the <b>Welmelti</b> (northern Washoe) returned to the same campsites year after year \u2014 familiar fishing and hunting grounds waited. The bay's shallow, warmer waters were ideal for fish traps and spear fishing. The meadows behind the beach provided seeds, roots, and berries.<br><br>Today, the <b>Wash\u00ed\u2022shiw \u0244itd\u00e9\u0241 Native American Basket and Arts Festival</b> is held at <b>Meeks Bay Resort</b> each summer \u2014 a public celebration of Washoe culture featuring basketry, music, and dance. Meeks Bay Resort is now Washoe-operated, a rare instance of the tribe regaining stewardship of ancestral land at Lake Tahoe.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS; Washoe Tribe; Visit Lake Tahoe; d'Azevedo 1986</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 38.93, "lng": -120.06},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:14px;cursor:pointer\">\ud83d\udc1f</div>",
+        "iconSize": [14, 14],
+        "iconAnchor": [7, 7]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">\ud83d\udc1f Taylor Creek / Tallac \u2014 Summer Gathering</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">South shore \u00b7 fishing \u00b7 Wa She Shu It Deh festival site</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The area from <b>Taylor Creek to Camp Richardson</b> was a favorite Washoe summer encampment on the south shore. Taylor Creek \u2014 one of the 63 streams feeding Lake Tahoe \u2014 provided excellent fishing and supported a lush meadow ecosystem. The Washoe are working to develop a <b>cultural center at Taylor Creek</b>.<br><br>The <b>Tallac Historic Site</b> (National Register) houses the Baldwin Museum's Washoe Exhibit, created by the tribe. In autumn, <b>kokanee salmon</b> (introduced in 1944) spawn in Taylor Creek \u2014 the USFS provides a viewing area. But for thousands of years before the kokanee, it was <b>Lahontan cutthroat trout</b> and native suckers that the Washoe harvested here.<br><br>Nearby <b>Fallen Leaf Lake</b> \u2014 occupying a glacier-carved basin \u2014 was also part of the summer gathering territory.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS LTBMU; Washoe Tribe; Tallac Historic Site</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 38.96, "lng": -119.94},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:14px;cursor:pointer\">\ud83e\udea8</div>",
+        "iconSize": [14, 14],
+        "iconAnchor": [7, 7]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">\ud83e\udea8 Lam Watah \u2014 Washoe Heritage Site</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Archaeological site \u00b7 grinding rocks \u00b7 near Stateline \u00b7 USFS managed</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Lam Watah</b> (\"grinding stones by the water\") is a publicly accessible archaeological site near Stateline, NV \u2014 managed by the US Forest Service. It preserves <b>numerous boulders with grinding depressions</b> (mortars) where Washoe women prepared food during summer months \u2014 processing pine nuts, seeds, and dried foods for winter storage. Set in a meadow along a one-mile trail to Nevada Beach.<br><br>A Washoe elder visiting the site said: <i>\"Yes, the lake was a sacred place. It is to us yet, even though it is so different today from what it was in our people's time.\"</i><br><br>Another <b>pounding rock</b> site exists near Trout Creek in the middle of South Shore \u2014 now surrounded by modern development.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS LTBMU; Tahoe Mountain Culture; Chico Enterprise-Record</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 39.17, "lng": -120.14},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83c\udfa3</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#4FC3F7;margin:0 0 2px\">\ud83c\udfa3 Truckee River Outlet \u2014 Fishing & Grinding</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Tahoe City \u00b7 fish traps \u00b7 grinding rock found 1924</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Truckee River outlet</b> at present-day Tahoe City was a critical Washoe fishing location. The sole outlet of Lake Tahoe, the river funneled fish \u2014 especially <b>Lahontan cutthroat trout</b> and suckers \u2014 past the narrow gap where the Washoe built fish traps of woven tule and willow. A <b>grinding rock</b> found at the outlet in 1924 by R.H. Watson is now displayed at Heritage Plaza in Tahoe City.<br><br>Today a dam controls the lake level and Truckee River flow. The <b>Gatekeeper's Museum</b> in Tahoe City houses a magnificent collection of Native baskets, including Washoe basketry. The museum occupies the site of the original gatekeeper's cabin \u2014 home of the water master who controlled the dam.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS; Gatekeeper's Museum; Historical Marker Database</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeLake",
+      "geometry": {"lat": 38.95, "lng": -120.11},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83d\udc8e</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#29B6F6;margin:0 0 2px\">\ud83d\udc8e Emerald Bay \u2014 Glacier-Carved Sacred Bay</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Drowned glacial valley \u00b7 Fannette Island \u00b7 Washoe gathering area</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Emerald Bay</b> occupies a drowned glacial valley carved during the Ice Ages. A glacier advanced from an ice cap ~6.5 km to the southwest, scouring Eagle Creek valley and depositing lateral moraines that form the bay. <b>Fannette Island</b> \u2014 the only island in Lake Tahoe \u2014 sits within its waters.<br><br>For the Washoe, Emerald Bay was part of their summer territory. The bay's protected waters supported fishing, and the surrounding forests provided game, berries, and medicinal plants. In rare cold years, Emerald Bay has frozen over \u2014 the only part of Lake Tahoe that ever ices (the main lake's depth and constant motion prevent freezing).</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Earth Magazine; Keep Tahoe Blue</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 38.88, "lng": -119.75},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83c\udfe0</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">\ud83c\udfe0 Carson Valley \u2014 Pau Wa Lu Winter Camps</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Washoe winter territory \u00b7 lower elevation \u00b7 Gardnerville/Minden</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Pau Wa Lu</b> (Carson Valley Washoe) spent winters in the Carson Valley east of the Sierra \u2014 at lower elevation where snow was manageable. Winter camps of 4-10 families were composed of <b>galais dungal</b> (conical winter houses) built with layers of bark, poles, and brush for insulation. A fire pit sat in the center with a smoke hole in the roof. Doors always faced east to receive the first light.<br><br>Winter camps were located near <b>hot springs</b> that occur in a chain along the eastern Sierra. The Washoe lived off stored pine nuts, seeds, dried meat, and occasionally fresh fish caught through broken ice. The final winter months before spring were the hardest \u2014 food stores dwindling, new plants not yet available.<br><br>When snow began to melt, it was time for renewal. Young adults would begin the journey back to <b>Da ow aga</b>. Eventually the majority of the tribe made its way to the sacred lake for the great <b>summer gathering</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Nevers 1976; d'Azevedo 1986; Tallac Historic Site; Washoe Tribe</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 39.10, "lng": -119.55},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83c\udf32</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">\ud83c\udf32 Pine Nut Mountains \u2014 Fall Harvest</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Pi\u00f1on pine nut gathering \u00b7 sacred sustenance \u00b7 storage for winter</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">In autumn, the Washoe moved to the <b>Pine Nut Mountains</b> (Pine Nut Range) east of Carson Valley for the year's most critical harvest. <b>Pi\u00f1on pine nuts</b> were the staple food that sustained the Washoe through winter. Cones were knocked down with long hooked poles, roasted so their sweet oily flesh wouldn't become rancid, then shelled and ground into flour using mortars and pestles.<br><br>The Pine Nut harvest was so important that when the <b>General Allotment Act of 1887</b> finally offered the Washoe land, the government offered only pine nut hills \u2014 not their beloved lake. The Washoe took them because the sacred Pi\u00f1on Pines still provided the food that sustained them. But the allotments had no water rights and were unsuitable for homes.<br><br>Today, the <b>Pine Nut Festival</b> continues to celebrate this tradition.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Nevers 1976; d'Azevedo 1986; Tallac Historic Site</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeWashoe",
+      "geometry": {"lat": 39.32, "lng": -120.33},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:14px;cursor:pointer\">\ud83e\udea8</div>",
+        "iconSize": [14, 14],
+        "iconAnchor": [7, 7]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#A1887F;margin:0 0 2px\">\ud83e\udea8 Donner Summit Petroglyphs \u2014 Martis Culture</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">~2000 BCE\u2013500 CE \u00b7 200+ petroglyphs \u00b7 Style 7 \u00b7 Donner Pass</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Donner Summit petroglyphs</b> are the most publicly accessible prehistoric rock art in the Lake Tahoe region \u2014 <b>200+ images</b> pecked into glaciated granite bedrock using hammerstones, 1,500-4,000+ years ago. Created by the <b>Martis Culture</b> (~2000 BCE\u2013500 CE), the earliest known inhabitants of the high Sierra.<br><br>The Martis left behind petroglyphs, mortars, metates, and basalt projectile points across the northern Sierra. Their rock art is classified as <b>Style 7: High Sierra Abstract-Representational</b> \u2014 circles, spirals, wavy lines, bear tracks, and deer tracks. There are 92+ known Martis petroglyph sites, but most locations are kept confidential to prevent vandalism.<br><br>The Martis hunted with <b>atlatls</b> (spear-throwers) and worked almost exclusively in basalt. When the bow-and-arrow arrived (~500 CE) and the climate grew drier, the Martis vanished. The <b>Kings Beach Complex</b> succeeded them around the lake \u2014 possibly ancestral to the Washoe, though the relationship is debated. Donner Summit was later the Washoe corridor between Lake Tahoe and Nevada, and \u2014 infamously \u2014 the site of the Donner Party's 1846 disaster.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Gortner; Donner Summit Historical Society; USFS; Payen 1966; Sierra Rock Art</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeChange",
+      "geometry": {"lat": 39.31, "lng": -119.65},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:14px;cursor:pointer\">\u26cf\ufe0f</div>",
+        "iconSize": [14, 14],
+        "iconAnchor": [7, 7]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#EF5350;margin:0 0 2px\">\u26cf\ufe0f Virginia City / Comstock Lode \u2014 The Devastation</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">1859\u20131890 \u00b7 clear-cut entire Tahoe Basin \u00b7 displaced Washoe</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The discovery of silver at <b>Virginia City</b> in 1859 triggered one of the most rapid environmental catastrophes in American history. The <b>entire Lake Tahoe Basin was virtually clear-cut</b> between 1860 and 1890 to fuel mining operations, shore up mine tunnels (using the \"square-set timbering\" method), and build the booming city. Trees were felled, sawed, and flumed or sledged down to Virginia City.<br><br>For the Washoe, the destruction was total and immediate: from 1848 to 1863, their homeland was overrun by miners, settlers, and entrepreneurs. The fish, game, and plant resources that sustained the seasonal cycle were destroyed. By 1863, the Washoe had been <b>completely driven off their ancestral land</b>. The forests that had taken centuries to grow were gone in 30 years. The land was bought cheaply and resold for hotels and mansions for the wealthy.<br><br>The forests are still recovering 160+ years later.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Legends of America; USFS; Keep Tahoe Blue; Washoe Tribe</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeChange",
+      "geometry": {"lat": 39.17, "lng": -120.12},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83d\udc1f</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#EF5350;margin:0 0 2px\">\ud83d\udc1f Lahontan Cutthroat Trout \u2014 Extirpation & Return</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Native fish \u00b7 up to 4 feet long \u00b7 extirpated early 1900s \u00b7 reintroduction 2019</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">When Fr\u00e9mont reached the Truckee River in 1844, the Paiute brought him <b>Lahontan cutthroat trout</b> up to four feet long \u2014 <i>\"their flavor was excellent, superior to any fish I have ever known.\"</i> These fish evolved in <b>Pleistocene Lake Lahontan</b> and survived in Tahoe, Pyramid Lake, and connecting rivers for thousands of years. The Washoe, Paiute, and earlier peoples built their food calendar around the spawning runs.<br><br>Commercial fishing, introduced species (lake trout, rainbow trout, brown trout), and habitat destruction <b>completely extirpated</b> the Lahontan cutthroat from Lake Tahoe in the early 1900s. The fish is now listed as federally <b>threatened</b>.<br><br>In <b>2019</b>, reintroduction efforts began \u2014 Lahontan cutthroat trout were returned to Lake Tahoe for the first time in over a century. A slow, hopeful beginning after a catastrophic loss.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS; Truckee River Guide; Fr\u00e9mont 1844; USFWS; Keep Tahoe Blue</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeChange",
+      "geometry": {"lat": 39.17, "lng": -120.14},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83d\udeab</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#EF5350;margin:0 0 2px\">\ud83d\udeab Lake Tahoe Dam \u2014 Controlling the Sacred Waters</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Tahoe City \u00b7 controls lake level \u00b7 natural rim 6,223 ft \u00b7 max 6,229 ft</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">A <b>dam at Tahoe City</b> controls the flow of the Truckee River and the height of Lake Tahoe. The natural rim is at <b>6,223 feet</b> above sea level; the dam allows the lake to rise to <b>6,229 feet</b> maximum. This infrastructure \u2014 part of the complex Truckee River water rights system \u2014 determines how much water flows to downstream users including the <b>Pyramid Lake Paiute Tribe</b>.<br><br>In recent droughts, partly fueled by climate change, the lake has dropped <b>below its natural rim</b> \u2014 meaning water ceases to flow into the Truckee River at all. This echoes a mid-Holocene drought (4,000-7,000 years ago) when the lake fell below its rim for an extended period, drowning trees that are now submerged.<br><br>The dam represents the fundamental tension of western water: one dam at Tahoe City controls whether the Truckee flows, whether Pyramid Lake rises, whether the cui-ui can spawn, and whether Reno has water.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Keep Tahoe Blue; Bureau of Reclamation; USGS</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeChange",
+      "geometry": {"lat": 39.20, "lng": -120.24},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:12px;cursor:pointer\">\ud83c\udfd4\ufe0f</div>",
+        "iconSize": [12, 12],
+        "iconAnchor": [6, 6]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#78909C;margin:0 0 2px\">\ud83c\udfd4\ufe0f 1960 Winter Olympics \u2014 Palisades Tahoe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Olympic Valley \u00b7 held while Washoe land claims unresolved</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>1960 Winter Olympics</b> were held at what was then called Squaw Valley (now <b>Palisades Tahoe</b>, renamed 2021 after Washoe advocacy). The Games took place while the Washoe Tribe was <b>still waiting for resolution of its Indian Claims Commission case</b> \u2014 which wasn't settled until 1968.<br><br>The Olympics accelerated resort development in the Tahoe Basin, further transforming Washoe ancestral land. In 2021, when the resort announced it would retire the former name, Washoe women led the dialogue about cultural respect \u2014 documented in the film <b>\"Walking With My Sisters.\"</b><br><br>Today, Palisades Tahoe hosts Washoe cultural talks at High Camp (8,200 ft), where tribal members share stories of their deep-rooted history in Olympic Valley and the Sierra Nevada.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Visit Truckee Tahoe; Washoe Tribe; Palisades Tahoe</div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "tahoeChange",
+      "geometry": {"lat": 38.94, "lng": -120.01},
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer\">\ud83d\udc9a</div>",
+        "iconSize": [13, 13],
+        "iconAnchor": [6.5, 6.5]
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#66BB6A;margin:0 0 2px\">\ud83d\udc9a Washoe Land Stewardship & Reclamation</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Ongoing \u00b7 tribal land advocacy \u00b7 language revitalization \u00b7 cultural preservation</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Despite losing virtually all of their 10,000-square-mile ancestral territory, the Washoe have never abandoned their connection to Da ow aga. Current tribal efforts include:<br><br>\u2022 <b>Land stewardship advocacy</b> \u2014 the tribal government lobbies for a land base within the Tahoe Basin and works with federal/state agencies to protect sacred sites<br>\u2022 <b>Meeks Bay Resort</b> \u2014 now Washoe-operated, a rare return to ancestral land<br>\u2022 <b>Cultural center plans</b> at Taylor Creek<br>\u2022 <b>Language revitalization</b> \u2014 the Washoe language (Hokan isolate) is taught to new generations; elders are recognized as vital cultural carriers<br>\u2022 <b>Wa She Shu It Deh Festival</b> \u2014 annual celebration at Meeks Bay featuring basketry, dance, music, and food<br>\u2022 <b>Cave Rock protection</b> \u2014 climbing ban upheld by 9th Circuit (2007)<br>\u2022 <b>Dat So La Lee</b> legacy \u2014 the renowned basket weaver's artistry preserved in museums worldwide<br><br>The Washoe are a sovereign nation with ~1,550 enrolled members. Communities exist in Gardnerville, Carson City, Stewart (NV), and Woodfords (CA). <b>There are no Washoe reservation lands within the Tahoe Basin.</b></div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Washoe Tribe of NV & CA; USFS; Visit Lake Tahoe; Palisades Tahoe</div></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "tahoeWashoe",
+      "geometry": [
+        [39.04,-120.06],[39.00,-119.98],[38.95,-119.90],[38.90,-119.82],
+        [38.88,-119.75]
+      ],
+      "style": {
+        "color": "#FFA726",
+        "weight": 2,
+        "opacity": 0.5,
+        "dashArray": "6,6"
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">\ud83d\udd04 Washoe Seasonal Round \u2014 Summer \u2192 Winter</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Lake Tahoe (summer) \u2192 Pine Nut Mtns (fall) \u2192 Carson Valley (winter)</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Washoe followed a predictable <b>annual seasonal round</b> tied to water, fish, and plant cycles:<br><br><b>Spring:</b> As snow melted, young adults began the trek from Carson Valley back to Da ow aga. Bulb plants and early grasses were the first harvests.<br><br><b>Summer:</b> The majority of the tribe gathered at Lake Tahoe \u2014 the great annual gathering. Each of the three regional groups (Welmelti, Pau Wa Lu, Hung a Lel Ti) camped on their respective side of the lake at family campsites used for generations. Fishing, hunting, gathering berries, seeds, roots, and medicinal plants. Games, races, archery competitions, socializing.<br><br><b>Fall:</b> As fishing slowed, the Washoe moved to the <b>Pine Nut Mountains</b> for the critical pine nut harvest. Hunting was best in fall when animals were fattened. Deer, rabbit, marmot, sagehen, quail.<br><br><b>Winter:</b> Families retreated to <b>Carson Valley</b> and other lowland camps near hot springs. Stored foods sustained them. Ice fishing when possible. The door of the winter house always faced east.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986; Nevers 1976; Tallac Historic Site; Washoe Tribe</div></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "tahoeWashoe",
+      "geometry": [
+        [38.88,-119.75],[38.95,-119.65],[39.02,-119.58],[39.10,-119.55]
+      ],
+      "style": {
+        "color": "#A1887F",
+        "weight": 2,
+        "opacity": 0.4,
+        "dashArray": "6,6"
+      },
+      "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">\ud83d\udd04 Fall Migration \u2014 Pine Nut Harvest</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Carson Valley \u2192 Pine Nut Mountains</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">In fall, the Washoe moved east to the <b>Pine Nut Mountains</b> for the pine nut harvest \u2014 the most important food-gathering event of the year. The pi\u00f1on pine nuts, roasted and ground into flour, would sustain families through the long winter.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986; Nevers 1976</div></div>"
+    }
+  ]
+}

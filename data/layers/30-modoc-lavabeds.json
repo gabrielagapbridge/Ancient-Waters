@@ -1,0 +1,114 @@
+{
+  "source": "30-modoc-lavabeds.js",
+  "featureCount": 12,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "modocVillages",
+      "geometry": [
+        [42.20, -122.20],[42.20, -121.50],[42.20, -120.80],[42.10, -120.30],
+        [41.90, -120.10],[41.70, -120.20],[41.50, -120.40],[41.30, -120.80],
+        [41.10, -121.10],[41.00, -121.40],[41.20, -121.60],[41.40, -121.80],
+        [41.60, -122.00],[41.80, -122.10],[42.00, -122.20]
+      ],
+      "style": {
+        "color": "#CD853F",
+        "fillColor": "#CD853F",
+        "fillOpacity": 0.08,
+        "weight": 2,
+        "dashArray": "8,6",
+        "pane": "modocBackgroundPane",
+        "interactive": false
+      },
+      "options": {"interactive": false}
+    },
+    {
+      "type": "marker",
+      "layer": "modocVillages",
+      "geometry": {"lat": 41.65, "lng": -121.20},
+      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 13px Georgia,serif;color:#CD853F;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">M O D O C</div>", "iconSize": [200, 30], "iconAnchor": [100, 15]},
+      "options": {"interactive": false}
+    },
+    {
+      "type": "marker",
+      "layer": "modocRockArt",
+      "geometry": {"lat": 41.7124, "lng": -121.5102},
+      "icon": {"factory": "mkPetroIcon", "color": "#FFD700", "size": 16},
+      "popup": "\n  <div style=\"max-width:340px;\">\n    <h3 style=\"color:#FFD700;margin:0 0 6px;\">◆ Petroglyph Point</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lava Beds National Monument, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>5,000+ individual petroglyphs</b> carved on the face of a former island in Tule Lake —\n      one of the <b>largest concentrations of Native American rock art in North America</b>.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Age:</b> Estimated 2,000–6,000+ years old. Dating is complicated by Tule Lake's\n      fluctuating water levels, which repeatedly submerged and exposed the rock face.\n      Geometric patterns match designs on household items from nearby Nightfire Island\n      dated to 5,000+ BP.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Style:</b> Predominantly <b>geometric and abstract</b> — circles, lines, grids, spirals,\n      and complex interlocking patterns. Uniquely different from most western rock art in\n      its near-total absence of figurative images (animals, humans). Some experts believe\n      both the petroglyph and pictograph styles at Lava Beds were unique to the region.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Cultural significance:</b> Petroglyph Point is the center of the <b>Modoc creation story</b>.\n      The site was once an island — artists may have paddled out in canoes with sharp sticks\n      or stones to carve the soft volcanic tuff. Possibly hundreds of generations of artists\n      contributed to this wall over millennia.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Tragedy:</b> Much Modoc knowledge of the petroglyphs' meaning was lost after the\n      Modoc War (1872–73) caused tribal fracturing and forced removal to Oklahoma.\n      No ethnographic study was conducted before this diaspora.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:8px;border-top:1px solid #333;padding-top:6px;\">\n      NRHP listed 1975 · Lava Beds NM Archaeological District (1991)<br>\n      Short interpretive trail · Accessible to public<br>\n      Sources: NPS, Heizer & Clewlow 1973, Clewlow 1968\n    </div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocRockArt",
+      "geometry": {"lat": 41.7150, "lng": -121.5200},
+      "icon": {"factory": "mkPictoIcon", "color": "#FF6347", "size": 11},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#FF6347;margin:0 0 6px;\">○ Lava Beds Cave Pictographs — West Cluster</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lava Beds NM, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Painted pictographs in multiple lava tube cave entrances across the monument.\n      Red, white, and black pigments — charcoal base mixed with animal fat (black),\n      clay base (white), mineral pigments (red).\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Most pictographs appear at <b>cave entrances</b> rather than deep interiors.\n      Pictograph sites hold traditional significance for modern Modoc and Klamath people.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">NPS · Exact cave locations partially restricted for protection</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocRockArt",
+      "geometry": {"lat": 41.7050, "lng": -121.5400},
+      "icon": {"factory": "mkPictoIcon", "color": "#FF6347", "size": 11},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#FF6347;margin:0 0 6px;\">○ Lava Beds Cave Pictographs — South Cluster</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lava Beds NM, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Additional pictograph sites in lava tube caves in the southern portion of the monument.\n      Part of the extensive Lava Beds NM Archaeological District, which contains both\n      carved petroglyphs and painted pictographs — an unusual combination in one area.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      All rock imagery at Lava Beds is located within the traditional territory of the Modoc\n      people and their ancestors or predecessors.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">NPS · Public access via monument trails</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocVillages",
+      "geometry": {"lat": 41.8700, "lng": -121.5900},
+      "icon": {"factory": "mkIcon", "color": "#DEB887", "size": 12},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DEB887;margin:0 0 6px;\">◆ Nightfire Island (CA-MOD-2)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Near Tule Lake, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major stratified habitation site near Tule Lake with <b>7,500+ years of occupation</b>.\n      Deep deposits reveal continuous use of the Tule Lake basin.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Geometric patterns on household items here <b>match motifs at Petroglyph Point</b>,\n      dated to 5,000+ years old — providing key chronological evidence for the rock art.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Clewlow 1968</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocVillages",
+      "geometry": {"lat": 41.8900, "lng": -121.4800},
+      "icon": {"factory": "mkIcon", "color": "#DEB887", "size": 10},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DEB887;margin:0 0 6px;\">◆ Tule Lake Village Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Former Tule Lake shore, Modoc / Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple Modoc village sites along the former shoreline of Tule Lake, which was\n      drastically reduced by 20th-century drainage for agriculture. Winter villages\n      concentrated along the lake and Lost River.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Modoc name <i>Moatokni</i> (\"people of the south\") distinguished them from\n      the Klamath to the north. They were skilled waterfowl hunters and fishers\n      in the rich Tule Lake wetlands.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Ray 1963</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocVillages",
+      "geometry": {"lat": 41.9700, "lng": -121.4200},
+      "icon": {"factory": "mkIcon", "color": "#DEB887", "size": 10},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DEB887;margin:0 0 6px;\">◆ Lost River Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lost River, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Modoc villages along Lost River, which connects Tule Lake to Clear Lake (Modoc County).\n      The 1872 forced removal from these villages triggered the <b>Modoc War</b> —\n      the only major Indian war in California.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Stern 1998</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocVillages",
+      "geometry": {"lat": 41.8800, "lng": -121.1500},
+      "icon": {"factory": "mkIcon", "color": "#DEB887", "size": 10},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DEB887;margin:0 0 6px;\">◆ Clear Lake (Modoc) Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Clear Lake, Modoc County (NOT Lake County Clear Lake)</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Eastern Modoc villages around Clear Lake in Modoc County. This is a different lake\n      from the Pomo's Clear Lake in Lake County. Modoc bands here included the\n      Gumbatwas (the \"people of the lake\").\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Ray 1963</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocVillages",
+      "geometry": {"lat": 41.7420, "lng": -121.5750},
+      "icon": {"factory": "mkIcon", "color": "#8A2BE2", "size": 12},
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#8A2BE2;margin:0 0 6px;\">◆ Captain Jack's Stronghold</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lava Beds NM, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      From November 1872 to April 1873, <b>Kintpuash (Captain Jack)</b> and approximately\n      53 Modoc warriors held off over 600 U.S. Army troops in this natural lava fortress.\n      The <b>Modoc War</b> was the only major Indian war in California and the most costly\n      per-capita Indian war the U.S. military fought.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      After the war, Captain Jack was executed and surviving Modoc were forcibly\n      relocated to the Quapaw Agency in Oklahoma Territory. Much traditional knowledge\n      about the petroglyphs and pictographs was lost during this diaspora.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">\n      NPS · National Historic Landmark<br>\n      Self-guided trail through the lava fortifications\n    </div>\n  </div>\n"
+    },
+    {
+      "type": "polygon",
+      "layer": "modocLost",
+      "geometry": [
+        [41.82, -121.60],[41.82, -121.35],[41.95, -121.30],[42.00, -121.35],
+        [42.00, -121.55],[41.95, -121.60],[41.88, -121.62]
+      ],
+      "style": {
+        "color": "#B22222",
+        "fillColor": "#B22222",
+        "fillOpacity": 0.12,
+        "weight": 2,
+        "dashArray": "6,4",
+        "pane": "modocBackgroundPane",
+        "interactive": true
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B22222;margin:0 0 6px;\">◆ Tule Lake — Drained Wetland</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Modoc / Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Once a vast lake and wetland system central to Modoc life and spirituality.\n      Petroglyph Point was an <b>island in this lake</b> — artists paddled out to carve.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      In the early 1900s, Tule Lake was <b>drained for agricultural use</b> under the\n      Klamath Reclamation Project. What was once a rich wetland teeming with waterfowl,\n      fish, and wocus (water lily seeds) became irrigated farmland.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      During WWII, the <b>Tule Lake War Relocation Center</b> was built on the drained\n      lakebed — interning 18,700 Japanese Americans on Modoc ancestral land.\n      Some internees carved Japanese characters into the boulders at Petroglyph Point.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">NPS; Klamath Reclamation Project</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "modocLost",
+      "geometry": {"lat": 41.91, "lng": -121.47},
+      "icon": {"factory": "divIcon", "html": "<div style=\"font:italic 11px Georgia,serif;color:#B22222;text-shadow:0 0 6px #000;opacity:0.7;text-align:center;\">Former Tule Lake</div>", "iconSize": [140, 20], "iconAnchor": [70, 10]},
+      "options": {"interactive": false}
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source": "14-richardson-bay.js",
+  "featureCount": 7,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "historicShoreline",
+      "geometry": [
+        [37.904,-122.523],[37.906,-122.518],[37.908,-122.513],[37.910,-122.508],
+        [37.912,-122.503],[37.910,-122.498],[37.907,-122.495],[37.904,-122.492],
+        [37.901,-122.490],[37.898,-122.492],[37.896,-122.496],[37.895,-122.500],
+        [37.896,-122.505],[37.898,-122.510],[37.900,-122.515],[37.902,-122.520],
+        [37.904,-122.523]
+      ],
+      "style": {"color":"#2E7D32","fillColor":"#4CAF50","fillOpacity":0.25,"weight":1.5,"dashArray":"6,4"},
+      "popup": "<h4>\ud83c\udf3f Pre-1850 Tidal Marsh</h4><span class=\"ptype pt-ancient\">THIS WAS MARSH before development</span><div class=\"popup-what\">Approximate extent of tidal marsh, seasonal wetlands, and mudflats that once fringed Richardson Bay</div>Before 1850, Richardson Bay was surrounded by vast salt marshes, wet meadows, and willow thickets. The Bothin Marsh preserve is the last remnant. Strawberry Spit and Aramburu Island didn't exist \u2014 created from 1950s-60s dredge spoils. Paradise Cay was open marsh. The tidal-to-woodland transition zone was the richest ecological zone: shellfish beds, waterfowl nesting, and shore access for Coast Miwok villages.<div class=\"popup-src\">\ud83d\udcd6 Pestrong (1972) USGS; Atwater (1977); SFEI; Alameda Native History Project</div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "historicShoreline",
+      "geometry": [
+        [37.892,-122.510],[37.888,-122.507],[37.884,-122.503],[37.880,-122.500],
+        [37.876,-122.497],[37.873,-122.494],[37.876,-122.490],[37.880,-122.488],
+        [37.884,-122.490],[37.888,-122.493],[37.891,-122.497],[37.893,-122.502],
+        [37.894,-122.507],[37.892,-122.510]
+      ],
+      "style": {"color":"#2E7D32","fillColor":"#4CAF50","fillOpacity":0.25,"weight":1.5,"dashArray":"6,4"},
+      "popup": "<h4>\ud83c\udf3f Pre-1850 Tidal Marsh</h4><span class=\"ptype pt-ancient\">THIS WAS MARSH before development</span><div class=\"popup-what\">Approximate extent of tidal marsh, seasonal wetlands, and mudflats that once fringed Richardson Bay</div>Before 1850, Richardson Bay was surrounded by vast salt marshes, wet meadows, and willow thickets. The Bothin Marsh preserve is the last remnant. Strawberry Spit and Aramburu Island didn't exist \u2014 created from 1950s-60s dredge spoils. Paradise Cay was open marsh. The tidal-to-woodland transition zone was the richest ecological zone: shellfish beds, waterfowl nesting, and shore access for Coast Miwok villages.<div class=\"popup-src\">\ud83d\udcd6 Pestrong (1972) USGS; Atwater (1977); SFEI; Alameda Native History Project</div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "historicShoreline",
+      "geometry": [
+        [37.888,-122.455],[37.885,-122.458],[37.882,-122.461],[37.879,-122.463],
+        [37.876,-122.461],[37.874,-122.457],[37.876,-122.453],[37.879,-122.450],
+        [37.882,-122.448],[37.885,-122.450],[37.888,-122.453],[37.888,-122.455]
+      ],
+      "style": {"color":"#2E7D32","fillColor":"#4CAF50","fillOpacity":0.25,"weight":1.5,"dashArray":"6,4"},
+      "popup": "<h4>\ud83c\udf3f Pre-1850 Tidal Marsh</h4><span class=\"ptype pt-ancient\">THIS WAS MARSH before development</span><div class=\"popup-what\">Approximate extent of tidal marsh, seasonal wetlands, and mudflats that once fringed Richardson Bay</div>Before 1850, Richardson Bay was surrounded by vast salt marshes, wet meadows, and willow thickets. The Bothin Marsh preserve is the last remnant. Strawberry Spit and Aramburu Island didn't exist \u2014 created from 1950s-60s dredge spoils. Paradise Cay was open marsh. The tidal-to-woodland transition zone was the richest ecological zone: shellfish beds, waterfowl nesting, and shore access for Coast Miwok villages.<div class=\"popup-src\">\ud83d\udcd6 Pestrong (1972) USGS; Atwater (1977); SFEI; Alameda Native History Project</div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "historicShoreline",
+      "geometry": [
+        [37.865,-122.500],[37.862,-122.498],[37.859,-122.495],[37.857,-122.490],
+        [37.860,-122.486],[37.863,-122.484],[37.866,-122.487],[37.868,-122.491],
+        [37.869,-122.496],[37.867,-122.499],[37.865,-122.500]
+      ],
+      "style": {"color":"#2E7D32","fillColor":"#4CAF50","fillOpacity":0.25,"weight":1.5,"dashArray":"6,4"},
+      "popup": "<h4>\ud83c\udf3f Pre-1850 Tidal Marsh</h4><span class=\"ptype pt-ancient\">THIS WAS MARSH before development</span><div class=\"popup-what\">Approximate extent of tidal marsh, seasonal wetlands, and mudflats that once fringed Richardson Bay</div>Before 1850, Richardson Bay was surrounded by vast salt marshes, wet meadows, and willow thickets. The Bothin Marsh preserve is the last remnant. Strawberry Spit and Aramburu Island didn't exist \u2014 created from 1950s-60s dredge spoils. Paradise Cay was open marsh. The tidal-to-woodland transition zone was the richest ecological zone: shellfish beds, waterfowl nesting, and shore access for Coast Miwok villages.<div class=\"popup-src\">\ud83d\udcd6 Pestrong (1972) USGS; Atwater (1977); SFEI; Alameda Native History Project</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "historicShoreline",
+      "geometry": [[37.900,-122.398],[37.901,-122.490]],
+      "style": {"color":"#81C784","weight":1.5,"opacity":0.6,"dashArray":"4,6"},
+      "popup": "<h4>MRN-27 \u2192 Historic Marsh Edge</h4>This dashed line shows how far the tidal marsh once extended from the site. Before fill and development, CA-MRN-27 sat directly at the marsh-woodland interface \u2014 not 1,500 feet from water as it appears today."
+    },
+    {
+      "type": "polyline",
+      "layer": "historicShoreline",
+      "geometry": [[37.878,-122.505],[37.880,-122.500]],
+      "style": {"color":"#81C784","weight":1.5,"opacity":0.6,"dashArray":"4,6"}
+    },
+    {
+      "type": "polyline",
+      "layer": "historicShoreline",
+      "geometry": [[37.882,-122.500],[37.884,-122.497]],
+      "style": {"color":"#81C784","weight":1.5,"opacity":0.6,"dashArray":"4,6"}
+    }
+  ]
+}

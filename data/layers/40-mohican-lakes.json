@@ -1,0 +1,364 @@
+{
+  "source": "40-mohican-lakes.js",
+  "featureCount": 34,
+  "features": [
+    {
+      "type": "circle",
+      "layer": "mohicanLakesBefore",
+      "geometry": {"lat": 42.4840, "lng": -73.2510},
+      "style": {
+        "radius": 140,
+        "color": "#87CEEB",
+        "weight": 2,
+        "opacity": 0.9,
+        "fillColor": "#87CEEB",
+        "fillOpacity": 0.5,
+        "dashArray": "5,3"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#87CEEB\">\ud83d\udca7 Pontoosuc \u2014 Original Northern Pond</h3>\n  <p><b>Size:</b> ~10 acres</p>\n  <p><b>Type:</b> Small glacial kettle or spring-fed pond</p>\n  <p><b>Mohican name:</b> <i>Pontoosuck</i> \u2014 \"a field or haven for winter deer.\" Also <i>Moonkeek-Shoonkeek</i> \u2014 after two legendary lovers who drowned together.</p>\n  <p><b>Use:</b> Fishing (perch, sunfish, eel), water source. A modest feature in a landscape dominated by the Housatonic River, wetlands, and hardwood forest.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;\">One of two original ponds that were merged and expanded 25x by mill dams.</p>\n</div>",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "circle",
+      "layer": "mohicanLakesBefore",
+      "geometry": {"lat": 42.4720, "lng": -73.2530},
+      "style": {
+        "radius": 140,
+        "color": "#87CEEB",
+        "weight": 2,
+        "opacity": 0.9,
+        "fillColor": "#87CEEB",
+        "fillOpacity": 0.5,
+        "dashArray": "5,3"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#87CEEB\">\ud83d\udca7 Pontoosuc \u2014 Original Southern Pond</h3>\n  <p><b>Size:</b> ~10 acres</p>\n  <p>Second of two small natural ponds that existed before mill dams merged and enlarged them. Each was roughly 600\u2013700 feet across.</p>\n</div>",
+      "popupOptions": {"maxWidth": 340}
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesAfter",
+      "geometry": [
+        [42.4920, -73.2560], [42.4900, -73.2480], [42.4860, -73.2440],
+        [42.4810, -73.2420], [42.4760, -73.2430], [42.4710, -73.2450],
+        [42.4660, -73.2480], [42.4630, -73.2520], [42.4640, -73.2570],
+        [42.4670, -73.2600], [42.4720, -73.2610], [42.4780, -73.2600],
+        [42.4830, -73.2580], [42.4880, -73.2570], [42.4920, -73.2560]
+      ],
+      "style": {
+        "color": "#4169E1",
+        "weight": 2,
+        "opacity": 0.7,
+        "fillColor": "#4169E1",
+        "fillOpacity": 0.2
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4169E1\">\ud83c\udfd7\ufe0f Pontoosuc Lake \u2014 Modern (25x Original Size)</h3>\n  <p><b>Modern size:</b> ~480\u2013511 acres, max depth 35 ft</p>\n  <p><b>Original:</b> Two small ponds, ~20 acres total</p>\n  <p><b>Expansion:</b> <span style=\"color:#A52A2A;font-weight:bold;\">25x larger</span> than what any Mohican ever saw</p>\n  <p><b>How:</b> Mill dams on outlet streams raised water levels and merged the two ponds into one large lake (19th century, updated/reinforced 2005).</p>\n  <p><b>Problems:</b> Now plagued by Eurasian milfoil, curly-leaf pondweed, and cyanobacteria blooms \u2014 problems that didn't exist when it was two small ponds with balanced ecosystems.</p>\n  <p><b>Seasonal drawdowns:</b> 3\u20135 ft each winter for dam safety and invasive species control.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> MA DEP; Berkshire Regional Planning Commission; \"Pontoosuc Lake\" diagnostic/feasibility study</p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesBefore",
+      "geometry": [
+        [42.4640, -73.2870], [42.4610, -73.2810], [42.4560, -73.2780],
+        [42.4500, -73.2790], [42.4450, -73.2820], [42.4420, -73.2870],
+        [42.4440, -73.2920], [42.4490, -73.2950], [42.4550, -73.2950],
+        [42.4610, -73.2930], [42.4640, -73.2870]
+      ],
+      "style": {
+        "color": "#87CEEB",
+        "weight": 2,
+        "opacity": 0.9,
+        "fillColor": "#87CEEB",
+        "fillOpacity": 0.4,
+        "dashArray": "5,3"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#87CEEB\">\ud83d\udca7 Onota \u2014 Original South Basin (Natural Glacial Lake)</h3>\n  <p><b>Size:</b> ~350\u2013400 acres (estimated)</p>\n  <p><b>Depth:</b> Up to 72 feet \u2014 classic glacial lake depth</p>\n  <p><b>Type:</b> Natural glacial lake \u2014 the deeper, larger basin</p>\n  <p><b>Context:</b> An old roadway marked the north end of the original lake before the dam was built. The north basin was a separate, shallower wetland/pond area.</p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesBefore",
+      "geometry": [
+        [42.4780, -73.2860], [42.4760, -73.2820], [42.4720, -73.2800],
+        [42.4680, -73.2810], [42.4660, -73.2850], [42.4680, -73.2890],
+        [42.4720, -73.2900], [42.4760, -73.2890], [42.4780, -73.2860]
+      ],
+      "style": {
+        "color": "#90EE90",
+        "weight": 2,
+        "opacity": 0.8,
+        "fillColor": "#90EE90",
+        "fillOpacity": 0.3,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#90EE90\">\ud83c\udf3f Onota \u2014 Original North Basin (Wetland/Shallow Pond)</h3>\n  <p><b>Before the dam:</b> A separate, shallower wetland/pond area connected to but distinct from the south basin glacial lake. Dense aquatic vegetation in areas less than 10 feet deep.</p>\n  <p><b>Land bridge:</b> An old roadway marked where land separated the two basins \u2014 now submerged under the expanded lake.</p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesAfter",
+      "geometry": [
+        [42.4810, -73.2880], [42.4790, -73.2810], [42.4740, -73.2770],
+        [42.4680, -73.2760], [42.4620, -73.2770], [42.4560, -73.2780],
+        [42.4500, -73.2790], [42.4440, -73.2810], [42.4400, -73.2850],
+        [42.4410, -73.2910], [42.4450, -73.2950], [42.4510, -73.2970],
+        [42.4570, -73.2970], [42.4640, -73.2960], [42.4700, -73.2940],
+        [42.4760, -73.2920], [42.4810, -73.2880]
+      ],
+      "style": {
+        "color": "#4169E1",
+        "weight": 2,
+        "opacity": 0.7,
+        "fillColor": "#4169E1",
+        "fillOpacity": 0.2
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4169E1\">\ud83c\udfd7\ufe0f Onota Lake \u2014 Modern (Dam Merged Two Water Bodies)</h3>\n  <p><b>Modern size:</b> 617\u2013653 acres, max depth 72 ft, 7.4 miles shoreline</p>\n  <p><b>Largest body of water</b> in the Upper Housatonic Watershed</p>\n  <p><b>How:</b> 19th-century dam raised water levels and merged a natural glacial lake (south basin) with a separate wetland/shallow pond (north basin) into one lake.</p>\n  <p><b>Evidence:</b> An old roadway marks the former land bridge between basins \u2014 the north and south basins still have minimal water exchange, behaving as \"two lakes in one.\"</p>\n  <p><b>Threats:</b> Zebra mussels (detected in nearby Laurel Lake), invasive species, nutrient loading.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> MA DEP; Berkshire Regional Planning Commission; USGS</p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesBefore",
+      "geometry": [
+        [42.3510, -73.3270], [42.3500, -73.3250], [42.3485, -73.3240],
+        [42.3470, -73.3250], [42.3465, -73.3270], [42.3475, -73.3290],
+        [42.3490, -73.3295], [42.3505, -73.3285], [42.3510, -73.3270]
+      ],
+      "style": {
+        "color": "#90EE90",
+        "weight": 2,
+        "opacity": 0.8,
+        "fillColor": "#90EE90",
+        "fillOpacity": 0.35,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#90EE90\">\ud83c\udf3f Mahkeenac \u2014 Original Wetland Complex</h3>\n  <p><b>Mohican name:</b> <i>Mahkeenac</i> \u2014 \"home of the Mahekanus\" (home of the Mohicans)</p>\n  <p><b>Before damming:</b> A wetland complex, likely with a small natural pond at its core. The Berkshire Eagle reports the area \"was a wetlands most likely frequented by the town's original settlers.\"</p>\n  <p><b>Mohican life:</b> Native Americans lived on a plain above the wetland that became the site of Tanglewood.</p>\n  <p><b>Mohican dam (c. 1750):</b> Remarkably, the Mohicans were FIRST to dam this water. Oral tradition holds they raised the water to flood a coal mine so white settlers couldn't work it. When the town dug under a gas pipeline, they unearthed an old wooden dam, circa 1750 \u2014 potentially Mohican-era.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Berkshire Eagle; NYT 1926 report; Stockbridge-Munsee Band</p>\n</div>",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesAfter",
+      "geometry": [
+        [42.3580, -73.3310], [42.3560, -73.3250], [42.3530, -73.3210],
+        [42.3490, -73.3190], [42.3450, -73.3200], [42.3410, -73.3220],
+        [42.3380, -73.3260], [42.3370, -73.3300], [42.3385, -73.3340],
+        [42.3410, -73.3360], [42.3450, -73.3370], [42.3500, -73.3360],
+        [42.3540, -73.3340], [42.3570, -73.3320], [42.3580, -73.3310]
+      ],
+      "style": {
+        "color": "#4169E1",
+        "weight": 2,
+        "opacity": 0.7,
+        "fillColor": "#4169E1",
+        "fillOpacity": 0.2
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4169E1\">\ud83c\udfd7\ufe0f Stockbridge Bowl \u2014 372 Acres (Entirely Artificial)</h3>\n  <p><b>Modern size:</b> 372 acres \u2014 described as \"a 372-acre artificially impounded body of water\"</p>\n  <p><b>Was:</b> A wetland complex. The entire lake is essentially a creation of damming.</p>\n  <p><b>Dam history \u2014 remarkably layered:</b></p>\n  <p>\u2022 <b>c. 1750:</b> Mohicans built the first dam (oral tradition + archaeological evidence of wooden dam)</p>\n  <p>\u2022 <b>1840:</b> Dam rebuilt, raised 1.5 ft for Curtisville Cotton Manufacturing</p>\n  <p>\u2022 <b>1868:</b> Barker family raised Newton dam to merge two water privileges</p>\n  <p>\u2022 <b>1880:</b> Current 340-foot-long earthen dam completed</p>\n  <p>\u2022 <b>1915:</b> Dan Hanna added flashboards, raised lake to \"abnormal height\" \u2014 sued</p>\n  <p>\u2022 Dam eventually <b>blown up</b> after lawsuit; lake dropped to lowest level in 100 years</p>\n  <p>\u2022 <b>1930s:</b> Water level raised again after public demand</p>\n  <p><b>Today:</b> Home to Tanglewood (Boston Symphony), Kripalu, Camp Mah-Kee-Nac, 400+ homes. Suffers from eutrophication.</p>\n  <p><b>Kwuniikwat Island:</b> The 2-acre island was named by Stockbridge-Munsee tribal council \u2014 Mohican for \"appearing long.\"</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Berkshire Eagle; NYT 1926; Stockbridge-Munsee Band; MA DEP</p>\n</div>",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesAfter",
+      "geometry": {"lat": 42.3490, "lng": -73.3270},
+      "style": {"radius": 4, "color": "#8B4513", "fillColor": "#8B4513", "fillOpacity": 0.8, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\ud83c\udfd6\ufe0f Kwuniikwat Island</h3>\n    <p><b>Meaning:</b> \"Appearing long\" (Mohican)</p>\n    <p><b>Named:</b> 2018 by the Stockbridge-Munsee tribal council</p>\n    <p><b>Size:</b> 2 acres, in the center of Stockbridge Bowl (Lake Mahkeenac)</p>\n    <p>A living act of Mohican naming in a landscape that was reshaped by damming but never forgotten.</p>\n  </div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesAfter",
+      "geometry": [
+        [42.3250, -73.2900], [42.3230, -73.2860], [42.3200, -73.2850],
+        [42.3170, -73.2870], [42.3165, -73.2910], [42.3185, -73.2940],
+        [42.3210, -73.2950], [42.3240, -73.2930], [42.3250, -73.2900]
+      ],
+      "style": {
+        "color": "#8B0000",
+        "weight": 2.5,
+        "opacity": 0.8,
+        "fillColor": "#8B0000",
+        "fillOpacity": 0.3
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#8B0000\">\u2620\ufe0f Woods Pond \u2014 The PCB Trap</h3>\n  <p><b>Location:</b> Lenox, MA \u2014 dam-created impoundment on the Housatonic River</p>\n  <p><b>Contains:</b> <span style=\"color:#8B0000;font-weight:bold;\">~11,000 pounds of PCBs</span> \u2014 approximately <b>50% of all the PCBs in the entire Housatonic River</b></p>\n  <p><b>Concentrations:</b> Up to 110 mg/kg in sediment</p>\n  <p><b>How:</b> The Woods Pond Dam acts as a sediment trap, catching PCB-laden sediment washing downstream from GE's Pittsfield facilities. Without the dam, the poison would have been more dispersed. The dam concentrated it into one horrific hot spot.</p>\n  <p><b>Before:</b> This was a free-flowing section of the Housatonic River \u2014 no impoundment, no dam, no trapped poison.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> EPA Housatonic River Superfund; MA DEP; Weston & Sampson 2004</p>\n</div>",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesBefore",
+      "geometry": {"lat": 42.3830, "lng": -73.3580},
+      "style": {"radius": 4, "color": "#87CEEB", "fillColor": "#87CEEB", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#87CEEB\">\ud83d\udca7 Richmond Pond \u2014 Housatonic Headwater</h3>\n    <p><b>Location:</b> Richmond, MA</p>\n    <p><b>Description:</b> Feeds the West Branch of the Housatonic River. Drops 140 feet in ~5 miles before joining the East Branch to form the Housatonic mainstem. One of the headwater lakes of the entire Housatonic system.</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 42.3200, "lng": -73.2870},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Woods Pond Dam</h3>\n      <p><b>Location:</b> Lenox</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>PCB trap \u2014 11,000 lbs of PCBs trapped behind dam</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 42.3050, "lng": -73.2480},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Columbia Mill Dam</h3>\n      <p><b>Location:</b> Lee</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Mill dam on mainstem</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 42.2920, "lng": -73.2630},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Willow Mill Dam</h3>\n      <p><b>Location:</b> South Lee</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Historic mill dam</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 42.2830, "lng": -73.3220},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Glendale Dam</h3>\n      <p><b>Location:</b> Stockbridge</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Impounds river in Glendale section</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 42.1960, "lng": -73.3620},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Rising Pond Dam</h3>\n      <p><b>Location:</b> Great Barrington</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Impounds Rising Pond on mainstem</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 41.9530, "lng": -73.3610},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Falls Village Dam</h3>\n      <p><b>Location:</b> Falls Village, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Hydroelectric; blocks fish passage</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 41.7390, "lng": -73.4850},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Bulls Bridge Dam</h3>\n      <p><b>Location:</b> Kent, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Hydroelectric dam</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 41.4650, "lng": -73.2730},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Shepaug Dam</h3>\n      <p><b>Location:</b> Southbury, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Creates Lake Lillinonah \u2014 1,900 acres</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 41.3800, "lng": -73.2300},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Stevenson Dam</h3>\n      <p><b>Location:</b> Monroe, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Creates Lake Zoar \u2014 975 acres</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanHousatonicDams",
+      "geometry": {"lat": 41.3250, "lng": -73.0850},
+      "style": {"radius": 4, "color": "#A52A2A", "fillColor": "#A52A2A", "fillOpacity": 0.7, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">\u2b1b Derby Dam</h3>\n      <p><b>Location:</b> Shelton, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Creates Lake Housatonic \u2014 328 acres</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> \u2014 a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "mohicanLakesAfter",
+      "geometry": [
+        [41.5100, -73.4750], [41.5000, -73.4600], [41.4850, -73.4500],
+        [41.4700, -73.4450], [41.4550, -73.4400], [41.4400, -73.4420],
+        [41.4300, -73.4500], [41.4250, -73.4600], [41.4300, -73.4700],
+        [41.4400, -73.4750], [41.4550, -73.4780], [41.4700, -73.4800],
+        [41.4850, -73.4790], [41.5000, -73.4770], [41.5100, -73.4750]
+      ],
+      "style": {
+        "color": "#1565C0",
+        "weight": 2,
+        "opacity": 0.7,
+        "fillColor": "#1565C0",
+        "fillOpacity": 0.2
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Candlewood Lake \u2014 CT's Largest (Entirely Artificial)</h3>\n  <p><b>Size:</b> 5,400 acres</p>\n  <p><b>Created:</b> 1926 \u2014 pump-storage reservoir, entirely artificial</p>\n  <p><b>Connecticut's largest lake</b> is a man-made reservoir. There was no lake here before 1926.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; CL&P/Eversource records</p>\n</div>",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesAfter",
+      "geometry": {"lat": 41.4650, "lng": -73.2600},
+      "style": {"radius": 5, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.5, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Lake Lillinonah (1900 acres)</h3>\n      <p><b>Created by:</b> Shepaug Dam</p>\n      <p><b>Type:</b> Hydroelectric impoundment on the Housatonic River</p>\n      <p><b>Before:</b> Free-flowing section of the Housatonic \u2014 <i>Usi-a-di-en-uk</i>. Fish (salmon, shad, herring, eel, sturgeon) traveled the entire 149-mile length.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; FERC hydroelectric records</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesAfter",
+      "geometry": {"lat": 41.3800, "lng": -73.2200},
+      "style": {"radius": 5, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.5, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Lake Zoar (975 acres)</h3>\n      <p><b>Created by:</b> Stevenson Dam</p>\n      <p><b>Type:</b> Hydroelectric impoundment on the Housatonic River</p>\n      <p><b>Before:</b> Free-flowing section of the Housatonic \u2014 <i>Usi-a-di-en-uk</i>. Fish (salmon, shad, herring, eel, sturgeon) traveled the entire 149-mile length.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; FERC hydroelectric records</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesAfter",
+      "geometry": {"lat": 41.3250, "lng": -73.0750},
+      "style": {"radius": 5, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.5, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Lake Housatonic (328 acres)</h3>\n      <p><b>Created by:</b> Derby Dam</p>\n      <p><b>Type:</b> Hydroelectric impoundment on the Housatonic River</p>\n      <p><b>Before:</b> Free-flowing section of the Housatonic \u2014 <i>Usi-a-di-en-uk</i>. Fish (salmon, shad, herring, eel, sturgeon) traveled the entire 149-mile length.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; FERC hydroelectric records</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanReservoirs",
+      "geometry": {"lat": 41.9350, "lng": -74.2200},
+      "style": {"radius": 6, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Ashokan Reservoir (1915)</h3>\n      <p><b>Size:</b> 8,315 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Flooded the towns of Olive and Shokan, displacing 2,000+ people. Entire communities \u2014 homes, churches, cemeteries, farms \u2014 submerged.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Galusha 1999 \"Liquid Assets\"</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanReservoirs",
+      "geometry": {"lat": 42.0700, "lng": -74.8700},
+      "style": {"radius": 6, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Pepacton Reservoir (1955)</h3>\n      <p><b>Size:</b> 5,700 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Largest in the NYC system. Flooded the towns of Arena, Pepacton, Shavertown, and Union Grove. Entire communities erased.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Delaware County Historical Association</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanReservoirs",
+      "geometry": {"lat": 42.0800, "lng": -75.3200},
+      "style": {"radius": 6, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Cannonsville Reservoir (1964)</h3>\n      <p><b>Size:</b> 4,800 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Flooded the town of Cannonsville and surrounding communities. One of the last major NYC reservoir projects.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Delaware County Historical Association</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanReservoirs",
+      "geometry": {"lat": 41.8400, "lng": -74.4200},
+      "style": {"radius": 6, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Rondout Reservoir (1950)</h3>\n      <p><b>Size:</b> 2,100 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Part of the Delaware System connecting western Catskills water to NYC.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanReservoirs",
+      "geometry": {"lat": 41.8200, "lng": -74.6400},
+      "style": {"radius": 6, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Neversink Reservoir (1954)</h3>\n      <p><b>Size:</b> 1,500 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Flooded the town of Neversink. Waters from here travel through the Neversink Tunnel to the Rondout Reservoir.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Sullivan County Historical Society</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanReservoirs",
+      "geometry": {"lat": 42.3800, "lng": -74.4500},
+      "style": {"radius": 6, "color": "#1565C0", "fillColor": "#1565C0", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">\ud83c\udfd7\ufe0f Schoharie Reservoir (1926)</h3>\n      <p><b>Size:</b> 1,100 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Part of the Catskill System. Waters diverted through the Shandaken Tunnel to the Esopus Creek and then to Ashokan.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP</p>\n    </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesBefore",
+      "geometry": {"lat": 42.0200, "lng": -73.4300},
+      "style": {"radius": 4, "color": "#87CEEB", "fillColor": "#87CEEB", "fillOpacity": 0.6, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#87CEEB\">\ud83d\udca7 Twin Lakes \u2014 Natural Glacial Lake (Relatively Unchanged)</h3>\n    <p><b>Location:</b> Salisbury, CT</p>\n    <p><b>Evidence of human use:</b> 5,000+ years</p>\n    <p><b>Status:</b> One of the few natural glacial lakes in the region that remains relatively close to its original size. A rare window into what the pre-dam landscape actually looked like.</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesBefore",
+      "geometry": {"lat": 44.5300, "lng": -73.2800},
+      "style": {"radius": 5, "color": "#87CEEB", "fillColor": "#87CEEB", "fillOpacity": 0.5, "weight": 2},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#87CEEB\">\ud83d\udca7 Lake Champlain \u2014 Natural (Essentially Unchanged in Size)</h3>\n    <p><b>Formed:</b> ~10,000 BP from the freshening of the Champlain Sea</p>\n    <p><b>Status:</b> Essentially unchanged in size in modern times, though affected by pollution and invasive species.</p>\n    <p><b>Names:</b></p>\n    <p>\u2022 <i>Caniaderi Guarunte</i> (Iroquois) \u2014 \"Door of the country\"</p>\n    <p>\u2022 <i>Pitawbagw</i> (Abenaki) \u2014 \"Double lake\"</p>\n  </div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mohicanLakesBefore",
+      "geometry": {"lat": 42.40, "lng": -73.30},
+      "style": {"radius": 3, "color": "#FFF", "fillColor": "#333", "fillOpacity": 0.8, "weight": 1},
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\ud83d\udcd6 Indigenous Lake & Water Names</h3>\n    <table style=\"width:100%;border-collapse:collapse;font-size:11px;margin-top:8px;\">\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.3);\">\n        <td style=\"padding:4px;font-weight:bold;\">Modern Name</td>\n        <td style=\"padding:4px;font-weight:bold;\">Indigenous Name</td>\n        <td style=\"padding:4px;font-weight:bold;\">Meaning</td>\n      </tr>\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.15);\">\n        <td style=\"padding:4px;\">Pontoosuc Lake</td>\n        <td style=\"padding:4px;font-style:italic;\">Pontoosuck</td>\n        <td style=\"padding:4px;\">Field/haven for winter deer</td>\n      </tr>\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.15);\">\n        <td style=\"padding:4px;\">(same)</td>\n        <td style=\"padding:4px;font-style:italic;\">Moonkeek-Shoonkeek</td>\n        <td style=\"padding:4px;\">Legendary lovers who drowned</td>\n      </tr>\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.15);\">\n        <td style=\"padding:4px;\">Stockbridge Bowl</td>\n        <td style=\"padding:4px;font-style:italic;\">Mahkeenac</td>\n        <td style=\"padding:4px;\">Home of the Mohicans</td>\n      </tr>\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.15);\">\n        <td style=\"padding:4px;\">Bowl island</td>\n        <td style=\"padding:4px;font-style:italic;\">Kwuniikwat</td>\n        <td style=\"padding:4px;\">Appearing long (named 2018)</td>\n      </tr>\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.15);\">\n        <td style=\"padding:4px;\">Housatonic River</td>\n        <td style=\"padding:4px;font-style:italic;\">Usi-a-di-en-uk</td>\n        <td style=\"padding:4px;\">Beyond the mountain place</td>\n      </tr>\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.15);\">\n        <td style=\"padding:4px;\">Pittsfield area</td>\n        <td style=\"padding:4px;font-style:italic;\">Pontoosuck</td>\n        <td style=\"padding:4px;\">Field/haven for winter deer</td>\n      </tr>\n      <tr style=\"border-bottom:1px solid rgba(193,154,107,0.15);\">\n        <td style=\"padding:4px;\">Lake Champlain</td>\n        <td style=\"padding:4px;font-style:italic;\">Caniaderi Guarunte</td>\n        <td style=\"padding:4px;\">Door of the country (Iroquois)</td>\n      </tr>\n      <tr>\n        <td style=\"padding:4px;\">(same)</td>\n        <td style=\"padding:4px;font-style:italic;\">Pitawbagw</td>\n        <td style=\"padding:4px;\">Double lake (Abenaki)</td>\n      </tr>\n    </table>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Stockbridge-Munsee Band; historical colonial records; Calloway 1990</p>\n  </div>",
+      "popupOptions": {"maxWidth": 420}
+    }
+  ]
+}

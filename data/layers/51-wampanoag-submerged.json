@@ -1,0 +1,775 @@
+{
+  "source": "51-wampanoag-submerged.js",
+  "featureCount": 22,
+  "features": [
+    {
+      "type": "polyline",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          40,
+          -69
+        ],
+        [
+          40.2,
+          -68.5
+        ],
+        [
+          40.5,
+          -68
+        ],
+        [
+          40.8,
+          -67.5
+        ],
+        [
+          41,
+          -67.2
+        ],
+        [
+          41.2,
+          -67
+        ],
+        [
+          41.5,
+          -66.8
+        ],
+        [
+          41.8,
+          -66.6
+        ],
+        [
+          42.1,
+          -66.5
+        ],
+        [
+          42.4,
+          -66.6
+        ],
+        [
+          42.7,
+          -66.8
+        ],
+        [
+          43,
+          -67
+        ]
+      ],
+      "style": {
+        "color": "#1A237E",
+        "weight": 4,
+        "opacity": 0.8,
+        "dashArray": "12,6",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1A237E\">~20,000 BP — Glacial Maximum Shoreline</h3><p>Sea level: ~400 ft below present. Distance: 60–100 miles further east.</p></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          40.3,
+          -69.5
+        ],
+        [
+          40.5,
+          -69.2
+        ],
+        [
+          40.8,
+          -68.8
+        ],
+        [
+          41,
+          -68.5
+        ],
+        [
+          41.2,
+          -68.3
+        ],
+        [
+          41.4,
+          -68.1
+        ],
+        [
+          41.6,
+          -67.9
+        ],
+        [
+          41.8,
+          -67.8
+        ],
+        [
+          42,
+          -67.8
+        ],
+        [
+          42.2,
+          -67.9
+        ],
+        [
+          42.5,
+          -68
+        ],
+        [
+          42.8,
+          -68.2
+        ]
+      ],
+      "style": {
+        "color": "#283593",
+        "weight": 3,
+        "opacity": 0.7,
+        "dashArray": "10,5",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#283593\">~12,000 BP — Paleoindian Era Shoreline</h3><p>Sea level: ~200 ft below present.</p></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          40.8,
+          -70.3
+        ],
+        [
+          41,
+          -70.1
+        ],
+        [
+          41.15,
+          -69.8
+        ],
+        [
+          41.25,
+          -69.5
+        ],
+        [
+          41.35,
+          -69.3
+        ],
+        [
+          41.5,
+          -69.1
+        ],
+        [
+          41.65,
+          -68.9
+        ],
+        [
+          41.85,
+          -68.8
+        ],
+        [
+          42.05,
+          -68.8
+        ],
+        [
+          42.25,
+          -68.9
+        ],
+        [
+          42.45,
+          -69
+        ]
+      ],
+      "style": {
+        "color": "#1565C0",
+        "weight": 3,
+        "opacity": 0.7,
+        "dashArray": "8,4",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1565C0\">~7,500 BP — Martha's Vineyard Separated</h3><p>Sea level: ~50 ft below present.</p></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          41.1,
+          -70.5
+        ],
+        [
+          41.25,
+          -70.2
+        ],
+        [
+          41.38,
+          -69.95
+        ],
+        [
+          41.5,
+          -69.7
+        ],
+        [
+          41.6,
+          -69.5
+        ],
+        [
+          41.75,
+          -69.3
+        ],
+        [
+          41.9,
+          -69.1
+        ],
+        [
+          42.05,
+          -69
+        ],
+        [
+          42.2,
+          -69.05
+        ],
+        [
+          42.4,
+          -69.15
+        ]
+      ],
+      "style": {
+        "color": "#1E88E5",
+        "weight": 3,
+        "opacity": 0.65,
+        "dashArray": "6,4",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E88E5\">~6,000 BP — Nantucket Sound Floods</h3><p>Sea level: ~30 ft below present.</p></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41,
+        "lng": -67.2
+      },
+      "style": {
+        "radius": 0,
+        "opacity": 0
+      },
+      "options": {
+        "interactive": false
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.2,
+        "lng": -68.3
+      },
+      "style": {
+        "radius": 0,
+        "opacity": 0
+      },
+      "options": {
+        "interactive": false
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.15,
+        "lng": -69.8
+      },
+      "style": {
+        "radius": 0,
+        "opacity": 0
+      },
+      "options": {
+        "interactive": false
+      }
+    },
+    {
+      "type": "polygon",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          41.2,
+          -67.8
+        ],
+        [
+          41.4,
+          -67.2
+        ],
+        [
+          41.6,
+          -66.8
+        ],
+        [
+          41.8,
+          -66.4
+        ],
+        [
+          42,
+          -66.2
+        ],
+        [
+          42.2,
+          -66.1
+        ],
+        [
+          42.4,
+          -66.3
+        ],
+        [
+          42.2,
+          -66.8
+        ],
+        [
+          42,
+          -67.2
+        ],
+        [
+          41.8,
+          -67.5
+        ],
+        [
+          41.5,
+          -67.8
+        ],
+        [
+          41.3,
+          -67.9
+        ]
+      ],
+      "style": {
+        "color": "#4A148C",
+        "weight": 3,
+        "fillColor": "#4A148C",
+        "fillOpacity": 0.08,
+        "dashArray": "10,5",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4A148C\">Georges Island — Lost Mega-Island</h3><p>Once larger than Massachusetts. Submerged by ~6,000 BP.</p></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.8,
+        "lng": -66.9
+      },
+      "style": {
+        "radius": 8,
+        "color": "#4A148C",
+        "fillColor": "#4A148C",
+        "fillOpacity": 0.3,
+        "weight": 3
+      },
+      "popup": ""
+    },
+    {
+      "type": "polygon",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          41.7,
+          -70.3
+        ],
+        [
+          41.65,
+          -70.1
+        ],
+        [
+          41.6,
+          -69.95
+        ],
+        [
+          41.55,
+          -69.9
+        ],
+        [
+          41.45,
+          -69.95
+        ],
+        [
+          41.35,
+          -70
+        ],
+        [
+          41.3,
+          -70.1
+        ],
+        [
+          41.32,
+          -70.25
+        ],
+        [
+          41.35,
+          -70.4
+        ],
+        [
+          41.4,
+          -70.5
+        ],
+        [
+          41.5,
+          -70.55
+        ],
+        [
+          41.6,
+          -70.45
+        ]
+      ],
+      "style": {
+        "color": "#006064",
+        "weight": 2,
+        "fillColor": "#006064",
+        "fillOpacity": 0.1,
+        "dashArray": "6,3",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#006064\">Nantucket Sound — Drowned Coastal Plain</h3><p>Submerged ~6,000 BP. ~600 sq mi of former dry land.</p></div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          41.45,
+          -70.5
+        ],
+        [
+          41.48,
+          -70.75
+        ],
+        [
+          41.52,
+          -70.85
+        ],
+        [
+          41.55,
+          -70.9
+        ],
+        [
+          41.6,
+          -70.88
+        ],
+        [
+          41.63,
+          -70.75
+        ],
+        [
+          41.6,
+          -70.6
+        ],
+        [
+          41.55,
+          -70.5
+        ],
+        [
+          41.5,
+          -70.45
+        ]
+      ],
+      "style": {
+        "color": "#7B1FA2",
+        "weight": 2,
+        "fillColor": "#7B1FA2",
+        "fillOpacity": 0.08,
+        "dashArray": "6,3",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#7B1FA2\">Vineyard Sound — Moshup's Channel</h3><p>Flooded ~7,500 BP.</p></div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          42.2,
+          -70.3
+        ],
+        [
+          42.3,
+          -70.15
+        ],
+        [
+          42.4,
+          -70.05
+        ],
+        [
+          42.5,
+          -70
+        ],
+        [
+          42.55,
+          -70.05
+        ],
+        [
+          42.5,
+          -70.2
+        ],
+        [
+          42.4,
+          -70.3
+        ],
+        [
+          42.3,
+          -70.35
+        ]
+      ],
+      "style": {
+        "color": "#0D47A1",
+        "weight": 2,
+        "fillColor": "#0D47A1",
+        "fillOpacity": 0.1,
+        "dashArray": "6,3",
+        "pane": "submergedPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">Stellwagen Bank — Drowned Island</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.5,
+        "lng": -69.6
+      },
+      "style": {
+        "radius": 10,
+        "color": "#FF6F00",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.15,
+        "weight": 2,
+        "dashArray": "4,3"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — Nantucket Sound Shelf</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.15,
+        "lng": -70.6
+      },
+      "style": {
+        "radius": 10,
+        "color": "#FF6F00",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.15,
+        "weight": 2,
+        "dashArray": "4,3"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — South of Martha's Vineyard</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.8,
+        "lng": -69.5
+      },
+      "style": {
+        "radius": 10,
+        "color": "#FF6F00",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.15,
+        "weight": 2,
+        "dashArray": "4,3"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — East of Cape Cod</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.9,
+        "lng": -70.45
+      },
+      "style": {
+        "radius": 5,
+        "color": "#FF6F00",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.6,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Deep Sea Plummet — Off Gurnet Head, Plymouth</h3></div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "wampanoagSubmerged",
+      "geometry": [
+        [
+          41.35,
+          -70.3
+        ],
+        [
+          41.35,
+          -69.95
+        ],
+        [
+          41.65,
+          -69.95
+        ],
+        [
+          41.65,
+          -70.3
+        ]
+      ],
+      "style": {
+        "color": "#00C853",
+        "weight": 2,
+        "fillColor": "#00C853",
+        "fillOpacity": 0.06,
+        "dashArray": "8,4"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#00C853\">Active Research Area — BUAR Submerged Paleolandscapes</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41.52,
+        "lng": -70.67
+      },
+      "style": {
+        "radius": 6,
+        "color": "#fff",
+        "fillColor": "#006064",
+        "fillOpacity": 0.9,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#006064\">Sea Level Rise Timeline — Wampanoag Territory</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSubmerged",
+      "geometry": {
+        "lat": 41,
+        "lng": -68
+      },
+      "style": {
+        "radius": 4,
+        "color": "#fff",
+        "fillColor": "#0D47A1",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">The Scale of the Crisis — National Context</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagThreat",
+      "geometry": [
+        [
+          41.33,
+          -70.77
+        ],
+        [
+          41.3,
+          -70.65
+        ],
+        [
+          41.32,
+          -70.52
+        ],
+        [
+          41.35,
+          -70.45
+        ],
+        [
+          41.38,
+          -70.42
+        ],
+        [
+          41.42,
+          -70.43
+        ],
+        [
+          41.45,
+          -70.5
+        ],
+        [
+          41.47,
+          -70.6
+        ]
+      ],
+      "style": {
+        "color": "#D32F2F",
+        "weight": 3,
+        "opacity": 0.7,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Martha's Vineyard — Modern Erosion & Sea Level Rise</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagThreat",
+      "geometry": [
+        [
+          41.22,
+          -70.05
+        ],
+        [
+          41.25,
+          -69.95
+        ],
+        [
+          41.28,
+          -69.93
+        ],
+        [
+          41.3,
+          -69.95
+        ],
+        [
+          41.32,
+          -70.05
+        ],
+        [
+          41.3,
+          -70.15
+        ]
+      ],
+      "style": {
+        "color": "#D32F2F",
+        "weight": 3,
+        "opacity": 0.7,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Nantucket — Accelerated Erosion</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagThreat",
+      "geometry": [
+        [
+          41.67,
+          -69.93
+        ],
+        [
+          41.75,
+          -69.95
+        ],
+        [
+          41.85,
+          -69.97
+        ],
+        [
+          41.95,
+          -70
+        ],
+        [
+          42.03,
+          -70.05
+        ],
+        [
+          42.05,
+          -70.1
+        ]
+      ],
+      "style": {
+        "color": "#D32F2F",
+        "weight": 3,
+        "opacity": 0.7,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Cape Cod Outer Coast — Ongoing Erosion</h3></div>"
+    }
+  ]
+}

@@ -1,0 +1,1940 @@
+{
+  "source": "08-bayarea-shellmounds.js",
+  "featureCount": 89,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.838,
+        "lng": -122.292
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Emeryville Shellmound</h4><span class=\"ptype pt-shellmound\">Chochenyo Ohlone — ~800 BCE to ~1600 CE</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Once the largest shellmound in the region — 60 ft high, 350 ft wide. Leveled for an amusement park (1876), then a steel plant (1924). UC Berkeley excavated 700+ graves. Bay Street Mall built on site 1999-2003 despite protest; ~300 more bodies found during construction, reburied on-site. Annual Black Friday protest continues. Remains of unknown number still interred under shops.<div class=\"popup-src\">📖 Nelson (1909); KQED Bay Curious; Sacred Land Film Project; Cediel, \"Shellmound\" documentary (2005)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.863,
+        "lng": -122.303
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>West Berkeley Shellmound</h4><span class=\"ptype pt-shellmound\">Chochenyo Ohlone — ~3700 BCE (oldest Bay Area habitation)</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>CA-ALA-307. Oldest known human settlement on San Francisco Bay. Once 300 ft long, 30 ft high. Active fishing village with tule balsa canoes, underground ovens. Removed 1853-1910, material used for road paving. Under Spenger's parking lot at 1900 4th St until 2024 sale to Sogorea Te' Land Trust for $27M. Listed on California Register of Historical Resources.<div class=\"popup-src\">📖 Lightfoot (UC Berkeley); shellmound.org; National Trust for Historic Preservation; Wikipedia</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.068,
+        "lng": -122.225
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Sogorea Te' (Glen Cove)</h4><span class=\"ptype pt-shellmound\">Karkin Ohlone — ~1500 BCE</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>CA-SOL-326. Sacred gathering place and burial ground on the Carquinez Strait used by Ohlone, Miwok, Pomo, Patwin, and other tribes for 3,500+ years. Hundreds of skeletal remains documented. In 2011, a 109-day spiritual encampment led by Corrina Gould prevented further development. Cultural easement established. Inspired the founding of Sogorea Te' Land Trust (2015).<div class=\"popup-src\">📖 protectsogoreate.org; Sacred Land Film Project; Sogorea Te' Land Trust</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.551,
+        "lng": -122.087
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Coyote Hills / Ryan Mound</h4><span class=\"ptype pt-shellmound\">Tuibun Ohlone — ~100 BCE to 1767 CE</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>CA-ALA-329. One of few preserved shellmounds in the Bay Area. 400x298 ft base, 10 ft high. ~500 ancestral burials excavated by Stanford/SJSU 1935-1972. Abalone pendants, harpoons, obsidian tools found. Now protected in Coyote Hills Regional Park with reconstructed Ohlone village. Trail markers updated 2022 with Chochenyo names.<div class=\"popup-src\">📖 Leventhal (1993) Muwekma Ohlone Tribal Press; East Bay Regional Parks; NUMU</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.898,
+        "lng": -122.375
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Ellis Landing</h4><span class=\"ptype pt-shellmound\">Bay Miwok/Ohlone — ~3000 year span</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>CA-CCO-295. Large shell mound in Richmond on San Francisco Bay with 3,000+ year chronology. Excavated by Nels Nelson 1906-1908. Recent re-analysis of Hearst Museum collections providing new insights into harvesting practices and community dynamics.<div class=\"popup-src\">📖 Nelson (1909); Hearst Museum UC Berkeley; tDAR core collection</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.686,
+        "lng": -122.432
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>San Bruno Mountain Shellmound</h4><span class=\"ptype pt-shellmound\">Ramaytush Ohlone</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>One of the few shellmounds protected by land-use designation. Located at the base of San Bruno Mountain, just south of San Francisco. The mountain itself is one of the last remnants of native coastal scrub habitat in the Bay Area.<div class=\"popup-src\">📖 Sacred Land Film Project; San Bruno Mountain Watch</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.786,
+        "lng": -122.402
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Yerba Buena / SF Center</h4><span class=\"ptype pt-shellmound\">Yelamu Ohlone</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Shellmound lies beneath what is now Yerba Buena Gardens and surrounding development in downtown San Francisco. Part of the extensive network of 425+ mounds documented by Nelson in 1909 around the bay shoreline.<div class=\"popup-src\">📖 Nelson (1909); FoundSF \"Searching for the Yelamu\"; KQED</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.766,
+        "lng": -122.244
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Sather Mound (Alameda)</h4><span class=\"ptype pt-shellmound\">Chochenyo Ohlone — pre-contact</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Three acres, 14 ft high. 450+ individuals disinterred in 1908 when developers bisected the mound to extend Santa Clara Avenue. Owned by gold rush banker Peder Sather. In 1890, children reportedly found a skull and \"played football with it.\" SF Academy of Sciences excavated extensively.<div class=\"popup-src\">📖 Alameda LocalWiki; Daily Call (1892); Imelda Merlin, Alameda historian</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.764,
+        "lng": -122.427
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Mission Dolores Site</h4><span class=\"ptype pt-shellmound\">Yelamu Ohlone — ~2000+ years</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Major archaeological site near Mission Creek. The Mission San Francisco de Asís (Dolores) was established in 1776 near existing Ohlone settlements. Church records show 5,000+ Native people died at Bay Area missions from disease and maltreatment. Spanish described this area as abundantly watered with a thriving indigenous population.<div class=\"popup-src\">📖 FoundSF; Mission Dolores records; Milliken, \"A Time of Little Choice\" (1995)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.8,
+        "lng": -122.27
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Downtown Oakland Shellmound</h4><span class=\"ptype pt-shellmound\">Chochenyo Ohlone</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>One of many hidden shellmounds under Oakland. This one reportedly lies beneath a Burger King in downtown Oakland — a stark symbol of how the Bay Area's development literally paved over indigenous sacred sites. Part of Nelson's 425 catalogued mounds.<div class=\"popup-src\">📖 KQED Bay Curious (2018); Nelson (1909); SFMOMA Open Space (2019)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.105,
+        "lng": -122.568
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Olompali (Mrn-193)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — ~6000 BCE to 1850s CE</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>One of the most important Coast Miwok sites in the Bay Area. Continuously inhabited for ~8,000 years — possibly the longest in the region. Six archaeological sites within the park; Mrn-193 alone covers 6+ acres with ~50,000 artifacts recovered. An Elizabethan silver sixpence (1567) was found here, suggesting contact with Sir Francis Drake's 1579 expedition. The only Native American in Northern California to confirm a U.S. land grant (Camilo Ynitia) lived here. Now Olompali State Historic Park.<div class=\"popup-src\">📖 CA State Parks; Slaymaker excavations 1972-1997; Friends of Olompali; Wikipedia</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.942,
+        "lng": -122.513
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Kule Loklo (Bear Valley)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — reconstructed village</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Reconstructed Coast Miwok village at Point Reyes National Seashore. The name means \"Bear Valley\" in Coast Miwok. Features traditional kotcha houses, a sweat lodge, and shade structures. The broader Point Reyes area contained numerous Miwok villages; 3,000-4,000 years of continuous habitation documented in west Marin. Annual gathering of Coast Miwok descendants held here.<div class=\"popup-src\">📖 NPS Point Reyes National Seashore; MAPOM; Federated Indians of Graton Rancheria</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.928,
+        "lng": -122.57
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Toms Point Trading Post</h4><span class=\"ptype pt-shellmound\">Coast Miwok — 3000+ years to 1850s</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Site of 3,000-year-old Coast Miwok villages that became a thriving 19th-century trading post after Boston sailor George Wood arrived. Archaeological work by Tsim Schneider (UCSC/Graton Rancheria) recovered obsidian points, grinding stones, copper beads, and evidence that indigenous people applied traditional skills to imported materials. Near an 1852 shipwreck site also under investigation.<div class=\"popup-src\">📖 Schneider &amp; Panich (2016-present); UCSC News; Archaeology Magazine (2022)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.881,
+        "lng": -122.494
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>China Camp Shellmounds</h4><span class=\"ptype pt-shellmound\">Coast Miwok — pre-contact through mission period</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Shellmound sites at China Camp State Park in San Rafael. Archaeological analysis showed people living atop the mounds subsisted on seafood, birds, deer, pronghorn, sea otters, and harbor seals even as nearby missions introduced European agriculture. Evidence that indigenous communities persisted beyond the mission period.<div class=\"popup-src\">📖 Schneider &amp; Panich; Archaeology Magazine \"California's Coastal Homelands\" (2022)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.87,
+        "lng": -122.48
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>San Rafael Shellmound (Nelson)</h4><span class=\"ptype pt-shellmound\">Coast Miwok</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Shellmound photographed and documented by Nels Nelson in his 1909 survey. One of many mounds along the Marin shoreline. Nelson's photographs from San Rafael show mounds that were subsequently leveled. The material was used to fill land and pave roads across Marin County.<div class=\"popup-src\">📖 Nelson, \"Shellmounds of the San Francisco Bay Region\" (1909); KQED; MAPOM</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.89,
+        "lng": -122.53
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Strawberry Point Shellmounds</h4><span class=\"ptype pt-shellmound\">Coast Miwok</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Five shellmounds documented on Strawberry Point, a peninsula jutting into Richardson's Bay in southern Marin. Site Mrn-20 excavated and published — situated on southwestern slope overlooking the bay and Marin City. Most mounds were on the western (windward) side despite harsher conditions.<div class=\"popup-src\">📖 American Antiquity journal; Nelson (1909); Cambridge University Press</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.905,
+        "lng": -122.34
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Angel Island Miwok Sites</h4><span class=\"ptype pt-shellmound\">Coast Miwok — seasonal camps</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Coast Miwok established seasonal camps at Ayala Cove, Camp Reynolds, Fort McDowell, and the Immigration Station areas. They hunted deer, seals, sea lions, sea otters, and salmon through Raccoon Strait. Middens produced bones, shell money, abalone jewelry, mortars, pestles, obsidian arrow points, and redwood driftwood from crematoriums.<div class=\"popup-src\">📖 Angel Island State Park; Visit Marin; CA State Parks</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.925,
+        "lng": -122.595
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Mill Valley / Tamalpais Park Mound</h4><span class=\"ptype pt-shellmound\">Coast Miwok — pre-contact</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>A 20-foot-high shellmound documented in what is now the Tamalpais Park neighborhood, photographed by Nelson between 1904-1909. Left by Miwok who lived in the area until the late 1700s. It remained for over 100 years before being used to pave local roads. Mount Tamalpais above was and remains a sacred Coast Miwok site.<div class=\"popup-src\">📖 Nelson (1909); Mill Valley Historical Society; Coast Miwok Tribal Council of Marin</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.934,
+        "lng": -122.519
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Larkspur \"Grandfather Midden\"</h4><span class=\"ptype pt-shellmound\">Coast Miwok — ~4500 years old</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Dubbed the \"grandfather midden\" by archaeologists for its extraordinary richness. 4,500-year-old site with 600 human burials destroyed under confidentiality agreement for luxury home construction. Contained largest collection of bear bones (100+ grizzly/black bears) ever found at a Bay Area prehistoric site, plus ceremonial condor burial (unprecedented in California), atlatl throwing sticks, flutes, beads, and trade objects. Senior State Parks archaeologist called it unlike anything in 40 years.<div class=\"popup-src\">📖 SFGate (2014); E. Breck Parkman (CA State Parks); Dwight Simons; East Bay Hill People</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.238,
+        "lng": -122.04
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Suisun Valley / Stonedene</h4><span class=\"ptype pt-shellmound\">Patwin (Suisun) — ~1000+ years</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Mortar holes and a sacred cupule stone near the historic Stonedene mansion indicate continuous habitation for ~1,000 years. Archaeological studies determined the property contains human burials. The Suisun Valley along Suisun Valley Road was described as \"the magic mile\" — the most expansive area of Native American population in Solano County. People regularly find arrowheads and grinding stones.<div class=\"popup-src\">📖 Solano County Historical Society; Daily Republic; Stonedene Foundation</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.238,
+        "lng": -122.041
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Peña Adobe / Vacaville Patwin</h4><span class=\"ptype pt-shellmound\">Patwin (Ulatis) — pre-contact to colonial</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Peña Adobe Park in Vacaville preserves the history of the Ulatis tribelet of the Patwin. The Ulatis gave their name to Ulatis Creek. Interactive programs demonstrate Patwin life including hunting, gathering, fishing, and trade. The Patwin name \"Vacaville\" derives from the Vaca family's Mexican land grant (Rancho Los Putos), which was built on Patwin ancestral territory.<div class=\"popup-src\">📖 Solano County Historical Society; CA State Parks; Daily Republic</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.23,
+        "lng": -122.155
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Rush Ranch / Suisun Marsh Patwin</h4><span class=\"ptype pt-shellmound\">Patwin (Suisun) — pre-contact</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Rush Ranch, a 2,070-acre Solano Land Trust property in Suisun Marsh, preserves evidence of Patwin life. Volunteers have built a traditional tule hut using marsh tule on willow frames. The Suisun people lived on the shores of present-day Suisun City when Spanish soldiers attacked in 1810, kidnapping children to Mission Dolores. Chief Sem-Yeto (later \"Chief Solano\") led the Suisun tribelet from here.<div class=\"popup-src\">📖 Solano Land Trust; Daily Republic; Solano County history; Virgil Sellers (Suisun descendant)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.862,
+        "lng": -122.58
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Liwanelowa (Huimen village at Sausalito)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Huimen tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Named village at present-day Sausalito, documented in mission baptismal records. The Huimen were the first Coast Miwok to enter Mission San Francisco (1783). Their territory covered ~38 square miles of southern Marin including Muir Woods, Mill Valley, and Richardson Bay. Chief Marin (Huicmuse) was of the Huimen. The village name \"Liwanelowa\" was recorded by missionaries.<div class=\"popup-src\">📖 Milliken (1995) \"A Time of Little Choice\"; Wikipedia Coast Miwok; MarinCoastMiwok.com</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.863,
+        "lng": -122.575
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Huimen Village at Muir Beach</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Huimen tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>NPS documents the closest year-round Huimen community on the Muir Beach floodplain at the mouth of Redwood Creek. The Huimen managed this watershed — burning areas every 2-3 decades for ecosystem health. Their paths preceded modern trail alignments including the Dipsea Trail. The village sustained the community that also used Muir Woods seasonally.<div class=\"popup-src\">📖 NPS \"Coast Miwok at Muir Woods\"; Milliken (1995); CA State Parks</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.978,
+        "lng": -122.5
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Ewu / Puyuku (near Ignacio)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Tamal-Aguasto tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Two named villages near present-day Ignacio: Ewu and Puyuku (south). A third, Shotokmo-cha, was to the southeast. The Tamal people lived in the Miller Creek watershed (now Terra Linda) while the Aguasto lived to the south. There was enough intermarriage that Milliken groups them as a single tribelet. The name \"Tamal\" gives us \"Tamalpais\" (west hill) and \"Tomales\" (west coast).<div class=\"popup-src\">📖 Milliken (1995); MarinCoastMiwok.com; Wikipedia Coast Miwok; California Frontier Project</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.068,
+        "lng": -122.57
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Chokeche / Olompolli (near Novato)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Olompali tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Two named villages near present-day Novato: Chokeche and Olompolli (to the northwest). The Olompali tribelet controlled 25 square miles around San Antonio Creek. Olompolli village (Olompali) was the largest — continuously inhabited from ~6000 BCE with 50,000+ artifacts recovered. An Elizabethan sixpence (1567) found here suggests contact with Francis Drake.<div class=\"popup-src\">📖 Milliken (1995); MarinCoastMiwok.com; Friends of Olompali; CA State Parks</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.01,
+        "lng": -122.765
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Olema-loke (at Olema)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Olema tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Named village at present-day Olema, near Point Reyes Station. The Olema tribelet inhabited the coastal valleys. The village name gives us the modern town name. Nearby Kule Loklo (\"Bear Valley\") at Point Reyes National Seashore is a reconstructed Miwok village. Olema people began entering Mission Dolores in 1804-1809 during the period Milliken calls \"the Alaskan Invasion\" when Russian-Aleut hunters raided the coast.<div class=\"popup-src\">📖 Milliken (1995); NPS Point Reyes; MarinCoastMiwok.com</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.04,
+        "lng": -122.67
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Echa-tamal (at Nicasio)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Echa-tamal tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Named village at present-day Nicasio. After Mission San Rafael closed (1834), the Mexican government allowed ex-neophyte Indians to own land at Nicasio — one of only two locations in Coast Miwok territory (the other being Olompali). ~500 Indians settled on 20 leagues (80,000 acres) at Nicasio in 1835. By 1850, non-Indian land seizures reduced this to just 4,000 acres.<div class=\"popup-src\">📖 Milliken (1995); Graton Rancheria history; MarinCoastMiwok.com</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.105,
+        "lng": -122.62
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Shotommo-wi (Tomales Bay)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Omiomi tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Named village near the mouth of San Antonio Creek on Tomales Bay. The Omiomi tribelet inhabited the Tomales Bay shoreline. Other named Tomales Bay villages include Echa-kolum and Sakloki (opposite Tomales Point, near Dillon Beach). The bay name \"Tomales\" is Miwok for \"west\" or \"coast.\" Omiomi people began entering missions in 1810-1814.<div class=\"popup-src\">📖 Milliken (1995); MarinCoastMiwok.com; Wikipedia Coast Miwok</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.18,
+        "lng": -122.93
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Utumia (at Tomales town)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Omiomi/Olamentko</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Named village near present-day town of Tomales. This was the boundary area between the Hookooeko (Marin Miwok) and Olamentko (Bodega Miwok) groups. Bodega Bay villages included Helapattai, Hime-takala, Ho-takala, Suwutenne, Tiwut-huya, and Tokau. Also nearby: Awachi at the mouth of Estero Americano Creek.<div class=\"popup-src\">📖 Milliken (1995); MarinCoastMiwok.com; Merriam ethnographic notes</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.23,
+        "lng": -122.97
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Pulya-lakum (Salmon Creek)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Olamentko</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Named village on the ocean near the mouth of Salmon Creek, documented by Merriam. The Olamentko (Bodega Miwok) traditionally lived around Bodega Bay. Bodega Miwok William Smith and relatives founded the commercial fishing industry in the Bodega area — one family continued as commercial fishermen into the 1970s, another maintained an oyster harvesting business.<div class=\"popup-src\">📖 Merriam ethnographic notes; Graton Rancheria history; MarinCoastMiwok.com</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.13,
+        "lng": -122.52
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Petaluma village (Petaluma tribelet)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Petaluma tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Named village east of the Petaluma River at present-day Petaluma. Other villages in this vicinity included Etem, Tuchayelin (northwest), Likatiut (on Petaluma River north of town), Meleya (on San Antonio Creek SW of Petaluma), Susuli, Tulme, and Wotoki (south side of Petaluma River). The Petaluma tribelet was one of the last to enter the missions (1814-1816).<div class=\"popup-src\">📖 Milliken (1995); MarinCoastMiwok.com; Wikipedia Coast Miwok</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.96,
+        "lng": -122.52
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>MRN-115 / MRN-328 (Point San Pedro)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — archaeological sites</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Two major archaeological sites on Point San Pedro / China Camp peninsula. MRN-115 was first excavated by Clement Meighan in 1949; re-excavated by Tsim Schneider for his UC Berkeley dissertation on colonial encounters. MRN-328 showed evidence of long-term residence before, during, and after Spanish settlement (1776-1830s). Schneider found that Coast Miwok returned to these \"places of refuge\" from the missions to practice traditional subsistence and ceremonies.<div class=\"popup-src\">📖 Schneider (UC Berkeley dissertation); Meighan (1949); American Antiquity; Hearst Museum</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.0,
+        "lng": -122.455
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>MRN-254 (Dominican University)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — archaeological site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Archaeological site CA-MRN-254 at Dominican University of California in San Rafael. A 2022 Quaternary International paper studied mollusk and invertebrate remains from this site to understand climate change impacts over millennia of Coast Miwok habitation. The site provided evidence of long-term dietary patterns and environmental adaptation.<div class=\"popup-src\">📖 McGann &amp; Powell (2022) Quaternary International; Dominican University records</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.955,
+        "lng": -122.497
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Gualen tribelet territory (Bolinas Bay)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Gualen tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>The Gualen (also written Guaulen) tribelet inhabited the Bolinas Bay area. They entered Mission San Francisco in large numbers in 1803 along with the Huimen — 49 couples from both tribelets married at the mission that year. The Gualen territory included Bolinas Lagoon, a critical shellfish and waterfowl resource that sustained the community for thousands of years.<div class=\"popup-src\">📖 Milliken (1995) \"A Time of Little Choice\"; Mission San Francisco marriage records; Wikipedia</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.514,
+        "lng": -123.244
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Fort Ross / Colony Ross (1812-1841)</h4><span class=\"ptype pt-shellmound\">Kashaya Pomo / Russian — colonial site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>The Russian-American Company founded Colony Ross in 1812 in the heart of Kashaya Pomo territory. Unlike the Spanish missions, the Russians did not attempt to eradicate native culture — instead recruiting Kashaya Pomo and Coast Miwok as seasonal laborers. The area became a refuge for Indians fleeing missions to the south. The multiethnic community included Russians, Native Alaskans (Kodiak Island), Creoles, Kashaya Pomo, and Coast Miwok. By the 1820s, Russians began armed raids to capture native laborers. Colony abandoned 1841.<div class=\"popup-src\">📖 Lightfoot et al. (2007) \"Cultures in Contact at Colony Ross\"; Fort Ross State Historic Park; Kashaya Pomo Tribe</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.515,
+        "lng": -123.24
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Metini Village (Kashaya Pomo sacred site)</h4><span class=\"ptype pt-shellmound\">Kashaya Pomo — 6,000-8,000 year village</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Sacred Kashaya Pomo village at Fort Ross, occupied for 6,000-8,000 years and through the Russian and post-Russian periods. The center contains a large depression — remains of a ceremonial roundhouse. Investigated using low-impact geophysical methods (magnetometer, electromagnetic conductivity) in collaboration with Kashaya elders who defined a \"ritual blueprint\" for fieldwork. Women were not allowed to work within the sacred area during menstrual periods. Lithic scatters, cupule rocks, and shell middens documented.<div class=\"popup-src\">📖 Lightfoot et al. (2001); Parrish et al. (2000); Gonzalez et al. (2013); Fort Ross Archaeological Project</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.312,
+        "lng": -123.048
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Port Rumiantsev (Bodega Bay)</h4><span class=\"ptype pt-shellmound\">Coast Miwok (Olamentko) / Russian — colonial port</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Principal port facility for Colony Ross, established in Coast Miwok (Bodega Miwok/Olamentko) territory at Bodega Bay. The Russian-American Company signed treaties with local Coast Miwok groups to legitimize their claim to the Sonoma County coast — already claimed by Spain. For the Coast Miwok, the Russians represented the lesser of two colonial evils, and treaties were signed hoping Russian presence would prevent Spanish mission expansion into their territory.<div class=\"popup-src\">📖 Lightfoot et al. (2007); Milliken (1995); Fort Ross State Historic Park</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.93,
+        "lng": -122.52
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Doherty Drive Village Site (Larkspur)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — destroyed by development</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>A Coast Miwok village site unearthed when the abandoned plant nursery on Doherty Drive (across from Hall Middle School) was redeveloped. Part of the broader pattern of discovery and destruction in the Corte Madera Creek area, which also includes the nearby \"Grandfather Midden\" — a 4,500-year-old site with 600 burials destroyed under a confidentiality agreement for luxury homes.<div class=\"popup-src\">📖 Marin IJ (2020) \"How Larkspur Came to Be\"; SFGate (2014); E. Breck Parkman</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 38.04,
+        "lng": -122.53
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Alaguali tribelet (San Geronimo Valley)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Alaguali tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>The Alaguali (also Alagualis) tribelet inhabited the San Geronimo Valley in central-west Marin. In 1814, the Spanish authorities split the northern Coast Miwok groups — sending portions of the Alagualis, Chocoimes (Sonomas), Olompalis, and Petalumas to both Mission San Francisco and Mission San Jose simultaneously, deliberately fracturing communities.<div class=\"popup-src\">📖 Milliken (1995); Wikipedia Coast Miwok; Graton Rancheria history</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.892,
+        "lng": -122.445
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Segloque tribelet (Tiburon/Belvedere)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Segloque tribelet</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>The Segloque tribelet inhabited the Tiburon peninsula. Ring Mountain Preserve contains ~30 boulders with pecked curvilinear nucleated (PCN) petroglyphs dating 5,000-8,000 years — the only known rock art in Marin County. Carvings are concentrated on a large metamorphic chlorite schist boulder on a south-facing exposure. Grinding stones and middens confirm long habitation. Triangle Marsh at the mountain's base was the prehistoric shellfish source. Protected since 1981; BARARA conservation effort 1993-1997 installed barriers against vandalism.<div class=\"popup-src\">📖 Milliken (1995); MarinCoastMiwok.com; Marin County Open Space</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.878,
+        "lng": -122.505
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CA-MRN-5 (Richardson Bay / Fireside Inn)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Huimen territory</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Discovered by Nelson (1909). Excavated 2002-2008 during demolition of Fireside Inn for low-income housing. Found: 8 burials (MNI 8), hearth feature, bone awls, shell beads, obsidian points. Burials 7a/7b were murder victims — 8 projectile points embedded in clavicle, chest, and spine. Burial 7b also showed chopping wounds to spine and severed left leg. Radiocarbon dates: AD 1000-1730. Amerindian short-faced dog bones found — rare species. Site extends below water table at 1-1.7m depth.<div class=\"popup-src\">📖 Barrow (2009) Marin County Synthesis; Evans, Smith &amp; Chattan (2008); Greene &amp; Flynn (2003); Nelson (1909)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.882,
+        "lng": -122.5
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CA-MRN-14 (Richardson Bay / MAPOM dig)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Huimen territory</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Discovered by Nelson (1909). Oval mound 37x24m, 3m deep. Excavated 1974-1975 by SF State with MAPOM volunteers under threat of development. Found: charmstones, steatite pipe, bone awls, whistles, shell beads, obsidian tinklers, 12 features including hearths and human cremations. Infant burial with 277+ Olivella beads and Haliotis pendants — evidence of non-egalitarian society. In 1976 the site was bulldozed for housing construction. Radiocarbon: AD 605-720, occupation estimated AD 0-1800.<div class=\"popup-src\">📖 Barrow (2009); Moratto et al. (1974); Riley (1979) SF State thesis; MAPOM</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.89,
+        "lng": -122.465
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CA-MRN-17 (De Silva Island / Tiburon)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — oldest Marin site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Discovered by Nelson (1909). Excavated 1980-1984 by SF State. Radiocarbon dated to ~3625 BC — the oldest dated site in Marin County (5,600+ years). 60 cubic meters excavated, 67 features identified. 8 burials found including one male (17-25 years) with 2 obsidian points embedded in hip and femur. Artifacts: bone fishhooks, harpoon points, steatite ear plugs, painted shell, mica ornaments. Fish remains show bat ray and leopard shark consumed earliest, with species diversity increasing over time.<div class=\"popup-src\">📖 Barrow (2009); Pahl (2003) SF State compendium; Nelson (1909)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.9,
+        "lng": -122.398
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CA-MRN-27 (NW Richardson Bay)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Huimen territory — seasonal bayshore village</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>This site sits ~1,500 feet from the current bay edge, but the pre-contact shoreline was dramatically different. USGS studies (Pestrong 1972; Atwater 1977) show Richardson Bay was transformed from a V-shaped Pleistocene stream valley into a shallow estuary over the past 10,000 years, with stable salt marsh forming by ~4,600 BP near present-day Mill Valley. Before 1850, the northwest end of Richardson Bay was fringed by extensive tidal marsh grading into seasonal wetlands — the \"hard\" shoreline we see today is entirely artificial (bay fill, rip-rap, Highway 101 causeway). CA-MRN-27 would have sat directly at the marsh-to-oak woodland edge, a classic Coast Miwok winter village placement: sheltered from bay winds by gentle hills, with immediate access to tidal mudflats rich in clams and mussels, while the surrounding oak-buckeye woodland provided the acorn harvest that sustained them through winter. This location reflects the SEASONAL ROUND of the Huimen tribelet: winter/early spring at bayshore villages harvesting shellfish, waterfowl (mudhens, geese), and stored acorns; spring migration to coastal sites for salmon, herring runs, seaweed, and tide pool foraging; summer dispersal to upland camps on the flanks of Mt. Tamalpais and surrounding ridges for seed gathering, deer hunting, and controlled burns to manage grasslands; and autumn return to oak groves for the intensive acorn harvest that marked the Miwok new year. Richardson Bay's 5 Strawberry Point shellmounds (MRN-17 through MRN-21) plus sites like MRN-27 represent the winter anchor points of this annual cycle.<div class=\"popup-src\">📖 Barrow (2009); Nelson (1909); Pestrong (1972) USGS Richardson Bay sedimentation; Atwater (1977); Van Dyke (1972); Schneider (2013) \"Placing Refuge\"; Sausalito Historical Society; California Frontier Project</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.889,
+        "lng": -122.495
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Richardson Bay Historic Shoreline &amp; Tidal Marshes</h4><span class=\"ptype pt-shellmound\">Coast Miwok — Huimen territory — lost landscape</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>The Richardson Bay shoreline visible today bears almost no resemblance to the pre-contact landscape. USGS studies (Pestrong 1972; Atwater 1977) document that Richardson Bay was transformed from a Pleistocene stream valley to an estuary beginning ~10,000 years ago as sea level rose through the Golden Gate at ~2 cm/year. By 4,600 BP, stable salt marsh had formed at the northwest end near Mill Valley. Before 1850, nearly the entire perimeter of Richardson Bay was fringed by extensive tidal marshes grading into seasonal wetlands, wet meadows, and willow thickets — up to hundreds of meters wide in places. The Bothin Marsh preserve is the last remnant of these once-vast marshlands. Strawberry Spit and Aramburu Island did not exist — they were created in the 1950s-60s from dredge spoils. Paradise Cay was open marshland. Over 80% of SF Bay's original tidal marshes have been destroyed by fill, diking, and development since 1850. The Alameda Native History Project (Gabriel Duncan, Paiute) reconstructed the pre-1900 shoreline using NOAA survey data, revealing how dramatically the bay's edges have changed. All shellmound sites around Richardson Bay (Nelson documented 5 on Strawberry Point alone) originally sat at the marsh-woodland interface — the richest ecological zone for Coast Miwok subsistence.<div class=\"popup-src\">📖 Pestrong (1972) \"Holocene Sedimentation in Richardson Bay\"; Atwater (1977; 1979); Alameda Native History Project; SFEI Bay Shore Inventory; Audubon Richardson Bay Sanctuary</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.893,
+        "lng": -122.52
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CA-MRN-44 (Southern Marin)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — excavation site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>One of the 23 sites with sufficient data for Barrow's 2009 synthesis of Marin County prehistoric archaeology. Part of the network of shellmound and village sites along the southern Marin bayshore and creek systems. Among 26 sites excavated specifically in reaction to development threatening their destruction.<div class=\"popup-src\">📖 Barrow (2009) Marin County Synthesis; NWIC File #08-1337</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.978,
+        "lng": -122.53
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CA-MRN-402 Echa-tamal excavation (Nicasio)</h4><span class=\"ptype pt-shellmound\">Coast Miwok — contact period site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Excavated by Stephen Dietz (1976) for his thesis \"Echa-Tamal: A Study of Coast Miwok Acculturation.\" Site found in 1970 by Edward Love while searching for Isabel Kelly's documented ethnographic village of Echa-tamal. Dietz documented four periods: Prehistoric (1400-1817), Missionization (1817-1833), Post-Mission (1833-1849), and American (1850-1884). Coast Miwok were left landless when Americans seized the Nicasio land grant, forcing them back to this ancestral site.<div class=\"popup-src\">📖 Barrow (2009); Dietz (1976) SF State thesis; Kelly ethnographic notes; Collier &amp; Thalman (1991)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.775,
+        "lng": -121.735
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Los Vaqueros Watershed (54 prehistoric sites)</h4><span class=\"ptype pt-shellmound\">Bay Miwok/Ohlone — pre-contact</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Volvon (Bay Miwok) homeland with evidence of human occupation spanning nearly 10,000 years — among the oldest known in California. 54 prehistoric sites in 25,000 acres studied by Sonoma State since 1980. Reservoir construction triggered massive archaeological excavations at 8+ sites. CCo-696 (newly discovered): ~150 human burials dating 1,500-2,500 years ago, plus a deeply buried component with the earliest date associated with human remains in the SF Bay-Delta region — a burial radiocarbon dated to ~7400 cal BP and artifacts dated 9,400-9,800 cal BP. CCo-637: 8,500+ year occupation record, 7+ burials found during pipeline construction monitoring. CCo-320 (Round Valley) and CCo-417: human graves, housepits. Volvon tribal territory included Mount Diablo — where Ohlone and Miwok creation stories say Indian people were created.<div class=\"popup-src\">📖 Bramlette (1988) SCA Proceedings; Ziesing (1997) \"From Rancho to Reservoir\"; Fredrickson (1982); SSU Anthropological Studies Center</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.795,
+        "lng": -121.755
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Volvon Village (Morgan Territory)</h4><span class=\"ptype pt-shellmound\">Volvon (Bay Miwok) — major village</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>The largest known concentration of bedrock mortars and visible house pits in the San Francisco Bay Area. Nearly 1,000 exposed bedrock mortars across 50+ sites in the Black Hills, the heart of Volvon homeland. The main village knoll alone has 90+ mortars. Volvon controlled Mount Diablo — called \"Cerro Alto de los Bolbones\" by the Spanish. The village has never been formally excavated. A 100-year preservation plan has been proposed. All Volvon were removed to Mission San Jose by 1806.<div class=\"popup-src\">📖 East Bay Hill People; Milliken (1995) \"A Time of Little Choice\"; Fredrickson et al. (1997) Los Vaqueros Synthesis</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.77,
+        "lng": -121.71
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CCo-696 (\"Los Vaqueros Man\")</h4><span class=\"ptype pt-shellmound\">Volvon (Bay Miwok) — 9,800 year old site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Newly discovered during reservoir construction. Two buried components: upper level with ~150 human burials (1,500-2,500 cal BP), diverse artifacts, and residential features. Lower deeply buried component contained artifacts radiocarbon dated to 9,400-9,800 cal BP — among the oldest known cultural remains in the entire region. Also contained a burial dated ~7,400 cal BP with handstones, millingslabs, and a wide-stem projectile point. Called \"Los Vaqueros Man\" — the 9,000-year-old burial was unearthed just 3 miles from the Volvon village site.<div class=\"popup-src\">📖 Meyer &amp; Rosenthal (1997) Los Vaqueros Final Report; Internet Archive; East Bay Hill People</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.76,
+        "lng": -121.73
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CCo-637 (8,500-year occupation)</h4><span class=\"ptype pt-shellmound\">Volvon/Ssaoam — reservoir pipeline site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Discovered during excavation of the stilling basin drainage pipe trench (1996-1997). Revealed a \"surprisingly long and complex record of human occupation spanning more than 8,500 years.\" Burial 21 radiocarbon dated to 8,530 BP — the earliest date associated with human remains reported in the San Francisco Bay-Delta region. At least 7 additional prehistoric burials plus flaked-stone and ground-stone artifacts found during construction monitoring. Childhood diet study published using stable isotope analysis with tribal approval.<div class=\"popup-src\">📖 Meyer (1998) CCo-637 Report; Academia.edu; Eerkens stable isotope study; Muwekma Ohlone Tribal Council</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.81,
+        "lng": -121.77
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Brushy Peak Trading Grounds</h4><span class=\"ptype pt-shellmound\">Volvon/multi-tribal — major trade site</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Within view of the Volvon village, Brushy Peak was described as \"possibly the most frequented trading grounds in central California, bringing traders from all the tribes to the foot of the mountain.\" The cosmopolitan atmosphere was unrivaled. Traders from Coast Miwok, Bay Miwok, Plains Miwok, Ohlone, Yokuts, and other groups converged here. 5,000-year-old DNA connections between a skeleton and a living Indian in Monterey suggest population stability across millennia.<div class=\"popup-src\">📖 East Bay Hill People; Breschini &amp; Haversat (2008); EBRPD; Fredrickson et al. (1997)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.78,
+        "lng": -121.75
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CCo-320 (Round Valley burials)</h4><span class=\"ptype pt-shellmound\">Volvon (Bay Miwok) — village with burials</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Located in Round Valley at the foot of the Black Hills. Human graves discovered. Obsidian hydration shows bimodal occupation — early and late Emergent periods — with a housepit on a lower flat associated with the later occupation. Excavated by CSU Hayward (Parkman 1979). The site is in a valley-floor setting near dependable water, consistent with a permanent hamlet or village rather than seasonal camp.<div class=\"popup-src\">📖 Parkman (1979); Bramlette (1988) SCA Proceedings; Fredrickson (1982)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.755,
+        "lng": -121.69
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>Los Vaqueros Reservoir Expansion (2011)</h4><span class=\"ptype pt-shellmound\">Volvon/Ssaoam — construction impact</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>2011 reservoir expansion threatened to expose additional Native American burial sites. Consulting archaeologists worked with Contra Costa Water District to balance public information with sanctity of the site. The Volvon/Ssaoam people were either Bay Miwok speakers (Volvon tribelet) or Costanoan/Ohlone speakers (Ssaoam tribelet). Franciscan mission records show both groups lived in the watershed before forced removal to Mission San Jose beginning in the late 1790s.<div class=\"popup-src\">📖 Anthropology Now (2015); CCWD Cultural History; Fredrickson et al. (1997)</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "shellmounds",
+      "geometry": {
+        "lat": 37.785,
+        "lng": -121.72
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "shellmound",
+        "size": 1
+      },
+      "popup": "<h4>CCo-434 (Los Vaqueros rock art complex)</h4><span class=\"ptype pt-shellmound\">Bay Miwok — pictographs &amp; mortars</span><div class=\"popup-what\">Shellmound / burial site — location from Nelson (1909) survey &amp; subsequent archaeology</div>Nearly 50 separate prehistoric loci within a 3km-long series of massive sandstone outcrops containing caves, rockshelters, and overhanging ledges. Polychrome pictographs, bedrock mortars, dietary remains, obsidian/chert/quartzite tools, quartz crystals, and hematite loaves (pigment for pictographs). Obsidian hydration shows bimodal occupation — early Emergent and late Emergent periods — with activity shifting between loci over time. Virtually all obsidian from Napa Valley source (~60 miles), indicating sustained trade networks. Interspersed with oak and buckeye groves, cut by spring-fed creeks.<div class=\"popup-src\">📖 Bramlette (1988); Eidsness (1986) Kellogg Reservoir study; SSU Anthropological Studies Center</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.748,
+          -122.44
+        ],
+        [
+          37.743,
+          -122.435
+        ],
+        [
+          37.738,
+          -122.428
+        ],
+        [
+          37.735,
+          -122.42
+        ],
+        [
+          37.731,
+          -122.412
+        ],
+        [
+          37.728,
+          -122.405
+        ],
+        [
+          37.725,
+          -122.398
+        ],
+        [
+          37.74,
+          -122.39
+        ],
+        [
+          37.748,
+          -122.385
+        ],
+        [
+          37.753,
+          -122.382
+        ],
+        [
+          37.758,
+          -122.38
+        ],
+        [
+          37.762,
+          -122.378
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Islais Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Once the largest waterbody in San Francisco — 5,000 acres, 3.5 miles long from Twin Peaks to the Bay. Name from Salinan word \"islay\" for wild cherry. After 1906 earthquake, filled with rubble. 100+ slaughterhouses lined it by 1871, earning nickname \"Shit Creek.\" Now mostly underground culvert. Glen Canyon Park preserves a remnant. In 2001, construction for Muni T-line cracked the sewer pipe flooding Muwekma Ohlone Park with sewage.<div class=\"popup-src\">📖 Wikipedia; Oakland Museum creek maps; SF PUC daylighting studies (2007); Hidden Hydrology</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.748,
+          -122.44
+        ],
+        [
+          37.743,
+          -122.435
+        ],
+        [
+          37.738,
+          -122.428
+        ],
+        [
+          37.735,
+          -122.42
+        ],
+        [
+          37.731,
+          -122.412
+        ],
+        [
+          37.728,
+          -122.405
+        ],
+        [
+          37.725,
+          -122.398
+        ],
+        [
+          37.74,
+          -122.39
+        ],
+        [
+          37.748,
+          -122.385
+        ],
+        [
+          37.753,
+          -122.382
+        ],
+        [
+          37.758,
+          -122.38
+        ],
+        [
+          37.762,
+          -122.378
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Islais Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Once the largest waterbody in San Francisco — 5,000 acres, 3.5 miles long from Twin Peaks to the Bay. Name from Salinan word \"islay\" for wild cherry. After 1906 earthquake, filled with rubble. 100+ slaughterhouses lined it by 1871, earning nickname \"Shit Creek.\" Now mostly underground culvert. Glen Canyon Park preserves a remnant. In 2001, construction for Muni T-line cracked the sewer pipe flooding Muwekma Ohlone Park with sewage.<div class=\"popup-src\">📖 Wikipedia; Oakland Museum creek maps; SF PUC daylighting studies (2007); Hidden Hydrology</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.725,
+        "lng": -122.398
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Islais Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Islais Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Once the largest waterbody in San Francisco — 5,000 acres, 3.5 miles long from Twin Peaks to the Bay. Name from Salinan word \"islay\" for wild cherry. After 1906 earthquake, filled with rubble. 100+ slaughterhouses lined it by 1871, earning nickname \"Shit Creek.\" Now mostly underground culvert. Glen Canyon Park preserves a remnant. In 2001, construction for Muni T-line cracked the sewer pipe flooding Muwekma Ohlone Park with sewage.<div class=\"popup-src\">📖 Wikipedia; Oakland Museum creek maps; SF PUC daylighting studies (2007); Hidden Hydrology</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.76,
+          -122.435
+        ],
+        [
+          37.762,
+          -122.428
+        ],
+        [
+          37.764,
+          -122.42
+        ],
+        [
+          37.766,
+          -122.415
+        ],
+        [
+          37.77,
+          -122.408
+        ],
+        [
+          37.773,
+          -122.4
+        ],
+        [
+          37.775,
+          -122.393
+        ],
+        [
+          37.778,
+          -122.39
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Mission Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flowed through the heart of the Mission District and out to Mission Bay (which was once an actual bay). Navigable by small boats in the 1850s. Ohlone settlements along its banks. Now entirely underground except for a remnant channel at Mission Creek Park. The creek watershed includes Dolores Creek, Hayes Creek, and Laguna Seca.<div class=\"popup-src\">📖 Oakland Museum creek maps; FoundSF; Burrito Justice historical maps; SF PUC</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.76,
+          -122.435
+        ],
+        [
+          37.762,
+          -122.428
+        ],
+        [
+          37.764,
+          -122.42
+        ],
+        [
+          37.766,
+          -122.415
+        ],
+        [
+          37.77,
+          -122.408
+        ],
+        [
+          37.773,
+          -122.4
+        ],
+        [
+          37.775,
+          -122.393
+        ],
+        [
+          37.778,
+          -122.39
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Mission Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flowed through the heart of the Mission District and out to Mission Bay (which was once an actual bay). Navigable by small boats in the 1850s. Ohlone settlements along its banks. Now entirely underground except for a remnant channel at Mission Creek Park. The creek watershed includes Dolores Creek, Hayes Creek, and Laguna Seca.<div class=\"popup-src\">📖 Oakland Museum creek maps; FoundSF; Burrito Justice historical maps; SF PUC</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.77,
+        "lng": -122.408
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Mission Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Mission Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flowed through the heart of the Mission District and out to Mission Bay (which was once an actual bay). Navigable by small boats in the 1850s. Ohlone settlements along its banks. Now entirely underground except for a remnant channel at Mission Creek Park. The creek watershed includes Dolores Creek, Hayes Creek, and Laguna Seca.<div class=\"popup-src\">📖 Oakland Museum creek maps; FoundSF; Burrito Justice historical maps; SF PUC</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.776,
+          -122.426
+        ],
+        [
+          37.778,
+          -122.42
+        ],
+        [
+          37.779,
+          -122.416
+        ],
+        [
+          37.78,
+          -122.412
+        ],
+        [
+          37.78,
+          -122.409
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Hayes Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Still flows beneath the streets of San Francisco. Emerges at the United Nations Plaza fountain downtown. BART runs dewatering pumps continuously to keep Civic Center tracks from flooding. Some buildings still use Hayes Creek water. Part of Mission Creek watershed.<div class=\"popup-src\">📖 Hidden Hydrology; Grist (2015); Joel Pomerantz creek tours; Oakland Museum</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.776,
+          -122.426
+        ],
+        [
+          37.778,
+          -122.42
+        ],
+        [
+          37.779,
+          -122.416
+        ],
+        [
+          37.78,
+          -122.412
+        ],
+        [
+          37.78,
+          -122.409
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Hayes Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Still flows beneath the streets of San Francisco. Emerges at the United Nations Plaza fountain downtown. BART runs dewatering pumps continuously to keep Civic Center tracks from flooding. Some buildings still use Hayes Creek water. Part of Mission Creek watershed.<div class=\"popup-src\">📖 Hidden Hydrology; Grist (2015); Joel Pomerantz creek tours; Oakland Museum</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.779,
+        "lng": -122.416
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Hayes Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Hayes Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Still flows beneath the streets of San Francisco. Emerges at the United Nations Plaza fountain downtown. BART runs dewatering pumps continuously to keep Civic Center tracks from flooding. Some buildings still use Hayes Creek water. Part of Mission Creek watershed.<div class=\"popup-src\">📖 Hidden Hydrology; Grist (2015); Joel Pomerantz creek tours; Oakland Museum</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.873,
+          -122.26
+        ],
+        [
+          37.87,
+          -122.268
+        ],
+        [
+          37.868,
+          -122.275
+        ],
+        [
+          37.866,
+          -122.282
+        ],
+        [
+          37.864,
+          -122.29
+        ],
+        [
+          37.863,
+          -122.298
+        ],
+        [
+          37.862,
+          -122.305
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Strawberry Creek (Berkeley, buried sections)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flowed through the West Berkeley Shellmound — the oldest known habitation on the Bay. The creek's mouth created the wetland ecosystem that sustained the Ohlone fishing village for 5,000 years. UC Berkeley campus was built across its upper reaches. Lower sections culverted. Active daylighting efforts ongoing.<div class=\"popup-src\">📖 shellmound.org; Oakland Museum creek maps; City of Berkeley creek restoration plans</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.873,
+          -122.26
+        ],
+        [
+          37.87,
+          -122.268
+        ],
+        [
+          37.868,
+          -122.275
+        ],
+        [
+          37.866,
+          -122.282
+        ],
+        [
+          37.864,
+          -122.29
+        ],
+        [
+          37.863,
+          -122.298
+        ],
+        [
+          37.862,
+          -122.305
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Strawberry Creek (Berkeley, buried sections)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flowed through the West Berkeley Shellmound — the oldest known habitation on the Bay. The creek's mouth created the wetland ecosystem that sustained the Ohlone fishing village for 5,000 years. UC Berkeley campus was built across its upper reaches. Lower sections culverted. Active daylighting efforts ongoing.<div class=\"popup-src\">📖 shellmound.org; Oakland Museum creek maps; City of Berkeley creek restoration plans</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.866,
+        "lng": -122.282
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Strawberry Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Strawberry Creek (Berkeley, buried sections)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flowed through the West Berkeley Shellmound — the oldest known habitation on the Bay. The creek's mouth created the wetland ecosystem that sustained the Ohlone fishing village for 5,000 years. UC Berkeley campus was built across its upper reaches. Lower sections culverted. Active daylighting efforts ongoing.<div class=\"popup-src\">📖 shellmound.org; Oakland Museum creek maps; City of Berkeley creek restoration plans</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.84,
+          -122.25
+        ],
+        [
+          37.84,
+          -122.26
+        ],
+        [
+          37.838,
+          -122.27
+        ],
+        [
+          37.837,
+          -122.278
+        ],
+        [
+          37.836,
+          -122.285
+        ],
+        [
+          37.835,
+          -122.292
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Temescal Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Once filled with salmon. Flowed through what is now Emeryville and Oakland near the Emeryville Shellmound. Now channelized and largely underground. Muwekma Ohlone Park was established along a remnant. Bronze \"creek crossing\" sculptures embedded in Oakland sidewalks mark its buried path.<div class=\"popup-src\">📖 Oakland Museum creek maps; \"Creeks Beneath Your Feet\" public art project; East Bay Times</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.84,
+          -122.25
+        ],
+        [
+          37.84,
+          -122.26
+        ],
+        [
+          37.838,
+          -122.27
+        ],
+        [
+          37.837,
+          -122.278
+        ],
+        [
+          37.836,
+          -122.285
+        ],
+        [
+          37.835,
+          -122.292
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Temescal Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Once filled with salmon. Flowed through what is now Emeryville and Oakland near the Emeryville Shellmound. Now channelized and largely underground. Muwekma Ohlone Park was established along a remnant. Bronze \"creek crossing\" sculptures embedded in Oakland sidewalks mark its buried path.<div class=\"popup-src\">📖 Oakland Museum creek maps; \"Creeks Beneath Your Feet\" public art project; East Bay Times</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.837,
+        "lng": -122.278
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Temescal Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Temescal Creek (buried)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Once filled with salmon. Flowed through what is now Emeryville and Oakland near the Emeryville Shellmound. Now channelized and largely underground. Muwekma Ohlone Park was established along a remnant. Bronze \"creek crossing\" sculptures embedded in Oakland sidewalks mark its buried path.<div class=\"popup-src\">📖 Oakland Museum creek maps; \"Creeks Beneath Your Feet\" public art project; East Bay Times</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.787,
+          -122.484
+        ],
+        [
+          37.786,
+          -122.488
+        ],
+        [
+          37.785,
+          -122.492
+        ],
+        [
+          37.784,
+          -122.496
+        ],
+        [
+          37.783,
+          -122.5
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Lobos Creek (last visible SF creek)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>One of the only aboveground creeks remaining in San Francisco. Flows near Baker Beach in the Presidio. Historically supplied fresh water to the city. Its survival is owed to being within the Presidio military reservation, sparing it from development.<div class=\"popup-src\">📖 NPS Presidio; Oakland Museum creek maps; SF PUC</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.787,
+          -122.484
+        ],
+        [
+          37.786,
+          -122.488
+        ],
+        [
+          37.785,
+          -122.492
+        ],
+        [
+          37.784,
+          -122.496
+        ],
+        [
+          37.783,
+          -122.5
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Lobos Creek (last visible SF creek)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>One of the only aboveground creeks remaining in San Francisco. Flows near Baker Beach in the Presidio. Historically supplied fresh water to the city. Its survival is owed to being within the Presidio military reservation, sparing it from development.<div class=\"popup-src\">📖 NPS Presidio; Oakland Museum creek maps; SF PUC</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.785,
+        "lng": -122.492
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Lobos Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Lobos Creek (last visible SF creek)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>One of the only aboveground creeks remaining in San Francisco. Flows near Baker Beach in the Presidio. Historically supplied fresh water to the city. Its survival is owed to being within the Presidio military reservation, sparing it from development.<div class=\"popup-src\">📖 NPS Presidio; Oakland Museum creek maps; SF PUC</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.945,
+          -122.53
+        ],
+        [
+          37.94,
+          -122.52
+        ],
+        [
+          37.935,
+          -122.51
+        ],
+        [
+          37.93,
+          -122.5
+        ],
+        [
+          37.925,
+          -122.495
+        ],
+        [
+          37.92,
+          -122.488
+        ],
+        [
+          37.918,
+          -122.48
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Corte Madera Creek (Marin)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Visible on the 1873 Austin map flowing through what is now Larkspur and Corte Madera to Richardson Bay. Ross Landing, an early settlement, sat at its navigable mouth. The creek and its tidal marshes sustained Coast Miwok villages for millennia — the Larkspur \"Grandfather Midden\" (4,500 years, 600 burials) sat along its banks. Elizabeth Terwilliger led a famous 1973 canoe flotilla up the creek to protest wetland destruction.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Marin IJ; MAPOM</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.945,
+          -122.53
+        ],
+        [
+          37.94,
+          -122.52
+        ],
+        [
+          37.935,
+          -122.51
+        ],
+        [
+          37.93,
+          -122.5
+        ],
+        [
+          37.925,
+          -122.495
+        ],
+        [
+          37.92,
+          -122.488
+        ],
+        [
+          37.918,
+          -122.48
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Corte Madera Creek (Marin)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Visible on the 1873 Austin map flowing through what is now Larkspur and Corte Madera to Richardson Bay. Ross Landing, an early settlement, sat at its navigable mouth. The creek and its tidal marshes sustained Coast Miwok villages for millennia — the Larkspur \"Grandfather Midden\" (4,500 years, 600 burials) sat along its banks. Elizabeth Terwilliger led a famous 1973 canoe flotilla up the creek to protest wetland destruction.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Marin IJ; MAPOM</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.93,
+        "lng": -122.5
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Corte Madera Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Corte Madera Creek (Marin)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Visible on the 1873 Austin map flowing through what is now Larkspur and Corte Madera to Richardson Bay. Ross Landing, an early settlement, sat at its navigable mouth. The creek and its tidal marshes sustained Coast Miwok villages for millennia — the Larkspur \"Grandfather Midden\" (4,500 years, 600 burials) sat along its banks. Elizabeth Terwilliger led a famous 1973 canoe flotilla up the creek to protest wetland destruction.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Marin IJ; MAPOM</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.975,
+          -122.545
+        ],
+        [
+          37.972,
+          -122.535
+        ],
+        [
+          37.968,
+          -122.52
+        ],
+        [
+          37.965,
+          -122.51
+        ],
+        [
+          37.962,
+          -122.5
+        ],
+        [
+          37.96,
+          -122.492
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Miller Creek (Marin)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flows from the hills above Lucas Valley through Marinwood to San Pablo Bay near the Civic Center. The 1873 map shows it clearly within the San Rafael Township. Miwok villages were situated along its length. Now partially channelized with flood control modifications but still flowing.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Marin County Watershed Program</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          37.975,
+          -122.545
+        ],
+        [
+          37.972,
+          -122.535
+        ],
+        [
+          37.968,
+          -122.52
+        ],
+        [
+          37.965,
+          -122.51
+        ],
+        [
+          37.962,
+          -122.5
+        ],
+        [
+          37.96,
+          -122.492
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Miller Creek (Marin)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flows from the hills above Lucas Valley through Marinwood to San Pablo Bay near the Civic Center. The 1873 map shows it clearly within the San Rafael Township. Miwok villages were situated along its length. Now partially channelized with flood control modifications but still flowing.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Marin County Watershed Program</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 37.965,
+        "lng": -122.51
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Miller Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Miller Creek (Marin)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flows from the hills above Lucas Valley through Marinwood to San Pablo Bay near the Civic Center. The 1873 map shows it clearly within the San Rafael Township. Miwok villages were situated along its length. Now partially channelized with flood control modifications but still flowing.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Marin County Watershed Program</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          38.115,
+          -122.6
+        ],
+        [
+          38.108,
+          -122.58
+        ],
+        [
+          38.1,
+          -122.56
+        ],
+        [
+          38.098,
+          -122.545
+        ],
+        [
+          38.095,
+          -122.53
+        ],
+        [
+          38.093,
+          -122.515
+        ],
+        [
+          38.09,
+          -122.5
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Novato Creek</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Major creek flowing through Novato to San Pablo Bay, clearly drawn on the 1873 Austin map through San Antonio Township. The Olompali village (8,000 years old, 50,000+ artifacts) sat along nearby San Antonio Creek. Novato Creek and its tributaries sustained the Coast Miwok Olompali tribelet across 25 square miles of territory.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Friends of Olompali; CA State Parks</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          38.115,
+          -122.6
+        ],
+        [
+          38.108,
+          -122.58
+        ],
+        [
+          38.1,
+          -122.56
+        ],
+        [
+          38.098,
+          -122.545
+        ],
+        [
+          38.095,
+          -122.53
+        ],
+        [
+          38.093,
+          -122.515
+        ],
+        [
+          38.09,
+          -122.5
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Novato Creek</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Major creek flowing through Novato to San Pablo Bay, clearly drawn on the 1873 Austin map through San Antonio Township. The Olompali village (8,000 years old, 50,000+ artifacts) sat along nearby San Antonio Creek. Novato Creek and its tributaries sustained the Coast Miwok Olompali tribelet across 25 square miles of territory.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Friends of Olompali; CA State Parks</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 38.098,
+        "lng": -122.545
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Novato Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Novato Creek</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Major creek flowing through Novato to San Pablo Bay, clearly drawn on the 1873 Austin map through San Antonio Township. The Olompali village (8,000 years old, 50,000+ artifacts) sat along nearby San Antonio Creek. Novato Creek and its tributaries sustained the Coast Miwok Olompali tribelet across 25 square miles of territory.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Friends of Olompali; CA State Parks</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          38.04,
+          -122.73
+        ],
+        [
+          38.035,
+          -122.72
+        ],
+        [
+          38.03,
+          -122.708
+        ],
+        [
+          38.025,
+          -122.695
+        ],
+        [
+          38.02,
+          -122.68
+        ],
+        [
+          38.018,
+          -122.665
+        ],
+        [
+          38.015,
+          -122.65
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Lagunitas Creek / Papermill Creek</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flows through Samuel P. Taylor State Park and the San Geronimo Valley to Tomales Bay. The 1873 map shows it running through Point Reyes Township. Coast Miwok villages dotted its course — the Bear Valley area (Kule Loklo) sits near its headwaters. The creek still supports endangered coho salmon runs. Called Papermill Creek where it passed Samuel P. Taylor's 1856 paper mill — the first on the West Coast.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); CA State Parks; NPS Point Reyes</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          38.04,
+          -122.73
+        ],
+        [
+          38.035,
+          -122.72
+        ],
+        [
+          38.03,
+          -122.708
+        ],
+        [
+          38.025,
+          -122.695
+        ],
+        [
+          38.02,
+          -122.68
+        ],
+        [
+          38.018,
+          -122.665
+        ],
+        [
+          38.015,
+          -122.65
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Lagunitas Creek / Papermill Creek</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flows through Samuel P. Taylor State Park and the San Geronimo Valley to Tomales Bay. The 1873 map shows it running through Point Reyes Township. Coast Miwok villages dotted its course — the Bear Valley area (Kule Loklo) sits near its headwaters. The creek still supports endangered coho salmon runs. Called Papermill Creek where it passed Samuel P. Taylor's 1856 paper mill — the first on the West Coast.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); CA State Parks; NPS Point Reyes</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 38.025,
+        "lng": -122.695
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Lagunitas Creek / Papermill Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Lagunitas Creek / Papermill Creek</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Flows through Samuel P. Taylor State Park and the San Geronimo Valley to Tomales Bay. The 1873 map shows it running through Point Reyes Township. Coast Miwok villages dotted its course — the Bear Valley area (Kule Loklo) sits near its headwaters. The creek still supports endangered coho salmon runs. Called Papermill Creek where it passed Samuel P. Taylor's 1856 paper mill — the first on the West Coast.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); CA State Parks; NPS Point Reyes</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          38.34,
+          -122.96
+        ],
+        [
+          38.335,
+          -122.945
+        ],
+        [
+          38.332,
+          -122.93
+        ],
+        [
+          38.33,
+          -122.915
+        ],
+        [
+          38.328,
+          -122.9
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 3.5,
+        "opacity": 0.85,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4>Salmon Creek (Marin/Sonoma)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Labeled on the 1873 Austin map at the northern edge of Marin County near Bodega Bay. A major Coast Miwok and Southern Pomo fishing resource. The Olamentko band of Coast Miwok inhabited the Bodega Bay region and relied on salmon runs through this creek and the Estero Americano.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Federated Indians of Graton Rancheria</div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "buriedCreeks",
+      "geometry": [
+        [
+          38.34,
+          -122.96
+        ],
+        [
+          38.335,
+          -122.945
+        ],
+        [
+          38.332,
+          -122.93
+        ],
+        [
+          38.33,
+          -122.915
+        ],
+        [
+          38.328,
+          -122.9
+        ]
+      ],
+      "style": {
+        "color": "#4FC3F7",
+        "weight": 20,
+        "opacity": 0.01,
+        "fillOpacity": 0,
+        "dashArray": null,
+        "interactive": true
+      },
+      "popup": "<h4>Salmon Creek (Marin/Sonoma)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Labeled on the 1873 Austin map at the northern edge of Marin County near Bodega Bay. A major Coast Miwok and Southern Pomo fishing resource. The Olamentko band of Coast Miwok inhabited the Bodega Bay region and relied on salmon runs through this creek and the Estero Americano.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Federated Indians of Graton Rancheria</div>"
+    },
+    {
+      "type": "marker",
+      "layer": "buriedCreeks",
+      "geometry": {
+        "lat": 38.332,
+        "lng": -122.93
+      },
+      "icon": {
+        "factory": "divIcon",
+        "className": "creek-label",
+        "html": "<div class=\"creek-name-pill creek-name-clickable\">Salmon Creek</div>",
+        "iconSize": [
+          200,
+          22
+        ],
+        "iconAnchor": [
+          100,
+          11
+        ]
+      },
+      "popup": "<h4>Salmon Creek (Marin/Sonoma)</h4><span class=\"ptype pt-buried-creek\">Buried/Lost Waterway — approximate historical course</span><div class=\"popup-what\">Reconstructed path from historical USGS maps, Oakland Museum creek maps, &amp; 1856 Coast Survey</div>Labeled on the 1873 Austin map at the northern edge of Marin County near Bodega Bay. A major Coast Miwok and Southern Pomo fishing resource. The Olamentko band of Coast Miwok inhabited the Bodega Bay region and relied on salmon runs through this creek and the Estero Americano.<div class=\"popup-src\">📖 Austin/Whitney 1873 Marin County map (David Rumsey); Federated Indians of Graton Rancheria</div>"
+    }
+  ]
+}

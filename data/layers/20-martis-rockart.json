@@ -1,0 +1,744 @@
+{
+  "source": "20-martis-rockart.js",
+  "featureCount": 41,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.4452,
+        "lng": -120.4847
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Meadow Lake</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">★ Major site (500+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-3 &nbsp;|&nbsp; <b>Elevation:</b> 7280 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">One of the most extensive petroglyph sites in the northern Sierra Nevada, with at least 75 panels and over 500 elements on glaciated granitic bed-rock and boulders. Listed on the National Register of Historic Places (1971). Located near French Lake in the Tahoe National Forest. Mentioned in Mallery (1893) — one of the earliest published references to northern Sierra rock art. A Martis-type projectile point was found half a mile away.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 500 elements, 5 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Mallery 1893; Steward 1929; Payen 1966; Pilling 1949; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.3176,
+        "lng": -120.3205
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Donner Pass</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-4 &nbsp;|&nbsp; <b>Elevation:</b> 6860 ft<br>\n        <b>Watershed:</b> Truckee River (East slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">The best known and most frequently visited Style 7 site in the northern Sierra Nevada. 25 panels with approximately 205 elements on a large glaciated granite bench, including Donner Lake, Martis Valley, and Mount Rose views. Contains a sparse lithic scatter. First documented with stereographs by Alfred Hart during the 1860s. Included in numerous rock art studies. Public interpretive kiosk at site. Historical marker at 39°19.056'N, 120°19.232'W on Old Highway 40.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 205 elements, 1 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen 1966; Heizer & Clewlow 1973; Steward 1929; Betts 1998; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.371,
+        "lng": -120.621
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Grouse Ridge</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-84 &nbsp;|&nbsp; <b>Elevation:</b> 6180 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">Two glaciated granite benches midway up the south face of Grouse Ridge with extensive petroglyphs. First bench: ~20 panels. Second bench: 4 panels with ~28 elements. Two basalt Martis-series projectile points found. Dramatic view of Old Man Mountain and South Yuba River drainage. Originally recorded by F.A. Riddell in 1961.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 228 elements, 8 bear tracks, 1 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen 1966; Gortner 1984; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.32,
+        "lng": -120.605
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Spaulding Ridge</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-426 &nbsp;|&nbsp; <b>Elevation:</b> 5140 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">Along the western edge of a prominent ridge — a glaciated granite outcrop with 6 petroglyph panels containing 45 elements. An incipient bedrock mortar is on this outcrop. Basalt lithic scatter and sandy bench nearby. Features include multiple zigzag lines, simple crosses, and a distinctive stick-figure anthropomorph possibly wielding an atlatl — the only recognized example at a Style 7 site with possible temporal implications.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 45 elements, 1 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Claytor 1973; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.36,
+        "lng": -120.52
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Rattlesnake Creek No. 1</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-504 &nbsp;|&nbsp; <b>Elevation:</b> 6280 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A metamorphic outcrop group on the slope of a canyon containing a single petroglyph panel with 3 elements. Vandalized since D. Foster and R. Jenkins recorded it in 1985.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 3 elements\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.355,
+        "lng": -120.515
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Rattlesnake Creek No. 2</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-505 &nbsp;|&nbsp; <b>Elevation:</b> 6220 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">Extensive site on sloping glaciated metamorphic outcrops with at least 5 petroglyph panels and approximately 50 elements. A mano and bedrock milling slick are also located here. Recorded by Foster, Jenkins, and Scatena in 1985.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 50 elements, 2 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.315,
+        "lng": -120.55
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Cisco Grove No. 1</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-506 &nbsp;|&nbsp; <b>Elevation:</b> 5560 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">An extensive petroglyph site on the bank of the South Yuba River, on a sloping glaciated outcrop. At least 20 panels with at least 175 elements. First documented with stereographs by Alfred Hart during the 1860s. The site was largely destroyed by the construction of the Central Pacific Railroad and later Interstate 80. This is the most tragic loss sustained so far for Sierra rock art. Redesignated CA-NEV-506.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">💧 Near waterfall</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 175 elements, 35 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen 1966; Kibbey 1996; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.31,
+        "lng": -120.555
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Cisco Grove No. 2</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-507 &nbsp;|&nbsp; <b>Elevation:</b> 5560 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">In the saddle at the top of a large glacially rounded rock outcrop — approximately 10 petroglyph panels containing at least 45 elements. Several bedrock milling slicks found on this outcrop. Payen prepared a record for this site in 1986.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 45 elements, 1 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Payen 1966; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.305,
+        "lng": -120.59
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Canyon Creek</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-582 &nbsp;|&nbsp; <b>Elevation:</b> 5440 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On the north slope of a large rock dome — a petroglyph site with 11 panels containing approximately 60 elements. No artifacts observed. First recorded by Betts in 1996.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 45 elements, 7 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.29,
+        "lng": -120.58
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Gregory Pex</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-NEV-585 &nbsp;|&nbsp; <b>Elevation:</b> 6560 ft<br>\n        <b>Watershed:</b> Middle Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On a low finger ridge in a forested area — a group of glaciated metamorphic rock outcrops with 4 petroglyph panels containing approximately 20 indistinct elements. First recorded by Forest Service personnel in 1988, updated by Betts in 1994. No artifacts observed.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 60 elements\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.3285,
+        "lng": -120.3765
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Soda Springs</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">★ Major site (500+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-26 &nbsp;|&nbsp; <b>Elevation:</b> 6060 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A large sloping ledge of glacially polished granite bedrock containing a great profusion of petroglyphs — one of the largest petroglyph sites in the northern Sierra Nevada with approximately 750 elements. Not easily segregated into individual panels. A lithic scatter is located adjacent to the panel and many artifacts have been collected over the years. Both Martis and Kings Beach occupations indicated. First described in Mallery (1893) and Avery (1873). The North Fork American River's Soda Springs, near The Cedars resort community.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">💧 Near waterfall</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 750 elements, 80 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Mallery 1893; Avery 1873; Gortner 1984; Payen 1966; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.16,
+        "lng": -120.68
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Bear Valley</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-504 &nbsp;|&nbsp; <b>Elevation:</b> 4620 ft<br>\n        <b>Watershed:</b> Bear River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A large glaciated metasedimentary rock outcrop in a forested portion of Bear Valley containing 13 petroglyph panels with over 100 widely distributed elements. At least 40 bedrock mortars also on this outcrop. Lowest-elevation Style 7 site (4,620 ft) and the only one in the Bear River drainage. Initially reported by Claytor (1973). A Desert Side-Notched projectile point was found in a crevice adjacent to a rock art panel.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 100 elements, 2 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Bedrock mortars, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Claytor 1973; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.195,
+        "lng": -120.45
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Skaters Pond</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-517 &nbsp;|&nbsp; <b>Elevation:</b> 5760 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A glaciated granite bench near a small pond contains an unusual assortment of rock art elements — a series of extremely faint curvilinear elements and 14 cupule petroglyphs. One of the few known examples of cupules in association with Style 7 petroglyphs. Bedrock grinding slicks and a basalt lithic scatter present. First reported by Claytor (1973).</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 8 elements\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Claytor 1973; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.225,
+        "lng": -120.475
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Lake Valley Reservoir</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-546 &nbsp;|&nbsp; <b>Elevation:</b> 5840 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A glaciated granite outcrop in a forested area at the crest of a low ridge containing a single panel of petroglyphs with 10 elements. Initially reported by Claytor (1973).</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 10 elements, 1 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Claytor 1973; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.22,
+        "lng": -120.46
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Walter Freeman</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-550 &nbsp;|&nbsp; <b>Elevation:</b> 6260 ft<br>\n        <b>Watershed:</b> Middle Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A glaciated rock outcrop in a forested area at the foot of a canyon wall with 14 petroglyph panels of 43 elements. First recorded by Foster in 1986, updated by Betts in 1992.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 1 elements, 1 anthropomorphs\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.215,
+        "lng": -120.465
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Willis Gortner</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-551 &nbsp;|&nbsp; <b>Elevation:</b> 6140 ft<br>\n        <b>Watershed:</b> Middle Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On a glaciated rock bench along a creek — an extensive and elaborate petroglyph site. Heavily fractured and fragmented rock outcrops contain 55 petroglyph panels with approximately 260 elements. Downstream from the site area is a dramatic waterfall. First recorded by Gortner (1986a), supplemented by D. Foster in 1986, and updated by Betts in 1992. Several small basalt flakes observed in gravel areas between the petroglyph panels.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">💧 Near waterfall</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 260 elements, 10 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1986a; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.235,
+        "lng": -120.455
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Big Pine</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-554 &nbsp;|&nbsp; <b>Elevation:</b> 5840 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">Three adjacent glaciated granite outcrops each have petroglyph panels. All three outcrops together contain approximately 30 elements. A possible milling slick is located on one of these outcrops.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 30 elements\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.24,
+        "lng": -120.42
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Log Cabin Creek</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-555 &nbsp;|&nbsp; <b>Elevation:</b> 5840 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A major petroglyph site on two large glaciated granite outcrops. The largest panel has sustained extensive exfoliation, and many of the motifs are extremely faint. A prehistoric campsite with bedrock mortars and numerous basalt projectile points is located to the east. 187 elements total.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 187 elements, 24 bear tracks, 2 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.225,
+        "lng": -120.435
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Swimming Hole</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-557 &nbsp;|&nbsp; <b>Elevation:</b> 5820 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A steep granite slope rising from the edge of a river has a pink crusted outcrop with an extensive petroglyph panel containing approximately 95 elements. Two other distant panels with 9 additional elements included. Several basalt projectile points and chert scrapers also found.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 104 elements, 4 bear tracks, 1 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.27,
+        "lng": -120.41
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Pinehurst</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-571 &nbsp;|&nbsp; <b>Elevation:</b> 6040 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On a forested slope — a glaciated granite shelf with an extensive panel of petroglyphs; at least 100 elements. One of the most complex and highly integrated petroglyph panels in the northern Sierra Nevada. A possible milling slick is also located on this outcrop. East of the main exposure are two panels with 25 more elements.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 125 elements, 1 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Payen 1966; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.205,
+        "lng": -120.48
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Wabena</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-591 &nbsp;|&nbsp; <b>Elevation:</b> 6560 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">At the crest of a narrow ridge separating Royal Gorge from the canyon of Wabena Creek — one of the most spectacular petroglyph sites in the Sierra Nevada. A sloping ground-level outcrop of metavolcanic rock contains an elaborate petroglyph panel with at least 40 elements. The panel is highly integrated and complex. A dramatic precipice drops 2500 feet into Royal Gorge. Two basalt projectile points and one obsidian biface fragment found. Conservation project undertaken in 1990 to stabilize block fracture deterioration.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">💧 Near waterfall</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 40 elements, 11 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Payen 1966; Foster & Betts 1990; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.235,
+        "lng": -120.395
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Palisade Creek</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-823 &nbsp;|&nbsp; <b>Elevation:</b> 6520 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">An extensive petroglyph site on several glaciated granite outcrops forming a low ridge at the edge of a grassy meadow. 19 panels containing approximately 130 elements. A bedrock milling feature and basalt lithic scatter borders the petroglyph panels. A bedrock mortar on a separate outcrop adjacent to the lithic scatter area. Basalt tools including bifaces and two basalt contracting stem projectile points recovered.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 130 elements, 16 bear tracks, 1 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Bedrock mortars, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.235,
+        "lng": -120.43
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Devils Peak</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-822 &nbsp;|&nbsp; <b>Elevation:</b> 6480 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On a long sloping exposure of glaciated granite bedrock — 12 petroglyph panels of approximately 50 elements. A sparse lithic scatter of basalt flakes and tool fragments is on gravel terraces adjacent to the petroglyph panels. First recorded by Gortner (1984).</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 50 elements, 8 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1984; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.25,
+        "lng": -120.455
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Snow Mountain</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-825 &nbsp;|&nbsp; <b>Elevation:</b> 7640 ft<br>\n        <b>Watershed:</b> North Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">The highest-elevation rock art site so far discovered in the northern Sierra Nevada at 7,640 feet. A series of metavolcanic outcrops on a rocky bench just below the summit of a massive Sierra peak. Seven petroglyph panels containing approximately 50 elements. Two bedrock grinding slicks and a lithic scatter of basalt and chert. Thirteen basalt tools found. Betts and L. Gillett recorded this site in 1994.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 50 elements, 4 bear tracks, 1 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.115,
+        "lng": -120.49
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 MF-B,P,Q</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLA-790 &nbsp;|&nbsp; <b>Elevation:</b> 5880 ft<br>\n        <b>Watershed:</b> Middle Fork American River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A series of glaciated rock benches and outcrops on a stream terrace containing 15 petroglyph panels with at least 43 elements that are widely distributed over an extensive site area. Two separate lithic scatters. A rich assortment of flaked stone artifacts including two small chalcedony projectile points, one obsidian projectile point, 13 points of basalt or slate, and various point fragments.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">💧 Near waterfall</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 43 elements, 3 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Milling slicks, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Gortner 1988; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.895,
+        "lng": -121.28
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Long Lake</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Large site (100+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLU-4 &nbsp;|&nbsp; <b>Elevation:</b> 5960 ft<br>\n        <b>Watershed:</b> North Fork Feather River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">An expanse of glaciated granite containing a large group of petroglyph panels with at least 200 elements. First recorded by G.C. Herron in 1947. Included in several rock art studies. A recent volunteer recording project hosted by the Lassen National Forest. A detailed record is in preparation.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 200 elements, 2 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Heizer & Clewlow 1973; Payen 1966; Ritter & Parkman 1992; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.687,
+        "lng": -120.645
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Lakes Basin</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">★ Major site (500+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLU-88 &nbsp;|&nbsp; <b>Elevation:</b> 6300 ft<br>\n        <b>Watershed:</b> South Fork Feather River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On a forested bench near Grassy Lake — many widely scattered outcrops of glaciated metamorphic rocks. At least 12 of these outcrops contain petroglyph panels. Some panels are very elaborate and integrated compositions that are not easily segregated into individual elements. Extensive lithic scatter and midden deposit with numerous basalt projectile points, bifaces, drills, and debitage. A panel of cupule petroglyphs was also revealed. Recent excavations have provided significant information for Sierra Nevada rock art research. 578+ elements total. Listed on the National Register of Historic Places.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 578 elements, 4 bear tracks, 3 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen 1966; Neuenschwander 1994; Peak & Associates 1993; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.735,
+        "lng": -120.71
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Jamison Creek</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> 05-11-51-01 &nbsp;|&nbsp; <b>Elevation:</b> 5640 ft<br>\n        <b>Watershed:</b> South Fork Feather River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A granitic boulder or outcrop with a panel of pecked petroglyphs containing a single design element — a combination of simple lines. Similar designs have been observed at Style 7 sites in the area such as Lakes Basin. J. Johnston recorded this Plumas County site in 1975.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 1 elements\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.88,
+        "lng": -121.26
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Bear Paw Falls</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-PLU-* &nbsp;|&nbsp; <b>Elevation:</b> 5940 ft<br>\n        <b>Watershed:</b> North Fork Feather River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A prehistoric petroglyph site on granite outcrops along a perennial creek at a small waterfall. Contains at least six panels with approximately 30 elements. A basalt lithic scatter and two basalt projectile points are also located here. Located during a recent volunteer rock art recording project hosted by the Lassen National Forest at the Long Lake site (CA-PLU-4).</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">💧 Near waterfall</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 30 elements\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.67,
+        "lng": -120.605
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Hawley Lake</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">★ Major site (500+ elements) — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-1 &nbsp;|&nbsp; <b>Elevation:</b> 6460 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A large outcrop of glacially polished magnetite, a high-grade iron ore, containing what is probably the most elaborate display of rock art in the northern Sierra Nevada. Almost the entire outcrop is intensively carved with a bewildering profusion of petroglyphs. An initial recording attempt has inventoried 547 elements but this represents only about half of the elements actually present. Superimposition is rare but abundant — with many elements carved one on top of another in a multiplicity of layers. The site has been extensively vandalized with an array of names, dates, and other inscriptions carved over the prehistoric rock art. Reports of this site go back to the nineteenth century. Listed on the National Register of Historic Places (1971).</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake &nbsp;•&nbsp; 💧 Near waterfall</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 547 elements, 56 bear tracks, 15 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Bedrock mortars, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Heizer & Clewlow 1973; Payen 1966; Payen & Scott 1982; Steward 1929; Wellmann 1979; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.605,
+        "lng": -120.32
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Lacey Valley</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-166 &nbsp;|&nbsp; <b>Elevation:</b> 6840 ft<br>\n        <b>Watershed:</b> Truckee River (East slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A glaciated granite dome in a forested area with at least 6 petroglyph panels with approximately 25 elements. Three bedrock mortars and a lithic scatter of basalt and chert are also present. Artifacts include cobble pestles and 4 projectile points, a scraper, and a drill — all of basalt. One of only two Style 7 sites on the east side of the Sierra crest (along with Donner Pass).</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 25 elements, 6 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Bedrock mortars, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen 1976; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.64,
+        "lng": -120.58
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Spencer Lakes</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-524 &nbsp;|&nbsp; <b>Elevation:</b> 6320 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On the top and sloping surface of a glaciated metamorphic outcrop — a petroglyph panel containing approximately 30 elements. This panel also contains a historic inscription from 1851.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 25 elements\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen & Scott 1982; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.665,
+        "lng": -120.6
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Hawley Lake No. 29</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-543 &nbsp;|&nbsp; <b>Elevation:</b> 6400 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A steeply sloping outcrop of glaciated magnetite, hidden in a forested area, with a petroglyph panel with approximately 35 elements.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 30 elements, 2 bear tracks, 2 anthropomorphs\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen 1966; Payen & Scott 1982; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.668,
+        "lng": -120.595
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Hawley Lake No. 30</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Medium site — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-544 &nbsp;|&nbsp; <b>Elevation:</b> 6400 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A glaciated outcrop of magnetite with several petroglyph elements distributed over the sloping sides of the rounded rock mass.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 35 elements, 1 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen & Scott 1982; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.672,
+        "lng": -120.59
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Hawley Meadow</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-548 &nbsp;|&nbsp; <b>Elevation:</b> 6640 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A glaciated metamorphic outcrop with three very faint petroglyph elements. A small basalt lithic scatter also present.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 3 elements\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.65,
+        "lng": -120.61
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Gold Valley</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-558 &nbsp;|&nbsp; <b>Elevation:</b> 5840 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On a horizontal outcrop of glaciated metamorphic bedrock — a petroglyph panel with approximately 25 elements. Two cobble pestles were located on this outcrop.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 25 elements, 1 bear tracks\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen & Scott 1982; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.655,
+        "lng": -120.62
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Prehistoric Empire</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-560 &nbsp;|&nbsp; <b>Elevation:</b> 5840 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A narrow ledge on the west side of a large glaciated metamorphic rock dome containing six scattered petroglyph elements. A basalt lithic scatter is located on the stream terrace at the foot of this rock dome.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 6 elements\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Payen & Scott 1982; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.76,
+        "lng": -120.72
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Frazier Creek</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-* &nbsp;|&nbsp; <b>Elevation:</b> 6200 ft<br>\n        <b>Watershed:</b> South Fork Feather River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">An outcrop of gently sloping granite with five petroglyph panels containing approximately 22 elements. A basalt lithic scatter is also located here. First recorded by J. Johnston in 1975, updated by M. Baldrica and L. Ashley in 1977. Both records incorrectly place the site in Plumas County — its actual location is in Sierra County.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 22 elements\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.62,
+        "lng": -120.68
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Sunnyside Meadow</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> 05-17-53-560 &nbsp;|&nbsp; <b>Elevation:</b> 6280 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">On a rock bluff with a panoramic view — a series of low glaciated metamorphic rock outcrops. One of these outcrops contains three petroglyph panels with six elements. Also contains 12 bedrock mortars and three grinding slicks. A basalt Martis stemmed-leaf projectile point, five basalt flakes, and five pestles found. This Sierra County site was recorded by USFS personnel in 1990.</div>\n      \n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 6 elements, 1 anthropomorphs\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Bedrock mortars, Milling slicks, Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.63,
+        "lng": -120.595
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Salmon Lake</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> CA-SIE-* &nbsp;|&nbsp; <b>Elevation:</b> 6600 ft<br>\n        <b>Watershed:</b> North Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">A rock bench with a panoramic view of Salmon Lake contains four petroglyph elements. Recently discovered site has not yet been formally recorded.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 4 elements\n      </div>\n      \n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Rhode 1996; Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.2,
+        "lng": -120.4
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Lots-O-Granite</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Small — Martis Style 7 Petroglyph</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Trinomial:</b> 05-17-55-230 &nbsp;|&nbsp; <b>Elevation:</b> 6820 ft<br>\n        <b>Watershed:</b> South Yuba River (West slope of Sierra crest)\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">Nevada County — an area with numerous granite outcrops containing a petroglyph site with approximately 14 elements. An extensive basalt lithic scatter extends north across a creek from the petroglyph area. At least 20 basalt projectile points have been found at this site including several Martis-series types. One obsidian projectile point, a basalt spokeshave, and a quartzite scraper also documented. Recorded by Forest Service personnel in 1982 with an update in 1990.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Near pond/lake</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> 14 elements, 5 bear tracks\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Lithic scatter</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~4,000–1,500 BP) / Style 7 “High Sierra Abstract-Representational”<br>\n        <b>Motifs:</b> Concentric circles, wavy lines, zigzags, bear tracks, occasional anthropomorphs. Pecked into glacially polished bedrock.<br>\n        <b>Sources:</b> Foster, Betts & Sandelin 1999\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      }
+    }
+  ]
+}

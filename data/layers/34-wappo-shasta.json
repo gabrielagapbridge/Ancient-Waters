@@ -1,0 +1,142 @@
+{
+  "source": "34-wappo-shasta.js",
+  "featureCount": 16,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "wappoVillages",
+      "geometry": [
+        [38.85, -122.70],[38.85, -122.30],[38.65, -122.15],
+        [38.30, -122.20],[38.30, -122.50],[38.45, -122.65],
+        [38.65, -122.75]
+      ],
+      "style": {
+        "color": "#8B008B",
+        "fillColor": "#8B008B",
+        "fillOpacity": 0.07,
+        "weight": 2,
+        "dashArray": "8,6",
+        "pane": "wappoBackgroundPane",
+        "interactive": false
+      },
+      "options": {"interactive": false}
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 38.55, "lng": -122.45},
+      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 12px Georgia,serif;color:#8B008B;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">W A P P O</div>", "iconSize": [140, 30], "iconAnchor": [70, 15]},
+      "options": {"interactive": false}
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 38.7100, "lng": -122.3800},
+      "icon": {"factory": "mkIcon", "color": "#8B008B", "size": 12},
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#8B008B;margin:0 0 6px;\">◆ Glass Mountain — Wappo Obsidian Source</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Napa County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major obsidian source used since <b>~2000 BCE</b>. Both ethnographic and\n      archaeological evidence suggest the Wappo were among the first to utilize\n      this area — making it one of the earliest documented Wappo sites.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Glass Mountain obsidian was a critical trade commodity — found at sites\n      throughout Northern California. The Wappo spoke a <b>Yukian language</b>\n      (related to Yuki and Coast Yuki), a linguistic isolate unrelated to\n      any neighboring language family.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Elmendorf 1963; Heizer; Napa Watersheds report</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 38.4600, "lng": -122.3600},
+      "icon": {"factory": "mkIcon", "color": "#8B008B", "size": 10},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#8B008B;margin:0 0 6px;\">◆ Caymus — Wappo Village</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Napa Valley, Napa County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      One of several documented Wappo villages in Napa Valley. Others include\n      Canijolmano, Huiluc, Locnoma, Mayacama, and Napa.\n      Many were recorded through Mission Sonoma records (1823–1834).\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The name \"Wappo\" derives from Spanish <i>guapo</i> (\"brave\") — given for\n      their fierce resistance to European colonization.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Milliken 1995; Sawyer 1978</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 38.6200, "lng": -122.4300},
+      "icon": {"factory": "mkIcon", "color": "#8B008B", "size": 9},
+      "popup": "\n  <div style=\"max-width:280px;\">\n    <h3 style=\"color:#8B008B;margin:0 0 6px;\">◆ Pope Valley Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Pope Valley, Napa County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Wappo and Lake Miwok overlap zone. The Lake Miwok inhabited areas\n      south of Clear Lake extending into Pope Valley. Annual summer trips\n      brought Wappo to Clear Lake and the Pacific coast.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sawyer 1978</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 38.3000, "lng": -122.3000},
+      "icon": {"factory": "mkIcon", "color": "#8B008B", "size": 10},
+      "popup": "\n  <div style=\"max-width:280px;\">\n    <h3 style=\"color:#8B008B;margin:0 0 6px;\">◆ Napa — Southern Wappo</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Napa, Napa County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Southern extent of Wappo territory — bordered by Patwin to the east\n      and Coast Miwok to the south. The name \"Napa\" may derive from a\n      Patwin or Wappo word.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      By 1855, only ~500 Wappo remained in Napa Valley. In 1854, Wappo\n      from the Russian River were moved to a Mendocino reservation where\n      nearly half died within two years.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sawyer 1978</div>\n  </div>\n"
+    },
+    {
+      "type": "polygon",
+      "layer": "wappoVillages",
+      "geometry": [
+        [42.00, -122.80],[42.00, -122.20],[41.80, -122.00],
+        [41.50, -122.10],[41.30, -122.20],[41.30, -122.60],
+        [41.50, -122.70],[41.75, -122.80]
+      ],
+      "style": {
+        "color": "#CD5C5C",
+        "fillColor": "#CD5C5C",
+        "fillOpacity": 0.06,
+        "weight": 2,
+        "dashArray": "8,6",
+        "pane": "wappoBackgroundPane",
+        "interactive": false
+      },
+      "options": {"interactive": false}
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 41.65, "lng": -122.45},
+      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 12px Georgia,serif;color:#CD5C5C;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">S H A S T A</div>", "iconSize": [140, 30], "iconAnchor": [70, 15]},
+      "options": {"interactive": false}
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 41.4090, "lng": -122.1948},
+      "icon": {"factory": "mkIcon", "color": "#DC143C", "size": 12},
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#DC143C;margin:0 0 6px;\">◆ \u00daytaahkoo (Mt. Shasta)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Siskiyou County — 14,179 ft</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Sacred mountain for the Shasta, Wintu, Karuk, Modoc, and many other\n      Northern California peoples. The Shasta people took their English name\n      from the mountain (their own name was <i>Kahosadi</i>).\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Wintu name <i>Bohem Puyuq</i> (\"Great Mountain\") reflects its spiritual\n      centrality. Mt. Shasta features in creation stories across multiple tribes\n      and is considered a living spiritual being.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Silver 1978</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "wappoVillages",
+      "geometry": {"lat": 41.6500, "lng": -122.4000},
+      "icon": {"factory": "mkIcon", "color": "#CD5C5C", "size": 10},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#CD5C5C;margin:0 0 6px;\">◆ Shasta Valley Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Shasta Valley, Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Shasta people occupied the upper Klamath River drainage and\n      Shasta Valley. They spoke a Hokan language. Multiple village and\n      camp sites documented in archaeological investigations.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Shasta were closely related culturally to the Karuk but linguistically\n      distinct. They served as important intermediaries in the\n      obsidian and dentalium shell trade.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Holt 1946</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "pomoRockArt",
+      "geometry": {"lat": 38.7900, "lng": -123.0800},
+      "icon": {"factory": "mkPetroIcon", "color": "#D32F2F", "size": 12},
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◆ Yorkville Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Anderson Valley, Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Large boulder covered with ancient petroglyphs. These are\n      <b>distinctly different from known Pomo petroglyphs</b> in Willits and\n      Lake County, suggesting a <b>much earlier origin</b> — possibly pre-Pomo.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Anderson Valley was a boundary zone between Northern and Central Pomo.\n      The petroglyphs may date to a period before Pomo peoples occupied the area,\n      making them among the oldest cultural markers in the region.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Anderson Valley Advertiser; First People article</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "pomoRockArt",
+      "geometry": {"lat": 38.8300, "lng": -123.6300},
+      "icon": {"factory": "mkPCNIcon", "size": 12},
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◎ Mendocino Coast PCN Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Anchor Bay area, Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Pecked Curvilinear Nucleated (PCN)</b> petroglyphs recorded on sandstone\n      boulders in a coastal redwood forest setting. Significant discovery that\n      extends the PCN tradition to the Mendocino coast.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      PCN sites have been recorded since 1907 across Northern California's\n      coastal ranges. Central Pomo mythology connects PCN glyphs to\n      <b>fertility rituals</b>, attributed to supernatural Bird People.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Whatford 2005 (SCA Newsletter)</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "pomoRockArt",
+      "geometry": {"lat": 39.0100, "lng": -123.0800},
+      "icon": {"factory": "mkPCNIcon", "size": 11},
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◎ UC Hopland — PCN Cupule Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Hopland Research Station, Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Five boulders or boulder clusters with cultural markings including cupules\n      on the 2,150-hectare UC property. 30+ identified prehistoric sites with\n      <b>3,000+ catalogued artifacts</b>.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Obsidian hydration dating, chemical sourcing, AMS dates, and soil testing\n      have been conducted. A doctoral dissertation applied landscape archaeology\n      and ritual theory frameworks to these sites.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">UC Hopland; FSRA 1999</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "pomoRockArt",
+      "geometry": {"lat": 39.0500, "lng": -123.1200},
+      "icon": {"factory": "mkPetroIcon", "color": "#D32F2F", "size": 9},
+      "popup": "\n  <div style=\"max-width:240px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◆ Glitter Rock (CA-MEN-2300)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Petroglyph site documented on 1999 FSRA Mendocino-Lake Counties field trip.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA 1999</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "pomoRockArt",
+      "geometry": {"lat": 39.0300, "lng": -123.0500},
+      "icon": {"factory": "mkPetroIcon", "color": "#D32F2F", "size": 9},
+      "popup": "\n  <div style=\"max-width:240px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◆ Keystone (CA-MEN-2200)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Petroglyph site documented on 1999 FSRA field trip.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA 1999</div>\n  </div>\n"
+    },
+    {
+      "type": "marker",
+      "layer": "pomoSacred",
+      "geometry": {"lat": 39.0100, "lng": -122.7600},
+      "icon": {"factory": "mkIcon", "color": "#E0E0E0", "size": 12},
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#E0E0E0;margin:0 0 6px;\">◇ Borax Lake (CA-LAK-36)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lake County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>One of the oldest archaeological sites in California</b> — Paleo-Indian\n      occupation dating to <b>12,000+ years ago</b>. Fluted projectile points\n      found here predate all known tribal affiliations in the region.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Located near Clear Lake, providing evidence of human presence in\n      the Lake County area since the end of the last Ice Age.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Harrington 1948</div>\n  </div>\n"
+    }
+  ]
+}

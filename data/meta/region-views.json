@@ -1,0 +1,33 @@
+{
+  "views": {
+    "overview":       {"lat":35.5,"lng":-113,"zoom":5},
+    "southwest":      {"lat":34.5,"lng":-111.5,"zoom":6},
+    "jtree":          {"lat":34.0,"lng":-116.1,"zoom":11},
+    "bayarea":        {"lat":37.78,"lng":-122.25,"zoom":10},
+    "centralvalley":  {"lat":36.0,"lng":-119.5,"zoom":7},
+    "owensvalley":    {"lat":36.8,"lng":-117.8,"zoom":8},
+    "eastbay":        {"lat":37.75,"lng":-121.9,"zoom":10},
+    "chumash":        {"lat":34.35,"lng":-119.5,"zoom":9},
+    "windwolves":     {"lat":34.91,"lng":-119.17,"zoom":12},
+    "lakecountry":    {"lat":39.0,"lng":-122.75,"zoom":11},
+    "russianriver":   {"lat":38.7,"lng":-123.0,"zoom":10},
+    "eelriver":       {"lat":39.7,"lng":-123.3,"zoom":10},
+    "lostcoast":      {"lat":40.4,"lng":-124.15,"zoom":10},
+    "lavabeds":       {"lat":41.75,"lng":-121.50,"zoom":10},
+    "sacvalley":      {"lat":40.5,"lng":-122.0,"zoom":8},
+    "easternwa":      {"lat":47.0,"lng":-118.5,"zoom":7},
+    "hudsonvalley":   {"lat":42.5,"lng":-73.5,"zoom":7},
+    "manhattan":      {"lat":40.72,"lng":-74.005,"zoom":13},
+    "mojavedesert":   {"lat":35.0,"lng":-116.0,"zoom":8},
+    "diablorange":    {"lat":37.35,"lng":-121.55,"zoom":9},
+    "maine":          {"lat":44.7,"lng":-68.5,"zoom":7},
+    "wampanoag":      {"lat":41.75,"lng":-70.65,"zoom":9},
+    "thunderbird":    {"lat":42.0,"lng":-73.0,"zoom":6},
+    "ctriver":        {"lat":42.4,"lng":-72.55,"zoom":8},
+    "berkshire":      {"lat":42.0,"lng":-73.2,"zoom":8},
+    "haudenosaunee":  {"lat":42.8,"lng":-76.2,"zoom":7},
+    "wendake":        {"lat":44.5,"lng":-79.7,"zoom":8},
+    "neutral":        {"lat":43.1,"lng":-80.0,"zoom":8},
+    "erie":           {"lat":42.3,"lng":-79.5,"zoom":8}
+  }
+}

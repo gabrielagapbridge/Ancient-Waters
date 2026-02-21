@@ -1,0 +1,1951 @@
+{
+  "source": "47-diablo-cupules.js",
+  "featureCount": 78,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.694,
+        "lng": -122.085
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-ALA-60 — Castro Valley Cupule Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Alameda Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 149+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 240 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>149+ cupules</strong> on numerous boulders at a large occupation site in ethnographic Ohlone territory. Excavated by California State University, Hayward in 1979. Obsidian hydration rind measurements range from <strong>415 to 4,097 BP</strong>. A single radiocarbon date of <strong>3,295 ± 500 BP</strong> from the lower deposit. One of the most significant cupule sites in the Diablo Range — the combination of extensive cupule boulders with a deep, well-dated occupation deposit makes this a keystone site for understanding cupule chronology. Elevation 240 ft, canyon/streamside setting in oak woodland and riparian vegetation. Stream within 20 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1; Miller (1982) CSUH excavation report</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.728,
+        "lng": -122.045
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-ALA-339 — Crow Creek Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Alameda Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 10+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (10 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 640 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>10+ cupules</strong> on sandstone at an occupation site. Canyon/streamside setting at 640 ft elevation in oak woodland and riparian vegetation. Stream within 10 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.56,
+        "lng": -121.735
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-ALA-398 — Ridge Crest Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Alameda Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 6+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1400 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>6+ cupules</strong> on sandstone at a possible milling station. Ridge crest setting at 1,400 ft elevation in grassland. Stream within 5 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.57,
+        "lng": -121.72
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-ALA-400 — Canyon Milling Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Alameda Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 2</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1160 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>2 cupules</strong> on sandstone at a milling station. Canyon/streamside setting at 1,160 ft elevation in oak woodland and riparian vegetation. Stream within 5 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.585,
+        "lng": -121.75
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-ALA-412 — Ridge Crest Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Alameda Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 5</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (80 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 325 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>5 cupules</strong> on sandstone. Ridge crest setting at 325 ft elevation in oak woodland. Stream within 80 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.575,
+        "lng": -121.76
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-ALA-418 — Ridge Milling Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Alameda Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 2</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (300 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 700 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>2 cupules</strong> on sandstone at a milling station. Ridge setting at 700 ft elevation in oak woodland and grassland. Stream within 300 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.88,
+        "lng": -121.96
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-9 — Mt. Diablo Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 8</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 500 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>8 cupules</strong> on sandstone at a milling station near Mt. Diablo. Streamside setting at 500 ft elevation in oak woodland. Stream nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.87,
+        "lng": -121.905
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-21 — Mt. Diablo Canyon</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 2</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (250 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 3200 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>2 cupules</strong> on sandstone. Canyon setting at 3,200 ft elevation in oak woodland — one of the highest cupule sites in the range. Spring within 250 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.931,
+        "lng": -122.317
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-125/353 — Major PCN & Cupule Complex</h4>\n<span class=\"ptype pt-rock-art\">PCN Petroglyphs & Cupule Complex</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone / Pre-contact PCN tradition</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 256+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 160 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>256+ cupules</strong> plus Pecked Curvilinear Nucleated (PCN) petroglyphs on chlorite schist — a massive rock art complex. Canyon/streamside setting at 160 ft elevation in riparian vegetation. Stream within 20 m. Also recorded as CCO-353. The PCN style petroglyphs are similar to those in Marin County sites (Hotz and Clewlow 1974). Associated with an occupation site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1; Miller (1977:22, Fig. 4); Elsasser (1984); Hotz & Clewlow (1974)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.935,
+        "lng": -122.322
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-152 — El Cerrito Cupule Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & PCN</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone (Huchiun) / Pre-contact PCN tradition</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 200+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 200 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>200+ cupules</strong> on chlorite schist, with PCN petroglyphs. Canyon/streamside setting at 200 ft elevation in riparian vegetation. Stream within 20 m. First documented in 1933 newspaper coverage (Oakland Tribune). Associated with possible quarry. One of the most famous Diablo Range rock art sites.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1; Oakland Tribune (1933); Berkeley Gazette (1953); Heizer & Clewlow (1973:94)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.845,
+        "lng": -121.785
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-320 — Round Valley Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> Many</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 600 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Many cupules</strong> on sandstone at an occupation site. Canyon/streamside setting at 600 ft elevation in oak woodland and riparian vegetation. Stream within 20 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.84,
+        "lng": -121.8
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-369 — Basaltic Greenstone Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1(?)</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 720 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1 possible cupule</strong> on basaltic greenstone at a milling station. Canyon/streamside setting at 720 ft elevation in riparian vegetation. Stream within 20 m. Unusual lithology — most Diablo Range cupules are on sandstone.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.852,
+        "lng": -121.87
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-375 — Canyon Milling Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 7+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (50 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1400 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>7+ cupules</strong> on sandstone at a milling station. Canyon setting at 1,400 ft elevation in oak woodland. Spring within 50 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.855,
+        "lng": -121.865
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-382 — Spring Milling Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 5</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1640 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>5 cupules</strong> on sandstone at a milling station. Canyon setting at 1,640 ft elevation in oak woodland. Spring within 100 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.857,
+        "lng": -121.863
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-383 — Canyon Paired Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 2</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1600 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>2 cupules</strong> on sandstone at a milling station. Canyon setting at 1,600 ft elevation in oak woodland. Spring within 100 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.856,
+        "lng": -121.864
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-384 — Solitary Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1640 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1 cupule</strong> on sandstone at a milling station. Canyon setting at 1,640 ft elevation in oak woodland. Spring within 100 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.878,
+        "lng": -121.942
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-394 — Isolated Canyon Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (75 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 380 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1 cupule</strong> on sandstone. Canyon setting at 380 ft elevation in oak woodland. Stream within 75 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.858,
+        "lng": -121.862
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-395 — Spring Milling Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 5</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1600 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>5 cupules</strong> on sandstone at a milling station. Canyon setting at 1,600 ft elevation in oak woodland. Spring within 100 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.86,
+        "lng": -121.858
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-416 — Streamside Cupule Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 8+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (35 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1640 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>8+ cupules</strong> on sandstone at a milling station. Canyon setting at 1,640 ft elevation in oak woodland. Stream within 35 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.862,
+        "lng": -121.85
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-424 — Isolated Ridge Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2050 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1+ cupule</strong> on sandstone. Canyon setting at 2,050 ft elevation in oak woodland. Stream within 20 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.868,
+        "lng": -121.852
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-428 — Spring Ridge Cupule Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 20+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 940 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>20+ cupules</strong> on sandstone. Ridge crest setting at 940 ft elevation in grassland. Spring nearby. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.855,
+        "lng": -121.855
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-429 — Ridge Milling Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 3</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1640 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>3 cupules</strong> on sandstone at a milling station. Ridge setting at 1,640 ft elevation in oak woodland. Stream within 100 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.863,
+        "lng": -121.845
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-430 — Ridge Crest Solitary Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (400 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1980 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1 cupule</strong> on sandstone. Ridge crest setting at 1,980 ft elevation in grassland. Stream within 400 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.875,
+        "lng": -121.935
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-450 — Canyon Streamside Milling</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 7</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 560 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>7 cupules</strong> on sandstone at a milling station. Canyon/streamside setting at 560 ft elevation in grassland and riparian vegetation. Stream at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.885,
+        "lng": -121.928
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-462 — Hillside Milling Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 15+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (50 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 580 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>15+ cupules</strong> on sandstone at a milling station. Hillside setting at 580 ft elevation in oak woodland. Stream within 50 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.89,
+        "lng": -121.92
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-469 — Hillside Cupule Cluster</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 6+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (30 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 410 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>6+ cupules</strong> on sandstone. Hillside setting at 410 ft elevation in savanna. Stream within 30 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.864,
+        "lng": -121.842
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-482 — Spring Ridge Solitary Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (150 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1720 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1 cupule</strong> on sandstone. Ridge crest setting at 1,720 ft elevation in oak woodland and grassland. Spring within 150 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.866,
+        "lng": -121.84
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-486 — Ridge Saddle Solitary Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1720 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1 cupule</strong> on sandstone. Ridge saddle setting at 1,720 ft elevation in oak woodland. Spring within 100 m. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.865,
+        "lng": -121.841
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-487 — Ridge Saddle Milling Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 13</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1600 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>13 cupules</strong> on sandstone at a milling station. Ridge saddle setting at 1,600 ft elevation in oak woodland. Spring within 100 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.867,
+        "lng": -121.838
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-530 — Ridge Crest Conglomerate Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (Below Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1560 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong> on conglomerate — unusual lithology. Ridge crest setting at 1,560 ft elevation in oak woodland. Spring below site. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.869,
+        "lng": -121.836
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-CCO-531 — Ridge Crest Sandstone Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Contra Costa Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Bay Miwok (Volvon)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (Below Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1580 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong> on sandstone. Ridge crest setting at 1,580 ft elevation in oak woodland. Spring below site. No associated features.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 36.075,
+        "lng": -120.13
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-KIN-15 — Kings County Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Kings Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1200 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong> on sandstone. Canyon/streamside setting at 1,200 ft elevation in grassland. Stream nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.06,
+        "lng": -121.1
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-14 — Valley Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 250 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong> on sandstone. Valley/streamside setting at 250 ft elevation in grassland. Stream at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.055,
+        "lng": -121.09
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-15 — Pacheco Pass Yokuts Cupule Site</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts (protohistoric)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 550 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupule boulders</strong> on sandstone close to a late protohistoric (Yokuts) occupation site.</div>\n<div class=\"popup-src\">📖 Parkman (1986); Riddell & Olsen (1965); Olsen & Payen (1982:21)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.052,
+        "lng": -121.085
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-19 — Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 525 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 525 ft elevation in grassland. Stream nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.048,
+        "lng": -121.095
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-21 — Oak Woodland Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 575 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 575 ft elevation in oak woodland. Stream at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.05,
+        "lng": -121.092
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-24 — Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 450 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong> on sandstone. Canyon/streamside setting at 450 ft elevation in oak woodland. Stream at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.046,
+        "lng": -121.11
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-38 — San Luis Reservoir Yokuts Cupule Site</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts (protohistoric)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (50 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 230 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupule boulders</strong> close to a late protohistoric (Yokuts) occupation site.</div>\n<div class=\"popup-src\">📖 Parkman (1986); Olsen & Payen (1969, 1982); Pritchard (1970, 1982)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.053,
+        "lng": -121.088
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-130 — Pacheco Pass Upland Cupule Site</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts / Ohlone (boundary area)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 600 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupule boulders</strong> close to a late protohistoric occupation site.</div>\n<div class=\"popup-src\">📖 Parkman (1986); Olsen & Payen (1982:21); Pritchard (1982:31)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.065,
+        "lng": -121.07
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-186 — Highland Spring Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts / Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1860 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Hillside setting at 1,860 ft elevation in oak woodland. Spring at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.063,
+        "lng": -121.068
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-192 — Canyon Spring Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts / Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1900 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 1,900 ft elevation in oak woodland. Spring nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.058,
+        "lng": -121.075
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-MER-195 — Oak Woodland Streamside</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Merced Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts / Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1480 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 1,480 ft elevation in oak woodland and grassland. Stream at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 36.545,
+        "lng": -121.085
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SBN-10 — Knoll Top Rockshelter Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">San Benito Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone / Yokuts boundary</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (600 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2550 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Knoll top rockshelter at 2,550 ft elevation in chaparral. Stream within 600 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 36.62,
+        "lng": -121.18
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SBN-21 — Hillside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">San Benito Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (200 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 960 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Hillside setting at 960 ft elevation in oak woodland. Stream within 200 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 36.59,
+        "lng": -121.15
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SBN-29 — Rockshelter Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">San Benito Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1400 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Rockshelter setting at 1,400 ft elevation in oak woodland. Stream nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 36.61,
+        "lng": -121.17
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SBN-42 — Canyon Hillside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">San Benito Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 860 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/hillside setting at 860 ft elevation in oak woodland. Stream at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 36.605,
+        "lng": -121.165
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SBN-43 — Canyon Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">San Benito Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 770 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 770 ft elevation in oak woodland. Stream at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 36.53,
+        "lng": -121.07
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SBN-47 — San Benito Mountain Area</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">San Benito Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone / Yokuts boundary</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (75 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2750 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Meadow setting at 2,750 ft elevation in oak woodland. Stream within 75 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.2,
+        "lng": -121.56
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-40 — Canyon Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1250 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 1,250 ft elevation in riparian vegetation. Stream within 20 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.18,
+        "lng": -121.54
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-43 — Canyon Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (20 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2250 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 2,250 ft elevation in oak woodland. Stream within 20 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.17,
+        "lng": -121.53
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-48 — Major Hillside Rock Art Site</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Rock Art</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2500 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong> and other petroglyphs on a hillside at 2,500 ft elevation in oak woodland. Stream nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986); Heizer & Clewlow (1973:115); Elsasser (1985); Hotz (1986); Berkeley Gazette (1953)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.175,
+        "lng": -121.535
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-50 — Canyon Spring Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2000 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon setting at 2,000 ft elevation in oak woodland. Spring at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.23,
+        "lng": -121.6
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-100 — Hillside Spring Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 440 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Hillside setting at 440 ft elevation in grassland. Spring within 100 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.16,
+        "lng": -121.49
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-373 — Oak Woodland Streamside</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2000 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Hillside setting at 2,000 ft elevation in oak woodland. Stream.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.19,
+        "lng": -121.52
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-404 — Ridge Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1340 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Ridge setting at 1,340 ft elevation in oak woodland.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.215,
+        "lng": -121.55
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-408 — Canyon Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 880 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon setting at 880 ft elevation in oak woodland.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.165,
+        "lng": -121.485
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-451 — Canyon Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2060 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon setting at 2,060 ft elevation in oak woodland.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.195,
+        "lng": -121.51
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-496 — Henry Coe Spring Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs (Patterned)</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone (Tomoi / Locobo / Cobo)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 6</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (10 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2280 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>6 cupules</strong> arranged in what may be a <strong>nonrandom pattern</strong> on a single Franciscan graywacke boulder, about 10 m from a major spring.</div>\n<div class=\"popup-src\">📖 Parkman (1986) pp. 248, Fig. 2a; Parkman et al. (1983)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.21,
+        "lng": -121.53
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-499 — Black Oak Grove Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs (Patterned)</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone (Tomoi / Locobo / Cobo)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 3</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (100 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 600 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>3 cupules</strong> arranged in what may be a <strong>nonrandom pattern</strong> on a single Franciscan graywacke boulder near a spring.</div>\n<div class=\"popup-src\">📖 Parkman (1986) pp. 248, Fig. 2b; Parkman et al. (1983)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.185,
+        "lng": -121.505
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-500 — Streamside Milling & Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Bedrock Mortars</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 3+4 BRM</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1950 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>3 cupules and 3 bedrock mortars</strong> on a single Franciscan graywacke boulder.</div>\n<div class=\"popup-src\">📖 Parkman (1986) p. 248; Parkman et al. (1983)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.192,
+        "lng": -121.508
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-501 — Chert Quarry Spring Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 2</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1600 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>2 cupules</strong> — one on each of two Franciscan graywacke boulders. In the vicinity of a <strong>chert quarry/workshop</strong>.</div>\n<div class=\"popup-src\">📖 Parkman (1986) pp. 248, Fig. 2c; Parkman et al. (1983)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.188,
+        "lng": -121.502
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-502 — Split Boulder Patterned Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs (Patterned)</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone (Tomoi / Locobo / Cobo)</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 6+1 BRM</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (150 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2050 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>6 cupules and 1 bedrock mortar</strong> on two Franciscan graywacke boulders near a spring.</div>\n<div class=\"popup-src\">📖 Parkman (1986) pp. 248, Fig. 2d; Parkman et al. (1983)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.183,
+        "lng": -121.498
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-503 — PCN & Schist Quarry Complex</h4>\n<span class=\"ptype pt-rock-art\">PCN Petroglyphs & Cupule Complex</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone / Pre-contact PCN tradition</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 7+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 2070 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>7+ cupule-like depressions, PCN petroglyphs, and quarrying evidence</strong> on a large glaucophane schist boulder near a spring.</div>\n<div class=\"popup-src\">📖 Parkman (1986) pp. 248-249; Newman & Mark (1986:193, Fig. 4); Bailey et al. (1964)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.198,
+        "lng": -121.515
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-594 — Perennial Stream Occupation Site</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 17+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (10 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1560 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>17+ cupules and 5 bedrock mortars</strong> on four Franciscan graywacke boulders beside a perennial stream.</div>\n<div class=\"popup-src\">📖 Parkman (1986) p. 249</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.193,
+        "lng": -121.5
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-SCL-595 — Blueschist Cupule & Incised Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Incised Lines</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Santa Clara Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 40+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1680 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>40+ cupules</strong> on two blueschist boulders adjacent to an intermittent stream.</div>\n<div class=\"popup-src\">📖 Parkman (1986) p. 249</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.14,
+        "lng": -121.42
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-33 — Canyon Occupation Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts / Ohlone boundary</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> Many</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1025 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Many cupules</strong> at an occupation site. Canyon setting at 1,025 ft elevation in oak woodland.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1; Heizer & Clewlow (1973:117)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.13,
+        "lng": -121.43
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-118 — Hillside Spring Occupation</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Spring (at Site)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 344 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong> on sandstone at an occupation site. Hillside setting at 344 ft elevation in grassland. Spring at site.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.135,
+        "lng": -121.425
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-127 — Canyon Streamside Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts / Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 650 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 650 ft elevation in oak woodland. Stream nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.132,
+        "lng": -121.428
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-129 — Canyon Streamside Occupation</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Occupation Site</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts / Ohlone</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> ?</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (Nearby)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 550 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Cupules</strong>. Canyon/streamside setting at 550 ft elevation in oak woodland. Stream nearby.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.11,
+        "lng": -121.38
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-134 — Mesa Top Milling Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 10+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (700 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 300 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>10+ cupules</strong> on sandstone at a milling station. Mesa top setting at 300 ft elevation in grassland. Stream within 700 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.108,
+        "lng": -121.378
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-135 — Mesa Face Rockshelter Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (500 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 300 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1+ cupules</strong> on sandstone in a mesa face rockshelter. At 300 ft elevation in grassland. Stream within 500 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.106,
+        "lng": -121.376
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-136 — Mesa Face Rockshelter Cupules</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 3</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (500 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 300 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>3 cupules</strong> on sandstone in a mesa face rockshelter. At 300 ft elevation in grassland. Stream within 500 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.104,
+        "lng": -121.374
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-137 — Mesa Face Rockshelter Cupule</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Milling Station</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Northern Valley Yokuts</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 1</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (500 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 300 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>1 cupule</strong> on sandstone in a mesa face rockshelter. At 300 ft elevation in grassland. Stream within 500 m.</div>\n<div class=\"popup-src\">📖 Parkman (1986) Table 1</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.155,
+        "lng": -121.46
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-195 — Graywacke Milling & Cupule Station</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Bedrock Mortars</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone / Northern Valley Yokuts boundary</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 4</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1150 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>4 cupules and 8 bedrock mortars</strong> on a large Franciscan graywacke boulder beside an intermittent stream.</div>\n<div class=\"popup-src\">📖 Parkman (1986) p. 249; Parkman et al. (1983)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.148,
+        "lng": -121.45
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-201 — Limestone Stream Milling Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs & Bedrock Mortars</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone / Northern Valley Yokuts boundary</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 3</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 960 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>3 cupules and 18 bedrock mortars</strong> on six limestone boulders in the bed of an intermittent stream.</div>\n<div class=\"popup-src\">📖 Parkman (1986) p. 249; Parkman et al. (1983)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.15,
+        "lng": -121.455
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#8D6E63;border:2px solid #D7CCC8;border-radius:50%;box-shadow:0 0 4px rgba(141,110,99,0.6);\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4>CA-STA-218 — Major Glaucophane Schist Cupule & Mortar Complex</h4>\n<span class=\"ptype pt-rock-art\">Cupule Petroglyphs, Bedrock Mortars & Incised Petroglyphs</span> <span style=\"display:inline-block;background:rgba(141,110,99,0.25);color:#D7CCC8;padding:2px 7px;border-radius:3px;font-size:10px;margin-left:4px;\">Stanislaus Co.</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural affiliation:</strong> Ohlone / Northern Valley Yokuts boundary</div>\n<div style=\"margin:4px 0;font-size:11px;color:#FFAB40\"><strong>Cupules:</strong> 40+</div><div style=\"margin:4px 0;font-size:11px;color:#4FC3F7\">💧 Water source: Stream (5 m.)</div><div style=\"font-size:10px;color:#999;margin-top:2px\">⛰️ Elevation: 1200 ft</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>40+ cupules, 14 bedrock mortars, and several possible incised petroglyphs</strong> on a large glaucophane schist boulder beside an intermittent stream.</div>\n<div class=\"popup-src\">📖 Parkman (1986) p. 249</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      }
+    },
+    {
+      "type": "marker",
+      "layer": "diabloCupules",
+      "geometry": {
+        "lat": 37.9,
+        "lng": -121.95
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:16px;height:16px;background:#FF8F00;border:2px solid #FFD54F;border-radius:3px;display:flex;align-items:center;justify-content:center;font-size:10px;color:#fff;font-weight:bold;box-shadow:0 0 6px rgba(255,143,0,0.5);\">📜</div>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ]
+      },
+      "popup": "<h4>Diablo Range — Ethnographic Context</h4>\n<span class=\"ptype\" style=\"background:rgba(255,143,0,0.2);color:#FFB74D;\">Ethnographic Note</span>\n<div style=\"margin:4px 0;font-size:11px;color:#ccc\"><strong>Cultural context:</strong> Pan-California / Global parallels</div>\n<div style=\"margin:6px 0;font-size:12px;line-height:1.5\"><strong>Three ethnographic explanations for cupule petroglyphs in the Diablo Range</strong> (Parkman 1986, citing Meighan 1981):<br><br><strong>1. Boundary markers</strong> — representations of group symbols having territorial significance.<br><strong>2. Clan or personal symbols</strong> — the \"I was here\" message, representing ownership of a resource by an individual or group. Water sources (springs) and food resources (oak groves) might have been marked by cupule boulders. Three sites in Henry Coe State Park (SCL-496, -499, -502) show nonrandom cupule patterns suited to this explanation.<br><strong>3. Supplication</strong> — \"rain rocks\" or \"baby rocks\" consisting of boulders with many drilled pits, marks made by individuals to accompany a prayer or request for some benefit.<br><br><strong>Pomo ethnography:</strong> The Shanel (Pomo) associated cupules with fertility and population control (Aginsky 1939). \"Baby rocks\" were visited by those desiring children.<br><strong>Yuki ethnography:</strong> \"Rain rocks\" — depressions were drilled while praying for rain.<br><strong>Karok ethnography:</strong> At Amaikiaram, a sacred village, cupules may have been associated with weather control and/or the First Salmon ceremony (Winter & Heffner 1978).<br><strong>Wappo ethnography:</strong> Two large boulders were considered sacred — the home of spirits. Each passerby would leave an offering, usually a stone, stick, or bead (Heizer 1953b).<br><br><strong>Global parallels:</strong> Grieder (1982) hypothesized that \"the cup mark everywhere refers to the vulva of the female earth from which all creation emerges, especially water and the souls of human babies.\"</div>\n<div class=\"popup-src\">📖 Parkman (1986) pp. 249-254; Meighan (1981:16); Aginsky (1939); Grieder (1982:43); Winter & Heffner (1978); Heizer (1953b)</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      }
+    },
+    {
+      "type": "polygon",
+      "layer": "diabloTerritory",
+      "geometry": [
+        [
+          37.882,
+          -121.914
+        ],
+        [
+          37.8,
+          -121.75
+        ],
+        [
+          37.65,
+          -121.55
+        ],
+        [
+          37.45,
+          -121.45
+        ],
+        [
+          37.2,
+          -121.4
+        ],
+        [
+          37.05,
+          -121.35
+        ],
+        [
+          36.85,
+          -121.2
+        ],
+        [
+          36.65,
+          -121
+        ],
+        [
+          36.45,
+          -120.8
+        ],
+        [
+          36.35,
+          -120.65
+        ],
+        [
+          36.45,
+          -120.5
+        ],
+        [
+          36.65,
+          -120.65
+        ],
+        [
+          36.85,
+          -120.85
+        ],
+        [
+          37.05,
+          -121.05
+        ],
+        [
+          37.2,
+          -121.15
+        ],
+        [
+          37.35,
+          -121.25
+        ],
+        [
+          37.55,
+          -121.35
+        ],
+        [
+          37.7,
+          -121.5
+        ],
+        [
+          37.8,
+          -121.65
+        ],
+        [
+          37.882,
+          -121.914
+        ]
+      ],
+      "style": {
+        "color": "#8D6E63",
+        "weight": 2,
+        "dashArray": "6,4",
+        "fillColor": "#795548",
+        "fillOpacity": 0.06
+      },
+      "options": {
+        "interactive": true
+      },
+      "popup": "<h4>Diablo Range — Cupule Petroglyph Province</h4>\n<div style=\"font-size:11px;color:#ccc;margin:4px 0\"><strong>Cultural affiliation:</strong> Bay Miwok · Northern Valley Yokuts · Ohlone (earlier Hokan peoples)</div>\n<p style=\"font-size:12px;line-height:1.5\">The Diablo Range extends ~300 km from Mt. Diablo to the Temblor Range, forming a portion of the central Coast Ranges. Characterized by Franciscan Formation rocks and oak woodland, grassland, and riparian communities. At least <strong>76 recorded cupule petroglyph sites</strong> occur here — one of the densest concentrations in all of California.</p>\n<p style=\"font-size:12px;line-height:1.5\">In early historic times, this area was the territory of <strong>Bay Miwok</strong> (Mt. Diablo area), <strong>Northern Valley Yokuts</strong>, and <strong>Ohlone</strong> peoples. The boundary between Yokuts and Ohlone may have been the crest of the Diablo Range (Kroeber 1925), though Milliken (1982) showed that Ohlone territory likely extended east beyond the crest to the western edge of the Central Valley — based on women's name patterns in mission records. Earlier <strong>Hokan-speaking groups</strong> are thought to have inhabited the range before successive waves of Penutian groups (Levy 1978).</p>\n<p style=\"font-size:12px;line-height:1.5\"><strong>Ethnographic interpretations of cupules:</strong> The Pomo associated cupules with fertility and \"baby rocks.\" The Yuki used \"rain rocks\" — drilling depressions while praying for rain. The Karok made cupules at Amaikiaram, a sacred village, as part of First Salmon ceremonies. Globally, cupule-like designs are linked to concepts of fertility and water (Grieder 1982).</p>\n<div class=\"popup-src\">📖 Parkman (1986) J. California & Great Basin Anthropology 8(2):246-259; Kroeber (1925); Milliken (1982); Levy (1978); Grieder (1982)</div>"
+    }
+  ]
+}

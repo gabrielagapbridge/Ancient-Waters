@@ -1,0 +1,190 @@
+{
+  "source": "45-mojave-rockart.js",
+  "featureCount": 23,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.0498, "lng": -115.3990},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:#FF7043;border:2.5px solid #BF360C;border-radius:50%;box-shadow:0 0 6px #FF704388;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Hole-in-the-Wall Rock Art</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave National Preserve \u00b7 Rings Trail \u00b7 Petroglyphs on volcanic tuff</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nPetroglyphs cover large boulders along the first section of the <b>Rings Trail</b>, near the Hole-in-the-Wall Information Center. The rock art is pecked into volcanic tuff \u2014 the same wind-carved formation that gives Banshee Canyon its Swiss-cheese appearance.<br><br>\nThe tuff was created millions of years ago from volcanic eruptions; wind and water carved the distinctive holes. Legend holds that <b>Native Americans eluded pursuers by scurrying down these cliffs</b>, disappearing into the maze of passages.<br><br>\nMotifs include abstract geometric designs and animal figures. The surrounding area was used by <b>Chemehuevi and Mojave</b> peoples for centuries.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; Road Trip Ryan; ADV Pulse</div>\n",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.1100, "lng": -115.5600},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:#FF7043;border:2.5px solid #BF360C;border-radius:50%;box-shadow:0 0 6px #FF704388;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Cow Cove Petroglyphs</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave National Preserve \u00b7 NE of Aiken Cinder Cones \u00b7 Basalt boulder field</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nA significant petroglyph site on the northeast fringes of the <b>Aiken Cinder Cone field</b>. Petroglyphs are scattered across a wide basalt boulder field, with designs pecked into the dark volcanic rock.<br><br>\nThe site requires a <b>~1.5-mile hike</b> across open desert to reach the main boulder outcrop. Visitors consistently report finding more and more petroglyphs the longer they look \u2014 designs are spread across many boulders in the area.<br><br>\nVehicle access to the site was restricted; visitors now must walk in, which has helped preserve the rock art.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Tales from the Desert; ADVENTR.co; Backroads West</div>\n",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.0700, "lng": -115.1800},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:#FF7043;border:2.5px solid #BF360C;border-radius:50%;box-shadow:0 0 6px #FF704388;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Indian Well / Eagle Well Petroglyphs</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave National Preserve \u00b7 Lanfair Valley \u00b7 500\u2013600 petroglyphs \u00b7 1,500+ years old</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nOne of the <b>most significant rock art concentrations in the Mojave National Preserve</b>. A natural well along the prehistoric <b>Mojave Trail</b> offered a reliable water source, and on virtually every rock within a 100-foot radius, <b>500\u2013600 petroglyphs</b> were carved.<br><br>\nCarvings attributed to <b>Chemehuevi and Mohave</b> peoples, and possibly older cultures before them. Some petroglyphs are thought to be <b>at least 1,500 years old</b>. A few inscriptions from early Euro-American settlers are also found among the indigenous rock art.<br><br>\nWater still trickles from the rocks today.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: ADV Pulse; NPS; BLM Mojave Road documentation</div>\n",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.0200, "lng": -115.6200},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#FF7043;border:2px solid #BF360C;border-radius:50%;box-shadow:0 0 5px #FF704366;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Black Tank Wash / Aiken Arch Rock Art</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave National Preserve \u00b7 Cinder Cone Lava Beds area \u00b7 Petroglyphs & pictographs</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nAlong Black Tank Wash in the Cinder Cone Lava Beds area, petroglyphs are found on canyon walls, and <b>pictographs survive underneath Aiken Arch</b> \u2014 a natural rock shelter that has protected the painted images from weathering.<br><br>\nThe surrounding volcanic landscape includes petrified trees, cinder cones, and a visitable <b>lava tube</b> nearby. Part of the broader <b>Aiken Mine area</b> archaeological complex.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: ADVENTR.co; Mojave National Preserve; Discovery Channel \"Nature in Focus\"</div>\n",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.0800, "lng": -115.4500},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:#E91E63;border:2px solid #880E4F;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E91E6366;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
+      "popup": "\n<h4 style=\"color:#E91E63\">\ud83d\udd73\ufe0f Mary's Cave</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave National Preserve \u00b7 Rock shelter \u00b7 Cupules, pictographs & petroglyphs</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nA heavily sheltered rock overhang located above a spring with fresh water \u2014 ideal habitation. The shelter is covered with <b>many different sized cupules and grinding holes</b>, both on the floor and ceiling. Several old, faded <b>pictographs</b> survive throughout.<br><br>\nLikely created by <b>Chemehuevi or Mojave</b> peoples based on geography. Enhanced photography using <b>DStretch</b> software has revealed details invisible to the naked eye.<br><br>\n<i>Exact location withheld to protect the pristine condition of this site.</i>\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Tales from the Desert; Jon Harman DStretch analysis</div>\n",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.2200, "lng": -114.7300},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:#FF7043;border:2.5px solid #BF360C;border-radius:50%;box-shadow:0 0 6px #FF704388;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Grapevine Canyon Petroglyphs</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Spirit Mountain / Avi Kwa Ame \u00b7 Laughlin, NV \u00b7 700+ petroglyphs \u00b7 NRHP 1984 \u00b7 ~250 panels</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nOne of the <b>finest petroglyph sites in southern Nevada</b>, located at the base of <b>Spirit Mountain (Avi Kwa Ame)</b> \u2014 the Mojave people's sacred place of creation.<br><br>\nOver <b>700 petroglyphs</b> across approximately <b>250 mapped panels</b> (documented 2009). Created between <b>~CE 1100\u20131900</b>. Designs include bighorn sheep, human figures, spirals, zigzags, hunting equipment, and geometric forms. Many are concentrated at the canyon entrance, with additional petroglyphs deeper inside.<br><br>\nThe Mojave people interpret the rock art as depicting <b>Creation Mythology</b> \u2014 the stories of powerful gods <b>Matavilya</b> and <b>Mastamho</b> who shaped the world and taught humans survival. Shamans entered trance states to access the spirit realm and recreated the visions they encountered on the surrounding rocks.<br><br>\n<b>Glyph categories:</b> geometric (circle permutations, line extensions), representational (humanoids, therianthropes, animals). Some identifiable with specific phases of creation: early creation, god-people, animal-people, and human-people.<br><br>\n<b>Tragic note:</b> In March 2010, <b>30 areas of petroglyphs were defaced</b> by paintball gun vandalism. Sacred to all 12 <b>Yuman-speaking peoples</b> of the lower Colorado region.<br><br>\nSeasonal spring water flows in the canyon, supporting wild grapes, willows, and cottonwoods \u2014 a lush oasis in otherwise arid terrain.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Wikipedia; NRHP; Nevada Humanities (ONE); Atlas Obscura; Las Vegas Review-Journal</div>\n",
+      "popupOptions": {"maxWidth": 440}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.6800, "lng": -116.6200},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:#FF7043;border:2.5px solid #BF360C;border-radius:50%;box-shadow:0 0 6px #FF704388;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Rodman Mountains Petroglyph Canyons</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Central Mojave \u00b7 BLM Wilderness \u00b7 34,264 acres \u00b7 Extensive petroglyph-filled canyons</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nOne of the <b>most archaeologically vital areas in the Mojave</b>. Protected under the <b>1994 California Desert Protection Act</b>, this wilderness contains mountains, bajadas, lava flows, deep canyons, and springs \u2014 all heavily marked with petroglyphs.<br><br>\nPetroglyph-filled canyons wind through the lava flows. Designs are predominantly abstract, with some bighorn sheep and anthropomorphs. Likely created by <b>Desert Serrano (Vanyume)</b> and earlier Desert Archaic cultures.<br><br>\nAlso home to bighorn sheep, golden eagles, and prairie falcons \u2014 one of the <b>few core raptor breeding areas</b> in the California Desert.<br><br>\n<b>Conservation crisis:</b> Many petroglyphs have been <b>stolen, shot at, or scratched up</b>. BLM installed roadblock fences at canyon entrances, but vandals have destroyed them and driven vehicles into protected areas. The less accessible sites remain better preserved.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: CalWild; BLM; California Desert Protection Act 1994</div>\n",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.6773, "lng": -116.6218},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#FF7043;border:2px solid #BF360C;border-radius:50%;box-shadow:0 0 5px #FF704366;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Surprise Tank Petroglyphs</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Rodman Mountains Wilderness \u00b7 Lava flow dry waterfall \u00b7 Possibly 10,000 years old</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nA <b>100-foot-high dry waterfall</b> dropping off the edge of a lava flow, covered with <b>hundreds of well-preserved petroglyphs</b>. A small natural tank (pool) of water several feet deep sits at the base \u2014 a vital resource in this arid landscape.<br><br>\nMost designs are abstract, with some bighorn sheep and anthropomorphs. Likely made by <b>Desert Serrano and Desert Archaic</b> cultures. Some petroglyphs may be <b>up to 10,000 years old</b>.<br><br>\nThe remote location has kept this site remarkably <b>undisturbed</b> compared to more accessible Rodman Mountains canyons. Bighorn sheep droppings and hoof prints confirm the animals still visit the tank.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: CalWild; Starbuck.org field documentation (1998\u20132020)</div>\n",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.0192, "lng": -116.1587},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:#E91E63;border:2px solid #880E4F;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E91E6366;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
+      "popup": "\n<h4 style=\"color:#E91E63\">\ud83d\udd73\ufe0f Barker Dam Petroglyph Cave</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Joshua Tree NP \u00b7 Barker Dam Trail \u00b7 ~2,000 years old \u00b7 Petroglyphs & pictographs</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nA natural cave formed by weathered granite boulders along the <b>Barker Dam Trail</b>. Contains both <b>petroglyphs</b> (carved) and <b>pictographs</b> (painted with mineral pigments), including bighorn sheep, snakes, and geometric symbols. The art dates to approximately <b>2,000 years ago</b>.<br><br>\n<b>Hollywood damage:</b> In the 1940s\u201350s, a film crew <b>painted over the original petroglyphs</b> with bright colors to make them show up better on camera \u2014 an act that would be illegal today. The enhanced paint remains visible, making it hard to distinguish original from modified art.<br><br>\nThe site is associated with <b>Serrano</b> and possibly <b>Chemehuevi</b> peoples who used the Barker Dam area seasonally. The nearby dam (built 1900 by ranchers) now provides one of the park's few persistent water sources for wildlife.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NPS Joshua Tree; Weekend Sherpa; Flickr documentation</div>\n",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.0700, "lng": -116.1400},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#FF7043;border:2px solid #BF360C;border-radius:50%;box-shadow:0 0 5px #FF704366;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Rattlesnake Canyon Rock Art</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Joshua Tree NP \u00b7 Indian Cove area \u00b7 Petroglyphs in granite boulders</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nRock art site accessible from the <b>Indian Cove Campground</b> area of Joshua Tree. Petroglyphs are found among the granite boulder formations in and around the canyon.<br><br>\nPart of a broader network of seasonal habitation sites used by <b>Serrano (Yahaaviatam Marranga'yam)</b> peoples who followed resources between the mountains and desert floor.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS; Nature Impacts Us field guide</div>\n",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.0300, "lng": -116.1800},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#F44336;border:2px solid #B71C1C;border-radius:2px;box-shadow:0 0 5px #F4433666;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#F44336\">\ud83c\udfa8 \"Hidden Cave\" Pictographs</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Joshua Tree NP \u00b7 Wonderland of Rocks area \u00b7 Painted cave \u00b7 Possible puberty ritual site</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nA small painted cave deep in the <b>Wonderland of Rocks</b>. Contains elaborate pictographs including <b>diamond chain motifs, bisected circles, rectilinear elements</b>, and a spidery black element in a fire-blackened alcove.<br><br>\nThe diamond motifs may indicate <b>female puberty rites</b> \u2014 a practice documented throughout southern and central California. The cave would have been dramatically lit by a small fire in the interior alcove, out of direct sight of the entrance.<br><br>\nAssociated with <b>Southern California Rectilinear Abstract Painted Style</b>. Serrano cultural context.<br><br>\n<i>Exact location withheld to protect this fragile site.</i>\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Peregriff.com field documentation; Whitley 1996; Death Valley Jim \"Hidden Joshua Tree\"</div>\n",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.0250, "lng": -116.1650},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#F44336;border:2px solid #B71C1C;border-radius:2px;box-shadow:0 0 5px #F4433666;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#F44336\">\ud83c\udfa8 Slab Rock Shelter & \"Red Lady\" Pictograph</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Joshua Tree NP \u00b7 Barker Dam area \u00b7 Pictographs in rock shelters</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nMultiple pictograph sites in the <b>Barker Dam / Hidden Valley area</b>, including the distinctive <b>\"Red Lady\"</b> \u2014 a red-painted anthropomorphic figure \u2014 and additional painted panels in granite rock shelters.<br><br>\nPart of a cluster of rock art sites in the Wonderland of Rocks zone that together demonstrate sustained ceremonial use of this landscape over centuries.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: AllTrails field logs; Death Valley Jim \"Hidden Joshua Tree\"</div>\n",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.9700, "lng": -118.5200},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#F44336;border:2px solid #B71C1C;border-radius:2px;box-shadow:0 0 5px #F4433666;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#F44336\">\ud83c\udfa8 Burham Canyon Polychrome Pictographs (CA-KER-273)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">NW Mojave / Tehachapi foothills \u00b7 Kitanemuk \u00b7 \"Birthing Cave\" \u00b7 Southern Sierra Style</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nDescribed as <b>\"one of the most elaborate and well-preserved pictograph panels in southern California\"</b> (Knight 1993). Located in a rock shelter overlooking a secondary site (KER-1193).<br><br>\nThe main panel features a large, fantastic <b>polychrome abstract image in red, white, black, orange, and blue</b>. Smaller associated pictographs include a distinctive red <b>\"teddy bear\" motif</b> (paralleled at CA-KER-508 in the Tehachapi Valley).<br><br>\nAssigned to the <b>Southern Sierra Style</b>, most likely associated with <b>Kitanemuk</b> habitation. Mortar-like depressions and <b>cupule rock art</b> also present. Ethnographic sources suggest the cave may have been associated with <b>women's birthing or puberty ceremonies</b> \u2014 Kitanemuk, Kawaiisu, and Tataviam women are documented using such sites.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight 1993; Sutton 1982, 1988; SCVHistory.com</div>\n",
+      "popupOptions": {"maxWidth": 440}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.5600, "lng": -118.2200},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#F44336;border:2px solid #B71C1C;border-radius:2px;box-shadow:0 0 5px #F4433666;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#F44336\">\ud83c\udfa8 Ritter Ranch Pictograph Site (CA-LAN-947)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Anaverde Valley \u00b7 San Andreas Fault Rift Zone \u00b7 Springs present \u00b7 Red pictographs</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nLocated west of Palmdale along the <b>San Andreas Fault Rift Zone</b> in the Anaverde Valley. Springs present at the site and in the surrounding area provided reliable water.<br><br>\nContains faded <b>red pictographs</b> on a vertical basalt outcrop face, including a <b>diamond net, zigzag lines, a large dot surrounded by nine additional dots and three lines</b>, and areas of smeared red pigment (some over 1 meter in size).<br><br>\nRepresentative of the <b>Southern California Rectilinear Abstract Painted Style</b>. Located in territory shared by <b>Kitanemuk and Tataviam</b> peoples. Nearby <b>cupule loci</b> have also been recorded.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1982, 1988; Knight 1993; Knight, Milburn & Tejada 2008</div>\n",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.4400, "lng": -117.8700},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#FF7043;border:2px solid #BF360C;border-radius:50%;box-shadow:0 0 5px #FF704366;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Big Rock Creek Rock Art (CA-LAN-447/723)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">SW Antelope Valley \u00b7 San Gabriel Mountains foothills \u00b7 Petroglyphs & pictographs</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nRock art site in the foothills where the San Gabriel Mountains meet the southwestern Antelope Valley. Contains both <b>petroglyph and pictograph</b> elements. Cupules are also present in association with the painted art.<br><br>\nLocated in territory controlled by <b>Serrano-Vanyume</b> peoples who occupied the desert foothills of the eastern San Gabriel Mountains, including Sheep, Deadman, Big Rock, and Littlerock Canyons.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight, Milburn & Tejada 2008; Earle 1990</div>\n",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.5100, "lng": -118.0700},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#F44336;border:2px solid #B71C1C;border-radius:2px;box-shadow:0 0 5px #F4433666;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#F44336\">\ud83c\udfa8 Temet Osraniek / Shea's Castle (CA-LAN-721)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Antelope Valley \u00b7 Pictographs \u00b7 Kitanemuk or Tataviam</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nPictograph site in the western Antelope Valley. The site contains painted rock art and is situated in an area where <b>Kitanemuk and Tataviam</b> territories overlapped.<br><br>\nEarle (2004) suggests inhabitants were probably from one or both of these culture groups. The site is named for Shea's Castle, a historic structure built nearby.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight 1993; Earle 2004</div>\n",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.5500, "lng": -118.1800},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:9px;height:9px;background:#FFAB91;border:2px solid #D84315;border-radius:50%;box-shadow:0 0 4px #FFAB9166;\"></div>", "iconSize": [9,9], "iconAnchor": [4.5,4.5]},
+      "popup": "\n<h4 style=\"color:#FFAB91\">\u2299 Anaverde Hills Cupule Complex (CA-LAN-1767/1768/3343)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">San Andreas Fault Rift Zone \u00b7 Cupule boulders \u00b7 Age uncertain</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nThree pitted <b>cupule sites</b> along the northern edge of the San Andreas Fault Rift Zone in the Anaverde Hills. Cupules \u2014 shallow hemispherical pits ground into rock surfaces \u2014 are <b>ubiquitous throughout the western Mojave</b> and represent one of the oldest rock art traditions in southern California.<br><br>\nFound predominantly on <b>schist and metamorphic boulders</b> along the southern flanks of the Antelope Valley. Cultural associations remain unclear \u2014 cupule-making may be an <b>older tradition</b> that was partly or completely replaced by painted rock art over time.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight, Milburn & Tejada 2008; Whitley 1996</div>\n",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.5900, "lng": -118.4000},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:9px;height:9px;background:#FFAB91;border:2px solid #D84315;border-radius:50%;box-shadow:0 0 4px #FFAB9166;\"></div>", "iconSize": [9,9], "iconAnchor": [4.5,4.5]},
+      "popup": "\n<h4 style=\"color:#FFAB91\">\u2299 Sierra Pelona Cupule Complex (CA-LAN-540)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Sierra Pelona Ridge \u00b7 Largest cupule concentration in south-central California</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nReportedly contains the <b>largest concentration of cupule pits in south-central California</b>. Uniquely, the site also encompasses a few <b>pecked petroglyphs</b> \u2014 including a hollow circle, a zigzag, a \"rake\" terminating in cupules, an inverted \"U\" with a bisecting line, and parallel lines.<br><br>\nThis association of cupules with petroglyphs challenges the traditional distinction between these rock art traditions, suggesting they may have been <b>produced contemporaneously</b> by the same peoples.<br><br>\nLocated in <b>Tataviam territory</b> along the southern foothills of the Sierra Pelona Ridge.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Whitley 1996, 2003; Knight, Milburn & Tejada 2008</div>\n",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.3700, "lng": -117.9500},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#FF7043;border:2px solid #BF360C;border-radius:50%;box-shadow:0 0 5px #FF704366;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Grandview Canyon Rock Art</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">San Gabriel Mountains \u00b7 Cupule/petroglyph boulders \u00b7 Serrano-Vanyume</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nRock art sites in Grandview Canyon (FS No. 05-01-54-0236 and 0237) at the interface between the San Gabriel Mountains and the Antelope Valley.<br><br>\nContains both <b>cupule pits and pecked linear petroglyphs</b>, including a motif where cupules are integrated with pecked geometric designs. Demonstrates the overlap between cupule and petroglyph traditions in the western Mojave.<br><br>\nLocated in <b>Serrano-Vanyume</b> territory.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight, Milburn & Tejada 2008; Robinson 1987</div>\n",
+      "popupOptions": {"maxWidth": 380}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.7600, "lng": -117.9200},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#F44336;border:2px solid #B71C1C;border-radius:2px;box-shadow:0 0 5px #F4433666;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#F44336\">\ud83c\udfa8 Piute Butte Rock Art Complex (CA-LAN-1731 & 2096)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Antelope Valley \u00b7 Pictographs & vulva-form petroglyphs \u00b7 Currently closed to public</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\n<b>Multiple rock art traditions</b> converge at Piute Butte. The site contains <b>pictograph panels</b> \u2014 stylistically complex and not easily classified into existing regional styles.<br><br>\nNearby, a <b>\"vulva\"-form petroglyph</b> (LAN-2096) is recorded. Former curator of the Antelope Valley Indian Museum, <b>Edra Moore</b>, reports other vulva-like petroglyph images in the general area \u2014 possibly associated with <b>fertility or puberty ceremonies</b>.<br><br>\n<b>Currently closed to public access</b> pending an assessment of significance by the California Department of Parks and Recreation.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight, Milburn & Tejada 2008; CA Dept. of Parks & Recreation; Edra Moore personal comm. 2008</div>\n",
+      "popupOptions": {"maxWidth": 420}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 34.6000, "lng": -117.9800},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#FF7043;border:2px solid #BF360C;border-radius:50%;box-shadow:0 0 5px #FF704366;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Wolf's Rock Pile (CA-LAN-2368)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Antelope Valley \u00b7 Cupules with pecked petroglyphs</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nA cupule concentration with associated <b>pecked petroglyphs</b> in the Antelope Valley. One of the western Mojave sites where cupule rock art and petroglyph traditions are found together, suggesting <b>contemporaneous production</b> or long-term reuse of sacred sites.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight, Milburn & Tejada 2008</div>\n",
+      "popupOptions": {"maxWidth": 360}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.0427, "lng": -116.3800},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:11px;height:11px;background:#FF7043;border:2px solid #BF360C;border-radius:50%;box-shadow:0 0 5px #FF704366;\"></div>", "iconSize": [11,11], "iconAnchor": [5.5,5.5]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83e\udea8 Afton Canyon Rock Art</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River corridor \u00b7 \"Grand Canyon of the Mojave\" \u00b7 BLM \u00b7 Petroglyphs on canyon walls</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nPetroglyphs within <b>Afton Canyon</b> \u2014 the dramatic gorge where the Mojave River surfaces and cuts through volcanic rock before reaching Soda Lake. Known as the <b>\"Grand Canyon of the Mojave\"</b> for its 500-foot walls.<br><br>\nThe canyon was a critical <b>water corridor</b> \u2014 one of the few places where the Mojave River runs on the surface year-round. This made it a focal point for <b>thousands of years of human habitation</b>. Rock art here is part of a broader archaeological landscape including camps, milling stations, and trail markers along the ancient river route.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Afton Canyon ACEC; Bill Mann Vol. 1; Warren & Crabtree</div>\n",
+      "popupOptions": {"maxWidth": 400}
+    },
+    {
+      "type": "marker",
+      "layer": "mojaveRockArt",
+      "geometry": {"lat": 35.00, "lng": -116.50},
+      "icon": {"factory": "divIcon", "html": "<div style=\"width:18px;height:18px;background:linear-gradient(135deg,#FF7043,#E91E63);border:2px solid #fff;border-radius:3px;display:flex;align-items:center;justify-content:center;font-size:11px;box-shadow:0 0 8px #FF704488;\">\ud83c\udfa8</div>", "iconSize": [18,18], "iconAnchor": [9,9]},
+      "popup": "\n<h4 style=\"color:#FF7043\">\ud83c\udfa8 Rock Art Traditions of the Mojave Desert</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Overview \u2014 Multiple traditions spanning 10,000+ years</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.5\">\nThe Mojave Desert preserves one of the <b>richest and most diverse rock art landscapes in North America</b>, encompassing multiple traditions:<br><br>\n\n<b style=\"color:#FFAB91\">\u2299 Cupules (Pitted Boulders)</b><br>\nThe <b>oldest tradition</b> \u2014 shallow hemispherical pits ground into rock. Ubiquitous along the southern Antelope Valley on schist and metamorphic boulders. Age and cultural associations debated; may predate other rock art forms by millennia. Possibly associated with <b>fertility or increase rites</b>.<br><br>\n\n<b style=\"color:#FF7043\">\ud83e\udea8 Petroglyphs (Pecked/Carved)</b><br>\nThe most common form. Dark <b>desert varnish</b> on lighter rock provides the perfect medium. The <b>Coso Range</b> alone contains 100,000+ petroglyphs \u2014 the largest concentration in the Western Hemisphere. Bighorn sheep dominate (~50% of Coso images). Linked to <b>hunting magic, shamanic vision quests, and increase rites</b>.<br><br>\n\n<b style=\"color:#F44336\">\ud83c\udfa8 Pictographs (Painted)</b><br>\nLess common but often more elaborate. Styles include the <b>Southern Sierra Style</b> (polychrome, Kitanemuk), <b>Southern California Rectilinear Abstract</b>, and cave paintings associated with <b>puberty ceremonies</b>. Found in rock shelters, overhangs, and caves where paint is protected from weathering.<br><br>\n\n<b style=\"color:#CE93D8\">\u25c6 Geoglyphs & Intaglios</b><br>\nLarge-scale ground drawings visible from above. The <b>Blythe Intaglios</b> and other Colorado River corridor geoglyphs are part of Yuman <b>Creation Mythology</b> \u2014 depicting gods, animals, and spirit beings.<br><br>\n\n<b>Key scholars:</b> David Whitley, Albert Knight, Mark Q. Sutton, Alan Garfinkel, Campbell Grant\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Whitley 1994, 2000; Sutton 1982; Knight 1993; Knight, Milburn & Tejada 2008; Garfinkel</div>\n",
+      "popupOptions": {"maxWidth": 460}
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "source": "62-nevada-tribal-territories.js",
+  "featureCount": 56,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[40.65,-119.90],[40.60,-119.50],[40.35,-119.35],[40.10,-119.35],[39.85,-119.45],[39.75,-119.55],[39.80,-119.80],[39.95,-120.00],[40.15,-120.05],[40.35,-120.00],[40.50,-119.95]],
+      "style": {"color":"#42A5F5","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#42A5F5;margin:0 0 2px\">Kuyuidokado (Cui-ui Eaters)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute · Pyramid Lake · Kooyooe Tukadu</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Kuyuidokado</b> — \"those who eat cui-ui\" — are the Northern Paiute band centered on <b>Pyramid Lake</b>, the largest remnant of Pleistocene Lake Lahontan. The <b>cui-ui</b> (Chasmistes cujus) is a large sucker fish found nowhere else on Earth, and its spring spawning run up the Truckee River was the most important food event of the year. Pyramid Lake also supported massive runs of <b>Lahontan cutthroat trout</b> — the largest inland trout in North America (up to 60 lbs). Their territory encompassed the Truckee River corridor from the Sierra foothills to the lake, the Lake Range, and portions of the Smoke Creek Desert. Chief <b>Truckee</b> (Tru-ki-zo) guided John C. Frémont across the desert in 1844. His grandson <b>Chief Numaga</b> (\"The Generous One\") initially counseled peace but led the Northern Paiute to victory at the <b>First Battle of Pyramid Lake</b> (1860) — one of the worst military defeats of settlers in the American West. His granddaughter <b>Sarah Winnemucca</b> became America's first published Native American woman author. The Pyramid Lake Reservation (est. 1859) is the oldest in Nevada and the tribe has never been fully relocated.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1844: Chief Truckee guides Frémont • 1859: Reservation established • 1860: Pyramid Lake War — Numaga defeats Major Ormsby (76 settlers killed) • 1905: Derby Dam diverts Truckee River, devastating fishery • 1967: Cui-ui listed as endangered • 2015: Tribal water rights settlement</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Fowler & Liljeblad 1986 (HNAI); Pyramid Lake Paiute Tribe; NV Indian Commission</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":40.18636363636364,"lng":-119.71818181818182},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#42A5F5;font-size:11px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Kuyuidokado</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[39.95,-118.80],[39.90,-118.40],[39.65,-118.20],[39.40,-118.15],[39.20,-118.30],[39.15,-118.60],[39.25,-118.85],[39.45,-119.00],[39.65,-119.05],[39.80,-118.95]],
+      "style": {"color":"#64B5F6","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#64B5F6;margin:0 0 2px\">Toidokado (Cattail Eaters)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute · Carson Sink / Stillwater Marsh · Fallon area</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Toidokado</b> — \"cattail-seed eaters\" — occupied the <b>Carson Sink</b> and <b>Stillwater Marsh</b>, where the Carson River terminates in one of the richest wetland ecosystems in the Great Basin. Cattail (tule) was their primary food — seeds, pollen, shoots, and rhizomes were all consumed. The marshes also provided ducks (hunted with ingenious tule-reed decoys), fish, and other wetland resources. Their territory included the Lahontan Reservoir area, Stillwater Wildlife Refuge, and the desert playas south and east of Fallon. This area has extraordinary archaeological depth — <b>Spirit Cave</b> (10,600-year-old mummy), <b>Hidden Cave</b>, <b>Grimes Point</b> petroglyphs, and the <b>Lovelock Culture</b> type site are all in Toidokado territory. The Fallon Paiute-Shoshone Tribe represents their descendants today. In 2018, DNA analysis of the Spirit Cave mummy confirmed genetic continuity with the modern Fallon Paiute-Shoshone — <b>10,000+ years of continuous habitation</b>.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~2000 BCE: Lovelock Culture flourishes in marshes • ~1000 CE: Northern Paiute arrive, absorb earlier peoples • 1908: Newlands Reclamation Project diverts Carson River, devastating marshes • 1990: Stillwater wetlands receive federal protection • 2018: Spirit Cave repatriation after DNA confirmation</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Fowler & Liljeblad 1986; Fallon Paiute-Shoshone Tribe; Moreno-Mayar et al. 2018</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":39.54,"lng":-118.63},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#64B5F6;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Toidokado</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[39.20,-119.40],[39.15,-119.10],[38.95,-118.85],[38.75,-118.70],[38.55,-118.65],[38.35,-118.75],[38.30,-119.00],[38.40,-119.20],[38.55,-119.35],[38.75,-119.45],[39.00,-119.50]],
+      "style": {"color":"#42A5F5","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#42A5F5;margin:0 0 2px\">Agai Dicutta (Trout Eaters)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute · Walker River / Walker Lake · Schurz area</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Agai Dicutta</b> — \"trout eaters\" — centered their lives on <b>Walker Lake</b> and the Walker River, where Lahontan cutthroat trout and other fish provided the primary protein source. Their territory stretched from the Pine Grove Hills south along the Walker River to Walker Lake, including the Wassuk Range. The Walker River Paiute Reservation (est. 1874) near Schurz is their modern homeland. Every third weekend of September, the tribe hosts the <b>Pine Nut Festival</b> — a spiritual ceremony dating back over a century celebrating life and the pine nut harvest. During the pine nut dance, dancers move on sacred ground around the pine tree. <b>Wovoka</b> (Jack Wilson, c.1856–1932), founder of the <b>Ghost Dance</b> movement, was born near Walker Lake. His vision of a restored earth inspired one of the most widespread pan-Indian spiritual movements in history — and its suppression led directly to the Massacre at Wounded Knee (1890).</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1874: Walker River Reservation established • 1889: Wovoka's vision — Ghost Dance begins near Walker Lake • 1890: Ghost Dance suppressed; Wounded Knee massacre • 1926: Walker Lake begins declining due to upstream diversions • 2019: Walker Lake Paiute Restoration Act proposed</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Fowler & Liljeblad 1986; Walker River Paiute Tribe; Hittman 1990</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":38.72272727272727,"lng":-119.08636363636364},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#42A5F5;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Agai Dicutta</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[38.35,-119.45],[38.30,-119.15],[38.10,-119.00],[37.90,-118.95],[37.75,-119.00],[37.65,-119.15],[37.70,-119.35],[37.85,-119.50],[38.05,-119.55],[38.20,-119.55]],
+      "style": {"color":"#64B5F6","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#64B5F6;margin:0 0 2px\">Kucadikadi (Brine Fly Pupae Eaters)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute · Mono Lake / Bridgeport · CA-NV border</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Kucadikadi</b> — \"brine fly pupae eaters\" — harvested the protein-rich larvae of the alkali fly (Ephydra hians) from the shores of <b>Mono Lake</b>, one of the oldest lakes in North America. These tiny pupae (kutsavi) were dried and traded as far as the San Joaquin Valley. Mark Twain described them in <i>Roughing It</i>. Their territory straddled the California-Nevada border, encompassing Mono Lake, Bridgeport Valley, and the eastern Sierra foothills. The Bridgeport Paiute Indian Colony represents their descendants. Mono Lake's ecosystem — and the Kucadikadi's ancestral food source — was nearly destroyed when Los Angeles diverted its feeder streams starting in 1941. A landmark 1994 court decision ordered partial restoration.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1941: LA begins diverting Mono Lake tributaries • 1978: Mono Lake Committee forms • 1994: State Water Board orders lake level restoration • Bridgeport Paiute Indian Colony federally recognized</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Fowler & Liljeblad 1986; Steward 1933; Mono Lake Committee</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":37.985,"lng":-119.265},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#64B5F6;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Kucadikadi</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[41.00,-119.90],[40.95,-119.50],[40.70,-119.40],[40.50,-119.50],[40.45,-119.70],[40.50,-119.95],[40.65,-120.10],[40.80,-120.10],[40.95,-120.00]],
+      "style": {"color":"#64B5F6","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#64B5F6;margin:0 0 2px\">Kamodokado (Hare Eaters)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute · Smoke Creek Desert / north of Pyramid Lake</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Kamodokado</b> — \"hare eaters\" — occupied the harsh terrain north of Pyramid Lake, including the <b>Smoke Creek Desert</b> and Granite Creek Desert. Jackrabbits were their primary protein source, hunted in communal drives using long nets. Their territory extended to the edge of the Black Rock Desert — one of the most barren landscapes in Nevada, yet traversed for millennia by indigenous peoples following seasonal resources. The region contains some of the most remote and undisturbed archaeological sites in the Great Basin.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~1000 CE: Kamodokado band established in area • 1843-1868: Emigrant trail cuts through territory • 1860s: Conflicts with settlers and miners</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Fowler & Liljeblad 1986; Steward 1938</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":40.72222222222222,"lng":-119.79444444444445},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#64B5F6;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Kamodokado</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[41.10,-118.30],[41.05,-117.80],[40.80,-117.50],[40.55,-117.50],[40.35,-117.60],[40.25,-117.80],[40.20,-118.10],[40.25,-118.40],[40.40,-118.60],[40.60,-118.70],[40.80,-118.60],[40.95,-118.50]],
+      "style": {"color":"#42A5F5","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#42A5F5;margin:0 0 2px\">Wadatoka (Wada Seed Eaters)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute · Humboldt Sink / Winnemucca / Lovelock</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Wadatoka</b> — \"wada seed eaters\" — harvested seeds of the wada plant (Suaeda depressa, seepweed) from the alkali flats around the <b>Humboldt Sink</b>, where the Humboldt River disappears into the desert. Their territory encompassed the lower Humboldt River valley, the town of Lovelock, and surrounding ranges. The <b>Lovelock Paiute Tribe</b> and <b>Winnemucca Indian Colony</b> represent their descendants. This was a critical cultural landscape — the Humboldt Sink was the terminus of the most important river in the Great Basin, and the transition from Humboldt Sink to Forty Mile Desert was the most dreaded section of the California Trail for emigrants. <b>Lovelock Cave</b>, the type site for the pre-Numic Lovelock Culture, sits in their territory.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~1000 CE: Wadatoka replace/absorb Lovelock Culture peoples • 1845-1870: California Trail emigrants devastate resources • 1907: Lovelock Indian Colony established • 1917: Winnemucca Indian Colony established</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Fowler & Liljeblad 1986; Lovelock Paiute Tribe; Loud & Harrington 1929</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":40.608333333333334,"lng":-118.15833333333333},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#42A5F5;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Wadatoka</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[41.80,-119.00],[41.75,-118.60],[41.50,-118.40],[41.25,-118.45],[41.10,-118.60],[41.10,-118.90],[41.25,-119.10],[41.45,-119.15],[41.65,-119.10]],
+      "style": {"color":"#64B5F6","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#64B5F6;margin:0 0 2px\">Summit Lake Paiute Tribe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute · Summit Lake · remote north-central Nevada</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Summit Lake Paiute</b> occupy one of the most remote reservations in the United States, centered on <b>Summit Lake</b> — a natural lake at 5,900 feet in the high desert of Humboldt County. The lake is one of only two natural habitats for the <b>Lahontan cutthroat trout</b> (the other being Pyramid Lake). The tribe has been instrumental in preserving this species. Their territory encompasses the Jackson Mountains and surrounding desert valleys. Summit Lake is believed to have been a seasonal gathering site for Northern Paiute bands for thousands of years, situated at the crossroads of several band territories. The reservation was established in 1913 and covers about 10,800 acres. Despite its remoteness — over 60 miles of dirt road from the nearest town — the tribe maintains a strong cultural presence.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1913: Summit Lake Reservation established • Tribe federally recognized • Critical habitat for Lahontan cutthroat trout preservation</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Summit Lake Paiute Tribe; U.S. Fish & Wildlife Service</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":41.42777777777778,"lng":-118.81111111111112},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#64B5F6;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Summit Lake Band</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": [[42.05,-117.90],[42.00,-117.50],[41.80,-117.30],[41.60,-117.30],[41.45,-117.45],[41.40,-117.70],[41.50,-117.95],[41.65,-118.10],[41.85,-118.10],[42.00,-118.00]],
+      "style": {"color":"#42A5F5","weight":1.5,"opacity":0.5,"fillColor":"rgba(66,165,245,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#42A5F5;margin:0 0 2px\">Fort McDermitt Paiute-Shoshone</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern Paiute & Western Shoshone · NV-OR border · Tagötöka & others</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Fort McDermitt</b> reservation straddles the Nevada-Oregon border, home to both Northern Paiute and Western Shoshone peoples. The Paiute bands here include the <b>Tagötöka</b> (\"biscuitroot eaters\") who lived along the Owyhee and Quinn Rivers. Fort McDermitt was originally a U.S. Army outpost (1865-1889) established during the Snake War — one of the bloodiest conflicts in the American West. After the military abandoned the fort, Paiute and Shoshone families settled on the grounds. The reservation was formally established in 1936. The area was traditionally a meeting ground where Northern Paiute and Western Shoshone territories overlapped, and both languages are still spoken. The Quinn River and its tributaries provided critical water in this arid landscape.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1865: Fort McDermitt established during Snake War • 1868: Snake War ends • 1889: Fort abandoned • 1936: Reservation established • Mixed Paiute-Shoshone community</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Stewart 1939; Inter-Tribal Council of Nevada; Fort McDermitt Paiute-Shoshone Tribe</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvNorthernPaiuteBands",
+      "geometry": {"lat":41.73,"lng":-117.73},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#42A5F5;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Fort McDermitt</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": [[41.50,-116.50],[41.45,-115.70],[41.20,-115.30],[40.90,-115.10],[40.60,-115.20],[40.40,-115.50],[40.30,-115.90],[40.30,-116.20],[40.45,-116.60],[40.65,-116.80],[40.90,-117.00],[41.10,-116.90],[41.30,-116.70]],
+      "style": {"color":"#FFA726","weight":1.5,"opacity":0.5,"fillColor":"rgba(255,167,38,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">Te-Moak Bands of Western Shoshone</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Shoshone (Newe) · Elko / Battle Mountain / Wells / South Fork</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Te-Moak Bands</b> are a confederation of four Western Shoshone bands in northeastern Nevada: <b>Battle Mountain Band</b> (Tonomudza/Donammuzi), <b>Elko Band</b>, <b>South Fork Band</b>, and <b>Wells Band</b> (Kuiyudika, \"desert plant eaters\"). Named after Chief <b>Muchach Te-Moak</b>, who negotiated with the U.S. government. Their territory encompassed the Humboldt River headwaters, Ruby Mountains, Jarbidge Mountains, and the vast valleys of northeastern Nevada — some of the most productive pine nut and game country in the Great Basin. The Te-Moak organized under the 1934 Indian Reorganization Act but traditionalists created the <b>Sacred Lands Association</b> (1974), arguing the Te-Moak council didn't represent them and that their land was never ceded. The <b>Treaty of Ruby Valley</b> (1863) is central to Western Shoshone identity — it granted passage rights but <b>never ceded land</b>. This became the longest-running land case in U.S. history (1962-2004).</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1863: Treaty of Ruby Valley — peace and passage, NOT land cession • 1877: Duck Valley Reservation established — Te-Moak refuse to relocate • 1917-1918: Battle Mountain, Elko, Wells colonies established • 1938: Te-Moak Constitution adopted under IRA • 1962-2004: Longest land case in U.S. history • 2004: $145M award — many Shoshone refuse, insisting land not for sale</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Steward 1938; Crum 1994; Te-Moak Tribe; Treaty of Ruby Valley 1863; ICC Docket 326-A</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": {"lat":40.85,"lng":-116.10769230769231},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#FFA726;font-size:11px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Te-Moak Bands</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": [[40.40,-117.60],[40.35,-116.90],[40.15,-116.50],[39.85,-116.30],[39.55,-116.20],[39.25,-116.40],[39.00,-116.60],[38.80,-116.80],[38.70,-117.10],[38.75,-117.40],[38.90,-117.60],[39.10,-117.70],[39.35,-117.80],[39.60,-117.85],[39.85,-117.80],[40.10,-117.70]],
+      "style": {"color":"#FFB74D","weight":1.5,"opacity":0.5,"fillColor":"rgba(255,167,38,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFB74D;margin:0 0 2px\">Central Western Shoshone (Reese River / Tonopah)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Shoshone (Newe) · Central Nevada · Yomba / Austin / Tonopah</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The central Western Shoshone occupied the vast mountain-and-valley landscape of central Nevada — the Toiyabe, Toquima, Monitor, and Shoshone Ranges. This is the <b>\"Loneliest Road in America\"</b> (Highway 50) country. Band groups included the Reese River Shoshone near Austin and the Big Smoky Valley people. Their subsistence centered on <b>pine nut harvesting</b> (the most important food and social event), root digging, seed gathering, and communal rabbit and antelope drives. Family groups dispersed during lean seasons and gathered for communal hunts. The <b>Yomba Shoshone Reservation</b> (est. 1937) in Reese River Valley is the modern homeland for many of these bands. Sacred sites include <b>Toquima Cave</b> — a painted pictograph site high in the Toquima Mountains. The Western Shoshone made distinctive <b>Brownware pottery</b> and some bands practiced limited irrigation of wild seed plots.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~1000 CE: Western Shoshone arrive during Numic Spread • 1862: Silver discovered in Austin — miners flood territory • 1937: Yomba Reservation established in Reese River Valley • Toquima Cave preserved as sacred site</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Steward 1938; Thomas 1983; Yomba Shoshone Tribe; USFS Humboldt-Toiyabe</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": {"lat":39.54375,"lng":-117.059375},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#FFB74D;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Central Newe</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": [[39.25,-116.30],[39.20,-115.80],[39.00,-115.50],[38.75,-115.40],[38.50,-115.50],[38.40,-115.80],[38.45,-116.10],[38.60,-116.30],[38.80,-116.45],[39.00,-116.45]],
+      "style": {"color":"#FFA726","weight":1.5,"opacity":0.5,"fillColor":"rgba(255,167,38,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">Duckwater Shoshone Tribe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Shoshone (Newe) · Railroad Valley / Duckwater · Nye County</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Duckwater Shoshone</b> occupy a reservation in <b>Railroad Valley</b>, one of the most isolated inhabited valleys in Nevada. Their ancestors lived throughout the White Pine and Nye County ranges, harvesting pine nuts, hunting antelope, and gathering seeds across a vast territory. The Duckwater Reservation was established in 1940 on land with natural warm springs — \"Duckwater\" comes from the wild ducks attracted to these springs. The tribe gained national recognition for their environmental stewardship: they earned the <b>2010 U.S. Fish & Wildlife Endangered Species Recovery Champion Award</b> for restoring critical habitat of the <b>Railroad Valley springfish</b> — a tiny fish surviving in thermal springs since the Pleistocene, found nowhere else on Earth. The tribe has also been active in opposing nuclear waste storage at nearby <b>Yucca Mountain</b> and nuclear testing at the Nevada Test Site, which fell within traditional Shoshone territory.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1940: Duckwater Reservation established • 1951: Nevada Test Site opens on Shoshone land • 2010: Recovery Champion Award for springfish restoration • Opposition to Yucca Mountain nuclear waste repository</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Steward 1938; Duckwater Shoshone Tribe; USFWS; Inter-Tribal Council of Nevada</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": {"lat":38.795,"lng":-115.96},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#FFA726;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Duckwater</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": [[39.50,-115.60],[39.45,-115.10],[39.25,-114.80],[39.00,-114.70],[38.80,-114.80],[38.70,-115.10],[38.75,-115.40],[38.90,-115.60],[39.10,-115.70],[39.30,-115.70]],
+      "style": {"color":"#FFB74D","weight":1.5,"opacity":0.5,"fillColor":"rgba(255,167,38,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFB74D;margin:0 0 2px\">Ely Shoshone Tribe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Shoshone (Newe) · White Pine County · Steptoe Valley</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Ely Shoshone</b> are Western Shoshone people in the <b>Steptoe Valley</b> and surrounding ranges of White Pine County. Their territory is a land of wide valleys between mountain ranges — the quintessential Basin and Range landscape. Pine nut groves in the Egan, Schell Creek, and Snake Ranges provided the most important food source. The Ely Colony was established in 1931 when the federal government purchased 10 acres for Shoshone families who had been living on the edges of the mining town of Ely. The tribe hosts the annual <b>Ely Shoshone Fandango</b> each July, featuring dancing, drummers, singers, and traditional events. <b>Great Basin National Park</b> — home to 5,000-year-old bristlecone pines, Lehman Caves, and Wheeler Peak — lies within their ancestral territory.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1868: White Pine mining boom brings settlers • 1931: Ely Colony established (10 acres) • Annual Ely Shoshone Fandango celebrates Newe traditions</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Steward 1938; Ely Shoshone Tribe; Inter-Tribal Council of Nevada</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": {"lat":39.075,"lng":-115.25},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#FFB74D;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Ely Shoshone</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": [[42.10,-116.30],[42.05,-115.80],[41.80,-115.60],[41.55,-115.60],[41.40,-115.80],[41.40,-116.10],[41.55,-116.30],[41.75,-116.45],[41.95,-116.45]],
+      "style": {"color":"#FFA726","weight":1.5,"opacity":0.5,"fillColor":"rgba(255,167,38,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">Shoshone-Paiute Tribes of Duck Valley</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Shoshone & Northern Paiute · Duck Valley · NV-ID border</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Duck Valley Reservation</b>, straddling the Nevada-Idaho border, was the first and largest Western Shoshone reservation (est. 1877). The government intended to concentrate all Western Shoshone here, but most bands — especially the Te-Moak — refused to relocate from their ancestral territories. Northern Paiute from Oregon were then encouraged to join. Today it is a mixed <b>Shoshone-Paiute</b> community. The reservation covers 289,819 acres (453 sq mi) along the Owyhee River — one of the largest reservations in the western U.S. The Owyhee River provides irrigation for farming and ranching. Both Shoshone and Paiute languages and traditions are maintained. The annual <b>Duck Valley Festival</b> brings the community together each June.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1877: Duck Valley Reservation established by executive order • 1886: Northern Paiute begin joining Western Shoshone • Te-Moak bands refuse relocation • 289,819 acres — one of the largest reservations in western U.S.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Steward 1938; Crum 1994; Shoshone-Paiute Tribes of Duck Valley; BIA</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": {"lat":41.72777777777778,"lng":-116.04444444444445},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#FFA726;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Duck Valley</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": [[37.20,-117.30],[37.15,-116.90],[36.90,-116.70],[36.60,-116.60],[36.30,-116.70],[36.15,-116.90],[36.10,-117.10],[36.20,-117.40],[36.40,-117.55],[36.65,-117.60],[36.90,-117.50],[37.05,-117.40]],
+      "style": {"color":"#FFB74D","weight":1.5,"opacity":0.5,"fillColor":"rgba(255,167,38,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFB74D;margin:0 0 2px\">Timbisha Shoshone Tribe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Shoshone (Newe) · Death Valley · CA-NV border · Koso/Panamint</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Timbisha Shoshone</b> (also called Koso or Panamint Shoshone) have lived in <b>Death Valley</b> — the hottest, driest, lowest place in North America — for over 1,000 years. \"Timbisha\" means \"rock paint\" in their language, referring to the red ochre found in the valley. Despite the extreme environment, they thrived on a seasonal round: winter in the warm valley floor, summer in the cool Panamint Mountains gathering pine nuts. They harvested mesquite beans, hunted bighorn sheep, and managed resources across an elevation range from -282 feet (Badwater) to 11,049 feet (Telescope Peak). When Death Valley became a National Monument (1933), the Timbisha were nearly expelled from their homeland. The <b>Timbisha Homeland Act</b> (2000) finally granted them a 7,500-acre reservation within the park — making them the only tribe with a reservation inside a national park.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1849: Forty-niners cross Death Valley, naming it • 1933: Death Valley National Monument — Timbisha threatened with removal • 1994: Upgraded to National Park • 2000: Timbisha Homeland Act — 7,500-acre reservation within park</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Steward 1938; Thomas 1983; Timbisha Shoshone Tribe; NPS Death Valley; Crum 1994</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWesternShoshoneBands",
+      "geometry": {"lat":36.63333333333333,"lng":-117.13750000000001},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#FFB74D;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Timbisha Shoshone</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": [[36.60,-115.80],[36.55,-115.30],[36.30,-115.00],[36.05,-114.90],[35.85,-115.00],[35.80,-115.30],[35.90,-115.60],[36.05,-115.80],[36.25,-115.90],[36.45,-115.90]],
+      "style": {"color":"#66BB6A","weight":1.5,"opacity":0.5,"fillColor":"rgba(102,187,106,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#66BB6A;margin:0 0 2px\">Las Vegas Paiute Tribe (Tudinu — Desert People)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Southern Paiute (Nuwuvi) · Las Vegas Valley · Snow Mountain</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Tudinu</b> — \"Desert People\" — are the Southern Paiute band whose territory encompassed the <b>Las Vegas Valley</b>, Spring Mountains (including Mt. Charleston), and surrounding desert. \"Las Vegas\" is Spanish for \"The Meadows,\" referring to the spring-fed oasis that the Tudinu had used for centuries. They practiced seasonal floodplain farming with irrigation for corn, squash, and beans — unusual among Great Basin peoples. Springs at the base of the Spring Mountains were sacred water sources. In 1911, rancher <b>Helen J. Stewart</b> sold 10 acres for $500 to be held in trust for the Paiutes — forming the original Las Vegas Colony in downtown Las Vegas. The tribe wasn't federally recognized until 1970. In 1983, 4,000 acres at <b>Snow Mountain</b> (between Mt. Charleston and the Sheep Range) were returned to the tribe. Today the Las Vegas Paiute operate the <b>Las Vegas Paiute Golf Resort</b> (three 18-hole courses, 4½ stars), the <b>NuWu Cannabis Marketplace</b>, and host the annual <b>Snow Mountain Powwow</b>.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> 1829: Spanish Trail opens through territory — devastating slave raids • 1855: Mormon missionaries establish Las Vegas Mission • 1911: Helen Stewart sells 10 acres for Paiute colony • 1970: Tribe federally recognized • 1983: Snow Mountain lands returned • 2017: NuWu Cannabis Marketplace opens</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kelly 1934; Kelly & Fowler 1986; Las Vegas Paiute Tribe; UNLV Nuwuvi History; NV Indian Commission</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": {"lat":36.18,"lng":-115.45},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#66BB6A;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Tudinu (Las Vegas)</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": [[36.90,-115.00],[36.85,-114.50],[36.65,-114.30],[36.40,-114.20],[36.20,-114.30],[36.15,-114.60],[36.20,-114.90],[36.40,-115.10],[36.60,-115.15],[36.80,-115.10]],
+      "style": {"color":"#81C784","weight":1.5,"opacity":0.5,"fillColor":"rgba(102,187,106,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#81C784;margin:0 0 2px\">Moapa Band of Paiutes (Moapats)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Southern Paiute (Nuwuvi) · Muddy River / Virgin River · Moapa Valley</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Moapa</b> (Moapats) occupied the confluence of the <b>Muddy River</b> (Moapa) and <b>Virgin River</b> in southeastern Nevada — one of the few areas with reliable year-round water in the southern Great Basin. They practiced <b>irrigation agriculture</b> before European contact, growing corn, squash, melons, gourds, sunflowers, beans, and wheat. This agricultural tradition connects them to the earlier <b>Ancestral Puebloan (Anasazi)</b> presence in the region — the \"Lost City\" (Pueblo Grande de Nevada) near Overton was occupied 300-1150 CE before being abandoned. Southern Paiute arrived ~1100 CE and may have absorbed remnant Puebloan populations. The Moapa Reservation was established in 1873 — originally intended to be the entire Moapa River watershed (39,000 sq mi), but was slashed to just 1,000 acres in 1875. Congress restored over 60,000 acres in 1980. Today the tribe operates the groundbreaking <b>Moapa Southern Paiute Solar Project</b> — 250 MW, the first large-scale solar project on tribal land in North America.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~300-1150 CE: Ancestral Puebloan \"Lost City\" occupied • ~1100 CE: Southern Paiute arrive • 1776: Dominguez-Escalante encounters Paiute • 1873: Reservation established (39,000 sq mi promised) • 1875: Reduced to 1,000 acres • 1980: 60,000+ acres restored • 2017: 250 MW solar project completed</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kelly 1934; Kelly & Fowler 1986; Moapa Band of Paiutes; Lost City Museum; Euler 1966</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": {"lat":36.515,"lng":-114.715},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#81C784;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Moapa (Moapats)</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": [[36.35,-116.30],[36.30,-115.90],[36.10,-115.80],[35.90,-115.85],[35.80,-116.00],[35.80,-116.25],[35.90,-116.40],[36.05,-116.45],[36.20,-116.40]],
+      "style": {"color":"#66BB6A","weight":1.5,"opacity":0.5,"fillColor":"rgba(102,187,106,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#66BB6A;margin:0 0 2px\">Pahrump Band of Paiutes</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Southern Paiute (Nuwuvi) · Pahrump Valley · Nye County</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Pahrump Band</b> occupied <b>Pahrump Valley</b> west of Las Vegas, named from the Southern Paiute word <b>\"Pah-Rimpi\"</b> meaning \"water rock\" or \"water place,\" referring to the natural springs that made the valley habitable. These springs — fed by an aquifer recharged from the Spring Mountains — supported a small but sustained community. The Pahrump people cultivated small garden plots and gathered extensively from the surrounding desert and mountains. Their territory extended into the Amargosa Desert and parts of the Spring Mountains. Unlike the Las Vegas and Moapa bands, the Pahrump Paiute do not have a large federal reservation, but maintain their cultural identity as a distinct Southern Paiute band.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> Traditional territory centered on Pah-Rimpi springs • ~1100 CE: Southern Paiute arrive in area • Contact period: Mormon and mining impacts • Pahrump Band maintains cultural identity</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kelly 1934; Kelly & Fowler 1986; NV Indian Commission; Neon Museum Indigenous Peoples guide</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": {"lat":36.04444444444444,"lng":-116.15},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#66BB6A;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Pahrump Band</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": [[35.80,-115.10],[35.75,-114.70],[35.55,-114.55],[35.30,-114.55],[35.10,-114.65],[35.05,-114.85],[35.15,-115.05],[35.35,-115.15],[35.55,-115.15],[35.70,-115.15]],
+      "style": {"color":"#81C784","weight":1.5,"opacity":0.5,"fillColor":"rgba(102,187,106,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#81C784;margin:0 0 2px\">Chemehuevi (Southern Paiute)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Southern Paiute (Nuwuvi) · Colorado River corridor · southernmost Nevada</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Chemehuevi</b> are the westernmost band of the Southern Paiute, occupying territory along the <b>Colorado River</b> in the southernmost tip of Nevada, extending into California and Arizona. Their name may come from Mohave \"Tcimiwavi\" meaning \"those who play with fish.\" They were semi-nomadic, ranging from the river to the mountains, and were expert runners — reportedly able to cover 100 miles in a day. The Chemehuevi had close (if sometimes tense) relations with the <b>Mohave</b> (Pipa Aha Macav), who lived along the Colorado River to the south. <b>Spirit Mountain</b> (Avi Kwa Ame), sacred to both peoples as a place of creation, dominates this landscape. In 2023, the surrounding 506,000 acres were designated <b>Avi Kwa Ame National Monument</b>.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~1100 CE: Chemehuevi expand into Colorado River corridor • 1776: Spanish contact • 1829-1848: Old Spanish Trail devastates through slave raids • 2023: Avi Kwa Ame National Monument designated (506,000 acres)</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kelly & Fowler 1986; Laird 1976; Avi Kwa Ame NM; Grapevine Canyon NRHP</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvSouthernPaiuteBands",
+      "geometry": {"lat":35.43,"lng":-114.889},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#81C784;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Chemehuevi</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWashoeBands",
+      "geometry": [[40.20,-120.30],[40.15,-119.80],[39.95,-119.65],[39.75,-119.70],[39.65,-119.85],[39.65,-120.10],[39.80,-120.30],[39.95,-120.40],[40.10,-120.40]],
+      "style": {"color":"#CE93D8","weight":1.5,"opacity":0.5,"fillColor":"rgba(206,147,216,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#CE93D8;margin:0 0 2px\">Welmelti — Northern Washoe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Washoe (Washshiw) · Northern band · Honey Lake / Long Valley</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Welmelti</b> (\"northerners\") were the northern division of the Washoe, ranging from <b>Honey Lake</b> and Long Valley in the north to the Truckee Meadows area. Their seasonal round took them to Lake Tahoe in summer for fishing and hunting, and east to the Pine Nut Range in fall for the pine nut harvest. The Welmelti had the most contact with Northern Paiute bands and some intermarriage occurred, though the two peoples spoke entirely different languages and had distinct cultural practices. The <b>Reno-Sparks Indian Colony</b> includes Washoe members alongside Northern Paiute and Shoshone.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> Ancient presence — possibly 6,000-9,000+ years • 1844: Frémont encounters Washoe • 1858: Honey Lake conflict with settlers • Reno-Sparks Indian Colony includes Welmelti descendants</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986 (HNAI); Price 1980; Nevers 1976; Washoe Tribe of NV & CA</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWashoeBands",
+      "geometry": {"lat":39.91111111111111,"lng":-120.05555555555556},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#CE93D8;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Welmelti (Northern)</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWashoeBands",
+      "geometry": [[39.65,-120.10],[39.60,-119.60],[39.35,-119.50],[39.10,-119.55],[38.95,-119.65],[38.90,-119.85],[38.95,-120.10],[39.10,-120.30],[39.25,-120.40],[39.45,-120.30]],
+      "style": {"color":"#E1BEE7","weight":1.5,"opacity":0.5,"fillColor":"rgba(206,147,216,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#E1BEE7;margin:0 0 2px\">Pau Wa Lu — Carson Valley Washoe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Washoe (Washshiw) · Central band · Carson Valley / Eagle Valley / Lake Tahoe</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Pau Wa Lu</b> (\"people of Carson Valley\") occupied the heart of Washoe territory — <b>Carson Valley</b>, <b>Eagle Valley</b> (Carson City), <b>Washoe Valley</b>, and the eastern shores of <b>Da ow aga</b> (Lake Tahoe). \"Tahoe\" is an anglicization of the Washoe word <b>Da ow</b> meaning \"the lake.\" The lake was the spiritual and physical center of Washoe life — summer fishing camps dotted its shores, and the spring spawning runs of <b>Lahontan cutthroat trout</b> up the Truckee River were a critical food event. <b>Cave Rock</b> (De ek wadapush) on the lake's east shore is the most sacred Washoe site — a power place where spiritual leaders sought visions. The Washoe are famous for their extraordinary <b>basket weaving</b> — <b>Dat So La Lee</b> (Louisa Keyser, 1829-1925) created masterworks now valued at over $1 million. The Washoe Tribe of Nevada and California was organized in 1934 and has offices in Gardnerville.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~4000+ BCE: Washoe presence at Lake Tahoe • ~500 CE: Kings Beach Complex (early Washoe culture) • 1848-63: Gold/silver rush devastates territory • 1857: Potato War — last armed Washoe conflict • 1917: Small land purchases near Carson City • 1934: Washoe Tribe recognized under IRA • 2002: Lake Tahoe cultural lands granted</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986; Price 1980; Nevers 1976; Washoe Tribe; Palisades Tahoe; Tallac Historic Site</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWashoeBands",
+      "geometry": {"lat":39.23,"lng":-119.935},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#E1BEE7;font-size:10px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Pau Wa Lu (Carson)</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvWashoeBands",
+      "geometry": [[38.95,-119.65],[38.90,-119.35],[38.70,-119.20],[38.50,-119.25],[38.35,-119.40],[38.30,-119.60],[38.40,-119.80],[38.55,-119.90],[38.70,-119.90],[38.85,-119.80]],
+      "style": {"color":"#CE93D8","weight":1.5,"opacity":0.5,"fillColor":"rgba(206,147,216,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#CE93D8;margin:0 0 2px\">Hung a Lel Ti — Southern Washoe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Washoe (Washshiw) · Southern band · Topaz Lake / Antelope Valley</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Hung a Lel Ti</b> (\"southerners\") ranged from <b>Topaz Lake</b> and the upper West Walker River south through <b>Antelope Valley</b> to the Sonora Pass area. Their territory marked the southern boundary of the Washoe world, bordering Northern Paiute (Kucadikadi) and Miwok peoples to the south. Like all Washoe bands, they participated in the annual pine nut gathering in the Pine Nut Range — the most important social and spiritual event. The southern Washoe had more contact with trans-Sierra trade networks, exchanging goods with California peoples. Topaz Lake, one of the last reliable water bodies along the Walker River system, was a key fishing and gathering site.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> Ancient presence — Washoe linguistic isolation suggests 6,000+ year presence • Southern boundary of Washoe world • Contact with trans-Sierra trading networks</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986; Price 1980; Nevers 1976; Washoe Tribe of NV & CA</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvWashoeBands",
+      "geometry": {"lat":38.62,"lng":-119.585},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#CE93D8;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Hung a Lel Ti (Southern)</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "polygon",
+      "layer": "nvMojaveFortMojave",
+      "geometry": [[35.20,-114.65],[35.15,-114.45],[35.00,-114.35],[34.85,-114.35],[34.75,-114.50],[34.80,-114.70],[34.95,-114.80],[35.10,-114.80]],
+      "style": {"color":"#EF5350","weight":1.5,"opacity":0.5,"fillColor":"rgba(239,83,80,0.10)","fillOpacity":0.10,"dashArray":"4,4"},
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#EF5350;margin:0 0 2px\">Fort Mojave Indian Tribe (Pipa Aha Macav)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Mojave · Colorado River · NV-AZ-CA tri-state · Yuman speakers</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Pipa Aha Macav</b> (\"people by the river\") — the Mojave — are the fifth Great Basin tribe in Nevada, though culturally they are a <b>Colorado River Yuman</b> people, entirely distinct from the Numic-speaking Paiute and Shoshone. They are powerful river farmers who grew corn, beans, squash, and melons on the Colorado River floodplain. Their territory in Nevada is small — the southernmost tip along the Colorado River near Laughlin — but their cultural influence is vast. <b>Avi Kwa Ame</b> (Spirit Mountain), visible from their territory, is central to their creation story: the creator spirit <b>Mastamho</b> led the Mojave from Spirit Mountain to the Colorado River. The Fort Mojave Reservation spans Nevada, Arizona, and California. The tribe is known for their distinctive <b>body tattooing</b>, elaborate dream narratives, and the <b>keruk</b> (mourning ceremony). Unlike most Great Basin peoples, the Mojave had a tribal chief structure and fought organized battles.</div><div style=\"margin-top:8px;font-size:11px;color:#b0a090;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px\">\n        <b>Key dates:</b> ~1200 CE: Mojave established on Colorado River • 1604: Spanish explorer Oñate encounters Mojave • 1858-59: Mojave War with U.S. Army • 1880: Fort Mojave Reservation established • 2023: Avi Kwa Ame National Monument designated</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Stewart 1983 (HNAI); Fort Mojave Indian Tribe; Avi Kwa Ame NM</div></div>",
+      "popupOptions": {"maxWidth":440}
+    },
+    {
+      "type": "marker",
+      "layer": "nvMojaveFortMojave",
+      "geometry": {"lat":34.975,"lng":-114.575},
+      "icon": {"factory":"divIcon","html":"<div style=\"color:#EF5350;font-size:9px;font-weight:600;text-align:center;text-shadow:0 0 4px #000,0 0 8px #000;white-space:nowrap;pointer-events:none\">Pipa Aha Macav</div>","iconSize":[140,18],"iconAnchor":[70,9]},
+      "options": {"interactive":false}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":40.05,"lng":-119.55},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #42A5F5;cursor:pointer\" title=\"Pyramid Lake Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Pyramid Lake Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Kuyuidokado (Northern Paiute) · Est. 1859 · 475,000 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Oldest reservation in Nevada. Encompasses all of Pyramid Lake. Home of the cui-ui and Lahontan cutthroat trout.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":38.80,"lng":-118.85},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #42A5F5;cursor:pointer\" title=\"Walker River Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Walker River Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Agai Dicutta (Northern Paiute) · Est. 1874 · 323,000 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Home of Wovoka and the Ghost Dance. Pine Nut Festival every September.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":39.47,"lng":-118.78},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #42A5F5;cursor:pointer\" title=\"Fallon Paiute-Shoshone\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Fallon Paiute-Shoshone</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Toidokado (Northern Paiute) & Shoshone · Est. 1908 · 8,200 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Near Spirit Cave, Hidden Cave, Grimes Point. 2018 DNA confirmed 10,000-year continuity.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":40.18,"lng":-118.47},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #64B5F6;cursor:pointer\" title=\"Lovelock Colony\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Lovelock Colony</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Wadatoka (Northern Paiute) · Est. 1907 · 20 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Near Lovelock Cave type site. Named after George Lovelock, not the archaeological culture.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":40.97,"lng":-117.74},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #64B5F6;cursor:pointer\" title=\"Winnemucca Colony\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Winnemucca Colony</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Paiute · Est. 1917 · 340 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Named after Chief Winnemucca. Sarah Winnemucca's ancestral territory.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":41.45,"lng":-118.95},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #42A5F5;cursor:pointer\" title=\"Summit Lake Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Summit Lake Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Paiute · Est. 1913 · 10,800 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of most remote reservations in U.S. Critical Lahontan cutthroat trout habitat.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":39.55,"lng":-119.85},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #64B5F6;cursor:pointer\" title=\"Reno-Sparks Indian Colony\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Reno-Sparks Indian Colony</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Paiute, Shoshone & Washoe · Est. 1917 · 1,920 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Multi-tribal urban colony. Hosts annual Numaga Powwow (Labor Day). Named for Chief Numaga.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":38.98,"lng":-119.16},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #64B5F6;cursor:pointer\" title=\"Yerington Colony & Reserve\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Yerington Colony & Reserve</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Paiute · Est. 1917/1936 · 1,632 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Mason Valley. Campbell Ranch (1936) serves as main community.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":41.75,"lng":-115.95},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFA726;cursor:pointer\" title=\"Duck Valley Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Duck Valley Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Shoshone-Paiute · Est. 1877 · 289,819 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Spans NV-ID border. First and largest Western Shoshone reservation. 453 sq mi along Owyhee River.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":40.66,"lng":-116.97},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFA726;cursor:pointer\" title=\"Te-Moak (Battle Mountain)\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Te-Moak (Battle Mountain)</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone (Tonomudza) · Est. 1917 · 683 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Battle Mountain Band. Refused relocation to Duck Valley.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":40.85,"lng":-115.77},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFA726;cursor:pointer\" title=\"Te-Moak (Elko Colony)\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Te-Moak (Elko Colony)</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone · Est. 1918 · 193 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Hosts annual Elko Te-Moak Powwow in October — one of Nevada's largest.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":40.45,"lng":-115.95},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFA726;cursor:pointer\" title=\"Te-Moak (South Fork)\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Te-Moak (South Fork)</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone · Est. 1941 · 13,050 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">South Fork Band. Lee, Nevada. Largest Te-Moak land area.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":41.12,"lng":-114.98},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFB74D;cursor:pointer\" title=\"Te-Moak (Wells Colony)\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Te-Moak (Wells Colony)</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone (Kuiyudika) · Est. 1980 · 80 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Wells Band. Kuiyudika — \"desert plant eaters.\" Clover Valley rendezvous site.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":38.85,"lng":-115.70},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFA726;cursor:pointer\" title=\"Duckwater Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Duckwater Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone · Est. 1940 · 3,815 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Railroad Valley. 2010 Recovery Champion Award for springfish restoration.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":38.92,"lng":-117.15},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFB74D;cursor:pointer\" title=\"Yomba Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Yomba Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone · Est. 1937 · 4,718 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Reese River Valley. Central Nevada's most isolated reservation.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":39.25,"lng":-114.87},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #FFB74D;cursor:pointer\" title=\"Ely Colony\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Ely Colony</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone · Est. 1931 · 100 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">White Pine County. Annual Ely Shoshone Fandango each July.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":36.19,"lng":-115.18},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #66BB6A;cursor:pointer\" title=\"Las Vegas Paiute Colony\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Las Vegas Paiute Colony</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Tudinu (Southern Paiute) · Est. 1911/1970 · 3,850 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Original 10 acres bought by Helen Stewart for $500. Snow Mountain (4,000 acres) returned 1983.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":36.72,"lng":-114.60},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #66BB6A;cursor:pointer\" title=\"Moapa River Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Moapa River Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Moapa Band (Southern Paiute) · Est. 1873 · 71,954 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">First large-scale solar project on tribal land (250 MW). Originally promised 39,000 sq mi.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":38.90,"lng":-119.73},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #CE93D8;cursor:pointer\" title=\"Washoe Colony (Dresslerville)\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Washoe Colony (Dresslerville)</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Washoe (Pau Wa Lu) · Est. 1917 · 795 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Gardnerville area. Washoe Tribe headquarters. Named for Bill Dressler who sold land.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":39.15,"lng":-119.72},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #E1BEE7;cursor:pointer\" title=\"Washoe Colony (Stewart)\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Washoe Colony (Stewart)</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Washoe · Est. 1917 · 63 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Near Carson City. Stewart Indian School (1890-1980) — boarding school site, now museum.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":38.77,"lng":-119.83},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #E1BEE7;cursor:pointer\" title=\"Washoe Colony (Woodfords)\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Washoe Colony (Woodfords)</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Washoe (Hung a Lel Ti) · Est. 1917 · 80 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Alpine County, CA. Southernmost Washoe colony.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    },
+    {
+      "type": "marker",
+      "layer": "nvReservations",
+      "geometry": {"lat":35.05,"lng":-114.60},
+      "icon": {"factory":"divIcon","html":"<div style=\"width:8px;height:8px;border-radius:50%;background:#FFD600;border:1.5px solid #EF5350;cursor:pointer\" title=\"Fort Mojave Reservation\"></div>","iconSize":[8,8],"iconAnchor":[4,4]},
+      "popup": "<div style=\"max-width:360px\">\n        <h4 style=\"color:#FFD600;margin:0 0 2px\">📍 Fort Mojave Reservation</h4>\n        <div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Pipa Aha Macav (Mojave) · Est. 1880 · 32,000 acres</div>\n        <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Spans NV-AZ-CA. Colorado River Yuman people. Creation site: Avi Kwa Ame.</div>\n        <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NV Indian Commission; BIA; tribal websites</div>\n      </div>",
+      "popupOptions": {"maxWidth":380}
+    }
+  ]
+}

@@ -1,0 +1,1078 @@
+{
+  "source": "50-wampanoag.js",
+  "featureCount": 51,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "wampanoagTerritory",
+      "geometry": [
+        [
+          42.22,
+          -70.94
+        ],
+        [
+          42.2,
+          -71
+        ],
+        [
+          42.15,
+          -71.05
+        ],
+        [
+          42.1,
+          -71.1
+        ],
+        [
+          42.05,
+          -71.15
+        ],
+        [
+          41.95,
+          -71.2
+        ],
+        [
+          41.85,
+          -71.25
+        ],
+        [
+          41.8,
+          -71.3
+        ],
+        [
+          41.75,
+          -71.35
+        ],
+        [
+          41.7,
+          -71.35
+        ],
+        [
+          41.68,
+          -71.3
+        ],
+        [
+          41.65,
+          -71.28
+        ],
+        [
+          41.6,
+          -71.25
+        ],
+        [
+          41.55,
+          -71.22
+        ],
+        [
+          41.5,
+          -71.2
+        ],
+        [
+          41.48,
+          -71.17
+        ],
+        [
+          41.45,
+          -71.1
+        ],
+        [
+          41.5,
+          -71.05
+        ],
+        [
+          41.55,
+          -70.95
+        ],
+        [
+          41.58,
+          -70.85
+        ],
+        [
+          41.6,
+          -70.75
+        ],
+        [
+          41.58,
+          -70.65
+        ],
+        [
+          41.55,
+          -70.55
+        ],
+        [
+          41.6,
+          -70.45
+        ],
+        [
+          41.63,
+          -70.3
+        ],
+        [
+          41.65,
+          -70.15
+        ],
+        [
+          41.67,
+          -70
+        ],
+        [
+          41.9,
+          -69.97
+        ],
+        [
+          42.05,
+          -70.05
+        ],
+        [
+          42.08,
+          -70.15
+        ],
+        [
+          41.95,
+          -70.2
+        ],
+        [
+          41.85,
+          -70.25
+        ],
+        [
+          41.8,
+          -70.3
+        ],
+        [
+          41.9,
+          -70.55
+        ],
+        [
+          41.95,
+          -70.6
+        ],
+        [
+          42,
+          -70.65
+        ],
+        [
+          42.05,
+          -70.7
+        ],
+        [
+          42.1,
+          -70.75
+        ],
+        [
+          42.15,
+          -70.8
+        ],
+        [
+          42.2,
+          -70.85
+        ]
+      ],
+      "style": {
+        "color": "#8B4513",
+        "weight": 3,
+        "fillColor": "#8B4513",
+        "fillOpacity": 0.08,
+        "dashArray": "8,4",
+        "pane": "wampanoagBackgroundPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B4513\">Wampanoag Nation — \"People of the First Light\"</h3></div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "wampanoagTerritory",
+      "geometry": [
+        [
+          41.45,
+          -70.5
+        ],
+        [
+          41.47,
+          -70.8
+        ],
+        [
+          41.4,
+          -70.82
+        ],
+        [
+          41.33,
+          -70.77
+        ],
+        [
+          41.3,
+          -70.65
+        ],
+        [
+          41.32,
+          -70.52
+        ],
+        [
+          41.38,
+          -70.45
+        ],
+        [
+          41.42,
+          -70.43
+        ]
+      ],
+      "style": {
+        "color": "#BC8F8F",
+        "weight": 2,
+        "fillColor": "#BC8F8F",
+        "fillOpacity": 0.12,
+        "dashArray": "5,3",
+        "pane": "wampanoagBackgroundPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#BC8F8F\">Noepe (Martha's Vineyard)</h3></div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "wampanoagTerritory",
+      "geometry": [
+        [
+          41.3,
+          -69.95
+        ],
+        [
+          41.32,
+          -70.1
+        ],
+        [
+          41.28,
+          -70.2
+        ],
+        [
+          41.23,
+          -70.18
+        ],
+        [
+          41.22,
+          -70.05
+        ],
+        [
+          41.25,
+          -69.93
+        ]
+      ],
+      "style": {
+        "color": "#B8860B",
+        "weight": 2,
+        "fillColor": "#B8860B",
+        "fillOpacity": 0.12,
+        "dashArray": "5,3",
+        "pane": "wampanoagBackgroundPane"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#B8860B\">Natocket (Nantucket)</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.875,
+        "lng": -70.89
+      },
+      "style": {
+        "radius": 6,
+        "color": "#4682B4",
+        "fillColor": "#4682B4",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3>Wapanucket No. 8</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.87,
+        "lng": -70.89
+      },
+      "style": {
+        "radius": 7,
+        "color": "#DC143C",
+        "fillColor": "#708090",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3>Wapanucket Crematory Complex</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.878,
+        "lng": -70.895
+      },
+      "style": {
+        "radius": 4,
+        "color": "#708090",
+        "fillColor": "#708090",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Wapanucket No. 6</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.93,
+        "lng": -70.97
+      },
+      "style": {
+        "radius": 5,
+        "color": "#708090",
+        "fillColor": "#4682B4",
+        "fillOpacity": 0.85,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3>Titicut</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 42.68,
+        "lng": -70.84
+      },
+      "style": {
+        "radius": 5,
+        "color": "#4682B4",
+        "fillColor": "#4682B4",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Bull Brook</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 42.18,
+        "lng": -71.08
+      },
+      "style": {
+        "radius": 4,
+        "color": "#4682B4",
+        "fillColor": "#4682B4",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Wamsutta Site</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.35,
+        "lng": -70.83
+      },
+      "style": {
+        "radius": 6,
+        "color": "#BC8F8F",
+        "fillColor": "#708090",
+        "fillOpacity": 0.8,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3>Aquinnah Archaeological District</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.93,
+        "lng": -70.03
+      },
+      "style": {
+        "radius": 4,
+        "color": "#DC143C",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Indian Neck Ossuary</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.72,
+        "lng": -69.97
+      },
+      "style": {
+        "radius": 5,
+        "color": "#556B2F",
+        "fillColor": "#F5DEB3",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Pleasant Bay / Nauset Estuary</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.77,
+        "lng": -70.08
+      },
+      "style": {
+        "radius": 4,
+        "color": "#708090",
+        "fillColor": "#708090",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Stony Brook Watershed</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagArch",
+      "geometry": {
+        "lat": 41.27,
+        "lng": -70.07
+      },
+      "style": {
+        "radius": 4,
+        "color": "#708090",
+        "fillColor": "#708090",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Nantucket Early Sites</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.73,
+        "lng": -71.28
+      },
+      "style": {
+        "radius": 6,
+        "color": "#CD853F",
+        "fillColor": "#CD853F",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3>Pokanoket / Sowams</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.96,
+        "lng": -70.66
+      },
+      "style": {
+        "radius": 5,
+        "color": "#800000",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.85,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3>Patuxet (Plymouth)</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.89,
+        "lng": -70.91
+      },
+      "style": {
+        "radius": 5,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Nemasket</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.8,
+        "lng": -69.98
+      },
+      "style": {
+        "radius": 5,
+        "color": "#DAA520",
+        "fillColor": "#DAA520",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Nauset</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.7,
+        "lng": -70.3
+      },
+      "style": {
+        "radius": 4,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Cummaquid</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.65,
+        "lng": -70.48
+      },
+      "style": {
+        "radius": 5,
+        "color": "#D2691E",
+        "fillColor": "#D2691E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Mashpee</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.6,
+        "lng": -71.16
+      },
+      "style": {
+        "radius": 4,
+        "color": "#A0522D",
+        "fillColor": "#A0522D",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Pocasset</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.52,
+        "lng": -71.1
+      },
+      "style": {
+        "radius": 4,
+        "color": "#8FBC8F",
+        "fillColor": "#8FBC8F",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Sakonet</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.76,
+        "lng": -70.72
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Agawam</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.68,
+        "lng": -70.9
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Acushnet</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.9,
+        "lng": -71.09
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Cohannet</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.66,
+        "lng": -70.81
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Mattapoiset</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.88,
+        "lng": -70.59
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Manomet</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.85,
+        "lng": -70.6
+      },
+      "style": {
+        "radius": 4,
+        "color": "#2E7D32",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Herring Pond</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.85,
+        "lng": -70.87
+      },
+      "style": {
+        "radius": 4,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Assawompsett / Betty's Neck</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.78,
+        "lng": -71.06
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Assonet</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.35,
+        "lng": -70.84
+      },
+      "style": {
+        "radius": 4,
+        "color": "#BC8F8F",
+        "fillColor": "#BC8F8F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Aquinnah (Gay Head)</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.38,
+        "lng": -70.48
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Chappaquiddick</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.68,
+        "lng": -69.97
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Monomoit (Chatham)</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagVillages",
+      "geometry": {
+        "lat": 41.75,
+        "lng": -71.2
+      },
+      "style": {
+        "radius": 3,
+        "color": "#DEB887",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.75,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Mattapuyst (Swansea)</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagPetro",
+      "geometry": {
+        "lat": 41.82,
+        "lng": -71.12
+      },
+      "style": {
+        "radius": 7,
+        "color": "#FFD700",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Dighton Rock</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagPetro",
+      "geometry": {
+        "lat": 41.85,
+        "lng": -70.88
+      },
+      "style": {
+        "radius": 5,
+        "color": "#FFD700",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Assawompset Pond Petroglyphs</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagPetro",
+      "geometry": {
+        "lat": 41.9,
+        "lng": -70.92
+      },
+      "style": {
+        "radius": 5,
+        "color": "#FFD700",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Hand Rock — Middleboro</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagPetro",
+      "geometry": {
+        "lat": 41.895,
+        "lng": -70.905
+      },
+      "style": {
+        "radius": 4,
+        "color": "#FFD700",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Chestnut Street Hand Petroglyphs</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagPetro",
+      "geometry": {
+        "lat": 41.91,
+        "lng": -70.93
+      },
+      "style": {
+        "radius": 4,
+        "color": "#FFD700",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Great Rock — Up to 5 Hand Petroglyphs</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagPetro",
+      "geometry": {
+        "lat": 41.72,
+        "lng": -71.4
+      },
+      "style": {
+        "radius": 4,
+        "color": "#FFD700",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Mark Rock (Warwick, RI)</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSacred",
+      "geometry": {
+        "lat": 41.74,
+        "lng": -71.02
+      },
+      "style": {
+        "radius": 4,
+        "color": "#DC143C",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Profile Rock</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSacred",
+      "geometry": {
+        "lat": 41.68,
+        "lng": -71.22
+      },
+      "style": {
+        "radius": 6,
+        "color": "#8B0000",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\"><h3>Mount Hope (Montaup) — King Philip's War</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSacred",
+      "geometry": {
+        "lat": 41.8,
+        "lng": -71.07
+      },
+      "style": {
+        "radius": 4,
+        "color": "#DC143C",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Anawan Rock</h3></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "wampanoagSacred",
+      "geometry": {
+        "lat": 41.95,
+        "lng": -70.62
+      },
+      "style": {
+        "radius": 4,
+        "color": "#2E7D32",
+        "fillColor": "#2E7D32",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\"><h3>Plimoth Patuxet Museums</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagTrails",
+      "geometry": [
+        [
+          41.5,
+          -71.2
+        ],
+        [
+          41.6,
+          -71.15
+        ],
+        [
+          41.7,
+          -71.1
+        ],
+        [
+          41.82,
+          -71.1
+        ],
+        [
+          41.85,
+          -70.95
+        ],
+        [
+          41.87,
+          -70.89
+        ]
+      ],
+      "style": {
+        "color": "#D4760A",
+        "weight": 3,
+        "dashArray": "8,5",
+        "opacity": 0.7
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Narragansett Bay → Assawompset Pond</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagTrails",
+      "geometry": [
+        [
+          41.89,
+          -70.91
+        ],
+        [
+          41.96,
+          -70.66
+        ]
+      ],
+      "style": {
+        "color": "#D4760A",
+        "weight": 2,
+        "dashArray": "8,5",
+        "opacity": 0.6
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Patuxet</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagTrails",
+      "geometry": [
+        [
+          41.89,
+          -70.91
+        ],
+        [
+          41.73,
+          -71.28
+        ]
+      ],
+      "style": {
+        "color": "#D4760A",
+        "weight": 2,
+        "dashArray": "8,5",
+        "opacity": 0.6
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Pokanoket</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagTrails",
+      "geometry": [
+        [
+          41.89,
+          -70.91
+        ],
+        [
+          41.76,
+          -70.72
+        ]
+      ],
+      "style": {
+        "color": "#D4760A",
+        "weight": 2,
+        "dashArray": "8,5",
+        "opacity": 0.6
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Agawam</h3></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "wampanoagTrails",
+      "geometry": [
+        [
+          41.89,
+          -70.91
+        ],
+        [
+          41.68,
+          -70.9
+        ]
+      ],
+      "style": {
+        "color": "#D4760A",
+        "weight": 2,
+        "dashArray": "8,5",
+        "opacity": 0.6
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Acushnet</h3></div>"
+    },
+    {
+      "type": "circle",
+      "layer": "wampanoagEpidemic",
+      "geometry": {
+        "lat": 41.96,
+        "lng": -70.66
+      },
+      "style": {
+        "radius": 8000,
+        "color": "#8B0000",
+        "fillColor": "#8B0000",
+        "fillOpacity": 0.06,
+        "weight": 1,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B0000\">☠ Patuxet — 100% Mortality (1616–1619)</h3></div>"
+    },
+    {
+      "type": "circle",
+      "layer": "wampanoagEpidemic",
+      "geometry": {
+        "lat": 41.73,
+        "lng": -71.28
+      },
+      "style": {
+        "radius": 12000,
+        "color": "#8B0000",
+        "fillColor": "#8B0000",
+        "fillOpacity": 0.04,
+        "weight": 1,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B0000\">☠ Mainland Wampanoag Epidemic Zone (1616–1619)</h3></div>"
+    }
+  ]
+}

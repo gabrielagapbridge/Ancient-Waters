@@ -1,24 +1,21 @@
-const eras = [
-  {label:'All Eras', show:layerNames},
-  {label:'10,000 BCE', show:['ancientLakes','swSites','eastBaySites','springs','cienegas','rockArt','shellmounds','buriedCreeks','historicShoreline','languageZones','bayMiwokTribelets','yokutsTerr','sValleyYokuts','foothillYokuts','yokutsNeighbors','greatBasinRockArt','scRockArt','lakeCorcoran','centralValleyLakes','owensChain','pluvialLakes','pomoVillages','pomoWaterways','pomoSacred','pomoRockArt','pomoCoastalVillages','pomoCoastalWater','pomoCoastalSacred','yukiVillages','yukiWater','yukiSacred','yukiRockArt','mattoleVillages','mattoleWater','mattoleSacred','plateauArchSites','plateauRockArt','mohicanGlacialLakes','mohicanChamplainSea','mohicanArchSites','mohicanLost','mohicanLakesBefore','mohicanTerritory','wampanoagArch','wampanoagTerritory','wampanoagSubmerged']},
-  {label:'1000 BCE – 1450 CE', show:['ancientRivers','ancientLakes','hohokamCanals','swSites','jtreeSites','eastBaySites','springs','cienegas','tradeRoutes','rockArt','shellmounds','buriedCreeks','historicShoreline','languageZones','marinCreeks','bayMiwokTribelets','yokutsTerr','sValleyYokuts','foothillYokuts','yokutsNeighbors','greatBasinRockArt','scRockArt','centralValleyLakes','owensChain','pomoVillages','pomoWaterways','pomoSacred','pomoRockArt','pomoCoastalVillages','pomoCoastalWater','pomoCoastalSacred','yukiVillages','yukiWater','yukiSacred','yukiRockArt','mattoleVillages','mattoleWater','mattoleSacred','plateauArchSites','yakamaTerr','spokaneTerr','palouseTerr','wanapumTerr','colvilleTerr','coeurTerr','kalispelTerr','nezperceTerr','plateauRockArt','mohicanRivers','mohicanVillages','mohicanSacred','mohicanWetlands','mohicanLakesBefore','mohicanTerritory','wampanoagTerritory','wampanoagArch','wampanoagVillages','wampanoagPetro','wampanoagSacred','wampanoagTrails','wampanoagSubmerged']},
-  {label:'Hohokam Peak ~1300', show:['ancientRivers','ancientLakes','hohokamCanals','swSites','jtreeSites','eastBaySites','springs','cienegas','tradeRoutes','rockArt','shellmounds','buriedCreeks','historicShoreline','languageZones','marinCreeks','bayMiwokTribelets','yokutsTerr','sValleyYokuts','foothillYokuts','yokutsNeighbors','greatBasinRockArt','scRockArt','centralValleyLakes','owensChain','pomoVillages','pomoWaterways','pomoSacred','pomoRockArt','pomoCoastalVillages','pomoCoastalWater','pomoCoastalSacred','yukiVillages','yukiWater','yukiSacred','yukiRockArt','mattoleVillages','mattoleWater','mattoleSacred','plateauArchSites','yakamaTerr','spokaneTerr','palouseTerr','wanapumTerr','colvilleTerr','coeurTerr','kalispelTerr','nezperceTerr','plateauRockArt','mohicanRivers','mohicanVillages','mohicanSacred','mohicanWetlands','mohicanLakesBefore','mohicanTerritory']},
-  {label:'Contact ~1540', show:['ancientRivers','ancientLakes','swSites','jtreeSites','eastBaySites','spanishSites','springs','cienegas','tradeRoutes','rockArt','shellmounds','buriedCreeks','bayMissions','historicShoreline','languageZones','marinCreeks','bayMiwokTribelets','yokutsTerr','sValleyYokuts','foothillYokuts','yokutsNeighbors','greatBasinRockArt','scRockArt','centralValleyLakes','owensChain','pomoVillages','pomoWaterways','pomoSacred','pomoRockArt','pomoCoastalVillages','pomoCoastalWater','pomoCoastalSacred','yukiVillages','yukiWater','yukiSacred','yukiRockArt','mattoleVillages','mattoleWater','mattoleSacred','plateauArchSites','yakamaTerr','spokaneTerr','palouseTerr','wanapumTerr','colvilleTerr','coeurTerr','kalispelTerr','nezperceTerr','plateauRockArt','mohicanRivers','mohicanVillages','mohicanSacred','mohicanWetlands','mohicanLakesBefore','mohicanTerritory','mohicanHistoric','wampanoagTerritory','wampanoagArch','wampanoagVillages','wampanoagPetro','wampanoagSacred','wampanoagTrails','wampanoagEpidemic']},
-  {label:'Settlement ~1850', show:['ancientRivers','swSites','jtreeSites','eastBaySites','spanishSites','springs','cienegas','rockArt','shellmounds','buriedCreeks','bayFill','bayMissions','historicShoreline','marinCreeks','langTerritories','bayMiwokTribelets','yokutsTerr','sValleyYokuts','foothillYokuts','yokutsNeighbors','greatBasinRockArt','scRockArt','centralValleyLakes','owensChain','pomoVillages','pomoWaterways','pomoSacred','pomoLostWaters','pomoRockArt','pomoCoastalVillages','pomoCoastalWater','pomoCoastalSacred','yukiVillages','yukiWater','yukiSacred','yukiLost','yukiRockArt','mattoleVillages','mattoleWater','mattoleSacred','mattoleLost','plateauArchSites','yakamaTerr','spokaneTerr','palouseTerr','wanapumTerr','colvilleTerr','coeurTerr','kalispelTerr','nezperceTerr','plateauRockArt','mohicanRivers','mohicanVillages','mohicanSacred','mohicanDams','mohicanLost','mohicanOrigShoreline','mohicanFillZones','mohicanBuriedWater','mohicanArchInFill','mohicanLakesAfter','mohicanHousatonicDams','mohicanTerritory','mohicanHistoric','wampanoagTerritory','wampanoagArch','wampanoagVillages','wampanoagPetro','wampanoagSacred','wampanoagTrails','wampanoagEpidemic']},
-  {label:'Dam Era ~1940', show:['ancientRivers','modernDams','modernReservoirs','lostRivers','swSites','jtreeSites','eastBaySites','spanishSites','springs','modernInfra','rockArt','shellmounds','bayFill','constructionFinds','bayMissions','historicShoreline','marinCreeks','langTerritories','bayMiwokTribelets','yokutsTerr','sValleyYokuts','foothillYokuts','yokutsNeighbors','greatBasinRockArt','scRockArt','waterDiversions','pomoVillages','pomoWaterways','pomoLostWaters','pomoRockArt','pomoCoastalVillages','pomoCoastalWater','pomoCoastalSacred','yukiVillages','yukiWater','yukiLost','yukiRockArt','mattoleVillages','mattoleWater','mattoleLost','plateauArchSites','yakamaTerr','spokaneTerr','palouseTerr','wanapumTerr','colvilleTerr','coeurTerr','kalispelTerr','nezperceTerr','plateauRockArt','plateauDams','mohicanRivers','mohicanVillages','mohicanDams','mohicanLost','mohicanOrigShoreline','mohicanFillZones','mohicanBuriedWater','mohicanLostIslands','mohicanArchInFill','mohicanContamination','mohicanLakesAfter','mohicanReservoirs','mohicanHousatonicDams','mohicanTerritory','mohicanHistoric','wampanoagTerritory','wampanoagArch','wampanoagVillages','wampanoagPetro','wampanoagSacred','wampanoagTrails','wampanoagEpidemic']},
-  {label:'Present Day', show:['modernDams','modernReservoirs','lostRivers','swSites','jtreeSites','eastBaySites','spanishSites','springs','modernInfra','rockArt','marinCreeks','langTerritories','bayMiwokTribelets','yokutsTerr','sValleyYokuts','foothillYokuts','yokutsNeighbors','greatBasinRockArt','scRockArt','waterDiversions','pomoVillages','pomoLostWaters','pomoCoastalVillages','pomoCoastalLost','yukiVillages','yukiLost','yukiSacred','mattoleVillages','mattoleLost','mattoleSacred','mattoleModern','plateauArchSites','plateauRockArt','plateauDams','mohicanWetlands','mohicanDams','mohicanLost','mohicanOrigShoreline','mohicanFillZones','mohicanBuriedWater','mohicanLostIslands','mohicanArchInFill','mohicanContamination','mohicanLakesAfter','mohicanReservoirs','mohicanHousatonicDams','mohicanTerritory','mohicanHistoric','mohicanModern','wampanoagTerritory','wampanoagArch','wampanoagVillages','wampanoagPetro','wampanoagSacred','wampanoagSubmerged','wampanoagThreat']}
-];
+let eras = [];
+fetch('data/meta/timeline-eras.json')
+  .then(r => r.json())
+  .then(data => { eras = data.eras; })
+  .catch(err => console.warn('Timeline: could not load eras —', err));
 
 function onTimeline(val) {
   const era = eras[val];
+  if (!era) return;
   document.getElementById('era-label').textContent = era.label;
   document.querySelectorAll('.timeline-tick').forEach((t,i) => t.classList.toggle('active', i==val));
 
-  // Update checkboxes
+  const showList = era.show === 'all' ? (window.layerNames || []) : era.show;
   const checkboxes = document.querySelectorAll('.layer-toggle input');
 
-  layerNames.forEach(name => {
-    const shouldShow = era.show.includes(name);
+  (window.layerNames || []).forEach(name => {
+    if (!L_groups[name]) return;
+    const shouldShow = showList.includes(name);
     if (shouldShow && !map.hasLayer(L_groups[name])) L_groups[name].addTo(map);
     if (!shouldShow && map.hasLayer(L_groups[name])) map.removeLayer(L_groups[name]);
   });
@@ -47,7 +44,7 @@ function onTimeline(val) {
       'Fill zones / lost shoreline':'historicShoreline'
     };
     const ln = layerMap[label];
-    if (ln) cb.checked = era.show.includes(ln);
+    if (ln) cb.checked = showList.includes(ln);
   });
 }
 
@@ -55,5 +52,3 @@ function setEra(val) {
   document.getElementById('timeline').value = val;
   onTimeline(val);
 }
-
-// ========== REGION NAV ==========

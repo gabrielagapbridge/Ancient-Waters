@@ -1,0 +1,644 @@
+{
+  "source": "54-berkshire-hudson-coast.js",
+  "featureCount": 27,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 42.305,
+        "lng": -73.3
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Kampoosa Bog</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican ancestors</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">7,000+ years continuous use</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Designation:</span> <span style=\"font-size:12px;color:#333;\">Area of Critical Environmental Concern (1995)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Excavation:</span> <span style=\"font-size:12px;color:#333;\">UMass 1993 (Eric Johnson) — Tennessee Gas Pipeline salvage dig</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Findings:</span> <span style=\"font-size:12px;color:#333;\">95% of tools from Hudson Valley chert (not local quartz) proving extensive trade networks. Buried cache of 9 unsharpened blades = planned seasonal returns. Large-scale butchering site 3,000-4,000 BP. Fire management evidence in sediment cores.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Name:</span> <span style=\"font-size:12px;color:#333;\">Kampoosa = \"dangerous place\" in Mohican — treacherous quaking sphagnum at water's edge</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Johnson 1996; Housatonic Heritage Trail</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 42.284,
+        "lng": -73.32
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Stockbridge Meetinghouse Dig</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Stockbridge-Munsee Band of Mohican Indians</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact living floors (6,000-8,000 years); 1739 meetinghouse layer above</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Excavation:</span> <span style=\"font-size:12px;color:#333;\">July 2021 — Bonney Hartley, Nathan Allison, Ann Morton</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Funding:</span> <span style=\"font-size:12px;color:#333;\">NPS Underrepresented Community Grant + Town of Stockbridge matching grant</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Findings:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact hearths (burnt earth & charcoal), quartz thinning flake dating 1600-8000 BP, builder's trench for 1739 meetinghouse. \"Our ancestors showed us what they wanted us to find.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Meetinghouse = where Mohican sachems and English colonists governed Indiantown together. Center of politics and religion as colonial influence grew.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">NEPM 2021; Berkshire Eagle</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 42.28,
+        "lng": -73.318
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Ox Roast Site / Pre-Contact Homesites</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact (5,000+ years); 1783 George Washington celebration layer</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Excavation:</span> <span style=\"font-size:12px;color:#333;\">August 2021 — Stockbridge-Munsee THPO team</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Findings:</span> <span style=\"font-size:12px;color:#333;\">Second pre-contact homesite with living floors beneath 1783 layer. Stone flakes, fire-cracked rock. \"Two digs, two for two\" — Bonney Hartley</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Historical Context:</span> <span style=\"font-size:12px;color:#333;\">1783: George Washington provided ox roast to thank Mohican veterans of the Revolutionary War. Mohicans fought alongside patriots at Bunker Hill.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">NEPM Aug 2021; BTW Berkshires</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 42.195,
+        "lng": -73.188
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Bidwell House Museum Grounds</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican (potential)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Unknown — unstudied</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Status:</span> <span style=\"font-size:12px;color:#333;\">192-acre grounds with cellar holes and stone structures that \"might be Mohican\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Note:</span> <span style=\"font-size:12px;color:#333;\">Museum curator invited UMass archaeologist Eric Johnson to speak about Kampoosa Bog findings. Hope to study Bidwell grounds someday.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Berkshire Eagle 2013; Bidwell House Museum</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 42.395,
+        "lng": -73.7
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">McVaugh Collection Site (Kinderhook)</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">9,000 years of continuous presence</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Artifacts:</span> <span style=\"font-size:12px;color:#333;\">~50 projectile points collected by Roger McVaugh in 1920s while plowing family farm. Percussion-flaked fine-grained stone points spanning 9 millennia.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">Columbia County, east of Hudson River — ancestral Mohican territory</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Repository:</span> <span style=\"font-size:12px;color:#333;\">New York State Museum (donated by Michael McVaugh)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">One of few NYSM archaeological collections from east of the Hudson. Documents deep Indigenous presence in Mohican homeland.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">NY State Museum accession documentation</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 42.23,
+        "lng": -73.73
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Claverack Rock Shelter</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Multi-period occupation</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Excavation:</span> <span style=\"font-size:12px;color:#333;\">Ken Mynter (vocational archaeologist)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Published:</span> <span style=\"font-size:12px;color:#333;\">Results included in Robert Funk's \"Recent Contributions to Hudson Valley Prehistory\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Ted Filli continues research on Contact Period Mohican sites along waterways flowing to/from Hudson in Columbia County</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">10th Annual Algonquian Peoples Seminar, NYS Museum 2010</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 41.188,
+        "lng": -73.895
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Croton Point Shell Midden</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Kitchawank (Wappinger Confederacy)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">7,000+ years — oldest shell midden on North Atlantic coast</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Massive oyster shell refuse heap indicates continuous Indigenous presence. Giant oysters (170mm valves) dated to 5,780 BP during \"optimum salinity.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Village:</span> <span style=\"font-size:12px;color:#333;\">Fortified village \"Navish\" on high flat at neck of peninsula — \"one of the most ancient and formidable Indian fortresses south of the Hudson Highlands.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Name:</span> <span style=\"font-size:12px;color:#333;\">Croton from sachem Kenoten = \"wild wind\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Underwater:</span> <span style=\"font-size:12px;color:#333;\">Daria Merwin (SUNY/NYSM) found stone tools in submerged riverbed — landscapes inundated ~2,500 years ago by sea level rise. \"Archaeology is really good at making the invisible visible.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Louis Brennan excavations; Westchester County Parks; Croton Chronicle 2023</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 41.118,
+        "lng": -74.073
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Monsey Glen Rock Shelters</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Lenape / Munsee</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">3,000 years — two distinct occupation periods</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Mini-canyon with steep sandstone walls containing shallow caves carved by stream erosion. Two eras of Algonquin occupation documented.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Artifacts:</span> <span style=\"font-size:12px;color:#333;\">Tools and other artifacts from both periods. Viewable at Trailside Museums, Bear Mountain State Park.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">Monsey Glen County Park, Monsey, Rockland County</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 41.363,
+        "lng": -72.02
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Gungywamp Archaeological Preserve</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Indigenous (specific people unknown) + colonial layers</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">4,000+ years of human presence</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Status:</span> <span style=\"font-size:12px;color:#333;\">Connecticut State Archaeological Preserve (2023); State Register of Historic Places</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Features:</span> <span style=\"font-size:12px;color:#333;\">Stone circles, beehive chambers, eagle petroglyph, equinox-aligned \"calendar chamber\" — sunlight illuminates interior only at equinoxes. Double stone circle of 21 quarried slabs. Lithic pounding tool dated to 1500+ BCE.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Debate:</span> <span style=\"font-size:12px;color:#333;\">Stones not dressed with metal tools (suggests pre-colonial). State Archaeologist: \"root cellars.\" Others: astronomical/ceremonial Indigenous site. Not a typical Euro-American colonial landscape.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Access:</span> <span style=\"font-size:12px;color:#333;\">270 acres. Tours via Denison Pequotsepos Nature Center (especially at equinox).</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Atlas Obscura; Legends of America; DPNC 2023</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcArch",
+      "geometry": {
+        "lat": 41.379,
+        "lng": -72.106
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#C17817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Connecticut College Thames River Sites</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Pequot / Mohegan</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">50+ known Indigenous and settler-colonist burials near Thames River waterfront. Valuable archaeological site accidentally disturbed 2022 when dead ash trees removed.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Response:</span> <span style=\"font-size:12px;color:#333;\">College created archaeologist position (Anthony Graesch). Repatriation of ancestor to Mohegan & Mashantucket Pequot tribes (Nov 2023) after 40 years in URI repository.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Collaboration:</span> <span style=\"font-size:12px;color:#333;\">First summit May 2024 with Mohegan, Mashantucket Pequot, and Eastern Pequot ambassadors</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Connecticut College News 2024</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcReturned",
+      "geometry": {
+        "lat": 42.575,
+        "lng": -73.75
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"18\" height=\"18\"><polygon points=\"9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5\" fill=\"#1B7340\" stroke=\"#222\" stroke-width=\"1\"/></svg>",
+        "iconSize": [
+          18,
+          18
+        ],
+        "iconAnchor": [
+          9,
+          9
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Papscanee Island — RETURNED 2021</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Stockbridge-Munsee Band of Mohican Indians</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">12,000 years of continuous use</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Status:</span> <span style=\"font-size:12px;color:#333;\">★ RETURNED TO MOHICANS May 9, 2021 — after 384 years of colonial/American ownership</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">History:</span> <span style=\"font-size:12px;color:#333;\">Named for Sachem Papsickene. April 13, 1637: heirs signed deed to Dutch merchant Kiliaen Van Rensselaer (payment: duffels, axes, knives, wampum). Open Space Institute purchased 1990s to prevent port expansion. Donated to tribe 2021.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">\"Perhaps the best preserved known late woodland Native village site in New York.\" NRHP eligible. Rich marine resources + most productive agricultural fields in Mohican homeland.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Quote:</span> <span style=\"font-size:12px;color:#333;\">\"Our land is intrinsic to who we are, it's our identity. The greatest gift is to have our land back.\" — Bonney Hartley</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Today:</span> <span style=\"font-size:12px;color:#333;\">156 acres, 3 miles trails, conservation easement, open to public. Turtles in ponds (important in Mohican cosmology).</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Open Space Institute; Albany Times Union 5/9/2021</span></div></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "bhcVillages",
+      "geometry": {
+        "lat": 42.51,
+        "lng": -73.745
+      },
+      "style": {
+        "radius": 8,
+        "fillColor": "#2D6A4F",
+        "color": "#222",
+        "weight": 1.5,
+        "opacity": 0.9,
+        "fillOpacity": 0.85,
+        "pane": "berkPane"
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Schodack Islands — Mohican Capital</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican Confederacy</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through 18th century</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Major Mohican political center — capital of the confederacy. \"Moenemin's Castle\" at Van Schaick Mansion site (confluence of Mohawk & Hudson Rivers).</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Schodack and Papscanee Islands were the two major Mohican village sites in the upper Hudson Valley.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Paul R. Huey 1993; Shirley W. Dunn</span></div></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "bhcVillages",
+      "geometry": {
+        "lat": 42.196,
+        "lng": -73.362
+      },
+      "style": {
+        "radius": 7,
+        "fillColor": "#2D6A4F",
+        "color": "#222",
+        "weight": 1.5,
+        "opacity": 0.9,
+        "fillOpacity": 0.85,
+        "pane": "berkPane"
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Great Barrington — \"Great Wigwam\"</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">One of two Housatonic villages at European contact. Known as the \"Great Wigwam\" — southern anchor of Mohican territory in the Berkshires.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Southern Berkshire Chamber of Commerce; Housatonic Heritage</span></div></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "bhcVillages",
+      "geometry": {
+        "lat": 42.284,
+        "lng": -73.322
+      },
+      "style": {
+        "radius": 7,
+        "fillColor": "#2D6A4F",
+        "color": "#222",
+        "weight": 1.5,
+        "opacity": 0.9,
+        "fillOpacity": 0.85,
+        "pane": "berkPane"
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Stockbridge — Indiantown</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through 1780s</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">History:</span> <span style=\"font-size:12px;color:#333;\">Township negotiated 1730: Mohicans secured 6 miles square on ancestral land. Indian Burial Ground with obelisk still visited (feathers, beads left). Konkapot home site. Old Berkshire Path (Route 7) = major Mohican trail.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Departure:</span> <span style=\"font-size:12px;color:#333;\">1780s: Returning Revolutionary War veterans found land taken. Oneida offered land in western NY. Began \"trail of tears\" westward to Wisconsin.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Housatonic Heritage Trail; Bidwell House Museum</span></div></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "bhcVillages",
+      "geometry": {
+        "lat": 41.535,
+        "lng": -72.075
+      },
+      "style": {
+        "radius": 7,
+        "fillColor": "#2D6A4F",
+        "color": "#222",
+        "weight": 1.5,
+        "opacity": 0.9,
+        "fillOpacity": 0.85,
+        "pane": "berkPane"
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Norwich — Yantic / Thames Confluence</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohegan</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Ancient Mohegan village at mouth of Yantic River where it joins Shetucket to form the Thames (Massapequotuck). Uncas is buried in Norwich. Leffingwell House Museum nearby.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Thames River originally called Pequot River. Renamed 1658 by colonial government to erase Pequot identity.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Mohegan Tribe; Thames River Heritage Park</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcSacred",
+      "geometry": {
+        "lat": 42.245,
+        "lng": -73.33
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,15 1,15\" fill=\"#8B4513\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          14
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Monument Mountain — Wa'thatinik</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Mohican Name:</span> <span style=\"font-size:12px;color:#333;\">Wa'thatinik = \"The Land Beyond the Mountains\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Wawanaquasick (offering place) — Mohican practice of leaving stones to commemorate significant events. Remnants of Mohican pathways survive. Tribal members still make pilgrimages.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Land Return:</span> <span style=\"font-size:12px;color:#333;\">Tribe working to purchase north face (Fenn Farm, 351 acres, $3M). \"We're not the Last of the Mohicans.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Public Access:</span> <span style=\"font-size:12px;color:#333;\">503-acre Trustees of Reservations property. Summit views of Upper Housatonic Valley.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Housatonic Heritage Trail; Berkshire Eagle</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcRockArt",
+      "geometry": {
+        "lat": 41.26,
+        "lng": -74.02
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#E6A817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Harriman State Park Bear Petroglyph</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Lenape / Munsee</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Unknown — bear veneration spans millennia in Northeast</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Black bear looking over its shoulder, incised into boulder along Rocks Trail. \"One of the finest examples of Indigenous rock art in the state.\" 4,300-acre park.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Northeast Indigenous peoples have revered the bear for millennia. The bear is a central figure in Lenape cosmology and ceremonial life.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcRockArt",
+      "geometry": {
+        "lat": 41.917,
+        "lng": -73.912
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,8 8,15 1,8\" fill=\"#E6A817\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Wilderstein Petroglyph</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Sepasco / Esopus</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Figure with headdress believed to represent a shaman. Hard to see on the boulders today. Property named \"Wilderstein\" (German: \"wild man's stone\") in 1852 because of this carving.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Sepasco People:</span> <span style=\"font-size:12px;color:#333;\">Sepasco/Sepascot from sepuus (\"little river\") — watershed of Landsman Kill in Rhinebeck area.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">Wilderstein Historic Site, 330 Morton Rd, Rhinebeck NY</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Mike Adamovic / Hudson Valley History; Wikipedia</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcTrails",
+      "geometry": {
+        "lat": 42.654,
+        "lng": -74.037
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,15 1,15\" fill=\"#4682B4\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          14
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Indian Ladder Trail</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohawk (Haudenosaunee)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Helderberg escarpment west of Albany. Indigenous travelers placed trees against limestone cliff wall and trimmed branches as rungs to ascend the steep cliff. Modern staircase replicates the route.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Geology:</span> <span style=\"font-size:12px;color:#333;\">300-million-year-old fossils visible in limestone walls</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">John Boyd Thacher State Park, near Voorheesville NY</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcTrails",
+      "geometry": {
+        "lat": 41.738,
+        "lng": -74.193
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"16\" height=\"16\"><polygon points=\"8,1 15,15 1,15\" fill=\"#4682B4\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          14
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Shongum Path / Split Rock</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Lenape</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Documented ancient Lenape route across Shawangunk Ridge. 0.8-mile trail follows original path along small stream. \"Shawangunk\" from Lenape phrase = \"in the smoky air.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Landmark:</span> <span style=\"font-size:12px;color:#333;\">Split Rock at trail terminus — iconic natural formation</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">Mohonk Preserve, near West Trapps parking area, Routes 44/55</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcReturned",
+      "geometry": {
+        "lat": 41.448,
+        "lng": -72.1
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"18\" height=\"18\"><polygon points=\"9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5\" fill=\"#1B7340\" stroke=\"#222\" stroke-width=\"1\"/></svg>",
+        "iconSize": [
+          18,
+          18
+        ],
+        "iconAnchor": [
+          9,
+          9
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Fort Shantok — Village of Uncas — RETURNED 1995</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohegan Tribe</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">1636-1682 (principal settlement); pre-contact layers beneath</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Status:</span> <span style=\"font-size:12px;color:#333;\">★ National Historic Landmark 1993 — RETURNED TO MOHEGAN TRIBE 1995 ($3M)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Principal Mohegan settlement under Sachem Uncas. Triangular promontory overlooking Thames River. Intensive wampum manufacturing from quahog clams fueled political rise. Unique Shantok Incised pottery with corn ear and fertility designs.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Archaeology:</span> <span style=\"font-size:12px;color:#333;\">NYU excavations 1960s-70s (Dr. Bert Salwen). One of few places where Native American ceramics survived southern New England's acidic soil.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Today:</span> <span style=\"font-size:12px;color:#333;\">160 acres. Burial ground with 100+ identified graves. Annual Tribal Homecoming, Cultural Week, Wigwam Festival. Free and open to public.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Address:</span> <span style=\"font-size:12px;color:#333;\">75 Gallivan Ln, Uncasville CT</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Mohegan Tribe; Wikipedia; CTMQ</span></div></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "bhcMassacre",
+      "geometry": {
+        "lat": 41.356,
+        "lng": -71.968
+      },
+      "style": {
+        "radius": 9,
+        "fillColor": "#8B0000",
+        "color": "#222",
+        "weight": 1.5,
+        "opacity": 0.9,
+        "fillOpacity": 0.85,
+        "pane": "berkPane"
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Mystic Fort Massacre Site (1637)</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Pequot</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Date:</span> <span style=\"font-size:12px;color:#333;\">May 26, 1637</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Event:</span> <span style=\"font-size:12px;color:#333;\">English forces (Mason & Underhill) + Mohegan (Uncas) + Narragansett attacked Pequot fort at Mystic (Missituk). Fort set ablaze. 400-700 Pequot killed — mostly women, children, elderly.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Aftermath:</span> <span style=\"font-size:12px;color:#333;\">Treaty of Hartford (1638): survivors enslaved, distributed to allied tribes, sent to West Indies. Speaking Pequot language made capital offense. Name \"Pequot\" outlawed.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Pequot numbered ~16,000 pre-war — most densely populated Native people in southern New England. War was first large-scale English-Native conflict in New England.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Legacy:</span> <span style=\"font-size:12px;color:#333;\">Despite attempted erasure, Pequot families endured. Mashantucket Pequot gained federal recognition 1983.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Society of Colonial Wars CT; Wikipedia</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcMuseums",
+      "geometry": {
+        "lat": 42.713,
+        "lng": -73.203
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"14\" height=\"14\"><rect x=\"1\" y=\"1\" width=\"12\" height=\"12\" fill=\"#708090\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Stockbridge-Munsee THPO Office</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Stockbridge-Munsee Band of Mohican Indians</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Established:</span> <span style=\"font-size:12px;color:#333;\">2020 (moved from Troy, NY)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Staff:</span> <span style=\"font-size:12px;color:#333;\">Bonney Hartley (Historic Preservation Manager), Nathan Allison (Historic Preservation Officer)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Mission:</span> <span style=\"font-size:12px;color:#333;\">Coordinate archaeological projects, historical preservation, and tribal reconnection to Berkshire homelands from satellite office in Williamstown.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">BTW Berkshires 2021; Williams College collaboration</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcMuseums",
+      "geometry": {
+        "lat": 41.477,
+        "lng": -71.969
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"14\" height=\"14\"><rect x=\"1\" y=\"1\" width=\"12\" height=\"12\" fill=\"#708090\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Mashantucket Pequot Reservation & Museum</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mashantucket Pequot Tribal Nation</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Recognized:</span> <span style=\"font-size:12px;color:#333;\">1983 (federal); reservation since 1666</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Museum:</span> <span style=\"font-size:12px;color:#333;\">Mashantucket Pequot Museum & Research Center — largest Native American museum in the United States</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Economy:</span> <span style=\"font-size:12px;color:#333;\">Foxwoods Resort Casino (among largest in world)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Population:</span> <span style=\"font-size:12px;color:#333;\">1,100+ enrolled members</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Wikipedia; MPMRC</span></div></div>"
+    },
+    {
+      "type": "marker",
+      "layer": "bhcMuseums",
+      "geometry": {
+        "lat": 41.448,
+        "lng": -72.105
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<svg width=\"14\" height=\"14\"><rect x=\"1\" y=\"1\" width=\"12\" height=\"12\" fill=\"#708090\" stroke=\"#222\" stroke-width=\"1.5\"/></svg>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ],
+        "className": ""
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Mohegan Reservation & Tantaquidgeon Museum</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohegan Tribe</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Recognized:</span> <span style=\"font-size:12px;color:#333;\">1994 (federal)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Museum:</span> <span style=\"font-size:12px;color:#333;\">Tantaquidgeon Museum (est. 1931) — oldest Native American-owned museum in the United States. Founded by Gladys Tantaquidgeon.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Reservation:</span> <span style=\"font-size:12px;color:#333;\">240 acres in Uncasville; Mohegan Sun casino</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Culture:</span> <span style=\"font-size:12px;color:#333;\">Annual Wigwam Festival, Green Corn ceremony tradition maintained</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Mohegan Tribe; Wikipedia</span></div></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "bhcRiverPath",
+      "geometry": [
+        [
+          42.71,
+          -73.21
+        ],
+        [
+          42.63,
+          -73.18
+        ],
+        [
+          42.45,
+          -73.25
+        ],
+        [
+          42.3,
+          -73.3
+        ],
+        [
+          42.24,
+          -73.33
+        ],
+        [
+          42.2,
+          -73.36
+        ],
+        [
+          42.08,
+          -73.35
+        ],
+        [
+          41.97,
+          -73.36
+        ],
+        [
+          41.82,
+          -73.3
+        ],
+        [
+          41.63,
+          -73.24
+        ],
+        [
+          41.47,
+          -73.21
+        ],
+        [
+          41.33,
+          -73.18
+        ],
+        [
+          41.17,
+          -73.12
+        ]
+      ],
+      "style": {
+        "color": "#4A7C59",
+        "weight": 3,
+        "opacity": 0.5,
+        "dashArray": "8,6",
+        "pane": "berkPane"
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Housatonic River — \"Beyond the Mountain Place\"</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Mohican Name:</span> <span style=\"font-size:12px;color:#333;\">Housatonic = \"beyond the mountain place\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Length:</span> <span style=\"font-size:12px;color:#333;\">~149 miles from Pittsfield MA to Long Island Sound</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Central artery of Mohican homeland. \"The Housatonic River has the Mohicans' footprints along the whole length of it.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Threat:</span> <span style=\"font-size:12px;color:#333;\">GE PCB contamination from Pittsfield plant (1932-1977). EPA Rest of River cleanup ongoing. Tribal THPO working with EPA to protect burial sites.</span></div></div>"
+    },
+    {
+      "type": "polyline",
+      "layer": "bhcRiverPath",
+      "geometry": [
+        [
+          41.535,
+          -72.075
+        ],
+        [
+          41.505,
+          -72.08
+        ],
+        [
+          41.47,
+          -72.095
+        ],
+        [
+          41.44,
+          -72.1
+        ],
+        [
+          41.4,
+          -72.1
+        ],
+        [
+          41.365,
+          -72.1
+        ],
+        [
+          41.34,
+          -72.095
+        ]
+      ],
+      "style": {
+        "color": "#2563EB",
+        "weight": 3,
+        "opacity": 0.5,
+        "dashArray": "8,6",
+        "pane": "berkPane"
+      },
+      "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Thames River — Massapequotuck</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Original Name:</span> <span style=\"font-size:12px;color:#333;\">Pequot River / Massapequotuck</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Renamed:</span> <span style=\"font-size:12px;color:#333;\">1658 by Connecticut General Court to erase Pequot identity</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Length:</span> <span style=\"font-size:12px;color:#333;\">15 miles from Norwich to Long Island Sound</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Central corridor of Pequot and Mohegan territory. Wampum manufacturing along brackish waters. \"Highway\" for dugout canoes and prime fishing ground.</span></div></div>"
+    }
+  ]
+}
