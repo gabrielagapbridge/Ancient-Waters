@@ -1,0 +1,133 @@
+{
+  "version": 1,
+
+  "rockArtLayers": [
+    "rockArt", "greatBasinRockArt", "scRockArt", "martisRockArt",
+    "pomoRockArt", "yukiRockArt", "modocRockArt", "wintuRockArt",
+    "maiduRockArt", "plateauRockArt", "mojaveRockArt", "mojaveCeremonial",
+    "hulkuhkuPicto", "diabloCupules", "chumashSacred",
+    "ecaInyoPetro", "ecaLassenPetro", "ecaModocPetro", "ecaMonoPetro", "ecaPlumasPetro",
+    "mainePetro", "mainePickto", "maineStyles",
+    "wampanoagPetro", "tbdRockArt", "ctrRockArt", "bhcRockArt",
+    "nvRockArtPaleo", "nvRockArtArchaic", "nvRockArtFremont", "nvRockArtLate",
+    "spiritRockArt"
+  ],
+
+  "rockArtGroups": {
+    "PCN (Pacific Coast Network)": {
+      "layers": ["rockArt"],
+      "color": "#D32F2F",
+      "description": "Pre-tribal tradition, 3,000–8,000 BP"
+    },
+    "Great Basin": {
+      "layers": ["greatBasinRockArt", "spiritRockArt"],
+      "color": "#FF7043",
+      "description": "Coso, Lagomarsino & Sierra/Western NV"
+    },
+    "Nevada Timeline": {
+      "layers": ["nvRockArtPaleo", "nvRockArtArchaic", "nvRockArtFremont", "nvRockArtLate"],
+      "color": "#FFD600",
+      "description": "Paleoindian through Late Prehistoric"
+    },
+    "South-Central California": {
+      "layers": ["scRockArt", "chumashSacred"],
+      "color": "#FF5722",
+      "description": "Chumash & neighboring traditions"
+    },
+    "Chumash / Hulkuhku": {
+      "layers": ["hulkuhkuPicto"],
+      "color": "#FF6F00",
+      "description": "Robinson 2010 GIS landscape study"
+    },
+    "Northern Sierra": {
+      "layers": ["martisRockArt", "maiduRockArt"],
+      "color": "#FFB300",
+      "description": "Martis Complex / Style 7, 4,000–1,500 BP"
+    },
+    "Eastern California": {
+      "layers": ["ecaInyoPetro", "ecaLassenPetro", "ecaModocPetro", "ecaMonoPetro", "ecaPlumasPetro"],
+      "color": "#E8A87C",
+      "description": "Heizer & Baumhoff 1962 — 60+ sites across 5 counties"
+    },
+    "Diablo Range Cupules": {
+      "layers": ["diabloCupules"],
+      "color": "#8D6E63",
+      "description": "Parkman 1986 — 76+ cupule petroglyph sites"
+    },
+    "Mojave Desert": {
+      "layers": ["mojaveRockArt", "mojaveCeremonial"],
+      "color": "#FF8F00",
+      "description": "Geoglyphs, intaglios & desert rock art"
+    },
+    "Northern California": {
+      "layers": ["pomoRockArt", "yukiRockArt", "modocRockArt", "wintuRockArt"],
+      "color": "#CD853F",
+      "description": "Pomo, Yuki, Modoc & Wintu traditions"
+    },
+    "Columbia Plateau": {
+      "layers": ["plateauRockArt"],
+      "color": "#FFD700",
+      "description": "Eastern Washington rock art"
+    },
+    "Northeast": {
+      "layers": ["tbdRockArt", "ctrRockArt", "bhcRockArt", "mainePetro", "mainePickto", "maineStyles", "wampanoagPetro"],
+      "color": "#4A148C",
+      "description": "Thunderbird motif, CT River, Berkshires, Maine & Wampanoag"
+    }
+  },
+
+  "territoryLayers": {
+    "chumash":    ["hulkuhkuTerritory"],
+    "coastmiwok": ["langTerritories"],
+    "bayohlone":  ["bayMiwokTribelets"],
+    "yokuts":     ["yokutsTerr", "sValleyYokuts", "foothillYokuts", "yokutsNeighbors"],
+    "diablo":     ["diabloTerritory"],
+    "greatbasin": ["numicTerritories", "nvNorthernPaiuteBands", "nvWesternShoshoneBands", "nvSouthernPaiuteBands", "nvWashoeBands", "nvMojaveFortMojave"],
+    "maine":      ["maineTerritory"],
+    "wampanoag":  ["wampanoagTerritory"],
+    "plateau":    ["yakamaTerr", "spokaneTerr", "palouseTerr", "wanapumTerr", "colvilleTerr", "coeurTerr", "kalispelTerr", "nezperceTerr"],
+    "mohican":    ["mohicanTerritory"],
+    "mojave":     ["mojaveTerritories"],
+    "haudenosaunee": ["hdnTerritories"],
+    "wendat":     ["wdtTerritory"],
+    "neutral":    ["ntrTerritory"],
+    "erie":       ["erieTerritory"]
+  },
+
+  "extraCultures": {
+    "haudenosaunee": {
+      "name": "Haudenosaunee Confederacy",
+      "color": "#8B4513",
+      "meta": "Six Nations · Finger Lakes to St. Lawrence",
+      "layers": ["hdnArchSites", "hdnTerritories", "hdnSacredWater", "hdnVillages", "hdnMuseums", "hdnLost", "hdnMohawkSeq", "hdnSenecaSeq", "hdnOnondagaSites", "hdnCayugaSites", "hdnOneidaSites", "hdnNNYI", "hdnStLawrence", "hdnWaterways", "hdnSullivanPath"],
+      "regions": ["haudenosaunee"]
+    },
+    "wendat": {
+      "name": "Wendat Confederacy",
+      "color": "#A0522D",
+      "meta": "Wendake · Southern Ontario · 900–1650 CE",
+      "layers": ["wdtTerritory", "wdtVillages", "wdtOssuaries", "wdtMissions", "wdtDestruction", "wdtWaterways"],
+      "regions": ["wendake"]
+    },
+    "neutral": {
+      "name": "Neutral Nation (Attawandaron)",
+      "color": "#6D4C41",
+      "meta": "Niagara Peninsula & SW Ontario",
+      "layers": ["ntrVillages", "ntrTerritory"],
+      "regions": ["neutral"]
+    },
+    "erie": {
+      "name": "Erie Nation (Erielhonan)",
+      "color": "#5D4037",
+      "meta": "Southern Lake Erie · pre-1656",
+      "layers": ["erieVillages", "erieTerritory"],
+      "regions": ["erie"]
+    }
+  },
+
+  "landscapeLayers": [
+    "ancientRivers", "ancientLakes", "lakeCorcoran",
+    "modernDams", "modernReservoirs", "lostRivers",
+    "modernInfra", "tradeRoutes", "languageZones"
+  ]
+}

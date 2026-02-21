@@ -51,4 +51,10 @@ function onTimeline(val) {
 function setEra(val) {
   document.getElementById('timeline').value = val;
   onTimeline(val);
+  // Notify Time lens if active
+  if (window.AW && AW.engine.getActiveLensId() === 'time' && AW.timeLens) {
+    document.querySelectorAll('.lens-card').forEach(function(c) {
+      c.classList.toggle('selected', parseInt(c.dataset.era) === parseInt(val));
+    });
+  }
 }
