@@ -17,11 +17,10 @@
   var cultureSections = {};    // parsed from DOM
   var lensConfig = null;       // from lens-config.json
 
-  // Base layers: always visible in every lens (water infrastructure)
-  var BASE_LAYERS = [
-    'ancientRivers', 'ancientLakes', 'modernDams',
-    'modernReservoirs', 'lostRivers'
-  ];
+  // Base layers: always visible in every lens.
+  // Empty — all features from 03-water-features.json are SW-specific
+  // and now managed by the Southwest culture section.
+  var BASE_LAYERS = [];
 
   // ---- Public API ----
   var engine = {
