@@ -2851,7 +2851,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -2929,7 +2934,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3033,7 +3043,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3131,7 +3146,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3213,7 +3233,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3290,7 +3315,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3368,7 +3398,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
