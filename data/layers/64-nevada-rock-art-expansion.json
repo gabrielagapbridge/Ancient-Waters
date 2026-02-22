@@ -25,8 +25,12 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": [
         "great_basin_carved_abstract"
       ]
@@ -93,8 +97,12 @@
         "middle_archaic",
         "paleoindian"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -163,8 +171,12 @@
         "early_archaic",
         "middle_archaic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": [
         "basin_and_range",
         "pahranagat"
@@ -194,8 +206,12 @@
         "early_archaic",
         "middle_archaic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": [
         "basin_and_range",
         "great_basin_carved_abstract"
@@ -303,8 +319,12 @@
         "late_archaic",
         "middle_archaic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": [
         "pahranagat"
       ]

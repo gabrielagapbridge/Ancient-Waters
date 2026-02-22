@@ -183,7 +183,14 @@
         "dashArray": "6,4"
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#4FC3F7;margin:0 0 2px\">South Fork Humboldt River</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">~70 mi · Ruby Mountains headwaters · joins Humboldt below Elko</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rises on the western slopes of the <b>Ruby Mountains</b> — Nevada's \"Alps\" — and flows northwest to join the Humboldt ~7 miles below Elko. South Fork Reservoir (1988) impounds part of the river. The <b>South Fork Band of Te-Moak Shoshone</b> takes its name from this waterway. The canyon section inspired John Bidwell (1841) to write of camping where he could <i>\"see nothing but the sky.\"</i></div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Dept. Wildlife; Humboldt River Chronology</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [
         "shoshone"
       ],
@@ -228,7 +235,16 @@
         "dashArray": "6,4"
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#4FC3F7;margin:0 0 2px\">North Fork Humboldt River</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">~70 mi · Independence Mountains · joins Humboldt above Elko</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rises on the northern slopes of <b>McAfee Peak</b> in the Independence Mountains, flowing south ~70 miles through remote north-central Elko County. Often reduced to a trickle by the time it reaches the main Humboldt. The North Fork watershed is extremely remote — home to mining activity in the 1870s, then cattle and sheep ranching. Lahontan cutthroat trout survive in upper reaches.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Wikipedia; Humboldt River Chronology</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -285,7 +301,13 @@
         "dashArray": "6,4"
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#4FC3F7;margin:0 0 2px\">Reese River</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">~175 mi · Arc Dome → Battle Mountain · \"shortest river\" legend</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Reese River</b> flows ~175 miles from <b>Arc Dome</b> (11,773 ft, highest peak in the Toiyabe Range) northward through the Reese River Valley to join the Humboldt near Battle Mountain. For most of its length it's intermittent — dry for months at a time — earning the local joke that it's \"the shortest river in the world\" (visible only at road crossings). But this understates its importance: the <b>Yomba Shoshone</b> lived along the Reese River for centuries. The mining town of <b>Austin</b> sits along its course. The river corridor connects the central Nevada mountain ranges — Toiyabe, Shoshone, and Battle Mountain — and was a major north-south travel route for both indigenous peoples and settlers.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Yomba Shoshone Tribe; NV Water Resources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "shoshone"
       ],
@@ -334,7 +356,16 @@
         "dashArray": "6,4"
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#4FC3F7;margin:0 0 2px\">Little Humboldt River</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern tributary · joins Humboldt above Winnemucca</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Flows southward from the mountains of northern Humboldt County to join the main Humboldt ~5 miles above Winnemucca. <b>Peter Skene Ogden</b> — the first European to see the Humboldt — came south along the Little Humboldt in 1828, encountering the main river at this confluence. He named it the \"Unknown River.\"</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Humboldt River Chronology; Ogden journals</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -508,8 +539,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "washoe"
+      ],
+      "tribes": [
+        "washoe"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1051,8 +1086,12 @@
         "historic",
         "paleoindian"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "moapa_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1194,7 +1233,9 @@
         "paleoindian"
       ],
       "cultures": [],
-      "tribes": [],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1270,7 +1311,12 @@
         "weight": 1.5
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Kyle Springs (Mt. Charleston)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · cool</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Springs on the flanks of <b>Mt. Charleston</b> (11,916 ft) in the Spring Mountains — highest point in the Las Vegas Range. These springs sustained <b>Tudinu</b> (Las Vegas Paiute) during summer when they retreated from the desert heat to the cool mountains. Endemic species: <b>Mt. Charleston blue butterfly</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "paiute"
       ],
@@ -1297,8 +1343,12 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1320,8 +1370,12 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1558,7 +1612,9 @@
         ]
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#EF5350;margin:0 0 2px\">🚫 Rye Patch Dam (1936)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Humboldt River · Built 1936</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Impounds the Humboldt River in Pershing County, creating <b>Rye Patch Reservoir</b> — the largest storage reservoir in the Humboldt River Basin. Stores spring runoff for irrigation in the Lovelock Valley. The dam fundamentally altered the Humboldt's natural flow regime, which historically included spring floods that sustained downstream wetlands. Located near the <b>Lovelock Culture</b> archaeological sites.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Bureau of Reclamation; USGS; NV Water Resources; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []

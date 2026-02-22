@@ -30,7 +30,9 @@
         "paleoindian"
       ],
       "cultures": [],
-      "tribes": [],
+      "tribes": [
+        "palouse"
+      ],
       "rockArtStyles": []
     },
     {
@@ -51,8 +53,17 @@
       "popupOptions": {
         "maxWidth": 450
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "windust"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -106,7 +117,9 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -129,7 +142,9 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -306,8 +321,15 @@
       "popupOptions": {
         "maxWidth": 450
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "plateau"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "petroglyph"
@@ -461,7 +483,9 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [
         "lenape"
       ],

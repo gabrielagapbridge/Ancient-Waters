@@ -99,9 +99,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -199,9 +206,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -300,9 +314,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -397,9 +418,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -493,9 +521,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -600,9 +635,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -693,9 +735,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -794,9 +843,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "northern_paiute"
+      ],
+      "tribes": [
+        "northern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -903,9 +959,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "western_shoshone"
+      ],
+      "tribes": [
+        "western_shoshone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1026,9 +1089,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "western_shoshone"
+      ],
+      "tribes": [
+        "western_shoshone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1124,9 +1194,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "western_shoshone"
+      ],
+      "tribes": [
+        "western_shoshone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1221,9 +1298,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "western_shoshone"
+      ],
+      "tribes": [
+        "western_shoshone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1318,9 +1402,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "western_shoshone"
+      ],
+      "tribes": [
+        "western_shoshone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1425,9 +1516,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "western_shoshone"
+      ],
+      "tribes": [
+        "western_shoshone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1522,9 +1620,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1622,9 +1727,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1715,9 +1827,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1814,9 +1933,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "southern_paiute"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1911,9 +2037,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "washoe"
+      ],
+      "tribes": [
+        "washoe"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2006,9 +2142,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "washoe"
+      ],
+      "tribes": [
+        "washoe"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2111,9 +2257,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "washoe"
+      ],
+      "tribes": [
+        "washoe"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2205,9 +2361,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "mojave"
+      ],
+      "tribes": [
+        "mojave"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2993,8 +3156,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "mojave"
+      ],
+      "tribes": [
+        "mojave"
+      ],
       "rockArtStyles": []
     }
   ]
