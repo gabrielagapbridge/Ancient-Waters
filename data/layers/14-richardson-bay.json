@@ -342,9 +342,15 @@
         "dashArray": "4,6"
       },
       "popup": "<h4>MRN-27 → Historic Marsh Edge</h4>This dashed line shows how far the tidal marsh once extended from the site. Before fill and development, CA-MRN-27 sat directly at the marsh-woodland interface — not 1,500 feet from water as it appears today.",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "coast_miwok"
+      ],
+      "tribes": [
+        "coast_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -366,9 +372,15 @@
         "opacity": 0.6,
         "dashArray": "4,6"
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "coast_miwok"
+      ],
+      "tribes": [
+        "coast_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -390,9 +402,15 @@
         "opacity": 0.6,
         "dashArray": "4,6"
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "coast_miwok"
+      ],
+      "tribes": [
+        "coast_miwok"
+      ],
       "rockArtStyles": []
     }
   ]
