@@ -569,7 +569,10 @@
       "tribes": [
         "ohlone"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "cupule_pit_and_groove"
+      ]
     },
     {
       "type": "marker",
@@ -619,10 +622,21 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "patwin"
+      ],
+      "tribes": [
+        "patwin"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -683,7 +697,9 @@
       "tribes": [
         "pomo"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -826,9 +842,15 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "cultures": [
+        "wailaki"
+      ],
+      "tribes": [
+        "wailaki"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
