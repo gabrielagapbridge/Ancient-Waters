@@ -123,11 +123,5 @@
       "layers": ["erieVillages", "erieTerritory"],
       "regions": ["erie"]
     }
-  },
-
-  "landscapeLayers": [
-    "ancientRivers", "ancientLakes", "lakeCorcoran",
-    "modernDams", "modernReservoirs", "lostRivers",
-    "modernInfra", "tradeRoutes", "languageZones"
-  ]
+  }
 }

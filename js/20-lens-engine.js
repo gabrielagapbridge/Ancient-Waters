@@ -20,7 +20,7 @@
   // Base layers: always visible in every lens (water infrastructure)
   var BASE_LAYERS = [
     'ancientRivers', 'ancientLakes', 'modernDams',
-    'modernReservoirs', 'lostRivers', 'hohokamCanals'
+    'modernReservoirs', 'lostRivers'
   ];
 
   // ---- Public API ----
