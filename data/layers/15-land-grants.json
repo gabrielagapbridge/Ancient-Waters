@@ -375,8 +375,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "coast_miwok"
+      ],
+      "tribes": [
+        "coast_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -615,7 +619,9 @@
         "opacity": 0.8,
         "dashArray": "6,8"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -872,7 +878,9 @@
         "opacity": 0.8,
         "dashArray": "6,8"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -963,8 +971,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1004,8 +1016,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1031,7 +1047,9 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1059,7 +1077,9 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
