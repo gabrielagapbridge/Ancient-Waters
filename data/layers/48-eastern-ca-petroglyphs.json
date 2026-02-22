@@ -345,7 +345,9 @@
         "paiute",
         "shoshone"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -991,7 +993,9 @@
         "shoshone",
         "western_shoshone"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1045,9 +1049,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1070,9 +1085,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1095,9 +1121,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1120,9 +1157,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1145,9 +1193,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1170,9 +1229,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1195,9 +1265,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1220,9 +1301,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1245,9 +1337,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1270,9 +1373,20 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "achumawi"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "achumawi"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -1341,7 +1455,9 @@
       "tribes": [
         "modoc"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",

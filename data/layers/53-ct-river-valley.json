@@ -132,7 +132,10 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Barton Cove — Probable Lost Petroglyphs</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Pocumtuck + multi-tribal · PROBABLE LOST</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Between Millers & Deerfield River outflows, Gill / Turners Falls, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Status:</span> <span style=\"font-size:12px;\">🔴 PROBABLE LOST — submerged by Turners Falls Dam impoundment (Barton Cove). Ledge blasted for construction 1860s–1960s.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Evidence:</span> <span style=\"font-size:12px;\">Local historian Gary Sanderson: \"There was at one time, without question, rock art somewhere near Burnham's Rock and the Flume on the Riverside Gill side.\" Edward Lenik notes petroglyphs cluster near waterfalls and river mouths. Rock art scholar Duncan Caldwell investigated shelf-caves on nearby Sugarloaf.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">What was lost:</span> <span style=\"font-size:12px;\">The section of Connecticut River between Millers and Deerfield outflows was a place of \"high spirit\" — now inundated behind the dam.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "pocumtuck"
       ],
@@ -162,7 +165,13 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">South Hadley Falls — Probable Lost Fishing Site</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Nonotuck + multi-tribal · DAMMED</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Holyoke, MA — now Holyoke Dam site</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Status:</span> <span style=\"font-size:12px;\">🔴 DAMMED — 58-foot drop, largest falls on the Connecticut. Buried under Holyoke Dam. Fish elevator installed.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Significance:</span> <span style=\"font-size:12px;\">Major falls were THE gathering places for millennia. Every major falls on the Connecticut has been dammed. This was likely a significant fishing and ceremonial site comparable to Peskeompskut.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "lenape",
         "nonotuck"
@@ -359,7 +368,12 @@
         "pane": "ctRiverPane"
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Nonotuck</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Nonotuck · \"In the midst of the river\"</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Northampton / Hadley, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">\"In the midst of the river\" — between the Holyoke Range and Mt. Tom Range. Closely allied through kinship, trade, and diplomacy with Agawam, Woronoco, Pocumtuck, and Sokoki. Fort Hills dotted the landscape — elevated palisaded sites for caching supplies and diplomacy.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Colonial impact:</span> <span style=\"font-size:12px;\">English town of Northampton established on Nonotuck land. Scalp bounties later imposed — anyone found within 5 miles of the Connecticut River could be considered hostile.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Interpretation:</span> <span style=\"font-size:12px;\">Historic Northampton — Margaret Bruchac's \"Nonotuck Histories\" essay provides detailed ethnohistory.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "agawam",
         "nonotuck",
@@ -431,7 +445,10 @@
         "pane": "ctRiverPane"
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Woronoco — \"Where the River Winds\"</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Woronoco · Pop. ~1,000 (1634)</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Russell / Westfield, MA — along the Westfield River</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">A palisaded fort community of ~1,000 people in 1634 — one of the largest in the valley. Located where the Westfield River winds through the landscape. Connected to Agawam and Nonotuck by river routes.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Gray Lock:</span> <span style=\"font-size:12px;\">War chief Wawanolewat (\"one who fools the others\") fought in King Philip's War, then led surprise raids from Missisquoi (Swanton, VT) on Northfield, Deerfield, Sunderland, Northampton & Westfield from 1712–1726. Mt. Greylock may be named for him. Descendants now bear the names Wawanolet and Nolet at Odanak, Quebec.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Enslavement deed:</span> <span style=\"font-size:12px;\">Spanesa and Poxonock were forced to sign a mortgage for Woronoco land offering their ~4-year-old daughter to be enslaved if they defaulted.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "agawam",
         "nonotuck",
@@ -491,7 +508,10 @@
         "pane": "ctRiverPane"
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Pyquag / Wethersfield</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Wangunk · Sowheage's original seat</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Wethersfield, CT</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">Sachem Sowheage's original seat of power before English displacement to Mattabesett. Wethersfield settled by English in 1634. Sowheage's animosity toward the English led to the Pequot War attack on Wethersfield in 1637 that killed several colonists and captured two girls.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "pequot",
         "wangunk"
@@ -522,8 +542,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "wangunk"
+      ],
+      "tribes": [
+        "wangunk"
+      ],
       "rockArtStyles": []
     },
     {
@@ -610,7 +634,12 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Rock Dam</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Pocumtuck · Ancient fishing site</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Gill, MA — downstream of Great Falls on the Connecticut River</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">An important sacred fishing site. Local tradition and archaeological evidence suggest deep-history use. One of the most likely places for undiscovered rock art, according to local historians.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pocumtuck"
       ],
@@ -640,7 +669,10 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Cockaponset / Machamoodus</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Wangunk · \"Place of noises\"</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Haddam / Moodus, CT</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">Machamoodus (Moodus) means \"place of noises\" — referring to the Moodus noises, underground rumblings caused by micro-earthquakes along the Higganum Dike fault zone. This natural phenomenon gave the place deep spiritual significance. Wangunk village site.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "wangunk"
       ],
@@ -670,7 +702,10 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Lake Pocotopaug</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Wangunk · Fishing & hunting ground</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">East Hampton, CT — ~9 miles in circumference</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">Frequently used by Wangunk people for fishing and hunting. Many arrowheads found along the banks. Located in what may have been a satellite of the Mattabesett community.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "wangunk"
       ],
@@ -700,7 +735,9 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Schaghticoke (Refuge Village)</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Multi-tribal · Refugee community</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Schaghticoke, NY — at confluence of Hoosic & Hudson Rivers</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">After King Philip's War (1676), Governor Andros invited all displaced Indians to settle at Schaghticoke. Pocumtuck, Nonotuck, Woronoco, Sokoki, and others created a refuge community under colonial oversight. The name derives from pishgachtigok — \"a site at the confluence of two rivers.\" Not to be confused with the Schaghticoke on the Housatonic in CT.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Significance for CT River:</span> <span style=\"font-size:12px;\">Key node in the refugee diaspora corridor — peoples moved between the Connecticut River, Schaghticoke, Missisquoi (VT), and Odanak/St. Francis (Quebec). Family names trace this movement across generations.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact"
+      ],
       "cultures": [
         "nonotuck",
         "pocumtuck",
@@ -766,7 +803,9 @@
         "pane": "ctRiverPane"
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Bloody Brook Ambush — September 12, 1675</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Pocumtuck / Nipmuc · King Philip's War</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">South Deerfield, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Event:</span> <span style=\"font-size:12px;\">English grain convoy ambushed at a small brook while soldiers paused to pick wild grapes — \"dear and deadly grapes they proved to them.\" 64 English killed, including Captain Lathrop. One of the deadliest English losses in King Philip's War.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact"
+      ],
       "cultures": [
         "nipmuc",
         "pocumtuck"
@@ -794,7 +833,9 @@
         "pane": "ctRiverPane"
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Captain Beers Ambush — September 1675</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Sokoki / Pocumtuck · King Philip's War</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Trail to Squakheag, near Northfield, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Event:</span> <span style=\"font-size:12px;\">Captain Beers and his men ambushed on the trail to relieve Squakheag (Northfield). One of the early engagements of King Philip's War in the Connecticut Valley.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact"
+      ],
       "cultures": [
         "pocumtuck",
         "sokoki",
@@ -831,8 +872,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "pocumtuck"
+      ],
+      "tribes": [
+        "pocumtuck"
+      ],
       "rockArtStyles": []
     },
     {
@@ -859,8 +904,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "abenaki"
+      ],
+      "tribes": [
+        "abenaki"
+      ],
       "rockArtStyles": []
     },
     {
@@ -887,8 +936,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "abenaki"
+      ],
+      "tribes": [
+        "abenaki"
+      ],
       "rockArtStyles": []
     },
     {
@@ -912,7 +965,9 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Holyoke Dam (South Hadley Falls)</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Largest falls on the Connecticut · Built 1849</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Holyoke / South Hadley, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Built:</span> <span style=\"font-size:12px;\">1849 (first dam — failed on first fill); rebuilt. 58-foot drop — largest on the Connecticut River.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Impact:</span> <span style=\"font-size:12px;\">Buried South Hadley Falls under impoundment. Fish elevator installed. Powered the industrial city of Holyoke (450+ mills by 1848). Blocked all upstream migration for salmon, shad, herring. Probable major Indigenous fishing/ceremony site lost.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -941,8 +996,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "podunk"
+      ],
+      "tribes": [
+        "podunk"
+      ],
       "rockArtStyles": []
     },
     {
@@ -966,7 +1025,9 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Great Falls Discovery Center</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">State Park · Free admission</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">2 Avenue A, Turners Falls, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">State park in renovated mill buildings. Life-size dioramas of watershed habitats from source to sea. Exhibits on 12,000 years of natural, cultural, and industrial history. Information on the Falls Fight and Indigenous peoples.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Hours:</span> <span style=\"font-size:12px;\">Tue–Sun 10am–4pm (seasonal variations). Guided walks Thu 1pm.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1024,7 +1085,9 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Pocumtuck Valley Memorial Association</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Founded 1870</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Memorial Hall, Deerfield, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">One of the earliest local historical societies in the valley. Collections include Indigenous artifacts from the Deerfield area. Active collecting since the 19th century.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [
         "pocumtuck"
       ],
@@ -1054,7 +1117,9 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Historic Northampton</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Nonotuck histories</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Northampton, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">Margaret Bruchac's \"Nonotuck Histories\" essay hosted here — detailed ethnohistory of the five middle valley communities. Research on the Indigenous landscape of the Northampton area.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [
         "nonotuck"
       ],
@@ -1084,7 +1149,9 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Wood Memorial Library & Museum</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Podunk artifacts collection</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">South Windsor, CT</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">Over 20,000 Indigenous artifacts from the Nowashe / Podunk village site on the South Windsor meadows. Preserved and used for educational purposes by the Friends of Wood Memorial Library & Museum.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [
         "podunk"
       ],
@@ -1114,7 +1181,9 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Nolumbeka Project</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">\"The calm waters between the rapids\"</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Based in the Connecticut River Valley, MA</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">Nonprofit honoring Northeastern tribal heritage. Hosts annual gatherings with Indigenous presenters. Works to protect Wissatinnewag and other ancient multi-tribal village sites. Name means \"the calm waters between the rapids\" in the Pocumtuck language.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Website:</span> <span style=\"font-size:12px;\">nolumbekaproject.org</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [
         "pocumtuck"
       ],
@@ -1216,7 +1285,16 @@
         "pane": "ctRiverPane"
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Kwinitekw — The Long River</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Connecticut River · 410 miles · 12,000+ years of human use</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Indigenous name:</span> <span style=\"font-size:12px;\">Kwinitekw (\"the long river\") — Algonkian. English name \"Connecticut\" from Pequot quinetucket (\"long tidal river\").</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Watershed:</span> <span style=\"font-size:12px;\">11,260 square miles across 5 states and Quebec. 148 tributaries. Provides 70% of Long Island Sound's fresh water.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Dams:</span> <span style=\"font-size:12px;\">16 dams on the main stem (12 hydropower). First full barrier at Turners Falls (1798). Over 1,000 dams on tributaries.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Fish:</span> <span style=\"font-size:12px;\">Salmon once migrated to Bellows Falls. Now blocked by dams. Fish ladders at Holyoke and Turners Falls allow limited passage.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [
         "pequot"
       ],

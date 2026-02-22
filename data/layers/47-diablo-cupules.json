@@ -3305,7 +3305,9 @@
         "yokuts",
         "yuki"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "cupule_pit_and_groove"
+      ]
     }
   ]
 }

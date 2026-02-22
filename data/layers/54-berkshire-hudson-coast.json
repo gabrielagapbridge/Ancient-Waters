@@ -238,8 +238,12 @@
         "late_prehistoric",
         "middle_archaic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "wappinger"
+      ],
+      "tribes": [
+        "wappinger"
+      ],
       "rockArtStyles": []
     },
     {
@@ -263,7 +267,12 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Monsey Glen Rock Shelters</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Lenape / Munsee</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">3,000 years — two distinct occupation periods</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Mini-canyon with steep sandstone walls containing shallow caves carved by stream erosion. Two eras of Algonquin occupation documented.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Artifacts:</span> <span style=\"font-size:12px;color:#333;\">Tools and other artifacts from both periods. Viewable at Trailside Museums, Bear Mountain State Park.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">Monsey Glen County Park, Monsey, Rockland County</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "lenape"
       ],
@@ -293,7 +302,13 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Gungywamp Archaeological Preserve</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Indigenous (specific people unknown) + colonial layers</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">4,000+ years of human presence</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Status:</span> <span style=\"font-size:12px;color:#333;\">Connecticut State Archaeological Preserve (2023); State Register of Historic Places</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Features:</span> <span style=\"font-size:12px;color:#333;\">Stone circles, beehive chambers, eagle petroglyph, equinox-aligned \"calendar chamber\" — sunlight illuminates interior only at equinoxes. Double stone circle of 21 quarried slabs. Lithic pounding tool dated to 1500+ BCE.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Debate:</span> <span style=\"font-size:12px;color:#333;\">Stones not dressed with metal tools (suggests pre-colonial). State Archaeologist: \"root cellars.\" Others: astronomical/ceremonial Indigenous site. Not a typical Euro-American colonial landscape.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Access:</span> <span style=\"font-size:12px;color:#333;\">270 acres. Tours via Denison Pequotsepos Nature Center (especially at equinox).</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Atlas Obscura; Legends of America; DPNC 2023</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "pequot"
       ],
@@ -323,7 +338,10 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Connecticut College Thames River Sites</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Pequot / Mohegan</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">50+ known Indigenous and settler-colonist burials near Thames River waterfront. Valuable archaeological site accidentally disturbed 2022 when dead ash trees removed.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Response:</span> <span style=\"font-size:12px;color:#333;\">College created archaeologist position (Anthony Graesch). Repatriation of ancestor to Mohegan & Mashantucket Pequot tribes (Nov 2023) after 40 years in URI repository.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Collaboration:</span> <span style=\"font-size:12px;color:#333;\">First summit May 2024 with Mohegan, Mashantucket Pequot, and Eastern Pequot ambassadors</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Connecticut College News 2024</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "pequot"
       ],
@@ -477,7 +495,10 @@
         "pane": "berkPane"
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Norwich — Yantic / Thames Confluence</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohegan</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Ancient Mohegan village at mouth of Yantic River where it joins Shetucket to form the Thames (Massapequotuck). Uncas is buried in Norwich. Leffingwell House Museum nearby.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Thames River originally called Pequot River. Renamed 1658 by colonial government to erase Pequot identity.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Mohegan Tribe; Thames River Heritage Park</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "pequot"
       ],
@@ -539,7 +560,12 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Harriman State Park Bear Petroglyph</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Lenape / Munsee</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Unknown — bear veneration spans millennia in Northeast</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Black bear looking over its shoulder, incised into boulder along Rocks Trail. \"One of the finest examples of Indigenous rock art in the state.\" 4,300-acre park.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Northeast Indigenous peoples have revered the bear for millennia. The bear is a central figure in Lenape cosmology and ceremonial life.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "lenape"
       ],
@@ -574,8 +600,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "esopus"
+      ],
+      "tribes": [
+        "esopus"
+      ],
       "rockArtStyles": [
         "petroglyph"
       ]
@@ -638,7 +668,10 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Shongum Path / Split Rock</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Lenape</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Documented ancient Lenape route across Shawangunk Ridge. 0.8-mile trail follows original path along small stream. \"Shawangunk\" from Lenape phrase = \"in the smoky air.\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Landmark:</span> <span style=\"font-size:12px;color:#333;\">Split Rock at trail terminus — iconic natural formation</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">Mohonk Preserve, near West Trapps parking area, Routes 44/55</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "lenape",
         "wangunk"
@@ -673,8 +706,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "mohegan"
+      ],
+      "tribes": [
+        "mohegan"
+      ],
       "rockArtStyles": []
     },
     {
@@ -795,8 +832,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "mohegan"
+      ],
+      "tribes": [
+        "mohegan"
+      ],
       "rockArtStyles": []
     },
     {
@@ -916,7 +957,14 @@
         "pane": "berkPane"
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Thames River — Massapequotuck</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Original Name:</span> <span style=\"font-size:12px;color:#333;\">Pequot River / Massapequotuck</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Renamed:</span> <span style=\"font-size:12px;color:#333;\">1658 by Connecticut General Court to erase Pequot identity</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Length:</span> <span style=\"font-size:12px;color:#333;\">15 miles from Norwich to Long Island Sound</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Central corridor of Pequot and Mohegan territory. Wampum manufacturing along brackish waters. \"Highway\" for dugout canoes and prime fishing ground.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [
         "pequot"
       ],

@@ -644,8 +644,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": [
         "pictograph"
       ]
@@ -673,9 +677,16 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": [
         "pictograph"
       ]
@@ -822,9 +833,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": [
         "pictograph"
       ]
@@ -860,9 +878,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": [
         "pictograph"
       ]
@@ -980,9 +1005,16 @@
       "popupOptions": {
         "maxWidth": 480
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": [
         "pictograph"
       ]
