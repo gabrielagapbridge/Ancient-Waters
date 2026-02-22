@@ -156,7 +156,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -309,7 +314,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -446,7 +456,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -567,7 +582,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -678,7 +698,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -786,7 +811,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -898,7 +928,12 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1016,9 +1051,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1115,9 +1160,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1218,9 +1273,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1325,9 +1390,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1434,9 +1509,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1537,9 +1622,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1642,9 +1737,19 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -3259,8 +3364,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
       "rockArtStyles": []
     },
     {
