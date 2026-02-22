@@ -169,9 +169,15 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": []
     },
     {
@@ -273,9 +279,15 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": []
     },
     {
@@ -301,9 +313,15 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": []
     },
     {
@@ -711,9 +729,15 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": []
     },
     {
@@ -810,8 +834,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
       "rockArtStyles": []
     }
   ]
