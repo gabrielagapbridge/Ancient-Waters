@@ -967,12 +967,10 @@
       ],
       "cultures": [
         "coast_miwok",
-        "lenape",
         "miwok"
       ],
       "tribes": [
         "coast_miwok",
-        "lenape",
         "miwok",
         "ohlone"
       ],
@@ -1538,7 +1536,6 @@
       "cultures": [
         "bay_miwok",
         "coast_miwok",
-        "lenape",
         "miwok",
         "ohlone",
         "yokuts"
@@ -1546,7 +1543,6 @@
       "tribes": [
         "bay_miwok",
         "coast_miwok",
-        "lenape",
         "miwok",
         "ohlone",
         "yokuts"
@@ -1708,12 +1704,10 @@
         "historic"
       ],
       "cultures": [
-        "ohlone",
-        "salinan"
+        "ohlone"
       ],
       "tribes": [
-        "ohlone",
-        "salinan"
+        "ohlone"
       ],
       "rockArtStyles": []
     },
@@ -1783,12 +1777,10 @@
         "historic"
       ],
       "cultures": [
-        "ohlone",
-        "salinan"
+        "ohlone"
       ],
       "tribes": [
-        "ohlone",
-        "salinan"
+        "ohlone"
       ],
       "rockArtStyles": []
     },
@@ -1817,12 +1809,10 @@
         "historic"
       ],
       "cultures": [
-        "ohlone",
-        "salinan"
+        "ohlone"
       ],
       "tribes": [
-        "ohlone",
-        "salinan"
+        "ohlone"
       ],
       "rockArtStyles": []
     },
@@ -2005,8 +1995,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2046,8 +2040,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2074,8 +2072,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2377,8 +2379,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2418,8 +2424,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2446,8 +2456,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2495,12 +2509,10 @@
       ],
       "cultures": [
         "coast_miwok",
-        "lenape",
         "miwok"
       ],
       "tribes": [
         "coast_miwok",
-        "lenape",
         "miwok"
       ],
       "rockArtStyles": []
@@ -2552,12 +2564,10 @@
       ],
       "cultures": [
         "coast_miwok",
-        "lenape",
         "miwok"
       ],
       "tribes": [
         "coast_miwok",
-        "lenape",
         "miwok"
       ],
       "rockArtStyles": []
@@ -2588,12 +2598,10 @@
       ],
       "cultures": [
         "coast_miwok",
-        "lenape",
         "miwok"
       ],
       "tribes": [
         "coast_miwok",
-        "lenape",
         "miwok"
       ],
       "rockArtStyles": []
