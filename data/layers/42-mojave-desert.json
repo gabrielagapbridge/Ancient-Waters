@@ -5,418 +5,2145 @@
     {
       "type": "circle",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 35.0150, "lng": -117.4000},
-      "style": {"radius": 8000, "color": "#1565C0", "fillColor": "#1E88E5", "fillOpacity": 0.20, "weight": 1.5, "opacity": 0.5, "dashArray": "6,4"},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Lake Harper</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave \u00b7 ~45,000\u201340,000 BP \u00b7 Harper Dry Lake</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>upstream-most pluvial lake</b> on the Mojave River system. First basin to receive flow after Victorville \u2014 the river reached Harper Lake ~575,000\u2013475,000 years ago. Highstand sediments date to ~45,000\u201340,000 BP. Part of the chain of interconnected pluvial lakes that defined Paleoindian settlement patterns across the Mojave.<br><br>Today: Harper Dry Lake playa.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Reheis et al. 2007</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 35.015,
+        "lng": -117.4
+      },
+      "style": {
+        "radius": 8000,
+        "color": "#1565C0",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.2,
+        "weight": 1.5,
+        "opacity": 0.5,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Harper</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave · ~45,000–40,000 BP · Harper Dry Lake</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>upstream-most pluvial lake</b> on the Mojave River system. First basin to receive flow after Victorville — the river reached Harper Lake ~575,000–475,000 years ago. Highstand sediments date to ~45,000–40,000 BP. Part of the chain of interconnected pluvial lakes that defined Paleoindian settlement patterns across the Mojave.<br><br>Today: Harper Dry Lake playa.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Reheis et al. 2007</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveLakes",
-      "geometry": [[35.12,-116.82],[35.10,-116.65],[35.05,-116.50],[35.00,-116.38],[34.95,-116.30],[34.90,-116.35],[34.88,-116.48],[34.90,-116.60],[34.93,-116.72],[34.98,-116.80],[35.05,-116.85],[35.12,-116.82]],
-      "style": {"color": "#1565C0", "fillColor": "#1E88E5", "fillOpacity": 0.22, "weight": 1.5, "opacity": 0.55, "dashArray": "6,4"},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Lake Manix</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Barstow \u00b7 ~500,000\u201318,000 BP \u00b7 236 km\u00b2 (91 sq mi) \u00b7 4 sub-basins</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A massive <b>cloverleaf-shaped pluvial lake</b> covering four sub-basins: <b>Coyote, Troy, Afton,</b> and <b>Cady/Manix</b>. For nearly half a million years, this lake dominated the central Mojave landscape. At highstands it reached 543 meters (1,781 ft) elevation.<br><br><b>Lithic artifacts</b> found along its ancient shorelines \u2014 bifaces, disks, flakes, and hammerstones \u2014 are grouped as the <b>\u201cLake Manix Industry.\u201d</b> Some artifacts may be of late Pleistocene age. The controversial <b>Calico Early Man Site</b> sits nearby.<br><br>The lake <b>drained catastrophically</b> when a sill along the Manix fault zone failed, carving <b>Afton Canyon</b> and sending a wall of water downstream to fill Lake Mojave. Today Interstate 40 and Interstate 15 cross the former lake bed.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Reheis et al. \"USGS Open-File Report 2007-1281\"; Sutton 1996; Warren, BLM Cultural Resource Overview</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": [
+        [
+          35.12,
+          -116.82
+        ],
+        [
+          35.1,
+          -116.65
+        ],
+        [
+          35.05,
+          -116.5
+        ],
+        [
+          35.0,
+          -116.38
+        ],
+        [
+          34.95,
+          -116.3
+        ],
+        [
+          34.9,
+          -116.35
+        ],
+        [
+          34.88,
+          -116.48
+        ],
+        [
+          34.9,
+          -116.6
+        ],
+        [
+          34.93,
+          -116.72
+        ],
+        [
+          34.98,
+          -116.8
+        ],
+        [
+          35.05,
+          -116.85
+        ],
+        [
+          35.12,
+          -116.82
+        ]
+      ],
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.22,
+        "weight": 1.5,
+        "opacity": 0.55,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Manix</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Barstow · ~500,000–18,000 BP · 236 km² (91 sq mi) · 4 sub-basins</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A massive <b>cloverleaf-shaped pluvial lake</b> covering four sub-basins: <b>Coyote, Troy, Afton,</b> and <b>Cady/Manix</b>. For nearly half a million years, this lake dominated the central Mojave landscape. At highstands it reached 543 meters (1,781 ft) elevation.<br><br><b>Lithic artifacts</b> found along its ancient shorelines — bifaces, disks, flakes, and hammerstones — are grouped as the <b>“Lake Manix Industry.”</b> Some artifacts may be of late Pleistocene age. The controversial <b>Calico Early Man Site</b> sits nearby.<br><br>The lake <b>drained catastrophically</b> when a sill along the Manix fault zone failed, carving <b>Afton Canyon</b> and sending a wall of water downstream to fill Lake Mojave. Today Interstate 40 and Interstate 15 cross the former lake bed.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Reheis et al. \"USGS Open-File Report 2007-1281\"; Sutton 1996; Warren, BLM Cultural Resource Overview</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 35.00, "lng": -116.55},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#42A5F5;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.7\">LAKE MANIX</div>", "iconSize": [100,14], "iconAnchor": [50,7]}
+      "geometry": {
+        "lat": 35.0,
+        "lng": -116.55
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#42A5F5;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.7\">LAKE MANIX</div>",
+        "iconSize": [
+          100,
+          14
+        ],
+        "iconAnchor": [
+          50,
+          7
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 35.0700, "lng": -116.7550},
-      "style": {"radius": 4, "color": "#42A5F5", "fillColor": "#1E88E5", "fillOpacity": 0.5, "weight": 1},
-      "popup": "<h4 style=\"color:#42A5F5\">Coyote Basin</h4><div style=\"font-size:12px;color:#ccc\">Northern sub-basin of Lake Manix. The Mojave River may have continued draining into Coyote Basin until ~9,000\u20137,500 years ago \u2014 long after the main lake drained.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Reheis et al. 2007; USGS</div>"
+      "geometry": {
+        "lat": 35.07,
+        "lng": -116.755
+      },
+      "style": {
+        "radius": 4,
+        "color": "#42A5F5",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.5,
+        "weight": 1
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">Coyote Basin</h4><div style=\"font-size:12px;color:#ccc\">Northern sub-basin of Lake Manix. The Mojave River may have continued draining into Coyote Basin until ~9,000–7,500 years ago — long after the main lake drained.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Reheis et al. 2007; USGS</div>",
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 34.9200, "lng": -116.5000},
-      "style": {"radius": 4, "color": "#42A5F5", "fillColor": "#1E88E5", "fillOpacity": 0.5, "weight": 1},
-      "popup": "<h4 style=\"color:#42A5F5\">Troy Basin</h4><div style=\"font-size:12px;color:#ccc\">Southern sub-basin of ancient Lake Manix.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Reheis et al. 2007; USGS</div>"
+      "geometry": {
+        "lat": 34.92,
+        "lng": -116.5
+      },
+      "style": {
+        "radius": 4,
+        "color": "#42A5F5",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.5,
+        "weight": 1
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">Troy Basin</h4><div style=\"font-size:12px;color:#ccc\">Southern sub-basin of ancient Lake Manix.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Reheis et al. 2007; USGS</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 35.0400, "lng": -116.3800},
-      "style": {"radius": 4, "color": "#42A5F5", "fillColor": "#1E88E5", "fillOpacity": 0.5, "weight": 1},
-      "popup": "<h4 style=\"color:#42A5F5\">Afton Basin</h4><div style=\"font-size:12px;color:#ccc\">Eastern sub-basin where the catastrophic drainage began, carving Afton Canyon.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Reheis et al. 2007; USGS</div>"
+      "geometry": {
+        "lat": 35.04,
+        "lng": -116.38
+      },
+      "style": {
+        "radius": 4,
+        "color": "#42A5F5",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.5,
+        "weight": 1
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">Afton Basin</h4><div style=\"font-size:12px;color:#ccc\">Eastern sub-basin where the catastrophic drainage began, carving Afton Canyon.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Reheis et al. 2007; USGS</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveLakes",
-      "geometry": [[35.38,-116.12],[35.35,-116.05],[35.28,-116.00],[35.20,-116.02],[35.15,-116.00],[35.10,-116.02],[35.08,-116.08],[35.10,-116.15],[35.15,-116.18],[35.22,-116.15],[35.28,-116.12],[35.33,-116.10],[35.38,-116.12]],
-      "style": {"color": "#1565C0", "fillColor": "#1E88E5", "fillOpacity": 0.22, "weight": 1.5, "opacity": 0.55, "dashArray": "6,4"},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Lake Mojave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Baker/Zzyzx area \u00b7 ~22,000\u20139,000 BP \u00b7 300 km\u00b2 (120 sq mi) \u00b7 Two basins</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>namesake lake of the entire Mojave Desert</b>, covering the Soda Lake (south) and Silver Lake (north) basins. Formed when Lake Manix catastrophically drained downstream through Afton Canyon.<br><br>The <b>Lake Mojave Complex</b> \u2014 the <b>earliest defined cultural tradition in the Mojave</b> \u2014 is named for these lake-dwelling people. <b>Lake Mojave</b> and <b>Silver Lake</b> projectile points have been extensively collected around these shorelines. Paleoindians employed both <b>\u201cwetland transient\u201d</b> and <b>\u201cwetland stable\u201d</b> strategies depending on lake productivity. An ancient cornfield was documented south of Soda Springs (Rasor Ranch area).<br><br>At maximum extent: 300 km\u00b2 with a volume of 7 cubic km. Rarely fills today \u2014 historical lake events occurred in 1916\u201317, 1938\u201339, and 1969.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Warren, BLM; Sutton 1996; Earle, UC eScholarship</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": [
+        [
+          35.38,
+          -116.12
+        ],
+        [
+          35.35,
+          -116.05
+        ],
+        [
+          35.28,
+          -116.0
+        ],
+        [
+          35.2,
+          -116.02
+        ],
+        [
+          35.15,
+          -116.0
+        ],
+        [
+          35.1,
+          -116.02
+        ],
+        [
+          35.08,
+          -116.08
+        ],
+        [
+          35.1,
+          -116.15
+        ],
+        [
+          35.15,
+          -116.18
+        ],
+        [
+          35.22,
+          -116.15
+        ],
+        [
+          35.28,
+          -116.12
+        ],
+        [
+          35.33,
+          -116.1
+        ],
+        [
+          35.38,
+          -116.12
+        ]
+      ],
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.22,
+        "weight": 1.5,
+        "opacity": 0.55,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Mojave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Baker/Zzyzx area · ~22,000–9,000 BP · 300 km² (120 sq mi) · Two basins</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>namesake lake of the entire Mojave Desert</b>, covering the Soda Lake (south) and Silver Lake (north) basins. Formed when Lake Manix catastrophically drained downstream through Afton Canyon.<br><br>The <b>Lake Mojave Complex</b> — the <b>earliest defined cultural tradition in the Mojave</b> — is named for these lake-dwelling people. <b>Lake Mojave</b> and <b>Silver Lake</b> projectile points have been extensively collected around these shorelines. Paleoindians employed both <b>“wetland transient”</b> and <b>“wetland stable”</b> strategies depending on lake productivity. An ancient cornfield was documented south of Soda Springs (Rasor Ranch area).<br><br>At maximum extent: 300 km² with a volume of 7 cubic km. Rarely fills today — historical lake events occurred in 1916–17, 1938–39, and 1969.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Warren, BLM; Sutton 1996; Earle, UC eScholarship</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "early_archaic",
+        "historic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 35.22, "lng": -116.07},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#42A5F5;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.7\">LAKE MOJAVE</div>", "iconSize": [100,14], "iconAnchor": [50,7]}
+      "geometry": {
+        "lat": 35.22,
+        "lng": -116.07
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#42A5F5;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.7\">LAKE MOJAVE</div>",
+        "iconSize": [
+          100,
+          14
+        ],
+        "iconAnchor": [
+          50,
+          7
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 35.5600, "lng": -115.3900},
-      "style": {"radius": 10000, "color": "#1565C0", "fillColor": "#1E88E5", "fillOpacity": 0.18, "weight": 1.5, "opacity": 0.5, "dashArray": "6,4"},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Lake Ivanpah</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave \u00b7 Pleistocene\u2013middle Holocene \u00b7 Unusually long-lived</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Unlike most Mojave pluvial lakes, Lake Ivanpah <b>persisted well into the Holocene</b> under monsoon influence, maintaining water for decades to centuries during high stands. This made it a <b>reliable water source long after other lakes dried</b>.<br><br>Chemehuevi elder <b>Phil Smith</b> described the Ivanpah Valley as containing ancient trails, worship sites, and a <b>triangular stone structure</b> believed to be a centuries-old altar for prayer and offerings.<br><br>Today: Ivanpah Dry Lake. The <b>Ivanpah solar facility</b> nearby has been controversial among tribal groups concerned about cultural site impacts.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996; Chemehuevi Cultural Committee; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.56,
+        "lng": -115.39
+      },
+      "style": {
+        "radius": 10000,
+        "color": "#1565C0",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.18,
+        "weight": 1.5,
+        "opacity": 0.5,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Ivanpah</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave · Pleistocene–middle Holocene · Unusually long-lived</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Unlike most Mojave pluvial lakes, Lake Ivanpah <b>persisted well into the Holocene</b> under monsoon influence, maintaining water for decades to centuries during high stands. This made it a <b>reliable water source long after other lakes dried</b>.<br><br>Chemehuevi elder <b>Phil Smith</b> described the Ivanpah Valley as containing ancient trails, worship sites, and a <b>triangular stone structure</b> believed to be a centuries-old altar for prayer and offerings.<br><br>Today: Ivanpah Dry Lake. The <b>Ivanpah solar facility</b> nearby has been controversial among tribal groups concerned about cultural site impacts.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996; Chemehuevi Cultural Committee; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 35.1200, "lng": -116.3250},
-      "style": {"radius": 6000, "color": "#1565C0", "fillColor": "#1E88E5", "fillOpacity": 0.15, "weight": 1, "opacity": 0.4, "dashArray": "6,4"},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Cronese Lakes (East & West)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Between Barstow & Baker \u00b7 Seasonal/intermittent \u00b7 Mojave River overflow</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Seasonal lakes that received Mojave River overflow during wet periods. The <b>Vanyume (Desert Serrano)</b> had documented archaeological sites at Cronese Lakes. Part of the broader Mojave River drainage system that sustained human habitation for millennia.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 35.12,
+        "lng": -116.325
+      },
+      "style": {
+        "radius": 6000,
+        "color": "#1565C0",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.15,
+        "weight": 1,
+        "opacity": 0.4,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Cronese Lakes (East & West)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Between Barstow & Baker · Seasonal/intermittent · Mojave River overflow</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Seasonal lakes that received Mojave River overflow during wet periods. The <b>Vanyume (Desert Serrano)</b> had documented archaeological sites at Cronese Lakes. Part of the broader Mojave River drainage system that sustained human habitation for millennia.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [
+        "lenape",
+        "serrano"
+      ],
+      "tribes": [
+        "lenape",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveLakes",
-      "geometry": [[34.92,-118.10],[34.90,-117.92],[34.85,-117.85],[34.78,-117.88],[34.75,-117.95],[34.78,-118.08],[34.82,-118.12],[34.88,-118.13],[34.92,-118.10]],
-      "style": {"color": "#1565C0", "fillColor": "#1E88E5", "fillOpacity": 0.18, "weight": 1.5, "opacity": 0.5, "dashArray": "6,4"},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Lake Thompson</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave / Antelope Valley \u00b7 Pleistocene\u2013early Holocene \u00b7 Rosamond Dry Lake area</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A pluvial lake in the western Mojave's Antelope Valley. Home to <b>12,000+ years of habitation</b> \u2014 peoples camped around lake shores from ~8,000\u20136,000 BCE. Related to Great Basin peoples, with evidence of the <b>\u201cShoshonean Wedge\u201d migration ~CE 1000</b>. Extensive projectile points, petroglyphs, pictographs, and bedrock mortars documented around ancient shorelines.<br><br>Today: Rosamond Dry Lake and Rogers Dry Lake (Edwards AFB).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: CA State Parks \"Native American Peoples of the Antelope Valley\"; Stickel 1980, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": [
+        [
+          34.92,
+          -118.1
+        ],
+        [
+          34.9,
+          -117.92
+        ],
+        [
+          34.85,
+          -117.85
+        ],
+        [
+          34.78,
+          -117.88
+        ],
+        [
+          34.75,
+          -117.95
+        ],
+        [
+          34.78,
+          -118.08
+        ],
+        [
+          34.82,
+          -118.12
+        ],
+        [
+          34.88,
+          -118.13
+        ],
+        [
+          34.92,
+          -118.1
+        ]
+      ],
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#1E88E5",
+        "fillOpacity": 0.18,
+        "weight": 1.5,
+        "opacity": 0.5,
+        "dashArray": "6,4"
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Thompson</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave / Antelope Valley · Pleistocene–early Holocene · Rosamond Dry Lake area</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A pluvial lake in the western Mojave's Antelope Valley. Home to <b>12,000+ years of habitation</b> — peoples camped around lake shores from ~8,000–6,000 BCE. Related to Great Basin peoples, with evidence of the <b>“Shoshonean Wedge” migration ~CE 1000</b>. Extensive projectile points, petroglyphs, pictographs, and bedrock mortars documented around ancient shorelines.<br><br>Today: Rosamond Dry Lake and Rogers Dry Lake (Edwards AFB).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: CA State Parks \"Native American Peoples of the Antelope Valley\"; Stickel 1980, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "early_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "shoshone"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLakes",
-      "geometry": {"lat": 34.85, "lng": -118.00},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:8px;color:#42A5F5;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.6\">LAKE THOMPSON</div>", "iconSize": [110,12], "iconAnchor": [55,6]}
+      "geometry": {
+        "lat": 34.85,
+        "lng": -118.0
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:8px;color:#42A5F5;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.6\">LAKE THOMPSON</div>",
+        "iconSize": [
+          110,
+          12
+        ],
+        "iconAnchor": [
+          55,
+          6
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mojaveRiver",
-      "geometry": [[34.2900,-117.2800],[34.3500,-117.2900],[34.4200,-117.3000],[34.5400,-117.3100],[34.5900,-117.2700],[34.6800,-117.1500],[34.7800,-117.0200],[34.8600,-116.8900],[34.9000,-116.7800],[34.9500,-116.6500],[35.0000,-116.5000],[35.0427,-116.3097],[35.0800,-116.2000],[35.1200,-116.1500],[35.1500,-116.0900]],
-      "style": {"color": "#2196F3", "weight": 3, "opacity": 0.7, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Mojave River</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">201 km (125 mi) \u00b7 San Bernardino Mtns to Soda Lake \u00b7 Mostly underground</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>single most important waterway for indigenous habitation in the Mojave Desert</b>. Rising in the San Bernardino Mountains, it flows northeast through the desert, terminating at Soda Lake. Most flow is <b>underground</b> \u2014 surface water appears only at bedrock narrows and gorges.<br><br>The <b>Vanyume (Desert Serrano / Be\u00f1em\u00e9)</b> lived along this river for up to <b>8,000 years</b> in a series of permanent villages. They depended on mesquite groves and riparian resources, exported food downriver, and hosted long-distance traders. Father Garc\u00e9s called it <b>\u201cArroyo de los M\u00e1rtires\u201d</b> (River of the Martyrs) in 1776; later Spaniards named it <b>\u201cR\u00edo de las \u00c1nimas\u201d</b> (Spirit River / River of Lost Souls).<br><br>In the late 18th century, the Vanyume were displaced by Chemehuevi moving westward, and devastated by <b>Spanish missionization (1811\u20131814)</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano of the Mojave River\"; Earle, UC eScholarship; NPS</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": [
+        [
+          34.29,
+          -117.28
+        ],
+        [
+          34.35,
+          -117.29
+        ],
+        [
+          34.42,
+          -117.3
+        ],
+        [
+          34.54,
+          -117.31
+        ],
+        [
+          34.59,
+          -117.27
+        ],
+        [
+          34.68,
+          -117.15
+        ],
+        [
+          34.78,
+          -117.02
+        ],
+        [
+          34.86,
+          -116.89
+        ],
+        [
+          34.9,
+          -116.78
+        ],
+        [
+          34.95,
+          -116.65
+        ],
+        [
+          35.0,
+          -116.5
+        ],
+        [
+          35.0427,
+          -116.3097
+        ],
+        [
+          35.08,
+          -116.2
+        ],
+        [
+          35.12,
+          -116.15
+        ],
+        [
+          35.15,
+          -116.09
+        ]
+      ],
+      "style": {
+        "color": "#2196F3",
+        "weight": 3,
+        "opacity": 0.7,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Mojave River</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">201 km (125 mi) · San Bernardino Mtns to Soda Lake · Mostly underground</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>single most important waterway for indigenous habitation in the Mojave Desert</b>. Rising in the San Bernardino Mountains, it flows northeast through the desert, terminating at Soda Lake. Most flow is <b>underground</b> — surface water appears only at bedrock narrows and gorges.<br><br>The <b>Vanyume (Desert Serrano / Beñemé)</b> lived along this river for up to <b>8,000 years</b> in a series of permanent villages. They depended on mesquite groves and riparian resources, exported food downriver, and hosted long-distance traders. Father Garcés called it <b>“Arroyo de los Mártires”</b> (River of the Martyrs) in 1776; later Spaniards named it <b>“Río de las Ánimas”</b> (Spirit River / River of Lost Souls).<br><br>In the late 18th century, the Vanyume were displaced by Chemehuevi moving westward, and devastated by <b>Spanish missionization (1811–1814)</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano of the Mojave River\"; Earle, UC eScholarship; NPS</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "serrano"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRiver",
-      "geometry": {"lat": 34.75, "lng": -117.05},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:10px;color:#2196F3;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.8\">MOJAVE RIVER</div>", "iconSize": [130,14], "iconAnchor": [65,7]}
+      "geometry": {
+        "lat": 34.75,
+        "lng": -117.05
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:10px;color:#2196F3;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.8\">MOJAVE RIVER</div>",
+        "iconSize": [
+          130,
+          14
+        ],
+        "iconAnchor": [
+          65,
+          7
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveRiver",
-      "geometry": {"lat": 34.5400, "lng": -117.3100},
-      "style": {"radius": 5, "color": "#29B6F6", "fillColor": "#03A9F4", "fillOpacity": 0.8, "weight": 1.5},
-      "popup": "<h4 style=\"color:#29B6F6\">Upper Narrows</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Victorville area \u00b7 Bedrock narrows \u00b7 Perennial surface water</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Where shallow bedrock forces the underground Mojave River to the surface, creating a <b>critical habitation zone</b>. The narrows were a gathering point for indigenous peoples who depended on the river \u2014 one of the few places where water reliably appeared year-round.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Earle, UC eScholarship</div>"
+      "geometry": {
+        "lat": 34.54,
+        "lng": -117.31
+      },
+      "style": {
+        "radius": 5,
+        "color": "#29B6F6",
+        "fillColor": "#03A9F4",
+        "fillOpacity": 0.8,
+        "weight": 1.5
+      },
+      "popup": "<h4 style=\"color:#29B6F6\">Upper Narrows</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Victorville area · Bedrock narrows · Perennial surface water</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Where shallow bedrock forces the underground Mojave River to the surface, creating a <b>critical habitation zone</b>. The narrows were a gathering point for indigenous peoples who depended on the river — one of the few places where water reliably appeared year-round.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Earle, UC eScholarship</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveRiver",
-      "geometry": {"lat": 34.5900, "lng": -117.2700},
-      "style": {"radius": 5, "color": "#29B6F6", "fillColor": "#03A9F4", "fillOpacity": 0.8, "weight": 1.5},
-      "popup": "<h4 style=\"color:#29B6F6\">Lower Narrows</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">North of Victorville \u00b7 Bedrock constriction</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Another bedrock constriction where the Mojave River surfaces. Together with the Upper Narrows, these points created a corridor of reliable surface water that anchored indigenous settlement.</div>"
+      "geometry": {
+        "lat": 34.59,
+        "lng": -117.27
+      },
+      "style": {
+        "radius": 5,
+        "color": "#29B6F6",
+        "fillColor": "#03A9F4",
+        "fillOpacity": 0.8,
+        "weight": 1.5
+      },
+      "popup": "<h4 style=\"color:#29B6F6\">Lower Narrows</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">North of Victorville · Bedrock constriction</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Another bedrock constriction where the Mojave River surfaces. Together with the Upper Narrows, these points created a corridor of reliable surface water that anchored indigenous settlement.</div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRiver",
-      "geometry": {"lat": 35.0427, "lng": -116.3097},
-      "icon": {"factory": "mkIcon", "color": "#00BCD4", "size": 12},
-      "popup": "<h4 style=\"color:#00BCD4\">\ud83c\udfdc\ufe0f Afton Canyon \u2014 \"Grand Canyon of the Mojave\"</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">BLM Area of Critical Environmental Concern \u00b7 Perennial surface water</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Where the Mojave River is <b>forced to the surface by shallow bedrock</b>, creating a year-round riparian corridor of extraordinary importance. The canyon was formed ~25,000 years ago when <b>Lake Manix catastrophically drained</b>, sending a wall of water that carved this gorge through the bedrock.<br><br>One of the only places in the Mojave Desert with <b>permanent surface water</b> \u2014 sustaining cottonwoods, willows, and wildlife. For indigenous peoples, Afton Canyon was a critical waypoint between the Mojave River villages and the Colorado River corridor.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Reheis et al. 2007; NPS \"The Mojave Road\"</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.0427,
+        "lng": -116.3097
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00BCD4",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#00BCD4\">🏜️ Afton Canyon — \"Grand Canyon of the Mojave\"</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">BLM Area of Critical Environmental Concern · Perennial surface water</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Where the Mojave River is <b>forced to the surface by shallow bedrock</b>, creating a year-round riparian corridor of extraordinary importance. The canyon was formed ~25,000 years ago when <b>Lake Manix catastrophically drained</b>, sending a wall of water that carved this gorge through the bedrock.<br><br>One of the only places in the Mojave Desert with <b>permanent surface water</b> — sustaining cottonwoods, willows, and wildlife. For indigenous peoples, Afton Canyon was a critical waypoint between the Mojave River villages and the Colorado River corridor.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Reheis et al. 2007; NPS \"The Mojave Road\"</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveRiver",
-      "geometry": {"lat": 35.1500, "lng": -116.0900},
-      "style": {"radius": 5, "color": "#29B6F6", "fillColor": "#03A9F4", "fillOpacity": 0.8, "weight": 1.5},
-      "popup": "<h4 style=\"color:#29B6F6\">Mojave River Mouth at Soda Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Terminus of the river \u00b7 Junction with Mojave Trail</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Where the Mojave River terminates at Soda Lake \u2014 and where the <b>Mojave Trail from the Colorado River</b> connected with the river corridor. This was the <b>\u201cFork of the Road\u201d</b> where the Mojave Road split from the Old Spanish Trail. A critical crossroads for indigenous trade and travel.</div>"
+      "geometry": {
+        "lat": 35.15,
+        "lng": -116.09
+      },
+      "style": {
+        "radius": 5,
+        "color": "#29B6F6",
+        "fillColor": "#03A9F4",
+        "fillOpacity": 0.8,
+        "weight": 1.5
+      },
+      "popup": "<h4 style=\"color:#29B6F6\">Mojave River Mouth at Soda Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Terminus of the river · Junction with Mojave Trail</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Where the Mojave River terminates at Soda Lake — and where the <b>Mojave Trail from the Colorado River</b> connected with the river corridor. This was the <b>“Fork of the Road”</b> where the Mojave Road split from the Old Spanish Trail. A critical crossroads for indigenous trade and travel.</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 35.1150, "lng": -114.9853},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Piute Spring / Piute Creek</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Perennial spring \u00b7 Desert oasis</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> N\u00fcw\u00fcw\u00fc (Chemehuevi), Pipa Aha Macav (Mohave), Nuwuvi (Southern Paiute)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>first major water stop on the Mojave Trail</b> from the Colorado River. A desert oasis with year-round trees and plants, used by Mojave, Chemehuevi, and Paiute peoples for millennia. Fort Piute was built here in <b>1867</b> by US infantry to control the spring \u2014 military control of springs effectively controlled indigenous movement.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.115,
+        "lng": -114.9853
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Piute Spring / Piute Creek</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Perennial spring · Desert oasis</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Nüwüwü (Chemehuevi), Pipa Aha Macav (Mohave), Nuwuvi (Southern Paiute)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>first major water stop on the Mojave Trail</b> from the Colorado River. A desert oasis with year-round trees and plants, used by Mojave, Chemehuevi, and Paiute peoples for millennia. Fort Piute was built here in <b>1867</b> by US infantry to control the spring — military control of springs effectively controlled indigenous movement.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "lenape",
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "lenape",
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 35.1350, "lng": -115.2100},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Rock Spring</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring \u00b7 Mojave Trail waypoint</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Mojave, Chemehuevi</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Key waypoint on the <b>Mojave Trail</b>. Water flows down large boulders in the Mid Hills area of Mojave National Preserve. The military established an outpost here to secure this water source.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.135,
+        "lng": -115.21
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Rock Spring</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring · Mojave Trail waypoint</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Mojave, Chemehuevi</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Key waypoint on the <b>Mojave Trail</b>. Water flows down large boulders in the Mid Hills area of Mojave National Preserve. The military established an outpost here to secure this water source.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 35.1400, "lng": -115.2400},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Government Holes</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring/well \u00b7 Round Valley</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Mojave Trail travelers</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Vital water supply along the Mojave Road in Round Valley, west of Rock Spring. Noted by <b>Father Garc\u00e9s in 1776</b> during his journey along the Mojave Trail.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.14,
+        "lng": -115.24
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Government Holes</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring/well · Round Valley</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Mojave Trail travelers</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Vital water supply along the Mojave Road in Round Valley, west of Rock Spring. Noted by <b>Father Garcés in 1776</b> during his journey along the Mojave Trail.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 35.1707, "lng": -115.6476},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Marl Spring</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring \u00b7 Ancient oasis</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> N\u00fcw\u00fcw\u00fc (Chemehuevi), Pipa Aha Macav (Mohave)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">An ancient watering hole used by indigenous peoples for millennia. Named by Army Lt. <b>Whipple in 1854</b>. A military outpost operated here 1867\u20131868. Described as a <b>\u201cbeautiful high desert oasis\u201d</b> in the Kelso Mountains area of Mojave National Preserve.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.1707,
+        "lng": -115.6476
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Marl Spring</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring · Ancient oasis</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Nüwüwü (Chemehuevi), Pipa Aha Macav (Mohave)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">An ancient watering hole used by indigenous peoples for millennia. Named by Army Lt. <b>Whipple in 1854</b>. A military outpost operated here 1867–1868. Described as a <b>“beautiful high desert oasis”</b> in the Kelso Mountains area of Mojave National Preserve.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "lenape",
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "lenape",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 35.1431, "lng": -116.1028},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Soda Spring (Zzyzx)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring \u00b7 Soda Lake edge</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Nuwuvi (Southern Paiute), N\u00fcw\u00fcw\u00fc (Chemehuevi)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Spring at the edge of Soda Lake. Small settlements and temporary rancherias were established here. An <b>ancient cornfield</b> was documented south of Soda Springs (Rasor Ranch). Noted by <b>Father Garc\u00e9s in 1776</b>. Now the <b>Desert Studies Center</b> (Cal State system).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.1431,
+        "lng": -116.1028
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Soda Spring (Zzyzx)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural spring · Soda Lake edge</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Nuwuvi (Southern Paiute), Nüwüwü (Chemehuevi)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Spring at the edge of Soda Lake. Small settlements and temporary rancherias were established here. An <b>ancient cornfield</b> was documented south of Soda Springs (Rasor Ranch). Noted by <b>Father Garcés in 1776</b>. Now the <b>Desert Studies Center</b> (Cal State system).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 34.7700, "lng": -115.5500},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Bonanza Spring / Lower Bonanza Springs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Major spring complex \u00b7 Fenner Valley</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Multiple groups</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the <b>largest spring complexes in the Mojave Desert</b>, between the Marble/Providence Mountains and Clipper Mountains. A significant water resource in an otherwise dry landscape. Currently threatened by the proposed <b>Cadiz Groundwater Project</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.77,
+        "lng": -115.55
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Bonanza Spring / Lower Bonanza Springs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Major spring complex · Fenner Valley</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Multiple groups</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the <b>largest spring complexes in the Mojave Desert</b>, between the Marble/Providence Mountains and Clipper Mountains. A significant water resource in an otherwise dry landscape. Currently threatened by the proposed <b>Cadiz Groundwater Project</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 36.4400, "lng": -116.3200},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Ash Meadows</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Major spring complex \u00b7 Deep groundwater</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Nuwuvi (Southern Paiute)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the two most notable springs in the Mojave, fed from deep underground aquifers. Sacred to <b>Southern Paiute</b> peoples. Now <b>Ash Meadows National Wildlife Refuge</b> \u2014 one of the most biodiverse places in the desert with multiple endemic species.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 36.44,
+        "lng": -116.32
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Ash Meadows</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Major spring complex · Deep groundwater</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Nuwuvi (Southern Paiute)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the two most notable springs in the Mojave, fed from deep underground aquifers. Sacred to <b>Southern Paiute</b> peoples. Now <b>Ash Meadows National Wildlife Refuge</b> — one of the most biodiverse places in the desert with multiple endemic species.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 34.1347, "lng": -116.0547},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Oasis of Mara (Twentynine Palms)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural oasis with springs</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Yahaaviatam Marranga'yam (Serrano), later N\u00fcw\u00fcw\u00fc (Chemehuevi)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In the Serrano language, <b>Mara</b> means \"the place of little springs and much grass.\" According to traditional songs, this is <b>the first place where the Serrano lived on Earth</b>. They used deer grass for basket weaving and palm fronds as building material. The Chemehuevi arrived later (~1860s). Today's <b>Twenty-Nine Palms Band of Mission Indians</b> are descendants of the Chemehuevi. Near Joshua Tree NP.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.1347,
+        "lng": -116.0547
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Oasis of Mara (Twentynine Palms)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural oasis with springs</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Yahaaviatam Marranga'yam (Serrano), later Nüwüwü (Chemehuevi)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In the Serrano language, <b>Mara</b> means \"the place of little springs and much grass.\" According to traditional songs, this is <b>the first place where the Serrano lived on Earth</b>. They used deer grass for basket weaving and palm fronds as building material. The Chemehuevi arrived later (~1860s). Today's <b>Twenty-Nine Palms Band of Mission Indians</b> are descendants of the Chemehuevi. Near Joshua Tree NP.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 34.5800, "lng": -117.4300},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Topiabit / Adelanto Springs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural springs \u00b7 Permanent village</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Yahaaviatam Marranga'yam (Serrano-Vanyume)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Site of a <b>permanent village</b> occupied for the last ~1,000 years. ~25 structures (circular huts). Artifacts: shell pendants, beads, bone awls, metates, manos, clay pipe, mortar, bone whistle, abalone shell, arrow straightener. Located on the ancient <b>Mohave-Chemehuevi trade trail</b> from the Colorado River to the Pacific Coast.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.58,
+        "lng": -117.43
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Topiabit / Adelanto Springs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Natural springs · Permanent village</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Yahaaviatam Marranga'yam (Serrano-Vanyume)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Site of a <b>permanent village</b> occupied for the last ~1,000 years. ~25 structures (circular huts). Artifacts: shell pendants, beads, bone awls, metates, manos, clay pipe, mortar, bone whistle, abalone shell, arrow straightener. Located on the ancient <b>Mohave-Chemehuevi trade trail</b> from the Colorado River to the Pacific Coast.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 35.0900, "lng": -115.1600},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Indian Well</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Old well \u00b7 Mojave Trail waypoint</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Mojave Trail travelers</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Waypoint on the Mojave Trail between Piute Spring and Rock Spring, near Indian Hill in Lanfair Valley, Mojave National Preserve.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.09,
+        "lng": -115.16
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Indian Well</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Old well · Mojave Trail waypoint</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Mojave Trail travelers</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Waypoint on the Mojave Trail between Piute Spring and Rock Spring, near Indian Hill in Lanfair Valley, Mojave National Preserve.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe",
+        "paiute"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSprings",
-      "geometry": {"lat": 35.4000, "lng": -117.6000},
-      "icon": {"factory": "mkIcon", "color": "#00ACC1", "size": 10},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83d\udca7 Squaw Spring / Blackwater Well</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Desert springs \u00b7 Red Mountain area</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Multiple groups</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological sites documented by Kaldenberg (1978, 1981). <b>Squaw Spring Well Archaeological District.</b> Multiple periods of occupation in the western Mojave near Red Mountain.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.4,
+        "lng": -117.6
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00ACC1",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">💧 Squaw Spring / Blackwater Well</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Desert springs · Red Mountain area</div><div style=\"font-size:11px;color:#80DEEA;margin-bottom:4px\"><b>Homelands of:</b> Multiple groups</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological sites documented by Kaldenberg (1978, 1981). <b>Squaw Spring Well Archaeological District.</b> Multiple periods of occupation in the western Mojave near Red Mountain.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Mojave National Preserve; BLM; Earle, \"The Mojave River and the Central Mojave Desert\"; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveColorado",
-      "geometry": [[35.30,-114.70],[35.20,-114.55],[35.05,-114.55],[34.95,-114.58],[34.85,-114.55],[34.70,-114.50],[34.55,-114.48],[34.40,-114.45],[34.25,-114.42],[34.10,-114.40],[34.10,-114.55],[34.25,-114.58],[34.40,-114.60],[34.55,-114.62],[34.70,-114.65],[34.85,-114.68],[35.05,-114.70],[35.20,-114.72],[35.30,-114.70]],
-      "style": {"color": "#1565C0", "fillColor": "#0D47A1", "fillOpacity": 0.12, "weight": 2, "opacity": 0.5},
-      "popup": "<h4 style=\"color:#42A5F5\">\ud83c\udf0a Mojave Territory \u2014 Colorado River Corridor</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~120 miles along both banks \u00b7 4,000+ years of floodplain agriculture</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>agricultural heartland</b> of the Mojave Desert's indigenous peoples. The name \"Mojave\" derives from the Mohave people's self-designation: <b>Pipa Aha Macav \u2014 \"The People By The River.\"</b> Their spirit mentor <b>Mutavilya</b> is said to have created the Colorado River, its plants and animals.<br><br>Pre-dam, the Colorado was wide and braided with annual spring floods from Rocky Mountain snowmelt that deposited rich silt on floodplains. The Mojave practiced <b>floodplain farming for 4,000+ years</b> \u2014 corn, melons, pumpkins, beans, sunflowers, squash, gourds, tobacco, cotton. ~3,000 people at Spanish contact \u2014 the <b>largest concentration of people in the Southwest</b>.<br><br>Settlement pattern: <b>\"Line villages\"</b> \u2014 sprawling settlements scattered in clusters along bottomlands.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Colorado River Indian Tribes; Sutton 1996</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": [
+        [
+          35.3,
+          -114.7
+        ],
+        [
+          35.2,
+          -114.55
+        ],
+        [
+          35.05,
+          -114.55
+        ],
+        [
+          34.95,
+          -114.58
+        ],
+        [
+          34.85,
+          -114.55
+        ],
+        [
+          34.7,
+          -114.5
+        ],
+        [
+          34.55,
+          -114.48
+        ],
+        [
+          34.4,
+          -114.45
+        ],
+        [
+          34.25,
+          -114.42
+        ],
+        [
+          34.1,
+          -114.4
+        ],
+        [
+          34.1,
+          -114.55
+        ],
+        [
+          34.25,
+          -114.58
+        ],
+        [
+          34.4,
+          -114.6
+        ],
+        [
+          34.55,
+          -114.62
+        ],
+        [
+          34.7,
+          -114.65
+        ],
+        [
+          34.85,
+          -114.68
+        ],
+        [
+          35.05,
+          -114.7
+        ],
+        [
+          35.2,
+          -114.72
+        ],
+        [
+          35.3,
+          -114.7
+        ]
+      ],
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#0D47A1",
+        "fillOpacity": 0.12,
+        "weight": 2,
+        "opacity": 0.5
+      },
+      "popup": "<h4 style=\"color:#42A5F5\">🌊 Mojave Territory — Colorado River Corridor</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~120 miles along both banks · 4,000+ years of floodplain agriculture</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>agricultural heartland</b> of the Mojave Desert's indigenous peoples. The name \"Mojave\" derives from the Mohave people's self-designation: <b>Pipa Aha Macav — \"The People By The River.\"</b> Their spirit mentor <b>Mutavilya</b> is said to have created the Colorado River, its plants and animals.<br><br>Pre-dam, the Colorado was wide and braided with annual spring floods from Rocky Mountain snowmelt that deposited rich silt on floodplains. The Mojave practiced <b>floodplain farming for 4,000+ years</b> — corn, melons, pumpkins, beans, sunflowers, squash, gourds, tobacco, cotton. ~3,000 people at Spanish contact — the <b>largest concentration of people in the Southwest</b>.<br><br>Settlement pattern: <b>\"Line villages\"</b> — sprawling settlements scattered in clusters along bottomlands.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Colorado River Indian Tribes; Sutton 1996</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mojaveColorado",
-      "geometry": [[35.40,-114.68],[35.20,-114.62],[35.05,-114.60],[34.95,-114.62],[34.85,-114.60],[34.70,-114.55],[34.55,-114.52],[34.40,-114.50],[34.25,-114.48],[34.10,-114.45],[33.97,-114.43],[33.80,-114.50],[33.62,-114.55]],
-      "style": {"color": "#1565C0", "weight": 3.5, "opacity": 0.6}
+      "geometry": [
+        [
+          35.4,
+          -114.68
+        ],
+        [
+          35.2,
+          -114.62
+        ],
+        [
+          35.05,
+          -114.6
+        ],
+        [
+          34.95,
+          -114.62
+        ],
+        [
+          34.85,
+          -114.6
+        ],
+        [
+          34.7,
+          -114.55
+        ],
+        [
+          34.55,
+          -114.52
+        ],
+        [
+          34.4,
+          -114.5
+        ],
+        [
+          34.25,
+          -114.48
+        ],
+        [
+          34.1,
+          -114.45
+        ],
+        [
+          33.97,
+          -114.43
+        ],
+        [
+          33.8,
+          -114.5
+        ],
+        [
+          33.62,
+          -114.55
+        ]
+      ],
+      "style": {
+        "color": "#1565C0",
+        "weight": 3.5,
+        "opacity": 0.6
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveColorado",
-      "geometry": {"lat": 34.8700, "lng": -114.6000},
-      "style": {"radius": 7, "color": "#FF8F00", "fillColor": "#FFA726", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<h4 style=\"color:#FFA726\">\ud83c\udfd8\ufe0f Fort Mojave Reservation</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Needles area \u00b7 ~32,713 acres \u00b7 AZ/CA/NV</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Located in the <b>first floodplain valley on the Lower Colorado River</b>. The dominant feature is the Colorado River, and most of the reservation is in the historic floodplain. The Fort was established in <b>1859</b>; closed in 1891 and converted to a boarding school \u2014 one of many tools of forced assimilation. Modern archaeological interpretations indicate the <b>Mohave have lived along the Colorado River for 12,000+ years</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; mojaveindiantribe.com</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.87,
+        "lng": -114.6
+      },
+      "style": {
+        "radius": 7,
+        "color": "#FF8F00",
+        "fillColor": "#FFA726",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<h4 style=\"color:#FFA726\">🏘️ Fort Mojave Reservation</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Needles area · ~32,713 acres · AZ/CA/NV</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Located in the <b>first floodplain valley on the Lower Colorado River</b>. The dominant feature is the Colorado River, and most of the reservation is in the historic floodplain. The Fort was established in <b>1859</b>; closed in 1891 and converted to a boarding school — one of many tools of forced assimilation. Modern archaeological interpretations indicate the <b>Mohave have lived along the Colorado River for 12,000+ years</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; mojaveindiantribe.com</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mojaveColorado",
-      "geometry": {"lat": 33.9700, "lng": -114.4300},
-      "style": {"radius": 7, "color": "#FF8F00", "fillColor": "#FFA726", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<h4 style=\"color:#FFA726\">\ud83c\udfd8\ufe0f Colorado River Indian Reservation</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~300,000 acres \u00b7 AZ & CA \u00b7 Est. 1865</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Established <b>1865</b> for \"Indians of the Colorado River and its tributaries.\" Originally occupied by <b>Mohave and Chemehuevi</b>. Villages and significant cultural sites are evident along river trails, marked by petroglyphs and geoglyphs.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Colorado River Indian Tribes; tentribespartnership.org</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 33.97,
+        "lng": -114.43
+      },
+      "style": {
+        "radius": 7,
+        "color": "#FF8F00",
+        "fillColor": "#FFA726",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<h4 style=\"color:#FFA726\">🏘️ Colorado River Indian Reservation</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~300,000 acres · AZ & CA · Est. 1865</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Established <b>1865</b> for \"Indians of the Colorado River and its tributaries.\" Originally occupied by <b>Mohave and Chemehuevi</b>. Villages and significant cultural sites are evident along river trails, marked by petroglyphs and geoglyphs.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Colorado River Indian Tribes; tentribespartnership.org</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveVillages",
-      "geometry": {"lat": 34.5800, "lng": -117.4300},
-      "icon": {"factory": "mkIcon", "color": "#FF8F00", "size": 10},
-      "popup": "<h4 style=\"color:#FF8F00\">\ud83c\udfd8\ufe0f Topiabit (Topipabit) Rancheria</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Serrano-Vanyume \u00b7 Adelanto Springs</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">~25 circular hut structures on the <b>Mohave-Chemehuevi trade trail</b>. Artifacts indicate trade with distant regions \u2014 Nevada \"Lost Cities\" pottery parallels. Shell pendants, bone awls, metates, clay pipe, abalone shell, arrow straightener.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.58,
+        "lng": -117.43
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#FF8F00",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">🏘️ Topiabit (Topipabit) Rancheria</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Serrano-Vanyume · Adelanto Springs</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">~25 circular hut structures on the <b>Mohave-Chemehuevi trade trail</b>. Artifacts indicate trade with distant regions — Nevada \"Lost Cities\" pottery parallels. Shell pendants, bone awls, metates, clay pipe, abalone shell, arrow straightener.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveVillages",
-      "geometry": {"lat": 34.9500, "lng": -114.6200},
-      "icon": {"factory": "mkIcon", "color": "#FF8F00", "size": 10},
-      "popup": "<h4 style=\"color:#FF8F00\">\ud83c\udfd8\ufe0f Mojave Villages (Center)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Pipa Aha Macav (Mohave) \u00b7 Colorado River</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Line villages</b> stretching ~120 miles along both banks of the Colorado. 4,000+ years of floodplain agriculture. Starting point of the <b>Mojave Trail</b> to the Pacific coast. Housing: brush and mesquite log structures, flat-topped shade ramadas for most of year.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.95,
+        "lng": -114.62
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#FF8F00",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">🏘️ Mojave Villages (Center)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Pipa Aha Macav (Mohave) · Colorado River</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Line villages</b> stretching ~120 miles along both banks of the Colorado. 4,000+ years of floodplain agriculture. Starting point of the <b>Mojave Trail</b> to the Pacific coast. Housing: brush and mesquite log structures, flat-topped shade ramadas for most of year.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveVillages",
-      "geometry": {"lat": 34.1347, "lng": -116.0547},
-      "icon": {"factory": "mkIcon", "color": "#FF8F00", "size": 10},
-      "popup": "<h4 style=\"color:#FF8F00\">\ud83c\udfd8\ufe0f Oasis of Mara Village</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Serrano (original), later Chemehuevi</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">According to Serrano traditional songs, <b>the first place where the Serrano lived on Earth</b>. In Serrano language, <b>Mara</b> = \"the place of little springs and much grass.\"</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.1347,
+        "lng": -116.0547
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#FF8F00",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">🏘️ Oasis of Mara Village</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Serrano (original), later Chemehuevi</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">According to Serrano traditional songs, <b>the first place where the Serrano lived on Earth</b>. In Serrano language, <b>Mara</b> = \"the place of little springs and much grass.\"</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveVillages",
-      "geometry": {"lat": 35.1431, "lng": -116.1028},
-      "icon": {"factory": "mkIcon", "color": "#FF8F00", "size": 10},
-      "popup": "<h4 style=\"color:#FF8F00\">\ud83c\udfd8\ufe0f Soda Springs Rancherias</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Paiute, Chemehuevi \u00b7 Soda Spring</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Temporary rancherias and small settlements at Soda Spring. An <b>ancient cornfield</b> documented nearby (Rasor Ranch area).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.1431,
+        "lng": -116.1028
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#FF8F00",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">🏘️ Soda Springs Rancherias</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Paiute, Chemehuevi · Soda Spring</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Temporary rancherias and small settlements at Soda Spring. An <b>ancient cornfield</b> documented nearby (Rasor Ranch area).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "mojave_tribe",
+        "paiute",
+        "serrano"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "paiute",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveVillages",
-      "geometry": {"lat": 34.8000, "lng": -118.1000},
-      "icon": {"factory": "mkIcon", "color": "#FF8F00", "size": 10},
-      "popup": "<h4 style=\"color:#FF8F00\">\ud83c\udfd8\ufe0f Antelope Valley Lake Shore Camps</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Multiple peoples \u00b7 12,000+ years</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>12,000+ years of habitation.</b> Peoples camped around ancient lake shores from ~8,000\u20136,000 BCE. Earliest peoples from the Hokan linguistic family, later Uto-Aztecan groups. Extensive projectile points, petroglyphs, pictographs, bedrock mortars.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.8,
+        "lng": -118.1
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#FF8F00",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">🏘️ Antelope Valley Lake Shore Camps</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Multiple peoples · 12,000+ years</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>12,000+ years of habitation.</b> Peoples camped around ancient lake shores from ~8,000–6,000 BCE. Earliest peoples from the Hokan linguistic family, later Uto-Aztecan groups. Extensive projectile points, petroglyphs, pictographs, bedrock mortars.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano\"; Warren, BLM; Fort Mojave Indian Tribe; CA State Parks</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSacred",
-      "geometry": {"lat": 33.8000, "lng": -114.5300},
-      "icon": {"factory": "mkIcon", "color": "#AB47BC", "size": 11},
-      "popup": "<h4 style=\"color:#CE93D8\">\u2726 Blythe Intaglios</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Giant geoglyphs \u00b7 Colorado River \u00b7 450\u20132,000 years old \u00b7 NRHP 1982</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Giant geoglyphs on the desert floor near the Colorado River \u2014 <b>six figures in three locations</b>, the largest human figure <b>171 feet long</b>. Radiocarbon dates range 900 BCE to 1200 CE.<br><br>According to <b>Mohave and Quechan</b> oral tradition, the human figures represent <b>Mastamho, the Creator of all life</b>. Animal figures represent <b>Hatakulya</b>, a mountain lion being who helped in Creation. Ceremonial dances were held in the area to honor creation. The river was central to their spiritual and everyday life.<br><br>BLM fenced the site in 1974 after vehicle damage. Listed on the <b>National Register of Historic Places</b> in 1982.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM \"Blythe Intaglios\"; NPS; Fort Mojave Indian Tribe</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 33.8,
+        "lng": -114.53
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#AB47BC",
+        "size": 11
+      },
+      "popup": "<h4 style=\"color:#CE93D8\">✦ Blythe Intaglios</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Giant geoglyphs · Colorado River · 450–2,000 years old · NRHP 1982</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Giant geoglyphs on the desert floor near the Colorado River — <b>six figures in three locations</b>, the largest human figure <b>171 feet long</b>. Radiocarbon dates range 900 BCE to 1200 CE.<br><br>According to <b>Mohave and Quechan</b> oral tradition, the human figures represent <b>Mastamho, the Creator of all life</b>. Animal figures represent <b>Hatakulya</b>, a mountain lion being who helped in Creation. Ceremonial dances were held in the area to honor creation. The river was central to their spiritual and everyday life.<br><br>BLM fenced the site in 1974 after vehicle damage. Listed on the <b>National Register of Historic Places</b> in 1982.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM \"Blythe Intaglios\"; NPS; Fort Mojave Indian Tribe</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSacred",
-      "geometry": {"lat": 35.4200, "lng": -114.7400},
-      "icon": {"factory": "mkIcon", "color": "#AB47BC", "size": 11},
-      "popup": "<h4 style=\"color:#CE93D8\">\u2726 Spirit Mountain (Avi Kwa Ame)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Sacred mountain \u00b7 Newberry Mtns \u00b7 CA-NV border \u00b7 Origin place of the Mojave</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Mojave <b>trace their earthly origins to Spirit Mountain</b>. The Mojave, Hopi, and Chemehuevi still sing ancient songs that help spirits of deceased loved ones navigate the landscape around this mountain.<br><br>Active effort to establish as <b>national monument (443,671 acres proposed)</b>. One of the most spiritually significant sites in the southwestern desert \u2014 a place of creation, passage, and ongoing cultural practice.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; NPS; Honor Avi Kwa Ame coalition</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.42,
+        "lng": -114.74
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#AB47BC",
+        "size": 11
+      },
+      "popup": "<h4 style=\"color:#CE93D8\">✦ Spirit Mountain (Avi Kwa Ame)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Sacred mountain · Newberry Mtns · CA-NV border · Origin place of the Mojave</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Mojave <b>trace their earthly origins to Spirit Mountain</b>. The Mojave, Hopi, and Chemehuevi still sing ancient songs that help spirits of deceased loved ones navigate the landscape around this mountain.<br><br>Active effort to establish as <b>national monument (443,671 acres proposed)</b>. One of the most spiritually significant sites in the southwestern desert — a place of creation, passage, and ongoing cultural practice.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; NPS; Honor Avi Kwa Ame coalition</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "hopi",
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "hopi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSacred",
-      "geometry": {"lat": 34.7100, "lng": -114.5100},
-      "icon": {"factory": "mkIcon", "color": "#AB47BC", "size": 11},
-      "popup": "<h4 style=\"color:#CE93D8\">\u2726 Topock Maze / Mojave Maze</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Geoglyph (debated) \u00b7 Colorado River near Topock</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A complex arrangement of cleared pathways and rock alignments near the Colorado River at Topock. The site's function is debated \u2014 interpretations range from ceremonial maze to astronomical alignment to trail marker. Sacred to the <b>Mojave people</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Fort Mojave Indian Tribe</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 34.71,
+        "lng": -114.51
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#AB47BC",
+        "size": 11
+      },
+      "popup": "<h4 style=\"color:#CE93D8\">✦ Topock Maze / Mojave Maze</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Geoglyph (debated) · Colorado River near Topock</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A complex arrangement of cleared pathways and rock alignments near the Colorado River at Topock. The site's function is debated — interpretations range from ceremonial maze to astronomical alignment to trail marker. Sacred to the <b>Mojave people</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Fort Mojave Indian Tribe</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSacred",
-      "geometry": {"lat": 35.2056, "lng": -115.8721},
-      "icon": {"factory": "mkPetroIcon", "color": "#EF5350", "size": 10},
-      "popup": "<h4 style=\"color:#EF5350\">Seventeen Mile Point Petroglyphs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave National Preserve \u00b7 1,000+ years \u00b7 Rock art</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph panels in the Mojave National Preserve, documenting over 1,000 years of indigenous spiritual and cultural expression in the desert landscape.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS; BLM</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 35.2056,
+        "lng": -115.8721
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#EF5350",
+        "size": 10
+      },
+      "popup": "<h4 style=\"color:#EF5350\">Seventeen Mile Point Petroglyphs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave National Preserve · 1,000+ years · Rock art</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph panels in the Mojave National Preserve, documenting over 1,000 years of indigenous spiritual and cultural expression in the desert landscape.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS; BLM</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveArch",
-      "geometry": {"lat": 34.9500, "lng": -116.7800},
-      "icon": {"factory": "mkIcon", "color": "#EF5350", "size": 9},
-      "popup": "<h4 style=\"color:#EF5350\">\ud83d\udd2c Calico Early Man Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Lake Manix \u00b7 Controversial \u00b7 Possibly 100,000+ BP</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the most <b>controversial archaeological sites in North America</b>. Located near the ancient shores of Lake Manix, the site was championed by famed archaeologist <b>Louis Leakey</b> who believed lithic artifacts here were human-made tools dating to over 100,000 years ago \u2014 far earlier than any accepted evidence of humans in the Americas.<br><br>Most archaeologists consider the \"artifacts\" to be naturally fractured stones (<b>geofacts</b>). The debate continues, but Calico remains important for the questions it raises about earliest human presence in the New World.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996; Warren, BLM; Wikipedia \"Calico Early Man Site\"</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.95,
+        "lng": -116.78
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#EF5350",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#EF5350\">🔬 Calico Early Man Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Lake Manix · Controversial · Possibly 100,000+ BP</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the most <b>controversial archaeological sites in North America</b>. Located near the ancient shores of Lake Manix, the site was championed by famed archaeologist <b>Louis Leakey</b> who believed lithic artifacts here were human-made tools dating to over 100,000 years ago — far earlier than any accepted evidence of humans in the Americas.<br><br>Most archaeologists consider the \"artifacts\" to be naturally fractured stones (<b>geofacts</b>). The debate continues, but Calico remains important for the questions it raises about earliest human presence in the New World.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996; Warren, BLM; Wikipedia \"Calico Early Man Site\"</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mojaveTrail",
-      "geometry": [[34.9500,-114.6200],[35.0000,-114.7500],[35.1150,-114.9853],[35.0900,-115.1600],[35.1350,-115.2100],[35.1400,-115.2400],[35.1707,-115.6476],[35.2056,-115.8721],[35.1431,-116.1028],[35.1500,-116.0900],[35.0427,-116.3097],[34.8600,-116.8900],[34.5400,-117.3100],[34.2900,-117.2800]],
-      "style": {"color": "#D4760A", "weight": 2.5, "opacity": 0.7, "dashArray": "10,6"},
-      "popup": "<h4 style=\"color:#FFB74D\">\ud83d\udee4\ufe0f The Mojave Trail</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Colorado River to Pacific Coast \u00b7 ~200 miles \u00b7 Spring-to-spring route</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The great <b>indigenous trade route</b> connecting the Colorado River Mojave villages to the Pacific Coast, traveling spring-to-spring across the desert. Used for <b>thousands of years</b> by Mojave, Chemehuevi, and other peoples for trade, warfare, and cultural exchange.<br><br>Key waypoints: <b>Piute Spring \u2192 Indian Well \u2192 Rock Spring \u2192 Government Holes \u2192 Marl Spring \u2192 Soda Spring \u2192 Afton Canyon \u2192 Mojave River corridor \u2192 San Bernardino Mountains \u2192 Coast</b>.<br><br>Father <b>Garc\u00e9s</b> traveled this trail in 1776; <b>Jedediah Smith</b> followed it in 1826. The US military built forts at springs along the route (1859+) \u2014 controlling water to control indigenous movement. Later became the <b>Mojave Road</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS \"The Mojave Road & The Old Spanish Trail\"; Earle, UC eScholarship; BLM</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": [
+        [
+          34.95,
+          -114.62
+        ],
+        [
+          35.0,
+          -114.75
+        ],
+        [
+          35.115,
+          -114.9853
+        ],
+        [
+          35.09,
+          -115.16
+        ],
+        [
+          35.135,
+          -115.21
+        ],
+        [
+          35.14,
+          -115.24
+        ],
+        [
+          35.1707,
+          -115.6476
+        ],
+        [
+          35.2056,
+          -115.8721
+        ],
+        [
+          35.1431,
+          -116.1028
+        ],
+        [
+          35.15,
+          -116.09
+        ],
+        [
+          35.0427,
+          -116.3097
+        ],
+        [
+          34.86,
+          -116.89
+        ],
+        [
+          34.54,
+          -117.31
+        ],
+        [
+          34.29,
+          -117.28
+        ]
+      ],
+      "style": {
+        "color": "#D4760A",
+        "weight": 2.5,
+        "opacity": 0.7,
+        "dashArray": "10,6"
+      },
+      "popup": "<h4 style=\"color:#FFB74D\">🛤️ The Mojave Trail</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Colorado River to Pacific Coast · ~200 miles · Spring-to-spring route</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The great <b>indigenous trade route</b> connecting the Colorado River Mojave villages to the Pacific Coast, traveling spring-to-spring across the desert. Used for <b>thousands of years</b> by Mojave, Chemehuevi, and other peoples for trade, warfare, and cultural exchange.<br><br>Key waypoints: <b>Piute Spring → Indian Well → Rock Spring → Government Holes → Marl Spring → Soda Spring → Afton Canyon → Mojave River corridor → San Bernardino Mountains → Coast</b>.<br><br>Father <b>Garcés</b> traveled this trail in 1776; <b>Jedediah Smith</b> followed it in 1826. The US military built forts at springs along the route (1859+) — controlling water to control indigenous movement. Later became the <b>Mojave Road</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS \"The Mojave Road & The Old Spanish Trail\"; Earle, UC eScholarship; BLM</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "paiute"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveTerritories",
-      "geometry": [[35.40,-114.90],[35.30,-114.50],[35.10,-114.40],[34.90,-114.45],[34.70,-114.40],[34.50,-114.35],[34.30,-114.35],[34.10,-114.35],[34.10,-114.80],[34.30,-114.85],[34.50,-114.90],[34.70,-114.95],[34.90,-115.00],[35.10,-115.00],[35.30,-114.95],[35.40,-114.90]],
-      "style": {"color": "#E65100", "fillColor": "#E65100", "fillOpacity": 0.08, "weight": 1.5, "opacity": 0.4, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#FF8F00\">Mojave (Pipa Aha Macav) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">\"The People By The River\" \u00b7 Colorado River \u00b7 Both banks, ~120 miles</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Colorado River<br><b>Water Use:</b> Floodplain agriculture (4,000+ years), fishing, reed raft travel<br><b>Sacred Water Site:</b> Spirit Mountain (Avi Kwa Ame) \u2014 origin place<br><br>Their spirit mentor <b>Mutavilya</b> is said to have created the Colorado River, its plants and animals. The cultural ancestor is the <b>Hakatayan / Lowland Patayan</b> archaeological culture.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Sutton 1996</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": [
+        [
+          35.4,
+          -114.9
+        ],
+        [
+          35.3,
+          -114.5
+        ],
+        [
+          35.1,
+          -114.4
+        ],
+        [
+          34.9,
+          -114.45
+        ],
+        [
+          34.7,
+          -114.4
+        ],
+        [
+          34.5,
+          -114.35
+        ],
+        [
+          34.3,
+          -114.35
+        ],
+        [
+          34.1,
+          -114.35
+        ],
+        [
+          34.1,
+          -114.8
+        ],
+        [
+          34.3,
+          -114.85
+        ],
+        [
+          34.5,
+          -114.9
+        ],
+        [
+          34.7,
+          -114.95
+        ],
+        [
+          34.9,
+          -115.0
+        ],
+        [
+          35.1,
+          -115.0
+        ],
+        [
+          35.3,
+          -114.95
+        ],
+        [
+          35.4,
+          -114.9
+        ]
+      ],
+      "style": {
+        "color": "#E65100",
+        "fillColor": "#E65100",
+        "fillOpacity": 0.08,
+        "weight": 1.5,
+        "opacity": 0.4,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">Mojave (Pipa Aha Macav) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">\"The People By The River\" · Colorado River · Both banks, ~120 miles</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Colorado River<br><b>Water Use:</b> Floodplain agriculture (4,000+ years), fishing, reed raft travel<br><b>Sacred Water Site:</b> Spirit Mountain (Avi Kwa Ame) — origin place<br><br>Their spirit mentor <b>Mutavilya</b> is said to have created the Colorado River, its plants and animals. The cultural ancestor is the <b>Hakatayan / Lowland Patayan</b> archaeological culture.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Sutton 1996</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveTerritories",
-      "geometry": {"lat": 34.80, "lng": -114.65},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:10px;color:#FF8F00;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.6\">PIPA AHA MACAV</div>", "iconSize": [150,14], "iconAnchor": [75,7]}
+      "geometry": {
+        "lat": 34.8,
+        "lng": -114.65
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:10px;color:#FF8F00;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.6\">PIPA AHA MACAV</div>",
+        "iconSize": [
+          150,
+          14
+        ],
+        "iconAnchor": [
+          75,
+          7
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveTerritories",
-      "geometry": [[35.80,-115.80],[35.70,-115.10],[35.50,-114.90],[35.20,-115.00],[34.90,-115.10],[34.60,-115.50],[34.40,-115.80],[34.40,-116.50],[34.60,-116.80],[34.90,-116.90],[35.20,-116.50],[35.50,-116.10],[35.80,-115.80]],
-      "style": {"color": "#00897B", "fillColor": "#00897B", "fillOpacity": 0.06, "weight": 1.5, "opacity": 0.35, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#4DB6AC\">Chemehuevi (N\u00fcw\u00fcw\u00fc) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave desert interior \u00b7 Between Colorado & Mojave rivers</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Desert springs, seasonal water sources, later Colorado River shoreline<br><b>Water Use:</b> Hunter-gatherer adaptation to springs; later farming at Colorado River<br><br>Considered an <b>endangered people</b> \u2014 language nearly extinct. The <b>Twenty-Nine Palms Band</b> and <b>Chemehuevi Indian Tribe at Lake Havasu</b> preserve culture. Expanded westward in the late 18th century, displacing the Vanyume along the Mojave River.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Chemehuevi Cultural Committee; Sutton 1996; Earle</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": [
+        [
+          35.8,
+          -115.8
+        ],
+        [
+          35.7,
+          -115.1
+        ],
+        [
+          35.5,
+          -114.9
+        ],
+        [
+          35.2,
+          -115.0
+        ],
+        [
+          34.9,
+          -115.1
+        ],
+        [
+          34.6,
+          -115.5
+        ],
+        [
+          34.4,
+          -115.8
+        ],
+        [
+          34.4,
+          -116.5
+        ],
+        [
+          34.6,
+          -116.8
+        ],
+        [
+          34.9,
+          -116.9
+        ],
+        [
+          35.2,
+          -116.5
+        ],
+        [
+          35.5,
+          -116.1
+        ],
+        [
+          35.8,
+          -115.8
+        ]
+      ],
+      "style": {
+        "color": "#00897B",
+        "fillColor": "#00897B",
+        "fillOpacity": 0.06,
+        "weight": 1.5,
+        "opacity": 0.35,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#4DB6AC\">Chemehuevi (Nüwüwü) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave desert interior · Between Colorado & Mojave rivers</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Desert springs, seasonal water sources, later Colorado River shoreline<br><b>Water Use:</b> Hunter-gatherer adaptation to springs; later farming at Colorado River<br><br>Considered an <b>endangered people</b> — language nearly extinct. The <b>Twenty-Nine Palms Band</b> and <b>Chemehuevi Indian Tribe at Lake Havasu</b> preserve culture. Expanded westward in the late 18th century, displacing the Vanyume along the Mojave River.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Chemehuevi Cultural Committee; Sutton 1996; Earle</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveTerritories",
-      "geometry": {"lat": 35.10, "lng": -115.80},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#4DB6AC;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.5\">N\u00dcW\u00dcW\u00dc</div>", "iconSize": [100,14], "iconAnchor": [50,7]}
+      "geometry": {
+        "lat": 35.1,
+        "lng": -115.8
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#4DB6AC;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.5\">NÜWÜWÜ</div>",
+        "iconSize": [
+          100,
+          14
+        ],
+        "iconAnchor": [
+          50,
+          7
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveTerritories",
-      "geometry": [[35.20,-116.50],[35.10,-116.00],[34.90,-116.20],[34.70,-116.70],[34.50,-117.00],[34.35,-117.30],[34.45,-117.50],[34.65,-117.40],[34.85,-117.20],[35.00,-116.90],[35.20,-116.50]],
-      "style": {"color": "#795548", "fillColor": "#795548", "fillOpacity": 0.06, "weight": 1.5, "opacity": 0.35, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#A1887F\">Vanyume / Desert Serrano (Be\u00f1em\u00e9) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River corridor \u00b7 Barstow to Victorville</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Mojave River<br><b>Water Use:</b> Mesquite exploitation, riparian resources, hosting trade<br><br>Lived along the Mojave River for up to <b>8,000 years</b> in permanent villages. <b>Devastated by Spanish missionization (1811\u20131814)</b> and displaced by Chemehuevi in the 1820s. <b>Language extinct.</b> One of the least documented peoples of California \u2014 their story is one of almost complete erasure.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano of the Mojave River\"; Pacific Coast Archaeological Society Quarterly</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": [
+        [
+          35.2,
+          -116.5
+        ],
+        [
+          35.1,
+          -116.0
+        ],
+        [
+          34.9,
+          -116.2
+        ],
+        [
+          34.7,
+          -116.7
+        ],
+        [
+          34.5,
+          -117.0
+        ],
+        [
+          34.35,
+          -117.3
+        ],
+        [
+          34.45,
+          -117.5
+        ],
+        [
+          34.65,
+          -117.4
+        ],
+        [
+          34.85,
+          -117.2
+        ],
+        [
+          35.0,
+          -116.9
+        ],
+        [
+          35.2,
+          -116.5
+        ]
+      ],
+      "style": {
+        "color": "#795548",
+        "fillColor": "#795548",
+        "fillOpacity": 0.06,
+        "weight": 1.5,
+        "opacity": 0.35,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#A1887F\">Vanyume / Desert Serrano (Beñemé) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River corridor · Barstow to Victorville</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Mojave River<br><b>Water Use:</b> Mesquite exploitation, riparian resources, hosting trade<br><br>Lived along the Mojave River for up to <b>8,000 years</b> in permanent villages. <b>Devastated by Spanish missionization (1811–1814)</b> and displaced by Chemehuevi in the 1820s. <b>Language extinct.</b> One of the least documented peoples of California — their story is one of almost complete erasure.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, \"The Desert Serrano of the Mojave River\"; Pacific Coast Archaeological Society Quarterly</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "serrano"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveTerritories",
-      "geometry": {"lat": 34.75, "lng": -116.85},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#A1887F;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.5\">BE\u00d1EM\u00c9</div>", "iconSize": [80,14], "iconAnchor": [40,7]}
+      "geometry": {
+        "lat": 34.75,
+        "lng": -116.85
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#A1887F;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.5\">BEÑEMÉ</div>",
+        "iconSize": [
+          80,
+          14
+        ],
+        "iconAnchor": [
+          40,
+          7
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveTerritories",
-      "geometry": [[34.45,-117.50],[34.35,-117.30],[34.20,-117.10],[34.05,-116.80],[34.00,-116.50],[34.00,-116.10],[34.15,-116.00],[34.30,-116.20],[34.35,-116.60],[34.40,-117.00],[34.45,-117.50]],
-      "style": {"color": "#558B2F", "fillColor": "#558B2F", "fillOpacity": 0.06, "weight": 1.5, "opacity": 0.35, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#8BC34A\">Serrano (Yahaaviatam Marranga'yam) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">\"Mountain Dwellers\" \u00b7 San Bernardino Mtns & adjacent desert</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Mountain streams, upper Mojave River, desert springs<br><b>Water Use:</b> Village sweathouses near streams; acorn/pi\u00f1on processing<br><b>Sacred Water Site:</b> Oasis of Mara \u2014 \"the first place the Serrano lived on Earth\"<br><br>The Serrano occupied the higher elevations of the San Bernardino Mountains and extended into the desert at key spring sites like the Oasis of Mara at Twentynine Palms.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Joshua Tree; Bean 1978; Kroeber 1925</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": [
+        [
+          34.45,
+          -117.5
+        ],
+        [
+          34.35,
+          -117.3
+        ],
+        [
+          34.2,
+          -117.1
+        ],
+        [
+          34.05,
+          -116.8
+        ],
+        [
+          34.0,
+          -116.5
+        ],
+        [
+          34.0,
+          -116.1
+        ],
+        [
+          34.15,
+          -116.0
+        ],
+        [
+          34.3,
+          -116.2
+        ],
+        [
+          34.35,
+          -116.6
+        ],
+        [
+          34.4,
+          -117.0
+        ],
+        [
+          34.45,
+          -117.5
+        ]
+      ],
+      "style": {
+        "color": "#558B2F",
+        "fillColor": "#558B2F",
+        "fillOpacity": 0.06,
+        "weight": 1.5,
+        "opacity": 0.35,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#8BC34A\">Serrano (Yahaaviatam Marranga'yam) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">\"Mountain Dwellers\" · San Bernardino Mtns & adjacent desert</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Mountain streams, upper Mojave River, desert springs<br><b>Water Use:</b> Village sweathouses near streams; acorn/piñon processing<br><b>Sacred Water Site:</b> Oasis of Mara — \"the first place the Serrano lived on Earth\"<br><br>The Serrano occupied the higher elevations of the San Bernardino Mountains and extended into the desert at key spring sites like the Oasis of Mara at Twentynine Palms.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Joshua Tree; Bean 1978; Kroeber 1925</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveTerritories",
-      "geometry": {"lat": 34.22, "lng": -116.65},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#8BC34A;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.5\">YAHAAVIATAM</div>", "iconSize": [110,14], "iconAnchor": [55,7]}
+      "geometry": {
+        "lat": 34.22,
+        "lng": -116.65
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:9px;color:#8BC34A;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1px;opacity:0.5\">YAHAAVIATAM</div>",
+        "iconSize": [
+          110,
+          14
+        ],
+        "iconAnchor": [
+          55,
+          7
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mojaveTerritories",
-      "geometry": [[35.00,-118.50],[34.95,-118.00],[34.80,-117.80],[34.65,-117.80],[34.55,-118.00],[34.55,-118.30],[34.65,-118.50],[34.80,-118.60],[35.00,-118.50]],
-      "style": {"color": "#6D4C41", "fillColor": "#6D4C41", "fillOpacity": 0.06, "weight": 1.5, "opacity": 0.35, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#BCAAA4\">Kitanemuk Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave \u00b7 Antelope Valley</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Occupied the western Mojave Desert including much of <b>Antelope Valley</b>. Related to the Serrano language family. Lived around the ancient lake shores of Lake Thompson and relied on pi\u00f1on nuts, acorns, and small game.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; CA State Parks</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": [
+        [
+          35.0,
+          -118.5
+        ],
+        [
+          34.95,
+          -118.0
+        ],
+        [
+          34.8,
+          -117.8
+        ],
+        [
+          34.65,
+          -117.8
+        ],
+        [
+          34.55,
+          -118.0
+        ],
+        [
+          34.55,
+          -118.3
+        ],
+        [
+          34.65,
+          -118.5
+        ],
+        [
+          34.8,
+          -118.6
+        ],
+        [
+          35.0,
+          -118.5
+        ]
+      ],
+      "style": {
+        "color": "#6D4C41",
+        "fillColor": "#6D4C41",
+        "fillOpacity": 0.06,
+        "weight": 1.5,
+        "opacity": 0.35,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#BCAAA4\">Kitanemuk Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave · Antelope Valley</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Occupied the western Mojave Desert including much of <b>Antelope Valley</b>. Related to the Serrano language family. Lived around the ancient lake shores of Lake Thompson and relied on piñon nuts, acorns, and small game.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; CA State Parks</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
       "layer": "mojaveTerritories",
-      "geometry": {"lat": 35.35, "lng": -118.20},
-      "style": {"radius": 30000, "color": "#5D4037", "fillColor": "#5D4037", "fillOpacity": 0.05, "weight": 1, "opacity": 0.3, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#A1887F\">Kawaiisu Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northwestern Mojave \u00b7 Tehachapi & Piute Mtns</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Springs in the Tehachapi and Piute Mountains<br>Hunter-gatherers of the northwestern Mojave Desert, speaking a Numic language related to Southern Paiute.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Zigmond 1986</div>",
-      "popupOptions": {"maxWidth": 350}
+      "geometry": {
+        "lat": 35.35,
+        "lng": -118.2
+      },
+      "style": {
+        "radius": 30000,
+        "color": "#5D4037",
+        "fillColor": "#5D4037",
+        "fillOpacity": 0.05,
+        "weight": 1,
+        "opacity": 0.3,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#A1887F\">Kawaiisu Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northwestern Mojave · Tehachapi & Piute Mtns</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Primary Water:</b> Springs in the Tehachapi and Piute Mountains<br>Hunter-gatherers of the northwestern Mojave Desert, speaking a Numic language related to Southern Paiute.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Zigmond 1986</div>",
+      "popupOptions": {
+        "maxWidth": 350
+      },
+      "timePeriods": [],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
       "layer": "mojaveTerritories",
-      "geometry": {"lat": 35.80, "lng": -115.50},
-      "style": {"radius": 45000, "color": "#3E2723", "fillColor": "#3E2723", "fillOpacity": 0.05, "weight": 1, "opacity": 0.3, "dashArray": "8,4"},
-      "popup": "<h4 style=\"color:#BCAAA4\">Southern Paiute (Nuwuvi) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern/northeastern Mojave \u00b7 Into Nevada & Utah</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Southern Paiute (<b>Nuwuvi</b>) occupied the eastern and northeastern Mojave Desert extending deep into Nevada, Utah, and Arizona. They maintained sacred connections to <b>Ash Meadows</b> and other spring complexes in the eastern Mojave. The Nuwuvi environmental stewardship tradition emphasizes caring for springs, mountains, and trails.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS; Nuwuvi Working Group; Stoffle et al.</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 35.8,
+        "lng": -115.5
+      },
+      "style": {
+        "radius": 45000,
+        "color": "#3E2723",
+        "fillColor": "#3E2723",
+        "fillOpacity": 0.05,
+        "weight": 1,
+        "opacity": 0.3,
+        "dashArray": "8,4"
+      },
+      "popup": "<h4 style=\"color:#BCAAA4\">Southern Paiute (Nuwuvi) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern/northeastern Mojave · Into Nevada & Utah</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Southern Paiute (<b>Nuwuvi</b>) occupied the eastern and northeastern Mojave Desert extending deep into Nevada, Utah, and Arizona. They maintained sacred connections to <b>Ash Meadows</b> and other spring complexes in the eastern Mojave. The Nuwuvi environmental stewardship tradition emphasizes caring for springs, mountains, and trails.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS; Nuwuvi Working Group; Stoffle et al.</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

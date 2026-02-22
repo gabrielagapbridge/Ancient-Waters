@@ -5,172 +5,820 @@
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 35.4597, "lng": -114.7278},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#E040FB 30%,#AB47BC 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #E040FB88;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
-      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">\u2726 Avi Kwa Ame \u2014 The Center of All Creation</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spirit Mountain \u00b7 5,642 ft \u00b7 National Monument (2023) \u00b7 506,814 acres</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\n<b>The spiritual axis of the Mojave world.</b> For the Pipa Aha Macav and all Yuman-speaking peoples, this is where humanity was created \u2014 where the first people emerged into this world. Tribal elders called it <b>\u201cthe place where shamans dream.\u201d</b><br><br>\n<b>The Dream Connection:</b> Mojave religion holds that all power, knowledge, and skill come through dreams. Avi Kwa Ame is the ultimate dreaming place \u2014 the origin point of all spiritual power. The mountain is caretaken by the Fort Mojave Tribe on behalf of <b>12 tribal nations</b>: ten Yuman-speaking tribes plus the Hopi and Southern Paiute.<br><br>\n<b>Landscape as Temple:</b> The surrounding peaks, canyons, springs, and trails are all physically and spiritually connected to Avi Kwa Ame through what tribal leaders describe as a viewshed of sacred geography. The mountain doesn't stand alone \u2014 it anchors an entire network of sacred sites connected by ancient trails and song lines.<br><br>\n<b>Ongoing Practice:</b> \"When I walk near Spirit Mountain, I am not just a person walking towards the mountain, I am part of it.\" \u2014 Paul Jackson, Fort Mojave elder & artist\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Honor Avi Kwa Ame; Paul Jackson, Conservation Lands Foundation; Sacred Land Film Project</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 35.4597,
+        "lng": -114.7278
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#E040FB 30%,#AB47BC 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #E040FB88;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">✦ Avi Kwa Ame — The Center of All Creation</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spirit Mountain · 5,642 ft · National Monument (2023) · 506,814 acres</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\n<b>The spiritual axis of the Mojave world.</b> For the Pipa Aha Macav and all Yuman-speaking peoples, this is where humanity was created — where the first people emerged into this world. Tribal elders called it <b>“the place where shamans dream.”</b><br><br>\n<b>The Dream Connection:</b> Mojave religion holds that all power, knowledge, and skill come through dreams. Avi Kwa Ame is the ultimate dreaming place — the origin point of all spiritual power. The mountain is caretaken by the Fort Mojave Tribe on behalf of <b>12 tribal nations</b>: ten Yuman-speaking tribes plus the Hopi and Southern Paiute.<br><br>\n<b>Landscape as Temple:</b> The surrounding peaks, canyons, springs, and trails are all physically and spiritually connected to Avi Kwa Ame through what tribal leaders describe as a viewshed of sacred geography. The mountain doesn't stand alone — it anchors an entire network of sacred sites connected by ancient trails and song lines.<br><br>\n<b>Ongoing Practice:</b> \"When I walk near Spirit Mountain, I am not just a person walking towards the mountain, I am part of it.\" — Paul Jackson, Fort Mojave elder & artist\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Honor Avi Kwa Ame; Paul Jackson, Conservation Lands Foundation; Sacred Land Film Project</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "hopi",
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "hopi",
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 35.9800, "lng": -114.7400},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#E040FB 30%,#AB47BC 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #E040FB88;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
-      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">\u2726 First House of Mutavilya \u2014 Black Canyon</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern boundary of Mojave territory \u00b7 Near Hoover Dam \u00b7 Creation site</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe tall rock pillars of Black Canyon are the <b>First House of Mutavilya</b> \u2014 the Mojave creator spirit who made the Colorado River, its plants, animals, and instructed the Pipa Aha Macav in the arts of civilization. His brother <b>Mastamho</b> taught the people how to farm the floodplains.<br><br>\nThis marks the <b>northern spiritual boundary</b> of Mojave territory. From here, their sacred geography extends south along the Colorado River for over 100 miles, anchored by Spirit Mountain and the river corridor.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Wikipedia (Mohave people); Kroeber</div>\n</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 35.98,
+        "lng": -114.74
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#E040FB 30%,#AB47BC 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #E040FB88;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">✦ First House of Mutavilya — Black Canyon</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Northern boundary of Mojave territory · Near Hoover Dam · Creation site</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe tall rock pillars of Black Canyon are the <b>First House of Mutavilya</b> — the Mojave creator spirit who made the Colorado River, its plants, animals, and instructed the Pipa Aha Macav in the arts of civilization. His brother <b>Mastamho</b> taught the people how to farm the floodplains.<br><br>\nThis marks the <b>northern spiritual boundary</b> of Mojave territory. From here, their sacred geography extends south along the Colorado River for over 100 miles, anchored by Spirit Mountain and the river corridor.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Wikipedia (Mohave people); Kroeber</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.7670, "lng": -114.6220},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#E040FB 30%,#AB47BC 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #E040FB88;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
-      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">\u2726 Huuky\u00e1mpve \u2014 \"Where the Battle Took Place\"</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">The Needles Peaks \u00b7 Near Needles, CA \u00b7 Mythic battlefield</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThree sharp rock spires rising from the Colorado River landscape. The Mojave call them <b>Huuky\u00e1mpve</b>, meaning \"where the battle took place\" \u2014 referring to the mythic battle in which the god-son <b>Mastamho slew the sea serpent</b>.<br><br>\nEuropean settlers misinterpreted the tribal name \"Mohave\" as deriving from \"three mountains\" referring to these needles. In reality, the Mojave self-identify as <b>Aha Makhav</b> \u2014 a name connected to the river itself. The needles mark a key mythic site along the sacred river corridor.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Hodge 1917; Wikipedia (Mohave people); Fort Mojave Indian Tribe</div>\n</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 34.767,
+        "lng": -114.622
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#E040FB 30%,#AB47BC 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #E040FB88;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">✦ Huukyámpve — \"Where the Battle Took Place\"</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">The Needles Peaks · Near Needles, CA · Mythic battlefield</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThree sharp rock spires rising from the Colorado River landscape. The Mojave call them <b>Huukyámpve</b>, meaning \"where the battle took place\" — referring to the mythic battle in which the god-son <b>Mastamho slew the sea serpent</b>.<br><br>\nEuropean settlers misinterpreted the tribal name \"Mohave\" as deriving from \"three mountains\" referring to these needles. In reality, the Mojave self-identify as <b>Aha Makhav</b> — a name connected to the river itself. The needles mark a key mythic site along the sacred river corridor.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Hodge 1917; Wikipedia (Mohave people); Fort Mojave Indian Tribe</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 33.8006, "lng": -114.5322},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>", "iconSize": [13,13], "iconAnchor": [6.5,6.5]},
-      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">\u25c6 Blythe Intaglios \u2014 Creator Figures</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">16 mi N of Blythe \u00b7 3 human + 2 animal figures \u00b7 Up to 171 ft long \u00b7 NRHP 1982</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe most famous geoglyphs in North America. The largest human figure \u2014 171 feet long \u2014 is believed to represent <b>Mastamho, the Creator of all life</b> according to Mojave and Quechan oral tradition. Created by scraping away dark desert-varnished stones to reveal lighter soil beneath.<br><br>\n<b>Dream-to-Landscape:</b> Among the Yuman-speaking peoples, spiritual power comes through dreaming, not formal training. Geoglyphs may represent the physical manifestation of dream visions \u2014 bringing the spiritual world into the landscape. The communal act of <b>making</b> the geoglyph may have been as important as viewing it.<br><br>\n<b>Ritual Context:</b> Trails lead to the intaglios. Rock alignments and cairns are often found nearby. The figures align with ancient trails and water sources, suggesting the act of walking to and around them was part of the ceremony. Related to the <b>keruk mourning ceremony</b> \u2014 a re-enactment of the creator's death.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Campbell et al.; Johnson (Yuman cosmology); Ancient Art Archive; recreation.gov</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 33.8006,
+        "lng": -114.5322
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">◆ Blythe Intaglios — Creator Figures</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">16 mi N of Blythe · 3 human + 2 animal figures · Up to 171 ft long · NRHP 1982</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe most famous geoglyphs in North America. The largest human figure — 171 feet long — is believed to represent <b>Mastamho, the Creator of all life</b> according to Mojave and Quechan oral tradition. Created by scraping away dark desert-varnished stones to reveal lighter soil beneath.<br><br>\n<b>Dream-to-Landscape:</b> Among the Yuman-speaking peoples, spiritual power comes through dreaming, not formal training. Geoglyphs may represent the physical manifestation of dream visions — bringing the spiritual world into the landscape. The communal act of <b>making</b> the geoglyph may have been as important as viewing it.<br><br>\n<b>Ritual Context:</b> Trails lead to the intaglios. Rock alignments and cairns are often found nearby. The figures align with ancient trails and water sources, suggesting the act of walking to and around them was part of the ceremony. Related to the <b>keruk mourning ceremony</b> — a re-enactment of the creator's death.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Campbell et al.; Johnson (Yuman cosmology); Ancient Art Archive; recreation.gov</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.8100, "lng": -114.5900},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>", "iconSize": [13,13], "iconAnchor": [6.5,6.5]},
-      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">\u25c6 Fort Mojave Twins \u2014 Ground Drawings</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Fort Mohave area \u00b7 ~900 BCE \u00b7 Two elongated human forms</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nTwo elongated anthropomorphic figures overlooking the river valley, dating as far back as <b>900 BCE</b>. Part of the only site in North America where ancient ground drawings still survive in their original landscape context. Reminiscent of Mesoamerican creation stories.<br><br>\nThis is the <b>northernmost major geoglyph site</b> on the Colorado River corridor, placing it closest to Spirit Mountain.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Visit Arizona; BLM</div>\n</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 34.81,
+        "lng": -114.59
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">◆ Fort Mojave Twins — Ground Drawings</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Fort Mohave area · ~900 BCE · Two elongated human forms</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nTwo elongated anthropomorphic figures overlooking the river valley, dating as far back as <b>900 BCE</b>. Part of the only site in North America where ancient ground drawings still survive in their original landscape context. Reminiscent of Mesoamerican creation stories.<br><br>\nThis is the <b>northernmost major geoglyph site</b> on the Colorado River corridor, placing it closest to Spirit Mountain.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Mojave Indian Tribe; Visit Arizona; BLM</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.1600, "lng": -114.2800},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>", "iconSize": [13,13], "iconAnchor": [6.5,6.5]},
-      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">\u25c6 Parker Snake Intaglio</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">East of Parker, AZ \u00b7 Huge rattlesnake figure \u00b7 125 ft long</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA massive rattlesnake scraped into the desert pavement east of Parker, with eyes formed by two large granite cobbles. Snakes hold deep significance in Yuman cosmology \u2014 connected to water, the underworld, and the Colorado River itself.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Native American Netroots</div>\n</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.16,
+        "lng": -114.28
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">◆ Parker Snake Intaglio</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">East of Parker, AZ · Huge rattlesnake figure · 125 ft long</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA massive rattlesnake scraped into the desert pavement east of Parker, with eyes formed by two large granite cobbles. Snakes hold deep significance in Yuman cosmology — connected to water, the underworld, and the Colorado River itself.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Native American Netroots</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 33.6700, "lng": -114.2600},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>", "iconSize": [13,13], "iconAnchor": [6.5,6.5]},
-      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">\u25c6 Quartzsite Fisherman Intaglio</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Near Quartzsite, AZ \u00b7 Human figure with spear over two fish</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nAn anthropomorphic figure with a quartzite spear standing over two fish. The fish image is estimated at ~1540 CE and may be younger than the Fisherman figure itself. A group of <b>14 related intaglios</b> lies to the south, including a giant arrow pointing toward the Fisherman from miles away \u2014 evidence of an <b>interconnected ritual landscape</b>.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Native American Netroots; Ancient Art Archive</div>\n</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 33.67,
+        "lng": -114.26
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">◆ Quartzsite Fisherman Intaglio</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Near Quartzsite, AZ · Human figure with spear over two fish</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nAn anthropomorphic figure with a quartzite spear standing over two fish. The fish image is estimated at ~1540 CE and may be younger than the Fisherman figure itself. A group of <b>14 related intaglios</b> lies to the south, including a giant arrow pointing toward the Fisherman from miles away — evidence of an <b>interconnected ritual landscape</b>.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Native American Netroots; Ancient Art Archive</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.7100, "lng": -114.5100},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>", "iconSize": [13,13], "iconAnchor": [6.5,6.5]},
-      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">\u25c6 Topock Maze \u2014 Passage to the Afterlife</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Near Needles, CA \u00b7 Complex maze of cleared pathways \u00b7 Debated origin</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nParallel lines of lighter rock creating a complex maze on the desert floor near the Colorado River. BLM archaeologist George Shannon proposed the maze played a critical role in Mojave beliefs about death: <b>upon death, spirits had to navigate through the maze to reach the afterlife.</b> The maze could also serve as a <b>purification path for the living</b>.<br><br>\n<b>Note:</b> The site's origin is debated \u2014 historian Ruth Musser-Lopez found evidence it may have been created by 19th-century railroad gravel harvesting, though local groups may have later danced and conducted ceremonies there. The Mojave themselves have not confirmed knowledge of its origin, which itself may reflect the deeply sacred nature of the site.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Shannon; Musser-Lopez; RVwest; Blythe Intaglios Wikipedia</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.71,
+        "lng": -114.51
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;background:#FF6D00;border:2.5px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 7px #FF6D0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">◆ Topock Maze — Passage to the Afterlife</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Near Needles, CA · Complex maze of cleared pathways · Debated origin</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nParallel lines of lighter rock creating a complex maze on the desert floor near the Colorado River. BLM archaeologist George Shannon proposed the maze played a critical role in Mojave beliefs about death: <b>upon death, spirits had to navigate through the maze to reach the afterlife.</b> The maze could also serve as a <b>purification path for the living</b>.<br><br>\n<b>Note:</b> The site's origin is debated — historian Ruth Musser-Lopez found evidence it may have been created by 19th-century railroad gravel harvesting, though local groups may have later danced and conducted ceremonies there. The Mojave themselves have not confirmed knowledge of its origin, which itself may reflect the deeply sacred nature of the site.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Shannon; Musser-Lopez; RVwest; Blythe Intaglios Wikipedia</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mojaveSpiritGeo",
-      "geometry": [[35.4597,-114.7278],[34.8100,-114.5900],[34.7670,-114.6220],[34.7100,-114.5100],[34.1600,-114.2800],[33.8006,-114.5322],[33.6700,-114.2600]],
-      "style": {"color": "#FF6D00", "weight": 2.5, "opacity": 0.5, "dashArray": "12,8"},
-      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">\u25c6 Geoglyph Corridor \u2014 The Sacred River Trail</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nOver <b>200 geoglyphs</b> along the lower Colorado River, from Spirit Mountain south past Yuma. This is the <b>only concentration of desert intaglios in North America</b>.<br><br>\nThe figures cluster along the 114\u00b0 line of longitude \u2014 following the Colorado River corridor. They illustrate creation stories, mythic beings, and ritual journeys. Ethnographer Boma Johnson placed the figures in the context of Yuman oral history: <b>the figures portray mythic characters found where mythic events are thought to have occurred</b>.<br><br>\nSix figures in three locations along a <b>ritual pilgrimage trail</b> used by Yuman-speaking peoples tell the story of creation and keep it alive. This is both a mythic trail and an actual physical trail extending along the Colorado River.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Johnson; BLM; Native American Netroots; Ancient Art Archive</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": [
+        [
+          35.4597,
+          -114.7278
+        ],
+        [
+          34.81,
+          -114.59
+        ],
+        [
+          34.767,
+          -114.622
+        ],
+        [
+          34.71,
+          -114.51
+        ],
+        [
+          34.16,
+          -114.28
+        ],
+        [
+          33.8006,
+          -114.5322
+        ],
+        [
+          33.67,
+          -114.26
+        ]
+      ],
+      "style": {
+        "color": "#FF6D00",
+        "weight": 2.5,
+        "opacity": 0.5,
+        "dashArray": "12,8"
+      },
+      "popup": "\n<div style=\"border-left:3px solid #FF6D00;padding-left:10px;\">\n<h4 style=\"color:#FF6D00;margin:0 0 4px\">◆ Geoglyph Corridor — The Sacred River Trail</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nOver <b>200 geoglyphs</b> along the lower Colorado River, from Spirit Mountain south past Yuma. This is the <b>only concentration of desert intaglios in North America</b>.<br><br>\nThe figures cluster along the 114° line of longitude — following the Colorado River corridor. They illustrate creation stories, mythic beings, and ritual journeys. Ethnographer Boma Johnson placed the figures in the context of Yuman oral history: <b>the figures portray mythic characters found where mythic events are thought to have occurred</b>.<br><br>\nSix figures in three locations along a <b>ritual pilgrimage trail</b> used by Yuman-speaking peoples tell the story of creation and keep it alive. This is both a mythic trail and an actual physical trail extending along the Colorado River.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Johnson; BLM; Native American Netroots; Ancient Art Archive</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.7900, "lng": -116.6600},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#7C4DFF 30%,#651FFF 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #7C4DFF88;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
-      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">\u263d Newberry Cave \u2014 Dreaming Underground</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Newberry Mtns \u00b7 ~2000 BCE\u2013600 CE \u00b7 1,049 split-twig figurines \u00b7 66 rock art panels</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA cave where the boundary between dreaming and waking dissolved. The <b>1,049 split-twig figurine fragments</b> \u2014 mostly representing bighorn sheep \u2014 are artifacts of <b>sympathetic hunting magic</b> connected to dream-power. The <b>green pigment</b> dominating the 66 rock art panels symbolizes life and renewal.<br><br>\n<b>Dream-Religion Context:</b> The Mojave believed that all skill \u2014 hunting, healing, singing, leadership \u2014 came through dreaming. This cave was likely where specialists came to dream the power needed for successful hunts. The only California cave with split-twig figurines; all others are near the Grand Canyon, suggesting a deep spiritual network across the desert Southwest.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Smith et al. 1957; Whitley et al.; Leska 2009</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.79,
+        "lng": -116.66
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#7C4DFF 30%,#651FFF 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #7C4DFF88;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">☽ Newberry Cave — Dreaming Underground</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Newberry Mtns · ~2000 BCE–600 CE · 1,049 split-twig figurines · 66 rock art panels</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA cave where the boundary between dreaming and waking dissolved. The <b>1,049 split-twig figurine fragments</b> — mostly representing bighorn sheep — are artifacts of <b>sympathetic hunting magic</b> connected to dream-power. The <b>green pigment</b> dominating the 66 rock art panels symbolizes life and renewal.<br><br>\n<b>Dream-Religion Context:</b> The Mojave believed that all skill — hunting, healing, singing, leadership — came through dreaming. This cave was likely where specialists came to dream the power needed for successful hunts. The only California cave with split-twig figurines; all others are near the Grand Canyon, suggesting a deep spiritual network across the desert Southwest.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Smith et al. 1957; Whitley et al.; Leska 2009</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 35.0000, "lng": -117.6000},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#7C4DFF 30%,#651FFF 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #7C4DFF88;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
-      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">\u263d Eggshell Cave \u2014 Ritual Dreaming</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Mojave \u00b7 Late Prehistoric \u00b7 Hallucinogenic seed ritual</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nArchaeological evidence of a person or persons ingesting <b>Amsinckia seeds for their hallucinogenic effect</b> in a ritual context. A rare physical window into the dream-seeking practices that defined Mojave spirituality.<br><br>\nThe Mojave and their neighbors also used <b>Datura (jimsonweed)</b> as a sacramental hallucinogen \u2014 consumed during coming-of-age ceremonies to enter altered states of consciousness and receive dream-power.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton (PCAS Quarterly); Wikipedia (Mohave people)</div>\n</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 35.0,
+        "lng": -117.6
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#7C4DFF 30%,#651FFF 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #7C4DFF88;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">☽ Eggshell Cave — Ritual Dreaming</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Western Mojave · Late Prehistoric · Hallucinogenic seed ritual</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nArchaeological evidence of a person or persons ingesting <b>Amsinckia seeds for their hallucinogenic effect</b> in a ritual context. A rare physical window into the dream-seeking practices that defined Mojave spirituality.<br><br>\nThe Mojave and their neighbors also used <b>Datura (jimsonweed)</b> as a sacramental hallucinogen — consumed during coming-of-age ceremonies to enter altered states of consciousness and receive dream-power.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton (PCAS Quarterly); Wikipedia (Mohave people)</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 35.4900, "lng": -114.7100},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#7C4DFF 30%,#651FFF 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #7C4DFF88;\"></div>", "iconSize": [14,14], "iconAnchor": [7,7]},
-      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">\u263d Grapevine Canyon \u2014 Petroglyph Dreaming</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Avi Kwa Ame National Monument \u00b7 Hundreds of petroglyphs \u00b7 Thousands of years old</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nHundreds of petroglyphs etched into canyon rocks near Spirit Mountain \u2014 animals, human figures, abstract symbols spanning thousands of years. Located within the <b>sacred viewshed of Avi Kwa Ame</b>, these carvings may represent dream visions made permanent in stone.<br><br>\nThe canyon provides seasonal water and shade \u2014 one of those places where water and geological drama converge to create spiritual significance.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS; BLM; Avi Kwa Ame National Monument; Nevada Wilderness Project</div>\n</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 35.49,
+        "lng": -114.71
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:14px;height:14px;background:radial-gradient(circle,#7C4DFF 30%,#651FFF 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 8px #7C4DFF88;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">☽ Grapevine Canyon — Petroglyph Dreaming</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Avi Kwa Ame National Monument · Hundreds of petroglyphs · Thousands of years old</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nHundreds of petroglyphs etched into canyon rocks near Spirit Mountain — animals, human figures, abstract symbols spanning thousands of years. Located within the <b>sacred viewshed of Avi Kwa Ame</b>, these carvings may represent dream visions made permanent in stone.<br><br>\nThe canyon provides seasonal water and shade — one of those places where water and geological drama converge to create spiritual significance.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS; BLM; Avi Kwa Ame National Monument; Nevada Wilderness Project</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mojaveSpiritGeo",
-      "geometry": [[35.98,-114.74],[35.75,-114.70],[35.46,-114.73],[35.20,-114.62],[35.05,-114.60],[34.77,-114.62],[34.55,-114.52],[34.16,-114.28],[33.80,-114.53],[33.67,-114.26]],
-      "style": {"color": "#00E5FF", "weight": 4, "opacity": 0.35, "dashArray": "4,8"},
-      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">\u3030 The Colorado River \u2014 A Living Spirit</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\n\"Our elders say, if you sit by the river at sunset, <b>the river will talk to you</b>. If you sit by the mountain, it will talk to you, for you are one.\" \u2014 Paul Jackson, Fort Mojave elder<br><br>\nFor the Pipa Aha Macav, the river is not a resource \u2014 it is a <b>living spiritual being</b>. The creator Mutavilya made the Colorado River itself. Before dams, the river was wide and braided, flooding every spring with Rocky Mountain snowmelt to deposit rich silt on the floodplains. This annual renewal was both agricultural necessity and spiritual cycle \u2014 the river giving life, retreating, and giving again.<br><br>\n<b>The river defined identity itself:</b> Aha Makhav means \"The Water People.\" Pipa Aha Macav means \"The People By The River.\" To be Mojave was to be of the river.<br><br>\n<b>What was lost:</b> Hoover Dam (1935) and Parker Dam (1938) ended the annual floods. The wide, braided, life-giving river was reduced to a controlled channel. Villages and sacred sites along the original shoreline were inundated. The spiritual cycle of flood-and-renewal was severed.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Paul Jackson (Conservation Lands Foundation); Fort Mojave Indian Tribe; Ten Tribes Partnership</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": [
+        [
+          35.98,
+          -114.74
+        ],
+        [
+          35.75,
+          -114.7
+        ],
+        [
+          35.46,
+          -114.73
+        ],
+        [
+          35.2,
+          -114.62
+        ],
+        [
+          35.05,
+          -114.6
+        ],
+        [
+          34.77,
+          -114.62
+        ],
+        [
+          34.55,
+          -114.52
+        ],
+        [
+          34.16,
+          -114.28
+        ],
+        [
+          33.8,
+          -114.53
+        ],
+        [
+          33.67,
+          -114.26
+        ]
+      ],
+      "style": {
+        "color": "#00E5FF",
+        "weight": 4,
+        "opacity": 0.35,
+        "dashArray": "4,8"
+      },
+      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">〰 The Colorado River — A Living Spirit</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\n\"Our elders say, if you sit by the river at sunset, <b>the river will talk to you</b>. If you sit by the mountain, it will talk to you, for you are one.\" — Paul Jackson, Fort Mojave elder<br><br>\nFor the Pipa Aha Macav, the river is not a resource — it is a <b>living spiritual being</b>. The creator Mutavilya made the Colorado River itself. Before dams, the river was wide and braided, flooding every spring with Rocky Mountain snowmelt to deposit rich silt on the floodplains. This annual renewal was both agricultural necessity and spiritual cycle — the river giving life, retreating, and giving again.<br><br>\n<b>The river defined identity itself:</b> Aha Makhav means \"The Water People.\" Pipa Aha Macav means \"The People By The River.\" To be Mojave was to be of the river.<br><br>\n<b>What was lost:</b> Hoover Dam (1935) and Parker Dam (1938) ended the annual floods. The wide, braided, life-giving river was reduced to a controlled channel. Villages and sacred sites along the original shoreline were inundated. The spiritual cycle of flood-and-renewal was severed.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Paul Jackson (Conservation Lands Foundation); Fort Mojave Indian Tribe; Ten Tribes Partnership</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.0710, "lng": -116.0350},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">\u3030 Oasis of Mara \u2014 \"The First Place\"</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Twentynine Palms \u00b7 Serrano creation site \u00b7 Salt Song trail \u00b7 10,000+ years of use</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nFor the Maarr\u00eanga'yam (Orthodox Serrano), this oasis is <b>the first place their people lived after coming into this world</b> \u2014 their place of origin. Also sacred to the Chemehuevi as a waypoint on the <b>Salt Songs trail</b>, an ancient ceremonial song cycle that traces a route through the landscape connecting springs, mountains, and sacred places across four states.<br><br>\n<b>Water Belief:</b> Serrano tradition held that people should drink <b>water that gushed from the earth</b> (springs), not flowing stream water. Spring water was pure \u2014 it came directly from the spiritual world underground.<br><br>\nUsed for 10,000+ years by Serrano, Chemehuevi, Cahuilla, and Mojave peoples. The Chemehuevi farmed here until 1913, when Anglo settlers pushed them out.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon Learning Center; NPS Joshua Tree; Twenty-Nine Palms Band of Mission Indians</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.071,
+        "lng": -116.035
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">〰 Oasis of Mara — \"The First Place\"</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Twentynine Palms · Serrano creation site · Salt Song trail · 10,000+ years of use</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nFor the Maarrênga'yam (Orthodox Serrano), this oasis is <b>the first place their people lived after coming into this world</b> — their place of origin. Also sacred to the Chemehuevi as a waypoint on the <b>Salt Songs trail</b>, an ancient ceremonial song cycle that traces a route through the landscape connecting springs, mountains, and sacred places across four states.<br><br>\n<b>Water Belief:</b> Serrano tradition held that people should drink <b>water that gushed from the earth</b> (springs), not flowing stream water. Spring water was pure — it came directly from the spiritual world underground.<br><br>\nUsed for 10,000+ years by Serrano, Chemehuevi, Cahuilla, and Mojave peoples. The Chemehuevi farmed here until 1913, when Anglo settlers pushed them out.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon Learning Center; NPS Joshua Tree; Twenty-Nine Palms Band of Mission Indians</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "cahuilla",
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "tribes": [
+        "cahuilla",
+        "chemehuevi",
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 33.8300, "lng": -116.5450},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">\u3030 Agua Caliente Hot Springs \u2014 Sacred Healing Water</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Palm Springs \u00b7 Cahuilla \u00b7 \"Pal Tingaypish! \u2014 Water is Medicine!\"</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe hot mineral springs at the heart of Cahuilla territory \u2014 the <b>Agua Caliente Band of Cahuilla Indians</b> takes its name from these waters. Cahuilla elder Tom Siva shared stories of this spring's sacred healing properties.<br><br>\n<b>\"Pal Tingaypish! \u2014 Water is Medicine!\"</b> \u2014 For the Cahuilla, hot springs were not just water sources but active healing agents, places where the earth's spiritual power surfaced. Villages clustered around these springs for millennia.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon Learning Center; Sean Milanovich presentation; Ernest Siva</div>\n</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": {
+        "lat": 33.83,
+        "lng": -116.545
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">〰 Agua Caliente Hot Springs — Sacred Healing Water</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Palm Springs · Cahuilla · \"Pal Tingaypish! — Water is Medicine!\"</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe hot mineral springs at the heart of Cahuilla territory — the <b>Agua Caliente Band of Cahuilla Indians</b> takes its name from these waters. Cahuilla elder Tom Siva shared stories of this spring's sacred healing properties.<br><br>\n<b>\"Pal Tingaypish! — Water is Medicine!\"</b> — For the Cahuilla, hot springs were not just water sources but active healing agents, places where the earth's spiritual power surfaced. Villages clustered around these springs for millennia.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon Learning Center; Sean Milanovich presentation; Ernest Siva</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [],
+      "cultures": [
+        "cahuilla",
+        "lenape"
+      ],
+      "tribes": [
+        "cahuilla",
+        "lenape",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 33.7200, "lng": -116.3100},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">\u3030 K\u00e1vinish \u2014 \"Dug Out\" (Indian Wells)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Coachella Valley \u00b7 Cahuilla \u00b7 Indigenous engineering</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA famous walk-in well that served as a major regional water source. As the natural spring began drying, the Cahuilla people <b>dug progressively deeper to follow the receding water table</b> \u2014 indigenous engineering driven by the spiritual imperative to maintain the water relationship. Dorothy Ramon remembered this place by its Cahuilla name, <b>K\u00e1vinish</b>, which means \"dug out.\"<br><br>\n\"This is where the first palm tree grew.\" The first Anglo arrivals named it \"Indian Well\" \u2014 erasing the Cahuilla name and engineering history.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon; Sean Milanovich; Dorothy Ramon Learning Center</div>\n</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": {
+        "lat": 33.72,
+        "lng": -116.31
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">〰 Kávinish — \"Dug Out\" (Indian Wells)</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Coachella Valley · Cahuilla · Indigenous engineering</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA famous walk-in well that served as a major regional water source. As the natural spring began drying, the Cahuilla people <b>dug progressively deeper to follow the receding water table</b> — indigenous engineering driven by the spiritual imperative to maintain the water relationship. Dorothy Ramon remembered this place by its Cahuilla name, <b>Kávinish</b>, which means \"dug out.\"<br><br>\n\"This is where the first palm tree grew.\" The first Anglo arrivals named it \"Indian Well\" — erasing the Cahuilla name and engineering history.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon; Sean Milanovich; Dorothy Ramon Learning Center</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [],
+      "cultures": [
+        "cahuilla"
+      ],
+      "tribes": [
+        "cahuilla",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.75, "lng": -117.05},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">\u3030 \"R\u00edo de las \u00c1nimas\" \u2014 Spirit River</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Mojave River \u00b7 Mostly underground \u00b7 Named by Spanish</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe Spanish called this river <b>\u201cR\u00edo de las \u00c1nimas\u201d</b> \u2014 River of the Spirits / River of Lost Souls. Even the colonizers sensed something uncanny about a river that flows mostly underground, appearing and disappearing through the desert.<br><br>\nFor the <b>Vanyume (Desert Serrano)</b> who lived along it for 8,000 years, the river's underground nature may have reinforced the belief that water was most powerful when it emerged from the earth \u2014 that springs and narrows where the river surfaced were places where the underground spiritual world broke through.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, UC eScholarship; Garc\u00e9s 1776; Wikipedia (Mojave River)</div>\n</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": {
+        "lat": 34.75,
+        "lng": -117.05
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:radial-gradient(circle,#00E5FF 30%,#00B8D4 70%);border:2px solid #1A1208;border-radius:50%;box-shadow:0 0 7px #00E5FF88;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "\n<div style=\"border-left:3px solid #00E5FF;padding-left:10px;\">\n<h4 style=\"color:#00E5FF;margin:0 0 4px\">〰 \"Río de las Ánimas\" — Spirit River</h4>\n<div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Mojave River · Mostly underground · Named by Spanish</div>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe Spanish called this river <b>“Río de las Ánimas”</b> — River of the Spirits / River of Lost Souls. Even the colonizers sensed something uncanny about a river that flows mostly underground, appearing and disappearing through the desert.<br><br>\nFor the <b>Vanyume (Desert Serrano)</b> who lived along it for 8,000 years, the river's underground nature may have reinforced the belief that water was most powerful when it emerged from the earth — that springs and narrows where the river surfaced were places where the underground spiritual world broke through.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle, UC eScholarship; Garcés 1776; Wikipedia (Mojave River)</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mojaveSpiritGeo",
-      "geometry": [[36.20,-115.20],[35.80,-115.50],[35.46,-114.73],[35.20,-115.00],[34.70,-115.50],[34.30,-116.00],[34.07,-116.04],[33.83,-116.55],[33.50,-117.00],[33.80,-117.80]],
-      "style": {"color": "#7C4DFF", "weight": 2.5, "opacity": 0.4, "dashArray": "6,10"},
-      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">\u263d Salt Song Trail \u2014 Chemehuevi Sacred Song Route</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe <b>Salt Songs</b> are an ancient ceremonial song cycle shared by the Chemehuevi and all Southern Paiute peoples across California, Nevada, Arizona, and Utah. The songs trace a <b>route through the physical landscape</b> \u2014 connecting springs, mountains, and sacred places. Each song corresponds to a specific place.<br><br>\nThis is a <b>song map</b> \u2014 an oral geography sung into existence across generations. Walking the Salt Song trail is both a physical journey through the desert and a spiritual journey through Chemehuevi cosmology. The Oasis of Mara is one waypoint on this trail.<br><br>\n<i>(Route shown is approximate/conceptual \u2014 the actual song geography is sacred knowledge)</i>\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon Learning Center; Twenty-Nine Palms Band; Chemehuevi Cultural Committee</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": [
+        [
+          36.2,
+          -115.2
+        ],
+        [
+          35.8,
+          -115.5
+        ],
+        [
+          35.46,
+          -114.73
+        ],
+        [
+          35.2,
+          -115.0
+        ],
+        [
+          34.7,
+          -115.5
+        ],
+        [
+          34.3,
+          -116.0
+        ],
+        [
+          34.07,
+          -116.04
+        ],
+        [
+          33.83,
+          -116.55
+        ],
+        [
+          33.5,
+          -117.0
+        ],
+        [
+          33.8,
+          -117.8
+        ]
+      ],
+      "style": {
+        "color": "#7C4DFF",
+        "weight": 2.5,
+        "opacity": 0.4,
+        "dashArray": "6,10"
+      },
+      "popup": "\n<div style=\"border-left:3px solid #7C4DFF;padding-left:10px;\">\n<h4 style=\"color:#7C4DFF;margin:0 0 4px\">☽ Salt Song Trail — Chemehuevi Sacred Song Route</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nThe <b>Salt Songs</b> are an ancient ceremonial song cycle shared by the Chemehuevi and all Southern Paiute peoples across California, Nevada, Arizona, and Utah. The songs trace a <b>route through the physical landscape</b> — connecting springs, mountains, and sacred places. Each song corresponds to a specific place.<br><br>\nThis is a <b>song map</b> — an oral geography sung into existence across generations. Walking the Salt Song trail is both a physical journey through the desert and a spiritual journey through Chemehuevi cosmology. The Oasis of Mara is one waypoint on this trail.<br><br>\n<i>(Route shown is approximate/conceptual — the actual song geography is sacred knowledge)</i>\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Dorothy Ramon Learning Center; Twenty-Nine Palms Band; Chemehuevi Cultural Committee</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mojaveSpiritGeo",
-      "geometry": [[35.98,-114.74],[35.46,-114.73],[34.81,-114.59],[34.77,-114.62],[34.71,-114.51],[34.16,-114.28],[33.80,-114.53],[33.38,-114.60],[32.90,-114.70]],
-      "style": {"color": "#E040FB", "weight": 2.5, "opacity": 0.4, "dashArray": "6,10"},
-      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">\u2726 Yuman Pilgrimage Trail \u2014 Colorado River Creation Corridor</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA <b>ritual pilgrimage trail</b> extending along the Colorado River from Spirit Mountain (Newberry Mountains, NV) to Pilot Knob (near Yuma, AZ). Six major geoglyph groups in three locations along this trail illustrate the Yuman creation story and are actively maintained.<br><br>\nThis is both a mythic trail and an actual physical trail \u2014 a <b>sacred corridor</b> where the stories of creation are embedded in the landscape itself. The Mojave, Hopi, and Chemehuevi still sing ancient songs that help the spirits of deceased loved ones navigate this landscape around Spirit Mountain.<br><br>\n<b>The Keruk Mourning Ceremony:</b> Practiced by multiple Colorado River tribes, the keruk re-enacted the creator's death and honored the recently deceased. The geoglyphs along this corridor served as waypoints in the spiritual geography of death and renewal.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Johnson (Yuman cosmology); Native American Netroots; Fort Mojave Indian Tribe; BLM</div>\n</div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": [
+        [
+          35.98,
+          -114.74
+        ],
+        [
+          35.46,
+          -114.73
+        ],
+        [
+          34.81,
+          -114.59
+        ],
+        [
+          34.77,
+          -114.62
+        ],
+        [
+          34.71,
+          -114.51
+        ],
+        [
+          34.16,
+          -114.28
+        ],
+        [
+          33.8,
+          -114.53
+        ],
+        [
+          33.38,
+          -114.6
+        ],
+        [
+          32.9,
+          -114.7
+        ]
+      ],
+      "style": {
+        "color": "#E040FB",
+        "weight": 2.5,
+        "opacity": 0.4,
+        "dashArray": "6,10"
+      },
+      "popup": "\n<div style=\"border-left:3px solid #E040FB;padding-left:10px;\">\n<h4 style=\"color:#E040FB;margin:0 0 4px\">✦ Yuman Pilgrimage Trail — Colorado River Creation Corridor</h4>\n<div style=\"font-size:12px;color:#ccc;line-height:1.6\">\nA <b>ritual pilgrimage trail</b> extending along the Colorado River from Spirit Mountain (Newberry Mountains, NV) to Pilot Knob (near Yuma, AZ). Six major geoglyph groups in three locations along this trail illustrate the Yuman creation story and are actively maintained.<br><br>\nThis is both a mythic trail and an actual physical trail — a <b>sacred corridor</b> where the stories of creation are embedded in the landscape itself. The Mojave, Hopi, and Chemehuevi still sing ancient songs that help the spirits of deceased loved ones navigate this landscape around Spirit Mountain.<br><br>\n<b>The Keruk Mourning Ceremony:</b> Practiced by multiple Colorado River tribes, the keruk re-enacted the creator's death and honored the recently deceased. The geoglyphs along this corridor served as waypoints in the spiritual geography of death and renewal.\n</div>\n<div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Johnson (Yuman cosmology); Native American Netroots; Fort Mojave Indian Tribe; BLM</div>\n</div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "hopi",
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "hopi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 35.60, "lng": -114.55},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:8px;color:#E040FB;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:2px;opacity:0.7;font-style:italic\">CREATION CORRIDOR</div>", "iconSize": [140,12], "iconAnchor": [70,6]}
+      "geometry": {
+        "lat": 35.6,
+        "lng": -114.55
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:8px;color:#E040FB;text-shadow:0 0 6px #000;white-space:nowrap;letter-spacing:2px;opacity:0.7;font-style:italic\">CREATION CORRIDOR</div>",
+        "iconSize": [
+          140,
+          12
+        ],
+        "iconAnchor": [
+          70,
+          6
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 33.90, "lng": -114.40},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:7px;color:#FF6D00;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.6;font-style:italic\">GEOGLYPH CORRIDOR</div>", "iconSize": [130,10], "iconAnchor": [65,5]}
+      "geometry": {
+        "lat": 33.9,
+        "lng": -114.4
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:7px;color:#FF6D00;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.6;font-style:italic\">GEOGLYPH CORRIDOR</div>",
+        "iconSize": [
+          130,
+          10
+        ],
+        "iconAnchor": [
+          65,
+          5
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveSpiritGeo",
-      "geometry": {"lat": 34.30, "lng": -116.30},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font-family:Cinzel,serif;font-size:7px;color:#00E5FF;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.6;font-style:italic\">SPRING OASES \u00b7 WATER = SPIRIT</div>", "iconSize": [180,10], "iconAnchor": [90,5]}
+      "geometry": {
+        "lat": 34.3,
+        "lng": -116.3
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-family:Cinzel,serif;font-size:7px;color:#00E5FF;text-shadow:0 0 5px #000;white-space:nowrap;letter-spacing:1.5px;opacity:0.6;font-style:italic\">SPRING OASES · WATER = SPIRIT</div>",
+        "iconSize": [
+          180,
+          10
+        ],
+        "iconAnchor": [
+          90,
+          5
+        ]
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

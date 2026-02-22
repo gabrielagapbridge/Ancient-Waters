@@ -5,194 +5,885 @@
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.8840, "lng": -119.1300},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:15px;height:15px;border-radius:50%;background:rgba(255,111,0,0.3);border:2.5px solid #FF6F00;box-shadow:0 0 7px #FF6F0066;\"></div>", "iconSize": [15, 15], "iconAnchor": [7.5, 7.5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Pleito (CA-KER-77) \u2014 Polychrome Masterwork</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Polychrome Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The crown jewel of Hulkuhku rock art and one of the <b>most elaborate polychrome pictograph sites in North America</b>. Bisected by a perennial creek in rich oak woodland, the site has 6 pictograph locales with extraordinary multi-colored paintings. Grasse's (2003) excavations revealed deep midden deposits of <b>Late Period and Historical date</b> immediately adjacent to and in view of the pictographs. Robinson's (2010) GIS viewshed analysis showed that 3 stations with 37 BRMs, both middens, and the vast majority of the site were intervisible with the paintings and shelter apertures. Critically, the <b>paths from BRM stations to the creek</b> \u2014 essential for water leeching of acorn meal \u2014 route directly past and through the pictograph viewsheds. There was no way to do the daily work of acorn processing without repeatedly encountering the painted surfaces. Reeves, Bury & Robinson (2009) demonstrated that the rare <b>blue and green pigments</b> came from locally available copper carbonate minerals (azurite/malachite) \u2014 suggesting the polychrome tradition <b>predates European contact</b>.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 61 BRMs across 9 stations \u00b7 100+ cupules \u00b7 2 well-developed middens<br>\n          <b>Viewshed:</b> 37 BRMs intervisible with pictographs \u00b7 Both middens within visual envelope \u00b7 Paths to creek pass directly through pictograph viewsheds\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Grasse 2003, 2005; Reeves, Bury & Robinson 2009; Bury et al. 2003, 2004</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.884,
+        "lng": -119.13
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:15px;height:15px;border-radius:50%;background:rgba(255,111,0,0.3);border:2.5px solid #FF6F00;box-shadow:0 0 7px #FF6F0066;\"></div>",
+        "iconSize": [
+          15,
+          15
+        ],
+        "iconAnchor": [
+          7.5,
+          7.5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Pleito (CA-KER-77) — Polychrome Masterwork</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Polychrome Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The crown jewel of Hulkuhku rock art and one of the <b>most elaborate polychrome pictograph sites in North America</b>. Bisected by a perennial creek in rich oak woodland, the site has 6 pictograph locales with extraordinary multi-colored paintings. Grasse's (2003) excavations revealed deep midden deposits of <b>Late Period and Historical date</b> immediately adjacent to and in view of the pictographs. Robinson's (2010) GIS viewshed analysis showed that 3 stations with 37 BRMs, both middens, and the vast majority of the site were intervisible with the paintings and shelter apertures. Critically, the <b>paths from BRM stations to the creek</b> — essential for water leeching of acorn meal — route directly past and through the pictograph viewsheds. There was no way to do the daily work of acorn processing without repeatedly encountering the painted surfaces. Reeves, Bury & Robinson (2009) demonstrated that the rare <b>blue and green pigments</b> came from locally available copper carbonate minerals (azurite/malachite) — suggesting the polychrome tradition <b>predates European contact</b>.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 61 BRMs across 9 stations · 100+ cupules · 2 well-developed middens<br>\n          <b>Viewshed:</b> 37 BRMs intervisible with pictographs · Both middens within visual envelope · Paths to creek pass directly through pictograph viewsheds\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Grasse 2003, 2005; Reeves, Bury & Robinson 2009; Bury et al. 2003, 2004</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "cupule_pit_and_groove",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9180, "lng": -119.1450},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:15px;height:15px;border-radius:50%;background:rgba(255,111,0,0.3);border:2.5px solid #FF6F00;box-shadow:0 0 7px #FF6F0066;\"></div>", "iconSize": [15, 15], "iconAnchor": [7.5, 7.5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Pond \u2014 Largest K-locale on the Preserve</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Red Linear & Curvilinear Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The <b>largest site on the Wind Wolves Preserve</b>, covering approximately 300 \u00d7 270 meters within impressive linear sandstone formations overlooking a wide bowl-like valley containing a seasonal sag-pond. Five pictograph locales, all in red linear and curvilinear styles. Robinson's viewshed analysis demonstrated that <b>15 of 16 BRM stations with 128 individual BRMs</b> are intervisible with the pictograph locations \u2014 the strongest visual integration of any mapped site. At the core of the site, the 'Window Box' outcrop with pictographs is visually prominent from the site boundaries, growing larger as people approached. Women returning to the same boulder throughout their lives to pound acorn would have worked under the constant visual presence of the paintings.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Up to 132 BRMs across 16 stations \u00b7 Dozens of cupules \u00b7 Extensive midden<br>\n          <b>Viewshed:</b> 128 BRMs and majority of midden intervisible with pictographs across 15 stations\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Robinson 2006</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.918,
+        "lng": -119.145
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:15px;height:15px;border-radius:50%;background:rgba(255,111,0,0.3);border:2.5px solid #FF6F00;box-shadow:0 0 7px #FF6F0066;\"></div>",
+        "iconSize": [
+          15,
+          15
+        ],
+        "iconAnchor": [
+          7.5,
+          7.5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Pond — Largest K-locale on the Preserve</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Red Linear & Curvilinear Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The <b>largest site on the Wind Wolves Preserve</b>, covering approximately 300 × 270 meters within impressive linear sandstone formations overlooking a wide bowl-like valley containing a seasonal sag-pond. Five pictograph locales, all in red linear and curvilinear styles. Robinson's viewshed analysis demonstrated that <b>15 of 16 BRM stations with 128 individual BRMs</b> are intervisible with the pictograph locations — the strongest visual integration of any mapped site. At the core of the site, the 'Window Box' outcrop with pictographs is visually prominent from the site boundaries, growing larger as people approached. Women returning to the same boulder throughout their lives to pound acorn would have worked under the constant visual presence of the paintings.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Up to 132 BRMs across 16 stations · Dozens of cupules · Extensive midden<br>\n          <b>Viewshed:</b> 128 BRMs and majority of midden intervisible with pictographs across 15 stations\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Robinson 2006</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "cupule_pit_and_groove",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9400, "lng": -119.1200},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;border-radius:50%;background:rgba(255,111,0,0.3);border:2.5px solid #FF6F00;box-shadow:0 0 7px #FF6F0066;\"></div>", "iconSize": [13, 13], "iconAnchor": [6.5, 6.5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Three Springs \u2014 Polychrome Cave with Blue Pigment</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Polychrome Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Located next to a wetland area with <b>three springs and a flowing stream</b>. Two pictograph locales: one on the largest BRM station, the other a main cave containing <b>complex polychrome compositions</b>. Robinson's viewshed analysis showed almost all of the wetlands, 3 stations, and 27 BRMs are within the visual envelope. Notable for rare <b>blue pigment</b> \u2014 Reeves, Bury & Robinson (2009) used portable X-ray fluorescence to demonstrate the pigments derived from locally available copper carbonates. Chumash mythology specifically mentions 'blue-rock paint' in association with the Emigdiano people.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 36 BRMs across 5 stations \u00b7 Well-developed midden<br>\n          <b>Viewshed:</b> 27 BRMs and 3 stations within visual envelope \u00b7 Wetland area intervisible\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Reeves, Bury & Robinson 2009</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.94,
+        "lng": -119.12
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;border-radius:50%;background:rgba(255,111,0,0.3);border:2.5px solid #FF6F00;box-shadow:0 0 7px #FF6F0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Three Springs — Polychrome Cave with Blue Pigment</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Polychrome Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Located next to a wetland area with <b>three springs and a flowing stream</b>. Two pictograph locales: one on the largest BRM station, the other a main cave containing <b>complex polychrome compositions</b>. Robinson's viewshed analysis showed almost all of the wetlands, 3 stations, and 27 BRMs are within the visual envelope. Notable for rare <b>blue pigment</b> — Reeves, Bury & Robinson (2009) used portable X-ray fluorescence to demonstrate the pigments derived from locally available copper carbonates. Chumash mythology specifically mentions 'blue-rock paint' in association with the Emigdiano people.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 36 BRMs across 5 stations · Well-developed midden<br>\n          <b>Viewshed:</b> 27 BRMs and 3 stations within visual envelope · Wetland area intervisible\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Reeves, Bury & Robinson 2009</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9050, "lng": -119.1700},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Santiago \u2014 The Monolith & Spring</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Faded Red Curvilinear Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">On an elevated terrace between a perennial creek and oak woodland. The core is a natural <b>'monolith'</b> peppered with cupules, a BRM station, and three pictograph panels \u2014 all in faded red curvilinear \u2014 overlooking a spring and Santiago Creek. Sprague & Grasse (1999) documented large quantities of lithic flakes and debitage surrounding the Monolith. Robinson's viewshed analysis showed <b>7 stations with 30 BRMs intervisible</b> with the pictographs. At Santiago, pictographs were painted <b>directly on the same host-rock</b> as the largest BRM station \u2014 food processing occurred literally on top of the art.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 49 BRMs across 13 stations \u00b7 16 cupules<br>\n          <b>Viewshed:</b> 7 stations with 30 BRMs intervisible with pictographs\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Sprague & Grasse 1999</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.905,
+        "lng": -119.17
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Santiago — The Monolith & Spring</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Faded Red Curvilinear Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">On an elevated terrace between a perennial creek and oak woodland. The core is a natural <b>'monolith'</b> peppered with cupules, a BRM station, and three pictograph panels — all in faded red curvilinear — overlooking a spring and Santiago Creek. Sprague & Grasse (1999) documented large quantities of lithic flakes and debitage surrounding the Monolith. Robinson's viewshed analysis showed <b>7 stations with 30 BRMs intervisible</b> with the pictographs. At Santiago, pictographs were painted <b>directly on the same host-rock</b> as the largest BRM station — food processing occurred literally on top of the art.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 49 BRMs across 13 stations · 16 cupules<br>\n          <b>Viewshed:</b> 7 stations with 30 BRMs intervisible with pictographs\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Sprague & Grasse 1999</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "cupule_pit_and_groove",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9120, "lng": -119.1550},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Los Lobos \u2014 Polychrome Shelters on the Ridge</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Polychrome Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Well into the oak zone, on a mid-ridge slope near a spring. BRM stations are dispersed across level <b>sandstone-shelf terraces</b>. Surface midden with burnt bone and imported <b>Temblor chert</b> (Late Period point). Below the midden, sandstone formations contain <b>two shelters with polychrome pictographs</b>. The pounding of acorns at Station 3 would have <b>thumped audibly into Shelter A beneath</b> \u2014 a visceral connection between daily labor and the painted surfaces.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 26 BRMs across 11 stations \u00b7 29+ cupules \u00b7 Surface midden with burnt bone & imported Temblor chert<br>\n          <b>Viewshed:</b> 4 stations with 5 BRMs intervisible with pictograph shelters\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Robinson 2006</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.912,
+        "lng": -119.155
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Los Lobos — Polychrome Shelters on the Ridge</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Polychrome Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Well into the oak zone, on a mid-ridge slope near a spring. BRM stations are dispersed across level <b>sandstone-shelf terraces</b>. Surface midden with burnt bone and imported <b>Temblor chert</b> (Late Period point). Below the midden, sandstone formations contain <b>two shelters with polychrome pictographs</b>. The pounding of acorns at Station 3 would have <b>thumped audibly into Shelter A beneath</b> — a visceral connection between daily labor and the painted surfaces.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 26 BRMs across 11 stations · 29+ cupules · Surface midden with burnt bone & imported Temblor chert<br>\n          <b>Viewshed:</b> 4 stations with 5 BRMs intervisible with pictograph shelters\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Robinson 2006</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "cupule_pit_and_groove",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9250, "lng": -119.1350},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Chimney Springs \u2014 Oak Terrace Monolith</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Red Curvilinear Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">A grassy terrace surrounded by oaks, above a creek and near a spring. Two pictograph panels in red curvilinear style on a <b>central sandstone monolith</b>. The <b>entire central area</b> is within the cumulative viewshed of both panels \u2014 6 stations with 17 BRMs intervisible. Asphaltum-covered rocks suggest basketry-making on-site; bunchgrasses and reeds provided raw material. Cooking activity also documented.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 18 BRMs across 7 stations \u00b7 3 cupules<br>\n          <b>Viewshed:</b> 6 stations with 17 BRMs within cumulative viewshed \u00b7 Entire central area visible\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.925,
+        "lng": -119.135
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Chimney Springs — Oak Terrace Monolith</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Red Curvilinear Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">A grassy terrace surrounded by oaks, above a creek and near a spring. Two pictograph panels in red curvilinear style on a <b>central sandstone monolith</b>. The <b>entire central area</b> is within the cumulative viewshed of both panels — 6 stations with 17 BRMs intervisible. Asphaltum-covered rocks suggest basketry-making on-site; bunchgrasses and reeds provided raw material. Cooking activity also documented.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 18 BRMs across 7 stations · 3 cupules<br>\n          <b>Viewshed:</b> 6 stations with 17 BRMs within cumulative viewshed · Entire central area visible\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "cupule_pit_and_groove",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.8950, "lng": -119.0900},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Pinwheel Cave \u2014 Ridge-Crest Complex</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Red Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The site with the <b>greatest physical separation between BRMs and rock art</b> of all K-locales mapped. BRM complex lines a ridge-crest with expansive views northwest. Oak woodland surrounds <b>Pinwheel Cave</b> to the south. Despite the distance, 6 stations with 12 BRMs remain intervisible. Robinson & Sturt (2008) confirmed <b>Late Period and Historical occupation</b> from midden directly under the pictographs.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 19 BRMs across 8 stations \u00b7 12+ cupules<br>\n          <b>Viewshed:</b> 6 stations with 12 BRMs intervisible with outcrop and Shelter 1\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Robinson & Sturt 2008</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.895,
+        "lng": -119.09
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Pinwheel Cave — Ridge-Crest Complex</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Red Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The site with the <b>greatest physical separation between BRMs and rock art</b> of all K-locales mapped. BRM complex lines a ridge-crest with expansive views northwest. Oak woodland surrounds <b>Pinwheel Cave</b> to the south. Despite the distance, 6 stations with 12 BRMs remain intervisible. Robinson & Sturt (2008) confirmed <b>Late Period and Historical occupation</b> from midden directly under the pictographs.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 19 BRMs across 8 stations · 12+ cupules<br>\n          <b>Viewshed:</b> 6 stations with 12 BRMs intervisible with outcrop and Shelter 1\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Robinson & Sturt 2008</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "cupule_pit_and_groove",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9100, "lng": -119.1480},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Pebble \u2014 BRM K-locale with Pictographs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs \u2014 K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">One of the named K-locales where pictographs and BRM stations share the same host-rock. Robinson documented that at 5 of 7 intensively mapped sites, paintings were on the <b>same rock as the largest BRM station</b> \u2014 the most-used food processing feature bearing the art.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 18+ BRMs in immediate vicinity<br>\n          <b>Viewshed:</b> Pictographs and BRMs share host-rock at largest station\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.91,
+        "lng": -119.148
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Pebble — BRM K-locale with Pictographs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs — K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">One of the named K-locales where pictographs and BRM stations share the same host-rock. Robinson documented that at 5 of 7 intensively mapped sites, paintings were on the <b>same rock as the largest BRM station</b> — the most-used food processing feature bearing the art.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> 18+ BRMs in immediate vicinity<br>\n          <b>Viewshed:</b> Pictographs and BRMs share host-rock at largest station\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9300, "lng": -119.1500},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Salt Creek Pictographs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs \u2014 Corridor Site \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Close to a number of BRM sites but not an independent K-locale. Positioned on a <b>major internal corridor</b>. Part of Robinson's finding that <b>15 of 17 pictograph sites</b> are prominently positioned within the experienced Hulkuhku landscape.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Near 8 BRM stations (18 BRMs + grinding slick)<br>\n          <b>Viewshed:</b> Along major internal corridor of central Pleitito drainage\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.93,
+        "lng": -119.15
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Salt Creek Pictographs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs — Corridor Site · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Close to a number of BRM sites but not an independent K-locale. Positioned on a <b>major internal corridor</b>. Part of Robinson's finding that <b>15 of 17 pictograph sites</b> are prominently positioned within the experienced Hulkuhku landscape.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Near 8 BRM stations (18 BRMs + grinding slick)<br>\n          <b>Viewshed:</b> Along major internal corridor of central Pleitito drainage\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9000, "lng": -119.1500},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 San Emigdio Isolate \u2014 Canyon Conduit</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Single-Element Pictograph \u2014 Canyon Conduit \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">A <b>single-element pictograph</b> on a conspicuous boulder along San Emigdio Canyon \u2014 one of three primary routes into Hulkuhku territory. Visible to anyone traveling the canyon, but isolated from the main K-locale network.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> None in immediate vicinity<br>\n          <b>Viewshed:</b> On conspicuous boulder along major conduit of San Emigdio Canyon\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.9,
+        "lng": -119.15
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 San Emigdio Isolate — Canyon Conduit</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Single-Element Pictograph — Canyon Conduit · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">A <b>single-element pictograph</b> on a conspicuous boulder along San Emigdio Canyon — one of three primary routes into Hulkuhku territory. Visible to anyone traveling the canyon, but isolated from the main K-locale network.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> None in immediate vicinity<br>\n          <b>Viewshed:</b> On conspicuous boulder along major conduit of San Emigdio Canyon\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9170, "lng": -119.1420},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Letter Cave</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs \u2014 Near Pond K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">One of three pictograph sites (with Lizard Cave and Echo) clustered near <b>Pond</b>. Together they sit in the <b>densest archaeological zone</b> on the Preserve.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Within 1.5\u20133 km of Pond (largest BRM concentration)<br>\n          <b>Viewshed:</b> Heart of highest site density \u00b7 On central Pleitito corridor\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.917,
+        "lng": -119.142
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Letter Cave</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs — Near Pond K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">One of three pictograph sites (with Lizard Cave and Echo) clustered near <b>Pond</b>. Together they sit in the <b>densest archaeological zone</b> on the Preserve.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Within 1.5–3 km of Pond (largest BRM concentration)<br>\n          <b>Viewshed:</b> Heart of highest site density · On central Pleitito corridor\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9175, "lng": -119.1440},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Lizard Cave</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs \u2014 Near Pond K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Part of the Letter\u2013Lizard\u2013Echo cluster, demonstrating rock art was <b>positioned within the normal orbit of Hulkuhku land-use</b>.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Within 1.5\u20133 km of Pond<br>\n          <b>Viewshed:</b> Clustered with Letter Cave and Echo\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.9175,
+        "lng": -119.144
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Lizard Cave</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs — Near Pond K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Part of the Letter–Lizard–Echo cluster, demonstrating rock art was <b>positioned within the normal orbit of Hulkuhku land-use</b>.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Within 1.5–3 km of Pond<br>\n          <b>Viewshed:</b> Clustered with Letter Cave and Echo\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.9160, "lng": -119.1380},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Echo</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs \u2014 Near K-locale \u00b7 Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Less than a kilometer from a K-locale with 30 BRMs. Part of the Letter\u2013Lizard\u2013Echo cluster.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> ~1 km downstream from K-locale with 30 BRMs<br>\n          <b>Viewshed:</b> Within dense site network of central Pleitito\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.916,
+        "lng": -119.138
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Echo</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Pictographs — Near K-locale · Hulkuhku / Emigdiano Chumash</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Less than a kilometer from a K-locale with 30 BRMs. Part of the Letter–Lizard–Echo cluster.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> ~1 km downstream from K-locale with 30 BRMs<br>\n          <b>Viewshed:</b> Within dense site network of central Pleitito\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.8900, "lng": -119.1800},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Lost Canyon \u2014 Black-Linear Outlier</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Black-Linear Pictographs \u2014 Outlier \u00b7 Hulkuhku / Emigdiano Chumash (or earlier)</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">One of two sites <b>outside the primary Hulkuhku land-use pattern</b>. Exclusively <b>black-linear pictographs</b> \u2014 distinct from the red/polychrome styles. Robinson suggested these may be associated with different land-use practices and possibly different time periods.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Outside primary areas of usage<br>\n          <b>Viewshed:</b> May represent different land-use practices or time periods\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.89,
+        "lng": -119.18
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Lost Canyon — Black-Linear Outlier</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Black-Linear Pictographs — Outlier · Hulkuhku / Emigdiano Chumash (or earlier)</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">One of two sites <b>outside the primary Hulkuhku land-use pattern</b>. Exclusively <b>black-linear pictographs</b> — distinct from the red/polychrome styles. Robinson suggested these may be associated with different land-use practices and possibly different time periods.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Outside primary areas of usage<br>\n          <b>Viewshed:</b> May represent different land-use practices or time periods\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.8880, "lng": -119.0800},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>", "iconSize": [10, 10], "iconAnchor": [5, 5]},
-      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">\ud83c\udfa8 Lonely Pine \u2014 Black-Linear Outlier</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Black-Linear Pictographs \u2014 Outlier \u00b7 Hulkuhku / Emigdiano Chumash (or earlier)</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The second outlier site with exclusively black-linear pictographs. In more difficult terrain. Their exclusion from the main pattern actually strengthens Robinson's argument: the 15 sites within the normal pattern are all at K-locales, corridors, or pathways.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udcca GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Outside primary areas of usage<br>\n          <b>Viewshed:</b> Difficult access area\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": {
+        "lat": 34.888,
+        "lng": -119.08
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;background:rgba(255,111,0,0.25);border:2px solid #FF6F00;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:14px;\">🎨 Lonely Pine — Black-Linear Outlier</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Black-Linear Pictographs — Outlier · Hulkuhku / Emigdiano Chumash (or earlier)</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The second outlier site with exclusively black-linear pictographs. In more difficult terrain. Their exclusion from the main pattern actually strengthens Robinson's argument: the 15 sites within the normal pattern are all at K-locales, corridors, or pathways.</div>\n      <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n        <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">📊 GIS Landscape Data (Robinson 2010)</div>\n        <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n          <b>BRMs:</b> Outside primary areas of usage<br>\n          <b>Viewshed:</b> Difficult access area\n        </div>\n      </div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuVillages",
-      "geometry": {"lat": 34.9350, "lng": -119.1900},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:14px solid #FFD54F;filter:drop-shadow(0 0 4px #FFD54F66);\"></div>", "iconSize": [14, 14], "iconAnchor": [7, 7]},
-      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFD54F;margin:0 0 2px;font-size:14px;\">\ud83c\udfd8\ufe0f Matapuan</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Ethnohistoric Hulkuhku Village \u00b7 Wind Wolves Preserve</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Western village near a major canyon mouth. Robinson found the <b>closest pictograph site was almost 0.5 km away</b> despite rock formations being present. This absence of art at villages is key: rock art was positioned at seasonal backcountry K-locales, not permanent settlements.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n    </div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 34.935,
+        "lng": -119.19
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:14px solid #FFD54F;filter:drop-shadow(0 0 4px #FFD54F66);\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFD54F;margin:0 0 2px;font-size:14px;\">🏘️ Matapuan</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Ethnohistoric Hulkuhku Village · Wind Wolves Preserve</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Western village near a major canyon mouth. Robinson found the <b>closest pictograph site was almost 0.5 km away</b> despite rock formations being present. This absence of art at villages is key: rock art was positioned at seasonal backcountry K-locales, not permanent settlements.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuVillages",
-      "geometry": {"lat": 34.9450, "lng": -119.1500},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:14px solid #FFD54F;filter:drop-shadow(0 0 4px #FFD54F66);\"></div>", "iconSize": [14, 14], "iconAnchor": [7, 7]},
-      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFD54F;margin:0 0 2px;font-size:14px;\">\ud83c\udfd8\ufe0f Tashlipun</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Ethnohistoric Hulkuhku Village \u00b7 Wind Wolves Preserve</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Central village near San Emigdio Canyon mouth. The cost-surface path from Tashlipun to Chimney rock art site passes through or near <b>nine archaeological sites</b>, including Pond \u2014 showing how tightly pictographs were integrated into internal movement networks.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n    </div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 34.945,
+        "lng": -119.15
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:14px solid #FFD54F;filter:drop-shadow(0 0 4px #FFD54F66);\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFD54F;margin:0 0 2px;font-size:14px;\">🏘️ Tashlipun</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Ethnohistoric Hulkuhku Village · Wind Wolves Preserve</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Central village near San Emigdio Canyon mouth. The cost-surface path from Tashlipun to Chimney rock art site passes through or near <b>nine archaeological sites</b>, including Pond — showing how tightly pictographs were integrated into internal movement networks.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuVillages",
-      "geometry": {"lat": 34.9200, "lng": -119.0650},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:14px solid #FFD54F;filter:drop-shadow(0 0 4px #FFD54F66);\"></div>", "iconSize": [14, 14], "iconAnchor": [7, 7]},
-      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFD54F;margin:0 0 2px;font-size:14px;\">\ud83c\udfd8\ufe0f Tecuya</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Ethnohistoric Hulkuhku Village \u00b7 Wind Wolves Preserve</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Eastern village at Grapevine Canyon. Especially high BRM concentrations nearby, but Robinson identified it as a <b>political center rather than acorn gathering site</b>. Anchored the southeast approach connecting Hulkuhku to southerly Chumash communities.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n    </div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 34.92,
+        "lng": -119.065
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:14px solid #FFD54F;filter:drop-shadow(0 0 4px #FFD54F66);\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFD54F;margin:0 0 2px;font-size:14px;\">🏘️ Tecuya</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">Ethnohistoric Hulkuhku Village · Wind Wolves Preserve</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Eastern village at Grapevine Canyon. Especially high BRM concentrations nearby, but Robinson identified it as a <b>political center rather than acorn gathering site</b>. Anchored the southeast approach connecting Hulkuhku to southerly Chumash communities.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "grapevine_canyon"
+      ]
     },
     {
       "type": "polygon",
       "layer": "hulkuhkuTerritory",
-      "geometry": [[35.00,-119.25],[35.00,-119.05],[34.95,-118.95],[34.90,-118.95],[34.85,-119.00],[34.83,-119.10],[34.85,-119.20],[34.90,-119.25],[35.00,-119.25]],
-      "style": {"color": "#FF6F00", "weight": 2, "opacity": 0.6, "fillColor": "#FF6F00", "fillOpacity": 0.06, "dashArray": "6,4"},
-      "popup": "\n  <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#FF6F00;margin:0 0 4px;font-size:14px;\">Hulkuhku / Emigdiano Chumash Territory</h4>\n    <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">San Emigdio Hills \u00b7 Wind Wolves Preserve \u00b7 Kern County, CA</div>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">\n      The interior Chumash group documented as <b><i>hulkuhku</i></b> or <b><i>Hool'-koo-koo</i></b> by Merriam (1967). \n      The term <i>kuhku</i> means \"people\" in some Chumash dialects; <i>Hulkuhku</i> is an external designation meaning roughly \"over there people.\" \n      \"Emigdiano\" is a Spanish appellation \u2014 Robinson uses the Indigenous term.<br><br>\n      Territory at the convergence of the <b>Transverse Ranges, Coast Ranges, Sierra Mountains, and Western Mojave</b>. \n      Robinson's survey documented <b>106 sites</b>: 70 (66%) had bedrock mortars. 17 pictograph sites found.<br><br>\n      <b>Key finding:</b> Pictographs were not at villages, not on external routes, but integrated into the internal seasonal landscape \u2014 \n      at K-locales where the most important subsistence activity of the yearly round took place.\n    </div>\n    <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">\ud83d\udd2c Robinson's Three-Scale Analysis</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        <b>1. At villages?</b> No \u2014 no pictographs at Matapuan, Tashlipun, or Tecuya<br>\n        <b>2. On external routes?</b> Only 2 of 17 on major conduits \u2014 not boundary markers<br>\n        <b>3. In internal movement?</b> Yes \u2014 15 of 17 integrated into daily landscape<br><br>\n        <b>Seasonal round:</b> Winter villages \u2192 dispersal \u2192 acorn harvest \u2192 K-locale aggregation \u2192 return\n      </div>\n    </div>\n    <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n  </div>",
-      "popupOptions": {"maxWidth": 460}
+      "geometry": [
+        [
+          35.0,
+          -119.25
+        ],
+        [
+          35.0,
+          -119.05
+        ],
+        [
+          34.95,
+          -118.95
+        ],
+        [
+          34.9,
+          -118.95
+        ],
+        [
+          34.85,
+          -119.0
+        ],
+        [
+          34.83,
+          -119.1
+        ],
+        [
+          34.85,
+          -119.2
+        ],
+        [
+          34.9,
+          -119.25
+        ],
+        [
+          35.0,
+          -119.25
+        ]
+      ],
+      "style": {
+        "color": "#FF6F00",
+        "weight": 2,
+        "opacity": 0.6,
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.06,
+        "dashArray": "6,4"
+      },
+      "popup": "\n  <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#FF6F00;margin:0 0 4px;font-size:14px;\">Hulkuhku / Emigdiano Chumash Territory</h4>\n    <div style=\"font-size:10px;color:#aaa;margin-bottom:6px;\">San Emigdio Hills · Wind Wolves Preserve · Kern County, CA</div>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">\n      The interior Chumash group documented as <b><i>hulkuhku</i></b> or <b><i>Hool'-koo-koo</i></b> by Merriam (1967). \n      The term <i>kuhku</i> means \"people\" in some Chumash dialects; <i>Hulkuhku</i> is an external designation meaning roughly \"over there people.\" \n      \"Emigdiano\" is a Spanish appellation — Robinson uses the Indigenous term.<br><br>\n      Territory at the convergence of the <b>Transverse Ranges, Coast Ranges, Sierra Mountains, and Western Mojave</b>. \n      Robinson's survey documented <b>106 sites</b>: 70 (66%) had bedrock mortars. 17 pictograph sites found.<br><br>\n      <b>Key finding:</b> Pictographs were not at villages, not on external routes, but integrated into the internal seasonal landscape — \n      at K-locales where the most important subsistence activity of the yearly round took place.\n    </div>\n    <div style=\"margin-top:8px;padding:8px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:11px;color:#FFAB40;font-weight:600;margin-bottom:3px;\">🔬 Robinson's Three-Scale Analysis</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        <b>1. At villages?</b> No — no pictographs at Matapuan, Tashlipun, or Tecuya<br>\n        <b>2. On external routes?</b> Only 2 of 17 on major conduits — not boundary markers<br>\n        <b>3. In internal movement?</b> Yes — 15 of 17 integrated into daily landscape<br><br>\n        <b>Seasonal round:</b> Winter villages → dispersal → acorn harvest → K-locale aggregation → return\n      </div>\n    </div>\n    <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Merriam 1967; Kroeber 1925</div>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ]
     },
     {
       "type": "polyline",
       "layer": "hulkuhkuCorridors",
-      "geometry": [[34.93,-119.17],[34.91,-119.18],[34.89,-119.20],[34.87,-119.22]],
-      "style": {"color": "#FFAB40", "weight": 3, "opacity": 0.5, "dashArray": "8,6"},
-      "popup": "\n    <div style=\"max-width:360px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFAB40;margin:0 0 4px;\">\ud83d\udee4\ufe0f Santiago Canyon Corridor</h4>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;\">Western approach. GIS cost-surface routes from the southwest (Quatal Canyon) converge through Santiago. Modern Preserve roads follow this traditional corridor.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Horne 1981; Johnson 1978, 2000</div>\n    </div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": [
+        [
+          34.93,
+          -119.17
+        ],
+        [
+          34.91,
+          -119.18
+        ],
+        [
+          34.89,
+          -119.2
+        ],
+        [
+          34.87,
+          -119.22
+        ]
+      ],
+      "style": {
+        "color": "#FFAB40",
+        "weight": 3,
+        "opacity": 0.5,
+        "dashArray": "8,6"
+      },
+      "popup": "\n    <div style=\"max-width:360px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFAB40;margin:0 0 4px;\">🛤️ Santiago Canyon Corridor</h4>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;\">Western approach. GIS cost-surface routes from the southwest (Quatal Canyon) converge through Santiago. Modern Preserve roads follow this traditional corridor.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Horne 1981; Johnson 1978, 2000</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "polyline",
       "layer": "hulkuhkuCorridors",
-      "geometry": [[34.94,-119.15],[34.92,-119.15],[34.90,-119.15],[34.88,-119.16]],
-      "style": {"color": "#FFAB40", "weight": 3, "opacity": 0.5, "dashArray": "8,6"},
-      "popup": "\n    <div style=\"max-width:360px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFAB40;margin:0 0 4px;\">\ud83d\udee4\ufe0f San Emigdio Canyon Corridor</h4>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;\">Central approach. The San Emigdio isolate pictograph sits conspicuously along this route. Routes from the south (Lockwood Valley) converge here.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Horne 1981; Johnson 1978, 2000</div>\n    </div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": [
+        [
+          34.94,
+          -119.15
+        ],
+        [
+          34.92,
+          -119.15
+        ],
+        [
+          34.9,
+          -119.15
+        ],
+        [
+          34.88,
+          -119.16
+        ]
+      ],
+      "style": {
+        "color": "#FFAB40",
+        "weight": 3,
+        "opacity": 0.5,
+        "dashArray": "8,6"
+      },
+      "popup": "\n    <div style=\"max-width:360px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFAB40;margin:0 0 4px;\">🛤️ San Emigdio Canyon Corridor</h4>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;\">Central approach. The San Emigdio isolate pictograph sits conspicuously along this route. Routes from the south (Lockwood Valley) converge here.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Horne 1981; Johnson 1978, 2000</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "polyline",
       "layer": "hulkuhkuCorridors",
-      "geometry": [[34.92,-119.07],[34.90,-119.05],[34.88,-119.03],[34.86,-119.02]],
-      "style": {"color": "#FFAB40", "weight": 3, "opacity": 0.5, "dashArray": "8,6"},
-      "popup": "\n    <div style=\"max-width:360px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFAB40;margin:0 0 4px;\">\ud83d\udee4\ufe0f Grapevine Canyon Corridor</h4>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;\">Southeast approach connecting to the Tejon area and Venture\u00f1o Chumash territories beyond.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Horne 1981; Johnson 1978, 2000</div>\n    </div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": [
+        [
+          34.92,
+          -119.07
+        ],
+        [
+          34.9,
+          -119.05
+        ],
+        [
+          34.88,
+          -119.03
+        ],
+        [
+          34.86,
+          -119.02
+        ]
+      ],
+      "style": {
+        "color": "#FFAB40",
+        "weight": 3,
+        "opacity": 0.5,
+        "dashArray": "8,6"
+      },
+      "popup": "\n    <div style=\"max-width:360px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFAB40;margin:0 0 4px;\">🛤️ Grapevine Canyon Corridor</h4>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;\">Southeast approach connecting to the Tejon area and Ventureño Chumash territories beyond.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Horne 1981; Johnson 1978, 2000</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "grapevine_canyon"
+      ]
     },
     {
       "type": "marker",
       "layer": "greatBasinRockArt",
-      "geometry": {"lat": 35.95, "lng": -117.70},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:16px;height:16px;border-radius:50%;background:rgba(255,112,67,0.2);border:2.5px solid #FF7043;box-shadow:0 0 8px #FF704366;\"></div>", "iconSize": [16, 16], "iconAnchor": [8, 8]},
-      "popup": "\n  <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#FF7043;margin:0 0 2px;font-size:14px;\">\ud83d\udcd6 Coso Petroglyphs \u2014 Competing Interpretations</h4>\n    <div style=\"font-size:10px;color:#aaa;margin-bottom:8px;\">Bighorn Sheep Symbolism Debate \u00b7 Three Major Hypotheses</div>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">\n      The Coso Range's 100,000+ petroglyphs \u2014 dominated by <b>bighorn sheep imagery</b> \u2014 have generated one of the most important interpretive debates in North American rock art studies:\n    </div>\n    <div style=\"margin-top:10px;padding:10px;background:rgba(211,47,47,0.08);border-left:3px solid #EF5350;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#EF5350;font-weight:700;margin-bottom:4px;\">1. Hunting Cult (Heizer & Baumhoff 1962; Grant 1968)</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Heizer & Baumhoff proposed petroglyphs were <b>rituals to ensure successful hunts</b>. \n        Grant extended this into a formalized <b>bighorn sheep hunting cult</b> (ca. A.D. 300\u20131000) with ceremonial practices and communal hunts. \n        His termination date was admittedly arbitrary.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(255,183,77,0.08);border-left:3px solid #FFB74D;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#FFB74D;font-weight:700;margin-bottom:4px;\">2. Masculine Symbolism (Whitley 1982)</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Whitley analyzed <b>Western Shoshone origin myths</b> from 12 regional groups (Lowie 1909; Steward 1936, 1943). \n        In these myths, Coyote must kill a bighorn sheep and use its <b>neckbone as a phallic implement</b> to overcome a \"toothed vagina\" obstacle and populate the world. \n        Coyote had already proven himself a capable provider, but <b>only killing bighorn sheep</b> gave the power for male virility.<br><br>\n        Whitley argued bighorn sheep = <b>generalized symbol of male success</b> in hunting and sexual domains, not a formal cult. \n        Supporting evidence: (1) Steward noted <b>no ceremonial remnants</b> in the Coso region; (2) geographic distribution of the myth matches Great Basin rock art distribution; \n        (3) sheep imagery <b>continued into the historic period</b> (horses, wheeled carts); (4) excavations at 5 Coso sites found <b>little or no sheep hunting</b> evidence.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(126,87,194,0.08);border-left:3px solid #9575CD;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#9575CD;font-weight:700;margin-bottom:4px;\">3. Shamanic Vision Quest (Whitley 1998, 2000)</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        In later work, Whitley proposed petroglyphs were created by shamans during <b>altered states of consciousness</b>, \n        with bighorn sheep as spirit helpers and pattern-bodied anthropomorphs as the shaman's transformed trance body. \n        Influential but contested \u2014 Quinlan (2000a, 2000b) criticized over-reliance on neuropsychological universals.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(0,131,143,0.08);border-left:3px solid #00838F;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#00838F;font-weight:700;margin-bottom:4px;\">Methodological Note</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Whitley (1982) advocated an <b>\"iconographical\" approach</b> (following Panofsky) relating motifs to broad symbolic themes across groups, \n        rather than matching specific myths to specific sites. The persistence of oral traditions over millennia \n        and the myth's distribution across 12 Great Basin groups suggest bighorn sheep symbolism operated at a deep cultural level.\n      </div>\n    </div>\n    <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Heizer & Baumhoff 1962; Grant 1968, 1980; Whitley 1982, 1998, 2000; Lowie 1909; Steward 1936, 1943; Quinlan 2000a, 2000b</div>\n  </div>",
-      "popupOptions": {"maxWidth": 480}
+      "geometry": {
+        "lat": 35.95,
+        "lng": -117.7
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:16px;height:16px;border-radius:50%;background:rgba(255,112,67,0.2);border:2.5px solid #FF7043;box-shadow:0 0 8px #FF704366;\"></div>",
+        "iconSize": [
+          16,
+          16
+        ],
+        "iconAnchor": [
+          8,
+          8
+        ]
+      },
+      "popup": "\n  <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#FF7043;margin:0 0 2px;font-size:14px;\">📖 Coso Petroglyphs — Competing Interpretations</h4>\n    <div style=\"font-size:10px;color:#aaa;margin-bottom:8px;\">Bighorn Sheep Symbolism Debate · Three Major Hypotheses</div>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">\n      The Coso Range's 100,000+ petroglyphs — dominated by <b>bighorn sheep imagery</b> — have generated one of the most important interpretive debates in North American rock art studies:\n    </div>\n    <div style=\"margin-top:10px;padding:10px;background:rgba(211,47,47,0.08);border-left:3px solid #EF5350;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#EF5350;font-weight:700;margin-bottom:4px;\">1. Hunting Cult (Heizer & Baumhoff 1962; Grant 1968)</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Heizer & Baumhoff proposed petroglyphs were <b>rituals to ensure successful hunts</b>. \n        Grant extended this into a formalized <b>bighorn sheep hunting cult</b> (ca. A.D. 300–1000) with ceremonial practices and communal hunts. \n        His termination date was admittedly arbitrary.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(255,183,77,0.08);border-left:3px solid #FFB74D;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#FFB74D;font-weight:700;margin-bottom:4px;\">2. Masculine Symbolism (Whitley 1982)</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Whitley analyzed <b>Western Shoshone origin myths</b> from 12 regional groups (Lowie 1909; Steward 1936, 1943). \n        In these myths, Coyote must kill a bighorn sheep and use its <b>neckbone as a phallic implement</b> to overcome a \"toothed vagina\" obstacle and populate the world. \n        Coyote had already proven himself a capable provider, but <b>only killing bighorn sheep</b> gave the power for male virility.<br><br>\n        Whitley argued bighorn sheep = <b>generalized symbol of male success</b> in hunting and sexual domains, not a formal cult. \n        Supporting evidence: (1) Steward noted <b>no ceremonial remnants</b> in the Coso region; (2) geographic distribution of the myth matches Great Basin rock art distribution; \n        (3) sheep imagery <b>continued into the historic period</b> (horses, wheeled carts); (4) excavations at 5 Coso sites found <b>little or no sheep hunting</b> evidence.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(126,87,194,0.08);border-left:3px solid #9575CD;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#9575CD;font-weight:700;margin-bottom:4px;\">3. Shamanic Vision Quest (Whitley 1998, 2000)</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        In later work, Whitley proposed petroglyphs were created by shamans during <b>altered states of consciousness</b>, \n        with bighorn sheep as spirit helpers and pattern-bodied anthropomorphs as the shaman's transformed trance body. \n        Influential but contested — Quinlan (2000a, 2000b) criticized over-reliance on neuropsychological universals.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(0,131,143,0.08);border-left:3px solid #00838F;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#00838F;font-weight:700;margin-bottom:4px;\">Methodological Note</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Whitley (1982) advocated an <b>\"iconographical\" approach</b> (following Panofsky) relating motifs to broad symbolic themes across groups, \n        rather than matching specific myths to specific sites. The persistence of oral traditions over millennia \n        and the myth's distribution across 12 Great Basin groups suggest bighorn sheep symbolism operated at a deep cultural level.\n      </div>\n    </div>\n    <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Heizer & Baumhoff 1962; Grant 1968, 1980; Whitley 1982, 1998, 2000; Lowie 1909; Steward 1936, 1943; Quinlan 2000a, 2000b</div>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 480
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "coso_tradition",
+        "lenape",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "lenape",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "coso_tradition",
+        "historic_period"
+      ]
     },
     {
       "type": "marker",
       "layer": "hulkuhkuPicto",
-      "geometry": {"lat": 34.91, "lng": -119.13},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:18px;height:18px;border-radius:50%;background:rgba(255,111,0,0.15);border:3px solid #FF6F00;box-shadow:0 0 10px #FF6F0044;display:flex;align-items:center;justify-content:center;\"><div style=\"width:6px;height:6px;background:#FF6F00;border-radius:50%;\"></div></div>", "iconSize": [18, 18], "iconAnchor": [9, 9]},
-      "popup": "\n  <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:15px;\">\ud83d\udd2c Robinson 2010: \"Land Use, Land Ideology\"</h4>\n    <div style=\"font-size:10px;color:#aaa;margin-bottom:8px;\">American Antiquity 75(4):792\u2013818 \u00b7 GIS Landscape Analysis</div>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">\n      Robinson's GIS analysis produced a landmark finding: pictographs were <b>not private shamanic retreats</b> but were deeply integrated into the most economically important places. \n      The art was at <b>K-locales</b> where multiple family groups reconvened for intensive acorn processing. \n      Viewshed analyses of 7 sites: <b>256 individual BRMs across 44 stations</b> intervisible with pictographs. \n      At 5 of 7 sites, paintings were on the <b>same rock as the largest BRM station</b>.\n    </div>\n    <div style=\"margin-top:10px;padding:10px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#FFAB40;font-weight:700;margin-bottom:4px;\">\ud83d\udc69 Women, Labor & Ideological Media</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        California ethnography associates BRM stations with <b>women's labor</b> \u2014 women prepared acorns and sometimes held personal ownership of stations (Jackson 1991). \n        During the autumnal harvest, <b>virtually the entire population</b> would have been at these K-locales. \n        Robinson concluded subsistence and symbolic practices were <b>conjoined at the most important economic places</b> \u2014 \n        an ideology linked to the control of resources and labor.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(0,131,143,0.08);border-left:3px solid #00838F;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#00838F;font-weight:700;margin-bottom:4px;\">\ud83d\uddfa\ufe0f Challenging Whitley's \"Private Shamanic\" Model</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Whitley (2000a) argued rock art sites were <b>shamans' private cache sites</b> avoided by the public. \n        Robinson's evidence directly contradicts this: the art was at the <b>most public, most frequented</b> economic sites. \n        Pendergraft (2007) found similar patterns in the Great Basin.\n      </div>\n    </div>\n    <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Jackson 1984, 1991; Whitley 2000a; Quinlan & Woody 2003; Pendergraft 2007; Ingold 1993</div>\n  </div>",
-      "popupOptions": {"maxWidth": 480}
+      "geometry": {
+        "lat": 34.91,
+        "lng": -119.13
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:18px;height:18px;border-radius:50%;background:rgba(255,111,0,0.15);border:3px solid #FF6F00;box-shadow:0 0 10px #FF6F0044;display:flex;align-items:center;justify-content:center;\"><div style=\"width:6px;height:6px;background:#FF6F00;border-radius:50%;\"></div></div>",
+        "iconSize": [
+          18,
+          18
+        ],
+        "iconAnchor": [
+          9,
+          9
+        ]
+      },
+      "popup": "\n  <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#FF6F00;margin:0 0 2px;font-size:15px;\">🔬 Robinson 2010: \"Land Use, Land Ideology\"</h4>\n    <div style=\"font-size:10px;color:#aaa;margin-bottom:8px;\">American Antiquity 75(4):792–818 · GIS Landscape Analysis</div>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">\n      Robinson's GIS analysis produced a landmark finding: pictographs were <b>not private shamanic retreats</b> but were deeply integrated into the most economically important places. \n      The art was at <b>K-locales</b> where multiple family groups reconvened for intensive acorn processing. \n      Viewshed analyses of 7 sites: <b>256 individual BRMs across 44 stations</b> intervisible with pictographs. \n      At 5 of 7 sites, paintings were on the <b>same rock as the largest BRM station</b>.\n    </div>\n    <div style=\"margin-top:10px;padding:10px;background:rgba(255,111,0,0.08);border-left:3px solid #FF6F00;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#FFAB40;font-weight:700;margin-bottom:4px;\">👩 Women, Labor & Ideological Media</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        California ethnography associates BRM stations with <b>women's labor</b> — women prepared acorns and sometimes held personal ownership of stations (Jackson 1991). \n        During the autumnal harvest, <b>virtually the entire population</b> would have been at these K-locales. \n        Robinson concluded subsistence and symbolic practices were <b>conjoined at the most important economic places</b> — \n        an ideology linked to the control of resources and labor.\n      </div>\n    </div>\n    <div style=\"margin-top:8px;padding:10px;background:rgba(0,131,143,0.08);border-left:3px solid #00838F;border-radius:0 4px 4px 0;\">\n      <div style=\"font-size:12px;color:#00838F;font-weight:700;margin-bottom:4px;\">🗺️ Challenging Whitley's \"Private Shamanic\" Model</div>\n      <div style=\"font-size:11px;color:#bbb;line-height:1.5;\">\n        Whitley (2000a) argued rock art sites were <b>shamans' private cache sites</b> avoided by the public. \n        Robinson's evidence directly contradicts this: the art was at the <b>most public, most frequented</b> economic sites. \n        Pendergraft (2007) found similar patterns in the Great Basin.\n      </div>\n    </div>\n    <div style=\"margin-top:6px;font-size:10px;color:#888;\">Sources: Robinson 2010; Jackson 1984, 1991; Whitley 2000a; Quinlan & Woody 2003; Pendergraft 2007; Ingold 1993</div>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 480
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     }
   ]
 }

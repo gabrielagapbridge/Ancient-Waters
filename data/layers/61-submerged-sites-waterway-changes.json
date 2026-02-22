@@ -5,162 +5,606 @@
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 46.25, "lng": -118.88},
-      "style": {"radius": 6, "color": "#37474F", "fillColor": "#B71C1C", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">\ud83d\udd34 Ice Harbor Dam (1962) \u2014 Lake Sacajawea</h3>\n    <p><b>Location:</b> Snake River, mile 9.7, Franklin County, WA</p>\n    <p><b>What Was Lost:</b></p>\n    <p>Lake Sacajawea (30 miles long, 9,200 acres) drowned an entire landscape of Indigenous life. The Corps acknowledged: <b>\"Several Indian burial grounds were inundated by the backwater.\"</b></p>\n    <p>The reservoir submerged the <b>Windust Caves</b> \u2014 nine caves with 10,000+ years of continuous human occupation (see below). Salvage excavation was rushed in 1959-61 before the water rose.</p>\n    <p>Numerous villages, fishing sites, temporary camps, storage pits, shell middens, and <b>rock art \u2014 both pictographs and petroglyphs</b> \u2014 were drowned along the Snake River corridor. Three Archaeological Districts in this region are on the National Register.</p>\n    <p>The Columbia Plateau was inhabited as early as <b>11,500 years ago</b>, with settlements established by 11,230 years ago. The four Lower Snake dams collectively destroyed one of the richest archaeological corridors in North America.</p>\n    <p><b>The Pattern:</b> Congress authorized the Lower Snake River Project in 1945. Ice Harbor (1962), Lower Monumental (1969), Little Goose (1970), Lower Granite (1975) \u2014 transforming 140 miles of free-flowing river into a chain of slack-water reservoirs. Salmon runs collapsed to a fraction of historic levels. All Snake River salmon are now listed as threatened or endangered.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": {
+        "lat": 46.25,
+        "lng": -118.88
+      },
+      "style": {
+        "radius": 6,
+        "color": "#37474F",
+        "fillColor": "#B71C1C",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">🔴 Ice Harbor Dam (1962) — Lake Sacajawea</h3>\n    <p><b>Location:</b> Snake River, mile 9.7, Franklin County, WA</p>\n    <p><b>What Was Lost:</b></p>\n    <p>Lake Sacajawea (30 miles long, 9,200 acres) drowned an entire landscape of Indigenous life. The Corps acknowledged: <b>\"Several Indian burial grounds were inundated by the backwater.\"</b></p>\n    <p>The reservoir submerged the <b>Windust Caves</b> — nine caves with 10,000+ years of continuous human occupation (see below). Salvage excavation was rushed in 1959-61 before the water rose.</p>\n    <p>Numerous villages, fishing sites, temporary camps, storage pits, shell middens, and <b>rock art — both pictographs and petroglyphs</b> — were drowned along the Snake River corridor. Three Archaeological Districts in this region are on the National Register.</p>\n    <p>The Columbia Plateau was inhabited as early as <b>11,500 years ago</b>, with settlements established by 11,230 years ago. The four Lower Snake dams collectively destroyed one of the richest archaeological corridors in North America.</p>\n    <p><b>The Pattern:</b> Congress authorized the Lower Snake River Project in 1945. Ice Harbor (1962), Lower Monumental (1969), Little Goose (1970), Lower Granite (1975) — transforming 140 miles of free-flowing river into a chain of slack-water reservoirs. Salmon runs collapsed to a fraction of historic levels. All Snake River salmon are now listed as threatened or endangered.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauArchSites",
-      "geometry": {"lat": 46.36, "lng": -118.62},
-      "style": {"radius": 6, "color": "#1A237E", "fillColor": "#FFD700", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">\ud83c\udf0a\u2b50 Windust Caves \u2014 10,000+ Years (SUBMERGED 1962)</h3>\n    <p><b>Location:</b> North bank of Snake River, Franklin County, WA \u2014 now under Lake Sacajawea</p>\n    <p><b>Nine caves</b> eroded into basalt cliffs, excavated 1959-1961 by Harvey Rice in a desperate salvage before Ice Harbor Dam's reservoir filled.</p>\n    <p><b>The Windust Phase:</b> This site was so important it gave its name to an entire archaeological era \u2014 the <b>Windust Phase</b> (13,100-7,600 cal BP), the earliest documented cultural period of the Columbia Plateau. Artifacts included stemmed projectile points of the Western Stemmed Tradition, stone chips, marine shells (evidence of long-distance trade with the coast), and animal bone fragments.</p>\n    <p><b>Five distinct periods</b> of cultural occupation in unbroken succession \u2014 from the earliest human presence through the historic period. The caves had been partially disturbed by Northern Pacific Railway construction and collectors, but the deeper strata held pristine deposits.</p>\n    <p><b>Submerged 1962</b> when Lake Sacajawea filled. The caves remain underwater, their basalt cliffs invisible beneath the reservoir. Some cave sites nearby had already been severely damaged by relic collectors before the professional salvage began.</p>\n    <p>National Register of Historic Places (1984) \u2014 listed for a site that can no longer be visited.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": {
+        "lat": 46.36,
+        "lng": -118.62
+      },
+      "style": {
+        "radius": 6,
+        "color": "#1A237E",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">🌊⭐ Windust Caves — 10,000+ Years (SUBMERGED 1962)</h3>\n    <p><b>Location:</b> North bank of Snake River, Franklin County, WA — now under Lake Sacajawea</p>\n    <p><b>Nine caves</b> eroded into basalt cliffs, excavated 1959-1961 by Harvey Rice in a desperate salvage before Ice Harbor Dam's reservoir filled.</p>\n    <p><b>The Windust Phase:</b> This site was so important it gave its name to an entire archaeological era — the <b>Windust Phase</b> (13,100-7,600 cal BP), the earliest documented cultural period of the Columbia Plateau. Artifacts included stemmed projectile points of the Western Stemmed Tradition, stone chips, marine shells (evidence of long-distance trade with the coast), and animal bone fragments.</p>\n    <p><b>Five distinct periods</b> of cultural occupation in unbroken succession — from the earliest human presence through the historic period. The caves had been partially disturbed by Northern Pacific Railway construction and collectors, but the deeper strata held pristine deposits.</p>\n    <p><b>Submerged 1962</b> when Lake Sacajawea filled. The caves remain underwater, their basalt cliffs invisible beneath the reservoir. Some cave sites nearby had already been severely damaged by relic collectors before the professional salvage began.</p>\n    <p>National Register of Historic Places (1984) — listed for a site that can no longer be visited.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 46.57, "lng": -118.54},
-      "style": {"radius": 5, "color": "#37474F", "fillColor": "#B71C1C", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">\ud83d\udd34 Lower Monumental Dam (1969) \u2014 Lake Herbert G. West</h3>\n    <p><b>Location:</b> Snake River, mile 41.5, Franklin County, WA</p>\n    <p>The 28-mile reservoir (named for the dam promoter, not a tribal leader) submerged the <b>Palouse Canyon Archaeological District</b> \u2014 including Marmes Rockshelter (11,000+ years), the Pal\u00fas Village, and dozens of other sites.</p>\n    <p>DamSense documented this was \"one of dozens [of archaeological sites] inundated by the four dams.\" The ancient Pal\u00fas village at the confluence of the Snake and Palouse Rivers \u2014 Lewis and Clark's 1805 campsite \u2014 was drowned.</p>\n    <p>Tribal gravesites were inundated, making it <b>impossible for tribal people to care for these graves</b> in their normal ways.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 46.57,
+        "lng": -118.54
+      },
+      "style": {
+        "radius": 5,
+        "color": "#37474F",
+        "fillColor": "#B71C1C",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">🔴 Lower Monumental Dam (1969) — Lake Herbert G. West</h3>\n    <p><b>Location:</b> Snake River, mile 41.5, Franklin County, WA</p>\n    <p>The 28-mile reservoir (named for the dam promoter, not a tribal leader) submerged the <b>Palouse Canyon Archaeological District</b> — including Marmes Rockshelter (11,000+ years), the Palús Village, and dozens of other sites.</p>\n    <p>DamSense documented this was \"one of dozens [of archaeological sites] inundated by the four dams.\" The ancient Palús village at the confluence of the Snake and Palouse Rivers — Lewis and Clark's 1805 campsite — was drowned.</p>\n    <p>Tribal gravesites were inundated, making it <b>impossible for tribal people to care for these graves</b> in their normal ways.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "palouse"
+      ],
+      "tribes": [
+        "palouse"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 46.58, "lng": -118.03},
-      "style": {"radius": 4, "color": "#37474F", "fillColor": "#B71C1C", "fillOpacity": 0.6, "weight": 1.5},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B71C1C\">\ud83d\udd34 Little Goose Dam (1970) \u2014 Lake Bryan</h3>\n    <p><b>Location:</b> Snake River, mile 70, Columbia County, WA</p>\n    <p>37-mile reservoir drowned additional village sites, fishing camps, and burial grounds along the Snake River canyon. Archaeological salvage was minimal before inundation.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 320}
+      "geometry": {
+        "lat": 46.58,
+        "lng": -118.03
+      },
+      "style": {
+        "radius": 4,
+        "color": "#37474F",
+        "fillColor": "#B71C1C",
+        "fillOpacity": 0.6,
+        "weight": 1.5
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B71C1C\">🔴 Little Goose Dam (1970) — Lake Bryan</h3>\n    <p><b>Location:</b> Snake River, mile 70, Columbia County, WA</p>\n    <p>37-mile reservoir drowned additional village sites, fishing camps, and burial grounds along the Snake River canyon. Archaeological salvage was minimal before inundation.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 320
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 46.66, "lng": -117.43},
-      "style": {"radius": 4, "color": "#37474F", "fillColor": "#B71C1C", "fillOpacity": 0.6, "weight": 1.5},
-      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">\ud83d\udd34 Lower Granite Dam (1975) \u2014 The Last Dam</h3>\n    <p><b>Location:</b> Snake River, mile 107, Whitman County, WA</p>\n    <p>The fourth and final dam. Environmental groups, including the Association of Northwest Steelheaders, lobbied hard to prevent its construction. They failed. The Army Corps had planned a <b>fifth dam at Asotin</b> \u2014 which would have drowned additional Snake River canyon sites including areas near Buffalo Eddy \u2014 but it was never built.</p>\n    <p>The reservoir extended navigation to Lewiston, Idaho \u2014 the farthest inland seaport on the West Coast \u2014 at the cost of 140 miles of free-flowing river habitat.</p>\n    <p><b>Dam breaching debate:</b> If the four Lower Snake dams are ever removed, archaeologists plan to return to now-inundated sites. But there are concerns: erosion during drawdown could expose and damage fragile sites, and looting would be an immediate threat. Tribal cultural resources would need protection before, during, and after any removal.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 46.66,
+        "lng": -117.43
+      },
+      "style": {
+        "radius": 4,
+        "color": "#37474F",
+        "fillColor": "#B71C1C",
+        "fillOpacity": 0.6,
+        "weight": 1.5
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">🔴 Lower Granite Dam (1975) — The Last Dam</h3>\n    <p><b>Location:</b> Snake River, mile 107, Whitman County, WA</p>\n    <p>The fourth and final dam. Environmental groups, including the Association of Northwest Steelheaders, lobbied hard to prevent its construction. They failed. The Army Corps had planned a <b>fifth dam at Asotin</b> — which would have drowned additional Snake River canyon sites including areas near Buffalo Eddy — but it was never built.</p>\n    <p>The reservoir extended navigation to Lewiston, Idaho — the farthest inland seaport on the West Coast — at the cost of 140 miles of free-flowing river habitat.</p>\n    <p><b>Dam breaching debate:</b> If the four Lower Snake dams are ever removed, archaeologists plan to return to now-inundated sites. But there are concerns: erosion during drawdown could expose and damage fragile sites, and looting would be an immediate threat. Tribal cultural resources would need protection before, during, and after any removal.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 47.84, "lng": -117.85},
-      "style": {"radius": 5, "color": "#37474F", "fillColor": "#B71C1C", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">\ud83d\udd34 Long Lake Dam (1915) \u2014 23.5-Mile Reservoir</h3>\n    <p><b>Location:</b> Spokane River, mile 34, Lincoln/Stevens County border</p>\n    <p>When completed, it was the <b>\"world's highest spillway dam.\"</b> It had <b>no fish ladder</b>. Nothing made it past Long Lake Dam. This was the death blow for Spokane River salmon.</p>\n    <p><b>Submerged Sites:</b> The 23.5-mile Long Lake reservoir (also called Lake Spokane) drowned <b>many prehistoric dwelling places</b> along its length. A 2004 archaeological survey funded by Avista Utilities found that \"many of the prehistoric dwelling places along present-day Long Lake were flooded after the dam was constructed in 1915. Only the upper end of the reservoir has its original landforms.\"</p>\n    <p>Archaeologists described finding \"remnants of ancient villages buried under deep layers of sediment\" and sites yielding \"small flecks of charcoal from prehistoric hearths.\" They were \"extremely secretive\" about locations \u2014 many sites had already been looted.</p>\n    <p>An old settler recalled: \"The day the river was blocked was a sad day for the pioneers who had grown to depend on the salmon.\" Then he added: <b>\"But for the Indians, it was a catastrophe.\"</b></p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": {
+        "lat": 47.84,
+        "lng": -117.85
+      },
+      "style": {
+        "radius": 5,
+        "color": "#37474F",
+        "fillColor": "#B71C1C",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">🔴 Long Lake Dam (1915) — 23.5-Mile Reservoir</h3>\n    <p><b>Location:</b> Spokane River, mile 34, Lincoln/Stevens County border</p>\n    <p>When completed, it was the <b>\"world's highest spillway dam.\"</b> It had <b>no fish ladder</b>. Nothing made it past Long Lake Dam. This was the death blow for Spokane River salmon.</p>\n    <p><b>Submerged Sites:</b> The 23.5-mile Long Lake reservoir (also called Lake Spokane) drowned <b>many prehistoric dwelling places</b> along its length. A 2004 archaeological survey funded by Avista Utilities found that \"many of the prehistoric dwelling places along present-day Long Lake were flooded after the dam was constructed in 1915. Only the upper end of the reservoir has its original landforms.\"</p>\n    <p>Archaeologists described finding \"remnants of ancient villages buried under deep layers of sediment\" and sites yielding \"small flecks of charcoal from prehistoric hearths.\" They were \"extremely secretive\" about locations — many sites had already been looted.</p>\n    <p>An old settler recalled: \"The day the river was blocked was a sad day for the pioneers who had grown to depend on the salmon.\" Then he added: <b>\"But for the Indians, it was a catastrophe.\"</b></p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "spokane"
+      ],
+      "tribes": [
+        "spokane"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 47.78, "lng": -117.58},
-      "style": {"radius": 4, "color": "#37474F", "fillColor": "#37474F", "fillOpacity": 0.6, "weight": 1.5},
-      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#37474F\">\u2699\ufe0f Nine Mile Dam (1908)</h3>\n    <p><b>Location:</b> Spokane River, mile 58, near Nine Mile Falls</p>\n    <p>Built by Jay P. Graves to power Spokane's streetcar system. At completion it boasted the <b>tallest spillway in the world</b> (170 feet). Relatively low, it did not entirely block fish runs \u2014 but it was the beginning of the end.</p>\n    <p><b>Rock Art:</b> Ancient rock paintings exist along the Little Spokane River just upstream from its confluence with the Spokane near this dam. A 1920 photograph documents \"Pictographs next to Sturman's Bridge on the Little Spokane River\" \u2014 now within Riverside State Park.</p>\n    <p>The salmon chief system \u2014 regulating fish harvests by net, weir, or spear \u2014 ended here. The salmon chief's ornamented clubs are now a key part of the archaeological record.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 47.78,
+        "lng": -117.58
+      },
+      "style": {
+        "radius": 4,
+        "color": "#37474F",
+        "fillColor": "#37474F",
+        "fillOpacity": 0.6,
+        "weight": 1.5
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#37474F\">⚙️ Nine Mile Dam (1908)</h3>\n    <p><b>Location:</b> Spokane River, mile 58, near Nine Mile Falls</p>\n    <p>Built by Jay P. Graves to power Spokane's streetcar system. At completion it boasted the <b>tallest spillway in the world</b> (170 feet). Relatively low, it did not entirely block fish runs — but it was the beginning of the end.</p>\n    <p><b>Rock Art:</b> Ancient rock paintings exist along the Little Spokane River just upstream from its confluence with the Spokane near this dam. A 1920 photograph documents \"Pictographs next to Sturman's Bridge on the Little Spokane River\" — now within Riverside State Park.</p>\n    <p>The salmon chief system — regulating fish harvests by net, weir, or spear — ended here. The salmon chief's ornamented clubs are now a key part of the archaeological record.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "spokane"
+      ],
+      "tribes": [
+        "spokane"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauRockArt",
-      "geometry": {"lat": 47.78, "lng": -117.53},
-      "style": {"radius": 4, "color": "#FF8C00", "fillColor": "#FF8C00", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF8C00\">\ud83c\udfa8 Little Spokane River Pictographs (Surviving)</h3>\n    <p><b>Location:</b> Near confluence with Spokane River, Riverside State Park</p>\n    <p>Ancient Spokane rock paintings documented as early as 1920 near Sturman's Bridge. These pictographs survive because they sit above dam-pool levels. The Little Spokane River area was critical habitat for the Middle Spokane band \u2014 home of Chief Spokan Garry.</p>\n    <p>The salmon runs that once brought 1,000+ people to this area are gone \u2014 killed by dams downstream.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 47.78,
+        "lng": -117.53
+      },
+      "style": {
+        "radius": 4,
+        "color": "#FF8C00",
+        "fillColor": "#FF8C00",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF8C00\">🎨 Little Spokane River Pictographs (Surviving)</h3>\n    <p><b>Location:</b> Near confluence with Spokane River, Riverside State Park</p>\n    <p>Ancient Spokane rock paintings documented as early as 1920 near Sturman's Bridge. These pictographs survive because they sit above dam-pool levels. The Little Spokane River area was critical habitat for the Middle Spokane band — home of Chief Spokan Garry.</p>\n    <p>The salmon runs that once brought 1,000+ people to this area are gone — killed by dams downstream.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "spokane"
+      ],
+      "tribes": [
+        "spokane"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "circleMarker",
       "layer": "coeurTerr",
-      "geometry": {"lat": 47.72, "lng": -116.95},
-      "style": {"radius": 4, "color": "#6A1B9A", "fillColor": "#6A1B9A", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#6A1B9A\">\ud83c\udfd8\ufe0f Q'emiln Village & Treaty Rock \u2014 Post Falls</h3>\n    <p><b>Location:</b> Post Falls, Idaho \u2014 Spokane River at first natural falls</p>\n    <p><b>Q'emiln</b> (ka-mee'-lin) = \"Throat of the River\" \u2014 a Coeur d'Alene village at the natural falls where the Spokane River exits Lake Coeur d'Alene. Inhabited for thousands of years.</p>\n    <p><b>Treaty Rock:</b> Within 3-acre Treaty Rock Park, a granite outcropping bears Native American <b>pictographs</b> including figures on horseback (post-1730). Rock carvings include the date \"June 1, 1871\" and \"Frederick Post\" \u2014 the town's founder. The 1891 Treaty between the U.S. Government and Coeur d'Alene Tribe references this site.</p>\n    <p><b>Post Falls Dam</b> (1906) controls Lake Coeur d'Alene levels, raising summer elevation to 2,128 feet. This altered the lakeshore environment that sustained Schitsu'umsh villages for millennia, though the lake's basic shorelines remained more intact than river corridors downstream.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 47.72,
+        "lng": -116.95
+      },
+      "style": {
+        "radius": 4,
+        "color": "#6A1B9A",
+        "fillColor": "#6A1B9A",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#6A1B9A\">🏘️ Q'emiln Village & Treaty Rock — Post Falls</h3>\n    <p><b>Location:</b> Post Falls, Idaho — Spokane River at first natural falls</p>\n    <p><b>Q'emiln</b> (ka-mee'-lin) = \"Throat of the River\" — a Coeur d'Alene village at the natural falls where the Spokane River exits Lake Coeur d'Alene. Inhabited for thousands of years.</p>\n    <p><b>Treaty Rock:</b> Within 3-acre Treaty Rock Park, a granite outcropping bears Native American <b>pictographs</b> including figures on horseback (post-1730). Rock carvings include the date \"June 1, 1871\" and \"Frederick Post\" — the town's founder. The 1891 Treaty between the U.S. Government and Coeur d'Alene Tribe references this site.</p>\n    <p><b>Post Falls Dam</b> (1906) controls Lake Coeur d'Alene levels, raising summer elevation to 2,128 feet. This altered the lakeshore environment that sustained Schitsu'umsh villages for millennia, though the lake's basic shorelines remained more intact than river corridors downstream.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coeur_dalene",
+        "lenape",
+        "spokane"
+      ],
+      "tribes": [
+        "coeur_dalene",
+        "lenape",
+        "spokane"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "coeurTerr",
-      "geometry": {"lat": 47.45, "lng": -116.78},
-      "style": {"radius": 5, "color": "#FF6F00", "fillColor": "#FF6F00", "fillOpacity": 0.6, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#FF6F00\">\u26a0\ufe0f Lake Coeur d'Alene \u2014 ~200 Archaeological Sites at Risk</h3>\n    <p><b>The Unseen Threat:</b> Unlike sites drowned by dams, Lake Coeur d'Alene's ~200 known archaeological sites face a different enemy: <b>75 million metric tons of toxic metal-contaminated sediment</b> from a century of silver, lead, and zinc mining.</p>\n    <p>The Schitsu'umsh lived along this lake for thousands of years \u2014 fishing for bull trout, digging water potatoes, building villages on its shores. A 2004 Avista-funded survey found \"remnants of ancient villages buried under deep layers of sediment\" and evidence of prehistoric lakeside dwellers going back thousands of years.</p>\n    <p><b>Post Falls Dam</b> (1906) raises summer levels ~7 feet above natural winter low, altering the seasonal rhythm of lakeshore habitats that communities depended on. The higher summer pool covers some low-lying sites seasonally.</p>\n    <p><b>Contamination:</b> Metal-contaminated sediment first reached the lake around 1900 and continues today. Most of the lake bed is covered. Lead, zinc, arsenic, and cadmium from the Bunker Hill Superfund site (1,500 square miles) seep through ancient village sites.</p>\n    <p>Archaeologists are \"extremely secretive\" about locations \u2014 many sites have been looted. Site locations are specifically exempt from the Freedom of Information Act.</p>\n    <p>The Coeur d'Alene Tribe: \"All we're looking to do is see the sites protected.\"</p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": {
+        "lat": 47.45,
+        "lng": -116.78
+      },
+      "style": {
+        "radius": 5,
+        "color": "#FF6F00",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.6,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#FF6F00\">⚠️ Lake Coeur d'Alene — ~200 Archaeological Sites at Risk</h3>\n    <p><b>The Unseen Threat:</b> Unlike sites drowned by dams, Lake Coeur d'Alene's ~200 known archaeological sites face a different enemy: <b>75 million metric tons of toxic metal-contaminated sediment</b> from a century of silver, lead, and zinc mining.</p>\n    <p>The Schitsu'umsh lived along this lake for thousands of years — fishing for bull trout, digging water potatoes, building villages on its shores. A 2004 Avista-funded survey found \"remnants of ancient villages buried under deep layers of sediment\" and evidence of prehistoric lakeside dwellers going back thousands of years.</p>\n    <p><b>Post Falls Dam</b> (1906) raises summer levels ~7 feet above natural winter low, altering the seasonal rhythm of lakeshore habitats that communities depended on. The higher summer pool covers some low-lying sites seasonally.</p>\n    <p><b>Contamination:</b> Metal-contaminated sediment first reached the lake around 1900 and continues today. Most of the lake bed is covered. Lead, zinc, arsenic, and cadmium from the Bunker Hill Superfund site (1,500 square miles) seep through ancient village sites.</p>\n    <p>Archaeologists are \"extremely secretive\" about locations — many sites have been looted. Site locations are specifically exempt from the Freedom of Information Act.</p>\n    <p>The Coeur d'Alene Tribe: \"All we're looking to do is see the sites protected.\"</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "coeur_dalene"
+      ],
+      "tribes": [
+        "coeur_dalene"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauRockArt",
-      "geometry": {"lat": 45.70, "lng": -121.13},
-      "style": {"radius": 5, "color": "#1A237E", "fillColor": "#FF8C00", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">\ud83c\udf0a\ud83c\udfa8 Petroglyph Canyon \u2014 THOUSANDS SUBMERGED (1957)</h3>\n    <p><b>Location:</b> Columbia River near The Dalles, OR/WA border \u2014 now under Lake Celilo</p>\n    <p>Between Hood River, Oregon and Pasco, Washington, <b>more than 90 rock-art sites</b> were documented. The area had one of the richest deposits of tribal rock imagery in the world.</p>\n    <p><b>The Dalles Dam (1957)</b> submerged Petroglyph Canyon \u2014 literally thousands of petroglyphs drowned. The dam also destroyed <b>Celilo Falls</b>, the most important Indigenous fishing site on the Columbia (used continuously for 15,000+ years), and flooded the ancient village of Wishram/Nixl\u00faidix.</p>\n    <p><b>What Was Saved:</b> Only ~43 boulders were cut from cliff faces before inundation \u2014 \"a small fraction of the rock art that now lies submerged.\" These rescued petroglyphs sat in the Dalles Dam parking lot for <b>nearly 30 years</b>, leaning against a fish ladder wall, covered in bird droppings.</p>\n    <p>In 2004, at the request of tribes, the boulders were cleaned, restored, and moved to <b>Columbia Hills State Park</b> (Temani Pesh-wa Trail). Restorers arranged them facing similar angles so sunlight hits the images as it originally did.</p>\n    <p>Park rangers do not interpret the petroglyphs' meaning out of respect for the tribes: \"The person who made the petroglyph is the one who had the original intent and knew the meaning.\"</p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": {
+        "lat": 45.7,
+        "lng": -121.13
+      },
+      "style": {
+        "radius": 5,
+        "color": "#1A237E",
+        "fillColor": "#FF8C00",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">🌊🎨 Petroglyph Canyon — THOUSANDS SUBMERGED (1957)</h3>\n    <p><b>Location:</b> Columbia River near The Dalles, OR/WA border — now under Lake Celilo</p>\n    <p>Between Hood River, Oregon and Pasco, Washington, <b>more than 90 rock-art sites</b> were documented. The area had one of the richest deposits of tribal rock imagery in the world.</p>\n    <p><b>The Dalles Dam (1957)</b> submerged Petroglyph Canyon — literally thousands of petroglyphs drowned. The dam also destroyed <b>Celilo Falls</b>, the most important Indigenous fishing site on the Columbia (used continuously for 15,000+ years), and flooded the ancient village of Wishram/Nixlúidix.</p>\n    <p><b>What Was Saved:</b> Only ~43 boulders were cut from cliff faces before inundation — \"a small fraction of the rock art that now lies submerged.\" These rescued petroglyphs sat in the Dalles Dam parking lot for <b>nearly 30 years</b>, leaning against a fish ladder wall, covered in bird droppings.</p>\n    <p>In 2004, at the request of tribes, the boulders were cleaned, restored, and moved to <b>Columbia Hills State Park</b> (Temani Pesh-wa Trail). Restorers arranged them facing similar angles so sunlight hits the images as it originally did.</p>\n    <p>Park rangers do not interpret the petroglyphs' meaning out of respect for the tribes: \"The person who made the petroglyph is the one who had the original intent and knew the meaning.\"</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauRockArt",
-      "geometry": {"lat": 46.95, "lng": -120.10},
-      "style": {"radius": 4, "color": "#1A237E", "fillColor": "#FF8C00", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">\ud83c\udf0a\ud83c\udfa8 Picture Rocks Bay \u2014 SUBMERGED 1964</h3>\n    <p><b>Location:</b> Mid-Columbia River near Vantage, WA \u2014 now under Wanapum Dam reservoir</p>\n    <p>In 1964, Picture Rocks Bay was flooded by the backwaters of Wanapum Dam. Those who once walked the hazardous mile-long trail to the site's <b>large hexagonal basalt columns</b> still speak of it with deep emotion.</p>\n    <p>The many finely detailed petroglyphs and pictographs, combined with the remarkable natural setting, produced \"an unforgettable experience.\" Harold Cundy's careful drawings from the 1920s-30s are all that remain.</p>\n    <p><b>Total Columbia River losses:</b> 19 rock art sites were inundated by five mid-Columbia dams alone. One was flooded by Lake Chelan's rise, another by Banks Lake. Four were destroyed by road construction. One was partially destroyed by a railway. Many that survived have been vandalized.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 46.95,
+        "lng": -120.1
+      },
+      "style": {
+        "radius": 4,
+        "color": "#1A237E",
+        "fillColor": "#FF8C00",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">🌊🎨 Picture Rocks Bay — SUBMERGED 1964</h3>\n    <p><b>Location:</b> Mid-Columbia River near Vantage, WA — now under Wanapum Dam reservoir</p>\n    <p>In 1964, Picture Rocks Bay was flooded by the backwaters of Wanapum Dam. Those who once walked the hazardous mile-long trail to the site's <b>large hexagonal basalt columns</b> still speak of it with deep emotion.</p>\n    <p>The many finely detailed petroglyphs and pictographs, combined with the remarkable natural setting, produced \"an unforgettable experience.\" Harold Cundy's careful drawings from the 1920s-30s are all that remain.</p>\n    <p><b>Total Columbia River losses:</b> 19 rock art sites were inundated by five mid-Columbia dams alone. One was flooded by Lake Chelan's rise, another by Banks Lake. Four were destroyed by road construction. One was partially destroyed by a railway. Many that survived have been vandalized.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wanapum"
+      ],
+      "tribes": [
+        "wanapum"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "circleMarker",
       "layer": "plateauRockArt",
-      "geometry": {"lat": 46.22, "lng": -116.88},
-      "style": {"radius": 5, "color": "#FF6F00", "fillColor": "#FF8C00", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#FF6F00\">\u26a0\ufe0f\ud83c\udfa8 Snake River Archaeological District \u2014 8,000 Years</h3>\n    <p><b>Location:</b> Snake River, Nez Perce County ID / Asotin County WA (8,140 acres total)</p>\n    <p>A massive district including village sites, winter camps, fishing grounds used by the Nez Perce from ~6000 BC to the 20th century. <b>Several hundred pictographs</b> are part of the district, usually painted at village sites. Includes the confluence of Redbird Creek and the Snake River.</p>\n    <p>National Register of Historic Places (1976 WA side, later ID). This district survived because it lies above the Lower Granite Dam reservoir \u2014 but only because the planned <b>fifth dam at Asotin</b> was never built. Had it been constructed, much of this district would be underwater.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 46.22,
+        "lng": -116.88
+      },
+      "style": {
+        "radius": 5,
+        "color": "#FF6F00",
+        "fillColor": "#FF8C00",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#FF6F00\">⚠️🎨 Snake River Archaeological District — 8,000 Years</h3>\n    <p><b>Location:</b> Snake River, Nez Perce County ID / Asotin County WA (8,140 acres total)</p>\n    <p>A massive district including village sites, winter camps, fishing grounds used by the Nez Perce from ~6000 BC to the 20th century. <b>Several hundred pictographs</b> are part of the district, usually painted at village sites. Includes the confluence of Redbird Creek and the Snake River.</p>\n    <p>National Register of Historic Places (1976 WA side, later ID). This district survived because it lies above the Lower Granite Dam reservoir — but only because the planned <b>fifth dam at Asotin</b> was never built. Had it been constructed, much of this district would be underwater.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "nez_perce"
+      ],
+      "tribes": [
+        "nez_perce"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "circleMarker",
       "layer": "spokaneTerr",
-      "geometry": {"lat": 47.66, "lng": -117.43},
-      "style": {"radius": 5, "color": "#0277BD", "fillColor": "#0277BD", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:450px;overflow-y:auto;\">\n    <h3 style=\"color:#0277BD\">\ud83d\udc1f Spokane Falls \u2014 \"Half a Million Salmon\" (Lost)</h3>\n    <p><b>Location:</b> Heart of Downtown Spokane, WA</p>\n    <p>Fishing platforms beside Spokane Falls were the most important gathering place for the Upper and Middle Spokane bands. An estimated <b>half million salmon and steelhead returned each spring</b>. Coeur d'Alene, Nez Perce, Colville, and Palouse peoples also gathered here.</p>\n    <p>A <b>salmon chief</b> regulated the harvest \u2014 by net, weir, or spear \u2014 ensuring fair distribution and leaving enough fish to spawn. The chief bore an ornamented club, now a key artifact of the archaeological record. The chief oversaw construction of fishing scaffolds, hand tools, and weirs formed of twin fences spanning the river.</p>\n    <p><b>Seven dams</b> were built on the Spokane between 1890 and 1922. None has fish-passage facilities. Little Falls Dam (1911) stopped all upstream fish migration. Long Lake Dam (1915) \u2014 no fish ladder \u2014 ensured nothing passed. Grand Coulee Dam (1942) on the Columbia extirpated salmon from the entire basin.</p>\n    <p><b>Today:</b> The falls still flow through downtown Spokane (Riverfront Park), but the salmon are gone. The Spokane Tribe is attempting to reintroduce salmon to the Little Spokane River \u2014 but they will be landlocked between dams. Signs warn fish are contaminated with PCBs.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": {
+        "lat": 47.66,
+        "lng": -117.43
+      },
+      "style": {
+        "radius": 5,
+        "color": "#0277BD",
+        "fillColor": "#0277BD",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:450px;overflow-y:auto;\">\n    <h3 style=\"color:#0277BD\">🐟 Spokane Falls — \"Half a Million Salmon\" (Lost)</h3>\n    <p><b>Location:</b> Heart of Downtown Spokane, WA</p>\n    <p>Fishing platforms beside Spokane Falls were the most important gathering place for the Upper and Middle Spokane bands. An estimated <b>half million salmon and steelhead returned each spring</b>. Coeur d'Alene, Nez Perce, Colville, and Palouse peoples also gathered here.</p>\n    <p>A <b>salmon chief</b> regulated the harvest — by net, weir, or spear — ensuring fair distribution and leaving enough fish to spawn. The chief bore an ornamented club, now a key artifact of the archaeological record. The chief oversaw construction of fishing scaffolds, hand tools, and weirs formed of twin fences spanning the river.</p>\n    <p><b>Seven dams</b> were built on the Spokane between 1890 and 1922. None has fish-passage facilities. Little Falls Dam (1911) stopped all upstream fish migration. Long Lake Dam (1915) — no fish ladder — ensured nothing passed. Grand Coulee Dam (1942) on the Columbia extirpated salmon from the entire basin.</p>\n    <p><b>Today:</b> The falls still flow through downtown Spokane (Riverfront Park), but the salmon are gone. The Spokane Tribe is attempting to reintroduce salmon to the Little Spokane River — but they will be landlocked between dams. Signs warn fish are contaminated with PCBs.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "coeur_dalene",
+        "colville",
+        "nez_perce",
+        "palouse",
+        "spokane"
+      ],
+      "tribes": [
+        "coeur_dalene",
+        "colville",
+        "nez_perce",
+        "palouse",
+        "spokane"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 48.64, "lng": -118.07},
-      "style": {"radius": 6, "color": "#1A237E", "fillColor": "#0277BD", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">\ud83c\udf0a\ud83d\udc1f Kettle Falls / Shonitkwu \u2014 9,000+ Years (SUBMERGED 1942)</h3>\n    <p><b>Location:</b> Columbia River, now under Lake Roosevelt (Grand Coulee Dam reservoir)</p>\n    <p>The <b>second-largest salmon fishery on the Columbia River</b>, used continuously for at least 9,000 years. When fish migrated beginning in May, tribes from Idaho, Montana, Oregon, and Canada gathered to share in the abundance and engage in trade. It was the great intertribal marketplace of the interior Northwest.</p>\n    <p><b>Grand Coulee Dam</b> (1942) \u2014 built with <b>no fish ladder</b> \u2014 blocked ALL salmon above. Lake Roosevelt (150 miles long) submerged Kettle Falls entirely. The Colville Confederated Tribes received no compensation until 1994 \u2014 <b>52 years later</b>.</p>\n    <p>The dam also submerged villages, burial grounds, root-digging grounds, and berry-picking areas of the Colville, Spokane, Lakes, Sanpoil, and Nespelem tribes. Several tribes had lived along this stretch of the Columbia for <b>over 11,000 years</b>.</p>\n    <p>The Ceremony of Tears is held annually at Kettle Falls to mourn the loss of the salmon.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": {
+        "lat": 48.64,
+        "lng": -118.07
+      },
+      "style": {
+        "radius": 6,
+        "color": "#1A237E",
+        "fillColor": "#0277BD",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">🌊🐟 Kettle Falls / Shonitkwu — 9,000+ Years (SUBMERGED 1942)</h3>\n    <p><b>Location:</b> Columbia River, now under Lake Roosevelt (Grand Coulee Dam reservoir)</p>\n    <p>The <b>second-largest salmon fishery on the Columbia River</b>, used continuously for at least 9,000 years. When fish migrated beginning in May, tribes from Idaho, Montana, Oregon, and Canada gathered to share in the abundance and engage in trade. It was the great intertribal marketplace of the interior Northwest.</p>\n    <p><b>Grand Coulee Dam</b> (1942) — built with <b>no fish ladder</b> — blocked ALL salmon above. Lake Roosevelt (150 miles long) submerged Kettle Falls entirely. The Colville Confederated Tribes received no compensation until 1994 — <b>52 years later</b>.</p>\n    <p>The dam also submerged villages, burial grounds, root-digging grounds, and berry-picking areas of the Colville, Spokane, Lakes, Sanpoil, and Nespelem tribes. Several tribes had lived along this stretch of the Columbia for <b>over 11,000 years</b>.</p>\n    <p>The Ceremony of Tears is held annually at Kettle Falls to mourn the loss of the salmon.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "colville",
+        "spokane"
+      ],
+      "tribes": [
+        "colville",
+        "spokane"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 48.41, "lng": -115.31},
-      "style": {"radius": 4, "color": "#37474F", "fillColor": "#FF6F00", "fillOpacity": 0.6, "weight": 1.5},
-      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#FF6F00\">\u26a0\ufe0f Libby Dam (1975) \u2014 Kootenai River Disruption</h3>\n    <p><b>Location:</b> Kootenai River, Lincoln County, Montana</p>\n    <p>Controls all flow into the Idaho Kootenai Valley. The dam disrupted the natural flood cycle that sustained the Kootenai people's fishing, gathering, and village sites for millennia. River levels can rise or lower quickly based on dam operations.</p>\n    <p>The <b>Kootenai white sturgeon</b> \u2014 central to Ktunaxa identity \u2014 became endangered because the dam eliminated the spring floods that triggered spawning. The tribe's 1991 hatchery was the first sturgeon hatchery in Indian Country.</p>\n    <p>Village sites along the Kootenai River that relied on natural flood-plain rhythms were disrupted. The Kootenai recognized: \"the limiting factors were lack of habitat, nutrients in the water, lack of natural rearing areas, lack of flood plains, all because of dikes and dams.\"</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 48.41,
+        "lng": -115.31
+      },
+      "style": {
+        "radius": 4,
+        "color": "#37474F",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.6,
+        "weight": 1.5
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#FF6F00\">⚠️ Libby Dam (1975) — Kootenai River Disruption</h3>\n    <p><b>Location:</b> Kootenai River, Lincoln County, Montana</p>\n    <p>Controls all flow into the Idaho Kootenai Valley. The dam disrupted the natural flood cycle that sustained the Kootenai people's fishing, gathering, and village sites for millennia. River levels can rise or lower quickly based on dam operations.</p>\n    <p>The <b>Kootenai white sturgeon</b> — central to Ktunaxa identity — became endangered because the dam eliminated the spring floods that triggered spawning. The tribe's 1991 hatchery was the first sturgeon hatchery in Indian Country.</p>\n    <p>Village sites along the Kootenai River that relied on natural flood-plain rhythms were disrupted. The Kootenai recognized: \"the limiting factors were lack of habitat, nutrients in the water, lack of natural rearing areas, lack of flood plains, all because of dikes and dams.\"</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "lenape"
+      ],
+      "tribes": [
+        "lenape"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "plateauDams",
-      "geometry": [[46.25, -118.88], [46.57, -118.54], [46.58, -118.03], [46.66, -117.43]],
-      "style": {"color": "#B71C1C", "weight": 4, "opacity": 0.6, "dashArray": "12,6"},
-      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">\ud83d\udd34 Lower Snake River Dam Chain \u2014 140 Miles of Destruction</h3>\n    <p>Four dams built 1962-1975 transformed the free-flowing lower Snake River into a chain of slack-water reservoirs. The human cost:</p>\n    <p>\u2022 <b>Windust Caves</b> \u2014 10,000+ years of habitation, submerged 1962</p>\n    <p>\u2022 <b>Marmes Rockshelter</b> \u2014 11,000+ years, oldest human remains in WA, submerged 1969</p>\n    <p>\u2022 <b>Pal\u00fas Village</b> \u2014 largest Palouse settlement, drowned 1969</p>\n    <p>\u2022 <b>Dozens of other sites</b> \u2014 villages, fishing camps, burials, rock art, storage pits, shell middens</p>\n    <p>\u2022 <b>Tribal gravesites inundated</b> \u2014 impossible for families to care for graves</p>\n    <p>\u2022 All Snake River salmon now <b>threatened or endangered</b></p>\n    <p>\u2022 Wild Snake River coho went <b>extinct in 1987</b></p>\n    <p><b>If the dams are breached:</b> Sites currently underwater would be exposed \u2014 requiring immediate protection from erosion, looting, and vandalism. Tribes have expressed willingness to collaborate on archaeological recovery.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 450}
+      "geometry": [
+        [
+          46.25,
+          -118.88
+        ],
+        [
+          46.57,
+          -118.54
+        ],
+        [
+          46.58,
+          -118.03
+        ],
+        [
+          46.66,
+          -117.43
+        ]
+      ],
+      "style": {
+        "color": "#B71C1C",
+        "weight": 4,
+        "opacity": 0.6,
+        "dashArray": "12,6"
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#B71C1C\">🔴 Lower Snake River Dam Chain — 140 Miles of Destruction</h3>\n    <p>Four dams built 1962-1975 transformed the free-flowing lower Snake River into a chain of slack-water reservoirs. The human cost:</p>\n    <p>• <b>Windust Caves</b> — 10,000+ years of habitation, submerged 1962</p>\n    <p>• <b>Marmes Rockshelter</b> — 11,000+ years, oldest human remains in WA, submerged 1969</p>\n    <p>• <b>Palús Village</b> — largest Palouse settlement, drowned 1969</p>\n    <p>• <b>Dozens of other sites</b> — villages, fishing camps, burials, rock art, storage pits, shell middens</p>\n    <p>• <b>Tribal gravesites inundated</b> — impossible for families to care for graves</p>\n    <p>• All Snake River salmon now <b>threatened or endangered</b></p>\n    <p>• Wild Snake River coho went <b>extinct in 1987</b></p>\n    <p><b>If the dams are breached:</b> Sites currently underwater would be exposed — requiring immediate protection from erosion, looting, and vandalism. Tribes have expressed willingness to collaborate on archaeological recovery.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 450
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "palouse"
+      ],
+      "tribes": [
+        "palouse"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "plateauDams",
-      "geometry": [[47.72, -116.95], [47.66, -117.43], [47.78, -117.58], [47.84, -117.85], [47.82, -117.93]],
-      "style": {"color": "#37474F", "weight": 3, "opacity": 0.5, "dashArray": "8,4"},
-      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#37474F\">\u2699\ufe0f Spokane River \u2014 Seven Dams, No Fish Passage</h3>\n    <p>Seven dams built 1890-1922 on 111 miles of river. <b>None has fish-passage facilities.</b></p>\n    <p>Post Falls (1906) \u2192 Upriver (1909) \u2192 Upper Falls (1900) \u2192 Monroe Street (1890) \u2192 Nine Mile (1908) \u2192 Long Lake (1915) \u2192 Little Falls (1911)</p>\n    <p>Long Lake reservoir (23.5 miles) submerged prehistoric village sites. The June Hogs \u2014 Chinook salmon weighing 80-100+ pounds \u2014 went extinct. Five species of anadromous fish once ascended the river. Today the fish are contaminated with heavy metals from the Coeur d'Alene mining district.</p>\n    <p>The Spokane Tribe's salmon-based culture was <b>systematically destroyed within a single generation</b> \u2014 from the first dam in 1890 to Grand Coulee's closure of the Columbia in 1942.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": [
+        [
+          47.72,
+          -116.95
+        ],
+        [
+          47.66,
+          -117.43
+        ],
+        [
+          47.78,
+          -117.58
+        ],
+        [
+          47.84,
+          -117.85
+        ],
+        [
+          47.82,
+          -117.93
+        ]
+      ],
+      "style": {
+        "color": "#37474F",
+        "weight": 3,
+        "opacity": 0.5,
+        "dashArray": "8,4"
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:350px;overflow-y:auto;\">\n    <h3 style=\"color:#37474F\">⚙️ Spokane River — Seven Dams, No Fish Passage</h3>\n    <p>Seven dams built 1890-1922 on 111 miles of river. <b>None has fish-passage facilities.</b></p>\n    <p>Post Falls (1906) → Upriver (1909) → Upper Falls (1900) → Monroe Street (1890) → Nine Mile (1908) → Long Lake (1915) → Little Falls (1911)</p>\n    <p>Long Lake reservoir (23.5 miles) submerged prehistoric village sites. The June Hogs — Chinook salmon weighing 80-100+ pounds — went extinct. Five species of anadromous fish once ascended the river. Today the fish are contaminated with heavy metals from the Coeur d'Alene mining district.</p>\n    <p>The Spokane Tribe's salmon-based culture was <b>systematically destroyed within a single generation</b> — from the first dam in 1890 to Grand Coulee's closure of the Columbia in 1942.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "coeur_dalene",
+        "spokane"
+      ],
+      "tribes": [
+        "coeur_dalene",
+        "spokane"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauRockArt",
-      "geometry": {"lat": 46.87, "lng": -119.99},
-      "style": {"radius": 4, "color": "#1A237E", "fillColor": "#FF8C00", "fillOpacity": 0.6, "weight": 1.5},
-      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">\ud83c\udf0a Mid-Columbia Submerged Rock Art \u2014 The Cundy Record</h3>\n    <p><b>Location:</b> Columbia River between Vantage and Wenatchee, WA</p>\n    <p>In the 1920s-30s, Harold Cundy \u2014 a Wenatchee resident and member of the Columbia River Archaeological Society \u2014 systematically drew and documented rock art panels along the mid-Columbia. Sites included Crescent Bar, West Bar, Spanish Castle, Columbia River Siding, Cabinet Rapids, Rock Island, and Sentinel Bluff.</p>\n    <p><b>Many of these sites no longer exist.</b> They were submerged by Wanapum Dam (1964), Rock Island Dam (1933), and other hydroelectric projects. Cundy's drawings and \"a few precious photographs are all that remain.\"</p>\n    <p>At Rock Island, Cundy documented petroglyphs before coffer dams were built. He wrote hopefully: \"It is hoped that they (the inundated petroglyphs not destroyed by construction) will be left for a more [thorough study].\" That study never came \u2014 the water rose instead.</p>\n    <p><b>Total count:</b> At least 19 rock art sites inundated by five mid-Columbia dams. Additional sites lost to road construction, railways, and vandalism.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 46.87,
+        "lng": -119.99
+      },
+      "style": {
+        "radius": 4,
+        "color": "#1A237E",
+        "fillColor": "#FF8C00",
+        "fillOpacity": 0.6,
+        "weight": 1.5
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">🌊 Mid-Columbia Submerged Rock Art — The Cundy Record</h3>\n    <p><b>Location:</b> Columbia River between Vantage and Wenatchee, WA</p>\n    <p>In the 1920s-30s, Harold Cundy — a Wenatchee resident and member of the Columbia River Archaeological Society — systematically drew and documented rock art panels along the mid-Columbia. Sites included Crescent Bar, West Bar, Spanish Castle, Columbia River Siding, Cabinet Rapids, Rock Island, and Sentinel Bluff.</p>\n    <p><b>Many of these sites no longer exist.</b> They were submerged by Wanapum Dam (1964), Rock Island Dam (1933), and other hydroelectric projects. Cundy's drawings and \"a few precious photographs are all that remain.\"</p>\n    <p>At Rock Island, Cundy documented petroglyphs before coffer dams were built. He wrote hopefully: \"It is hoped that they (the inundated petroglyphs not destroyed by construction) will be left for a more [thorough study].\" That study never came — the water rose instead.</p>\n    <p><b>Total count:</b> At least 19 rock art sites inundated by five mid-Columbia dams. Additional sites lost to road construction, railways, and vandalism.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wanapum"
+      ],
+      "tribes": [
+        "wanapum"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "plateauDams",
-      "geometry": {"lat": 48.19, "lng": -117.00},
-      "style": {"radius": 4, "color": "#1A237E", "fillColor": "#FF6F00", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">\ud83c\udf0a Albeni Falls Dam (1955) \u2014 Kalispel Gathering Grounds Lost</h3>\n    <p><b>Location:</b> Pend Oreille River, Bonner County, Idaho</p>\n    <p>Flooded Kalispel gathering grounds, camas meadows, and the Buffalo Trail departure point at Denton Slough/Indian Meadows. The 11-foot annual water-level fluctuation caused by dam operations continues to threaten approximately <b>200 archaeological sites</b> kept confidential for their protection.</p>\n    <p>The dam flooded the area where Kootenai, Kalispel, and Coeur d'Alene peoples gathered for summer trade. Bear Paw Rock \u2014 sacred to multiple tribes \u2014 now sits across a flooded meadow. BPA provides mitigation funds for habitat acquisition.</p>\n  </div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 48.19,
+        "lng": -117.0
+      },
+      "style": {
+        "radius": 4,
+        "color": "#1A237E",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#1A237E\">🌊 Albeni Falls Dam (1955) — Kalispel Gathering Grounds Lost</h3>\n    <p><b>Location:</b> Pend Oreille River, Bonner County, Idaho</p>\n    <p>Flooded Kalispel gathering grounds, camas meadows, and the Buffalo Trail departure point at Denton Slough/Indian Meadows. The 11-foot annual water-level fluctuation caused by dam operations continues to threaten approximately <b>200 archaeological sites</b> kept confidential for their protection.</p>\n    <p>The dam flooded the area where Kootenai, Kalispel, and Coeur d'Alene peoples gathered for summer trade. Bear Paw Rock — sacred to multiple tribes — now sits across a flooded meadow. BPA provides mitigation funds for habitat acquisition.</p>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coeur_dalene",
+        "kalispel"
+      ],
+      "tribes": [
+        "coeur_dalene",
+        "kalispel"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

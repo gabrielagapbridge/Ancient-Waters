@@ -5,370 +5,1300 @@
     {
       "type": "marker",
       "layer": "mojavePaleo",
-      "geometry": {"lat": 35.3300, "lng": -116.0800},
-      "icon": {"factory": "mkIcon", "color": "#D32F2F", "size": 9},
-      "popup": "<h4 style=\"color:#EF5350\">Silver Lake Shoreline Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lake Mojave Complex \u00b7 ~13,000\u20138,000 BCE \u00b7 Lakeside camps & lithic scatters</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Lake Mojave and Silver Lake projectile points extensively collected around Silver Lake shorelines. Stone features \u2014 circular, oval, and linear \u2014 constructed of local cobbles extend from late Holocene shorelines onto the playa. Ring-shaped or arc-shaped features on talus slopes may have been <b>temporary dwellings, windbreaks, or storage units</b>.<br><br><b>Key artifacts:</b> Lake Mojave points, Silver Lake points, crescents</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Campbell et al. 1937, \"The Archaeology of Pleistocene Lake Mojave,\" Southwest Museum Papers No. 11</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.33,
+        "lng": -116.08
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#D32F2F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#EF5350\">Silver Lake Shoreline Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lake Mojave Complex · ~13,000–8,000 BCE · Lakeside camps & lithic scatters</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Lake Mojave and Silver Lake projectile points extensively collected around Silver Lake shorelines. Stone features — circular, oval, and linear — constructed of local cobbles extend from late Holocene shorelines onto the playa. Ring-shaped or arc-shaped features on talus slopes may have been <b>temporary dwellings, windbreaks, or storage units</b>.<br><br><b>Key artifacts:</b> Lake Mojave points, Silver Lake points, crescents</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Campbell et al. 1937, \"The Archaeology of Pleistocene Lake Mojave,\" Southwest Museum Papers No. 11</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojavePaleo",
-      "geometry": {"lat": 35.1652, "lng": -116.0714},
-      "icon": {"factory": "mkIcon", "color": "#D32F2F", "size": 9},
-      "popup": "<h4 style=\"color:#EF5350\">Soda Lake Shoreline Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lake Mojave Complex \u00b7 ~13,000\u20138,000 BCE \u00b7 Lakeside camps</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Extensive shoreline camps around ancient Soda Lake. Paleoindians employed both <b>\u201cwetland transient\u201d</b> (moving between lake basins) and <b>\u201cwetland stable\u201d</b> strategies depending on lake productivity.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Campbell et al. 1937; Warren, BLM</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 35.1652,
+        "lng": -116.0714
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#D32F2F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#EF5350\">Soda Lake Shoreline Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lake Mojave Complex · ~13,000–8,000 BCE · Lakeside camps</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Extensive shoreline camps around ancient Soda Lake. Paleoindians employed both <b>“wetland transient”</b> (moving between lake basins) and <b>“wetland stable”</b> strategies depending on lake productivity.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Campbell et al. 1937; Warren, BLM</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojavePaleo",
-      "geometry": {"lat": 35.2600, "lng": -116.6800},
-      "icon": {"factory": "mkIcon", "color": "#D32F2F", "size": 12},
-      "popup": "<h4 style=\"color:#EF5350\">Fort Irwin Clovis Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~13,000\u20138,000 BCE \u00b7 Fort Irwin Military Reservation \u00b7 Restricted access</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">At least <b>four recorded sites</b> with Clovis and Great Basin Concave Base projectile points, plus several isolated Clovis point finds. Two large multi-component sites re-recorded in 2014, including <b>Bitter Spring (CA-SBR-2659/H)</b>, which is on the National Register of Historic Places.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Burnett et al. 2016; Fort Irwin Cultural Resources Program</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 35.26,
+        "lng": -116.68
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#D32F2F",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#EF5350\">Fort Irwin Clovis Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~13,000–8,000 BCE · Fort Irwin Military Reservation · Restricted access</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">At least <b>four recorded sites</b> with Clovis and Great Basin Concave Base projectile points, plus several isolated Clovis point finds. Two large multi-component sites re-recorded in 2014, including <b>Bitter Spring (CA-SBR-2659/H)</b>, which is on the National Register of Historic Places.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Burnett et al. 2016; Fort Irwin Cultural Resources Program</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "historic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojavePaleo",
-      "geometry": {"lat": 34.9000, "lng": -117.8800},
-      "icon": {"factory": "mkIcon", "color": "#D32F2F", "size": 9},
-      "popup": "<h4 style=\"color:#EF5350\">Rogers Dry Lake / Edwards AFB Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lake Thompson shorelines \u00b7 Paleoindian through Late Prehistoric \u00b7 Western Mojave</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Prehistoric settlement along the eastern margin of Rogers Dry Lake. Sites dating from <b>Paleoindian through Late Prehistoric</b> periods documented along ancient lakeshore terraces of Lake Thompson.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Byrd et al. 1994, \"Prehistoric Settlement Along the Eastern Margin of Rogers Dry Lake\"</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 34.9,
+        "lng": -117.88
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#D32F2F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#EF5350\">Rogers Dry Lake / Edwards AFB Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lake Thompson shorelines · Paleoindian through Late Prehistoric · Western Mojave</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Prehistoric settlement along the eastern margin of Rogers Dry Lake. Sites dating from <b>Paleoindian through Late Prehistoric</b> periods documented along ancient lakeshore terraces of Lake Thompson.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Byrd et al. 1994, \"Prehistoric Settlement Along the Eastern Margin of Rogers Dry Lake\"</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "historic",
+        "late_prehistoric",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojavePaleo",
-      "geometry": {"lat": 34.2500, "lng": -116.1000},
-      "icon": {"factory": "mkIcon", "color": "#D32F2F", "size": 9},
-      "popup": "<h4 style=\"color:#EF5350\">Deadman Lake Basin Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">MCAGCC Twentynine Palms \u00b7 Clovis through Middle Holocene</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Clovis biface documented along with terminal Pleistocene geological deposits. Multiple archaeological assessments have identified significant early sites within the Marine Corps base.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton et al. 2015, \"Late Pleistocene to Middle Holocene Archaeology in the Mojave Desert\"</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 34.25,
+        "lng": -116.1
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#D32F2F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#EF5350\">Deadman Lake Basin Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">MCAGCC Twentynine Palms · Clovis through Middle Holocene</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Clovis biface documented along with terminal Pleistocene geological deposits. Multiple archaeological assessments have identified significant early sites within the Marine Corps base.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton et al. 2015, \"Late Pleistocene to Middle Holocene Archaeology in the Mojave Desert\"</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojavePinto",
-      "geometry": {"lat": 33.9000, "lng": -115.7500},
-      "icon": {"factory": "mkIcon", "color": "#E65100", "size": 12},
-      "popup": "<h4 style=\"color:#FF6D00\">\ud83c\udff9 Pinto Basin (CA-RIV-52) \u2014 Type Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Joshua Tree NP \u00b7 ~8,000\u20134,000 BCE \u00b7 Type site for the Pinto Complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Type site for the Pinto Complex</b> \u2014 the cultural period following dramatic post-Pleistocene drying. Elizabeth and William Campbell surveyed this basin in the early 1930s, finding camps with distinctive artifacts for nearly <b>six miles along an extinct river channel</b>.<br><br>Artifacts: Pinto points, drills, knives, manos, pestles, metates, hammerstones, scrapers. Inhabitants had a predisposition toward <b>quartz for crafting Pinto points</b>. Diagnostic points from Lake Mojave, Pinto, Gypsum, Rose Spring, and Late Prehistoric complexes all present \u2014 indicating <b>continuous use over millennia</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Campbell & Campbell 1935; Renteria 2020 (CSUSB thesis); NPS Joshua Tree</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 33.9,
+        "lng": -115.75
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E65100",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#FF6D00\">🏹 Pinto Basin (CA-RIV-52) — Type Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Joshua Tree NP · ~8,000–4,000 BCE · Type site for the Pinto Complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Type site for the Pinto Complex</b> — the cultural period following dramatic post-Pleistocene drying. Elizabeth and William Campbell surveyed this basin in the early 1930s, finding camps with distinctive artifacts for nearly <b>six miles along an extinct river channel</b>.<br><br>Artifacts: Pinto points, drills, knives, manos, pestles, metates, hammerstones, scrapers. Inhabitants had a predisposition toward <b>quartz for crafting Pinto points</b>. Diagnostic points from Lake Mojave, Pinto, Gypsum, Rose Spring, and Late Prehistoric complexes all present — indicating <b>continuous use over millennia</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Campbell & Campbell 1935; Renteria 2020 (CSUSB thesis); NPS Joshua Tree</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "historic",
+        "late_archaic",
+        "late_prehistoric",
+        "paleoindian"
+      ],
+      "cultures": [
+        "lenape"
+      ],
+      "tribes": [
+        "lenape",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojavePinto",
-      "geometry": {"lat": 35.3000, "lng": -116.5500},
-      "icon": {"factory": "mkIcon", "color": "#E65100", "size": 9},
-      "popup": "<h4 style=\"color:#FF6D00\">Rogers Ridge</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Fort Irwin \u00b7 Pinto Complex \u00b7 Fossil spring site</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Dated Pinto occupation at a <b>fossil spring</b>. Obsidian hydration dating applied to establish Pinto chronology in the Mojave Desert.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Jenkins 1987; Jenkins & Warren 1984</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 35.3,
+        "lng": -116.55
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E65100",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#FF6D00\">Rogers Ridge</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Fort Irwin · Pinto Complex · Fossil spring site</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Dated Pinto occupation at a <b>fossil spring</b>. Obsidian hydration dating applied to establish Pinto chronology in the Mojave Desert.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Jenkins 1987; Jenkins & Warren 1984</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojavePinto",
-      "geometry": {"lat": 35.9400, "lng": -117.9100},
-      "icon": {"factory": "mkIcon", "color": "#E65100", "size": 9},
-      "popup": "<h4 style=\"color:#FF6D00\">Little Lake Pinto Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Inyo County \u00b7 Pinto Complex \u00b7 Permanent water source</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A Pinto-period site at Little Lake \u2014 a rare <b>permanent water source</b> in the northwestern Mojave/Owens Valley transition zone. This spring-fed area attracted human habitation over thousands of years.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Harrington, \"A Pinto Site at Little Lake,\" Southwest Museum Papers No. 17</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 35.94,
+        "lng": -117.91
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E65100",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#FF6D00\">Little Lake Pinto Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Inyo County · Pinto Complex · Permanent water source</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A Pinto-period site at Little Lake — a rare <b>permanent water source</b> in the northwestern Mojave/Owens Valley transition zone. This spring-fed area attracted human habitation over thousands of years.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Harrington, \"A Pinto Site at Little Lake,\" Southwest Museum Papers No. 17</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveGypsum",
-      "geometry": {"lat": 34.7900, "lng": -116.6600},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "<h4 style=\"color:#F9A825\">\u2726 Newberry Cave (CA-SBR-199)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Newberry Mountains \u00b7 ~2000 BCE\u2013600 CE \u00b7 Ceremonial cave \u00b7 Split-twig figurines</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Discovered 1933, excavated 1953, reexamined 1981. Over <b>3,000 artifacts</b> recovered, including <b>1,049 split-twig figurine fragments</b> (primarily representing deer or bighorn sheep). The <b>only cave in California</b> to contain split-twig figures \u2014 all other such caves (15 total) are near the Grand Canyon.<br><br>Contains <b>66 rock art panels</b>, predominantly using <b>green pigment</b> (symbolizing life and renewal). Numerous dart points and decorated dart shafts. Interpreted as an <b>exclusively male ceremonial site</b> focused on bighorn sheep increase rituals.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Smith et al. 1957; Whitley et al., \"Ritual, Ceremony and Symbolism of Archaic Bighorn Hunters\"; Leska 2009</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": {
+        "lat": 34.79,
+        "lng": -116.66
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4 style=\"color:#F9A825\">✦ Newberry Cave (CA-SBR-199)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Newberry Mountains · ~2000 BCE–600 CE · Ceremonial cave · Split-twig figurines</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Discovered 1933, excavated 1953, reexamined 1981. Over <b>3,000 artifacts</b> recovered, including <b>1,049 split-twig figurine fragments</b> (primarily representing deer or bighorn sheep). The <b>only cave in California</b> to contain split-twig figures — all other such caves (15 total) are near the Grand Canyon.<br><br>Contains <b>66 rock art panels</b>, predominantly using <b>green pigment</b> (symbolizing life and renewal). Numerous dart points and decorated dart shafts. Interpreted as an <b>exclusively male ceremonial site</b> focused on bighorn sheep increase rituals.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Smith et al. 1957; Whitley et al., \"Ritual, Ceremony and Symbolism of Archaic Bighorn Hunters\"; Leska 2009</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveGypsum",
-      "geometry": {"lat": 36.2700, "lng": -114.9700},
-      "icon": {"factory": "mkIcon", "color": "#F9A825", "size": 12},
-      "popup": "<h4 style=\"color:#F9A825\">\ud83c\udff9 Gypsum Cave \u2014 Type Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Las Vegas, NV \u00b7 ~4,000\u20131,500 BCE \u00b7 Type site for Gypsum period</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Type site for the Gypsum period.</b> Excavated by M.R. Harrington (1930). Contained atlatl dart shafts, painted dart foreshafts, and Gypsum points. Also found remains of <b>extinct giant ground sloth</b>. Foundational for establishing the Middle Archaic chronology of the greater Mojave region.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Harrington 1933</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 36.27,
+        "lng": -114.97
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#F9A825",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#F9A825\">🏹 Gypsum Cave — Type Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Las Vegas, NV · ~4,000–1,500 BCE · Type site for Gypsum period</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Type site for the Gypsum period.</b> Excavated by M.R. Harrington (1930). Contained atlatl dart shafts, painted dart foreshafts, and Gypsum points. Also found remains of <b>extinct giant ground sloth</b>. Foundational for establishing the Middle Archaic chronology of the greater Mojave region.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Harrington 1933</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveGypsum",
-      "geometry": {"lat": 34.1600, "lng": -115.9500},
-      "icon": {"factory": "mkIcon", "color": "#F9A825", "size": 9},
-      "popup": "<h4 style=\"color:#F9A825\">Surprise Spring (CA-SBR-424/H)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Twentynine Palms \u00b7 Gypsum through Late Prehistoric \u00b7 Perennial spring</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Major desert spring site with deep midden deposits. One of the <b>\"perpetual resource patches\"</b> \u2014 a perennial spring that attracted long-term seasonal habitation with domestic refuse. Occupied across multiple time periods.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Altschul 1990, \"Prehistoric Adaptation to a Desert Spring Environment\"; Sutton 2019</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 34.16,
+        "lng": -115.95
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#F9A825",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#F9A825\">Surprise Spring (CA-SBR-424/H)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Twentynine Palms · Gypsum through Late Prehistoric · Perennial spring</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Major desert spring site with deep midden deposits. One of the <b>\"perpetual resource patches\"</b> — a perennial spring that attracted long-term seasonal habitation with domestic refuse. Occupied across multiple time periods.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Altschul 1990, \"Prehistoric Adaptation to a Desert Spring Environment\"; Sutton 2019</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveGypsum",
-      "geometry": {"lat": 35.1480, "lng": -116.1080},
-      "icon": {"factory": "mkIcon", "color": "#F9A825", "size": 9},
-      "popup": "<h4 style=\"color:#F9A825\">Soda Springs Rockshelter (CA-SBR-363b)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Zzyzx \u00b7 Multicomponent \u00b7 Rockshelter habitation</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavated rockshelter near Soda Springs/Zzyzx. Part of a cluster of archaeological sites in the Soda Lake/Baker area showing continuous human use of this water source.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Cameron 1984, \"The West Pond Report\"; Sutton 1996</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 35.148,
+        "lng": -116.108
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#F9A825",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#F9A825\">Soda Springs Rockshelter (CA-SBR-363b)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Zzyzx · Multicomponent · Rockshelter habitation</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavated rockshelter near Soda Springs/Zzyzx. Part of a cluster of archaeological sites in the Soda Lake/Baker area showing continuous human use of this water source.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Cameron 1984, \"The West Pond Report\"; Sutton 1996</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRoseSpring",
-      "geometry": {"lat": 35.1500, "lng": -117.8700},
-      "icon": {"factory": "mkIcon", "color": "#2E7D32", "size": 12},
-      "popup": "<h4 style=\"color:#43A047\">\ud83c\udfd8\ufe0f Koehn Lake Village (CA-KER-875)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave \u00b7 ~1,500 BCE\u2013CE 1000 \u00b7 Major permanent village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Major Rose Spring-era village</b> excavated by Dr. Mark Sutton. Rests above a shoreline of ancient Koehn Dry Lake. The village abutted aeolian dunes crested by a sizeable mesquite community (now decimated by agricultural water drawdown).<br><br>A <b>collapsed circular, semi-subterranean juniper structure</b> was found during excavations. Cornerstone site for Sutton's western Mojave settlement model. Linked to the <b>Coso obsidian trade network</b>; El Paso Mountain quarries supported this village. <b>Abandoned when the lake desiccated ~1000 BP.</b></div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1986, 1988a, 1990, 1991, 1996; Faull 2006</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 35.15,
+        "lng": -117.87
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E7D32",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#43A047\">🏘️ Koehn Lake Village (CA-KER-875)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave · ~1,500 BCE–CE 1000 · Major permanent village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Major Rose Spring-era village</b> excavated by Dr. Mark Sutton. Rests above a shoreline of ancient Koehn Dry Lake. The village abutted aeolian dunes crested by a sizeable mesquite community (now decimated by agricultural water drawdown).<br><br>A <b>collapsed circular, semi-subterranean juniper structure</b> was found during excavations. Cornerstone site for Sutton's western Mojave settlement model. Linked to the <b>Coso obsidian trade network</b>; El Paso Mountain quarries supported this village. <b>Abandoned when the lake desiccated ~1000 BP.</b></div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1986, 1988a, 1990, 1991, 1996; Faull 2006</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "historic",
+        "late_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRoseSpring",
-      "geometry": {"lat": 36.0400, "lng": -117.9400},
-      "icon": {"factory": "mkIcon", "color": "#2E7D32", "size": 12},
-      "popup": "<h4 style=\"color:#43A047\">\ud83c\udff9 Rose Spring (CA-INY-372) \u2014 Type Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Little Lake, Inyo County \u00b7 Type site for Rose Spring Complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Type site for the Rose Spring cultural period</b> and the Rose Spring projectile point series. Located in the western Mojave/Owens Valley transition zone near permanent water. The Rose Spring period marks the introduction of the <b>bow and arrow</b> and increasing population density.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Lanning 1963</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 36.04,
+        "lng": -117.94
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E7D32",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#43A047\">🏹 Rose Spring (CA-INY-372) — Type Site</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Little Lake, Inyo County · Type site for Rose Spring Complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Type site for the Rose Spring cultural period</b> and the Rose Spring projectile point series. Located in the western Mojave/Owens Valley transition zone near permanent water. The Rose Spring period marks the introduction of the <b>bow and arrow</b> and increasing population density.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Lanning 1963</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRoseSpring",
-      "geometry": {"lat": 34.6300, "lng": -117.8500},
-      "icon": {"factory": "mkIcon", "color": "#2E7D32", "size": 12},
-      "popup": "<h4 style=\"color:#43A047\">\ud83c\udfd8\ufe0f Lovejoy Springs (CA-LAN-192)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Antelope Valley \u00b7 5,000+ years of occupation \u00b7 Major village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>One of the most significant village sites in the western Mojave.</b> Occupied for at least 5,000 years. Key findings:<br><br>\u2022 <b>Mass grave</b> of at least 9 individuals dated to ~2,720 BP \u2014 one youth draped in over <b>3,000 Olivella shell beads</b> and a Coso obsidian Elko point, demonstrating early coast-to-desert trade<br>\u2022 Ground stone artifacts dominate (intense plant processing)<br>\u2022 Ceramics show intermingling of local and distant wares<br>\u2022 Heavy reliance on jackrabbits and small mammals<br>\u2022 <b>Genetic data (mtDNA)</b> confirm minimum 1,000-year in-situ development of the Vanyume Serrano lineage<br>\u2022 Multiple <b>cupule rock art</b> loci nearby<br>\u2022 ~85% of the site's cultural resources damaged or destroyed by modern construction</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Price et al. 2009; Love 1992, 1996; Toney 1968; Earle 2015</div>",
-      "popupOptions": {"maxWidth": 440}
+      "geometry": {
+        "lat": 34.63,
+        "lng": -117.85
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E7D32",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#43A047\">🏘️ Lovejoy Springs (CA-LAN-192)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Antelope Valley · 5,000+ years of occupation · Major village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>One of the most significant village sites in the western Mojave.</b> Occupied for at least 5,000 years. Key findings:<br><br>• <b>Mass grave</b> of at least 9 individuals dated to ~2,720 BP — one youth draped in over <b>3,000 Olivella shell beads</b> and a Coso obsidian Elko point, demonstrating early coast-to-desert trade<br>• Ground stone artifacts dominate (intense plant processing)<br>• Ceramics show intermingling of local and distant wares<br>• Heavy reliance on jackrabbits and small mammals<br>• <b>Genetic data (mtDNA)</b> confirm minimum 1,000-year in-situ development of the Vanyume Serrano lineage<br>• Multiple <b>cupule rock art</b> loci nearby<br>• ~85% of the site's cultural resources damaged or destroyed by modern construction</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Price et al. 2009; Love 1992, 1996; Toney 1968; Earle 2015</div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRoseSpring",
-      "geometry": {"lat": 34.8500, "lng": -118.2000},
-      "icon": {"factory": "mkIcon", "color": "#2E7D32", "size": 9},
-      "popup": "<h4 style=\"color:#43A047\">Cottonwood Creek Village (CA-KER-303)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">West of Rosamond \u00b7 ~2,400\u20132,100 BP \u00b7 Major village complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavated residential structure (probably juniper) dated to <b>2370 BP and 2140 BP</b>, with nearly 1 meter of underlying midden. Coso obsidian present. Burials with shell beads documented. Part of the network of Antelope Valley villages linked to the <b>Coso obsidian trade system</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1988a; Sutton & Robinson 1982; Faull 2006</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.85,
+        "lng": -118.2
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E7D32",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#43A047\">Cottonwood Creek Village (CA-KER-303)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">West of Rosamond · ~2,400–2,100 BP · Major village complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavated residential structure (probably juniper) dated to <b>2370 BP and 2140 BP</b>, with nearly 1 meter of underlying midden. Coso obsidian present. Burials with shell beads documented. Part of the network of Antelope Valley villages linked to the <b>Coso obsidian trade system</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1988a; Sutton & Robinson 1982; Faull 2006</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRoseSpring",
-      "geometry": {"lat": 36.0300, "lng": -117.9500},
-      "icon": {"factory": "mkIcon", "color": "#2E7D32", "size": 9},
-      "popup": "<h4 style=\"color:#43A047\">Coso Junction Ranch (CA-INY-2284)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Coso Junction area \u00b7 Gypsum through Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Multi-component site near the Coso Range, closely linked to the <b>Coso obsidian trade system</b>. Evidence of sustained occupation during peak obsidian production and distribution.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019 (PCAS Quarterly)</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 36.03,
+        "lng": -117.95
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E7D32",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#43A047\">Coso Junction Ranch (CA-INY-2284)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Coso Junction area · Gypsum through Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Multi-component site near the Coso Range, closely linked to the <b>Coso obsidian trade system</b>. Evidence of sustained occupation during peak obsidian production and distribution.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019 (PCAS Quarterly)</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "coso_tradition"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRoseSpring",
-      "geometry": {"lat": 35.1300, "lng": -117.8400},
-      "icon": {"factory": "mkIcon", "color": "#2E7D32", "size": 9},
-      "popup": "<h4 style=\"color:#43A047\">Cantil / Honda Test Track (CA-KER-2211)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">3 km west of Koehn Lake \u00b7 Rose Spring through Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Located 3 km west of the Koehn Lake village. Part of the interconnected settlement system in the western Mojave linked to Coso obsidian distribution.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1990, 1991</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 35.13,
+        "lng": -117.84
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E7D32",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#43A047\">Cantil / Honda Test Track (CA-KER-2211)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">3 km west of Koehn Lake · Rose Spring through Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Located 3 km west of the Koehn Lake village. Part of the interconnected settlement system in the western Mojave linked to Coso obsidian distribution.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1990, 1991</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveRoseSpring",
-      "geometry": {"lat": 35.6800, "lng": -116.4200},
-      "icon": {"factory": "mkIcon", "color": "#2E7D32", "size": 9},
-      "popup": "<h4 style=\"color:#43A047\">Saratoga Springs (CA-SBR-5547)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Southern Death Valley area \u00b7 Rose Spring through Late Prehistoric \u00b7 Major oasis</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A large oasis fed by deep springs. Occupied intermittently over thousands of years. Named in Sutton's major site list for Rose Spring and Late Prehistoric periods.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 35.68,
+        "lng": -116.42
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E7D32",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#43A047\">Saratoga Springs (CA-SBR-5547)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Southern Death Valley area · Rose Spring through Late Prehistoric · Major oasis</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A large oasis fed by deep springs. Occupied intermittently over thousands of years. Named in Sutton's major site list for Rose Spring and Late Prehistoric periods.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLatePre",
-      "geometry": {"lat": 34.5900, "lng": -117.3300},
-      "icon": {"factory": "mkIcon", "color": "#00838F", "size": 9},
-      "popup": "<h4 style=\"color:#00ACC1\">Oro Grande (CA-SBR-72)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River \u00b7 Late Prehistoric \u00b7 Vanyume (Desert Serrano)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Significant habitation site on the Mojave River in the Victorville area. One of the key Late Prehistoric settlements along the river corridor.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Rector et al. 1983, \"Archaeological Studies at Oro Grande\"</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 34.59,
+        "lng": -117.33
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00838F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">Oro Grande (CA-SBR-72)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River · Late Prehistoric · Vanyume (Desert Serrano)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Significant habitation site on the Mojave River in the Victorville area. One of the key Late Prehistoric settlements along the river corridor.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Rector et al. 1983, \"Archaeological Studies at Oro Grande\"</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLatePre",
-      "geometry": {"lat": 34.9400, "lng": -117.2000},
-      "icon": {"factory": "mkIcon", "color": "#00838F", "size": 9},
-      "popup": "<h4 style=\"color:#00ACC1\">Hinkley (CA-SBR-189)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River \u00b7 Late Prehistoric \u00b7 Vanyume (Desert Serrano)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">River corridor habitation site near Hinkley, along the Mojave River between Barstow and Victorville.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019; Smith 1963</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 34.94,
+        "lng": -117.2
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00838F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">Hinkley (CA-SBR-189)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River · Late Prehistoric · Vanyume (Desert Serrano)</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">River corridor habitation site near Hinkley, along the Mojave River between Barstow and Victorville.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019; Smith 1963</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLatePre",
-      "geometry": {"lat": 34.9500, "lng": -116.6700},
-      "icon": {"factory": "mkIcon", "color": "#00838F", "size": 9},
-      "popup": "<h4 style=\"color:#00ACC1\">Harvard Hill (CA-SBR-11787)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Barstow \u00b7 Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Habitation site in the central Mojave near the Mojave River corridor.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019</div>",
-      "popupOptions": {"maxWidth": 320}
+      "geometry": {
+        "lat": 34.95,
+        "lng": -116.67
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00838F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">Harvard Hill (CA-SBR-11787)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Barstow · Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Habitation site in the central Mojave near the Mojave River corridor.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019</div>",
+      "popupOptions": {
+        "maxWidth": 320
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLatePre",
-      "geometry": {"lat": 34.8800, "lng": -117.1000},
-      "icon": {"factory": "mkIcon", "color": "#00838F", "size": 9},
-      "popup": "<h4 style=\"color:#00ACC1\">Lenwood (CA-SBR-1549)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Barstow \u00b7 Late Prehistoric \u00b7 Mojave River</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological site near the Mojave River at Lenwood, near Barstow.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019</div>",
-      "popupOptions": {"maxWidth": 320}
+      "geometry": {
+        "lat": 34.88,
+        "lng": -117.1
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00838F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">Lenwood (CA-SBR-1549)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near Barstow · Late Prehistoric · Mojave River</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological site near the Mojave River at Lenwood, near Barstow.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019</div>",
+      "popupOptions": {
+        "maxWidth": 320
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLatePre",
-      "geometry": {"lat": 34.7800, "lng": -118.2800},
-      "icon": {"factory": "mkIcon", "color": "#00838F", "size": 12},
-      "popup": "<h4 style=\"color:#00ACC1\">\ud83c\udfd8\ufe0f Fairmont Butte / Antelope Buttes Village (CA-LAN-898)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Antelope Valley \u00b7 Late Prehistoric \u00b7 Serrano-affiliated</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Large village complex consolidated from multiple site recordings. Contains <b>red pigment pictograph</b>. Part of the network of Antelope Valley settlements.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight et al. 2008 (Kern County Archaeological Society Journal)</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 34.78,
+        "lng": -118.28
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00838F",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">🏘️ Fairmont Butte / Antelope Buttes Village (CA-LAN-898)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Antelope Valley · Late Prehistoric · Serrano-affiliated</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Large village complex consolidated from multiple site recordings. Contains <b>red pigment pictograph</b>. Part of the network of Antelope Valley settlements.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight et al. 2008 (Kern County Archaeological Society Journal)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveLatePre",
-      "geometry": {"lat": 34.7500, "lng": -117.9000},
-      "icon": {"factory": "mkIcon", "color": "#00838F", "size": 9},
-      "popup": "<h4 style=\"color:#00ACC1\">Piute Butte (CA-LAN-1731)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Antelope Valley \u00b7 Late Prehistoric \u00b7 Pictograph panels</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Site contains pictograph panels and associated habitation features.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight et al. 2008</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 34.75,
+        "lng": -117.9
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#00838F",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#00ACC1\">Piute Butte (CA-LAN-1731)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Antelope Valley · Late Prehistoric · Pictograph panels</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Site contains pictograph panels and associated habitation features.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Knight et al. 2008</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "paiute"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 34.4000, "lng": -117.3500},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 12},
-      "popup": "<h4 style=\"color:#AB47BC\">\ud83c\udfd8\ufe0f Guapiabit (CA-SBR-93/1913)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Summit Valley / Hesperia \u00b7 Serrano \u00b7 Major ethnohistoric village complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Named Serrano village at the Mojave River Forks area. When interviewed by <b>John P. Harrington</b> in the early 1900s, Serrano tribal leader <b>Santos Manuel</b> called this area of Summit Valley <b>\u201cwa\u2019peat\u201d</b> (a Serrano space). Multiple archaeological sites within this village complex. NAGPRA repatriation efforts have identified human remains from the Las Flores Ranch area.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Altschul et al.; Federal Register 2021 NAGPRA; Sutton & Schneider 1996</div>",
-      "popupOptions": {"maxWidth": 420}
+      "geometry": {
+        "lat": 34.4,
+        "lng": -117.35
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">🏘️ Guapiabit (CA-SBR-93/1913)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Summit Valley / Hesperia · Serrano · Major ethnohistoric village complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Named Serrano village at the Mojave River Forks area. When interviewed by <b>John P. Harrington</b> in the early 1900s, Serrano tribal leader <b>Santos Manuel</b> called this area of Summit Valley <b>“wa’peat”</b> (a Serrano space). Multiple archaeological sites within this village complex. NAGPRA repatriation efforts have identified human remains from the Las Flores Ranch area.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Altschul et al.; Federal Register 2021 NAGPRA; Sutton & Schneider 1996</div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 34.3200, "lng": -117.4300},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 12},
-      "popup": "<h4 style=\"color:#AB47BC\">\ud83c\udfd8\ufe0f Muscupiabit / Camp Cajon (CA-SBR-425/H)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Cajon Pass \u00b7 Serrano \u00b7 Major named village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Named Serrano village at Cajon Pass. Santos Manuel called this area <b>\u201camutskupiat.\u201d</b> The Camp Cajon Site was owned by the San Bernardino County Museum Association until 2019, when it was <b>transferred to the San Manuel Band of Mission Indians</b>. Multiple NAGPRA repatriations associated.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Federal Register 2021; Harrington field notes; San Bernardino County Museum</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.32,
+        "lng": -117.43
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">🏘️ Muscupiabit / Camp Cajon (CA-SBR-425/H)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Cajon Pass · Serrano · Major named village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Named Serrano village at Cajon Pass. Santos Manuel called this area <b>“amutskupiat.”</b> The Camp Cajon Site was owned by the San Bernardino County Museum Association until 2019, when it was <b>transferred to the San Manuel Band of Mission Indians</b>. Multiple NAGPRA repatriations associated.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Federal Register 2021; Harrington field notes; San Bernardino County Museum</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 34.4200, "lng": -117.3200},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 12},
-      "popup": "<h4 style=\"color:#AB47BC\">\ud83c\udfd8\ufe0f W\u00e1\u2019peat</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Summit Valley / Las Flores Ranch \u00b7 Vanyume (Desert Serrano) \u00b7 Major village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Major village of the <b>Vanyume people</b> along the upper Mojave River. Santos Manuel identified the Summit Valley area as <b>\u201cwa\u2019peat.\u201d</b> Multiple archaeological sites (CA-SBR-66/182 \u2014 Turner Ranch, and others) are associated with this village complex.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle 2015; Harrington 1986; Federal Register 2021</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.42,
+        "lng": -117.32
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 12
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">🏘️ Wá’peat</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Summit Valley / Las Flores Ranch · Vanyume (Desert Serrano) · Major village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Major village of the <b>Vanyume people</b> along the upper Mojave River. Santos Manuel identified the Summit Valley area as <b>“wa’peat.”</b> Multiple archaeological sites (CA-SBR-66/182 — Turner Ranch, and others) are associated with this village complex.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Earle 2015; Harrington 1986; Federal Register 2021</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 34.4500, "lng": -117.3000},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 9},
-      "popup": "<h4 style=\"color:#AB47BC\">Turner Ranch (CA-SBR-66/182)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Victor Valley \u00b7 Vanyume \u00b7 Part of W\u00e1\u2019peat village complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological site within the broader W\u00e1\u2019peat village complex.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019; Smith 1963</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 34.45,
+        "lng": -117.3
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">Turner Ranch (CA-SBR-66/182)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Victor Valley · Vanyume · Part of Wá’peat village complex</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological site within the broader Wá’peat village complex.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019; Smith 1963</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 34.3900, "lng": -117.3300},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 9},
-      "popup": "<h4 style=\"color:#AB47BC\">Atongaibit</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Victor Valley \u00b7 Serrano \u00b7 Named village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Identified by Santos Manuel as a named Serrano village north of Muscupiabit. CA-SBR-177 is located between Guapiabit and Atongaibit.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Federal Register 2021; Harrington field notes</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 34.39,
+        "lng": -117.33
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">Atongaibit</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Victor Valley · Serrano · Named village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Identified by Santos Manuel as a named Serrano village north of Muscupiabit. CA-SBR-177 is located between Guapiabit and Atongaibit.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Federal Register 2021; Harrington field notes</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 34.0300, "lng": -117.0400},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 9},
-      "popup": "<h4 style=\"color:#AB47BC\">Yucaipat (CA-SBR-1000)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Town of Yucaipa \u00b7 Serrano \u00b7 Named village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In 1918, Serrano consultants identified the town of Yucaipa as the site of the Serrano village of <b>Yucaipat</b>. NAGPRA repatriation of human remains from this site.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Federal Register 2021</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 34.03,
+        "lng": -117.04
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">Yucaipat (CA-SBR-1000)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Town of Yucaipa · Serrano · Named village</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In 1918, Serrano consultants identified the town of Yucaipa as the site of the Serrano village of <b>Yucaipat</b>. NAGPRA repatriation of human remains from this site.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Federal Register 2021</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 34.9500, "lng": -115.5000},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 9},
-      "popup": "<h4 style=\"color:#AB47BC\">T\u00fcmplsagavatsits \u2014 Providence Mountain Group</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Providence Mountains \u00b7 Chemehuevi band</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Chemehuevi band living in the Providence Mountains. Used <b>Mitchell Caverns</b> as habitation and storage \u2014 calling them the <b>\u201cEyes of the Mountain.\u201d</b></div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Laird 1976, \"The Chemehuevis\"</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 34.95,
+        "lng": -115.5
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">Tümplsagavatsits — Providence Mountain Group</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Providence Mountains · Chemehuevi band</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Chemehuevi band living in the Providence Mountains. Used <b>Mitchell Caverns</b> as habitation and storage — calling them the <b>“Eyes of the Mountain.”</b></div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Laird 1976, \"The Chemehuevis\"</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveEthno",
-      "geometry": {"lat": 35.9000, "lng": -116.2000},
-      "icon": {"factory": "mkIcon", "color": "#7B1FA2", "size": 9},
-      "popup": "<h4 style=\"color:#AB47BC\">Yagats \u2014 Amargosa River Group</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Amargosa Valley \u00b7 Chemehuevi band</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Chemehuevi band living in the Amargosa Valley and along the Amargosa River.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Laird 1976, \"The Chemehuevis\"</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 35.9,
+        "lng": -116.2
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#7B1FA2",
+        "size": 9
+      },
+      "popup": "<h4 style=\"color:#AB47BC\">Yagats — Amargosa River Group</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Amargosa Valley · Chemehuevi band</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Chemehuevi band living in the Amargosa Valley and along the Amargosa River.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Laird 1976, \"The Chemehuevis\"</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 35.2272, "lng": -116.4317},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;background:#FAFAFA;border:3px solid #FF8F00;border-radius:50%;box-shadow:0 0 6px #FF8F0066;\"></div>", "iconSize": [13,13], "iconAnchor": [6.5,6.5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Bitter Spring (CA-SBR-2659/H)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Fort Irwin \u00b7 NRHP-listed \u00b7 Multiple periods through Contact</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>National Register of Historic Places</b> listed site within Fort Irwin. Major spring along the Salt Lake Trail. Indigenous peoples occupied this spring for millennia before it was militarized. Clovis-age artifacts documented during 2014 re-recording.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Irwin Cultural Resources Program; Burnett et al. 2016</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 35.2272,
+        "lng": -116.4317
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;background:#FAFAFA;border:3px solid #FF8F00;border-radius:50%;box-shadow:0 0 6px #FF8F0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Bitter Spring (CA-SBR-2659/H)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Fort Irwin · NRHP-listed · Multiple periods through Contact</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>National Register of Historic Places</b> listed site within Fort Irwin. Major spring along the Salt Lake Trail. Indigenous peoples occupied this spring for millennia before it was militarized. Clovis-age artifacts documented during 2014 re-recording.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Fort Irwin Cultural Resources Program; Burnett et al. 2016</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [
+        "lenape"
+      ],
+      "tribes": [
+        "lenape",
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 35.1200, "lng": -116.3000},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>", "iconSize": [10,10], "iconAnchor": [5,5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Cronese Lakes Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">CA-SBR-259, -260, -128, -6017, -6018, -4198 \u00b7 Multiple periods</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Cluster of archaeological sites around the East and West Cronese Lakes. Received Mojave River overflow. <b>Vanyume (Desert Serrano)</b> sites documented in Late Prehistoric period.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019; Earle, \"The Desert Serrano\"</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 35.12,
+        "lng": -116.3
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Cronese Lakes Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">CA-SBR-259, -260, -128, -6017, -6018, -4198 · Multiple periods</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Cluster of archaeological sites around the East and West Cronese Lakes. Received Mojave River overflow. <b>Vanyume (Desert Serrano)</b> sites documented in Late Prehistoric period.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019; Earle, \"The Desert Serrano\"</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 34.2900, "lng": -117.2800},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>", "iconSize": [10,10], "iconAnchor": [5,5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Deep Creek (CA-SBR-176)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River Forks \u00b7 Late Prehistoric base camp \u00b7 Serrano</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Deep Creek site in the Mojave River Forks Region. Described as a Late Prehistoric base camp with evidence of earlier occupations. Part of the <b>Serrano seasonal round</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Altschul et al. 1989</div>",
-      "popupOptions": {"maxWidth": 360}
+      "geometry": {
+        "lat": 34.29,
+        "lng": -117.28
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Deep Creek (CA-SBR-176)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mojave River Forks · Late Prehistoric base camp · Serrano</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Deep Creek site in the Mojave River Forks Region. Described as a Late Prehistoric base camp with evidence of earlier occupations. Part of the <b>Serrano seasonal round</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Altschul et al. 1989</div>",
+      "popupOptions": {
+        "maxWidth": 360
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 34.9400, "lng": -115.5300},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:13px;height:13px;background:#FAFAFA;border:3px solid #FF8F00;border-radius:50%;box-shadow:0 0 6px #FF8F0066;\"></div>", "iconSize": [13,13], "iconAnchor": [6.5,6.5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Mitchell Caverns (CA-SBR-117)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Providence Mountains \u00b7 Cave habitation/storage \u00b7 Chemehuevi: \"Eyes of the Mountain\"</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Three solutional limestone caves at 4,300 ft elevation on the east side of the Providence Mountains. Chemehuevi tools and fire pits found inside. <b>Shasta ground sloth remains</b> also recovered.<br><br>The Chemehuevi regarded these caves as the <b>\u201cEyes of the Mountain\u201d</b> \u2014 used for habitation and pi\u00f1on nut storage. Named <b>\u201cEl Pakiva\u201d</b> (Devil's House) and <b>\u201cTecopa\u201d</b> (for a Shoshone chief).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Pinto 1989; Mitchell Caverns State Park; Mojave Project</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.94,
+        "lng": -115.53
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:13px;height:13px;background:#FAFAFA;border:3px solid #FF8F00;border-radius:50%;box-shadow:0 0 6px #FF8F0066;\"></div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Mitchell Caverns (CA-SBR-117)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Providence Mountains · Cave habitation/storage · Chemehuevi: \"Eyes of the Mountain\"</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Three solutional limestone caves at 4,300 ft elevation on the east side of the Providence Mountains. Chemehuevi tools and fire pits found inside. <b>Shasta ground sloth remains</b> also recovered.<br><br>The Chemehuevi regarded these caves as the <b>“Eyes of the Mountain”</b> — used for habitation and piñon nut storage. Named <b>“El Pakiva”</b> (Devil's House) and <b>“Tecopa”</b> (for a Shoshone chief).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Pinto 1989; Mitchell Caverns State Park; Mojave Project</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi",
+        "shoshone"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "mojave_tribe",
+        "shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 35.4000, "lng": -115.3000},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>", "iconSize": [10,10], "iconAnchor": [5,5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Vontrigger Spring (CA-SBR-413)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave \u00b7 Spring-based habitation \u00b7 Multicomponent</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological investigations at this eastern Mojave spring site, showing multiple periods of occupation.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton & Novickas (manuscript)</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 35.4,
+        "lng": -115.3
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Vontrigger Spring (CA-SBR-413)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave · Spring-based habitation · Multicomponent</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological investigations at this eastern Mojave spring site, showing multiple periods of occupation.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton & Novickas (manuscript)</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 34.8500, "lng": -116.9000},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>", "iconSize": [10,10], "iconAnchor": [5,5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Council Rocks (CA-SBR-291)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Central Mojave \u00b7 Ceremonial/gathering site with rock art</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Test unit excavations documented. A gathering and ceremonial site with rock art in the central Mojave.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Cameron & Rafter 1983</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 34.85,
+        "lng": -116.9
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Council Rocks (CA-SBR-291)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Central Mojave · Ceremonial/gathering site with rock art</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Test unit excavations documented. A gathering and ceremonial site with rock art in the central Mojave.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Cameron & Rafter 1983</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 35.3000, "lng": -115.5000},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>", "iconSize": [10,10], "iconAnchor": [5,5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Rustler Rockshelter (CA-SBR-288)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave \u00b7 Rose Spring through Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavated rockshelter with multi-period occupation in the eastern Mojave.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 35.3,
+        "lng": -115.5
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Rustler Rockshelter (CA-SBR-288)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Mojave · Rose Spring through Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavated rockshelter with multi-period occupation in the eastern Mojave.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 35.5200, "lng": -115.5700},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>", "iconSize": [10,10], "iconAnchor": [5,5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Clark Mountain (CA-SBR-4889)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near CA-NV border \u00b7 Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological site in the Clark Mountain area near the California-Nevada border.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
-      "popupOptions": {"maxWidth": 320}
+      "geometry": {
+        "lat": 35.52,
+        "lng": -115.57
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Clark Mountain (CA-SBR-4889)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near CA-NV border · Late Prehistoric</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Archaeological site in the Clark Mountain area near the California-Nevada border.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
+      "popupOptions": {
+        "maxWidth": 320
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveMulti",
-      "geometry": {"lat": 35.3500, "lng": -116.2500},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>", "iconSize": [10,10], "iconAnchor": [5,5]},
-      "popup": "<h4 style=\"color:#FF8F00\">\u2b21 Salt Spring (CA-SBR-8466)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Silurian Valley \u00b7 Old Spanish Trail route \u00b7 Multicomponent</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Located along the <b>Old Spanish Trail</b> route in Silurian Valley. Spring-based habitation spanning multiple periods.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019</div>",
-      "popupOptions": {"maxWidth": 340}
+      "geometry": {
+        "lat": 35.35,
+        "lng": -116.25
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FAFAFA;border:2.5px solid #FF8F00;border-radius:50%;box-shadow:0 0 5px #FF8F0044;\"></div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<h4 style=\"color:#FF8F00\">⬡ Salt Spring (CA-SBR-8466)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Silurian Valley · Old Spanish Trail route · Multicomponent</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Located along the <b>Old Spanish Trail</b> route in Silurian Valley. Spring-based habitation spanning multiple periods.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 2019</div>",
+      "popupOptions": {
+        "maxWidth": 340
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveCeremonial",
-      "geometry": {"lat": 34.9800, "lng": -117.0800},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "<h4 style=\"color:#E040FB\">\u2726 Black Mountain Rock Art District</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">NW of Barstow \u00b7 12,000+ petroglyphs \u00b7 NRHP 2000 \u00b7 Up to 8,000 years old</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>12,000+ petroglyphs.</b> Inscription Canyon contains 1,000+ designs, some up to <b>8,000 years old</b>. Complex designs: humanoid figures, shields, masks, baskets, deer, bighorn sheep. Listed on the <b>National Register of Historic Places (2000)</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 34.98,
+        "lng": -117.08
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4 style=\"color:#E040FB\">✦ Black Mountain Rock Art District</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">NW of Barstow · 12,000+ petroglyphs · NRHP 2000 · Up to 8,000 years old</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>12,000+ petroglyphs.</b> Inscription Canyon contains 1,000+ designs, some up to <b>8,000 years old</b>. Complex designs: humanoid figures, shields, masks, baskets, deer, bighorn sheep. Listed on the <b>National Register of Historic Places (2000)</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveCeremonial",
-      "geometry": {"lat": 35.0000, "lng": -117.6000},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "<h4 style=\"color:#E040FB\">\u2726 Eggshell Cave (CA-KER-341)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave \u00b7 Late Prehistoric \u00b7 Small ceremonial cave</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavations revealed a small ceremonial location where a person or persons ingested <b>Amsinckia seeds for their hallucinogenic effect</b>, likely for ritual purposes. A rare archaeological window into <b>indigenous ritual practice</b> in the Mojave.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton (PCAS Quarterly)</div>",
-      "popupOptions": {"maxWidth": 380}
+      "geometry": {
+        "lat": 35.0,
+        "lng": -117.6
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4 style=\"color:#E040FB\">✦ Eggshell Cave (CA-KER-341)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Mojave · Late Prehistoric · Small ceremonial cave</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Excavations revealed a small ceremonial location where a person or persons ingested <b>Amsinckia seeds for their hallucinogenic effect</b>, likely for ritual purposes. A rare archaeological window into <b>indigenous ritual practice</b> in the Mojave.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton (PCAS Quarterly)</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveCeremonial",
-      "geometry": {"lat": 35.1000, "lng": -117.9000},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "<h4 style=\"color:#E040FB\">\u2726 California City Cave (CA-KER-517)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near California City \u00b7 Cave site</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Cave site in the western Mojave near California City.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
-      "popupOptions": {"maxWidth": 320}
+      "geometry": {
+        "lat": 35.1,
+        "lng": -117.9
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4 style=\"color:#E040FB\">✦ California City Cave (CA-KER-517)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Near California City · Cave site</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Cave site in the western Mojave near California City.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sutton 1996</div>",
+      "popupOptions": {
+        "maxWidth": 320
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "mojaveCeremonial",
-      "geometry": {"lat": 36.0400, "lng": -117.8200},
-      "icon": {"factory": "divIcon", "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>", "iconSize": [12,12], "iconAnchor": [6,6]},
-      "popup": "<h4 style=\"color:#E040FB\">\u2726 Coso Rock Art District</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">NAWS China Lake \u00b7 100,000+ petroglyphs \u00b7 Largest concentration in Western Hemisphere</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>100,000+ petroglyphs</b> across 90 square miles. Little Petroglyph Canyon alone has ~20,000 documented images. ~50% of carvings are bighorn sheep. Sacred to Paiute-Shoshone peoples. Associated with the <b>\u201cCoso People\u201d</b> and the Coso obsidian trade network.<br><br>Access: Within NAWS China Lake; limited tours through <b>Maturango Museum</b> (Ridgecrest).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Grant 1968; Whitley 1994, 2000</div>",
-      "popupOptions": {"maxWidth": 400}
+      "geometry": {
+        "lat": 36.04,
+        "lng": -117.82
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;background:#E040FB;border:2px solid #1A1208;border-radius:2px;transform:rotate(45deg);box-shadow:0 0 6px #E040FB66;\"></div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<h4 style=\"color:#E040FB\">✦ Coso Rock Art District</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">NAWS China Lake · 100,000+ petroglyphs · Largest concentration in Western Hemisphere</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>100,000+ petroglyphs</b> across 90 square miles. Little Petroglyph Canyon alone has ~20,000 documented images. ~50% of carvings are bighorn sheep. Sacred to Paiute-Shoshone peoples. Associated with the <b>“Coso People”</b> and the Coso obsidian trade network.<br><br>Access: Within NAWS China Lake; limited tours through <b>Maturango Museum</b> (Ridgecrest).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Grant 1968; Whitley 1994, 2000</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coso_tradition",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "mojave_tribe",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

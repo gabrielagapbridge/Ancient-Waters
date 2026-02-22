@@ -6,9 +6,42 @@
       "type": "polygon",
       "layer": "wintuVillages",
       "geometry": [
-        [41.30, -122.80],[41.30, -122.30],[41.10, -121.80],
-        [40.80, -121.70],[40.50, -122.00],[40.40, -122.30],
-        [40.50, -122.60],[40.80, -122.80],[41.10, -122.90]
+        [
+          41.3,
+          -122.8
+        ],
+        [
+          41.3,
+          -122.3
+        ],
+        [
+          41.1,
+          -121.8
+        ],
+        [
+          40.8,
+          -121.7
+        ],
+        [
+          40.5,
+          -122.0
+        ],
+        [
+          40.4,
+          -122.3
+        ],
+        [
+          40.5,
+          -122.6
+        ],
+        [
+          40.8,
+          -122.8
+        ],
+        [
+          41.1,
+          -122.9
+        ]
       ],
       "style": {
         "color": "#8B6914",
@@ -19,22 +52,79 @@
         "pane": "wintuBackgroundPane",
         "interactive": false
       },
-      "options": {"interactive": false, "pane": "wintuBackgroundPane"}
+      "options": {
+        "interactive": false,
+        "pane": "wintuBackgroundPane"
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 40.85, "lng": -122.40},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 13px Georgia,serif;color:#8B6914;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">W I N T U</div>", "iconSize": [160, 30], "iconAnchor": [80, 15]},
-      "options": {"interactive": false, "pane": "wintuBackgroundPane"}
+      "geometry": {
+        "lat": 40.85,
+        "lng": -122.4
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 13px Georgia,serif;color:#8B6914;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">W I N T U</div>",
+        "iconSize": [
+          160,
+          30
+        ],
+        "iconAnchor": [
+          80,
+          15
+        ]
+      },
+      "options": {
+        "interactive": false,
+        "pane": "wintuBackgroundPane"
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "wintuVillages",
       "geometry": [
-        [40.50, -122.00],[40.50, -121.60],[40.20, -121.40],
-        [39.90, -121.50],[39.90, -121.80],[40.10, -122.00],
-        [40.30, -122.10]
+        [
+          40.5,
+          -122.0
+        ],
+        [
+          40.5,
+          -121.6
+        ],
+        [
+          40.2,
+          -121.4
+        ],
+        [
+          39.9,
+          -121.5
+        ],
+        [
+          39.9,
+          -121.8
+        ],
+        [
+          40.1,
+          -122.0
+        ],
+        [
+          40.3,
+          -122.1
+        ]
       ],
       "style": {
         "color": "#A0522D",
@@ -45,21 +135,75 @@
         "pane": "wintuBackgroundPane",
         "interactive": false
       },
-      "options": {"interactive": false, "pane": "wintuBackgroundPane"}
+      "options": {
+        "interactive": false,
+        "pane": "wintuBackgroundPane"
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 40.20, "lng": -121.70},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 12px Georgia,serif;color:#A0522D;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">Y A N A / Y A H I</div>", "iconSize": [160, 30], "iconAnchor": [80, 15]},
-      "options": {"interactive": false, "pane": "wintuBackgroundPane"}
+      "geometry": {
+        "lat": 40.2,
+        "lng": -121.7
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 12px Georgia,serif;color:#A0522D;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">Y A N A / Y A H I</div>",
+        "iconSize": [
+          160,
+          30
+        ],
+        "iconAnchor": [
+          80,
+          15
+        ]
+      },
+      "options": {
+        "interactive": false,
+        "pane": "wintuBackgroundPane"
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "wintuVillages",
       "geometry": [
-        [40.10, -122.70],[40.10, -122.20],[39.80, -122.00],
-        [39.60, -122.10],[39.60, -122.50],[39.80, -122.70]
+        [
+          40.1,
+          -122.7
+        ],
+        [
+          40.1,
+          -122.2
+        ],
+        [
+          39.8,
+          -122.0
+        ],
+        [
+          39.6,
+          -122.1
+        ],
+        [
+          39.6,
+          -122.5
+        ],
+        [
+          39.8,
+          -122.7
+        ]
       ],
       "style": {
         "color": "#6B8E23",
@@ -70,84 +214,286 @@
         "pane": "wintuBackgroundPane",
         "interactive": false
       },
-      "options": {"interactive": false, "pane": "wintuBackgroundPane"}
+      "options": {
+        "interactive": false,
+        "pane": "wintuBackgroundPane"
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 39.85, "lng": -122.40},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 11px Georgia,serif;color:#6B8E23;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:2px;text-align:center;opacity:0.8;\">N O M L A K I</div>", "iconSize": [160, 30], "iconAnchor": [80, 15]},
-      "options": {"interactive": false, "pane": "wintuBackgroundPane"}
+      "geometry": {
+        "lat": 39.85,
+        "lng": -122.4
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 11px Georgia,serif;color:#6B8E23;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:2px;text-align:center;opacity:0.8;\">N O M L A K I</div>",
+        "iconSize": [
+          160,
+          30
+        ],
+        "iconAnchor": [
+          80,
+          15
+        ]
+      },
+      "options": {
+        "interactive": false,
+        "pane": "wintuBackgroundPane"
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuRockArt",
-      "geometry": {"lat": 40.5800, "lng": -123.4500},
-      "icon": {"factory": "mkPetroIcon", "color": "#FF8C00", "size": 14},
-      "popup": "\n  <div style=\"max-width:340px;\">\n    <h3 style=\"color:#FF8C00;margin:0 0 6px;\">◆ Slakaiya Rock (CA-TRI-1)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Eel River Canyon, Trinity County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Extraordinary petroglyph site first discovered in 1913 by a U.S. Government engineer,\n      then <b>lost for 80 years</b> until rediscovered in 1993 by a state forester in a\n      remote section of the Eel River Canyon.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Two panels of petroglyphs</b> with elaborate, multiple, superimposed elements\n      representing <b>six discrete styles</b> — evidence of use across thousands of years\n      by different peoples. Associated features include three housepits, a midden deposit,\n      and abundant chipped and ground stone artifacts.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Located at the intersection of Wintu, Chimariko, and Athabaskan territories,\n      this multi-period site may record cultural transitions stretching back 3,000+ years.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:8px;border-top:1px solid #333;padding-top:6px;\">\n      Presented at SCA Annual Meeting, Ventura, March 1994<br>\n      Sources: Foster & Foster 1994; CA Dept. of Forestry\n    </div>\n  </div>\n"
+      "geometry": {
+        "lat": 40.58,
+        "lng": -123.45
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#FF8C00",
+        "size": 14
+      },
+      "popup": "\n  <div style=\"max-width:340px;\">\n    <h3 style=\"color:#FF8C00;margin:0 0 6px;\">◆ Slakaiya Rock (CA-TRI-1)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Eel River Canyon, Trinity County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Extraordinary petroglyph site first discovered in 1913 by a U.S. Government engineer,\n      then <b>lost for 80 years</b> until rediscovered in 1993 by a state forester in a\n      remote section of the Eel River Canyon.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Two panels of petroglyphs</b> with elaborate, multiple, superimposed elements\n      representing <b>six discrete styles</b> — evidence of use across thousands of years\n      by different peoples. Associated features include three housepits, a midden deposit,\n      and abundant chipped and ground stone artifacts.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Located at the intersection of Wintu, Chimariko, and Athabaskan territories,\n      this multi-period site may record cultural transitions stretching back 3,000+ years.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:8px;border-top:1px solid #333;padding-top:6px;\">\n      Presented at SCA Annual Meeting, Ventura, March 1994<br>\n      Sources: Foster & Foster 1994; CA Dept. of Forestry\n    </div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wintu"
+      ],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 41.0500, "lng": -122.2500},
-      "icon": {"factory": "mkIcon", "color": "#8B6914", "size": 12},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#8B6914;margin:0 0 6px;\">◆ Winnemem Wintu — McCloud River Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">McCloud River, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Winnemem Wintu (\"Middle Water People\") lived along the McCloud River.\n      Their villages were <b>flooded by Shasta Dam</b> (1945) and the later raising of\n      the dam. Sacred sites including Puberty Rock were submerged.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Winnemem are <b>not federally recognized</b> despite continuous cultural\n      practice — a legacy of bureaucratic error when the 1851 treaty was never ratified.\n      They continue to fight for recognition and the restoration of winter-run salmon.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Winnemem Wintu Tribe; DuBois 1935</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.05,
+        "lng": -122.25
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#8B6914",
+        "size": 12
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#8B6914;margin:0 0 6px;\">◆ Winnemem Wintu — McCloud River Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">McCloud River, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Winnemem Wintu (\"Middle Water People\") lived along the McCloud River.\n      Their villages were <b>flooded by Shasta Dam</b> (1945) and the later raising of\n      the dam. Sacred sites including Puberty Rock were submerged.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Winnemem are <b>not federally recognized</b> despite continuous cultural\n      practice — a legacy of bureaucratic error when the 1851 treaty was never ratified.\n      They continue to fight for recognition and the restoration of winter-run salmon.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Winnemem Wintu Tribe; DuBois 1935</div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wintu"
+      ],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 40.9000, "lng": -122.3500},
-      "icon": {"factory": "mkIcon", "color": "#8B6914", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#8B6914;margin:0 0 6px;\">◆ Upper Sacramento Wintu Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Shasta Lake area, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>239+ named Wintu villages</b> documented in Shasta County ca. 1850.\n      Many were permanently flooded by Shasta Dam and Lake.\n      The Wintu name translates as \"people\" — the river defined their world.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">DuBois; Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 40.9,
+        "lng": -122.35
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#8B6914",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#8B6914;margin:0 0 6px;\">◆ Upper Sacramento Wintu Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Shasta Lake area, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>239+ named Wintu villages</b> documented in Shasta County ca. 1850.\n      Many were permanently flooded by Shasta Dam and Lake.\n      The Wintu name translates as \"people\" — the river defined their world.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">DuBois; Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wintu"
+      ],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 40.6500, "lng": -122.3800},
-      "icon": {"factory": "mkIcon", "color": "#8B6914", "size": 9},
-      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#8B6914;margin:0 0 6px;\">◆ CA-SHA-207 — Wintu Fishing Station</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sacramento River, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Salvage-excavated Wintu fishing station on the Sacramento River.\n      Salmon fishing was central to Wintu economy and spirituality.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Dotta & Hullinger</div>\n  </div>\n"
+      "geometry": {
+        "lat": 40.65,
+        "lng": -122.38
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#8B6914",
+        "size": 9
+      },
+      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#8B6914;margin:0 0 6px;\">◆ CA-SHA-207 — Wintu Fishing Station</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sacramento River, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Salvage-excavated Wintu fishing station on the Sacramento River.\n      Salmon fishing was central to Wintu economy and spirituality.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Dotta & Hullinger</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "wintu"
+      ],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 40.1000, "lng": -121.6500},
-      "icon": {"factory": "mkIcon", "color": "#A0522D", "size": 12},
-      "popup": "\n  <div style=\"max-width:340px;\">\n    <h3 style=\"color:#A0522D;margin:0 0 6px;\">◆ Ishi Wilderness — Yahi Homeland</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Deer Creek / Mill Creek canyons, Tehama County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The rugged canyon country where the last surviving <b>Yahi people</b>\n      lived in hiding for decades after their people were hunted nearly\n      to extinction in the massacres of the 1860s–1870s.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Ishi</b>, the last known Yahi, emerged from hiding in 1911 near Oroville.\n      He lived at UC Berkeley's Museum of Anthropology until his death in 1916,\n      working with anthropologists Kroeber and Waterman to document Yahi language,\n      toolmaking, and survival skills. The wilderness area is named in his honor.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple cave shelters and camp sites in these canyons. Some rock shelters\n      may contain pictographs. Exact locations protected by USFS.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Waterman 1918; Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 40.1,
+        "lng": -121.65
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#A0522D",
+        "size": 12
+      },
+      "popup": "\n  <div style=\"max-width:340px;\">\n    <h3 style=\"color:#A0522D;margin:0 0 6px;\">◆ Ishi Wilderness — Yahi Homeland</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Deer Creek / Mill Creek canyons, Tehama County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The rugged canyon country where the last surviving <b>Yahi people</b>\n      lived in hiding for decades after their people were hunted nearly\n      to extinction in the massacres of the 1860s–1870s.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Ishi</b>, the last known Yahi, emerged from hiding in 1911 near Oroville.\n      He lived at UC Berkeley's Museum of Anthropology until his death in 1916,\n      working with anthropologists Kroeber and Waterman to document Yahi language,\n      toolmaking, and survival skills. The wilderness area is named in his honor.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple cave shelters and camp sites in these canyons. Some rock shelters\n      may contain pictographs. Exact locations protected by USFS.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Waterman 1918; Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "yana"
+      ],
+      "tribes": [
+        "wintu",
+        "yana"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 40.4000, "lng": -121.8000},
-      "icon": {"factory": "mkIcon", "color": "#A0522D", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#A0522D;margin:0 0 6px;\">◆ Northern Yana Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Upper Yana territory, Shasta/Tehama Counties</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Yana comprised four groups: Northern Yana, Central Yana,\n      Southern Yana, and Yahi. All spoke related Hokan languages.\n      Their territory was in the eastern Sacramento Valley foothills,\n      between the Wintu to the west and the Maidu to the south.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sapir & Spier 1943; Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 40.4,
+        "lng": -121.8
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#A0522D",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#A0522D;margin:0 0 6px;\">◆ Northern Yana Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Upper Yana territory, Shasta/Tehama Counties</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Yana comprised four groups: Northern Yana, Central Yana,\n      Southern Yana, and Yahi. All spoke related Hokan languages.\n      Their territory was in the eastern Sacramento Valley foothills,\n      between the Wintu to the west and the Maidu to the south.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sapir & Spier 1943; Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "maidu",
+        "wintu",
+        "yana"
+      ],
+      "tribes": [
+        "maidu",
+        "wintu",
+        "yana"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 39.8200, "lng": -122.3500},
-      "icon": {"factory": "mkIcon", "color": "#6B8E23", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#6B8E23;margin:0 0 6px;\">◆ Black Butte Lake — Nomlaki Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Near Orland, Glenn/Tehama Counties</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple Hill Wintun (Nomlaki) sites documented during reservoir construction.\n      Distinguished from neighboring Maidu by use of <b>slab hopper mortars</b>\n      rather than block mortars.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">J. Johnson 1990; Treganza & Heickson 1969</div>\n  </div>\n"
+      "geometry": {
+        "lat": 39.82,
+        "lng": -122.35
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#6B8E23",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#6B8E23;margin:0 0 6px;\">◆ Black Butte Lake — Nomlaki Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Near Orland, Glenn/Tehama Counties</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple Hill Wintun (Nomlaki) sites documented during reservoir construction.\n      Distinguished from neighboring Maidu by use of <b>slab hopper mortars</b>\n      rather than block mortars.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">J. Johnson 1990; Treganza & Heickson 1969</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "maidu",
+        "nomlaki",
+        "wintu"
+      ],
+      "tribes": [
+        "maidu",
+        "nomlaki",
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuVillages",
-      "geometry": {"lat": 40.0500, "lng": -122.2000},
-      "icon": {"factory": "mkIcon", "color": "#6B8E23", "size": 9},
-      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#6B8E23;margin:0 0 6px;\">◆ Bambauer Village (CA-TEH-248)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Rice Creek, Tehama County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Nomlaki housepit village on Rice Creek. Photographed 1974.\n      Excavated by Chico State archaeologists.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Chico State</div>\n  </div>\n"
+      "geometry": {
+        "lat": 40.05,
+        "lng": -122.2
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#6B8E23",
+        "size": 9
+      },
+      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#6B8E23;margin:0 0 6px;\">◆ Bambauer Village (CA-TEH-248)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Rice Creek, Tehama County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Nomlaki housepit village on Rice Creek. Photographed 1974.\n      Excavated by Chico State archaeologists.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Chico State</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "nomlaki"
+      ],
+      "tribes": [
+        "nomlaki",
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuRockArt",
-      "geometry": {"lat": 39.9500, "lng": -122.1000},
-      "icon": {"factory": "mkIcon", "color": "#E0E0E0", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#E0E0E0;margin:0 0 6px;\">◇ Thomes Creek Fluted Point</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Tehama County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Paleo-Indian fluted point</b> found at Thomes Creek — one of the oldest\n      human artifacts in the northern Sacramento Valley, dating to <b>12,000+ years ago</b>.\n      Pre-dates all known tribal groups in the region.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Dillon & Murphy</div>\n  </div>\n"
+      "geometry": {
+        "lat": 39.95,
+        "lng": -122.1
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E0E0E0",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#E0E0E0;margin:0 0 6px;\">◇ Thomes Creek Fluted Point</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Tehama County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Paleo-Indian fluted point</b> found at Thomes Creek — one of the oldest\n      human artifacts in the northern Sacramento Valley, dating to <b>12,000+ years ago</b>.\n      Pre-dates all known tribal groups in the region.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Dillon & Murphy</div>\n  </div>\n",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "wintuLost",
-      "geometry": {"lat": 40.7200, "lng": -122.4200},
-      "icon": {"factory": "mkIcon", "color": "#B22222", "size": 12},
-      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#B22222;margin:0 0 6px;\">◆ Shasta Dam — Flooded Wintu Homeland</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sacramento River, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Completed in 1945, Shasta Dam created a 30,000-acre reservoir that\n      permanently flooded dozens of Wintu village sites, fishing stations,\n      and sacred places including <b>Puberty Rock</b> and burial grounds.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The dam blocked salmon runs on the McCloud, Pit, and upper Sacramento\n      rivers — destroying the foundation of Wintu subsistence and ceremony.\n      The Winnemem Wintu continue to advocate against proposed dam raising\n      that would submerge additional sacred sites.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Bureau of Reclamation; Winnemem Wintu Tribe</div>\n  </div>\n"
+      "geometry": {
+        "lat": 40.72,
+        "lng": -122.42
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#B22222",
+        "size": 12
+      },
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#B22222;margin:0 0 6px;\">◆ Shasta Dam — Flooded Wintu Homeland</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sacramento River, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Completed in 1945, Shasta Dam created a 30,000-acre reservoir that\n      permanently flooded dozens of Wintu village sites, fishing stations,\n      and sacred places including <b>Puberty Rock</b> and burial grounds.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The dam blocked salmon runs on the McCloud, Pit, and upper Sacramento\n      rivers — destroying the foundation of Wintu subsistence and ceremony.\n      The Winnemem Wintu continue to advocate against proposed dam raising\n      that would submerge additional sacred sites.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Bureau of Reclamation; Winnemem Wintu Tribe</div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wintu"
+      ],
+      "tribes": [
+        "wintu"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

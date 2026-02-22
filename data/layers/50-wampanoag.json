@@ -175,7 +175,15 @@
         "dashArray": "8,4",
         "pane": "wampanoagBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B4513\">Wampanoag Nation — \"People of the First Light\"</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B4513\">Wampanoag Nation — \"People of the First Light\"</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wampanoag"
+      ],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -222,7 +230,13 @@
         "dashArray": "5,3",
         "pane": "wampanoagBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#BC8F8F\">Noepe (Martha's Vineyard)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#BC8F8F\">Noepe (Martha's Vineyard)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -261,7 +275,13 @@
         "dashArray": "5,3",
         "pane": "wampanoagBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#B8860B\">Natocket (Nantucket)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#B8860B\">Natocket (Nantucket)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -277,7 +297,13 @@
         "fillOpacity": 0.9,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3>Wapanucket No. 8</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Wapanucket No. 8</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -293,7 +319,13 @@
         "fillOpacity": 0.9,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3>Wapanucket Crematory Complex</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Wapanucket Crematory Complex</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -309,7 +341,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Wapanucket No. 6</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Wapanucket No. 6</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -325,7 +363,13 @@
         "fillOpacity": 0.85,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3>Titicut</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Titicut</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -341,7 +385,13 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Bull Brook</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Bull Brook</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -357,7 +407,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Wamsutta Site</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Wamsutta Site</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -373,7 +429,13 @@
         "fillOpacity": 0.8,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3>Aquinnah Archaeological District</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Aquinnah Archaeological District</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -389,7 +451,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Indian Neck Ossuary</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Indian Neck Ossuary</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -405,7 +473,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Pleasant Bay / Nauset Estuary</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Pleasant Bay / Nauset Estuary</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -421,7 +495,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Stony Brook Watershed</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Stony Brook Watershed</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -437,7 +517,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Nantucket Early Sites</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Nantucket Early Sites</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -453,7 +539,13 @@
         "fillOpacity": 0.9,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3>Pokanoket / Sowams</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Pokanoket / Sowams</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -469,7 +561,13 @@
         "fillOpacity": 0.85,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3>Patuxet (Plymouth)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Patuxet (Plymouth)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -485,7 +583,13 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Nemasket</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Nemasket</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -501,7 +605,13 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Nauset</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Nauset</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -517,7 +627,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Cummaquid</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Cummaquid</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -533,7 +649,13 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Mashpee</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Mashpee</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -549,7 +671,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Pocasset</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Pocasset</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -565,7 +693,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Sakonet</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Sakonet</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -581,7 +715,16 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Agawam</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Agawam</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "agawam"
+      ],
+      "tribes": [
+        "agawam",
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -597,7 +740,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Acushnet</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Acushnet</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -613,7 +762,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Cohannet</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Cohannet</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -629,7 +784,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Mattapoiset</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Mattapoiset</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -645,7 +806,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Manomet</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Manomet</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -661,7 +828,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Herring Pond</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Herring Pond</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -677,7 +850,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Assawompsett / Betty's Neck</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Assawompsett / Betty's Neck</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -693,7 +872,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Assonet</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Assonet</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -709,7 +894,13 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Aquinnah (Gay Head)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Aquinnah (Gay Head)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -725,7 +916,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Chappaquiddick</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Chappaquiddick</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -741,7 +938,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Monomoit (Chatham)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Monomoit (Chatham)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -757,7 +960,13 @@
         "fillOpacity": 0.75,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Mattapuyst (Swansea)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Mattapuyst (Swansea)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -773,7 +982,13 @@
         "fillOpacity": 0.9,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Dighton Rock</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Dighton Rock</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -789,7 +1004,13 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Assawompset Pond Petroglyphs</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Assawompset Pond Petroglyphs</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -805,7 +1026,13 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Hand Rock — Middleboro</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Hand Rock — Middleboro</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -821,7 +1048,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Chestnut Street Hand Petroglyphs</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Chestnut Street Hand Petroglyphs</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -837,7 +1070,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Great Rock — Up to 5 Hand Petroglyphs</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Great Rock — Up to 5 Hand Petroglyphs</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -853,7 +1092,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Mark Rock (Warwick, RI)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Mark Rock (Warwick, RI)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -869,7 +1114,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Profile Rock</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Profile Rock</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -885,7 +1136,13 @@
         "fillOpacity": 0.9,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3>Mount Hope (Montaup) — King Philip's War</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Mount Hope (Montaup) — King Philip's War</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -901,7 +1158,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Anawan Rock</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Anawan Rock</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -917,7 +1180,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3>Plimoth Patuxet Museums</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3>Plimoth Patuxet Museums</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -954,7 +1223,16 @@
         "dashArray": "8,5",
         "opacity": 0.7
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Narragansett Bay → Assawompset Pond</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Narragansett Bay → Assawompset Pond</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "narragansett"
+      ],
+      "tribes": [
+        "narragansett",
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -975,7 +1253,13 @@
         "dashArray": "8,5",
         "opacity": 0.6
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Patuxet</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Patuxet</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -996,7 +1280,13 @@
         "dashArray": "8,5",
         "opacity": 0.6
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Pokanoket</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Pokanoket</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1017,7 +1307,16 @@
         "dashArray": "8,5",
         "opacity": 0.6
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Agawam</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Agawam</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "agawam"
+      ],
+      "tribes": [
+        "agawam",
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1038,7 +1337,13 @@
         "dashArray": "8,5",
         "opacity": 0.6
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Acushnet</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4760A\">Native Trail: Nemasket → Acushnet</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -1055,7 +1360,13 @@
         "weight": 1,
         "dashArray": "4,4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B0000\">☠ Patuxet — 100% Mortality (1616–1619)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B0000\">☠ Patuxet — 100% Mortality (1616–1619)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -1072,7 +1383,15 @@
         "weight": 1,
         "dashArray": "4,4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B0000\">☠ Mainland Wampanoag Epidemic Zone (1616–1619)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8B0000\">☠ Mainland Wampanoag Epidemic Zone (1616–1619)</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wampanoag"
+      ],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

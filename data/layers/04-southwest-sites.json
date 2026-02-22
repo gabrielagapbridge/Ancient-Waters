@@ -5,331 +5,970 @@
     {
       "type": "marker",
       "layer": "spanishSites",
-      "geometry": {"lat": 32.22, "lng": -110.97},
-      "icon": {"factory": "mkIcon", "color": "#9B59B6", "size": 10},
-      "popup": "<h4>San Xavier del Bac</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1692</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Established near Tohono O'odham water sources along the Santa Cruz River. The \"White Dove of the Desert.\"<div class=\"popup-src\">\ud83d\udcd6 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>"
+      "geometry": {
+        "lat": 32.22,
+        "lng": -110.97
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#9B59B6",
+        "size": 10
+      },
+      "popup": "<h4>San Xavier del Bac</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1692</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Established near Tohono O'odham water sources along the Santa Cruz River. The \"White Dove of the Desert.\"<div class=\"popup-src\">📖 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>",
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "spanishSites",
-      "geometry": {"lat": 33.75, "lng": -112.07},
-      "icon": {"factory": "mkIcon", "color": "#9B59B6", "size": 10},
-      "popup": "<h4>Hohokam Canal Reuse</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1694</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Father Kino documented Pima Indians still using Hohokam canals for irrigation on the Gila River.<div class=\"popup-src\">\ud83d\udcd6 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>"
+      "geometry": {
+        "lat": 33.75,
+        "lng": -112.07
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#9B59B6",
+        "size": 10
+      },
+      "popup": "<h4>Hohokam Canal Reuse</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1694</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Father Kino documented Pima Indians still using Hohokam canals for irrigation on the Gila River.<div class=\"popup-src\">📖 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>",
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "spanishSites",
-      "geometry": {"lat": 31.95, "lng": -110.95},
-      "icon": {"factory": "mkIcon", "color": "#9B59B6", "size": 10},
-      "popup": "<h4>Presidio San Agust\u00edn del Tucson</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1775</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Founded at the confluence of the Santa Cruz River and Rillito Creek \u2014 a natural indigenous gathering point.<div class=\"popup-src\">\ud83d\udcd6 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>"
+      "geometry": {
+        "lat": 31.95,
+        "lng": -110.95
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#9B59B6",
+        "size": 10
+      },
+      "popup": "<h4>Presidio San Agustín del Tucson</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1775</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Founded at the confluence of the Santa Cruz River and Rillito Creek — a natural indigenous gathering point.<div class=\"popup-src\">📖 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>",
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "spanishSites",
-      "geometry": {"lat": 31.34, "lng": -110.05},
-      "icon": {"factory": "mkIcon", "color": "#9B59B6", "size": 10},
-      "popup": "<h4>Presidio Santa Cruz de Terrenate</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1776</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Built on the San Pedro River near indigenous water sources. Abandoned after Apache attacks.<div class=\"popup-src\">\ud83d\udcd6 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>"
+      "geometry": {
+        "lat": 31.34,
+        "lng": -110.05
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#9B59B6",
+        "size": 10
+      },
+      "popup": "<h4>Presidio Santa Cruz de Terrenate</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1776</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Built on the San Pedro River near indigenous water sources. Abandoned after Apache attacks.<div class=\"popup-src\">📖 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>",
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "spanishSites",
-      "geometry": {"lat": 35.69, "lng": -105.94},
-      "icon": {"factory": "mkIcon", "color": "#9B59B6", "size": 10},
-      "popup": "<h4>Santa Fe</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1610</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Capital established near Pueblo water management systems. Santa Fe River was diverted into acequias.<div class=\"popup-src\">\ud83d\udcd6 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>"
+      "geometry": {
+        "lat": 35.69,
+        "lng": -105.94
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#9B59B6",
+        "size": 10
+      },
+      "popup": "<h4>Santa Fe</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1610</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Capital established near Pueblo water management systems. Santa Fe River was diverted into acequias.<div class=\"popup-src\">📖 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>",
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "spanishSites",
-      "geometry": {"lat": 36.79, "lng": -105.97},
-      "icon": {"factory": "mkIcon", "color": "#9B59B6", "size": 10},
-      "popup": "<h4>Taos Pueblo Encounter</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1540</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Coronado expedition reached Taos Pueblo, continuously inhabited 1000+ years along the Rio Pueblo de Taos.<div class=\"popup-src\">\ud83d\udcd6 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>"
+      "geometry": {
+        "lat": 36.79,
+        "lng": -105.97
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#9B59B6",
+        "size": 10
+      },
+      "popup": "<h4>Taos Pueblo Encounter</h4><span class=\"ptype pt-spanish\">Spanish Colonial — 1540</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Coronado expedition reached Taos Pueblo, continuously inhabited 1000+ years along the Rio Pueblo de Taos.<div class=\"popup-src\">📖 Bolton, \"Rim of Christendom\" (1936); NPS National Register; Kessell, \"Kiva, Cross, and Crown\" (1979)</div>",
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 36.06, "lng": -112.14},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Grand Canyon Puebloan Sites</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>4,300+ sites spanning 12,000 years. Pictographs, granaries, seasonal camps near springs and the river.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 36.06,
+        "lng": -112.14
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Grand Canyon Puebloan Sites</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>4,300+ sites spanning 12,000 years. Pictographs, granaries, seasonal camps near springs and the river.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 36.06, "lng": -107.97},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Chaco Canyon</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Center of Ancestral Puebloan civilization ~850-1150 CE. Water management was central \u2014 check dams, irrigation channels, collection basins.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 36.06,
+        "lng": -107.97
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Chaco Canyon</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Center of Ancestral Puebloan civilization ~850-1150 CE. Water management was central — check dams, irrigation channels, collection basins.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 36.43, "lng": -108.5},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Aztec Ruins</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Great house on the Animas River connected to Chaco by ancient road. ~1100-1300 CE.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 36.43,
+        "lng": -108.5
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Aztec Ruins</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Great house on the Animas River connected to Chaco by ancient road. ~1100-1300 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 37.19, "lng": -108.49},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Mesa Verde</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>600+ cliff dwellings built ~1190-1300 CE near springs seeping from sandstone. Left ~1300 CE, likely drought.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 37.19,
+        "lng": -108.49
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Mesa Verde</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>600+ cliff dwellings built ~1190-1300 CE near springs seeping from sandstone. Left ~1300 CE, likely drought.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 33.45, "lng": -111.95},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Pueblo Grande</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Platform mound on Hohokam canals. Park of Four Waters preserves visible canal remnants. Museum in Phoenix.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 33.45,
+        "lng": -111.95
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Pueblo Grande</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Platform mound on Hohokam canals. Park of Four Waters preserves visible canal remnants. Museum in Phoenix.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan",
+        "hohokam"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 32.99, "lng": -111.53},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Casa Grande Ruins</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>4-story Hohokam structure ~1350 CE on the Gila River. Largest pre-contact structure in the SW.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 32.99,
+        "lng": -111.53
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Casa Grande Ruins</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>4-story Hohokam structure ~1350 CE on the Gila River. Largest pre-contact structure in the SW.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "hohokam"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 34.61, "lng": -111.84},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Montezuma Castle</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Sinagua cliff dwelling above Beaver Creek. 20 rooms, 5 stories. ~1100-1425 CE.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 34.61,
+        "lng": -111.84
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Montezuma Castle</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Sinagua cliff dwelling above Beaver Creek. 20 rooms, 5 stories. ~1100-1425 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan",
+        "sinagua"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 34.65, "lng": -111.75},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Montezuma Well</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Natural sinkhole fed by 1.5M gallons/day from springs. Sinagua irrigation ditches still carry water today.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 34.65,
+        "lng": -111.75
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Montezuma Well</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Natural sinkhole fed by 1.5M gallons/day from springs. Sinagua irrigation ditches still carry water today.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "sinagua"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 34.84, "lng": -111.76},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Tuzigoot</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Large Sinagua pueblo, 110 rooms overlooking Verde River. ~1125-1400 CE.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 34.84,
+        "lng": -111.76
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Tuzigoot</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Large Sinagua pueblo, 110 rooms overlooking Verde River. ~1125-1400 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan",
+        "sinagua"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 35.3, "lng": -109.08},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Puerco Pueblo</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>100-room pueblo on the Puerco River with solar calendar petroglyphs. ~1250-1380 CE.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 35.3,
+        "lng": -109.08
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Puerco Pueblo</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>100-room pueblo on the Puerco River with solar calendar petroglyphs. ~1250-1380 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 36.8, "lng": -111.5},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Navajo National Monument</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Betatakin & Keet Seel cliff dwellings near springs. ~1250-1300 CE.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 36.8,
+        "lng": -111.5
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Navajo National Monument</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Betatakin & Keet Seel cliff dwellings near springs. ~1250-1300 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan",
+        "navajo"
+      ],
+      "tribes": [
+        "navajo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 35.15, "lng": -109.93},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Homolovi</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Ancestral Hopi pueblos on the Little Colorado River. ~1260-1400 CE.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 35.15,
+        "lng": -109.93
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Homolovi</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Ancestral Hopi pueblos on the Little Colorado River. ~1260-1400 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan",
+        "hopi"
+      ],
+      "tribes": [
+        "hopi"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 35.08, "lng": -108.05},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>El Morro</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Permanent pool at base of sandstone mesa attracted indigenous peoples then Spanish. Atsinna Pueblo ~1275-1350 CE.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 35.08,
+        "lng": -108.05
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>El Morro</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Permanent pool at base of sandstone mesa attracted indigenous peoples then Spanish. Atsinna Pueblo ~1275-1350 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 36.79, "lng": -105.97},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Taos Pueblo</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Continuously inhabited 1000+ years. Rio Pueblo flows through center. UNESCO World Heritage Site.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 36.79,
+        "lng": -105.97
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Taos Pueblo</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Continuously inhabited 1000+ years. Rio Pueblo flows through center. UNESCO World Heritage Site.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 35.04, "lng": -107.54},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Acoma Pueblo (Sky City)</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Atop 367-ft mesa since ~1100 CE. Water cisterns carved into rock. One of oldest continuously inhabited settlements in North America.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 35.04,
+        "lng": -107.54
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Acoma Pueblo (Sky City)</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Atop 367-ft mesa since ~1100 CE. Water cisterns carved into rock. One of oldest continuously inhabited settlements in North America.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 36.95, "lng": -110.1},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Monument Valley</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Sacred Navajo landscape. Seasonal washes and springs in sandstone. Petroglyphs in sheltered alcoves.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 36.95,
+        "lng": -110.1
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Monument Valley</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Sacred Navajo landscape. Seasonal washes and springs in sandstone. Petroglyphs in sheltered alcoves.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "navajo"
+      ],
+      "tribes": [
+        "navajo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 35.98, "lng": -106.97},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Bandelier</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Frijoles Canyon year-round stream supported large community ~1150-1550 CE. Cavate dwellings in volcanic tuff.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 35.98,
+        "lng": -106.97
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Bandelier</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Frijoles Canyon year-round stream supported large community ~1150-1550 CE. Cavate dwellings in volcanic tuff.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 33.35, "lng": -111.73},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Snaketown</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Largest Hohokam village ~300 BCE-1100 CE. 100+ pit houses, ball courts. On Gila River Indian Reservation (closed to public).<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 33.35,
+        "lng": -111.73
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Snaketown</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Largest Hohokam village ~300 BCE-1100 CE. 100+ pit houses, ball courts. On Gila River Indian Reservation (closed to public).<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 35.67, "lng": -108.65},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>El Malpais</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Lava tubes & natural cisterns provided water/shelter. Multi-era petroglyphs throughout.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 35.67,
+        "lng": -108.65
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>El Malpais</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Lava tubes & natural cisterns provided water/shelter. Multi-era petroglyphs throughout.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "swSites",
-      "geometry": {"lat": 33.45, "lng": -111.43},
-      "icon": {"factory": "mkIcon", "color": "#E07B39", "size": 10},
-      "popup": "<h4>Park of the Canals</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>One of few places to see remnants of Hohokam canals dug before the time of Christ. Mesa, AZ.<div class=\"popup-src\">\ud83d\udcd6 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>"
+      "geometry": {
+        "lat": 33.45,
+        "lng": -111.43
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#E07B39",
+        "size": 10
+      },
+      "popup": "<h4>Park of the Canals</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>One of few places to see remnants of Hohokam canals dug before the time of Christ. Mesa, AZ.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
+      "timePeriods": [],
+      "cultures": [
+        "hohokam"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.031886, "lng": -116.149947},
-      "icon": {"factory": "raIcon", "raType": "Pictograph", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Alisters Cave</h4><span class=\"ptype pt-jtree\">Pictograph \u2014 Cahuilla \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Possibly above old riverbed</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.031886,
+        "lng": -116.149947
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictograph",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Alisters Cave</h4><span class=\"ptype pt-jtree\">Pictograph — Cahuilla — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Possibly above old riverbed</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [
+        "cahuilla"
+      ],
+      "tribes": [
+        "cahuilla"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.03175, "lng": -116.149433},
-      "icon": {"factory": "raIcon", "raType": "Pictograph", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Bloody Hands</h4><span class=\"ptype pt-jtree\">Pictograph \u2014 Cahuilla \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Near Alisters Cave</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.03175,
+        "lng": -116.149433
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictograph",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Bloody Hands</h4><span class=\"ptype pt-jtree\">Pictograph — Cahuilla — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Near Alisters Cave</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [
+        "cahuilla"
+      ],
+      "tribes": [
+        "cahuilla"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.065558, "lng": -116.113514},
-      "icon": {"factory": "raIcon", "raType": "Artifacts", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Butchers Cave</h4><span class=\"ptype pt-jtree\">Artifacts \u2014 Chemehuevi \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Big horn sheep skulls found</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.065558,
+        "lng": -116.113514
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Artifacts",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Butchers Cave</h4><span class=\"ptype pt-jtree\">Artifacts — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Big horn sheep skulls found</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.032228, "lng": -116.102336},
-      "icon": {"factory": "raIcon", "raType": "Pictograph", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Diamond Shelter</h4><span class=\"ptype pt-jtree\">Pictograph \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Tally marks and diamonds and sun</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.032228,
+        "lng": -116.102336
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictograph",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Diamond Shelter</h4><span class=\"ptype pt-jtree\">Pictograph — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Tally marks and diamonds and sun</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.026178, "lng": -116.146978},
-      "icon": {"factory": "raIcon", "raType": "Pictograph", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Disney</h4><span class=\"ptype pt-jtree\">Pictograph \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Real pictographs with other ones painted over by Disney</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.026178,
+        "lng": -116.146978
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictograph",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Disney</h4><span class=\"ptype pt-jtree\">Pictograph — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Real pictographs with other ones painted over by Disney</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.023228, "lng": -116.1652},
-      "icon": {"factory": "raIcon", "raType": "Pictograph", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Hidden Valley Camp Ground</h4><span class=\"ptype pt-jtree\">Pictograph \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.023228,
+        "lng": -116.1652
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictograph",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Hidden Valley Camp Ground</h4><span class=\"ptype pt-jtree\">Pictograph — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.031889, "lng": -116.107058},
-      "icon": {"factory": "raIcon", "raType": "Pictographs in orange ink", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>High Noon</h4><span class=\"ptype pt-jtree\">Pictographs in orange ink \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Pictographs and one petroglyph; room to stand up inside</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.031889,
+        "lng": -116.107058
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictographs in orange ink",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>High Noon</h4><span class=\"ptype pt-jtree\">Pictographs in orange ink — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Pictographs and one petroglyph; room to stand up inside</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.926883, "lng": -116.075278},
-      "icon": {"factory": "raIcon", "raType": "Petroglyphs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Pleasant Valley</h4><span class=\"ptype pt-jtree\">Petroglyphs \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Near Serrano village of Squaw Tank</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.926883,
+        "lng": -116.075278
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Petroglyphs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Pleasant Valley</h4><span class=\"ptype pt-jtree\">Petroglyphs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Near Serrano village of Squaw Tank</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [
+        "serrano"
+      ],
+      "tribes": [
+        "serrano"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.048031, "lng": -116.121539},
-      "icon": {"factory": "raIcon", "raType": "Pictographs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Queen Mountain</h4><span class=\"ptype pt-jtree\">Pictographs \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><br><em>Big horn sheep skulls found near here</em><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.048031,
+        "lng": -116.121539
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictographs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Queen Mountain</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Big horn sheep skulls found near here</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.042064, "lng": -116.091706},
-      "icon": {"factory": "raIcon", "raType": "Pictographs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Queen Valley Boulder</h4><span class=\"ptype pt-jtree\">Pictographs \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.042064,
+        "lng": -116.091706
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictographs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Queen Valley Boulder</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.026717, "lng": -116.141064},
-      "icon": {"factory": "raIcon", "raType": "Pictographs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Red Lady</h4><span class=\"ptype pt-jtree\">Pictographs \u2014 Chemehuevi \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.026717,
+        "lng": -116.141064
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictographs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Red Lady</h4><span class=\"ptype pt-jtree\">Pictographs — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.024111, "lng": -116.155278},
-      "icon": {"factory": "raIcon", "raType": "Pictographs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Brunette Lady</h4><span class=\"ptype pt-jtree\">Pictographs \u2014 Chemehuevi \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.024111,
+        "lng": -116.155278
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictographs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Brunette Lady</h4><span class=\"ptype pt-jtree\">Pictographs — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.983536, "lng": -116.151108},
-      "icon": {"factory": "raIcon", "raType": "Village site", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Ryan Ranch Habitation Area</h4><span class=\"ptype pt-jtree\">Village site \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.983536,
+        "lng": -116.151108
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Village site",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Ryan Ranch Habitation Area</h4><span class=\"ptype pt-jtree\">Village site — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.028503, "lng": -116.150881},
-      "icon": {"factory": "raIcon", "raType": "Shelter Pictographs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Slab Rock</h4><span class=\"ptype pt-jtree\">Shelter Pictographs \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.028503,
+        "lng": -116.150881
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Shelter Pictographs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Slab Rock</h4><span class=\"ptype pt-jtree\">Shelter Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 34.042786, "lng": -116.1457},
-      "icon": {"factory": "raIcon", "raType": "Pictographs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Surprise Rock</h4><span class=\"ptype pt-jtree\">Pictographs \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 34.042786,
+        "lng": -116.1457
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictographs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Surprise Rock</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.987692, "lng": -116.037425},
-      "icon": {"factory": "raIcon", "raType": "Cupules", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Twin Tanks</h4><span class=\"ptype pt-jtree\">Cupules \u2014 Chemehuevi \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.987692,
+        "lng": -116.037425
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Cupules",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Twin Tanks</h4><span class=\"ptype pt-jtree\">Cupules — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [
+        "chemehuevi"
+      ],
+      "tribes": [
+        "chemehuevi"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.739928, "lng": -115.684361},
-      "icon": {"factory": "raIcon", "raType": "Pictographs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Careys Castle</h4><span class=\"ptype pt-jtree\">Pictographs \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.739928,
+        "lng": -115.684361
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Pictographs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Careys Castle</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.959128, "lng": -116.016372},
-      "icon": {"factory": "raIcon", "raType": "Habitation Area", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Stirrup Tank</h4><span class=\"ptype pt-jtree\">Habitation Area \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.959128,
+        "lng": -116.016372
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Habitation Area",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Stirrup Tank</h4><span class=\"ptype pt-jtree\">Habitation Area — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.982542, "lng": -116.011906},
-      "icon": {"factory": "raIcon", "raType": "Petroglyphs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Arch</h4><span class=\"ptype pt-jtree\">Petroglyphs \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.982542,
+        "lng": -116.011906
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Petroglyphs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Arch</h4><span class=\"ptype pt-jtree\">Petroglyphs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.707042, "lng": -115.608097},
-      "icon": {"factory": "raIcon", "raType": "Petroglyphs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Hayfield</h4><span class=\"ptype pt-jtree\">Petroglyphs \u2014 Mojave (?) \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.707042,
+        "lng": -115.608097
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Petroglyphs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Hayfield</h4><span class=\"ptype pt-jtree\">Petroglyphs — Mojave (?) — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "jtreeSites",
-      "geometry": {"lat": 33.708478, "lng": -115.595792},
-      "icon": {"factory": "raIcon", "raType": "Petroglyphs", "color": "#FF6B9D", "size": 8},
-      "popup": "<h4>Hayfield 2</h4><span class=\"ptype pt-jtree\">Petroglyphs \u2014 Mojave (?) \u2014 Joshua Tree NP</span><div class=\"popup-what\">Rock art site \u2014 GPS from field survey data</div><div class=\"popup-src\">\ud83d\udcd6 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>"
+      "geometry": {
+        "lat": 33.708478,
+        "lng": -115.595792
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "Petroglyphs",
+        "color": "#FF6B9D",
+        "size": 8
+      },
+      "popup": "<h4>Hayfield 2</h4><span class=\"ptype pt-jtree\">Petroglyphs — Mojave (?) — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     }
   ]
 }

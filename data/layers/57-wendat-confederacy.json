@@ -59,7 +59,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#8B4513\">🏠 Wendake (Huronia) — Homeland of the Wendat Confederacy</h3>\n    <p><b>Location:</b> Between Georgian Bay, Lake Simcoe, and Lake Ontario, southern Ontario, Canada</p>\n    <p><b>Name:</b> Wendake — \"the peninsula country\" or \"island dwellers.\" The French called them \"Huron\" (from \"hure\" — boar’s head, mocking their hairstyle, or \"lout/ruffian\"). The Wendat consider \"Huron\" pejorative.</p>\n    <p><b>Population:</b> ~30,000–35,000 before the 1634 epidemics — one of the most densely populated territories north of Mexico</p>\n    <p><b>The Five Nations of the Wendat:</b></p>\n    <p>• <b>Attignawantan</b> (Bear Nation) — largest, northernmost, oldest member</p>\n    <p>• <b>Atingeennonniahak</b> (Cord/Net-Makers) — allied with Bear</p>\n    <p>• <b>Arendarhonon</b> (Rock Nation) — easternmost, hosted Champlain</p>\n    <p>• <b>Tahontaenrat</b> (Deer Nation) — joined later</p>\n    <p>• <b>Ataronchronon</b> (Bog/Swamp People) — division of the Bear</p>\n    <p><b>Economy:</b> Corn-based agriculture (60%+ of diet), beans, squash, sunflowers, tobacco. Produced enormous surpluses traded to Algonquian neighbors for furs, copper, wampum. Trade networks reached the Gulf of Mexico and Hudson Bay.</p>\n    <p><b>Society:</b> Matrilineal descent. Longhouses up to 90m long. Villages of 20-35 longhouses relocated every 10-15 years as soil/timber depleted. Estimated 600 village sites across the region.</p>\n    <p><b>Destruction:</b> Epidemics 1634-1640 reduced population to ~12,000. Haudenosaunee attacks 1648-1649 destroyed the Confederacy. By May 1649, the Wendat burned 15 of their own villages to prevent stores from being taken and fled.</p>\n    <p><b>Survival:</b> ~10,000 fled to Christian Island (Gahoendoe). Most starved over winter 1649-50. Survivors relocated to Quebec (Wendake, near Quebec City) where descendants form the present-day Huron-Wendat Nation (~7,000 people, 2021 census).</p>\n    <p><b>Sources:</b> Trigger 1976, 1985; Warrick 2008; Birch 2015; Canadian Encyclopedia; Williamson 2014</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 450
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -114,7 +124,24 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#228B22\">🏠 Wendake South — Ancestral Lake Ontario Shore</h3>\n    <p><b>Period:</b> AD 1300–1600</p>\n    <p><b>Description:</b> Ancestral Wendat communities along the north shore of Lake Ontario, from the Credit River to Prince Edward County. From the 13th century, communities began migrating ~100 km northward to the historic Huronia area near Georgian Bay. The consolidation was complete by ~1600.</p>\n    <p><b>Why move north?</b> Possibly to distance from Haudenosaunee, and to access trade routes via Lake Nipissing to French traders on the St. Lawrence. Also to trade with Algonquian peoples for beaver pelts.</p>\n    <p><b>Toronto:</b> The word likely comes from Mohawk \"Tkarón:to\" (tree in the water), referring to ancient fishing weirs at the narrows between Lakes Simcoe and Couchiching. Wendat called these narrows \"Karonto\" (log lying in the water). Archaeological stakes at the fish weirs date to 2610 BCE — 4,500 years old.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "mohawk",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -135,7 +162,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#228B22\">🏠 Jean-Baptiste Lainé (Mantle) Site — Largest Excavated Wendat Village</h3>\n    <p><b>Revised Date:</b> AD 1587–1623 (radiocarbon/Bayesian — was thought 1500-1530)</p>\n    <p><b>Location:</b> Whitchurch-Stouffville, NE of Toronto, on Stouffville Creek</p>\n    <p><b>Discovery:</b> 2002 — found during suburban subdivision construction</p>\n    <p><b>Size:</b> 70+ multifamily longhouses, ~2,000 people. The largest and most complex ancestral Wendat village excavated in the Lower Great Lakes region.</p>\n    <p><b>Unique:</b> This community had already coalesced from several smaller villages — it represents the process of <b>aggregation</b> that defined late precontact Iroquoian society. It was the only village near the eastern Rouge Trail linking Lake Ontario and Lake Simcoe.</p>\n    <p><b>Trade:</b> Artifacts indicate interaction with distant nations to the north, east, south, and west. Despite being partially contemporary with the Warminster/Cahiagué site, only 3 European-manufactured artifacts were found here (vs. hundreds at Warminster) — showing the uneven spread of European goods.</p>\n    <p><b>Naming:</b> Renamed from \"Mantle\" to \"Jean-Baptiste Lainé\" in 2011 in honor of a decorated WWII Huron-Wendat veteran, during a Wendat ceremony at the site.</p>\n    <p><b>Legacy:</b> Town Council named adjacent school \"Wendat Village Public School.\" Ontario Heritage Trust provincial plaques installed 2017.</p>\n    <p><b>Sources:</b> ASI 2012; Birch 2010, 2013; Manning et al. 2018; Ontario Heritage Trust</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -156,7 +193,15 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#228B22\">🏠 Draper Site — Wendat Village Expansion</h3>\n    <p><b>Date:</b> Late 15th century (~1525, expanded 5+ times over ~30 years)</p>\n    <p><b>Location:</b> Pickering, Ontario, on tributary of West Duffins Creek, ~35 km NE of Toronto</p>\n    <p><b>Size at peak:</b> 35 longhouses, up to 2,000 people, 4 hectares, multiple palisade rows</p>\n    <p><b>Significance:</b> The expansion of Draper coincided with the abandonment of smaller surrounding villages — demonstrating the <b>aggregation process</b> where communities merged for defense during a period of increasing warfare. After a generation here, the entire community moved 5 km NW to establish the Mantle/Jean-Baptiste Lainé site.</p>\n    <p><b>Duffins Creek Sequence:</b> Draper → Spang → Jean-Baptiste Lainé represents the same community’s successive relocations over ~100 years.</p>\n    <p><b>Sources:</b> Birch 2010; Manning et al. 2018; Williamson 2014</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -177,7 +222,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#696969\">🏠 Warminster / Cahiagué — Champlain’s Village, 1615</h3>\n    <p><b>Date:</b> Confirmed occupied 1615-1616 (Manning et al. 2019, Cornell/Bayesian dating)</p>\n    <p><b>Location:</b> Near Warminster, Orillia area, Simcoe County</p>\n    <p><b>Nation:</b> Arendarhonon (Rock Nation) — easternmost Wendat nation</p>\n    <p><b>Champlain’s Visit:</b> August 17, 1615 — Samuel de Champlain arrived and described it as \"the principal village of the country, which contains 200 large lodges.\" He spent the winter of 1615-16 here recovering from arrow wounds sustained in a failed attack on an Onondaga fort in New York.</p>\n    <p><b>The Failed Raid:</b> Champlain and 400-500 Wendat warriors traveled SE via the Trent River system, crossed Lake Ontario, and attacked a fortified Onondaga town (Oct 10, 1615). Champlain was wounded, the assault failed, and they retreated to Cahiagué.</p>\n    <p><b>Étienne Brûlé:</b> Before the attack, 12 Wendat warriors and the French explorer Brûlé traveled south to enlist Susquehannock allies — possibly the first European to pass through what is now Toronto, via the Humber River.</p>\n    <p><b>Dating Debate:</b> For decades, scholars debated whether Ball or Warminster was Cahiagué. Manning’s 2019 Bayesian analysis of radiocarbon dates confirmed Warminster was occupied in 1615-16, while Ball dated earlier.</p>\n    <p><b>Sources:</b> Manning et al. 2019; Champlain 1615; Trigger 1976; Heidenreich 2014</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "onondaga",
+        "wendat"
+      ],
+      "tribes": [
+        "onondaga",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -198,7 +253,13 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#696969\">🏠 Ball Site — Arendarhonon Village</h3>\n    <p><b>Date:</b> Pre-1615 (earlier than Warminster per Manning 2019)</p>\n    <p><b>Location:</b> Simcoe County, near Warminster</p>\n    <p><b>Significance:</b> Once considered a candidate for Cahiagué, but Bayesian radiocarbon dating showed it was occupied earlier. Ball and Warminster are believed to be successive iterations of the same community.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -219,7 +280,13 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#CD853F\">🏠 Ellery / Scanonaenrat — Deer Nation Capital</h3>\n    <p><b>Date:</b> Multi-component — 17th century village built on same location as a site ~100 years older</p>\n    <p><b>Location:</b> North of Orr Lake, Simcoe County</p>\n    <p><b>Nation:</b> Tahontaenrat (Deer Nation)</p>\n    <p><b>Description:</b> Tentatively identified as Scanonaenrat, the principal village of the Deer Nation. Laurentian University field school excavations revealed two overlapping occupation periods.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -240,7 +307,13 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B8860B\">🏠 Carhagouha (Ahatsistari) — First European Mass in Ontario</h3>\n    <p><b>Date:</b> 1615-1616</p>\n    <p><b>Location:</b> Near modern Elmvale, Simcoe County</p>\n    <p><b>Significance:</b> Recollet priest Joseph Le Caron celebrated the first European Mass in Ontario here, August 12, 1615, in the presence of Samuel de Champlain. May have been the capital of the Attignawantan (Bear) when Champlain visited.</p>\n    <p><b>Glass Beads:</b> Assemblage characteristic of Glass Bead Period 2 (~1600-1625), confirming contemporaneity with Warminster/Cahiagué.</p>\n    <p><b>Sources:</b> Manning et al. 2025; Ontario Heritage Trust; Heidenreich 2014</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -261,7 +334,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:600px;overflow-y:auto;\">\n    <h3 style=\"color:#DC143C\">💀 Ossossané — Capital of the Wendat & The Feast of the Dead</h3>\n    <p><b>Date:</b> 1632–1636 (village); ossuary created 1636</p>\n    <p><b>Location:</b> Shore of Nottawasaga Bay, Georgian Bay, Simcoe County (National Historic Site)</p>\n    <p><b>Nation:</b> Attignawantan (Bear Nation) — principal village</p>\n    <p><b>Description:</b> Capital of the Wendat Confederacy. Defensible peninsula protected on three sides by steep topography. Connected to the main trail between Huronia and the Petun (Tobacco) nation.</p>\n    <p><b>THE FEAST OF THE DEAD (1636):</b></p>\n    <p>Jesuit missionary Jean de Brébeuf was invited to witness the most sacred Wendat ceremony. Over 10 days:</p>\n    <p>1. Relatives exhumed their dead from temporary graves</p>\n    <p>2. Corpses in various states of decay were cleaned and dressed in beaver robes</p>\n    <p>3. Flesh and skin removed, bones individually cleaned</p>\n    <p>4. Community gathered at a pit 7 meters wide, 2 meters deep</p>\n    <p>5. A scaffold 55 feet in diameter surrounded the pit</p>\n    <p>6. Hundreds climbed the platform to hang bone bundles wrapped in beaver fur</p>\n    <p>7. Leaders announced each deceased person and their offerings</p>\n    <p>8. The pit was lined with beaver pelts</p>\n    <p>9. Recent dead placed first, then bone bundles lowered in</p>\n    <p>10. Brébeuf recorded that as the feast commenced, people carried their loved ones’ bones to the edge, unwrapped them with tears, and said final farewells</p>\n    <p><b>Purpose:</b> Not just mourning — the Feast of the Dead was a <i>diplomatic</i> event that united different Wendat villages, renewed alliances, and redistributed wealth through gifts to the dead.</p>\n    <p><b>Archaeological Confirmation:</b> Kenneth E. Kidd (ROM) excavated the ossuary 1947-48. Found 600+ bodies. Brébeuf’s estimates of pit size and contents proved remarkably accurate.</p>\n    <p><b>Disease Evidence:</b> Average age of death declined from 30 to 21 — evidence of the catastrophic epidemics of 1634-1640.</p>\n    <p><b>Repatriation:</b> In 1999, the ROM returned the remains to the Huron-Wendat for reburial at Midland. Cement was poured over the burial to ensure the remains were never disturbed again.</p>\n    <p><b>Ownership:</b> The ossuary is now owned by the Huron-Wendat of Wendake First Nation.</p>\n    <p><b>Sources:</b> Brébeuf 1636 (Jesuit Relations); Kidd 1947-48; Seeman 2011; Parks Canada NHSC</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 450
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -282,7 +365,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:450px;overflow-y:auto;\">\n    <h3 style=\"color:#800000\">💀 Taber Hill — Wendat Ossuary in Toronto</h3>\n    <p><b>Date:</b> ~14th century</p>\n    <p><b>Location:</b> Lawrence Ave & Bellamy Rd, Scarborough, Toronto</p>\n    <p><b>Discovery:</b> August 17, 1956 — a steam shovel demolishing a 60-foot hill struck human remains</p>\n    <p><b>Size:</b> 523 individuals — buried in ritual manner consistent with the Feast of the Dead</p>\n    <p><b>Excavation:</b> ROM assistant curator Walter Kenyon called it \"the deepest ossuary I have ever seen or heard of\" and \"the most significant ethnological discovery in Canada’s history.\" Pit was 50 feet long, 7 feet wide, 1 foot deep.</p>\n    <p><b>Reburial:</b> Oct 19-21, 1956. Six Nations Chief Joseph Logan supervised an Iroquois Feast of the Dead reburial ceremony attended by 200+ Indigenous people. Annual ceremonies continued 1957-1966.</p>\n    <p><b>Status:</b> Believed to be the only First Nations ossuary protected as a cemetery in Canada. Ontario purchased the 35-acre site.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -303,7 +396,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#DC143C\">💀 Thonnakona Ossuary — Largest Reburial in North America</h3>\n    <p><b>Original Excavation:</b> 1970, University of Toronto — 561 individuals from the Kleinburg ossuary</p>\n    <p><b>Location:</b> Kleinburg, NW outskirts of Toronto (now Vaughan)</p>\n    <p><b>Associated Village:</b> Skandatut — largest village along the Humber River, ~2,000 people, late 16th century</p>\n    <p><b>The Reburial (September 14, 2013):</b> The remains of <b>1,760 ancestors from 12 separate archaeological sites</b> were reburied in a single new ossuary — the largest reburial of Indigenous ancestral remains ever undertaken in North America.</p>\n    <p><b>Remains:</b> Dating from 13th to mid-17th century, excavated without consent by U of T throughout the mid-late 20th century.</p>\n    <p><b>Process:</b> 2010-2013 — Huron-Wendat Nation, University of Toronto, and Ontario Heritage Trust collaborated. 100+ people attended from Wendake; representatives of 15 First Nations traveled from across North America.</p>\n    <p><b>Grand Chief Konrad Sioui:</b> \"Decades later, we finally gave our ancestors a respectful burial.\"</p>\n    <p><b>Legacy:</b> The site, owned by Ontario Heritage Trust, is conserved as sacred landscape in perpetuity. Cement poured over burial to prevent future disturbance.</p>\n    <p><b>Sources:</b> Pfeiffer & Lesage 2014 (Canadian J of Archaeology); U of T; Heritage Matters</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -324,7 +427,15 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#FF6347\">💀 Withrow Site — Ongoing Discovery Under Toronto</h3>\n    <p><b>Location:</b> Broadview & Withrow Ave, North Riverdale, Toronto</p>\n    <p><b>Known since:</b> 1884 — but new human remains discovered January 2024 by construction workers repairing a water line</p>\n    <p><b>Description:</b> Potential Huron-Wendat ossuary. Forensic anthropologist Greg Olsen identified remains of at least 3 people. Shovel-shaped incisors and maize-worn molars confirmed Indigenous origin.</p>\n    <p><b>Context:</b> As one researcher noted, \"There’s hundreds and hundreds of Wendat sites in the Toronto area alone.\" The city sits directly on ancestral Wendat territory.</p>\n    <p><b>Sources:</b> CBC News Jan 2024; Art Newspaper Jan 2024</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -345,7 +456,13 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF6347\">🏠 Parsons Site</h3>\n    <p><b>Date:</b> Mid-15th century</p>\n    <p><b>Location:</b> Keele St & Finch Ave, Toronto</p>\n    <p>10 longhouses, subterranean sweat lodges, midden areas, ossuaries. Trade items from long distances, stone and copper tools, ceramic pots, rolled tubular beads.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -366,7 +483,13 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF6347\">🏠 Alexandra Site (Highland Creek)</h3>\n    <p><b>Date:</b> First half of 15th century</p>\n    <p><b>Location:</b> North of L’Amoreaux Park, Toronto</p>\n    <p>Two overlapping occupation phases — possibly a union of two villages during duress. 29 semi-subterranean sweat lodges. Estimated 800-1,000 residents.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -387,7 +510,13 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF6347\">🏠 Jackes Site</h3>\n    <p><b>Date:</b> Late 14th / early-mid 15th century</p>\n    <p><b>Location:</b> Avenue Rd & Roselawn Ave, Toronto</p>\n    <p>Pipes, pottery from multiple decorative traditions, worked bone tools. Evidence of multiple cultural interactions.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -408,7 +537,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF6347\">🏠 Skandatut — Largest Humber River Village</h3>\n    <p><b>Date:</b> Late 16th century</p>\n    <p><b>Location:</b> East branch of Humber River, near Kleinburg</p>\n    <p><b>Size:</b> ~2,000 people — the largest Wendat village along the Humber</p>\n    <p><b>Associated Ossuary:</b> The Kleinburg/Thonnakona Ossuary (561 individuals) was created when this village moved.</p>\n    <p><b>Status:</b> Protected by Huron-Wendat Nation of Wendake, Quebec</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -429,7 +566,19 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:600px;overflow-y:auto;\">\n    <h3 style=\"color:#B8860B\">⛪ Sainte-Marie among the Hurons — Ontario’s First European Community</h3>\n    <p><b>Date:</b> 1639–1649</p>\n    <p><b>Location:</b> Banks of the Wye River, near Midland, Ontario (National Historic Site)</p>\n    <p><b>Founded by:</b> Jesuits Jérôme Lalemant and Jean de Brébeuf</p>\n    <p><b>Size by 1648:</b> 66 French men — one-fifth of the entire population of New France. 19 priests, 4 lay brothers, 23 donnés, 4 boys, 7 domestics, 8 soldiers. Barracks, church, workshops, smithy, residences, and sheltered area for Indigenous visitors.</p>\n    <p><b>The Huron Carol:</b> Jean de Brébeuf wrote the famous \"Jesous Ahatonhia\" Christmas hymn here — adapted to Wendat customs and symbols. Still sung in Canadian churches.</p>\n    <p><b>Epidemics:</b> Smallpox raged 1634-1640, brought by European children emigrating with families. Wendat population dropped from 20,000-25,000 to 9,500 by 1642.</p>\n    <p><b>Division:</b> The mission split the Wendat between Christian converts and traditionalists, weakening the Confederacy from within.</p>\n    <p><b>THE END (1649):</b></p>\n    <p>March 16, 1649 — Haudenosaunee attacked the village of St. Louis. Brébeuf and Gabriel Lalemant captured, tortured, killed. The Jesuits recovered their bodies.</p>\n    <p>June 16, 1649 — the missionaries burned Sainte-Marie themselves rather than let it be desecrated. Father Paul Ragueneau wrote: <i>\"We ourselves set fire to it, and beheld burn before our eyes and in less than one hour, our work of nine or ten years.\"</i></p>\n    <p><b>Canadian Martyrs:</b> 8 missionaries killed 1642-1649 — canonized as saints by Pope Pius XI in 1930.</p>\n    <p><b>Archaeology:</b> First digs 1855. Scientific excavation by Kenneth Kidd (ROM) 1941-43. Wilfrid Jury completed excavations 1947-51. Brébeuf and Lalemant’s graves found by Fr. Hegarty in 1954. Reconstructed 1964 as living history museum on original site.</p>\n    <p><b>Sources:</b> Jesuit Relations; Trigger 1976; Kidd 1941-43; Canadian Encyclopedia; Parks Canada</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 450
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -450,7 +599,19 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#B22222\">🔥 Christian Island (Gahoendoe) — Refuge & Starvation</h3>\n    <p><b>Date:</b> 1649–1650</p>\n    <p><b>Location:</b> Christian Island (Gahoendoe), Georgian Bay</p>\n    <p><b>Fort Sainte Marie II:</b> After burning Sainte-Marie, the Jesuits and ~300 Wendat fled to this island and built a new fortified mission — 4-meter stone walls, moat, church, well. The Wendat built a village adjacent to the fort.</p>\n    <p><b>THE WINTER OF STARVATION (1649-50):</b> ~10,000 Wendat refugees crowded onto the island. It was an unproductive settlement that could not support them. Mass starvation and disease through the winter. An unused burial pit was prepared but never filled — the survivors were too few and too weak.</p>\n    <p><b>Dispersal (June 1650):</b> Father Ragueneau led ~300 survivors via Lake Nipissing and the Ottawa River to Quebec. They settled at what is now Wendake (Old Lorette), north of Quebec City — where their descendants remain today.</p>\n    <p><b>Last Stand (1651):</b> Some Wendat who stayed behind made a final stand against the Haudenosaunee from the fort, then fled to join the others in Quebec.</p>\n    <p><b>Sources:</b> Jesuit Relations; Parks Canada (Fort Sainte Marie II NHSC); Trigger 1976</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -471,7 +632,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">🔥 St. Ignace — First Haudenosaunee Attack, March 16, 1649</h3>\n    <p><b>Location:</b> Near Midland, Simcoe County</p>\n    <p>The Haudenosaunee attacked at dawn. 400 warriors captured the town. From here they moved to St. Louis, where Brébeuf and Lalemant were captured.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -492,7 +662,17 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">🔥 St. Louis — Brébeuf & Lalemant Captured</h3>\n    <p><b>Date:</b> March 16, 1649</p>\n    <p>Wendat village attacked by Haudenosaunee. Jesuits Jean de Brébeuf and Gabriel Lalemant captured, tortured, and killed. Brébeuf reportedly endured hours of torture without crying out — earning even his captors’ respect.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -513,7 +693,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#B22222\">🔥 The Wendat Burn Their Own Country (May 1649)</h3>\n    <p>By May 1, 1649, the Wendat had burned <b>15 of their own villages</b> to prevent their stores from being taken by the advancing Haudenosaunee.</p>\n    <p>This was the end of Wendake as a living civilization. A territory that had been one of the most densely populated north of Mexico was emptied in months.</p>\n    <p><b>Context:</b> The Haudenosaunee attacks were driven by the Beaver Wars — competition for control of the fur trade. The Haudenosaunee, armed with Dutch and English firearms, overwhelmed the Wendat whose French allies provided far fewer weapons.</p>\n    <p><b>Parallels:</b> Like the Sullivan-Clinton Campaign against the Haudenosaunee 130 years later, the destruction of Wendake was systematic, targeting food supplies, infrastructure, and the ability to survive winter.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -534,7 +724,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#8B008B\">🌿 Tionontati (Petun) — The Tobacco Nation</h3>\n    <p><b>Location:</b> SW of Wendake, Blue Mountains area, Simcoe/Grey Counties</p>\n    <p><b>Name:</b> Tionontati = \"People among the Hills.\" French called them \"Petun\" (tobacco) for their chief crop.</p>\n    <p><b>Relationship:</b> Closely related to the Wendat — may have originally been a splinter group. Divided into Deer and Wolf moieties.</p>\n    <p><b>Destruction:</b> Haudenosaunee attacked Petun villages in fall 1649, shortly after destroying Wendake.</p>\n    <p><b>Survival:</b> Petun survivors merged with Wendat refugees to form the <b>Wyandot</b> — who migrated to Green Bay, Mackinac, Detroit, Ohio, Kansas, and Oklahoma. The Wyandotte Nation of Oklahoma descends from this fusion.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -584,7 +784,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Toronto Passage (Humber River Route)</h3>\n    <p>The \"Carrying Place\" — a series of waterways and portages connecting Lake Ontario to Lake Simcoe and Georgian Bay, via the Humber River and Holland River.</p>\n    <p>Étienne Brûlé likely traveled this route in 1615 — possibly the first European through what is now Toronto.</p>\n    <p>Used for thousands of years by Wendat and their predecessors.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -630,7 +838,17 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Trent-Severn Corridor</h3>\n    <p>Water route from Lake Simcoe SE to Lake Ontario via the Trent River system. Champlain and 400-500 Wendat warriors traveled this route in 1615 to attack the Onondaga in New York.</p>\n    <p>Today’s Trent-Severn Waterway follows this ancient corridor.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "onondaga",
+        "wendat"
+      ],
+      "tribes": [
+        "onondaga",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -651,7 +869,24 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#DC143C\">💧 The Narrows — 4,500-Year-Old Fish Weirs</h3>\n    <p><b>Location:</b> Atherley Narrows, between Lakes Simcoe and Couchiching, near Orillia</p>\n    <p><b>Age:</b> Stakes dated to 2610 BCE — ~4,500 years old</p>\n    <p><b>Description:</b> Ancient fishing weirs — stakes driven into the water to block channels and create narrow openings to catch fish. Indigenous nations met here in Council, fished, and traded as allies for millennia. The abundance of food allowed hosting of large, extended gatherings.</p>\n    <p><b>Names:</b></p>\n    <p>Mohawk: <b>Tkarón:to</b> (\"tree in the water\") — likely origin of \"Toronto\"</p>\n    <p>Wendat: <b>Karonto</b> (\"log lying in the water\")</p>\n    <p>Anishinaabemowin: <b>Mnjikaning</b> (\"fish fence\")</p>\n    <p>Champlain described these weirs in use by the Wendat in 1615.</p>\n    <p><b>Council Fire:</b> A Council Fire was maintained here for centuries — host to many meetings confirming the alliance between the Wendat and Anishinaabek.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "lenape",
+        "mohawk",
+        "wendat"
+      ],
+      "tribes": [
+        "lenape",
+        "mohawk",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -713,7 +948,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Ottawa River — Wendat Trade & Escape Route</h3>\n    <p>The primary route connecting Wendake to the St. Lawrence and French traders. Traveled via Lake Nipissing and the Mattawa River to the Ottawa River and down to the St. Lawrence.</p>\n    <p>In June 1650, this was the route Father Ragueneau and ~300 Wendat survivors took to reach Quebec — their final journey from their homeland.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -734,7 +977,15 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:450px;overflow-y:auto;\">\n    <h3 style=\"color:#8B4513\">🏠 Wendake — The Huron-Wendat Nation Today</h3>\n    <p><b>Location:</b> Just north of Quebec City, Quebec</p>\n    <p><b>Population:</b> ~7,000 (2021 census)</p>\n    <p><b>History:</b> After the destruction of 1649 and the starvation winter on Christian Island, survivors relocated here in 1650. Originally at L’Ancienne-Lorette, then moved to what is now Wendake. The chapel Notre-Dame-de-Lorette was built in 1674 by Father Chaumonot on the model of the Loretto church in Italy.</p>\n    <p><b>Status:</b> The Huron-Wendat Nation maintains sovereignty, a Grand Chief (currently elected), and has led major repatriation efforts to reclaim ancestral remains from museums and universities.</p>\n    <p><b>Nionwentsïo:</b> The Wendat name for their traditional territory — they have never relinquished their claim to their Ontario homeland.</p>\n    <p><b>Language:</b> The Wendat language nearly went extinct but is being revitalized through educational programs, a dictionary, and community initiatives.</p>\n    <p><b>Old Wendake Historic District:</b> National Historic Site of Canada.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "wendat"
+      ],
+      "tribes": [
+        "wendat"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

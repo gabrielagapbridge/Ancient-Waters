@@ -2,25 +2,739 @@
   "source": "24-lost-chumash-waters.js",
   "featureCount": 21,
   "features": [
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.4260,"lng":-119.8420},"icon":{"factory":"divIcon","html":"<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u2715</span> Mescaltitlan Island (Quwa') — DESTROYED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">A <b>sacred Chumash island</b> in the middle of Goleta Bay — the most densely populated area in all of aboriginal California. Nine mountain streams fed the surrounding slough. The Portolá expedition (1769) described 'a very grand spot' with a 'large town' on the island. In <b>1941</b>, the U.S. military <b>bulldozed Mescaltitlan Island</b> to use as fill dirt for the Santa Barbara Airport runways. Construction crews unearthed Chumash remains. In 1943, Phil Orr found a woman buried on a whalebone, decorated with beads and abalone pressed into tar — a person of great importance. 'Many other valuable artifacts were undoubtedly destroyed in the rush to complete the airport.' Today a small dirt mound is all that remains. A gas company owns it. A UCSB student film, <i>Quwa'</i> (2024), documented the loss.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.4200,"lng":-119.8500},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Goleta Bay — FROM BAY TO SLOUGH</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">What is now the Goleta Slough was once a <b>large navigable bay</b> — ships anchored here until the 1860s. In Chumash times, water reached past present-day Hollister Avenue and connected to Devereux Slough, making the UCSB campus an island. Chumash villages lined the shore: <b>Helo'</b>, <b>S'axpilil</b>, <b>Elhiman</b>, <b>Alwatalam</b>. Two catastrophes transformed the bay: (1) the <b>1861-62 storms</b> eroded deforested hillsides and deposited massive sediment, filling the bay into marsh. (2) The <b>WWII military airbase</b> (1942-43) filled remaining wetlands with dirt from the bulldozed Mescaltitlan Island. Only about <b>one-third of the original wetland area remains</b>. The 440-acre Goleta Slough Ecological Reserve (1986) protects what's left.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.4350,"lng":-119.8800},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;border-radius:50%;border:2px solid #66BB6A;background:transparent;opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#66BB6A;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25cb</span> Upper Devereux Slough — GOLF COURSE TO WETLAND</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#66BB6A22;color:#66BB6A;font-size:10px;font-weight:600;margin-bottom:6px;\">RESTORING</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">In the 1960s, the northern half of Devereux Slough was filled for the <b>Ocean Meadows Golf Course</b>, destroying roughly half the slough's estuarine habitat. Devereux once connected to Goleta Slough, forming a single vast wetland system. In 2017-2018, contractors <b>removed 350,000 cubic yards of fill dirt</b> to restore the slough's natural connection. A 2022 Chumash blessing marked the reopening. The restoration increased Santa Barbara County's coastal wetlands by <b>10%</b> — 45 acres of coastal wetlands and 90 acres of uplands restored. One of California's greatest wetland restoration success stories.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #66BB6A33;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.3940,"lng":-119.5300},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Carpinteria Salt Marsh — 97% OF CA WETLANDS GONE</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Once extensive tidal wetlands surrounding the village of <b>Mishopshno</b>. A century of draining for development has shrunk the marsh to <b>230 acres</b>. The asphaltum (tar) seeps that Chumash used to waterproof tomol canoes still bubble here. 'Over the past 200 years, California has lost <b>97% of its wetland habitat</b>. The Carpinteria Salt Marsh Reserve represents about 3% of what remains.' — U.S. Fish & Wildlife Service. Only <b>10% of southern California's coastal wetlands</b> survive. Restoration ongoing — Ridgway's rail reintroduction, Basin 1 enhancement, native habitat recovery.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.6850,"lng":-120.6100},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Santa Ynez Estuary — DIMINISHED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The mouth of the Santa Ynez River once supported a thriving estuary with tidewater goby, steelhead, and likely beaver-created pools. Three upstream dams (Gibraltar 1920, Juncal 1930, Bradbury/Cachuma 1953) reduced freshwater flows dramatically. The estuary still functions but is a shadow of its historical self — diminished flows, reduced sediment, fewer fish. Tidewater goby still cling to survival here. Beaver dams historically created the calm backwater habitat the gobies depend on.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.0340,"lng":-118.6800},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;border-radius:50%;border:2px solid #66BB6A;background:transparent;opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#66BB6A;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25cb</span> Malibu Lagoon / Humaliwo — DEGRADED & RESTORED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#66BB6A22;color:#66BB6A;font-size:10px;font-weight:600;margin-bottom:6px;\">RESTORING</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The lagoon at the mouth of Malibu Creek, site of the <b>7,000-year-old village Humaliwo</b>. Rindge Dam (1926) upstream blocks all steelhead and 70+ miles of habitat. The lagoon was severely degraded by parking lot runoff, septic systems, and channelization. A controversial <b>$6M restoration in 2012</b> removed fill, restored tidal channels, and replanted native vegetation. A <b>Chumash blessing ceremony</b> opened the restoration. Steelhead still cannot reach the lagoon's full potential until Rindge Dam is removed.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #66BB6A33;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.1300,"lng":-119.1800},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Ormond Beach Wetlands — DRAINED & POLLUTED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Over <b>1,000 acres</b> of historic wetlands between Point Mugu and Port Hueneme — once part of the Chumash coastal world between Muwu and Wenemu villages. Most wetlands were <b>drained and converted to agriculture</b>. The site became a dumping ground for polluting industries — a power plant and the <b>EPA Halaco Superfund Site</b>. South Oxnard, a poorer community, bears the environmental burden. Roads and levees hydrologically disconnected Ormond from the 2,100 acres of Mugu Lagoon wetlands. Restoration planning underway — could become the <b>largest continuous coastal wetland in Southern California</b> (9 miles from Mugu to Hueneme).</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.4070,"lng":-119.6830},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Mission Creek Lagoon — CHANNELIZED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Mission Creek flows 7.5 miles from Los Padres National Forest through downtown Santa Barbara to a lagoon at East Beach. The village of <b>Syukhtun</b> (pop ~1,000) stood at this creek's outflow. The lower creek was <b>channelized into concrete flood control</b>. Three major fish passage barriers blocked endangered steelhead. Barriers removed in recent years — opening 5 miles of new steelhead habitat. The Mission Lagoon restoration plan calls for removing 700+ feet of channelized creek and recovering historical wetlands.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.2230,"lng":-119.2640},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> McGrath State Beach / Santa Clara Estuary — SEWAGE & FLOODS</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The estuary at the mouth of the <b>Santa Clara River</b> — Southern California's second-largest river and the least altered in the region. Historically, the estuary supported tidewater goby, steelhead, and vast shorebird populations. Ventura's <b>wastewater discharges</b> have caused repeated flooding, closing the McGrath campground multiple times. The 133-acre Natural Preserve protects what remains. A plan to move the campground would free 35 acres for wetland restoration. Harrington's informants described <b>beaver</b> at Saticoy and Ventura — the beaver-created backwater pools were part of this river's ecology.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.8830,"lng":-119.6670},"icon":{"factory":"divIcon","html":"<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u2715</span> Montgomery Springs (Sapaksi) — NOW DRY</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The <b>five springs of Montgomery Potrero</b> at the foot of Sapaksi (Painted Rock). These springs sustained the Emigdiano Chumash for millennia — the 'House of the Sun' ceremony site at 5,000 feet depended on this water. The springs are <b>now dry</b> (McCaslin 2016). Groundwater pumping and climate change have eliminated them. Without water, the ceremonial landscape of Sapaksi is fundamentally altered — the relationship between sacred art and living springs is broken.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.4980,"lng":-119.3250},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Matilija Hot Springs — BURIED BY SEDIMENT</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Hot springs on Matilija Creek, upstream of the dam. A place of healing for the Chumash of the Ojai Valley. Matilija Dam (1947) has lost <b>90% of its reservoir capacity to sediment</b>. The dam was built <b>against Army Corps advice</b>. It blocks all steelhead migration and has buried upstream habitat under silt. The <b>$111M removal project</b> would drill holes in the dam's base and let the river reclaim its channel — but millions of cubic yards of trapped sediment must be managed.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.5850,"lng":-119.9500},"icon":{"factory":"divIcon","html":"<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u2715</span> Cachuma Village — DROWNED BY DAM</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The Ineseño Chumash village of <b>Aqicum</b> ('a constant sign') stood in Cachuma Canyon for thousands of years. When <b>Bradbury Dam was completed in 1953</b>, Lake Cachuma rose and <b>inundated the village site</b>. The dam obliterated thousands of years of Chumash culture beneath reservoir waters. The modern lake and county park bear the village's name — but the village itself is gone. 25,000 steelhead once spawned in the Santa Ynez River above this point. Now 99% are gone.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.9600,"lng":-120.2600},"icon":{"factory":"divIcon","html":"<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u2715</span> Twitchell Reservoir — INUNDATED CUYAMA HABITAT</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\"><b>Twitchell Dam</b> (1958) inundated the confluence area of the Cuyama and Sisquoc Rivers, blocking <b>66 miles of steelhead habitat</b>. The Cuyama River was a sacred Chumash interior corridor — its headwaters in the Chumash Wilderness at 8,000 feet. The dam severed the connection between the coastal Santa Maria River and the interior Cuyama watershed.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.4400,"lng":-119.8100},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> San Jose Creek — CHANNELIZED STEELHEAD STREAM</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The largest sub-watershed within the Goleta Slough system. Designated a <b>Core 1 steelhead watershed</b> by NMFS. Upper reaches have perennial flows and high-quality spawning habitat, but access is impeded by channelization and barriers. This creek once flowed freely through Chumash village territory to the great bay of Goleta.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.3500,"lng":-119.3100},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Ventura River — Rice Creek Rerouted</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Historical ecology analysis by CRC revealed that a <b>channelized section of Rice Creek on the Ventura River Preserve was not the historic alignment</b>. The creek was physically moved from its natural course. The Ventura River system — Chumash <b>Shisholop</b> — is 100% dependent on local water, no imports. Matilija Dam (1947) and Robles Diversion (1958) fragment the system. A $6M fish ladder (2006) at Robles was required to pass steelhead.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.4020,"lng":-119.7450},"icon":{"factory":"divIcon","html":"<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>","iconSize":[14,14],"iconAnchor":[7,7]},"popup":"\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">\u25c6</span> Arroyo Burro — VILLAGE CREEK URBANIZED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The creek where the Chumash village of <b>Mismatuk</b> stood, near Santa Barbara Mission. Now flows through developed urban landscape. The connection between village site and living creek is severed by roads, buildings, and culverts.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>","popupOptions":{"maxWidth":460}},
-    {"type":"polygon","layer":"lostWaters","geometry":[[34.4350,-119.8650],[34.4380,-119.8550],[34.4400,-119.8420],[34.4350,-119.8300],[34.4280,-119.8200],[34.4220,-119.8150],[34.4180,-119.8200],[34.4150,-119.8350],[34.4130,-119.8500],[34.4160,-119.8600],[34.4200,-119.8680],[34.4280,-119.8700],[34.4350,-119.8650]],"style":{"color":"#78909C","weight":2,"dashArray":"8, 6","fillColor":"#78909C","fillOpacity":0.08,"opacity":0.5},"popup":"\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#78909C;margin:0 0 4px;font-size:14px;\">Goleta Bay — Historical Extent (pre-1862)</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#78909C22;color:#78909C;font-size:10px;font-weight:600;margin-bottom:6px;\">GHOST — HISTORICAL EXTENT</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">In Chumash times, Goleta Bay was a <b>large navigable body of water</b> fed by nine mountain streams. Water reached past present-day Hollister Avenue and Highway 101. The most densely populated area in all of Chumash territory — and likely all of aboriginal California. This ghost polygon shows the approximate historical water extent before the 1862 storms and airport construction destroyed it.</div>\n    </div>","popupOptions":{"maxWidth":420}},
-    {"type":"polygon","layer":"lostWaters","geometry":[[34.4300,-119.8700],[34.4330,-119.8750],[34.4350,-119.8820],[34.4360,-119.8900],[34.4340,-119.8950],[34.4310,-119.8920],[34.4280,-119.8850],[34.4270,-119.8770],[34.4300,-119.8700]],"style":{"color":"#78909C","weight":2,"dashArray":"8, 6","fillColor":"#78909C","fillOpacity":0.08,"opacity":0.5},"popup":"\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#78909C;margin:0 0 4px;font-size:14px;\">Devereux-Goleta Connection (Historical)</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#78909C22;color:#78909C;font-size:10px;font-weight:600;margin-bottom:6px;\">GHOST — HISTORICAL EXTENT</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Devereux Slough once <b>connected to Goleta Slough</b>, forming a single vast wetland system. When water was high, this connection made the present-day UCSB campus an island. The connection was severed by sedimentation, development, and the airport.</div>\n    </div>","popupOptions":{"maxWidth":420}},
-    {"type":"polygon","layer":"lostWaters","geometry":[[34.1450,-119.2050],[34.1450,-119.1750],[34.1350,-119.1550],[34.1200,-119.1500],[34.1100,-119.1600],[34.1100,-119.1800],[34.1150,-119.2000],[34.1300,-119.2100],[34.1450,-119.2050]],"style":{"color":"#78909C","weight":2,"dashArray":"8, 6","fillColor":"#78909C","fillOpacity":0.08,"opacity":0.5},"popup":"\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#78909C;margin:0 0 4px;font-size:14px;\">Ormond Beach Historical Wetlands</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#78909C22;color:#78909C;font-size:10px;font-weight:600;margin-bottom:6px;\">GHOST — HISTORICAL EXTENT</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Over <b>1,000 acres of historic wetlands</b> between Mugu Lagoon and Port Hueneme. Once part of a continuous 9-mile coastal wetland system. Drained for agriculture, disconnected by roads and levees, polluted by industry. The EPA Halaco Superfund Site sits on former Chumash wetlands.</div>\n    </div>","popupOptions":{"maxWidth":420}},
-    {"type":"marker","layer":"lostWaters","geometry":{"lat":34.30,"lng":-119.50},"icon":{"factory":"divIcon","html":"<div style=\"background:rgba(239,83,80,0.12);border:1px dashed rgba(239,83,80,0.4);border-radius:4px;padding:3px 8px;font:10px 'Source Sans Pro',sans-serif;color:#EF5350;white-space:nowrap;line-height:1.4;\">CA wetland loss: 90%+ statewide<br>&nbsp;&nbsp;&nbsp;SB County: 62% estuarine loss<br>&nbsp;&nbsp;&nbsp;SoCal coast: 48% since 1850<br>&nbsp;&nbsp;&nbsp;Vegetated marsh: 75% gone</div>","iconSize":[210,55],"iconAnchor":[105,28]},"popup":"\n  <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#EF5350;margin:0 0 6px;\">The Numbers of Loss</h4>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.7;\">\n      <b style=\"color:#EF5350;\">90%+</b> — California's total wetland loss (highest in the nation)<br>\n      <b style=\"color:#EF5350;\">62%</b> — Santa Barbara County estuarine loss (highest of any SoCal county)<br>\n      <b style=\"color:#EF5350;\">48%</b> — Total Southern California Bight coastal wetland loss since 1850<br>\n      <b style=\"color:#EF5350;\">75%</b> — Vegetated wetland loss (salt marsh) across SoCal coast<br>\n      <b style=\"color:#EF5350;\">78%</b> — Unvegetated wetland loss (mudflats, salt flats)<br>\n      <b style=\"color:#EF5350;\">85%</b> — Historical tidal wetland loss across CA, OR, WA combined<br>\n      <b style=\"color:#EF5350;\">97%</b> — California coastal wetland habitat loss per USFWS<br>\n      <b style=\"color:#EF5350;\">99%</b> — Steelhead decline in the Santa Ynez River (25,000 → <500)<br><br>\n      <b style=\"color:#FF7043;\">49,000 acres</b> — Historical SoCal coast estuarine habitat<br>\n      <b style=\"color:#FF7043;\">33,400 acres</b> — Historical SoCal coastal wetlands total<br>\n      <b style=\"color:#FF7043;\">9,317 hectares</b> — Total area lost since 1850<br><br>\n      <span style=\"color:#66BB6A;\">Hope:</span> With sea level rise management, SoCal could gain <b>7,700 acres</b> of new wetlands by 2100 — but only with immediate action.\n    </div>\n    <div style=\"font-size:10px;color:#888;margin-top:6px;\">\n      Sources: SFEI 2014; SCCWRP #826; NOAA; USFWS; Defenders of Wildlife; UCLA; CA Water Board\n    </div>\n  </div>","popupOptions":{"maxWidth":460}}
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.426,
+        "lng": -119.842
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">✕</span> Mescaltitlan Island (Quwa') — DESTROYED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">A <b>sacred Chumash island</b> in the middle of Goleta Bay — the most densely populated area in all of aboriginal California. Nine mountain streams fed the surrounding slough. The Portolá expedition (1769) described 'a very grand spot' with a 'large town' on the island. In <b>1941</b>, the U.S. military <b>bulldozed Mescaltitlan Island</b> to use as fill dirt for the Santa Barbara Airport runways. Construction crews unearthed Chumash remains. In 1943, Phil Orr found a woman buried on a whalebone, decorated with beads and abalone pressed into tar — a person of great importance. 'Many other valuable artifacts were undoubtedly destroyed in the rush to complete the airport.' Today a small dirt mound is all that remains. A gas company owns it. A UCSB student film, <i>Quwa'</i> (2024), documented the loss.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.42,
+        "lng": -119.85
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Goleta Bay — FROM BAY TO SLOUGH</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">What is now the Goleta Slough was once a <b>large navigable bay</b> — ships anchored here until the 1860s. In Chumash times, water reached past present-day Hollister Avenue and connected to Devereux Slough, making the UCSB campus an island. Chumash villages lined the shore: <b>Helo'</b>, <b>S'axpilil</b>, <b>Elhiman</b>, <b>Alwatalam</b>. Two catastrophes transformed the bay: (1) the <b>1861-62 storms</b> eroded deforested hillsides and deposited massive sediment, filling the bay into marsh. (2) The <b>WWII military airbase</b> (1942-43) filled remaining wetlands with dirt from the bulldozed Mescaltitlan Island. Only about <b>one-third of the original wetland area remains</b>. The 440-acre Goleta Slough Ecological Reserve (1986) protects what's left.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.435,
+        "lng": -119.88
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;border:2px solid #66BB6A;background:transparent;opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#66BB6A;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">○</span> Upper Devereux Slough — GOLF COURSE TO WETLAND</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#66BB6A22;color:#66BB6A;font-size:10px;font-weight:600;margin-bottom:6px;\">RESTORING</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">In the 1960s, the northern half of Devereux Slough was filled for the <b>Ocean Meadows Golf Course</b>, destroying roughly half the slough's estuarine habitat. Devereux once connected to Goleta Slough, forming a single vast wetland system. In 2017-2018, contractors <b>removed 350,000 cubic yards of fill dirt</b> to restore the slough's natural connection. A 2022 Chumash blessing marked the reopening. The restoration increased Santa Barbara County's coastal wetlands by <b>10%</b> — 45 acres of coastal wetlands and 90 acres of uplands restored. One of California's greatest wetland restoration success stories.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #66BB6A33;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.394,
+        "lng": -119.53
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Carpinteria Salt Marsh — 97% OF CA WETLANDS GONE</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Once extensive tidal wetlands surrounding the village of <b>Mishopshno</b>. A century of draining for development has shrunk the marsh to <b>230 acres</b>. The asphaltum (tar) seeps that Chumash used to waterproof tomol canoes still bubble here. 'Over the past 200 years, California has lost <b>97% of its wetland habitat</b>. The Carpinteria Salt Marsh Reserve represents about 3% of what remains.' — U.S. Fish & Wildlife Service. Only <b>10% of southern California's coastal wetlands</b> survive. Restoration ongoing — Ridgway's rail reintroduction, Basin 1 enhancement, native habitat recovery.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.685,
+        "lng": -120.61
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Santa Ynez Estuary — DIMINISHED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The mouth of the Santa Ynez River once supported a thriving estuary with tidewater goby, steelhead, and likely beaver-created pools. Three upstream dams (Gibraltar 1920, Juncal 1930, Bradbury/Cachuma 1953) reduced freshwater flows dramatically. The estuary still functions but is a shadow of its historical self — diminished flows, reduced sediment, fewer fish. Tidewater goby still cling to survival here. Beaver dams historically created the calm backwater habitat the gobies depend on.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.034,
+        "lng": -118.68
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;border-radius:50%;border:2px solid #66BB6A;background:transparent;opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#66BB6A;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">○</span> Malibu Lagoon / Humaliwo — DEGRADED & RESTORED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#66BB6A22;color:#66BB6A;font-size:10px;font-weight:600;margin-bottom:6px;\">RESTORING</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The lagoon at the mouth of Malibu Creek, site of the <b>7,000-year-old village Humaliwo</b>. Rindge Dam (1926) upstream blocks all steelhead and 70+ miles of habitat. The lagoon was severely degraded by parking lot runoff, septic systems, and channelization. A controversial <b>$6M restoration in 2012</b> removed fill, restored tidal channels, and replanted native vegetation. A <b>Chumash blessing ceremony</b> opened the restoration. Steelhead still cannot reach the lagoon's full potential until Rindge Dam is removed.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #66BB6A33;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.13,
+        "lng": -119.18
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Ormond Beach Wetlands — DRAINED & POLLUTED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Over <b>1,000 acres</b> of historic wetlands between Point Mugu and Port Hueneme — once part of the Chumash coastal world between Muwu and Wenemu villages. Most wetlands were <b>drained and converted to agriculture</b>. The site became a dumping ground for polluting industries — a power plant and the <b>EPA Halaco Superfund Site</b>. South Oxnard, a poorer community, bears the environmental burden. Roads and levees hydrologically disconnected Ormond from the 2,100 acres of Mugu Lagoon wetlands. Restoration planning underway — could become the <b>largest continuous coastal wetland in Southern California</b> (9 miles from Mugu to Hueneme).</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.407,
+        "lng": -119.683
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Mission Creek Lagoon — CHANNELIZED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Mission Creek flows 7.5 miles from Los Padres National Forest through downtown Santa Barbara to a lagoon at East Beach. The village of <b>Syukhtun</b> (pop ~1,000) stood at this creek's outflow. The lower creek was <b>channelized into concrete flood control</b>. Three major fish passage barriers blocked endangered steelhead. Barriers removed in recent years — opening 5 miles of new steelhead habitat. The Mission Lagoon restoration plan calls for removing 700+ feet of channelized creek and recovering historical wetlands.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.223,
+        "lng": -119.264
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> McGrath State Beach / Santa Clara Estuary — SEWAGE & FLOODS</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The estuary at the mouth of the <b>Santa Clara River</b> — Southern California's second-largest river and the least altered in the region. Historically, the estuary supported tidewater goby, steelhead, and vast shorebird populations. Ventura's <b>wastewater discharges</b> have caused repeated flooding, closing the McGrath campground multiple times. The 133-acre Natural Preserve protects what remains. A plan to move the campground would free 35 acres for wetland restoration. Harrington's informants described <b>beaver</b> at Saticoy and Ventura — the beaver-created backwater pools were part of this river's ecology.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.883,
+        "lng": -119.667
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">✕</span> Montgomery Springs (Sapaksi) — NOW DRY</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The <b>five springs of Montgomery Potrero</b> at the foot of Sapaksi (Painted Rock). These springs sustained the Emigdiano Chumash for millennia — the 'House of the Sun' ceremony site at 5,000 feet depended on this water. The springs are <b>now dry</b> (McCaslin 2016). Groundwater pumping and climate change have eliminated them. Without water, the ceremonial landscape of Sapaksi is fundamentally altered — the relationship between sacred art and living springs is broken.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash",
+        "lenape"
+      ],
+      "tribes": [
+        "chumash",
+        "lenape"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.498,
+        "lng": -119.325
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Matilija Hot Springs — BURIED BY SEDIMENT</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Hot springs on Matilija Creek, upstream of the dam. A place of healing for the Chumash of the Ojai Valley. Matilija Dam (1947) has lost <b>90% of its reservoir capacity to sediment</b>. The dam was built <b>against Army Corps advice</b>. It blocks all steelhead migration and has buried upstream habitat under silt. The <b>$111M removal project</b> would drill holes in the dam's base and let the river reclaim its channel — but millions of cubic yards of trapped sediment must be managed.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.585,
+        "lng": -119.95
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">✕</span> Cachuma Village — DROWNED BY DAM</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The Ineseño Chumash village of <b>Aqicum</b> ('a constant sign') stood in Cachuma Canyon for thousands of years. When <b>Bradbury Dam was completed in 1953</b>, Lake Cachuma rose and <b>inundated the village site</b>. The dam obliterated thousands of years of Chumash culture beneath reservoir waters. The modern lake and county park bear the village's name — but the village itself is gone. 25,000 steelhead once spawned in the Santa Ynez River above this point. Now 99% are gone.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.96,
+        "lng": -120.26
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:12px;height:12px;position:relative;\"><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(45deg);border-radius:1px;\"></div><div style=\"position:absolute;top:5px;left:0;width:12px;height:2px;background:#EF5350;transform:rotate(-45deg);border-radius:1px;\"></div></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#EF5350;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">✕</span> Twitchell Reservoir — INUNDATED CUYAMA HABITAT</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#EF535022;color:#EF5350;font-size:10px;font-weight:600;margin-bottom:6px;\">DESTROYED / GONE</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\"><b>Twitchell Dam</b> (1958) inundated the confluence area of the Cuyama and Sisquoc Rivers, blocking <b>66 miles of steelhead habitat</b>. The Cuyama River was a sacred Chumash interior corridor — its headwaters in the Chumash Wilderness at 8,000 feet. The dam severed the connection between the coastal Santa Maria River and the interior Cuyama watershed.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #EF535033;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.44,
+        "lng": -119.81
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> San Jose Creek — CHANNELIZED STEELHEAD STREAM</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The largest sub-watershed within the Goleta Slough system. Designated a <b>Core 1 steelhead watershed</b> by NMFS. Upper reaches have perennial flows and high-quality spawning habitat, but access is impeded by channelization and barriers. This creek once flowed freely through Chumash village territory to the great bay of Goleta.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.35,
+        "lng": -119.31
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Ventura River — Rice Creek Rerouted</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Historical ecology analysis by CRC revealed that a <b>channelized section of Rice Creek on the Ventura River Preserve was not the historic alignment</b>. The creek was physically moved from its natural course. The Ventura River system — Chumash <b>Shisholop</b> — is 100% dependent on local water, no imports. Matilija Dam (1947) and Robles Diversion (1958) fragment the system. A $6M fish ladder (2006) at Robles was required to pass steelhead.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.402,
+        "lng": -119.745
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"width:10px;height:10px;background:#FF7043;transform:rotate(45deg);border:1.5px solid rgba(255,255,255,0.5);opacity:0.9;\"></div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "\n    <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF7043;margin:0 0 4px;font-size:14px;\"><span style=\"font-size:12px;\">◆</span> Arroyo Burro — VILLAGE CREEK URBANIZED</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#FF704322;color:#FF7043;font-size:10px;font-weight:600;margin-bottom:6px;\">SEVERELY DEGRADED</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">The creek where the Chumash village of <b>Mismatuk</b> stood, near Santa Barbara Mission. Now flows through developed urban landscape. The connection between village site and living creek is severed by roads, buildings, and culverts.</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid #FF704333;padding-top:4px;\">\n        Sources: SFEI; USFWS; NOAA; Goleta History; SCWRP; McCaslin 2016\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "polygon",
+      "layer": "lostWaters",
+      "geometry": [
+        [
+          34.435,
+          -119.865
+        ],
+        [
+          34.438,
+          -119.855
+        ],
+        [
+          34.44,
+          -119.842
+        ],
+        [
+          34.435,
+          -119.83
+        ],
+        [
+          34.428,
+          -119.82
+        ],
+        [
+          34.422,
+          -119.815
+        ],
+        [
+          34.418,
+          -119.82
+        ],
+        [
+          34.415,
+          -119.835
+        ],
+        [
+          34.413,
+          -119.85
+        ],
+        [
+          34.416,
+          -119.86
+        ],
+        [
+          34.42,
+          -119.868
+        ],
+        [
+          34.428,
+          -119.87
+        ],
+        [
+          34.435,
+          -119.865
+        ]
+      ],
+      "style": {
+        "color": "#78909C",
+        "weight": 2,
+        "dashArray": "8, 6",
+        "fillColor": "#78909C",
+        "fillOpacity": 0.08,
+        "opacity": 0.5
+      },
+      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#78909C;margin:0 0 4px;font-size:14px;\">Goleta Bay — Historical Extent (pre-1862)</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#78909C22;color:#78909C;font-size:10px;font-weight:600;margin-bottom:6px;\">GHOST — HISTORICAL EXTENT</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">In Chumash times, Goleta Bay was a <b>large navigable body of water</b> fed by nine mountain streams. Water reached past present-day Hollister Avenue and Highway 101. The most densely populated area in all of Chumash territory — and likely all of aboriginal California. This ghost polygon shows the approximate historical water extent before the 1862 storms and airport construction destroyed it.</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "polygon",
+      "layer": "lostWaters",
+      "geometry": [
+        [
+          34.43,
+          -119.87
+        ],
+        [
+          34.433,
+          -119.875
+        ],
+        [
+          34.435,
+          -119.882
+        ],
+        [
+          34.436,
+          -119.89
+        ],
+        [
+          34.434,
+          -119.895
+        ],
+        [
+          34.431,
+          -119.892
+        ],
+        [
+          34.428,
+          -119.885
+        ],
+        [
+          34.427,
+          -119.877
+        ],
+        [
+          34.43,
+          -119.87
+        ]
+      ],
+      "style": {
+        "color": "#78909C",
+        "weight": 2,
+        "dashArray": "8, 6",
+        "fillColor": "#78909C",
+        "fillOpacity": 0.08,
+        "opacity": 0.5
+      },
+      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#78909C;margin:0 0 4px;font-size:14px;\">Devereux-Goleta Connection (Historical)</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#78909C22;color:#78909C;font-size:10px;font-weight:600;margin-bottom:6px;\">GHOST — HISTORICAL EXTENT</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Devereux Slough once <b>connected to Goleta Slough</b>, forming a single vast wetland system. When water was high, this connection made the present-day UCSB campus an island. The connection was severed by sedimentation, development, and the airport.</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "polygon",
+      "layer": "lostWaters",
+      "geometry": [
+        [
+          34.145,
+          -119.205
+        ],
+        [
+          34.145,
+          -119.175
+        ],
+        [
+          34.135,
+          -119.155
+        ],
+        [
+          34.12,
+          -119.15
+        ],
+        [
+          34.11,
+          -119.16
+        ],
+        [
+          34.11,
+          -119.18
+        ],
+        [
+          34.115,
+          -119.2
+        ],
+        [
+          34.13,
+          -119.21
+        ],
+        [
+          34.145,
+          -119.205
+        ]
+      ],
+      "style": {
+        "color": "#78909C",
+        "weight": 2,
+        "dashArray": "8, 6",
+        "fillColor": "#78909C",
+        "fillOpacity": 0.08,
+        "opacity": 0.5
+      },
+      "popup": "\n    <div style=\"max-width:400px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#78909C;margin:0 0 4px;font-size:14px;\">Ormond Beach Historical Wetlands</h4>\n      <div style=\"display:inline-block;padding:1px 8px;border-radius:3px;background:#78909C22;color:#78909C;font-size:10px;font-weight:600;margin-bottom:6px;\">GHOST — HISTORICAL EXTENT</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.55;\">Over <b>1,000 acres of historic wetlands</b> between Mugu Lagoon and Port Hueneme. Once part of a continuous 9-mile coastal wetland system. Drained for agriculture, disconnected by roads and levees, polluted by industry. The EPA Halaco Superfund Site sits on former Chumash wetlands.</div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "lostWaters",
+      "geometry": {
+        "lat": 34.3,
+        "lng": -119.5
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"background:rgba(239,83,80,0.12);border:1px dashed rgba(239,83,80,0.4);border-radius:4px;padding:3px 8px;font:10px 'Source Sans Pro',sans-serif;color:#EF5350;white-space:nowrap;line-height:1.4;\">CA wetland loss: 90%+ statewide<br>&nbsp;&nbsp;&nbsp;SB County: 62% estuarine loss<br>&nbsp;&nbsp;&nbsp;SoCal coast: 48% since 1850<br>&nbsp;&nbsp;&nbsp;Vegetated marsh: 75% gone</div>",
+        "iconSize": [
+          210,
+          55
+        ],
+        "iconAnchor": [
+          105,
+          28
+        ]
+      },
+      "popup": "\n  <div style=\"max-width:440px;font-family:'Source Sans Pro',sans-serif;\">\n    <h4 style=\"color:#EF5350;margin:0 0 6px;\">The Numbers of Loss</h4>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.7;\">\n      <b style=\"color:#EF5350;\">90%+</b> — California's total wetland loss (highest in the nation)<br>\n      <b style=\"color:#EF5350;\">62%</b> — Santa Barbara County estuarine loss (highest of any SoCal county)<br>\n      <b style=\"color:#EF5350;\">48%</b> — Total Southern California Bight coastal wetland loss since 1850<br>\n      <b style=\"color:#EF5350;\">75%</b> — Vegetated wetland loss (salt marsh) across SoCal coast<br>\n      <b style=\"color:#EF5350;\">78%</b> — Unvegetated wetland loss (mudflats, salt flats)<br>\n      <b style=\"color:#EF5350;\">85%</b> — Historical tidal wetland loss across CA, OR, WA combined<br>\n      <b style=\"color:#EF5350;\">97%</b> — California coastal wetland habitat loss per USFWS<br>\n      <b style=\"color:#EF5350;\">99%</b> — Steelhead decline in the Santa Ynez River (25,000 → <500)<br><br>\n      <b style=\"color:#FF7043;\">49,000 acres</b> — Historical SoCal coast estuarine habitat<br>\n      <b style=\"color:#FF7043;\">33,400 acres</b> — Historical SoCal coastal wetlands total<br>\n      <b style=\"color:#FF7043;\">9,317 hectares</b> — Total area lost since 1850<br><br>\n      <span style=\"color:#66BB6A;\">Hope:</span> With sea level rise management, SoCal could gain <b>7,700 acres</b> of new wetlands by 2100 — but only with immediate action.\n    </div>\n    <div style=\"font-size:10px;color:#888;margin-top:6px;\">\n      Sources: SFEI 2014; SCCWRP #826; NOAA; USFWS; Defenders of Wildlife; UCLA; CA Water Board\n    </div>\n  </div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    }
   ]
 }

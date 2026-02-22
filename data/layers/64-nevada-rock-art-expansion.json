@@ -5,129 +5,655 @@
     {
       "type": "marker",
       "layer": "nvRockArtPaleo",
-      "geometry": {"lat":41.10,"lng":-119.35},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:14px;cursor:pointer;filter:drop-shadow(0 0 3px #FFD600)\">🪨</div>","iconSize":[14,14],"iconAnchor":[7,7]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFD600;margin:0 0 3px\">High Rock Canyon</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FFD600;color:#000;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">PALEOINDIAN</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Washoe County · remote NW Nevada</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs in <b>High Rock Canyon</b> — a dramatic narrow gorge in the Black Rock Desert region of far northwestern Nevada. This area was submerged by <b>Pleistocene Lake Lahontan</b>; as the lake receded, early peoples carved on newly exposed rock surfaces. Some carvings here exhibit the deeply pecked, densely packed <b>Great Basin Carved Abstract (GBCA)</b> style characteristic of the oldest rock art in the region. The canyon was later part of the <b>Applegate Trail</b> emigrant route. High Rock Canyon is now a BLM Wilderness Study Area — one of the most remote and pristine archaeological landscapes in Nevada.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; NRAF; BLM Winnemucca District</div></div>"
+      "geometry": {
+        "lat": 41.1,
+        "lng": -119.35
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:14px;cursor:pointer;filter:drop-shadow(0 0 3px #FFD600)\">🪨</div>",
+        "iconSize": [
+          14,
+          14
+        ],
+        "iconAnchor": [
+          7,
+          7
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FFD600;margin:0 0 3px\">High Rock Canyon</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FFD600;color:#000;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">PALEOINDIAN</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Washoe County · remote NW Nevada</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs in <b>High Rock Canyon</b> — a dramatic narrow gorge in the Black Rock Desert region of far northwestern Nevada. This area was submerged by <b>Pleistocene Lake Lahontan</b>; as the lake receded, early peoples carved on newly exposed rock surfaces. Some carvings here exhibit the deeply pecked, densely packed <b>Great Basin Carved Abstract (GBCA)</b> style characteristic of the oldest rock art in the region. The canyon was later part of the <b>Applegate Trail</b> emigrant route. High Rock Canyon is now a BLM Wilderness Study Area — one of the most remote and pristine archaeological landscapes in Nevada.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; NRAF; BLM Winnemucca District</div></div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "great_basin_carved_abstract"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":39.32,"lng":-117.82},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #FF8F00)\">🪨</div>","iconSize":[11,11],"iconAnchor":[5.5,5.5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF8F00;margin:0 0 3px\">Eastgate Cave Area</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF8F00;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">EARLY ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs & cave site · Churchill County</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art and archaeological site near <b>Eastgate</b> in the Desatoya Range, along the old Pony Express route (Highway 50). The cave was excavated in the 1950s, revealing a long habitation sequence from the Early Archaic through the Late Prehistoric. Petroglyphs on nearby basalt boulders include Pit-and-Groove elements alongside later curvilinear designs. The Eastgate series — a type of stemmed projectile point — was defined from this site (3,500-1,300 BCE). Located in Western Shoshone territory on the \"Loneliest Road in America.\"</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Thomas 1983; BLM Battle Mountain</div></div>"
+      "geometry": {
+        "lat": 39.32,
+        "lng": -117.82
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #FF8F00)\">🪨</div>",
+        "iconSize": [
+          11,
+          11
+        ],
+        "iconAnchor": [
+          5.5,
+          5.5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF8F00;margin:0 0 3px\">Eastgate Cave Area</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF8F00;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">EARLY ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs & cave site · Churchill County</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art and archaeological site near <b>Eastgate</b> in the Desatoya Range, along the old Pony Express route (Highway 50). The cave was excavated in the 1950s, revealing a long habitation sequence from the Early Archaic through the Late Prehistoric. Petroglyphs on nearby basalt boulders include Pit-and-Groove elements alongside later curvilinear designs. The Eastgate series — a type of stemmed projectile point — was defined from this site (3,500-1,300 BCE). Located in Western Shoshone territory on the \"Loneliest Road in America.\"</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Thomas 1983; BLM Battle Mountain</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "cupule_pit_and_groove"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":39.47,"lng":-119.10},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #FF8F00)\">🪨</div>","iconSize":[12,12],"iconAnchor":[6,6]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF8F00;margin:0 0 3px\">Lahontan Reservoir Petroglyphs</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF8F00;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">EARLY ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">208 rock art boulders · 5.5 acres · Lyon County</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the larger petroglyph sites in northwestern Nevada, overlooking what was a productive <b>marsh environment</b> for the past 4,500+ years. NRAF documented <b>208 rock art boulders</b> in two dense concentrations during 2014 fieldwork. Rock art is dominated by <b>abstract curvilinear</b> designs — novel and highly formal large compositions. Representational imagery (stick figures, animals) is notably rare. The site was known to early settlers as the <b>\"Mountain of Hieroglyphics\"</b> (M. Angel, 1881). Tufa deposits confirm the area was deeply submerged by Pleistocene Lake Lahontan. Patina differences suggest multiple phases of rock art production spanning thousands of years. The reservoir created by <b>Lahontan Dam</b> (1915) now partially threatens the site.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF 2014; NV State Parks; NV SHPO</div></div>"
+      "geometry": {
+        "lat": 39.47,
+        "lng": -119.1
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #FF8F00)\">🪨</div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF8F00;margin:0 0 3px\">Lahontan Reservoir Petroglyphs</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF8F00;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">EARLY ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">208 rock art boulders · 5.5 acres · Lyon County</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the larger petroglyph sites in northwestern Nevada, overlooking what was a productive <b>marsh environment</b> for the past 4,500+ years. NRAF documented <b>208 rock art boulders</b> in two dense concentrations during 2014 fieldwork. Rock art is dominated by <b>abstract curvilinear</b> designs — novel and highly formal large compositions. Representational imagery (stick figures, animals) is notably rare. The site was known to early settlers as the <b>\"Mountain of Hieroglyphics\"</b> (M. Angel, 1881). Tufa deposits confirm the area was deeply submerged by Pleistocene Lake Lahontan. Patina differences suggest multiple phases of rock art production spanning thousands of years. The reservoir created by <b>Lahontan Dam</b> (1915) now partially threatens the site.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF 2014; NV State Parks; NV SHPO</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":38.05,"lng":-117.85},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #FF8F00)\">🪨</div>","iconSize":[10,10],"iconAnchor":[5,5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF8F00;margin:0 0 3px\">Coaldale / Silver Peak Range</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF8F00;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">EARLY ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Esmeralda County · Highway 95</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph sites in the <b>Silver Peak Range</b> and Coaldale area along Highway 95 in Esmeralda County. This area sits at the junction of Northern Paiute and Western Shoshone territories. Rock art includes early curvilinear designs on volcanic rock. The Coaldale area was a crossroads — the junction of several migration routes connecting the Walker River drainage, Big Smoky Valley, and the Owens Valley corridor to the south. Esmeralda County remains one of the least populated counties in the Lower 48.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; BLM Tonopah</div></div>"
+      "geometry": {
+        "lat": 38.05,
+        "lng": -117.85
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #FF8F00)\">🪨</div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF8F00;margin:0 0 3px\">Coaldale / Silver Peak Range</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF8F00;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">EARLY ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Esmeralda County · Highway 95</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph sites in the <b>Silver Peak Range</b> and Coaldale area along Highway 95 in Esmeralda County. This area sits at the junction of Northern Paiute and Western Shoshone territories. Rock art includes early curvilinear designs on volcanic rock. The Coaldale area was a crossroads — the junction of several migration routes connecting the Walker River drainage, Big Smoky Valley, and the Owens Valley corridor to the south. Esmeralda County remains one of the least populated counties in the Lower 48.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; BLM Tonopah</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":37.46,"lng":-115.19},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #FF7043)\">🪨</div>","iconSize":[12,12],"iconAnchor":[6,6]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF7043;margin:0 0 3px\">Ash Springs Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF7043;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">MIDDLE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Lincoln County · Pahranagat Valley</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The most accessible rock art site in Nevada's <b>Pahranagat Valley</b>. A well-marked trail leads to curvilinear and anthropomorphic petroglyphs on dark volcanic rock. The warm springs here (95°F, 1,100 gal/min) created a desert oasis that attracted people for at least <b>6,000 years</b>. Ash Springs sits in the heart of the <b>Pahranagat corridor</b> — a rare chain of spring-fed wetlands in the eastern Great Basin that functioned as a north-south travel route connecting the Colorado Plateau to central Nevada. Rock art styles span from Middle Archaic Basin and Range Tradition through the distinctive <b>Pahranagat Representational Style</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF; Lincoln County NV; BLM Ely; Ancient Art Archive</div></div>"
+      "geometry": {
+        "lat": 37.46,
+        "lng": -115.19
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #FF7043)\">🪨</div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF7043;margin:0 0 3px\">Ash Springs Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF7043;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">MIDDLE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Lincoln County · Pahranagat Valley</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The most accessible rock art site in Nevada's <b>Pahranagat Valley</b>. A well-marked trail leads to curvilinear and anthropomorphic petroglyphs on dark volcanic rock. The warm springs here (95°F, 1,100 gal/min) created a desert oasis that attracted people for at least <b>6,000 years</b>. Ash Springs sits in the heart of the <b>Pahranagat corridor</b> — a rare chain of spring-fed wetlands in the eastern Great Basin that functioned as a north-south travel route connecting the Colorado Plateau to central Nevada. Rock art styles span from Middle Archaic Basin and Range Tradition through the distinctive <b>Pahranagat Representational Style</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF; Lincoln County NV; BLM Ely; Ancient Art Archive</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range",
+        "pahranagat"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":37.55,"lng":-114.95},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #FF7043)\">🪨</div>","iconSize":[10,10],"iconAnchor":[5,5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF7043;margin:0 0 3px\">Kane Springs Valley</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF7043;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">MIDDLE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Lincoln County · rare GBCA elements</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art in <b>Kane Springs Valley</b> in Lincoln County — significant because it contains rare examples of the <b>Great Basin Carved Abstract (GBCA)</b> style in southern Nevada. This deeply pecked, densely packed abstract style is usually found in the northern Great Basin (Winnemucca Lake, Massacre Lake) and is thought to be among the oldest rock art traditions in the region. Its presence in Lincoln County suggests ancient cultural connections spanning the entire Great Basin. The site also includes later Basin and Range Tradition elements.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF; BRNM 3D / Legion GIS; Quinlan 2007</div></div>"
+      "geometry": {
+        "lat": 37.55,
+        "lng": -114.95
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #FF7043)\">🪨</div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF7043;margin:0 0 3px\">Kane Springs Valley</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF7043;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">MIDDLE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Lincoln County · rare GBCA elements</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art in <b>Kane Springs Valley</b> in Lincoln County — significant because it contains rare examples of the <b>Great Basin Carved Abstract (GBCA)</b> style in southern Nevada. This deeply pecked, densely packed abstract style is usually found in the northern Great Basin (Winnemucca Lake, Massacre Lake) and is thought to be among the oldest rock art traditions in the region. Its presence in Lincoln County suggests ancient cultural connections spanning the entire Great Basin. The site also includes later Basin and Range Tradition elements.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF; BRNM 3D / Legion GIS; Quinlan 2007</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range",
+        "great_basin_carved_abstract"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":36.50,"lng":-114.19},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #E64A19)\">🪨</div>","iconSize":[12,12],"iconAnchor":[6,6]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#E64A19;margin:0 0 3px\">21 Goats Panel</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#E64A19;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Clark County · near Mesquite · Virgin River</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">A striking petroglyph panel near <b>Mesquite</b> along the <b>Virgin River</b> corridor in extreme southeastern Nevada. Named for its prominent cluster of bighorn sheep (\"goat\") petroglyphs — a common motif in Late Archaic Great Basin representational art. The panel sits along a natural travel corridor used by Southern Paiute and earlier peoples connecting the Colorado Plateau to the Mojave Desert. The Virgin River corridor was a critical route for trade, migration, and seasonal movement for thousands of years.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: gjhikes.com; BLM Las Vegas</div></div>"
+      "geometry": {
+        "lat": 36.5,
+        "lng": -114.19
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #E64A19)\">🪨</div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#E64A19;margin:0 0 3px\">21 Goats Panel</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#E64A19;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Clark County · near Mesquite · Virgin River</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">A striking petroglyph panel near <b>Mesquite</b> along the <b>Virgin River</b> corridor in extreme southeastern Nevada. Named for its prominent cluster of bighorn sheep (\"goat\") petroglyphs — a common motif in Late Archaic Great Basin representational art. The panel sits along a natural travel corridor used by Southern Paiute and earlier peoples connecting the Colorado Plateau to the Mojave Desert. The Virgin River corridor was a critical route for trade, migration, and seasonal movement for thousands of years.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: gjhikes.com; BLM Las Vegas</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":36.38,"lng":-114.22},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:13px;cursor:pointer;filter:drop-shadow(0 0 3px #E64A19)\">🪨</div>","iconSize":[13,13],"iconAnchor":[6.5,6.5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#E64A19;margin:0 0 3px\">Gold Butte Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#E64A19;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs & pictographs · Gold Butte National Monument</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Multiple rock art sites within <b>Gold Butte National Monument</b> (est. 2016, 296,937 acres) — ancestral lands of the <b>Moapa Band of Paiutes</b>. Rock art here spans from Archaic through Southern Paiute periods and includes both petroglyphs and pictographs. Styles include Basin and Range Tradition abstract designs and later representational imagery. The monument also contains <b>\"Little Finland\"</b> — otherworldly red sandstone formations — and evidence of Ancestral Puebloan presence. Gold Butte sits at the cultural crossroads of the Great Basin, Colorado Plateau, and Mojave Desert. The Moapa fought for decades to protect this land.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Las Vegas; NPS; Moapa Band of Paiutes</div></div>"
+      "geometry": {
+        "lat": 36.38,
+        "lng": -114.22
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer;filter:drop-shadow(0 0 3px #E64A19)\">🪨</div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#E64A19;margin:0 0 3px\">Gold Butte Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#E64A19;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs & pictographs · Gold Butte National Monument</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Multiple rock art sites within <b>Gold Butte National Monument</b> (est. 2016, 296,937 acres) — ancestral lands of the <b>Moapa Band of Paiutes</b>. Rock art here spans from Archaic through Southern Paiute periods and includes both petroglyphs and pictographs. Styles include Basin and Range Tradition abstract designs and later representational imagery. The monument also contains <b>\"Little Finland\"</b> — otherworldly red sandstone formations — and evidence of Ancestral Puebloan presence. Gold Butte sits at the cultural crossroads of the Great Basin, Colorado Plateau, and Mojave Desert. The Moapa fought for decades to protect this land.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Las Vegas; NPS; Moapa Band of Paiutes</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "ancestral_puebloan",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":37.58,"lng":-115.22},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #FF5252)\">🪨</div>","iconSize":[11,11],"iconAnchor":[5.5,5.5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF5252;margin:0 0 3px\">Hiko Springs / Upper Pahranagat</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#E64A19;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Pahranagat Representational Style · Lincoln County</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art site near <b>Hiko</b> in the upper Pahranagat Valley, featuring the distinctive <b>Pahranagat Representational Style</b>. This enigmatic style — found <b>only</b> in the Pahranagat Valley drainage — comprises two anthropomorph types: (1) <b>headless rectangular forms</b> with internal grid/dot decoration and \"fringed\" borders, sometimes wielding atlatls; and (2) <b>solid-pecked ovoid forms</b> with large eyes (negative space), a line from the head, and downturned arms with long fingers. The style's restricted distribution suggests a localized cultural development, possibly ceremonial. Pahranagat Valley's chain of spring-fed wetlands made it one of the richest habitable corridors in eastern Nevada.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF; Quinlan 2007; Bradshaw Foundation</div></div>"
+      "geometry": {
+        "lat": 37.58,
+        "lng": -115.22
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #FF5252)\">🪨</div>",
+        "iconSize": [
+          11,
+          11
+        ],
+        "iconAnchor": [
+          5.5,
+          5.5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#FF5252;margin:0 0 3px\">Hiko Springs / Upper Pahranagat</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#E64A19;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE ARCHAIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Pahranagat Representational Style · Lincoln County</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art site near <b>Hiko</b> in the upper Pahranagat Valley, featuring the distinctive <b>Pahranagat Representational Style</b>. This enigmatic style — found <b>only</b> in the Pahranagat Valley drainage — comprises two anthropomorph types: (1) <b>headless rectangular forms</b> with internal grid/dot decoration and \"fringed\" borders, sometimes wielding atlatls; and (2) <b>solid-pecked ovoid forms</b> with large eyes (negative space), a line from the head, and downturned arms with long fingers. The style's restricted distribution suggests a localized cultural development, possibly ceremonial. Pahranagat Valley's chain of spring-fed wetlands made it one of the richest habitable corridors in eastern Nevada.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF; Quinlan 2007; Bradshaw Foundation</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pahranagat"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtArchaic",
-      "geometry": {"lat":39.5,"lng":-117.5},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:16px;cursor:pointer;filter:drop-shadow(0 0 4px #FFD600)\" title=\"Click: Nevada Rock Art Style Guide\">🪨</div>","iconSize":[18,18],"iconAnchor":[9,9]},
+      "geometry": {
+        "lat": 39.5,
+        "lng": -117.5
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:16px;cursor:pointer;filter:drop-shadow(0 0 4px #FFD600)\" title=\"Click: Nevada Rock Art Style Guide\">🪨</div>",
+        "iconSize": [
+          18,
+          18
+        ],
+        "iconAnchor": [
+          9,
+          9
+        ]
+      },
       "popup": "<div style=\"max-width:440px\">\n    <h4 style=\"color:#E8D5C4\">🪨 Nevada Rock Art: A 15,000-Year Visual Record</h4>\n    <div style=\"font-size:12px;color:#ccc;line-height:1.6\">\n    Nevada contains thousands of rock art sites — one of the densest concentrations in North America. The <b>Nevada Rock Art Foundation (NRAF)</b> has documented over 2,500 panels across the state. Key style periods:<br><br>\n\n    <b style=\"color:#FFD600\">● Great Basin Carved Abstract (GBCA)</b> — The oldest tradition (14,800–7,000+ BP). Deeply pecked, wide-line, densely packed abstract designs leaving little negative space. Best examples: <b>Winnemucca Lake</b> (oldest dated rock art in North America), Massacre Lake, High Rock Canyon.<br><br>\n\n    <b style=\"color:#FF8F00\">● Pit-and-Groove Style</b> — Circular depressions pecked or ground into boulders. Once thought to be the oldest style (Heizer & Baumhoff 1962). Best example: <b>Grimes Point</b> — the darkest patina (oldest) petroglyphs at the site are pit-and-groove.<br><br>\n\n    <b style=\"color:#FF7043\">● Basin and Range Tradition (BRT)</b> — The dominant tradition for ~8,000 years (8,000–150 BP). Abstract curvilinear and rectilinear designs: circles, rakes, wavy lines, grids, dots. ~80% of all Nevada rock art. Found at virtually every site. Peak production during Late Archaic.<br><br>\n\n    <b style=\"color:#FF5252\">● Pahranagat Representational Style</b> — Unique to the Pahranagat Valley. Headless rectangular figures with internal decoration, and solid-pecked ovoid figures. Age uncertain — possibly Late Archaic. Best examples: <b>Black Canyon</b>, <b>Mount Irish</b>.<br><br>\n\n    <b style=\"color:#AB47BC\">● Fremont Style</b> — Trapezoidal anthropomorphs, shield figures, hunting scenes. Associated with semi-sedentary corn farmers (200–1300 CE) in eastern NV. Best examples: <b>Rainbow Canyon</b>, Baker area.<br><br>\n\n    <b style=\"color:#26A69A\">● Late Prehistoric / Numic</b> — Scratched petroglyphs, small anthropomorphs, bow-and-arrow hunting scenes. Associated with Northern Paiute, Western Shoshone, and Southern Paiute peoples after the <b>Numic expansion (~1000 CE)</b>.\n    </div>\n    <div style=\"margin-top:8px;font-size:10px;color:#888\">Sources: NRAF; Quinlan 2007; Heizer & Baumhoff 1962; Whitley 2000; BRNM 3D</div>\n  </div>",
-      "popupOptions": {"maxWidth":460}
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "fremont",
+        "northern_paiute",
+        "numic",
+        "paiute",
+        "shoshone",
+        "southern_paiute",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "southern_paiute",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range",
+        "cupule_pit_and_groove",
+        "fremont_anthropomorph",
+        "great_basin_carved_abstract",
+        "pahranagat",
+        "scratched"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtFremont",
-      "geometry": {"lat":37.62,"lng":-114.48},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:13px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>","iconSize":[13,13],"iconAnchor":[6.5,6.5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">Rainbow Canyon</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs & pictographs · Lincoln County · Highway 317</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Rainbow Canyon</b> along Highway 317 between Caliente and Panaca is one of the most accessible multi-period rock art experiences in Nevada. Four major stops along the canyon reveal art spanning 10,000+ years: <b>Desert Archaic</b>, <b>Fremont</b>, and <b>Southern Paiute</b> cultures all left their marks. <b>Etna Cave</b> served as a temporary home. The Fremont people (200-1300 CE) were semi-sedentary horticulturalists who grew corn, made pottery, and created distinctive trapezoidal anthropomorph rock art. Unlike the Desert Archaic people before them, the Fremont combined hunting-gathering with small-scale farming. By 1300 CE, the Fremont had <b>vanished from the archaeological record</b> — possibly due to prolonged drought.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Lincoln County NV; BLM Ely; Madsen & Simms 1998</div></div>"
+      "geometry": {
+        "lat": 37.62,
+        "lng": -114.48
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:13px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>",
+        "iconSize": [
+          13,
+          13
+        ],
+        "iconAnchor": [
+          6.5,
+          6.5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">Rainbow Canyon</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs & pictographs · Lincoln County · Highway 317</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Rainbow Canyon</b> along Highway 317 between Caliente and Panaca is one of the most accessible multi-period rock art experiences in Nevada. Four major stops along the canyon reveal art spanning 10,000+ years: <b>Desert Archaic</b>, <b>Fremont</b>, and <b>Southern Paiute</b> cultures all left their marks. <b>Etna Cave</b> served as a temporary home. The Fremont people (200-1300 CE) were semi-sedentary horticulturalists who grew corn, made pottery, and created distinctive trapezoidal anthropomorph rock art. Unlike the Desert Archaic people before them, the Fremont combined hunting-gathering with small-scale farming. By 1300 CE, the Fremont had <b>vanished from the archaeological record</b> — possibly due to prolonged drought.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Lincoln County NV; BLM Ely; Madsen & Simms 1998</div></div>",
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "fremont",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "fremont_anthropomorph",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtFremont",
-      "geometry": {"lat":39.01,"lng":-114.12},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>","iconSize":[11,11],"iconAnchor":[5.5,5.5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">Baker Archaeological Site</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Village site + rock art · White Pine County · near Great Basin NP</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">An archaeological complex near <b>Baker, Nevada</b> at the base of the <b>Snake Range</b> (Great Basin National Park). The site includes a <b>Fremont village</b> with pit houses, storage granaries, and rock art panels showing the characteristic trapezoidal Fremont anthropomorphs. The Fremont people occupied eastern Nevada's valleys from ~200 to 1300 CE, growing corn and making gray-ware pottery while also hunting and gathering. The nearby <b>Lehman Caves</b> contain evidence of Fremont visitation. This area sits at the eastern boundary of the Great Basin, where Fremont cultural influence blended with Western Shoshone desert adaptations.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Great Basin NP; Thomas 1983; Madsen & Simms 1998</div></div>"
+      "geometry": {
+        "lat": 39.01,
+        "lng": -114.12
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>",
+        "iconSize": [
+          11,
+          11
+        ],
+        "iconAnchor": [
+          5.5,
+          5.5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">Baker Archaeological Site</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Village site + rock art · White Pine County · near Great Basin NP</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">An archaeological complex near <b>Baker, Nevada</b> at the base of the <b>Snake Range</b> (Great Basin National Park). The site includes a <b>Fremont village</b> with pit houses, storage granaries, and rock art panels showing the characteristic trapezoidal Fremont anthropomorphs. The Fremont people occupied eastern Nevada's valleys from ~200 to 1300 CE, growing corn and making gray-ware pottery while also hunting and gathering. The nearby <b>Lehman Caves</b> contain evidence of Fremont visitation. This area sits at the eastern boundary of the Great Basin, where Fremont cultural influence blended with Western Shoshone desert adaptations.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NPS Great Basin NP; Thomas 1983; Madsen & Simms 1998</div></div>",
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "fremont",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "fremont_anthropomorph"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtFremont",
-      "geometry": {"lat":37.80,"lng":-114.55},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>","iconSize":[11,11],"iconAnchor":[5.5,5.5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">Meadow Valley Wash Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Lincoln County · Fremont corridor</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art along <b>Meadow Valley Wash</b> — a rare perennial waterway in eastern Nevada that flows south through Lincoln County toward the Muddy River and Lake Mead. This corridor was a major route connecting Fremont settlements in Utah to the Moapa area. Petroglyphs include Fremont-style trapezoidal figures, shield-bearing anthropomorphs, and Basin and Range Tradition abstract designs. The wash supported small-scale farming communities during the Fremont period. <b>Caliente</b> sits along this corridor. Archaeological evidence shows continuous human use from Early Archaic through Southern Paiute times.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Ely; NRAF; Lincoln County; Fowler & Madsen 1986</div></div>"
+      "geometry": {
+        "lat": 37.8,
+        "lng": -114.55
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:11px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>",
+        "iconSize": [
+          11,
+          11
+        ],
+        "iconAnchor": [
+          5.5,
+          5.5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">Meadow Valley Wash Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Lincoln County · Fremont corridor</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art along <b>Meadow Valley Wash</b> — a rare perennial waterway in eastern Nevada that flows south through Lincoln County toward the Muddy River and Lake Mead. This corridor was a major route connecting Fremont settlements in Utah to the Moapa area. Petroglyphs include Fremont-style trapezoidal figures, shield-bearing anthropomorphs, and Basin and Range Tradition abstract designs. The wash supported small-scale farming communities during the Fremont period. <b>Caliente</b> sits along this corridor. Archaeological evidence shows continuous human use from Early Archaic through Southern Paiute times.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Ely; NRAF; Lincoln County; Fowler & Madsen 1986</div></div>",
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "historic"
+      ],
+      "cultures": [
+        "fremont",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range",
+        "fremont_anthropomorph"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtFremont",
-      "geometry": {"lat":38.50,"lng":-114.55},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>","iconSize":[10,10],"iconAnchor":[5,5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">White Pine Fremont Sites</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · White Pine County · eastern Nevada valleys</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Scattered Fremont rock art panels across the valleys of <b>White Pine County</b>, representing the western frontier of Fremont cultural expansion. While the heart of Fremont culture lay in Utah, their influence extended into Nevada's eastern valleys wherever water and arable land permitted small-scale corn agriculture. Rock art includes trapezoidal anthropomorphs and zoomorphs (bighorn sheep, deer) alongside Basin and Range Tradition designs. The transition zone between Fremont and Great Basin hunter-gatherer cultures is one of the most interesting frontiers in Great Basin archaeology.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Thomas 1983; Madsen & Simms 1998; BLM Ely</div></div>"
+      "geometry": {
+        "lat": 38.5,
+        "lng": -114.55
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #AB47BC)\">🪨</div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#AB47BC;margin:0 0 3px\">White Pine Fremont Sites</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#AB47BC;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">FREMONT</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · White Pine County · eastern Nevada valleys</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Scattered Fremont rock art panels across the valleys of <b>White Pine County</b>, representing the western frontier of Fremont cultural expansion. While the heart of Fremont culture lay in Utah, their influence extended into Nevada's eastern valleys wherever water and arable land permitted small-scale corn agriculture. Rock art includes trapezoidal anthropomorphs and zoomorphs (bighorn sheep, deer) alongside Basin and Range Tradition designs. The transition zone between Fremont and Great Basin hunter-gatherer cultures is one of the most interesting frontiers in Great Basin archaeology.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Thomas 1983; Madsen & Simms 1998; BLM Ely</div></div>",
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "fremont"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range",
+        "fremont_anthropomorph"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtLate",
-      "geometry": {"lat":38.88,"lng":-118.85},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🎨</div>","iconSize":[12,12],"iconAnchor":[6,6]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Ghost Dance–Era Rock Art (Walker River region)</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#26A69A;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE PREHISTORIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Pictographs & petroglyphs · Lyon/Mineral Counties</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art in the Walker River region associated with or dating to the <b>Ghost Dance</b> movement (1889-1890). <b>Wovoka</b> (Jack Wilson), a Northern Paiute prophet born near Walker Lake, experienced a vision during the solar eclipse of January 1, 1889: if all Native peoples performed the Ghost Dance, the dead would return, the white man would vanish, and the buffalo would come back. The movement spread across the West with astonishing speed. Some late rock art in the Walker River region may reflect Ghost Dance iconography — circles, celestial imagery, and revitalization symbols. The Ghost Dance was the <b>last great pan-Indian spiritual movement</b> before Wounded Knee (1890). Wovoka lived quietly near Yerington until his death in 1932.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Hittman 1990; Mooney 1896; BLM Carson City</div></div>"
+      "geometry": {
+        "lat": 38.88,
+        "lng": -118.85
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:12px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🎨</div>",
+        "iconSize": [
+          12,
+          12
+        ],
+        "iconAnchor": [
+          6,
+          6
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Ghost Dance–Era Rock Art (Walker River region)</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#26A69A;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE PREHISTORIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Pictographs & petroglyphs · Lyon/Mineral Counties</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art in the Walker River region associated with or dating to the <b>Ghost Dance</b> movement (1889-1890). <b>Wovoka</b> (Jack Wilson), a Northern Paiute prophet born near Walker Lake, experienced a vision during the solar eclipse of January 1, 1889: if all Native peoples performed the Ghost Dance, the dead would return, the white man would vanish, and the buffalo would come back. The movement spread across the West with astonishing speed. Some late rock art in the Walker River region may reflect Ghost Dance iconography — circles, celestial imagery, and revitalization symbols. The Ghost Dance was the <b>last great pan-Indian spiritual movement</b> before Wounded Knee (1890). Wovoka lived quietly near Yerington until his death in 1932.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Hittman 1990; Mooney 1896; BLM Carson City</div></div>",
+      "timePeriods": [
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtLate",
-      "geometry": {"lat":36.42,"lng":-114.67},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🪨</div>","iconSize":[10,10],"iconAnchor":[5,5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Muddy Mountains Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#26A69A;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE PREHISTORIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Clark County · near Valley of Fire</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs in the <b>Muddy Mountains</b> south of the Valley of Fire and north of Lake Mead. Created by Southern Paiute peoples during the Late Prehistoric period (post-1100 CE). Includes small anthropomorphs, abstract designs, and possible trail markers. The Muddy Mountains form the dramatic backdrop to Moapa Band territory. Nearby <b>Little Finland</b> (also called \"Hobgoblin's Playground\") features otherworldly red sandstone formations alongside scattered rock art.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Las Vegas; NPS Lake Mead NRA</div></div>"
+      "geometry": {
+        "lat": 36.42,
+        "lng": -114.67
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🪨</div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Muddy Mountains Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#26A69A;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE PREHISTORIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Clark County · near Valley of Fire</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs in the <b>Muddy Mountains</b> south of the Valley of Fire and north of Lake Mead. Created by Southern Paiute peoples during the Late Prehistoric period (post-1100 CE). Includes small anthropomorphs, abstract designs, and possible trail markers. The Muddy Mountains form the dramatic backdrop to Moapa Band territory. Nearby <b>Little Finland</b> (also called \"Hobgoblin's Playground\") features otherworldly red sandstone formations alongside scattered rock art.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Las Vegas; NPS Lake Mead NRA</div></div>",
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtLate",
-      "geometry": {"lat":40.58,"lng":-116.47},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🪨</div>","iconSize":[10,10],"iconAnchor":[5,5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Beowawe / Geyser Ranch Petroglyphs</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#26A69A;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE PREHISTORIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Eureka/Lander Counties · Humboldt River corridor</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs near <b>Beowawe</b> (Paiute for \"gate\" — referring to the shape of nearby hills) along the Humboldt River corridor. This area was a natural gateway where the Humboldt River passes between mountain ranges. Western Shoshone bands used this as a seasonal gathering point. Rock art includes late-period scratched and pecked designs. Beowawe was also the site of famous geysers (now largely dormant due to geothermal development) that were considered spiritually powerful by indigenous peoples.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Battle Mountain; Steward 1938; NV State Historical Marker</div></div>"
+      "geometry": {
+        "lat": 40.58,
+        "lng": -116.47
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🪨</div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Beowawe / Geyser Ranch Petroglyphs</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#26A69A;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">LATE PREHISTORIC</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Eureka/Lander Counties · Humboldt River corridor</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs near <b>Beowawe</b> (Paiute for \"gate\" — referring to the shape of nearby hills) along the Humboldt River corridor. This area was a natural gateway where the Humboldt River passes between mountain ranges. Western Shoshone bands used this as a seasonal gathering point. Rock art includes late-period scratched and pecked designs. Beowawe was also the site of famous geysers (now largely dormant due to geothermal development) that were considered spiritually powerful by indigenous peoples.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Battle Mountain; Steward 1938; NV State Historical Marker</div></div>",
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "scratched"
+      ]
     },
     {
       "type": "marker",
       "layer": "nvRockArtLate",
-      "geometry": {"lat":38.07,"lng":-117.22},
-      "icon": {"factory":"divIcon","html":"<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🪨</div>","iconSize":[10,10],"iconAnchor":[5,5]},
-      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Tonopah Area Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF7043;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">MULTI-PERIOD</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Nye County · central Nevada crossroads</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art sites near <b>Tonopah</b> — whose name derives from the Shoshone word \"Tonampaa\" meaning \"hidden spring.\" This area sits at the crossroads of several Western Shoshone band territories and was a gathering point where desert valleys meet mountain ranges. Rock art ranges from late Basin and Range Tradition designs to Numic-period scratched petroglyphs. The springs that gave Tonopah its name were critical water sources on an otherwise arid landscape. Silver was discovered here in 1900, bringing a devastating mining boom.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Tonopah; NV SHPO; Steward 1938</div></div>"
+      "geometry": {
+        "lat": 38.07,
+        "lng": -117.22
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font-size:10px;cursor:pointer;filter:drop-shadow(0 0 3px #26A69A)\">🪨</div>",
+        "iconSize": [
+          10,
+          10
+        ],
+        "iconAnchor": [
+          5,
+          5
+        ]
+      },
+      "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#26A69A;margin:0 0 3px\">Tonopah Area Rock Art</h4>\n      <div style=\"margin-bottom:6px\">\n        <span style=\"display:inline-block;background:#FF7043;color:#fff;font-size:9px;font-weight:700;padding:1px 6px;border-radius:8px;margin-right:4px\">MULTI-PERIOD</span>\n        <span style=\"font-size:10px;color:#aaa\">Petroglyphs · Nye County · central Nevada crossroads</span>\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rock art sites near <b>Tonopah</b> — whose name derives from the Shoshone word \"Tonampaa\" meaning \"hidden spring.\" This area sits at the crossroads of several Western Shoshone band territories and was a gathering point where desert valleys meet mountain ranges. Rock art ranges from late Basin and Range Tradition designs to Numic-period scratched petroglyphs. The springs that gave Tonopah its name were critical water sources on an otherwise arid landscape. Silver was discovered here in 1900, bringing a devastating mining boom.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Tonopah; NV SHPO; Steward 1938</div></div>",
+      "timePeriods": [
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "numic",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range",
+        "scratched"
+      ]
     }
   ]
 }

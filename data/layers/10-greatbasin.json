@@ -16,7 +16,15 @@
         "fillOpacity": 0.8,
         "weight": 1
       },
-      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Udjiu (Tachi village, near Coalinga)</h4><div style=\"font-size:12px;color:#ccc\">Tachi Yokuts</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>"
+      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Udjiu (Tachi village, near Coalinga)</h4><div style=\"font-size:12px;color:#ccc\">Tachi Yokuts</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
+      "timePeriods": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -32,7 +40,15 @@
         "fillOpacity": 0.8,
         "weight": 1
       },
-      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Chawlowin (Wowol village, Atwell Island/Alpaugh)</h4><div style=\"font-size:12px;color:#ccc\">Wowol Yokuts — last autonomous Yokuts on the lake, 1870s</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>"
+      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Chawlowin (Wowol village, Atwell Island/Alpaugh)</h4><div style=\"font-size:12px;color:#ccc\">Wowol Yokuts — last autonomous Yokuts on the lake, 1870s</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
+      "timePeriods": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -48,7 +64,15 @@
         "fillOpacity": 0.8,
         "weight": 1
       },
-      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Miketsiu (Chunut village, Kaweah Delta)</h4><div style=\"font-size:12px;color:#ccc\">Chunut Yokuts</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>"
+      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Miketsiu (Chunut village, Kaweah Delta)</h4><div style=\"font-size:12px;color:#ccc\">Chunut Yokuts</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
+      "timePeriods": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -64,7 +88,15 @@
         "fillOpacity": 0.8,
         "weight": 1
       },
-      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Walna (Tachi village)</h4><div style=\"font-size:12px;color:#ccc\">Tachi Yokuts — near modern Lemoore</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>"
+      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Walna (Tachi village)</h4><div style=\"font-size:12px;color:#ccc\">Tachi Yokuts — near modern Lemoore</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
+      "timePeriods": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -80,7 +112,11 @@
         "fillOpacity": 0.8,
         "weight": 1
       },
-      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Sukuwutnu (Wowol village)</h4><div style=\"font-size:12px;color:#ccc\">Wowol — on island off eastern shore</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>"
+      "popup": "<h4 style=\"color:#FFB74D\">🏘️ Sukuwutnu (Wowol village)</h4><div style=\"font-size:12px;color:#ccc\">Wowol — on island off eastern shore</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -97,7 +133,17 @@
       "popup": "<h4 style=\"color:#FF7043\">Coso Rock Art District</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Inyo County, CA · 100,000+ petroglyphs · National Historic Landmark 1964/2001</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>largest concentration of rock art in the Western Hemisphere</b>. Over 100,000 petroglyphs carved into volcanic basalt in the Coso Range on Naval Air Weapons Station China Lake. Multiple canyons: <b>Little Petroglyph Canyon</b> (Renegade Canyon, 20,000 documented images), Big Petroglyph Canyon, Haiwee Springs, Dead End Canyon, Sheep Canyon. Dominant motifs: bighorn sheep, pattern-bodied anthropomorphs, atlatl hunters, entoptic designs. Age: possibly 13,000+ years to historic period. Heizer & Baumhoff (1962) used Coso to develop their <b>hunting magic hypothesis</b> — that petroglyphs were rituals to ensure successful hunts. Later scholars proposed shamanic vision quest and sheep-cult ceremonial interpretations. <b>Coso obsidian</b> was one of the most traded materials in pre-contact California, found in archaeological sites across the state. Access restricted to guided tours via Maturango Museum in Ridgecrest.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Grant et al. 1968; Whitley 1998; Garfinkel 2007</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "coso_tradition"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "coso_tradition"
+      ]
     },
     {
       "type": "marker",
@@ -114,7 +160,28 @@
       "popup": "<h4 style=\"color:#FF7043\">Chalfant Valley Petroglyphs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mono County, CA · NRHP-listed · Paiute/Shoshone · 500 BCE–1849 CE</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs on a low rhyolite cliff at the edge of Chalfant Valley, on the Volcanic Tablelands north of Bishop. Features concentric circles, bighorn sheep, deer, rattlesnakes, and hunters with bows. Created by the Owens Valley Paiute-Shoshone peoples. Listed on the National Register of Historic Places. The Volcanic Tablelands — formed 765,000 years ago by the Long Valley Caldera eruption — contain multiple petroglyph clusters including the <b>Red Canyon</b>, <b>Chidago Canyon</b>, and <b>Fish Slough</b> sites. Sadly, vandals have sawed through rock to steal panels considered sacred by local Paiute.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Steward 1929; BLM Bishop Field Office</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -131,7 +198,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Fish Slough Petroglyphs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Inyo County, CA · Volcanic Tablelands · BLM site</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph panels on ignimbrite boulders along Fish Slough Road on the Volcanic Tablelands. Solar symbols, concentric circles, and bighorn sheep. The site shows evidence of a major campsite — mortero grinding stones, pottery fragments, mussel shells, stone circles, and a carpet of obsidian chips covering the ground. The <b>Chidago Canyon</b> site nearby includes the famous \\\"Newspaper Rock\\\" — an extremely dense petroglyph panel now fenced for protection. Fish Slough itself is a rare spring-fed wetland habitat in the high desert, still ecologically important.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Bishop; Steward 1929; Heizer & Baumhoff 1962</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -148,7 +221,25 @@
       "popup": "<h4 style=\"color:#FF7043\">Lagomarsino Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Storey County, NV · 2,229 panels · NRHP-listed · up to 10,000 years old</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>largest identified rock art site in Nevada</b>. A quarter-mile stretch of basalt cliff and talus in the Virginia Range between Virginia City and Lockwood. First recorded by Julian Steward in 1929. Heizer & Baumhoff (1962) used Lagomarsino to develop their rock art classification system for the western Great Basin. The hunting magic interpretation was built partly from this site — its favorable hunting location and motifs depicting mountain sheep and pinon cones. The Nevada Rock Art Foundation documented all 2,229 panels from 2003-2008. Elements include atlatl depictions, Elko-series projectile points, and basket designs identified by Washoe elders as traditional patterns. One of only eight Nevada rock art sites on the National Register.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Baumhoff et al. 1958; NRAF 2009; Steward 1929</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "washoe"
+      ],
+      "tribes": [
+        "washoe"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -165,7 +256,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Grimes Point</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · ~150 boulders · NRHP 1972 · 5000 BCE–1500 CE</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the largest and most accessible petroglyph sites in the United States. About 150 basalt boulders covered with petroglyphs along a self-guided trail off Highway 50 near Fallon. Heizer & Baumhoff used Grimes Point to define the <b>Pit-and-Groove Style</b> — thought to be the oldest type of rock art in Nevada, with deeper, wider engraving than later styles. A drift fence for driving deer/antelope runs along the ridge above. Nearby <b>Hidden Cave</b> (3,500-3,800 years old) was used as a cache. The <b>Spirit Cave</b> mummy — 9,470 years old — was found nearby, with remarkably preserved woven textiles.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Nissen 1982; BLM Carson City</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "cupule_pit_and_groove"
+      ]
     },
     {
       "type": "marker",
@@ -182,7 +285,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Hickison Summit</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lander County, NV · 10,000+ years · Highway 50 \\\"Loneliest Road\\\" · BLM</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph panels carved into volcanic tuff at a natural pass between two buttes — a prehistoric ambush site for migratory deer herds. Western Shoshone territory. A half-mile interpretive trail winds through pinon forest past multiple panels with hashwork, lines, and possible animal tracks. Free campground with 16 sites. Heizer & Baumhoff documented this as a classic example of their hunting-site/game-trail petroglyph association. Prehistoric living sites dating to 10,000 BCE have been found nearby. The pass sits at the boundary between Big Smoky Valley and Monitor Valley.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; BLM Battle Mountain; NV State Historical Marker #137</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -199,7 +314,19 @@
       "popup": "<h4 style=\"color:#E040FB\">Toquima Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Nye County, NV · Pictographs · Western Shoshone · Humboldt-Toiyabe NF</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A shallow cave high on Pete's Summit in the Toquima Mountains, lined with striking <b>pictographs</b> (painted, not pecked) in white, red, and yellow-orange pigments. Sacred to the Western Shoshone people. Unlike most Great Basin sites which feature petroglyphs, Toquima showcases painted imagery — possibly vision quest or portal art. The cave was excavated by the American Museum of Natural History in the 1970s. Sweeping views from the cliff suggest use as a spiritual site or geographical guide rather than habitation. Access via 19 miles of dirt road from Austin.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS Humboldt-Toiyabe; Thomas 1983; Atlas Obscura</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -216,7 +343,27 @@
       "popup": "<h4 style=\"color:#FFD600\">Winnemucca Lake Petroglyphs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Washoe/Pershing Counties, NV · 10,500–14,800 years old · OLDEST IN NORTH AMERICA</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>oldest dated rock art in North America</b>. Deeply carved meter-scale petroglyphs on limestone tufa boulders along the now-dry western shore. Motifs include trees, leaves, diamond chains, flowers, and abstract designs — strikingly different from later Great Basin styles. Carbon-dating of carbonate crusts (Benson et al. 2013) established two possible carving windows: <b>14,800–13,200 years ago</b> and <b>11,300–10,500 years ago</b>. Either date makes them the oldest known. The lake — once part of <b>Pleistocene Lake Lahontan</b> — dried up in the 1930s. The <b>Spirit Cave mummy</b> (9,470 years old) was found nearby. Located on Pyramid Lake Paiute Reservation; currently closed to outsiders due to vandalism.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Benson et al. 2013 (J. Arch. Science); Connick & Connick 1992; National Geographic 2013</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "paiute",
+        "washoe"
+      ],
+      "tribes": [
+        "paiute",
+        "washoe"
+      ],
+      "rockArtStyles": [
+        "great_basin_carved_abstract"
+      ]
     },
     {
       "type": "marker",
@@ -233,7 +380,20 @@
       "popup": "<h4 style=\"color:#FF7043\">Atlatl Rock</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · Valley of Fire State Park · ~2,000 BCE–1150 CE</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">An iconic petroglyph panel on a sandstone boulder 50 feet above ground, accessed by a metal staircase. Features the finest ancient depiction of an <b>atlatl</b> (spear-thrower) and its dart in North America. Created by peoples from the Archaic through Anasazi periods. The bow and arrow arrived ~1,500 years ago, making these atlatl depictions older. Valley of Fire — Nevada's oldest state park (1934) — was used by indigenous peoples for food gathering, hunting, and ceremonies despite limited water. The red Aztec sandstone formations date to 150 million years ago.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; NV State Parks; Pacl (MA thesis)</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -250,7 +410,22 @@
       "popup": "<h4 style=\"color:#FF7043\">Petroglyph Canyon / Mouse's Tank</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · Valley of Fire State Park · Anasazi / Southern Paiute</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A 0.75-mile canyon trail passing dozens of petroglyph panels carved into desert varnish on red sandstone. Named for Southern Paiute <b>\\\"Little Mouse\\\"</b> who reportedly hid in the canyon after being accused of shooting two prospectors in the 1890s. The trail ends at a <b>tinaja</b> (natural rock basin) that catches rainwater. Petroglyphs include human figures, bighorn sheep, and abstract designs etched through the dark manganese/iron patina to reveal orange rock beneath. Higher-elevation petroglyphs appear shamanistic; mid-elevation panels relate to hunting; lower panels may depict daily life.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Pacl 2012 (MA thesis); NV State Parks; Heizer & Baumhoff 1962</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "ancestral_puebloan",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -267,7 +442,23 @@
       "popup": "<h4 style=\"color:#FF7043\">Grapevine Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · NRHP 1984 · ~700 petroglyphs · Spirit Mountain</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Over 700 petroglyphs in a canyon on <b>Spirit Mountain</b> (Avi Kwa Ame) near Laughlin — sacred to the Mohave, Chemehuevi, and Southern Paiute as their mountain of creation. Created 1100–1900 CE. The glyphs may depict creation mythology. The canyon, with rare flowing water and grapevines in the desert, was likely regarded as a sacred oasis. The surrounding area — Christmas Tree Pass — contains additional concentrations. In 2023, <b>Avi Kwa Ame</b> was designated a National Monument. Tragically, in 2010 a vandal defaced 30 areas with a paintball gun.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRHP; BLM Lake Mead NRA; Christensen & Dickey 2001; NRAF</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "grapevine_canyon"
+      ]
     },
     {
       "type": "marker",
@@ -284,7 +475,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Sloan Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · 300+ panels / 1,700 elements · NRHP · BLM NCA</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Over 300 rock art panels with 1,700 individual design elements in a canyon in the McCullough Range south of Henderson. Part of the 48,438-acre Sloan Canyon National Conservation Area. Petroglyphs are scattered on small boulders flanking a wash — an ancient travel corridor from lower Las Vegas Valley (winter camps) to higher elevations (summer camps). Created by multiple cultures from the Archaic era through historic period. Documented by the Nevada Rock Art Foundation in 2006-2007. Accessing the Petroglyph Gallery requires climbing three dry waterfalls.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; NRAF 2007; HRC 1997/98</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -301,7 +498,21 @@
       "popup": "<h4 style=\"color:#FF7043\">Massacre Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Washoe County, NV · remote northwestern Nevada</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A petroglyph site in the far northwestern corner of Nevada, documented by Heizer & Baumhoff in their 1962 survey. Located near a seasonal lake in the high desert — Northern Paiute territory. One of the most remote sites in the Heizer & Baumhoff catalog, representing the northern extent of Great Basin rock art distribution. The \\\"massacre\\\" name refers to 19th-century conflicts between settlers and indigenous people in this borderlands area where Nevada, Oregon, and California converge.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Steward 1929</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -318,7 +529,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Garfield Flat</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mineral County, NV · Heizer & Baumhoff site</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A petroglyph site in the Walker River drainage of western Nevada, documented in Heizer & Baumhoff's 1962 survey. Located in a flat area of the eastern Sierra foothills that served as a seasonal gathering place for Northern Paiute bands. The petroglyphs here exhibit both Curvilinear and Rectilinear styles — part of the classification system Heizer & Baumhoff developed from their survey of 99 sites across Nevada and eastern California.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -335,7 +558,19 @@
       "popup": "<h4 style=\"color:#FF7043\">East Walker River Sites</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lyon County, NV · Walker River corridor</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Multiple petroglyph sites along the East Walker River in western Nevada. The Walker River drainage was a critical waterway for Northern Paiute peoples, connecting the Sierra Nevada snowpack to Walker Lake in the Great Basin. Documented by Heizer & Baumhoff as part of a pattern associating rock art with game migration routes along river corridors. Curvilinear meander designs predominate.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Steward 1929</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -352,7 +587,21 @@
       "popup": "<h4 style=\"color:#FF7043\">Stillwater Range / Carson Sink</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · Carson Sink wetlands · Northern Paiute</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph sites in the Stillwater Range overlooking the Carson Sink — where the Carson River terminates in seasonal marshes that supported dense Northern Paiute populations. The Stillwater Marsh area was one of the most important wetland habitats in the Great Basin, supporting tule, cattail, waterfowl, and fish. Petroglyphs here were associated with this marsh-edge economy. The <b>Stillwater Mummy</b> and numerous textile artifacts from the area demonstrate 3,000+ years of continuous human use. The Carson Sink was part of Pleistocene Lake Lahontan.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Nissen 1982</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -369,7 +618,15 @@
       "popup": "<h4 style=\"color:#FF7043\">Black Canyon (Pahranagat)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lincoln County, NV · Pahranagat NWR · unique anthropomorph style</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A concentration of the distinctive <b>Pahranagat Representational Style</b> — a unique petroglyph style found only in the Pahranagat Valley drainage and adjacent areas. Features headless rectangular human forms with internal decoration, often bearing atlatl-like designs, and solid-pecked oval figures with down-turned arms. The style is not well understood chronologically but appears to be a localized cultural development. Located on the Pahranagat National Wildlife Refuge — a rare desert oasis along the White River corridor. Documented by the Nevada Rock Art Foundation.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: NRAF; Heizer & Baumhoff 1962; BLM</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pahranagat"
+      ]
     },
     {
       "type": "marker",
@@ -386,7 +643,14 @@
       "popup": "<h4 style=\"color:#FF7043\">White River Narrows</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Nye/Lincoln Counties, NV · Basin and Range National Monument</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A rich collection of petroglyphs in the narrow canyon where the White River cuts through volcanic rock in east-central Nevada. Part of the <b>Basin and Range National Monument</b> (est. 2015). Features both petroglyphs (pecked) and pictographs (painted) including zoomorphs, anthropomorphs, and abstract designs. The narrows was a natural travel corridor and ambush point for game — fitting Heizer & Baumhoff's pattern of rock art at hunting locations. Remote and minimally visited, preserving an authentic Great Basin rock art experience.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Lincoln County; Heizer & Baumhoff 1962</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -403,7 +667,14 @@
       "popup": "<h4 style=\"color:#FF7043\">Mount Irish Archaeological District</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lincoln County, NV · Basin and Range National Monument</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Multiple petroglyph panels spread across several sites in the Mount Irish Range. Features the <b>Pahranagat Representational Style</b> alongside more standard Great Basin abstract and representational forms. The district sits within the Basin and Range National Monument. Bighorn sheep, human figures, and abstract geometric designs are carved into dark volcanic rock. The remote location in the Timpahute Range has helped preserve the sites from significant vandalism.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM; Lincoln County NV; Basin and Range NM</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range",
+        "pahranagat"
+      ]
     },
     {
       "type": "marker",
@@ -420,7 +691,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Red Rock Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · BLM NCA · Willow Springs area</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs at the <b>Petroglyph Wall Trail</b> near Willow Springs Picnic Area, and along <b>Calico Basin</b> outside the Red Rock Canyon National Conservation Area. Just 15 miles west of Las Vegas. The rock art at Willow Springs sits on cliff faces near a perennial water source — a pattern consistent with Heizer & Baumhoff's association of rock art with resource-rich locations. Additional panels in Calico Basin are visible from a wooden boardwalk. Created by Southern Paiute and earlier peoples over several thousand years.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Red Rock; NV State Historic Preservation Office</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -441,7 +724,11 @@
           100,
           8
         ]
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -462,7 +749,11 @@
           100,
           8
         ]
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -483,7 +774,11 @@
           70,
           7
         ]
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -504,7 +799,11 @@
           80,
           7
         ]
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -525,7 +824,11 @@
           85,
           6
         ]
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -539,7 +842,13 @@
         "color": "#EF5350",
         "size": 10
       },
-      "popup": "<h4 style=\"color:#EF5350\">\"There it is. Take it.\"</h4><div style=\"font-size:12px;color:#ccc\">— William Mulholland, November 5, 1913, opening the LA Aqueduct.<br>Within 13 years, Owens Lake — a vibrant 100-square-mile lake — was completely dry.</div>"
+      "popup": "<h4 style=\"color:#EF5350\">\"There it is. Take it.\"</h4><div style=\"font-size:12px;color:#ccc\">— William Mulholland, November 5, 1913, opening the LA Aqueduct.<br>Within 13 years, Owens Lake — a vibrant 100-square-mile lake — was completely dry.</div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -553,7 +862,13 @@
         "color": "#FFD54F",
         "size": 9
       },
-      "popup": "<h4 style=\"color:#FFD54F\">Trona Pinnacles — National Natural Landmark</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Over 500 tufa spires up to 140 feet tall, rising from the bed of ancient Searles Lake. Formed when calcium carbonate precipitated around underwater springs 10,000–100,000 years ago while the basin was under up to 640 feet of water. One of the most otherworldly landscapes in North America.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: BLM</div>"
+      "popup": "<h4 style=\"color:#FFD54F\">Trona Pinnacles — National Natural Landmark</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Over 500 tufa spires up to 140 feet tall, rising from the bed of ancient Searles Lake. Formed when calcium carbonate precipitated around underwater springs 10,000–100,000 years ago while the basin was under up to 640 feet of water. One of the most otherworldly landscapes in North America.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: BLM</div>",
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -578,7 +893,22 @@
       "popup": "<h4 style=\"color:#FF7043\">💥 Numic Spread Origin</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Owens Valley / Death Valley, CA · ~1,000 CE · Uto-Aztecan language family</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Linguist <b>Sydney Lamb</b> (1958) first proposed that all three branches of the Numic language family converge to a single origin point in <b>southeastern California</b> — the Owens Valley / Death Valley region. This \"wedge\" or \"fan\" pattern suggests that Numic-speaking peoples spread outward from here across the entire Great Basin beginning around <b>1,000 CE</b>.<br><br><b>Bettinger & Baumhoff</b> (1982) proposed the mechanism: Numic peoples had a <b>more efficient seed-processing adaptation</b>. While pre-Numic peoples focused on hunting large game, Numic groups invested heavily in grinding small seeds — a lower-return but more reliable strategy that let them extract more calories per acre. Over centuries, this advantage allowed population growth and territorial expansion.<br><br><b>DNA evidence</b> (Kaestle & Smith 2001) supports a major population discontinuity ~1,000 years ago. But the 2018 DNA study of the Spirit Cave Mummy suggests <b>some genetic continuity</b> from Paleoindian times to modern Paiute-Shoshone — complicating the simple replacement model.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Lamb 1958; Bettinger & Baumhoff 1982; Kaestle & Smith 2001; Moreno-Mayar et al. 2018</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "paleoindian"
+      ],
+      "cultures": [
+        "numic",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -603,7 +933,24 @@
       "popup": "<h4 style=\"color:#B0BEC5\">💀 Spirit Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · 10,600 years old · Oldest N. American mummy</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In 1940, archaeologists Sydney and Georgia Wheeler discovered the <b>oldest natural mummy in North America</b> in this small rocky alcove overlooking the Stillwater marshes — a remnant of Lake Lahontan. The man, aged ~45 when he died, wore moccasins and was wrapped in a finely woven rabbit-skin blanket with reed mats. Originally estimated at 1,500 years old, <b>mass spectrometry dating in 1994</b> revealed he was actually <b>10,600 years old</b>.<br><br>The Fallon Paiute-Shoshone Tribe called him <b>\"The Storyteller\"</b> and filed a NAGPRA repatriation claim, triggering a 20-year legal battle. In 2016, <b>DNA analysis by Eske Willerslev</b> definitively proved genetic links to the modern Fallon Paiute-Shoshone — confirming <b>10,000 years of continuity</b> in the Lahontan Basin and debunking the \"Paleoamerican\" theory. He was reburied in 2016. Fish bones in his intestines confirm the marsh-based diet of these ancient peoples.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Wheeler & Wheeler 1940; Moreno-Mayar et al. 2018 (Science); Thomas 2025 (American Antiquity)</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -628,7 +975,22 @@
       "popup": "<h4 style=\"color:#B0BEC5\">🦆 Lovelock Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · 4,000–600 years old · NRHP 1984 · Lovelock Culture type site</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the <b>most important archaeological sites in North America</b>. This cave above the Humboldt Sink yielded an extraordinary collection of artifacts from the <b>Lovelock Culture</b> (~2000 BCE–1000 CE), a pre-Numic people who thrived on marsh resources. Finds include: <b>duck decoys</b> made of tule reed with actual feathers (the oldest known decoys in the world, ~2,000 years old), fish hooks, nets, baskets, and human remains.<br><br>The Lovelock people lived on the edge of the marshes and lakes — remnants of Lake Lahontan. 90% of their diet came from the Humboldt Sink: Lahontan cutthroat trout, ducks, mudhens, bulrush, and cattail. They traded with California peoples — marine shell beads from the Pacific coast are abundant. <b>Most archaeologists believe the Lovelock Culture was replaced by Northern Paiute ~1,000 years ago.</b> Paiute oral tradition describes the <b>Saiduka</b> (Si-Te-Cah) — enemies who lived within the marshes — and a great battle at this cave.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Loud & Harrington 1929; Heizer & Napton 1970; Online Nevada Encyclopedia</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "numic",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -653,7 +1015,22 @@
       "popup": "<h4 style=\"color:#B0BEC5\">💀 Wizards Beach Man</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Pyramid Lake, NV · 9,200+ years old · Pyramid Lake Paiute Reservation</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Found in 1978 at Wizards Beach on the shore of <b>Pyramid Lake</b>. Radiocarbon dated to over 9,200 years ago — nearly the same era as the Spirit Cave mummy, 100 miles to the southeast. This ancient person lived along the shore of the remnant of Lake Lahontan, fishing for Lahontan cutthroat trout and cui-ui in a lake far larger than today's. Biological similarities link this individual to remains found at Spirit Cave and Crypt Cave — suggesting a widespread lakeside population in the early Holocene. The remains are on the Pyramid Lake Paiute Tribe Reservation.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Nevada State Museum; Moreno-Mayar et al. 2018</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "paiute"
+      ],
+      "tribes": [
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -678,7 +1055,22 @@
       "popup": "<h4 style=\"color:#B0BEC5\">🏺 Fremont Culture</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eastern Great Basin & Colorado Plateau · ~1–1300 CE · Farmers & hunters</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A <b>pre-Numic culture</b> that occupied the eastern Great Basin (most of Utah, parts of Nevada, Colorado, Idaho) from roughly 1 CE to 1300 CE. The Fremont were unique: they were <b>both farmers and hunter-gatherers</b>, growing maize, beans, and squash while also hunting and foraging. They built pithouse villages, made distinctive gray pottery, and created remarkable <b>rock art</b> — trapezoidal human figures with elaborate headdresses are their signature style.<br><br>Around 1250–1500 CE, the Fremont culture <b>vanished</b>. Drought, the arrival of Numic-speaking peoples, and social upheaval likely combined. Some may have been absorbed by arriving Shoshone and Ute peoples. Their rock art in eastern Nevada (White River Narrows, Mount Irish) connects to our Great Basin sites. The <b>Range Creek Canyon</b> discovery (2004) in Utah revealed pristine Fremont villages with 1,000-year-old corncobs still in granaries.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Madsen 1989; Simms 2008; Spangler 2013</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "fremont",
+        "numic",
+        "shoshone",
+        "ute"
+      ],
+      "tribes": [
+        "shoshone",
+        "ute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -703,7 +1095,18 @@
       "popup": "<h4 style=\"color:#B0BEC5\">🔷 Western Pluvial Lakes Tradition</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~11,000–8,000 years ago · Lakeside foragers of the Great Basin</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">As the Ice Age pluvial lakes began to recede, a distinctive culture adapted to life along the <b>retreating lake margins</b>. The Western Pluvial Lakes Tradition (WPLT) peoples lived along the edges of drying Lake Lahontan and other pluvial lakes from ~11,000 to 8,000 years ago. They made <b>Western Stemmed</b> projectile points (long, stemmed stone tools distinct from the Clovis tradition), suggesting an independent migration route along the Pacific coast rather than through the ice-free corridor.<br><br>These people are among the <b>earliest known inhabitants of the Great Basin</b>. They hunted waterfowl and large game at the lake margins while gathering marsh plants. As lakes dried, populations shifted to the <b>Desert Archaic</b> pattern of broad-spectrum foraging that would characterize Great Basin life for the next 7,000 years. Their identity — what languages they spoke, what ethnic groups they belonged to — is <b>entirely unknown</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Bedwell 1970; Beck & Jones 2010; Smith et al. 2020</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -728,7 +1131,18 @@
       "popup": "<h4 style=\"color:#B0BEC5\">🏔️ Hidden Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · Near Grimes Point · Desert Archaic storage cave</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A completely dark cave near the Grimes Point petroglyph site, used as a <b>storage cache</b> by Desert Archaic peoples for thousands of years. Hidden Cave was not a dwelling — there is no oxygen flow or light inside. Instead, people used it as a \"prehistoric storage unit,\" stashing food, tools, and ritual objects between seasonal visits. David Hurst Thomas excavated it in 1979–1980.<br><br>The <b>Desert Archaic</b> tradition (~8,000–1,000 years ago) represents the longest cultural period in the Great Basin. These peoples adapted to the post-lake arid landscape with an <b>annual round</b> — moving between ecological zones as resources became available: pine nuts in fall, seeds in summer, roots in spring, and hunting year-round. This flexible strategy sustained Great Basin peoples for millennia. The Pit-and-Groove rock art at nearby Grimes Point may be among the oldest art in the Americas.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Thomas 1985; BLM Churchill County</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "lenape"
+      ],
+      "tribes": [
+        "lenape"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -752,7 +1166,11 @@
       },
       "options": {
         "interactive": false
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -776,7 +1194,11 @@
       },
       "options": {
         "interactive": false
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -800,7 +1222,11 @@
       },
       "options": {
         "interactive": false
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -824,7 +1250,11 @@
       },
       "options": {
         "interactive": false
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -849,7 +1279,17 @@
       "popup": "<h4 style=\"color:#8D6E63\">🏠 Tule River Indian Reservation</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Established <b>1873</b> — one of the oldest reservations in California. 55,356 acres in the Sierra foothills. Home to multiple Yokuts and neighboring tribal members. The reservation contains the famous <b>Painted Rock</b> (CA-TUL-19) with the Hairy Man pictograph family. Language teachers <b>Denise Hunter</b> (Yowlumne dialect) and <b>Nicola Larsen</b> (carrying on traditions from her great-grandmother <b>Mary Santiago</b>) hold regular classes. The tribe operates its own health center, sponsors an elders' gathering in August and San Juan's Day in June.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Tule River Indian Tribe; Kroeber 1925</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -874,7 +1314,15 @@
       "popup": "<h4 style=\"color:#FFA726\">🏠 Santa Rosa Rancheria (Tachi Yokut)</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Established <b>1921</b> near Lemoore. Home to the <b>Tachi Yokut Tribe</b> — the most prominent surviving Valley Yokuts tribal entity. About 2,000 enrolled members. The Tachi maintain their deep connection to Pa'ashi (Tulare Lake). Cultural liaison <b>Kenny Barrios</b> spoke of the lake's 2023 return: \"I love the fact that it came back for us. I love the fact that it took over the land that was taken from us.\" The tribe celebrates a festival for spiritual renewal on March 1.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Tachi Yokut Tribe; Open Rivers Journal 2023</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
@@ -891,7 +1339,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Allen Springs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · Heizer & Baumhoff Ch-57 · Stillwater Range</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs on a saddle between the Desert Mountains and Terrill Mountains along the natural passage from Walker River to Carson Sink. Large petroglyphs on a boulder at the base of a large butte called White Throne Mountains. Two natural passes lead into the site — one from Walker River via the Stillwater Range, the other from the Grimes area. Evidence of a <b>hunting blind</b> — one of the tuff-covered boulders has petroglyphs pecked into it, with a mortero grinding stone nearby. Artifacts collected include a perforated sandstone disc.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ch-57); Steward 1929</div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -908,7 +1362,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Salt Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · Heizer & Baumhoff Ch-51 · Carson Sink</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A cave in the mountains bordering Carson Sink, about 10 miles west of Grimes Point. The walls of this small cave are covered with Lahontan tufa, and red pictographs have been painted on the tufa. There is evidently a midden deposit, but nothing is known of the cultural materials. The <b>culture-bearing deposit has been disturbed</b>, presumably by relic hunters.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ch-51)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -925,7 +1385,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Dynamite Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · Heizer & Baumhoff Ch-43 · Stillwater Range</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">On the Stillwater Range on the edge of Carson Sink, about 14 miles northeast of the Grimes locality. In two honeycombed cliffs there are two cavities — a <b>higher one</b> 20 ft by 8 ft into the cliff and a <b>lower cave</b> about 10 feet into the cliff. A child's skeleton is said to have been found in the higher cavity. The smaller cavity below is painted with pictographs in red paint, presumably the same pigment found on the mesa.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ch-43)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -942,7 +1408,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Flat Top Cave & Game Trail</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · Heizer & Baumhoff Ch-64/Ch-71 · Stillwater Range</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A small cave northwest of Flat Top Cave containing pictographs. The natural trail from Allen Springs to the Stillwater Range runs past Allen Springs and from there passes around the east side of Carson Sink. Northeast of Carson Lake the trail forks — the west fork going north around the point where the Grimes site (Ch-1) is found, the other fork running eastward. The trail through the saddle is marked by another petroglyph site, confirming Heizer & Baumhoff's theory that <b>rock art marks game migration routes</b>.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ch-64, Ch-71)</div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -959,7 +1431,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Lakeview Reservoir</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Churchill County, NV · Heizer & Baumhoff Ch-110</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">According to information in the files of the Nevada State Museum, there is a petroglyph site on the end of a long ridge overlooking the east part of a valley. The ridge consists of lava boulders and a lava rock ledge with pecked petroglyphs. The reservoir may cover the site at high water.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ch-110)</div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -976,7 +1454,18 @@
       "popup": "<h4 style=\"color:#FFD600\">Pueblo Grande de Nevada — \"Lost City\"</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · Heizer & Baumhoff Cl-8 · NRHP · ~300 AD–1150 AD</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>westernmost Ancestral Puebloan settlement</b> in North America. A complex of villages along the Muddy River near Overton, founded by Basketmaker people around 300 AD and occupied through the Pueblo period until ~1150 AD. Excavated by M.R. Harrington beginning in 1924, then urgently by CCC crews before Lake Mead submerged much of the site in 1938. Petroglyphs associated with the complex. Heizer & Baumhoff recorded it as a petroglyph site with Puebloan associations. The <b>Lost City Museum</b> in Overton preserves artifacts and sits on original pueblo foundations. Salt caves mined by the Puebloans were noted as early as 1827 by Jedediah Smith.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Cl-8); Harrington 1927; NPS; Steward 1929 (218, 226)</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "historic"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "ancestral_puebloan_kayenta"
+      ]
     },
     {
       "type": "marker",
@@ -993,7 +1482,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Keyhole Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · Heizer & Baumhoff Cl-125 · near Laughlin</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Canyon walls adorned with petroglyphs displaying geometric shapes and animal figures. Part of the concentration of rock art sites near the Colorado River corridor in the southern tip of Nevada. Nearby <b>Christmas Tree Pass</b> and <b>Grapevine Canyon</b> form a cluster of sites associated with Spirit Mountain (Avi Kwa Ame), the Mohave and Southern Paiute creation mountain.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Cl-125); BLM Lake Mead NRA</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "grapevine_canyon"
+      ]
     },
     {
       "type": "marker",
@@ -1010,7 +1511,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Christmas Tree Pass</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · Heizer & Baumhoff Cl-146 · Avi Kwa Ame National Monument</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A petroglyph concentration along the road through Christmas Tree Pass near Spirit Mountain. Boulders are decorated with pecked designs including animal figures and abstract patterns. Now within <b>Avi Kwa Ame National Monument</b> (designated 2023). The pass connects the Colorado River corridor to the interior desert, and rock art may have marked seasonal travel routes between river and mountain resource zones.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Cl-146); BLM</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1027,7 +1534,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Arrowhead Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Clark County, NV · Heizer & Baumhoff Cl-143 · near Moapa</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A group through which the ancient White River reached its confluence with the Muddy River near the Moapa River area. Arrowhead Canyon is a narrow gorge with vertical walls. The mouth of the canyon at the gorge just below the water at the springs are petroglyphs on a vertically-surfaced dark basalt boulder. Heizer & Baumhoff documented multiple petroglyph styles here.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Cl-143)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1044,7 +1557,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Dunphy Petroglyphs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Eureka County, NV · Heizer & Baumhoff Eu-1 · Humboldt River</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Humboldt River as it flows west from Elko County into Eureka County runs south through Palisade Canyon and then south again to bypass the Shoshone Range. As the river cuts past the Shoshone Range it is a mile past a half-north of the mountain slopes. The boulder is about 6 feet in height and stands to a height of about 3 feet. It is literally covered with pits. Western Shoshone territory along the critical Humboldt River corridor — the main emigrant route across the Great Basin.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Eu-1)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1061,7 +1586,23 @@
       "popup": "<h4 style=\"color:#FF7043\">Humboldt County Rock Ledge</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Humboldt County, NV · Heizer & Baumhoff Ha-5 · near Winnemucca</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Reported by cowboys who noticed that a rock ledge was covered with Indian designs. In this part of the country few people knew about this rock art, and they could find nothing about what had done it or what it meant. One of the more remote and less-documented sites in the Heizer & Baumhoff survey, representing Northern Paiute or Western Shoshone rock art traditions in the high desert of northern Nevada.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ha-5)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "historic_period"
+      ]
     },
     {
       "type": "marker",
@@ -1078,7 +1619,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Potts Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lander County, NV · Heizer & Baumhoff La-1</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A cave site in Lander County with petroglyphs. One of two documented sites in the county — the other being the much better known <b>Hickison Summit</b> (La-4). Together they demonstrate rock art placement along the mountain pass corridors used for seasonal game migration through central Nevada's basin-and-range topography.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (La-1)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1095,7 +1642,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Hiko Springs</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lincoln County, NV · Heizer & Baumhoff Li-1 · Steward 217</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph site near the desert springs at Hiko in Lincoln County. Springs in the Great Basin were critical water sources and natural gathering points — making them prime locations for rock art. Southern Paiute territory. Located in the same region as the <b>Pahranagat Valley</b> petroglyphs, which feature the distinctive headless rectangular anthropomorph style unique to this drainage.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Li-1); Steward 1929 (217)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": [
+        "pahranagat"
+      ]
     },
     {
       "type": "marker",
@@ -1112,7 +1671,21 @@
       "popup": "<h4 style=\"color:#FF7043\">Smith Valley</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Lyon County, NV · Heizer & Baumhoff Ly-2 · Walker River drainage</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph site in Smith Valley along the East Walker River corridor in western Nevada. The Walker River drainage was a critical waterway connecting Sierra Nevada snowpack to Walker Lake. Washo/Northern Paiute boundary zone. Part of the dense cluster of sites Heizer & Baumhoff documented along the <b>deer migration route</b> from the Sierra Nevada through the Pine Nut Mountains to the desert basins.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ly-2)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute",
+        "washoe"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute",
+        "washoe"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1129,7 +1702,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Whisky Flat</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mineral County, NV · Heizer & Baumhoff Mi-4 · near Hawthorne</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs along the deer migration route between Powell Canyon and Whisky Flat, about 15 miles south of Walker Lake. Mule deer in this fall migration move south in one large herd but come down finally in small bunches as they are driven by cold and snow from successively higher elevations. The alternate route goes south to Rattlesnake Well. The Garfield Flat petroglyphs (Mi-3) are connected by the same trail system — confirming that <b>rock art marks the seasonal deer trail network</b> across the Wassuk Range.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Mi-4)</div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1146,7 +1725,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Cottonwood Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mineral County, NV · Heizer & Baumhoff Mi-1 · Walker Lake</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyphs at Cottonwood Canyon, about three-quarters of a mile from Walker Lake. There are pecked petroglyphs on boulders. Part of the Walker Lake cluster of sites in Northern Paiute territory.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Mi-1)</div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1163,7 +1754,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Huntoon Valley</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mineral County, NV · Heizer & Baumhoff Mi-15</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph site in Huntoon Valley in the southern Mineral County desert. One of the more remote sites in the Heizer & Baumhoff survey, representing the southern extent of the Walker River drainage rock art complex.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Mi-15)</div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1180,7 +1777,21 @@
       "popup": "<h4 style=\"color:#FF7043\">Big George Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Nye County, NV · Heizer & Baumhoff Ny-28 · near Goldfield</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Big George Cave is in Paiute Mesa about 10 miles east of Goldfield. The cave was originally reported by S.M. Wheeler for the Clarke County Gypsum Cave project. The designs are in the style readable as petroglyphs as well as pictographs. Part of the scattered rock art sites in the remote desert ranges of central Nevada — Western Shoshone territory.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ny-28); Wheeler</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -1197,7 +1808,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Atomic Tanks</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Nye County, NV · Heizer & Baumhoff Ny-29 · near Goldfield</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">\"Painted Rocks\" are noted at the USGS Quadrangle at Atomic Tanks about 10 miles east of Goldfield. The glyphs shown in the text are taken from photographs by S.M. Wheeler of the Nevada State Museum. Part of the Goldfield-area rock art cluster in the remote desert of southern Nye County.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Ny-29)</div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -1214,7 +1831,23 @@
       "popup": "<h4 style=\"color:#FF7043\">Pole Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Pershing County, NV · Heizer & Baumhoff Pe-1</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph site in Pershing County, part of the northern Nevada rock art distribution. Pershing County sites are among the least documented in the Heizer & Baumhoff survey — a frontier zone between Northern Paiute and Western Shoshone territories in the rugged ranges north of the Humboldt River corridor.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Pe-1)</div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1231,7 +1864,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Star Peak Shelter</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Pershing County, NV · Heizer & Baumhoff Pe-6 · Star Peak Range</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A rock shelter with petroglyphs in the Star Peak area of Pershing County. Rock shelters were important seasonal camps in the Great Basin — providing protection from extreme weather during winter and summer temperature swings that could exceed 100°F between seasons.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Pe-6)</div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1248,7 +1887,13 @@
       "popup": "<h4 style=\"color:#FF7043\">Tunnel Cave</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Pershing County, NV · Heizer & Baumhoff Pe-14</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A cave site with petroglyphs in Pershing County. Cave and rock shelter sites in the Great Basin often served dual purposes — seasonal habitation and ceremonial/spiritual use. The presence of rock art in dark cave interiors suggests ritual significance beyond mere decoration.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Pe-14)</div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1265,7 +1910,23 @@
       "popup": "<h4 style=\"color:#FF7043\">Spanish Springs Valley</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Storey County, NV · Heizer & Baumhoff St-1 · Steward 201, 300</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph site in Spanish Springs Valley north of Reno. Steward documented this in 1929 with two separate reference numbers. This area — now suburban Reno sprawl — was once a Washo and Northern Paiute gathering area at the edge of the Truckee Meadows. The petroglyphs are on basalt boulders in the valley. Near the much larger <b>Lagomarsino Canyon</b> site to the south.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (St-1); Steward 1929 (201, 300)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "paiute",
+        "washoe"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute",
+        "washoe"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1282,7 +1943,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Court of Antiquity</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Washoe County, NV · Heizer & Baumhoff Wa-5</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A petroglyph site in the remote northwestern reaches of Washoe County, near the Oregon border. Part of the northernmost extent of the Great Basin rock art distribution documented by Heizer & Baumhoff. Northern Paiute territory — the bands in this region relied heavily on <b>cui-ui fish</b> from Pyramid Lake and <b>Lahontan cutthroat trout</b> from the Walker and Truckee river systems.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (Wa-5)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -1299,7 +1972,24 @@
       "popup": "<h4 style=\"color:#FF7043\">Tunnel Canyon</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">White Pine County, NV · Heizer & Baumhoff WP-1</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph site in a canyon in White Pine County — the easternmost Nevada county in the Heizer & Baumhoff survey. This area sits near the Utah border in Western Shoshone territory and represents the eastern extent of Great Basin rock art traditions before they grade into Fremont and Ancestral Puebloan cultural spheres.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (WP-1)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "ancestral_puebloan",
+        "fremont",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "ancestral_puebloan_kayenta",
+        "fremont_anthropomorph"
+      ]
     },
     {
       "type": "marker",
@@ -1316,7 +2006,17 @@
       "popup": "<h4 style=\"color:#FF7043\">Rocking Rock Shelter</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">White Pine County, NV · Heizer & Baumhoff WP-3</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A rock shelter with petroglyphs in White Pine County near the Great Basin–Colorado Plateau transition zone. Rock shelters in eastern Nevada often contain evidence of both Great Basin and Fremont cultural influences — a fascinating overlap zone where different rock art traditions coexisted.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (WP-3)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "fremont"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "fremont_anthropomorph"
+      ]
     },
     {
       "type": "marker",
@@ -1333,7 +2033,19 @@
       "popup": "<h4 style=\"color:#FF7043\">Cluckamung Creek</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">White Pine County, NV · Heizer & Baumhoff WP-5</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Petroglyph site at the head of Cluckamung Creek, six miles southwest of the Goshute Indian Agency at Deep Creek. The site is at the upper headwaters of Cluckamung Creek in the far southeastern corner of White Pine County — deep Goshute (Western Shoshone) territory near the Nevada-Utah border.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962 (WP-5)</div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "polygon",
@@ -1539,7 +2251,18 @@
       "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Lahontan</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~12,700 years ago · Sehoo Highstand · 8,500 sq mi · 500+ ft deep</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>second-largest pluvial lake in North America</b>, covering most of northwestern Nevada. Fed by the Truckee, Carson, Walker, and Humboldt Rivers carrying Sierra Nevada glacial meltwater. At its peak, the lake was 900 feet deep at Pyramid Lake basin and 500 feet deep at Black Rock Desert. Mammoths, giant ground sloths, camels, horses, and cheetahs roamed its shores. The <b>first humans arrived</b> along these shores ~15,000 years ago — the Winnemucca Lake petroglyphs (14,800 years old) were carved on rocks at the lake's edge. As the climate warmed, the lake broke apart by ~9,000 years ago into remnants: <b>Pyramid Lake</b> (never dried), <b>Walker Lake</b>, and dry playas (Black Rock Desert, Carson Sink, Humboldt Sink). The <b>cui-ui fish</b> and <b>Lahontan cutthroat trout</b> are living relics of this ancient lake.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Reheis 1999; Benson et al. 2013</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1625,7 +2348,24 @@
       "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Manly</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Death Valley, CA · ~80 mi long · 600 ft deep at peak</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A freshwater lake that filled <b>Death Valley</b> — now the lowest, hottest, driest place in North America. At its greatest extent (Blackwelder stand, ~185,000–128,000 years ago), it was 80 miles long and 600 feet deep. A smaller but significant lake existed 35,000–10,000 years ago. Fed by overflow from the Owens River chain (Owens Lake → China Lake → Searles Lake → Panamint Lake → Death Valley) and the Amargosa River. The <b>Timbisha Shoshone</b> have lived in Death Valley for over 1,000 years. Today only Badwater Basin (282 ft below sea level) remains — the lowest point in North America — sitting atop one of the world's largest underground aquifers.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NPS Death Valley; Wikipedia</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "shoshone",
+        "timbisha_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "timbisha_shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1747,7 +2487,18 @@
       "popup": "<h4 style=\"color:#42A5F5\">Lake Corcoran — California's Inland Sea</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">~758,000–665,000 years ago · Size of Lake Michigan · 30,000+ sq mi</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">An enormous freshwater lake covering <b>most or all of California's Central Valley</b> — potentially the size of Lake Michigan. Generally shallow (~7 ft average, up to 30 ft deep). Formed when tectonic uplift of the Coast Ranges isolated the valley from the Pacific. Originally drained south into Monterey Bay via the Salinas River.<br><br><b>~600,000 years ago</b>, rising waters catastrophically breached the Coast Ranges, carving the <b>Carquinez Strait</b> 100+ feet deep — literally creating San Francisco Bay and draining the inland sea. Left behind three remnant lakes: <b>Tulare, Buena Vista, and Kern</b>.<br><br>Wildlife: mammoths, camels, dire wolves, giant sloths, short-faced bears, early horses. The Corcoran Clay (50–120 ft thick) left behind is the foundation of the Central Valley's extraordinary agricultural fertility.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Frink & Kues 1954; USGS Professional Papers; KVPR Central Valley Roots 2024</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1825,7 +2576,18 @@
       "popup": "<h4 style=\"color:#4FC3F7\">🌊 Tulare Lake — Pa'ashi (\"Big Water\")</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Largest freshwater lake west of the Mississippi (by surface area) · Up to 690 sq mi · 46 ft deep</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Yokuts called it <b>Pa'ashi</b> — \"Big Water.\" At its peak in 1852, this lake was <b>100 miles long and 30 miles wide</b>, fed by the Kings, Kaweah, Tule, and Kern Rivers. When water exceeded 207 ft elevation, it overflowed north through Summit Lake and Fresno Slough to the San Joaquin River, reaching the Pacific.<br><br>Supported <b>possibly the largest population of Native Americans north of Mexico</b>. Three Yokuts nations lived here at European contact: the <b>Tachi</b> (north/west), <b>Chunut</b> (northeast), and <b>Wowol</b> (southeast). Atwell's Island (modern Alpaugh) was inhabited into the 1870s.<br><br><b>Engineered out of existence</b> by the early 1900s — rivers dammed, flows diverted for agriculture. Last natural overflow to the San Joaquin: 1878. The lake dramatically <b>reappeared in 2023</b> when atmospheric rivers produced 400% snowpack.<br><br>Pedro Fages wrote in 1773: <i>\"It is all a labyrinth of lakes and tulares.\"</i></div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Latta 1949; NASA Earth Observatory 2023; Wikipedia</div>",
       "popupOptions": {
         "maxWidth": 440
-      }
+      },
+      "timePeriods": [
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1883,7 +2645,17 @@
       "popup": "<h4 style=\"color:#4FC3F7\">🌊 Buena Vista Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Southern San Joaquin Valley · Up to 100 sq mi with Kern Lake · Fed by Kern River</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Home to the <b>Tulamniu</b> (Buena Vista Yokuts) — California Historical Landmark #374. Spanish Commander Fages recorded the site in 1772. Fr. Zalvidea documented 218 residents in a Tulamni village in 1806.<br><br>In wet years, joined with Kern Lake to the east and overflowed northwest into Tulare Lake via Buena Vista Slough. <b>Near-extinction site of the Tule Elk</b> — by 1874 only a single breeding pair remained, discovered in the tules here. Henry Miller saved the species.<br><br>Drained by Kern River diversions; Lake Isabella Dam (1953) sealed its fate. The dry lakebed became oil country — the 1910 Lakeview Gusher was the largest accidental spill in history (9 million barrels). Today only tiny Lake Webb and Lake Evans (1973) remain.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: CaliforniaPrehistory.com; Kroeber 1925; Latta 1978</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1946,7 +2718,18 @@
         "weight": 1.5,
         "opacity": 0.5
       },
-      "popup": "<h4 style=\"color:#29B6F6\">🌊 Lake Panamint (Lake Gale)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Panamint Valley · ~270 sq mi · Two basins · 105 cubic km</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A large Pleistocene lake in Panamint Valley with two basins: the northern <b>Lake Hill basin</b> and the southern <b>Ballarat basin</b>. The Gale shoreline at 580–610m is the most prominent.<br><br>Wildlife: freshwater snails, charophytes, widgeonweeds, suckers, Western chubs. California voles used the rivers to propagate across the desert.<br><br>Overflow from Lake Panamint was the principal source of water for <b>Lake Manly</b> in Death Valley — but this only occurred during the wettest periods. The last overflow into Death Valley was ~30,000 years ago.<br><br>Today: two dry playas (North and South Panamint Playa).</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Wikipedia \"Lake Panamint\"; Smith 1978; Jayko et al. 2008</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">🌊 Lake Panamint (Lake Gale)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Panamint Valley · ~270 sq mi · Two basins · 105 cubic km</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A large Pleistocene lake in Panamint Valley with two basins: the northern <b>Lake Hill basin</b> and the southern <b>Ballarat basin</b>. The Gale shoreline at 580–610m is the most prominent.<br><br>Wildlife: freshwater snails, charophytes, widgeonweeds, suckers, Western chubs. California voles used the rivers to propagate across the desert.<br><br>Overflow from Lake Panamint was the principal source of water for <b>Lake Manly</b> in Death Valley — but this only occurred during the wettest periods. The last overflow into Death Valley was ~30,000 years ago.<br><br>Today: two dry playas (North and South Panamint Playa).</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Wikipedia \"Lake Panamint\"; Smith 1978; Jayko et al. 2008</div>",
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -2072,7 +2855,22 @@
       "popup": "<h4 style=\"color:#EF5350\">🔴 Western Numic Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Paiute (Numu) & Owens Valley Paiute · Uto-Aztecan > Numic</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Northern Paiute</b> (Numu, \"The People\") occupied western Nevada, eastern California, and southeastern Oregon. They called themselves by band names based on their primary food source — the <b>Kuyuidokado</b> (\"cui-ui eaters\") at Pyramid Lake, the <b>Toidokado</b> (\"cattail eaters\") at Stillwater Marsh, the <b>Agai Dicutta</b> (\"trout eaters\") at Walker Lake. The <b>Owens Valley Paiute</b> (Eastern Mono) in Owens Valley were unusual among Great Basin peoples in having relatively permanent band territories and practicing irrigation of wild seed plots. Western Numic is one of three branches of the Numic language family. These peoples spread across the Great Basin from southeastern California beginning ~1,000 CE, replacing or absorbing earlier populations. Famous Northern Paiute include <b>Sarah Winnemucca</b> (author, activist) and <b>Wovoka</b> (founder of the Ghost Dance).</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "northern_paiute",
+        "numic",
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -2226,7 +3024,22 @@
       "popup": "<h4 style=\"color:#FFA726\">🟠 Central Numic Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Western Shoshone (Newe), Timbisha, Panamint, Comanche · Uto-Aztecan > Numic</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Western Shoshone</b> (Newe, \"The People\") occupied central and eastern Nevada, the Death Valley region, and parts of Idaho. Their territory was the largest of any Great Basin people. The <b>Timbisha Shoshone</b> (Koso, Panamint) lived in Death Valley — one of the harshest environments on Earth — for over 1,000 years. Remarkable: the <b>Comanche</b> split off from the Shoshone around 1700 CE and migrated to the southern Plains, becoming one of the most powerful equestrian cultures in North America. Central Numic languages form the middle branch of the Numic language family. The Western Shoshone have been involved in some of the longest-running land rights cases in U.S. history, asserting that the Treaty of Ruby Valley (1863) never ceded their territory.</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "numic",
+        "shoshone",
+        "timbisha_shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "timbisha_shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -2332,7 +3145,24 @@
       "popup": "<h4 style=\"color:#66BB6A\">🟢 Southern Numic Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Southern Paiute (Nuwuvi), Chemehuevi, Ute, Kawaiisu · Uto-Aztecan > Numic</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Southern Paiute</b> (Nuwuvi, \"The People\") occupied southern Nevada, southern Utah, northwestern Arizona, and southeastern California. The <b>Chemehuevi</b> are the westernmost Southern Paiute band, living along the Colorado River. The <b>Ute</b> (Nuche) occupied Utah (named for them) and western Colorado — some bands adopted horses and a Plains-style culture. The <b>Kawaiisu</b> lived in the southern Sierra Nevada and Tehachapi Mountains. Southern Numic languages form the southern branch of the Numic family. The Southern Paiute revere <b>Avi Kwa Ame</b> (Spirit Mountain, near Laughlin) as their place of creation — now a National Monument. The Spanish Trail (Santa Fe to Los Angeles) cut through their territory, bringing devastating slave raids.</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "chemehuevi",
+        "numic",
+        "paiute",
+        "southern_paiute",
+        "ute"
+      ],
+      "tribes": [
+        "chemehuevi",
+        "paiute",
+        "southern_paiute",
+        "ute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -2418,7 +3248,19 @@
       "popup": "<h4 style=\"color:#CE93D8\">🟣 Washoe (Washshiw) Territory</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Hokan language isolate · NOT Numic · 6,000–9,000+ years in place</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Washoe</b> (Washshiw, \"People from Here\") are the <b>only Great Basin tribe that does not speak a Numic language</b>. Their Hokan-related language is a linguistic isolate, suggesting they have been in place for thousands of years longer than their Numic-speaking neighbors. Their world centers on <b>Da ow aga</b> (Lake Tahoe) — \"Tahoe\" is a mispronunciation of their word <b>Da ow</b> meaning \"the lake.\" Territory bounded by Honey Lake (north), Sonora Pass (south), Sierra Nevada crest (west), Pine Nut and Virginia Ranges (east). Three bands: <b>Welmelti</b> (Northern), <b>Paw La Lu</b> (Carson Valley), <b>Hung a let ti</b> (Southern). Sacred site: <b>Cave Rock</b> (De ek wadapush). The Washoe represent a <b>pre-Numic population layer</b> — possibly descendants of the same Hokan-speaking peoples who once occupied much of the Great Basin before the Numic expansion ~1,000 years ago. Famous basket weaver <b>Dat So La Lee</b> created works now valued at over $1 million.</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "numic",
+        "washoe"
+      ],
+      "tribes": [
+        "washoe"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -2492,7 +3334,18 @@
       "popup": "<h4 style=\"color:#42A5F5\">🌊 Pluvial Lake Alvord</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Alvord Basin, SE Oregon · Pleistocene · ~30 mi long · Fed by Steens Mountain glaciers</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">During the Pleistocene, the Alvord Basin was filled by a large pluvial lake fed by glacial meltwater from <b>Steens Mountain</b> — the highest point in southeastern Oregon at 9,738 ft. The lake occupied the basin between Steens Mountain to the west and the Trout Creek Mountains to the east. Ancient shoreline terraces and beach ridges are still visible on the basin margins.<br><br>As the climate warmed after ~10,000 years ago, the lake dried to the <b>Alvord Desert</b> — a vast white alkali playa. Only spring-fed marshes like <b>Tule Springs</b> and a few perennial streams (Wildhorse Creek, Pike Creek) survived as water sources, becoming critical habitation points for Great Basin peoples during the late Holocene.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Reheis 1999; USGS; Wilde 1989; Mehringer & Wigand 1985</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2532,7 +3385,21 @@
       "popup": "<h4 style=\"color:#FF7043\">🛤️ Coso Obsidian Trade Route</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Coso obsidian — from volcanic sources at the southern end of the Coso Range — was one of the most widely traded materials in pre-contact California. It has been found in archaeological sites across the state, from coastal Chumash settlements to Bay Area shellmounds. This route traces the primary northward corridor through the Owens Valley, connecting Coso obsidian quarries to the Volcanic Tablelands petroglyph sites near Bishop and onward to trans-Sierra trade networks. The rock art along this corridor may have served as territorial markers, ritual sites, or guides for traders.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Heizer & Baumhoff 1962; Hughes 1986; Garfinkel 2007</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "chumash",
+        "coso_tradition"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "coso_tradition"
+      ]
     },
     {
       "type": "polyline",
@@ -2561,7 +3428,11 @@
         "weight": 2,
         "opacity": 0.5
       },
-      "popup": "<h4 style=\"color:#4FC3F7\">Goose Lake & Buena Vista Slough</h4><div style=\"font-size:12px;color:#ccc\">Marshy waterway connecting the Kern/Buena Vista Lake system northward to Tulare Lake through tule marshlands. In wet years, overflow traveled this path.</div>"
+      "popup": "<h4 style=\"color:#4FC3F7\">Goose Lake & Buena Vista Slough</h4><div style=\"font-size:12px;color:#ccc\">Marshy waterway connecting the Kern/Buena Vista Lake system northward to Tulare Lake through tule marshlands. In wet years, overflow traveled this path.</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2598,7 +3469,13 @@
         "weight": 2.5,
         "opacity": 0.5
       },
-      "popup": "<h4 style=\"color:#4FC3F7\">Fresno Slough — Tulare Lake Overflow</h4><div style=\"font-size:12px;color:#ccc\">When Tulare Lake exceeded 207 ft elevation, water overflowed north through <b>Summit Lake</b> (SW of Riverdale) then via <b>Fresno Slough</b> to the San Joaquin River — reaching the Delta and eventually the Pacific. Last overflow: <b>1878</b>. This happened 19 of 29 years from 1850 to 1878.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Latta records; Wikipedia \"Fresno Slough\"</div>"
+      "popup": "<h4 style=\"color:#4FC3F7\">Fresno Slough — Tulare Lake Overflow</h4><div style=\"font-size:12px;color:#ccc\">When Tulare Lake exceeded 207 ft elevation, water overflowed north through <b>Summit Lake</b> (SW of Riverdale) then via <b>Fresno Slough</b> to the San Joaquin River — reaching the Delta and eventually the Pacific. Last overflow: <b>1878</b>. This happened 19 of 29 years from 1850 to 1878.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Latta records; Wikipedia \"Fresno Slough\"</div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2629,7 +3506,13 @@
           -117.95
         ]
       ],
-      "popup": "<h4 style=\"color:#29B6F6\">Owens River Cascade — Northern Reach</h4><div style=\"font-size:12px;color:#ccc\">During the Pleistocene, <b>Lake Russell</b> (Mono Lake) overflowed southward through the <b>Adobe Hills spillway</b> into the Owens Valley, feeding <b>Owens Lake</b>. This connection linked the northern Sierra Nevada glacial melt to the entire chain of lakes stretching to Death Valley. The drainage direction reversed over time — in the early Pleistocene, Lake Russell drained northeast into the Walker Lake system.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: USGS; Reheis 2008</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">Owens River Cascade — Northern Reach</h4><div style=\"font-size:12px;color:#ccc\">During the Pleistocene, <b>Lake Russell</b> (Mono Lake) overflowed southward through the <b>Adobe Hills spillway</b> into the Owens Valley, feeding <b>Owens Lake</b>. This connection linked the northern Sierra Nevada glacial melt to the entire chain of lakes stretching to Death Valley. The drainage direction reversed over time — in the early Pleistocene, Lake Russell drained northeast into the Walker Lake system.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: USGS; Reheis 2008</div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2656,7 +3539,11 @@
           -117.69
         ]
       ],
-      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Owens Lake → China Lake</h4><div style=\"font-size:12px;color:#ccc\">When Owens Lake filled to its spillway, it overflowed south through <b>Rose Valley</b> into China Lake basin in Indian Wells Valley. This overflow carried Sierra Nevada waters deep into the Mojave Desert.</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Owens Lake → China Lake</h4><div style=\"font-size:12px;color:#ccc\">When Owens Lake filled to its spillway, it overflowed south through <b>Rose Valley</b> into China Lake basin in Indian Wells Valley. This overflow carried Sierra Nevada waters deep into the Mojave Desert.</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2675,7 +3562,11 @@
           -117.34
         ]
       ],
-      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: China Lake → Searles Lake</h4><div style=\"font-size:12px;color:#ccc\">China Lake's shallow basin (only ~13m deep) filled quickly and overflowed into the much deeper Searles Lake basin. Searles was often the terminal basin — accumulating dissolved minerals that formed trona, borax, and halite deposits mined for decades.</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: China Lake → Searles Lake</h4><div style=\"font-size:12px;color:#ccc\">China Lake's shallow basin (only ~13m deep) filled quickly and overflowed into the much deeper Searles Lake basin. Searles was often the terminal basin — accumulating dissolved minerals that formed trona, borax, and halite deposits mined for decades.</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2700,7 +3591,11 @@
         "opacity": 0.6,
         "dashArray": "10,8"
       },
-      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Searles → Panamint Valley</h4><div style=\"font-size:12px;color:#ccc\">During exceptionally wet periods, Searles Lake overflowed into Panamint Valley. The famous <b>Trona Pinnacles</b> — 500+ tufa spires up to 140 ft tall — formed in Searles Lake during these wet periods.</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Searles → Panamint Valley</h4><div style=\"font-size:12px;color:#ccc\">During exceptionally wet periods, Searles Lake overflowed into Panamint Valley. The famous <b>Trona Pinnacles</b> — 500+ tufa spires up to 140 ft tall — formed in Searles Lake during these wet periods.</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2725,7 +3620,18 @@
         "opacity": 0.6,
         "dashArray": "10,8"
       },
-      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Panamint → Death Valley (Lake Manly)</h4><div style=\"font-size:12px;color:#ccc\">Overflow from Lake Panamint entered Death Valley via <b>Wingate Pass</b> (602m elevation). This occurred 4 times between 700,000–350,000 years ago, then again ~150,000, 120,000, 24,000, and 10,000 years ago. During these events, <b>Lake Manly</b> filled Death Valley to depths of 600+ feet.</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Panamint → Death Valley (Lake Manly)</h4><div style=\"font-size:12px;color:#ccc\">Overflow from Lake Panamint entered Death Valley via <b>Wingate Pass</b> (602m elevation). This occurred 4 times between 700,000–350,000 years ago, then again ~150,000, 120,000, 24,000, and 10,000 years ago. During these events, <b>Lake Manly</b> filled Death Valley to depths of 600+ feet.</div>",
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2801,7 +3707,18 @@
       "popup": "<h4 style=\"color:#EF5350\">💧 Los Angeles Aqueduct (1913)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">233 miles · Gravity-fed · Drained Owens Lake in 13 years</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">Built by <b>William Mulholland</b> using land and water rights acquired through deception. 2,000+ workers dug 164 tunnels. Completed 1913 — Mulholland's famous words: <b>\"There it is. Take it.\"</b><br><br>The Nüümü (Paiute) had irrigated Payahuunadü for <b>400+ years before European contact</b>. The aqueduct destroyed their economy and way of life. By 1924, Owens Lake was dry and 50 miles of the Owens River were gone. Farmers dynamited the aqueduct 17 times. By the 1930s, LA owned 95% of all valley farmland.<br><br>Today: Owens Lake is the <b>largest single source of dust pollution in the US</b>. Dust control has cost LA ratepayers $2.5 billion.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Sierra Club; KQED; Heal the Bay; Haverstock et al. 2022</div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "paiute"
+      ],
+      "tribes": [
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2830,7 +3747,11 @@
         "weight": 2,
         "opacity": 0.5
       },
-      "popup": "<h4 style=\"color:#EF5350\">💧 Mono Basin Extension (1941)</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In 1941, LA extended the aqueduct north to divert Rush Creek, Lee Vining Creek, Walker Creek, and Parker Creek — streams feeding <b>Mono Lake</b>. The lake dropped dramatically, exposing 14,700 acres of lakebed and creating a land bridge threatening island bird rookeries.<br><br>The <b>Mono Lake Committee</b> won a landmark legal battle (1994), forcing LA to partially restore flows. As of October 2025, the lake is at 6,382 ft — still <b>9.6 ft below the mandated target</b>.</div>"
+      "popup": "<h4 style=\"color:#EF5350\">💧 Mono Basin Extension (1941)</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In 1941, LA extended the aqueduct north to divert Rush Creek, Lee Vining Creek, Walker Creek, and Parker Creek — streams feeding <b>Mono Lake</b>. The lake dropped dramatically, exposing 14,700 acres of lakebed and creating a land bridge threatening island bird rookeries.<br><br>The <b>Mono Lake Committee</b> won a landmark legal battle (1994), forcing LA to partially restore flows. As of October 2025, the lake is at 6,382 ft — still <b>9.6 ft below the mandated target</b>.</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -2871,7 +3792,17 @@
         "weight": 1.5,
         "opacity": 0.3
       },
-      "popup": "<h4 style=\"color:#4FC3F7\">👻 Amargosa River — The Underground Ghost</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A river that flowed from volcanic highlands near Beatty, Nevada, during the Pleistocene — crossing into California and feeding Death Valley lakes. <b>Still flows today, mostly underground.</b> Appears above ground only during heavy precipitation. A water source for desert peoples along its course for millennia.</div>"
+      "popup": "<h4 style=\"color:#4FC3F7\">👻 Amargosa River — The Underground Ghost</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A river that flowed from volcanic highlands near Beatty, Nevada, during the Pleistocene — crossing into California and feeding Death Valley lakes. <b>Still flows today, mostly underground.</b> Appears above ground only during heavy precipitation. A water source for desert peoples along its course for millennia.</div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [
+        "lenape"
+      ],
+      "tribes": [
+        "lenape"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -2892,7 +3823,13 @@
       "popup": "<h4 style=\"color:#42A5F5\">🌊 Pluvial Lake (Tonopah Basin)</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of many smaller pluvial lakes that dotted central Nevada during the Pleistocene. The Great Basin contained dozens of lakes in closed basins — each mountain range channeled snowmelt into the valley below, creating chains of lakes that sometimes overflowed into each other during wet periods.</div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -2913,7 +3850,13 @@
       "popup": "<h4 style=\"color:#42A5F5\">🌊 Lake Russell (Ancient Mono Lake)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Mono Basin, CA · Pleistocene highstand</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">The expanded Pleistocene version of <b>Mono Lake</b>, named after geologist Israel Russell who studied it alongside Lake Lahontan. During the last glacial period, Lake Russell was much larger than today's Mono Lake, filling the basin to higher shoreline terraces still visible. Fed by glacial meltwater from the eastern Sierra Nevada. The modern lake's famous <b>tufa towers</b> were formed when calcium-rich springs met the alkaline lake water.</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -2934,7 +3877,22 @@
       "popup": "<h4 style=\"color:#42A5F5\">🌊 Owens Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Inyo County, CA · Full during Pleistocene · Dried 1926 by LA Aqueduct</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A key link in the <b>Owens River chain</b> that connected Sierra Nevada glaciers to Death Valley. During the Pleistocene, Owens Lake overflowed south into China Lake, then Searles Lake, then Panamint Lake, and finally into Lake Manly in Death Valley. The Owens Valley Paiute depended on this lake for millennia. In 1913, the Los Angeles Aqueduct diverted the Owens River, and by 1926 the lake was completely dry — one of California's greatest environmental catastrophes. The dry lakebed became the largest single source of dust pollution in the US.</div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "historic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "lenape",
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "lenape",
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -2955,7 +3913,24 @@
       "popup": "<h4 style=\"color:#42A5F5\">🌊 Tule Springs Wetlands</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Las Vegas Valley · Pleistocene marshland · Tule Springs Fossil Beds NM</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">During the Ice Age, the Las Vegas Valley was a lush marshland fed by springs, with juniper woodlands replacing today's creosote desert. At <b>Tule Springs</b> (now a National Monument), mammoth, horse, camel, and giant ground sloth fossils have been found alongside evidence of human presence ~10,000 years ago. The area was a critical oasis on the landscape — a pattern that continued into historic times as Southern Paiute peoples utilized the springs that gave Las Vegas (\"The Meadows\") its name.</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "tribes": [
+        "paiute",
+        "southern_paiute"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -2973,7 +3948,15 @@
         "fillOpacity": 0.22,
         "radius": 8000
       },
-      "popup": "<h4 style=\"color:#4FC3F7\">🌊 Kern Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">East of Buena Vista Lake · Fed by Kern River primary channel</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A smaller lake east of Buena Vista Lake, fed by the Kern River's primary channel (which flowed south through swamps via what became Union Avenue in Bakersfield). Home to the <b>Hometwoli (Humetwadi)</b> Yokuts, with villages Halau, Loasau, and Sihetal Daal. Connected to Buena Vista Lake by a channel. An 1861 flood obstructed the primary channel, and the 1868 flood shifted the Kern River to its present course.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Latta 1978; SERC Kern River vignette</div>"
+      "popup": "<h4 style=\"color:#4FC3F7\">🌊 Kern Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">East of Buena Vista Lake · Fed by Kern River primary channel</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A smaller lake east of Buena Vista Lake, fed by the Kern River's primary channel (which flowed south through swamps via what became Union Avenue in Bakersfield). Home to the <b>Hometwoli (Humetwadi)</b> Yokuts, with villages Halau, Loasau, and Sihetal Daal. Connected to Buena Vista Lake by a channel. An 1861 flood obstructed the primary channel, and the 1868 flood shifted the Kern River to its present course.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Latta 1978; SERC Kern River vignette</div>",
+      "timePeriods": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -2991,7 +3974,18 @@
         "opacity": 0.5,
         "radius": 12000
       },
-      "popup": "<h4 style=\"color:#29B6F6\">🌊 China Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Indian Wells Valley · ~13m deep · Key link in Owens cascade</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">An intermediate basin that filled when Owens Lake overflowed south through Rose Valley. Its relatively shallow depth (~13m) meant water levels responded quickly to climate changes — making it an excellent paleoclimate record.<br><br>One of the <b>most extensive records of early human occupation</b> in the western Great Basin. Widespread human use began during the <b>Younger Dryas</b> (~12,900–11,600 years ago). Groundwater-fed wetlands persisted through the early Holocene.<br><br>Today: dry lakebed, site of Naval Air Weapons Station China Lake.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: USGS core studies; ScienceDirect paleohydrology</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">🌊 China Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Indian Wells Valley · ~13m deep · Key link in Owens cascade</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">An intermediate basin that filled when Owens Lake overflowed south through Rose Valley. Its relatively shallow depth (~13m) meant water levels responded quickly to climate changes — making it an excellent paleoclimate record.<br><br>One of the <b>most extensive records of early human occupation</b> in the western Great Basin. Widespread human use began during the <b>Younger Dryas</b> (~12,900–11,600 years ago). Groundwater-fed wetlands persisted through the early Holocene.<br><br>Today: dry lakebed, site of Naval Air Weapons Station China Lake.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: USGS core studies; ScienceDirect paleohydrology</div>",
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -3009,7 +4003,13 @@
         "opacity": 0.5,
         "radius": 15000
       },
-      "popup": "<h4 style=\"color:#29B6F6\">🌊 Searles Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">San Bernardino County · Up to 640 ft of water · Trona Pinnacles</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A major basin in the Owens River cascade that was often the <b>terminal lake</b> — accumulating dissolved minerals when overflow didn't reach Panamint Valley. At one point, the basin was under <b>640 feet of water</b>.<br><br>The <b>Trona Pinnacles</b> — 500+ tufa spires up to 140 feet tall — formed 10,000–100,000 years ago when the basin was submerged. Designated a <b>National Natural Landmark</b> in 1968. Rich deposits of trona (for glass), borax (for detergent), and halite have been mined for decades.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: BLM; USGS</div>"
+      "popup": "<h4 style=\"color:#29B6F6\">🌊 Searles Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">San Bernardino County · Up to 640 ft of water · Trona Pinnacles</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A major basin in the Owens River cascade that was often the <b>terminal lake</b> — accumulating dissolved minerals when overflow didn't reach Panamint Valley. At one point, the basin was under <b>640 feet of water</b>.<br><br>The <b>Trona Pinnacles</b> — 500+ tufa spires up to 140 feet tall — formed 10,000–100,000 years ago when the basin was submerged. Designated a <b>National Natural Landmark</b> in 1968. Rich deposits of trona (for glass), borax (for detergent), and halite have been mined for decades.</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: BLM; USGS</div>",
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -3030,7 +4030,11 @@
       "popup": "<h4 style=\"color:#4FC3F7\">🌿 Tule Springs Marsh</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Alvord Basin, Harney County, OR · ~100 × 500 m · Spring-fed</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A spring-fed desert marsh in the eastern Alvord Basin supporting cattail, bulrush, sedges, and other marsh species. Small seep springs along stabilized dunes to the north suggest minor faulting allowed groundwater emergence. Wada (<i>Suaeda</i> spp.) grows in saline soil around the marsh edge. This oasis in the dry Alvord Desert became a <b>magnet for human habitation</b> during drier climatic episodes of the past 2,000 years — one of the few reliable water sources on the valley floor east of Steens Mountain.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Wilde 1989; Mehringer & Wigand 1985</div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -3046,7 +4050,11 @@
         "weight": 1,
         "radius": 5
       },
-      "popup": "<h4 style=\"color:#4FC3F7\">Summit Lake</h4><div style=\"font-size:12px;color:#ccc\">Small lake SW of Riverdale that served as the overflow gateway between Tulare Lake and the San Joaquin River system. Now gone.</div>"
+      "popup": "<h4 style=\"color:#4FC3F7\">Summit Lake</h4><div style=\"font-size:12px;color:#ccc\">Small lake SW of Riverdale that served as the overflow gateway between Tulare Lake and the San Joaquin River system. Now gone.</div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -3066,7 +4074,23 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B0BEC5\">⬢ Tule Springs Hearth Site (35Ha406)</h3>\n    <p><b>Site number:</b> 35Ha406</p>\n    <p><b>Date:</b> ~1,800–600 years ago (Rosegate period) with limited later use</p>\n    <p><b>Culture:</b> Late prehistoric Great Basin peoples; historically <b>Burns Northern Paiute</b> gathering area</p>\n    <p><b>Location:</b> Eastern Alvord Basin, Pueblo Valley, east side of Steens Mountain, Harney County, Oregon. ~90 miles SE of Burns. Elevation ~4,100 ft. (42.38°N, 118.58°W)</p>\n    <p><b>Discovery & excavation:</b> Excavated early summer 1980 by the <b>Steens Mountain Prehistory Project</b>, directed by C. Melvin Aikens (University of Oregon), with James D. Wilde as field supervisor. Field school students from the universities of Oregon, Washington, and Washington State University participated.</p>\n    <p><b>The site:</b> Named for a large charcoal hearth exposed by wheeled traffic on a narrow desert road. The hearth — a roughly circular distribution of charcoal and dark, greasy sand, ~1.5–2 sq meters — sat in a low swale between stabilized spring dunes formed of pluvial lake sediments. The site spans approximately 100 × 60 meters (~6,000 sq meters) on the valley floor, about 500 m north of Tule Springs marsh.</p>\n    <p><b>Stratigraphy:</b> A single cultural component (Stratum C, 6–15 cm depth) resting on an older weathered soil horizon (Stratum D). Wind deflation had stripped artifacts onto surfaces flanking the dune, while the dune itself preserved buried deposits. Sterile sediments below contained a volcanic ash layer at 241 cm depth. Rodent burrows displaced some artifacts downward but did not create false components.</p>\n    <p><b>Artifacts (13,244 total):</b> 706 use-worn tools dominated by cutting implements — 57% low-angle (0–30°) cutting edges for meat and hides, 27% medium-angle (31–60°) for wood and fiber, 8% high-angle (61–90°) scraper-type for heavy cutting and hide working. Also: 26 grinding stones (seed/plant processing), 18 crushed-wear cobbles (pounding/crushing), and one ceramic spool or spindle whorl. 17 projectile points: <b>8 Rosegate</b> (corner-notched, dominant type), <b>2 Elko Eared</b> (earlier Archaic), <b>1 Cottonwood Triangular</b> (latest prehistoric), and <b>1 crescent</b> (distinctive Great Basin tool form). Over 80% of debitage was local chert, but most modified tools were obsidian — cores were reduced at quarry sites on the escarpment rim to the east, with only refined flakes brought back to camp.</p>\n    <p><b>Activity areas:</b> Several distinct concentrations within the deflated surface scatter: a dense western scatter with grinding stones and fire-cracked rock (plant processing camp), a northeastern scatter (limited-use area, no grinding stones), and a southeastern scatter dominated by sharp-edged cutting tools. Low rates of tool re-use suggest raw material abundance from nearby chert outcrops.</p>\n    <p><b>Marsh environment:</b> Tule Springs marsh (~100 × 500 m) supported abundant cattail (<i>Typha latifolia</i>), bulrush (<i>Scirpus</i> spp.), and sedges (<i>Juncus</i> spp.). Surrounding dunes stabilized by greasewood, saltgrass, rabbitbrush, and sagebrush. Seep springs lined with wild rose, buckberry (<i>Shepherdia argentea</i>), and Great Basin wild rye (<i>Elymus cinereus</i>) — nearly all ethnobotanically important species.</p>\n    <p><b>Burns Northern Paiute connection:</b> Paiute women reported traveling with their families over Steens Mountain to the Tule Springs area to collect buckberry, rye, bulrush, and other plant species (Couture et al. 1986). Procurement of lithic raw material, animals, chokecherry, and other resources was embedded in this seasonal trek to and from the Alvord Basin.</p>\n    <p><b>Climate & settlement pattern:</b> The site dates to <b>Period 6A</b> in the Steens Mountain regional chronology — a drier, warmer climatic episode beginning ~1,800 years ago. During this interval, springs and desert marshes in the Alvord Basin became <b>settlement magnets for the first time</b>. The broader pattern shows increased dispersion and mobility: many small, short-term camps rather than large permanent settlements. The Hearth site likely represents several instances of intensive short-term camping during a relatively narrow span of time, by a highly mobile population tethered to water sources but not tied to specific places.</p>\n    <p><b>Significance:</b> Demonstrates how desert marsh resources drew repeated occupation during arid climatic episodes. The single-component stratigraphy allowed deflated surface scatters to be tied to the buried occupation, revealing activity areas otherwise invisible in Great Basin archaeology. One of the key sites establishing the late prehistoric settlement pattern for the Steens Mountain region.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Sources:</b> Wilde, James D. 1989. \"Interpreting Late Prehistoric Use of a Desert Marsh: The Tule Springs Hearth Site, Alvord Basin, Southeastern Oregon.\" <i>Journal of California and Great Basin Anthropology</i> 11(2):215–230; Beck 1984; Couture et al. 1986; Wilde 1985; Aikens et al. 1982; Mehringer & Wigand 1985</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "ancestral_puebloan",
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

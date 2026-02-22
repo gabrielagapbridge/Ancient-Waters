@@ -6,9 +6,42 @@
       "type": "polygon",
       "layer": "klamathVillages",
       "geometry": [
-        [41.85, -123.70],[41.90, -123.40],[41.85, -123.10],
-        [41.70, -122.90],[41.50, -123.00],[41.40, -123.20],
-        [41.45, -123.40],[41.55, -123.55],[41.70, -123.70]
+        [
+          41.85,
+          -123.7
+        ],
+        [
+          41.9,
+          -123.4
+        ],
+        [
+          41.85,
+          -123.1
+        ],
+        [
+          41.7,
+          -122.9
+        ],
+        [
+          41.5,
+          -123.0
+        ],
+        [
+          41.4,
+          -123.2
+        ],
+        [
+          41.45,
+          -123.4
+        ],
+        [
+          41.55,
+          -123.55
+        ],
+        [
+          41.7,
+          -123.7
+        ]
       ],
       "style": {
         "color": "#B8860B",
@@ -19,21 +52,73 @@
         "pane": "klamathBackgroundPane",
         "interactive": false
       },
-      "options": {"interactive": false}
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.65, "lng": -123.35},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 12px Georgia,serif;color:#B8860B;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">K A R U K</div>", "iconSize": [160, 30], "iconAnchor": [80, 15]},
-      "options": {"interactive": false}
+      "geometry": {
+        "lat": 41.65,
+        "lng": -123.35
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 12px Georgia,serif;color:#B8860B;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">K A R U K</div>",
+        "iconSize": [
+          160,
+          30
+        ],
+        "iconAnchor": [
+          80,
+          15
+        ]
+      },
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "klamathVillages",
       "geometry": [
-        [41.15, -123.80],[41.20, -123.55],[41.10, -123.35],
-        [40.95, -123.35],[40.85, -123.50],[40.90, -123.75]
+        [
+          41.15,
+          -123.8
+        ],
+        [
+          41.2,
+          -123.55
+        ],
+        [
+          41.1,
+          -123.35
+        ],
+        [
+          40.95,
+          -123.35
+        ],
+        [
+          40.85,
+          -123.5
+        ],
+        [
+          40.9,
+          -123.75
+        ]
       ],
       "style": {
         "color": "#2E8B57",
@@ -44,22 +129,85 @@
         "pane": "klamathBackgroundPane",
         "interactive": false
       },
-      "options": {"interactive": false}
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.05, "lng": -123.60},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 12px Georgia,serif;color:#2E8B57;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">H U P A</div>", "iconSize": [120, 30], "iconAnchor": [60, 15]},
-      "options": {"interactive": false}
+      "geometry": {
+        "lat": 41.05,
+        "lng": -123.6
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 12px Georgia,serif;color:#2E8B57;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">H U P A</div>",
+        "iconSize": [
+          120,
+          30
+        ],
+        "iconAnchor": [
+          60,
+          15
+        ]
+      },
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "klamathVillages",
       "geometry": [
-        [41.65, -124.20],[41.70, -123.90],[41.55, -123.70],
-        [41.35, -123.70],[41.20, -123.85],[41.15, -124.05],
-        [41.05, -124.15],[41.15, -124.20],[41.40, -124.15]
+        [
+          41.65,
+          -124.2
+        ],
+        [
+          41.7,
+          -123.9
+        ],
+        [
+          41.55,
+          -123.7
+        ],
+        [
+          41.35,
+          -123.7
+        ],
+        [
+          41.2,
+          -123.85
+        ],
+        [
+          41.15,
+          -124.05
+        ],
+        [
+          41.05,
+          -124.15
+        ],
+        [
+          41.15,
+          -124.2
+        ],
+        [
+          41.4,
+          -124.15
+        ]
       ],
       "style": {
         "color": "#4682B4",
@@ -70,21 +218,73 @@
         "pane": "klamathBackgroundPane",
         "interactive": false
       },
-      "options": {"interactive": false}
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.40, "lng": -124.00},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 12px Georgia,serif;color:#4682B4;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">Y U R O K</div>", "iconSize": [120, 30], "iconAnchor": [60, 15]},
-      "options": {"interactive": false}
+      "geometry": {
+        "lat": 41.4,
+        "lng": -124.0
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 12px Georgia,serif;color:#4682B4;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">Y U R O K</div>",
+        "iconSize": [
+          120,
+          30
+        ],
+        "iconAnchor": [
+          60,
+          15
+        ]
+      },
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "klamathVillages",
       "geometry": [
-        [41.95, -124.30],[42.00, -124.10],[41.95, -123.85],
-        [41.80, -123.80],[41.70, -124.00],[41.75, -124.20]
+        [
+          41.95,
+          -124.3
+        ],
+        [
+          42.0,
+          -124.1
+        ],
+        [
+          41.95,
+          -123.85
+        ],
+        [
+          41.8,
+          -123.8
+        ],
+        [
+          41.7,
+          -124.0
+        ],
+        [
+          41.75,
+          -124.2
+        ]
       ],
       "style": {
         "color": "#708090",
@@ -95,118 +295,471 @@
         "pane": "klamathBackgroundPane",
         "interactive": false
       },
-      "options": {"interactive": false}
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.85, "lng": -124.05},
-      "icon": {"factory": "divIcon", "html": "<div style=\"font:bold 11px Georgia,serif;color:#708090;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">T O L O W A</div>", "iconSize": [140, 30], "iconAnchor": [70, 15]},
-      "options": {"interactive": false}
+      "geometry": {
+        "lat": 41.85,
+        "lng": -124.05
+      },
+      "icon": {
+        "factory": "divIcon",
+        "html": "<div style=\"font:bold 11px Georgia,serif;color:#708090;text-shadow:1px 1px 3px #000,0 0 8px #000;letter-spacing:3px;text-align:center;opacity:0.8;\">T O L O W A</div>",
+        "iconSize": [
+          140,
+          30
+        ],
+        "iconAnchor": [
+          70,
+          15
+        ]
+      },
+      "options": {
+        "interactive": false
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.5349, "lng": -123.4607},
-      "icon": {"factory": "mkIcon", "color": "#B8860B", "size": 12},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Katimin (Katimiîn)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Confluence of Salmon & Klamath Rivers, Siskiyou Co.</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Spiritual center of the Karuk world — the \"Center of the World\" in Karuk cosmology.\n      Site of the annual <b>Pikyávish (World Renewal) ceremony</b>, one of the most important\n      ceremonial complexes in California. Salmon River joins Klamath here.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Karuk maintained <b>100+ named villages</b> along the middle Klamath.\n      They were (and are) master salmon fishers, using intricate weir and dip-net systems.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Karuk Tribe</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.5349,
+        "lng": -123.4607
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#B8860B",
+        "size": 12
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Katimin (Katimiîn)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Confluence of Salmon & Klamath Rivers, Siskiyou Co.</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Spiritual center of the Karuk world — the \"Center of the World\" in Karuk cosmology.\n      Site of the annual <b>Pikyávish (World Renewal) ceremony</b>, one of the most important\n      ceremonial complexes in California. Salmon River joins Klamath here.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Karuk maintained <b>100+ named villages</b> along the middle Klamath.\n      They were (and are) master salmon fishers, using intricate weir and dip-net systems.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Karuk Tribe</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "karuk",
+        "klamath"
+      ],
+      "tribes": [
+        "karuk",
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.5100, "lng": -123.4900},
-      "icon": {"factory": "mkIcon", "color": "#B8860B", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Ishi Pishi Falls</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River, Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Ancient and ongoing Karuk fishing station. One of the few places where\n      Karuk people continue to fish for salmon using traditional dip-net methods.\n      Site of World Renewal ceremonies.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Karuk Tribe</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.51,
+        "lng": -123.49
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#B8860B",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Ishi Pishi Falls</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River, Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Ancient and ongoing Karuk fishing station. One of the few places where\n      Karuk people continue to fish for salmon using traditional dip-net methods.\n      Site of World Renewal ceremonies.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Karuk Tribe</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "karuk",
+        "klamath"
+      ],
+      "tribes": [
+        "karuk",
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.3050, "lng": -123.5350},
-      "icon": {"factory": "mkIcon", "color": "#B8860B", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Panamenik (Orleans area)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River at Orleans, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major Karuk village at the downstream end of Karuk territory, near the\n      boundary with Yurok territory. Important gathering and trade location.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.305,
+        "lng": -123.535
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#B8860B",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Panamenik (Orleans area)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River at Orleans, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major Karuk village at the downstream end of Karuk territory, near the\n      boundary with Yurok territory. Important gathering and trade location.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "karuk",
+        "klamath",
+        "yurok"
+      ],
+      "tribes": [
+        "karuk",
+        "klamath",
+        "yurok"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.0510, "lng": -123.6740},
-      "icon": {"factory": "mkIcon", "color": "#2E8B57", "size": 12},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#2E8B57;margin:0 0 6px;\">◆ Hoopa Valley — Takimilding & Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Trinity River, Hoopa Valley, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Hoopa Valley was the heart of Hupa territory — a wide alluvial flat along the\n      Trinity River surrounded by mountains. Multiple permanent villages of\n      <b>redwood plank houses</b> and sweathouses clustered here.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Hupa held major <b>World Renewal ceremonies</b> including the Jump Dance and\n      White Deerskin Dance — among the most elaborate in California.\n      Today the <b>Hoopa Valley Reservation</b> (est. 1864) is the largest in California.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Goddard 1903; Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.051,
+        "lng": -123.674
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E8B57",
+        "size": 12
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#2E8B57;margin:0 0 6px;\">◆ Hoopa Valley — Takimilding & Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Trinity River, Hoopa Valley, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Hoopa Valley was the heart of Hupa territory — a wide alluvial flat along the\n      Trinity River surrounded by mountains. Multiple permanent villages of\n      <b>redwood plank houses</b> and sweathouses clustered here.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Hupa held major <b>World Renewal ceremonies</b> including the Jump Dance and\n      White Deerskin Dance — among the most elaborate in California.\n      Today the <b>Hoopa Valley Reservation</b> (est. 1864) is the largest in California.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Goddard 1903; Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "hupa"
+      ],
+      "tribes": [
+        "hupa",
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.1880, "lng": -123.7100},
-      "icon": {"factory": "mkIcon", "color": "#2E8B57", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#2E8B57;margin:0 0 6px;\">◆ Weitchpec</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Trinity-Klamath Confluence, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Strategic location where the Trinity River meets the Klamath.\n      Border area between Hupa, Yurok, and Karuk territories.\n      Major trade and ceremonial gathering point.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.188,
+        "lng": -123.71
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#2E8B57",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#2E8B57;margin:0 0 6px;\">◆ Weitchpec</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Trinity-Klamath Confluence, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Strategic location where the Trinity River meets the Klamath.\n      Border area between Hupa, Yurok, and Karuk territories.\n      Major trade and ceremonial gathering point.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "hupa",
+        "karuk",
+        "klamath",
+        "yurok"
+      ],
+      "tribes": [
+        "hupa",
+        "karuk",
+        "klamath",
+        "yurok"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.1300, "lng": -124.1580},
-      "icon": {"factory": "mkIcon", "color": "#4682B4", "size": 12},
-      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#4682B4;margin:0 0 6px;\">◆ Sue-meg Village</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sue-meg State Park (Patrick's Point), Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Reconstructed Yurok village</b> built by local Yurok people using traditional\n      materials — redwood plank houses, sweat lodge, dance house, and a\n      dugout redwood canoe. Active ceremonial use by Yurok people today.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Yurok people did not merely \"inhabit\" this coast — they shaped it.\n      Redwood plank architecture, sophisticated fisheries, a complex wealth system,\n      and elaborate ceremonial life made the Yurok one of the most culturally\n      complex societies in pre-contact California.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sue-meg State Park; Yurok Tribe</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.13,
+        "lng": -124.158
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#4682B4",
+        "size": 12
+      },
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#4682B4;margin:0 0 6px;\">◆ Sue-meg Village</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sue-meg State Park (Patrick's Point), Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Reconstructed Yurok village</b> built by local Yurok people using traditional\n      materials — redwood plank houses, sweat lodge, dance house, and a\n      dugout redwood canoe. Active ceremonial use by Yurok people today.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Yurok people did not merely \"inhabit\" this coast — they shaped it.\n      Redwood plank architecture, sophisticated fisheries, a complex wealth system,\n      and elaborate ceremonial life made the Yurok one of the most culturally\n      complex societies in pre-contact California.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sue-meg State Park; Yurok Tribe</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "yurok"
+      ],
+      "tribes": [
+        "klamath",
+        "yurok"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.5450, "lng": -124.0650},
-      "icon": {"factory": "mkIcon", "color": "#4682B4", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#4682B4;margin:0 0 6px;\">◆ Requa (Rek'woi)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River mouth, Del Norte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major Yurok village at the mouth of the Klamath River. One of the wealthiest\n      and most important Yurok settlements. Controlled access to ocean and river\n      resources. Redwood plank houses with sunken floors.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Waterman 1920; Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.545,
+        "lng": -124.065
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#4682B4",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#4682B4;margin:0 0 6px;\">◆ Requa (Rek'woi)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River mouth, Del Norte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major Yurok village at the mouth of the Klamath River. One of the wealthiest\n      and most important Yurok settlements. Controlled access to ocean and river\n      resources. Redwood plank houses with sunken floors.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Waterman 1920; Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "klamath",
+        "yurok"
+      ],
+      "tribes": [
+        "klamath",
+        "yurok"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.0590, "lng": -124.1430},
-      "icon": {"factory": "mkIcon", "color": "#4682B4", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#4682B4;margin:0 0 6px;\">◆ Tsurai (Trinidad)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Trinidad Head, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Yurok village at Trinidad Head. One of the first contact points with\n      Spanish explorers (1775). Archaeological deposits document\n      2,000+ years of occupation. Lithic scatters around Trinidad.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; NCIC</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.059,
+        "lng": -124.143
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#4682B4",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#4682B4;margin:0 0 6px;\">◆ Tsurai (Trinidad)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Trinidad Head, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Yurok village at Trinidad Head. One of the first contact points with\n      Spanish explorers (1775). Archaeological deposits document\n      2,000+ years of occupation. Lithic scatters around Trinidad.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; NCIC</div>\n  </div>\n",
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "yurok"
+      ],
+      "tribes": [
+        "klamath",
+        "yurok"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.8650, "lng": -124.1600},
-      "icon": {"factory": "mkIcon", "color": "#708090", "size": 12},
-      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#708090;margin:0 0 6px;\">◆ Yontocket (Yan'-daa-k'vt)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lake Earl / Smith River, Del Norte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Spiritual capital of the Tolowa people and their most sacred site.\n      Location of the <b>Nee-Dash (Feather Dance)</b> ceremony — the Tolowa's\n      most important world renewal rite.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      In 1853, American settlers attacked and burned Yontocket during a\n      Nee-Dash ceremony, killing an estimated <b>450 Tolowa</b> — one of the\n      deadliest massacres in California history. The site is now a memorial.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Gould 1966; Tolowa Dee-ni' Nation</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.865,
+        "lng": -124.16
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#708090",
+        "size": 12
+      },
+      "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#708090;margin:0 0 6px;\">◆ Yontocket (Yan'-daa-k'vt)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lake Earl / Smith River, Del Norte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Spiritual capital of the Tolowa people and their most sacred site.\n      Location of the <b>Nee-Dash (Feather Dance)</b> ceremony — the Tolowa's\n      most important world renewal rite.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      In 1853, American settlers attacked and burned Yontocket during a\n      Nee-Dash ceremony, killing an estimated <b>450 Tolowa</b> — one of the\n      deadliest massacres in California history. The site is now a memorial.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Gould 1966; Tolowa Dee-ni' Nation</div>\n  </div>\n",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "tolowa"
+      ],
+      "tribes": [
+        "klamath",
+        "tolowa"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "marker",
       "layer": "klamathVillages",
-      "geometry": {"lat": 41.9300, "lng": -124.1000},
-      "icon": {"factory": "mkIcon", "color": "#708090", "size": 10},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#708090;margin:0 0 6px;\">◆ Smith River Tolowa Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Smith River, Del Norte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple permanent Tolowa villages along the Smith River — the last\n      major undammed river in California. Dense shell midden sites along\n      the coast document thousands of years of occupation.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Tolowa spoke an Athabaskan language related to Navajo and Apache\n      but were culturally aligned with their Northwest California neighbors\n      (Yurok, Karuk), sharing the wealth-display ceremonial complex.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Gould 1966; Kroeber 1925</div>\n  </div>\n"
+      "geometry": {
+        "lat": 41.93,
+        "lng": -124.1
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#708090",
+        "size": 10
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#708090;margin:0 0 6px;\">◆ Smith River Tolowa Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Smith River, Del Norte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple permanent Tolowa villages along the Smith River — the last\n      major undammed river in California. Dense shell midden sites along\n      the coast document thousands of years of occupation.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Tolowa spoke an Athabaskan language related to Navajo and Apache\n      but were culturally aligned with their Northwest California neighbors\n      (Yurok, Karuk), sharing the wealth-display ceremonial complex.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Gould 1966; Kroeber 1925</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "karuk",
+        "navajo",
+        "tolowa",
+        "yurok"
+      ],
+      "tribes": [
+        "karuk",
+        "klamath",
+        "navajo",
+        "tolowa",
+        "yurok"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "klamathWater",
       "geometry": [
-        [42.20, -121.85],[42.10, -121.90],[41.95, -122.00],
-        [41.85, -122.30],[41.80, -122.60],[41.75, -122.85],
-        [41.70, -123.10],[41.60, -123.30],[41.53, -123.46],
-        [41.45, -123.55],[41.30, -123.55],[41.20, -123.70],
-        [41.25, -123.85],[41.35, -123.95],[41.50, -124.05],
-        [41.55, -124.08]
+        [
+          42.2,
+          -121.85
+        ],
+        [
+          42.1,
+          -121.9
+        ],
+        [
+          41.95,
+          -122.0
+        ],
+        [
+          41.85,
+          -122.3
+        ],
+        [
+          41.8,
+          -122.6
+        ],
+        [
+          41.75,
+          -122.85
+        ],
+        [
+          41.7,
+          -123.1
+        ],
+        [
+          41.6,
+          -123.3
+        ],
+        [
+          41.53,
+          -123.46
+        ],
+        [
+          41.45,
+          -123.55
+        ],
+        [
+          41.3,
+          -123.55
+        ],
+        [
+          41.2,
+          -123.7
+        ],
+        [
+          41.25,
+          -123.85
+        ],
+        [
+          41.35,
+          -123.95
+        ],
+        [
+          41.5,
+          -124.05
+        ],
+        [
+          41.55,
+          -124.08
+        ]
       ],
-      "style": {"color": "#1E90FF", "weight": 3, "opacity": 0.7, "dashArray": "10,5"},
-      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Klamath River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The lifeblood of Karuk, Yurok, and Hupa peoples. 263 miles long, draining\n      a 15,700 sq mi basin. The river defined tribal territories — Karuk held the\n      middle canyon, Yurok the lower reaches, Hupa the Trinity tributary.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      In 2024, the <b>largest dam removal in U.S. history</b> began on the Klamath,\n      with four dams being demolished to restore salmon runs — a major\n      victory for tribal nations who fought for decades to free the river.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Klamath River Renewal Corporation</div>\n  </div>\n"
+      "style": {
+        "color": "#1E90FF",
+        "weight": 3,
+        "opacity": 0.7,
+        "dashArray": "10,5"
+      },
+      "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Klamath River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The lifeblood of Karuk, Yurok, and Hupa peoples. 263 miles long, draining\n      a 15,700 sq mi basin. The river defined tribal territories — Karuk held the\n      middle canyon, Yurok the lower reaches, Hupa the Trinity tributary.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      In 2024, the <b>largest dam removal in U.S. history</b> began on the Klamath,\n      with four dams being demolished to restore salmon runs — a major\n      victory for tribal nations who fought for decades to free the river.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Klamath River Renewal Corporation</div>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "hupa",
+        "karuk",
+        "klamath",
+        "yurok"
+      ],
+      "tribes": [
+        "hupa",
+        "karuk",
+        "klamath",
+        "yurok"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "klamathWater",
       "geometry": [
-        [41.05, -123.55],[41.10, -123.60],[41.15, -123.65],
-        [41.19, -123.71]
+        [
+          41.05,
+          -123.55
+        ],
+        [
+          41.1,
+          -123.6
+        ],
+        [
+          41.15,
+          -123.65
+        ],
+        [
+          41.19,
+          -123.71
+        ]
       ],
-      "style": {"color": "#1E90FF", "weight": 2.5, "opacity": 0.6, "dashArray": "8,5"},
-      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Trinity River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Flows through Hoopa Valley — heart of Hupa territory.\n      Meets the Klamath at Weitchpec. Major salmon and steelhead river.\n    </p>\n  </div>\n"
+      "style": {
+        "color": "#1E90FF",
+        "weight": 2.5,
+        "opacity": 0.6,
+        "dashArray": "8,5"
+      },
+      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Trinity River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Flows through Hoopa Valley — heart of Hupa territory.\n      Meets the Klamath at Weitchpec. Major salmon and steelhead river.\n    </p>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "hupa",
+        "klamath"
+      ],
+      "tribes": [
+        "hupa",
+        "klamath"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "klamathWater",
       "geometry": [
-        [41.80, -123.85],[41.85, -123.95],[41.88, -124.05],
-        [41.92, -124.10],[41.93, -124.15]
+        [
+          41.8,
+          -123.85
+        ],
+        [
+          41.85,
+          -123.95
+        ],
+        [
+          41.88,
+          -124.05
+        ],
+        [
+          41.92,
+          -124.1
+        ],
+        [
+          41.93,
+          -124.15
+        ]
       ],
-      "style": {"color": "#1E90FF", "weight": 2.5, "opacity": 0.6, "dashArray": "8,5"},
-      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Smith River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Tolowa homeland. Last major undammed river in California.\n      Wild salmon runs still intact.\n    </p>\n  </div>\n"
+      "style": {
+        "color": "#1E90FF",
+        "weight": 2.5,
+        "opacity": 0.6,
+        "dashArray": "8,5"
+      },
+      "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Smith River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Tolowa homeland. Last major undammed river in California.\n      Wild salmon runs still intact.\n    </p>\n  </div>\n",
+      "timePeriods": [],
+      "cultures": [
+        "tolowa"
+      ],
+      "tribes": [
+        "klamath",
+        "tolowa"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

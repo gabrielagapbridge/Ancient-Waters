@@ -75,7 +75,19 @@
         "fillOpacity": 0.08,
         "pane": "maineBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4A148C\">Passamaquoddy / Peskotomuhkatiyik Territory</h3><p><b>People:</b> Peskotomuhkatiyik — \"people who spear pollock\"</p><p><b>Language:</b> Eastern Algonkian — Passamaquoddy/Malecite (closely related dialects)</p><p><b>Territory:</b> Coast from Machias Bay to Passamaquoddy Bay, St. Croix River valley, extending into New Brunswick</p><p><b>Time depth:</b> The Passamaquoddy/Malecite language group likely separated from the Central Algonkian family about 3,000 years ago — the same period when the Machias Bay petroglyph tradition began.</p><p><b>Seasonal round:</b> Coastal fishing and shellfish harvesting in summer; interior hunting in winter. Seasonal gatherings at Machias Bay for trade, marriage, and ceremony — as many as 100 canoes documented as late as the 1790s.</p><p><b>Rock art:</b> Created the largest concentration of petroglyphs on the East Coast at Machias Bay — 500+ glyphs across 9 sites spanning 3,000 years.</p><p><b>Modern:</b> Passamaquoddy Tribe at Pleasant Point (Sipayik) and Indian Township. 3,600+ enrolled members.</p><p><b>Land return:</b> Birch Point / Picture Rocks returned to Passamaquoddy by MCHT in 2006. Long Point conserved in 2013.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4A148C\">Passamaquoddy / Peskotomuhkatiyik Territory</h3><p><b>People:</b> Peskotomuhkatiyik — \"people who spear pollock\"</p><p><b>Language:</b> Eastern Algonkian — Passamaquoddy/Malecite (closely related dialects)</p><p><b>Territory:</b> Coast from Machias Bay to Passamaquoddy Bay, St. Croix River valley, extending into New Brunswick</p><p><b>Time depth:</b> The Passamaquoddy/Malecite language group likely separated from the Central Algonkian family about 3,000 years ago — the same period when the Machias Bay petroglyph tradition began.</p><p><b>Seasonal round:</b> Coastal fishing and shellfish harvesting in summer; interior hunting in winter. Seasonal gatherings at Machias Bay for trade, marriage, and ceremony — as many as 100 canoes documented as late as the 1790s.</p><p><b>Rock art:</b> Created the largest concentration of petroglyphs on the East Coast at Machias Bay — 500+ glyphs across 9 sites spanning 3,000 years.</p><p><b>Modern:</b> Passamaquoddy Tribe at Pleasant Point (Sipayik) and Indian Township. 3,600+ enrolled members.</p><p><b>Land return:</b> Birch Point / Picture Rocks returned to Passamaquoddy by MCHT in 2006. Long Point conserved in 2013.</p></div>",
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -146,7 +158,15 @@
         "fillOpacity": 0.08,
         "pane": "maineBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#BF360C\">Eastern Abenaki Territory</h3><p><b>Peoples:</b> Penobscot (Panawahpskewtəkʷ), Kennebec, Norridgewock, Androscoggin, Pigwacket, Rocameca, and others</p><p><b>Language:</b> Eastern Abenaki — part of the eastern branch of the Algonkian family</p><p><b>Territory:</b> Penobscot River drainage, Kennebec River, Androscoggin River, and coastal areas from Penobscot Bay to the Saco River</p><p><b>Key rivers:</b> The Kennebec was a principal artery from coast to the St. Lawrence River, via Dead River and the Chaudière — a major canoe highway bearing heavy traffic for thousands of years.</p><p><b>Rock art:</b> The Embden petroglyphs on the Kennebec River — 107+ designs pecked into a shale ledge at a key canoe portage stop. Themes of shamanism, fertility, canoe travel, and the culture hero Gluscap.</p><p><b>Modern:</b> Penobscot Nation at Indian Island (Old Town). 2,400+ enrolled members.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#BF360C\">Eastern Abenaki Territory</h3><p><b>Peoples:</b> Penobscot (Panawahpskewtəkʷ), Kennebec, Norridgewock, Androscoggin, Pigwacket, Rocameca, and others</p><p><b>Language:</b> Eastern Abenaki — part of the eastern branch of the Algonkian family</p><p><b>Territory:</b> Penobscot River drainage, Kennebec River, Androscoggin River, and coastal areas from Penobscot Bay to the Saco River</p><p><b>Key rivers:</b> The Kennebec was a principal artery from coast to the St. Lawrence River, via Dead River and the Chaudière — a major canoe highway bearing heavy traffic for thousands of years.</p><p><b>Rock art:</b> The Embden petroglyphs on the Kennebec River — 107+ designs pecked into a shale ledge at a key canoe portage stop. Themes of shamanism, fertility, canoe travel, and the culture hero Gluscap.</p><p><b>Modern:</b> Penobscot Nation at Indian Island (Old Town). 2,400+ enrolled members.</p></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -162,7 +182,17 @@
         "fillOpacity": 0.9,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Birch Point / Clark's Point — Main Ledge</h3><p><b>Also known as:</b> Malusah'ekan — Passamaquoddy for \"Picture Rocks on the Shore\"</p><p><b>Location:</b> West side of Machias Bay, Machiasport, Washington County, Maine</p><p><b>Date range:</b> ca. 3,000–380 B.P. (1000 BCE – ~1620 CE)</p><p><b>Culture:</b> Passamaquoddy / Malecite — eastern Algonkian</p><p><b>Description:</b> The main ledge at Birch Point is the principal rock art site in Machias Bay, containing at least 57 documented figures. Consists of three principal loci: the main ledge, outer ledge, and the north slope. Petroglyphs are pecked into bedrock ledges exposed by glacial erosion.</p><p><b>Chronology:</b> The seaside ledges display striations of glacial scraping and grinding. Scattered boulders deposited in glacial till were dropped on bedrock as rising seas cut away gravel banks. At each site, petroglyphs are found on all but the ledges nearest present-day gravel banks — freshly exposed bedrock free of petroglyphs represents the last 250–300 years when the Passamaquoddy lost control of the area.</p><p><b>Oldest glyphs:</b> Style 1 figures (paired anthropomorphs with spirit lines) lie at the far edge near the water, covered daily by tidal waters and eroding away.</p><p><b>Most recent:</b> Style 6 figures including Christian crosses, indicating contact with Jesuit missionaries. One figure in \"Mi'kmaq style\" dated ca. 1620–1630.</p><p><b>First documentation:</b> Garrick Mallery of the Smithsonian Institution visited in 1888, inspected and photographed the Birch Point area. 57 images were published in <em>Picture Writing of the American Indian</em> (1893).</p><p><b>Significance:</b> Machias Bay provides the longest chronological series of petroglyphs in Maine (ca. 3,000 to 380 years ago) as well as the largest number of known sites (9) and the largest number of petroglyphs (500+).</p><p><b>NRHP:</b> Listed 1997, as part of Native American Petroglyphs and Pictographs of Maine MPS</p><p><b>Land return:</b> In 2006, the coastal properties containing the rock art panels were given to the Passamaquoddy Tribe by the Maine Coast Heritage Trust in exchange for conservation easements. After 400 years, the picture rocks returned to the descendants of the people who created them.</p><p><b>Source:</b> Lenik 2002; Hedden 2002; Mallery 1893; NRHP</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Birch Point / Clark's Point — Main Ledge</h3><p><b>Also known as:</b> Malusah'ekan — Passamaquoddy for \"Picture Rocks on the Shore\"</p><p><b>Location:</b> West side of Machias Bay, Machiasport, Washington County, Maine</p><p><b>Date range:</b> ca. 3,000–380 B.P. (1000 BCE – ~1620 CE)</p><p><b>Culture:</b> Passamaquoddy / Malecite — eastern Algonkian</p><p><b>Description:</b> The main ledge at Birch Point is the principal rock art site in Machias Bay, containing at least 57 documented figures. Consists of three principal loci: the main ledge, outer ledge, and the north slope. Petroglyphs are pecked into bedrock ledges exposed by glacial erosion.</p><p><b>Chronology:</b> The seaside ledges display striations of glacial scraping and grinding. Scattered boulders deposited in glacial till were dropped on bedrock as rising seas cut away gravel banks. At each site, petroglyphs are found on all but the ledges nearest present-day gravel banks — freshly exposed bedrock free of petroglyphs represents the last 250–300 years when the Passamaquoddy lost control of the area.</p><p><b>Oldest glyphs:</b> Style 1 figures (paired anthropomorphs with spirit lines) lie at the far edge near the water, covered daily by tidal waters and eroding away.</p><p><b>Most recent:</b> Style 6 figures including Christian crosses, indicating contact with Jesuit missionaries. One figure in \"Mi'kmaq style\" dated ca. 1620–1630.</p><p><b>First documentation:</b> Garrick Mallery of the Smithsonian Institution visited in 1888, inspected and photographed the Birch Point area. 57 images were published in <em>Picture Writing of the American Indian</em> (1893).</p><p><b>Significance:</b> Machias Bay provides the longest chronological series of petroglyphs in Maine (ca. 3,000 to 380 years ago) as well as the largest number of known sites (9) and the largest number of petroglyphs (500+).</p><p><b>NRHP:</b> Listed 1997, as part of Native American Petroglyphs and Pictographs of Maine MPS</p><p><b>Land return:</b> In 2006, the coastal properties containing the rock art panels were given to the Passamaquoddy Tribe by the Maine Coast Heritage Trust in exchange for conservation easements. After 400 years, the picture rocks returned to the descendants of the people who created them.</p><p><b>Source:</b> Lenik 2002; Hedden 2002; Mallery 1893; NRHP</p></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -178,7 +208,15 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Birch Point — Outer Ledge</h3><p><b>Location:</b> Seaward of main ledge, Birch Point, Machiasport</p><p><b>Date range:</b> Styles 5–6 (ca. 1100–300 B.P.)</p><p><b>Description:</b> Style 5 and 6 petroglyphs on the outer ledge. Style 5 features action figures with triangular bodies, birdlike beaklike projections, and bent arms with featherlike digits — resembling the thunderbird motif. Style 6 shows angular, geometric figures including horned serpents and bird figures.</p><p><b>Source:</b> Lenik 2002, figs. 33–34</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Birch Point — Outer Ledge</h3><p><b>Location:</b> Seaward of main ledge, Birch Point, Machiasport</p><p><b>Date range:</b> Styles 5–6 (ca. 1100–300 B.P.)</p><p><b>Description:</b> Style 5 and 6 petroglyphs on the outer ledge. Style 5 features action figures with triangular bodies, birdlike beaklike projections, and bent arms with featherlike digits — resembling the thunderbird motif. Style 6 shows angular, geometric figures including horned serpents and bird figures.</p><p><b>Source:</b> Lenik 2002, figs. 33–34</p></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": [
+        "thunderbird_motif"
+      ]
     },
     {
       "type": "circleMarker",
@@ -194,7 +232,17 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Holmes Point Petroglyphs</h3><p><b>Location:</b> East side of Machias Bay, East Machias, Washington County</p><p><b>Date range:</b> ca. 3,000–600 B.P. (Styles 1, 3–5)</p><p><b>Culture:</b> Passamaquoddy / Malecite</p><p><b>Description:</b> Northernmost promontory of Holmes Bay. Petroglyphs occur on bedrock outcrops along the shore. Contains examples of Style 1 paired anthropomorphs, Style 3 hourglass-shaped figures, Style 4 elaborate anthropomorphs with headdresses, and Style 5 action figures.</p><p><b>Significance:</b> Together with Birch Point and Hog Island, Holmes Point forms the core of what is the greatest concentration of rock art on the East Coast of North America.</p><p><b>Source:</b> Lenik 2002; Hedden 1977–2002</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Holmes Point Petroglyphs</h3><p><b>Location:</b> East side of Machias Bay, East Machias, Washington County</p><p><b>Date range:</b> ca. 3,000–600 B.P. (Styles 1, 3–5)</p><p><b>Culture:</b> Passamaquoddy / Malecite</p><p><b>Description:</b> Northernmost promontory of Holmes Bay. Petroglyphs occur on bedrock outcrops along the shore. Contains examples of Style 1 paired anthropomorphs, Style 3 hourglass-shaped figures, Style 4 elaborate anthropomorphs with headdresses, and Style 5 action figures.</p><p><b>Significance:</b> Together with Birch Point and Hog Island, Holmes Point forms the core of what is the greatest concentration of rock art on the East Coast of North America.</p><p><b>Source:</b> Lenik 2002; Hedden 1977–2002</p></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": [
+        "ancestral_puebloan_kayenta"
+      ]
     },
     {
       "type": "circleMarker",
@@ -210,7 +258,18 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Hog Island Petroglyphs</h3><p><b>Location:</b> Island in middle of Machias Bay</p><p><b>Date range:</b> ca. 3,000–1,500 B.P. (Styles 1–4)</p><p><b>Culture:</b> Passamaquoddy / Malecite</p><p><b>Description:</b> Contains the ONLY known examples of Style 2 (transitional figures).</p><p><b>Source:</b> Lenik 2002; Hedden 1996, 2002</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Hog Island Petroglyphs</h3><p><b>Location:</b> Island in middle of Machias Bay</p><p><b>Date range:</b> ca. 3,000–1,500 B.P. (Styles 1–4)</p><p><b>Culture:</b> Passamaquoddy / Malecite</p><p><b>Description:</b> Contains the ONLY known examples of Style 2 (transitional figures).</p><p><b>Source:</b> Lenik 2002; Hedden 1996, 2002</p></div>",
+      "timePeriods": [
+        "formative",
+        "late_archaic"
+      ],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -226,7 +285,13 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#2E7D32\">⬢ Long Point Petroglyphs (Conserved 2013)</h3><p><b>Location:</b> Northern region of Machias Bay</p><p><b>Date range:</b> ca. 3,000 B.P. to Contact period</p><p><b>Conservation:</b> In 2013, MCHT acquired 66 acres to protect from subdivision.</p><p><b>Source:</b> MCHT 2013; Robinson 2013; Lenik 2002</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#2E7D32\">⬢ Long Point Petroglyphs (Conserved 2013)</h3><p><b>Location:</b> Northern region of Machias Bay</p><p><b>Date range:</b> ca. 3,000 B.P. to Contact period</p><p><b>Conservation:</b> In 2013, MCHT acquired 66 acres to protect from subdivision.</p><p><b>Source:</b> MCHT 2013; Robinson 2013; Lenik 2002</p></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -242,7 +307,13 @@
         "fillOpacity": 0.6,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Offshore Island Petroglyphs (Discovered 1999)</h3><p><b>Description:</b> Two new petroglyph sites discovered in 1999, containing fifty-three glyphs.</p><p><b>Source:</b> Lenik 2002</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">⬢ Offshore Island Petroglyphs (Discovered 1999)</h3><p><b>Description:</b> Two new petroglyph sites discovered in 1999, containing fifty-three glyphs.</p><p><b>Source:</b> Lenik 2002</p></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -258,7 +329,13 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#B71C1C\">⛵ European Ship Petroglyphs (Sites 62.46 & 62.47)</h3><p><b>Date range:</b> ca. 1620–1640 CE (Contact period)</p><p><b>Description:</b> Two sites include representations of small European sailing ships.</p><p><b>Source:</b> Hedden 2002; Wikipedia</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#B71C1C\">⛵ European Ship Petroglyphs (Sites 62.46 & 62.47)</h3><p><b>Date range:</b> ca. 1620–1640 CE (Contact period)</p><p><b>Description:</b> Two sites include representations of small European sailing ships.</p><p><b>Source:</b> Hedden 2002; Wikipedia</p></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -274,7 +351,15 @@
         "fillOpacity": 0.9,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF8C00\">⬢ Embden Petroglyphs / \"Indian Rock\"</h3><p><b>Location:</b> West bank of Kennebec River, Embden, Somerset County</p><p><b>Date range:</b> Ceramic period (~1 CE – 1600 CE)</p><p><b>Culture:</b> Eastern Abenaki (Norridgewock)</p><p><b>Description:</b> 107+ designs on shale ledge. Motifs include 27 canoes, 13 birdmen, ithyphallic figures including Gluscap.</p><p><b>NRHP:</b> Listed 1980</p><p><b>Source:</b> Lenik 2002; Ray 1987; Hedden 1977; Snow 1976–1977; NRHP</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF8C00\">⬢ Embden Petroglyphs / \"Indian Rock\"</h3><p><b>Location:</b> West bank of Kennebec River, Embden, Somerset County</p><p><b>Date range:</b> Ceramic period (~1 CE – 1600 CE)</p><p><b>Culture:</b> Eastern Abenaki (Norridgewock)</p><p><b>Description:</b> 107+ designs on shale ledge. Motifs include 27 canoes, 13 birdmen, ithyphallic figures including Gluscap.</p><p><b>NRHP:</b> Listed 1980</p><p><b>Source:</b> Lenik 2002; Ray 1987; Hedden 1977; Snow 1976–1977; NRHP</p></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -290,7 +375,13 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4682B4\">⬢ Hodgdon Archaeological Site (MAS 69.4)</h3><p><b>Location:</b> Southern side of Embden petroglyph ledge</p><p><b>Date range:</b> Ceramic period (~1 CE – 1600 CE)</p><p><b>Source:</b> Lenik 2002; Ray 1987; NRHP</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4682B4\">⬢ Hodgdon Archaeological Site (MAS 69.4)</h3><p><b>Location:</b> Southern side of Embden petroglyph ledge</p><p><b>Date range:</b> Ceramic period (~1 CE – 1600 CE)</p><p><b>Source:</b> Lenik 2002; Ray 1987; NRHP</p></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -306,7 +397,17 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#B71C1C\">⬢ Grand Lake Stream Petroglyphs (Site 94.32)</h3><p><b>Date range:</b> Historic / 19th–20th century</p><p><b>Culture:</b> Passamaquoddy — continuing rock art tradition</p><p><b>Source:</b> Wikipedia; NRHP</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#B71C1C\">⬢ Grand Lake Stream Petroglyphs (Site 94.32)</h3><p><b>Date range:</b> Historic / 19th–20th century</p><p><b>Culture:</b> Passamaquoddy — continuing rock art tradition</p><p><b>Source:</b> Wikipedia; NRHP</p></div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -322,7 +423,15 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6347\">🎨 Pictograph Site — Southwestern Maine</h3><p><b>Type:</b> Pictograph (painted)</p><p><b>Culture:</b> Eastern Abenaki</p><p><b>Source:</b> Lenik 2002, fig. 23; MHPC</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6347\">🎨 Pictograph Site — Southwestern Maine</h3><p><b>Type:</b> Pictograph (painted)</p><p><b>Culture:</b> Eastern Abenaki</p><p><b>Source:</b> Lenik 2002, fig. 23; MHPC</p></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -338,7 +447,15 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6347\">🎨 Pictograph Site — Saco River Area</h3><p><b>Type:</b> Pictograph (painted)</p><p><b>Culture:</b> Eastern Abenaki / Pigwacket</p><p><b>Source:</b> Lenik 2002, fig. 23; MHPC</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6347\">🎨 Pictograph Site — Saco River Area</h3><p><b>Type:</b> Pictograph (painted)</p><p><b>Culture:</b> Eastern Abenaki / Pigwacket</p><p><b>Source:</b> Lenik 2002, fig. 23; MHPC</p></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -375,7 +492,13 @@
         "opacity": 0.7,
         "dashArray": "8 4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 Machias River</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 Machias River</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -420,7 +543,13 @@
         "opacity": 0.7,
         "dashArray": "8 4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 Kennebec River</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 Kennebec River</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -453,7 +582,13 @@
         "opacity": 0.5,
         "dashArray": "8 4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 St. Croix River</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 St. Croix River</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -494,7 +629,15 @@
         "opacity": 0.6,
         "dashArray": "8 4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 Penobscot River</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E90FF\">🌊 Penobscot River</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -510,7 +653,13 @@
         "fillOpacity": 0.9,
         "weight": 1
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8D6E63\">Style 1 — Paired Anthropomorphs (3000–2200 B.P.)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#8D6E63\">Style 1 — Paired Anthropomorphs (3000–2200 B.P.)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -526,7 +675,13 @@
         "fillOpacity": 0.9,
         "weight": 1
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#A1887F\">Styles 2 & 3 — Spirit Merging (2200–1660 B.P.)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#A1887F\">Styles 2 & 3 — Spirit Merging (2200–1660 B.P.)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -542,7 +697,13 @@
         "fillOpacity": 0.9,
         "weight": 1
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#78909C\">Styles 4 & 5 — Elaborate & Active Figures (1500–600 B.P.)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#78909C\">Styles 4 & 5 — Elaborate & Active Figures (1500–600 B.P.)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -558,7 +719,13 @@
         "fillOpacity": 0.9,
         "weight": 1
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#546E7A\">Style 6 — Contact Period (700–300 B.P.)</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#546E7A\">Style 6 — Contact Period (700–300 B.P.)</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -574,7 +741,13 @@
         "fillOpacity": 0.6,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#DC143C\">Machias Bay Seasonal Gathering Place</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#DC143C\">Machias Bay Seasonal Gathering Place</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -590,7 +763,13 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#DEB887\">Norridgewock (Nanrantsouak) Village</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#DEB887\">Norridgewock (Nanrantsouak) Village</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -606,7 +785,15 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1B5E20\">Indian Island — Penobscot Nation</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1B5E20\">Indian Island — Penobscot Nation</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -622,7 +809,15 @@
         "fillOpacity": 0.7,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4A148C\">Pleasant Point / Sipayik — Passamaquoddy Tribe</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4A148C\">Pleasant Point / Sipayik — Passamaquoddy Tribe</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -638,7 +833,13 @@
         "fillOpacity": 0.5,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#DC143C\">Mount Katahdin — Home of Pamola</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#DC143C\">Mount Katahdin — Home of Pamola</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -655,7 +856,15 @@
         "weight": 2,
         "dashArray": "5 5"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#2E7D32\">🌿 Birch Point — Returned to Passamaquoddy (2006)</h3><p>5.5 acres returned to the Passamaquoddy Tribe by Maine Coast Heritage Trust in 2006.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#2E7D32\">🌿 Birch Point — Returned to Passamaquoddy (2006)</h3><p>5.5 acres returned to the Passamaquoddy Tribe by Maine Coast Heritage Trust in 2006.</p></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -672,7 +881,13 @@
         "weight": 2,
         "dashArray": "5 5"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#2E7D32\">🌿 Long Point — Conserved (2013)</h3><p>66 acres acquired by MCHT in 2013 to protect petroglyphs from subdivision.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#2E7D32\">🌿 Long Point — Conserved (2013)</h3><p>66 acres acquired by MCHT in 2013 to protect petroglyphs from subdivision.</p></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

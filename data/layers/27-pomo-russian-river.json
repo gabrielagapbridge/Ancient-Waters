@@ -118,7 +118,18 @@
         "dashArray": "10,5",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:360px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#26C6DA;margin:0 0 8px\">Russian River — Ashokawna / Bidapte</h3>\n  <p style=\"font-size:13px;color:#B0BEC5\"><strong>\"East Water Place\"</strong> / <strong>\"Big River\"</strong> (Southern Pomo)</p>\n  <p style=\"font-size:13px;color:#CFD8DC\">The 110-mile lifeline of the Pomo world. Rising near Willits, flowing south through Ukiah and Hopland, turning west past Healdsburg to meet the Pacific at Jenner. The <strong>heart of Pomo territory</strong> — more villages lined this river than any other feature in their world. Barrett (1908) recorded dozens of named settlements along its banks.</p>\n  <p style=\"font-size:13px;color:#CFD8DC\">The Pomo called it <strong>Shabaikai</strong> (\"long snake\") and <strong>Ashokawna</strong> (\"east water place\"). Before European contact, the river was seasonal — drying to pools in summer where salmon survived until the rains. Settlers described it as \"swamplike with many side riverlets, bounded by wetlands and riparian forest.\"</p>\n  <p style=\"font-size:13px;color:#EF5350\">In <strong>1908</strong>, the Eel River was diverted into the Russian River headwaters via the Potter Valley Project, fundamentally altering its hydrology. The river now flows year-round — ecologically transformed.</p>\n  <p style=\"font-size:11px;color:#78909C;margin-top:8px\">Sources: Barrett 1908; Russian Riverkeeper; Wikipedia</p>\n</div>"
+      "popup": "<div style=\"max-width:360px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#26C6DA;margin:0 0 8px\">Russian River — Ashokawna / Bidapte</h3>\n  <p style=\"font-size:13px;color:#B0BEC5\"><strong>\"East Water Place\"</strong> / <strong>\"Big River\"</strong> (Southern Pomo)</p>\n  <p style=\"font-size:13px;color:#CFD8DC\">The 110-mile lifeline of the Pomo world. Rising near Willits, flowing south through Ukiah and Hopland, turning west past Healdsburg to meet the Pacific at Jenner. The <strong>heart of Pomo territory</strong> — more villages lined this river than any other feature in their world. Barrett (1908) recorded dozens of named settlements along its banks.</p>\n  <p style=\"font-size:13px;color:#CFD8DC\">The Pomo called it <strong>Shabaikai</strong> (\"long snake\") and <strong>Ashokawna</strong> (\"east water place\"). Before European contact, the river was seasonal — drying to pools in summer where salmon survived until the rains. Settlers described it as \"swamplike with many side riverlets, bounded by wetlands and riparian forest.\"</p>\n  <p style=\"font-size:13px;color:#EF5350\">In <strong>1908</strong>, the Eel River was diverted into the Russian River headwaters via the Potter Valley Project, fundamentally altering its hydrology. The river now flows year-round — ecologically transformed.</p>\n  <p style=\"font-size:11px;color:#78909C;margin-top:8px\">Sources: Barrett 1908; Russian Riverkeeper; Wikipedia</p>\n</div>",
+      "timePeriods": [
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -148,7 +159,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Dry Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Major Russian River tributary flowing from NW Sonoma County through the Alexander Valley. <strong>Dry Creek Rancheria</strong> (Mihilakawna & Makahmo Southern Pomo) sits near its confluence with the Russian River. <strong>Warm Springs Dam</strong> (1983) created Lake Sonoma, flooding 86,000 acres of ancestral Pomo lands including the original Dry Creek habitation area.</p>\n  </div>"
+      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Dry Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Major Russian River tributary flowing from NW Sonoma County through the Alexander Valley. <strong>Dry Creek Rancheria</strong> (Mihilakawna & Makahmo Southern Pomo) sits near its confluence with the Russian River. <strong>Warm Springs Dam</strong> (1983) created Lake Sonoma, flooding 86,000 acres of ancestral Pomo lands including the original Dry Creek habitation area.</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -182,7 +201,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#80DEEA;margin:0 0 6px\">Laguna de Santa Rosa</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">A 22-mile wetland channel covering <strong>30,000+ acres</strong> from Cotati to Forestville — the largest freshwater wetland complex on the Northern California coast. Home to 200+ bird species, rare salmon, and a mosaic of marshes, riparian forest, oak woodland, and grasslands. The Southern Pomo village of <strong>Batiklechawi</strong> (Sebastopol) sat at its head. Much of the Laguna's wetlands have been degraded by agriculture and urban development.</p>\n  </div>"
+      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#80DEEA;margin:0 0 6px\">Laguna de Santa Rosa</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">A 22-mile wetland channel covering <strong>30,000+ acres</strong> from Cotati to Forestville — the largest freshwater wetland complex on the Northern California coast. Home to 200+ bird species, rare salmon, and a mosaic of marshes, riparian forest, oak woodland, and grasslands. The Southern Pomo village of <strong>Batiklechawi</strong> (Sebastopol) sat at its head. Much of the Laguna's wetlands have been degraded by agriculture and urban development.</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -212,7 +239,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Mark West Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Where the Russian River turns west. Mark West Creek and the Laguna de Santa Rosa form the major southern tributary system. The confluence area was Southern Pomo territory — villages sat along both waterways.</p>\n  </div>"
+      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Mark West Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Where the Russian River turns west. Mark West Creek and the Laguna de Santa Rosa form the major southern tributary system. The confluence area was Southern Pomo territory — villages sat along both waterways.</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -246,7 +281,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Navarro River</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Flows through Anderson Valley — Northern Pomo territory. Villages of <strong>Lemkolil</strong> (near Boonville), <strong>Tabate</strong> (near Philo), and <strong>Katuli</strong> (near Navarro) lined its banks. Anderson Valley has been occupied for 5,000+ years (Mill Creek archaeological site).</p>\n  </div>"
+      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Navarro River</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Flows through Anderson Valley — Northern Pomo territory. Villages of <strong>Lemkolil</strong> (near Boonville), <strong>Tabate</strong> (near Philo), and <strong>Katuli</strong> (near Navarro) lined its banks. Anderson Valley has been occupied for 5,000+ years (Mill Creek archaeological site).</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -276,7 +319,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Gualala River</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Northern boundary of Kashaya Pomo territory. The name 'Gualala' derives from the Kashaya Pomo word <strong>awalali</strong> meaning 'where the waters meet.' Kashaya and Central Pomo villages sat along its banks. The river flows to the Pacific through a dramatic coastal canyon.</p>\n  </div>"
+      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#26C6DA;margin:0 0 6px\">Gualala River</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Northern boundary of Kashaya Pomo territory. The name 'Gualala' derives from the Kashaya Pomo word <strong>awalali</strong> meaning 'where the waters meet.' Kashaya and Central Pomo villages sat along its banks. The river flows to the Pacific through a dramatic coastal canyon.</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -295,7 +346,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -314,7 +373,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -333,7 +400,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -352,7 +427,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -371,7 +456,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -390,7 +483,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -409,7 +510,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -428,7 +537,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -447,7 +566,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -466,7 +595,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -485,7 +622,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -504,7 +651,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -523,7 +680,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -542,7 +709,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -561,7 +736,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -580,7 +763,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -599,7 +790,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -618,7 +815,19 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coast_miwok",
+        "miwok",
+        "pomo"
+      ],
+      "tribes": [
+        "coast_miwok",
+        "miwok",
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -637,7 +846,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -657,7 +876,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -677,7 +904,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -697,7 +930,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -717,7 +958,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -737,7 +986,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo",
+        "wappo"
+      ],
+      "tribes": [
+        "pomo",
+        "wappo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -756,7 +1015,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -775,7 +1042,19 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coast_miwok",
+        "miwok",
+        "pomo"
+      ],
+      "tribes": [
+        "coast_miwok",
+        "miwok",
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -794,7 +1073,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -813,7 +1100,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -832,7 +1129,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -851,7 +1156,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -870,7 +1185,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -889,7 +1214,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -908,7 +1243,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -927,7 +1270,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -991,7 +1342,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#E57373;margin:0 0 6px\">Kashaya Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">\"People From the Top of the Land\" — the only Pomo group to live on the coast. Territory from the Gualala River south to Duncan's Point, inland to the Dry Creek confluence. ~1,500 people pre-contact. The Kashaya experienced less acculturation pressure than other Pomo groups due to their relatively cooperative relationship with the Russians (1812–1841).</p>\n</div>"
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#E57373;margin:0 0 6px\">Kashaya Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">\"People From the Top of the Land\" — the only Pomo group to live on the coast. Territory from the Gualala River south to Duncan's Point, inland to the Dry Creek confluence. ~1,500 people pre-contact. The Kashaya experienced less acculturation pressure than other Pomo groups due to their relatively cooperative relationship with the Russians (1812–1841).</p>\n</div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1055,7 +1414,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#FFB74D;margin:0 0 6px\">Southern Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">Also called <strong>Gallinomero</strong>. Occupied the lower Russian River from Santa Rosa and Sebastopol north to Cloverdale, including the Dry Creek and Alexander Valleys. The Southern Pomo were the first Pomo to suffer Spanish and then American invasion — many were enslaved at Mission San Rafael (1821–1828). Southern Pomo preserves the greatest number of Proto-Pomo syllables of any Pomo language.</p>\n</div>"
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#FFB74D;margin:0 0 6px\">Southern Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">Also called <strong>Gallinomero</strong>. Occupied the lower Russian River from Santa Rosa and Sebastopol north to Cloverdale, including the Dry Creek and Alexander Valleys. The Southern Pomo were the first Pomo to suffer Spanish and then American invasion — many were enslaved at Mission San Rafael (1821–1828). Southern Pomo preserves the greatest number of Proto-Pomo syllables of any Pomo language.</p>\n</div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1111,7 +1478,17 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#81C784;margin:0 0 6px\">Central Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">Settlements along the Russian River (Ukiah Valley, Hopland Valley), coastal (Manchester, Point Arena, Gualala), and between (Yorkville, Anderson Valley). The <strong>Sho-Ka-Wah</strong> of Hopland were the largest Central Pomo community (~1,500 at Shanel village). Central Pomo has several fluent speakers and active language revitalization programs.</p>\n</div>"
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#81C784;margin:0 0 6px\">Central Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">Settlements along the Russian River (Ukiah Valley, Hopland Valley), coastal (Manchester, Point Arena, Gualala), and between (Yorkville, Anderson Valley). The <strong>Sho-Ka-Wah</strong> of Hopland were the largest Central Pomo community (~1,500 at Shanel village). Central Pomo has several fluent speakers and active language revitalization programs.</p>\n</div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -1167,7 +1544,15 @@
         "dashArray": "6,4",
         "pane": "pomoBackgroundPane"
       },
-      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#64B5F6;margin:0 0 6px\">Northern Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">Redwood Valley, Potter Valley, coast near Fort Bragg and the Noyo River, and Anderson Valley (Boonville, Philo, Navarro). The <strong>'Oat Valley People'</strong> (Ballo Kai Pomo) of Potter Valley are now central to decisions about the Eel River diversion. Northern Pomo is critically endangered — last fluent speakers as of 2011.</p>\n</div>"
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#64B5F6;margin:0 0 6px\">Northern Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">Redwood Valley, Potter Valley, coast near Fort Bragg and the Noyo River, and Anderson Valley (Boonville, Philo, Navarro). The <strong>'Oat Valley People'</strong> (Ballo Kai Pomo) of Potter Valley are now central to decisions about the Eel River diversion. Northern Pomo is critically endangered — last fluent speakers as of 2011.</p>\n</div>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

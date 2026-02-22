@@ -6,10 +6,66 @@
       "type": "polygon",
       "layer": "mohicanGlacialLakes",
       "geometry": [
-        [42.82, -73.85], [42.75, -73.65], [42.50, -73.60], [42.20, -73.70],
-        [42.00, -73.80], [41.80, -73.85], [41.65, -73.90], [41.55, -73.95],
-        [41.70, -74.05], [41.85, -74.00], [42.05, -73.95], [42.25, -73.90],
-        [42.50, -73.80], [42.70, -73.78], [42.82, -73.85]
+        [
+          42.82,
+          -73.85
+        ],
+        [
+          42.75,
+          -73.65
+        ],
+        [
+          42.5,
+          -73.6
+        ],
+        [
+          42.2,
+          -73.7
+        ],
+        [
+          42.0,
+          -73.8
+        ],
+        [
+          41.8,
+          -73.85
+        ],
+        [
+          41.65,
+          -73.9
+        ],
+        [
+          41.55,
+          -73.95
+        ],
+        [
+          41.7,
+          -74.05
+        ],
+        [
+          41.85,
+          -74.0
+        ],
+        [
+          42.05,
+          -73.95
+        ],
+        [
+          42.25,
+          -73.9
+        ],
+        [
+          42.5,
+          -73.8
+        ],
+        [
+          42.7,
+          -73.78
+        ],
+        [
+          42.82,
+          -73.85
+        ]
       ],
       "style": {
         "color": "#4682B4",
@@ -20,18 +76,109 @@
         "dashArray": "6,4",
         "pane": "mohicanBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">\ud83c\udf0a Glacial Lake Albany</h3>\n  <p><b>Date:</b> ~15,000\u201310,500 BP</p>\n  <p><b>Extent:</b> ~160 miles from Poughkeepsie to Glens Falls, up to 24 km wide</p>\n  <p><b>Description:</b> A massive proglacial lake filled the entire Hudson Valley. Turquoise-colored from suspended glacial silt, dammed at the south by the Harbor Hill Moraine (connecting Long Island to NJ at the Verrazano Narrows \u2014 then dry land). Fed by the Iromohawk River carrying Lake Iroquois overflow.</p>\n  <p><b>Catastrophic drainage (~13,000\u201310,500 BP):</b> The moraine dam was breached catastrophically, releasing a wall of water that carved the Hudson Shelf Valley \u2014 a 150-km submarine valley still visible on ocean floor maps. Left behind flat clay plains (later the Albany Pine Bush and Hudson Valley brick-making clay banks).</p>\n  <p><b>Paleoindians saw:</b> Earliest arrivals (~12,000 BP) encountered the lake still partially filled \u2014 shorelines retreating, new land emerging from murky glacial waters, braided meltwater channels cutting through barren gravel plains.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS publications on glacial Lake Albany drainage; Connally & Sirkin 1973; Dineen 1986; Wall & LaFleur 1995</p>\n</div>",
-      "popupOptions": {"maxWidth": 400}
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">🌊 Glacial Lake Albany</h3>\n  <p><b>Date:</b> ~15,000–10,500 BP</p>\n  <p><b>Extent:</b> ~160 miles from Poughkeepsie to Glens Falls, up to 24 km wide</p>\n  <p><b>Description:</b> A massive proglacial lake filled the entire Hudson Valley. Turquoise-colored from suspended glacial silt, dammed at the south by the Harbor Hill Moraine (connecting Long Island to NJ at the Verrazano Narrows — then dry land). Fed by the Iromohawk River carrying Lake Iroquois overflow.</p>\n  <p><b>Catastrophic drainage (~13,000–10,500 BP):</b> The moraine dam was breached catastrophically, releasing a wall of water that carved the Hudson Shelf Valley — a 150-km submarine valley still visible on ocean floor maps. Left behind flat clay plains (later the Albany Pine Bush and Hudson Valley brick-making clay banks).</p>\n  <p><b>Paleoindians saw:</b> Earliest arrivals (~12,000 BP) encountered the lake still partially filled — shorelines retreating, new land emerging from murky glacial waters, braided meltwater channels cutting through barren gravel plains.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS publications on glacial Lake Albany drainage; Connally & Sirkin 1973; Dineen 1986; Wall & LaFleur 1995</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "late_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "navajo"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohican",
+        "navajo"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mohicanGlacialLakes",
       "geometry": [
-        [44.42, -72.05], [44.30, -72.00], [44.00, -72.40], [43.50, -72.55],
-        [43.00, -72.55], [42.50, -72.55], [42.20, -72.60], [42.00, -72.62],
-        [41.75, -72.65], [41.66, -72.65], [41.66, -72.75], [41.80, -72.75],
-        [42.05, -72.72], [42.25, -72.70], [42.55, -72.65], [43.05, -72.62],
-        [43.55, -72.60], [44.05, -72.45], [44.35, -72.15], [44.42, -72.05]
+        [
+          44.42,
+          -72.05
+        ],
+        [
+          44.3,
+          -72.0
+        ],
+        [
+          44.0,
+          -72.4
+        ],
+        [
+          43.5,
+          -72.55
+        ],
+        [
+          43.0,
+          -72.55
+        ],
+        [
+          42.5,
+          -72.55
+        ],
+        [
+          42.2,
+          -72.6
+        ],
+        [
+          42.0,
+          -72.62
+        ],
+        [
+          41.75,
+          -72.65
+        ],
+        [
+          41.66,
+          -72.65
+        ],
+        [
+          41.66,
+          -72.75
+        ],
+        [
+          41.8,
+          -72.75
+        ],
+        [
+          42.05,
+          -72.72
+        ],
+        [
+          42.25,
+          -72.7
+        ],
+        [
+          42.55,
+          -72.65
+        ],
+        [
+          43.05,
+          -72.62
+        ],
+        [
+          43.55,
+          -72.6
+        ],
+        [
+          44.05,
+          -72.45
+        ],
+        [
+          44.35,
+          -72.15
+        ],
+        [
+          44.42,
+          -72.05
+        ]
       ],
       "style": {
         "color": "#4682B4",
@@ -42,18 +189,91 @@
         "dashArray": "6,4",
         "pane": "mohicanBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">\ud83c\udf0a Glacial Lake Hitchcock</h3>\n  <p><b>Date:</b> ~17,800\u201313,100 BP (existed ~4,700 years)</p>\n  <p><b>Extent:</b> ~200 miles from Rocky Hill, CT to St. Johnsbury, VT</p>\n  <p><b>Width:</b> 10\u201320 km wide, up to 150 feet deep</p>\n  <p><b>Dammed by:</b> Massive glacial debris pile at Rocky Hill, CT (~1 mile wide)</p>\n  <p><b>Drainage:</b> Dam breached in stages starting ~13,500 BP \u2014 first the southern basin below Holyoke Range, then progressively northward.</p>\n  <p><b>Legacy:</b> Thick clay varve deposits from the lake bottom now form river banks and beds. These clays became habitat for bloodworms \u2014 critical food for fish that ancient people harvested. Flat lake-bottom deltas (now home to Bradley Airport, UMass Amherst) were conspicuous platforms in the post-lake landscape.</p>\n  <p><b>Oral history:</b> Connecticut River peoples preserved stories about a great lake that once filled the valley \u2014 geological knowledge maintained across hundreds of generations.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Ridge et al. Lake Hitchcock varve chronology; Stone & Ashley 1995; Rittenour et al. 2000</p>\n</div>",
-      "popupOptions": {"maxWidth": 400}
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">🌊 Glacial Lake Hitchcock</h3>\n  <p><b>Date:</b> ~17,800–13,100 BP (existed ~4,700 years)</p>\n  <p><b>Extent:</b> ~200 miles from Rocky Hill, CT to St. Johnsbury, VT</p>\n  <p><b>Width:</b> 10–20 km wide, up to 150 feet deep</p>\n  <p><b>Dammed by:</b> Massive glacial debris pile at Rocky Hill, CT (~1 mile wide)</p>\n  <p><b>Drainage:</b> Dam breached in stages starting ~13,500 BP — first the southern basin below Holyoke Range, then progressively northward.</p>\n  <p><b>Legacy:</b> Thick clay varve deposits from the lake bottom now form river banks and beds. These clays became habitat for bloodworms — critical food for fish that ancient people harvested. Flat lake-bottom deltas (now home to Bradley Airport, UMass Amherst) were conspicuous platforms in the post-lake landscape.</p>\n  <p><b>Oral history:</b> Connecticut River peoples preserved stories about a great lake that once filled the valley — geological knowledge maintained across hundreds of generations.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Ridge et al. Lake Hitchcock varve chronology; Stone & Ashley 1995; Rittenour et al. 2000</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mohicanGlacialLakes",
       "geometry": [
-        [45.00, -73.20], [44.80, -73.15], [44.50, -73.20], [44.20, -73.25],
-        [44.00, -73.30], [43.80, -73.35], [43.60, -73.30], [43.40, -73.25],
-        [43.40, -73.40], [43.60, -73.45], [43.80, -73.50], [44.00, -73.45],
-        [44.25, -73.40], [44.55, -73.35], [44.85, -73.30], [45.00, -73.35],
-        [45.00, -73.20]
+        [
+          45.0,
+          -73.2
+        ],
+        [
+          44.8,
+          -73.15
+        ],
+        [
+          44.5,
+          -73.2
+        ],
+        [
+          44.2,
+          -73.25
+        ],
+        [
+          44.0,
+          -73.3
+        ],
+        [
+          43.8,
+          -73.35
+        ],
+        [
+          43.6,
+          -73.3
+        ],
+        [
+          43.4,
+          -73.25
+        ],
+        [
+          43.4,
+          -73.4
+        ],
+        [
+          43.6,
+          -73.45
+        ],
+        [
+          43.8,
+          -73.5
+        ],
+        [
+          44.0,
+          -73.45
+        ],
+        [
+          44.25,
+          -73.4
+        ],
+        [
+          44.55,
+          -73.35
+        ],
+        [
+          44.85,
+          -73.3
+        ],
+        [
+          45.0,
+          -73.35
+        ],
+        [
+          45.0,
+          -73.2
+        ]
       ],
       "style": {
         "color": "#4682B4",
@@ -64,18 +284,91 @@
         "dashArray": "6,4",
         "pane": "mohicanBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">\ud83c\udf0a Glacial Lake Vermont</h3>\n  <p><b>Date:</b> ~15,000\u201313,100 BP</p>\n  <p><b>Description:</b> Predecessor to both the Champlain Sea and Lake Champlain. Formed as ice retreated northward through the valley. Drained southward through the Hudson Valley (its outlet fed into Lake Albany). Burlington, VT and Plattsburgh, NY were underwater. Mount Philo was an island.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chapman 1937; Rayburn et al. 2005; Parent & Occhietti 1988</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">🌊 Glacial Lake Vermont</h3>\n  <p><b>Date:</b> ~15,000–13,100 BP</p>\n  <p><b>Description:</b> Predecessor to both the Champlain Sea and Lake Champlain. Formed as ice retreated northward through the valley. Drained southward through the Hudson Valley (its outlet fed into Lake Albany). Burlington, VT and Plattsburgh, NY were underwater. Mount Philo was an island.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chapman 1937; Rayburn et al. 2005; Parent & Occhietti 1988</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mohicanChamplainSea",
       "geometry": [
-        [45.00, -73.20], [44.80, -73.15], [44.50, -73.20], [44.20, -73.25],
-        [44.00, -73.30], [43.80, -73.35], [43.60, -73.30], [43.40, -73.25],
-        [43.40, -73.40], [43.60, -73.45], [43.80, -73.50], [44.00, -73.45],
-        [44.25, -73.40], [44.55, -73.35], [44.85, -73.30], [45.00, -73.35],
-        [45.00, -73.20]
+        [
+          45.0,
+          -73.2
+        ],
+        [
+          44.8,
+          -73.15
+        ],
+        [
+          44.5,
+          -73.2
+        ],
+        [
+          44.2,
+          -73.25
+        ],
+        [
+          44.0,
+          -73.3
+        ],
+        [
+          43.8,
+          -73.35
+        ],
+        [
+          43.6,
+          -73.3
+        ],
+        [
+          43.4,
+          -73.25
+        ],
+        [
+          43.4,
+          -73.4
+        ],
+        [
+          43.6,
+          -73.45
+        ],
+        [
+          43.8,
+          -73.5
+        ],
+        [
+          44.0,
+          -73.45
+        ],
+        [
+          44.25,
+          -73.4
+        ],
+        [
+          44.55,
+          -73.35
+        ],
+        [
+          44.85,
+          -73.3
+        ],
+        [
+          45.0,
+          -73.35
+        ],
+        [
+          45.0,
+          -73.2
+        ]
       ],
       "style": {
         "color": "#006994",
@@ -86,16 +379,64 @@
         "dashArray": "4,3",
         "pane": "mohicanBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006994\">\ud83d\udc0b The Champlain Sea</h3>\n  <p><b>Date:</b> ~13,100\u201310,000 BP</p>\n  <p><b>Salinity:</b> Up to 25 psu (practical salinity units)</p>\n  <p><b>Description:</b> When ice retreated from the St. Lawrence Valley, the Atlantic Ocean rushed in through the isostatically depressed landscape. The Champlain Valley became an arm of the Atlantic Ocean.</p>\n  <p><b>Marine life:</b> <b>Beluga whales, Atlantic cod, seals, and blue mussels</b> lived where Lake Champlain is today. A beluga whale skeleton found in Charlotte, VT (1849) is on display at UVM.</p>\n  <p><b>Extent:</b> As far south as Lake Champlain's present extent and as far west as Ottawa, Ontario. Marine shoreline features preserved at 150\u2013200 meters above modern sea level \u2014 evidence of how far the land was pushed down by ice weight.</p>\n  <p><b>Transition:</b> Isostatic rebound (the land rising after ice removal) gradually pushed the sea out. By ~10,000 BP, freshwater Lake Champlain had formed.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Cronin et al. 2008; Rodrigues 1992; Parent & Occhietti 1988; UVM Natural History Museum</p>\n</div>",
-      "popupOptions": {"maxWidth": 400}
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006994\">🐋 The Champlain Sea</h3>\n  <p><b>Date:</b> ~13,100–10,000 BP</p>\n  <p><b>Salinity:</b> Up to 25 psu (practical salinity units)</p>\n  <p><b>Description:</b> When ice retreated from the St. Lawrence Valley, the Atlantic Ocean rushed in through the isostatically depressed landscape. The Champlain Valley became an arm of the Atlantic Ocean.</p>\n  <p><b>Marine life:</b> <b>Beluga whales, Atlantic cod, seals, and blue mussels</b> lived where Lake Champlain is today. A beluga whale skeleton found in Charlotte, VT (1849) is on display at UVM.</p>\n  <p><b>Extent:</b> As far south as Lake Champlain's present extent and as far west as Ottawa, Ontario. Marine shoreline features preserved at 150–200 meters above modern sea level — evidence of how far the land was pushed down by ice weight.</p>\n  <p><b>Transition:</b> Isostatic rebound (the land rising after ice removal) gradually pushed the sea out. By ~10,000 BP, freshwater Lake Champlain had formed.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Cronin et al. 2008; Rodrigues 1992; Parent & Occhietti 1988; UVM Natural History Museum</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "early_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "mohicanGlacialLakes",
       "geometry": [
-        [40.70, -74.08], [40.68, -74.00], [40.63, -73.98], [40.58, -74.05],
-        [40.55, -74.10], [40.52, -74.18], [40.55, -74.22], [40.60, -74.18],
-        [40.65, -74.12], [40.70, -74.08]
+        [
+          40.7,
+          -74.08
+        ],
+        [
+          40.68,
+          -74.0
+        ],
+        [
+          40.63,
+          -73.98
+        ],
+        [
+          40.58,
+          -74.05
+        ],
+        [
+          40.55,
+          -74.1
+        ],
+        [
+          40.52,
+          -74.18
+        ],
+        [
+          40.55,
+          -74.22
+        ],
+        [
+          40.6,
+          -74.18
+        ],
+        [
+          40.65,
+          -74.12
+        ],
+        [
+          40.7,
+          -74.08
+        ]
       ],
       "style": {
         "color": "#4682B4",
@@ -106,317 +447,1271 @@
         "dashArray": "6,4",
         "pane": "mohicanBackgroundPane"
       },
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">\ud83c\udf0a Glacial Lake Hudson</h3>\n  <p><b>Extent:</b> Filled Upper New York Bay</p>\n  <p><b>Breach:</b> ~6,000 BP \u2014 broke through the Narrows, separating Staten Island from Long Island and creating the New York archipelago in its recognizable form.</p>\n  <p><b>Significance:</b> This breach, combined with sea level stabilizing near modern levels, is when the Hudson estuary reached approximately its modern extent \u2014 tidal influence from the Battery to Troy (153 miles). The Hudson truly became <i>Muh-he-kun-ne-tuk</i>.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Pekar et al. 2004; Weiss 1974; Newman et al. 1969</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">🌊 Glacial Lake Hudson</h3>\n  <p><b>Extent:</b> Filled Upper New York Bay</p>\n  <p><b>Breach:</b> ~6,000 BP — broke through the Narrows, separating Staten Island from Long Island and creating the New York archipelago in its recognizable form.</p>\n  <p><b>Significance:</b> This breach, combined with sea level stabilizing near modern levels, is when the Hudson estuary reached approximately its modern extent — tidal influence from the Battery to Troy (153 miles). The Hudson truly became <i>Muh-he-kun-ne-tuk</i>.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Pekar et al. 2004; Weiss 1974; Newman et al. 1969</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanArchSites",
-      "geometry": {"lat": 44.97, "lng": -73.02},
-      "style": {"radius": 5, "color": "#708090", "fillColor": "#708090", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">\u2b22 Reagan Site \u2014 Paleoindian on Champlain Sea Beach</h3>\n    <p><b>Date:</b> ~11,000\u201310,000 BP (Paleoindian)</p>\n    <p><b>Location:</b> Highgate, VT \u2014 on sand dunes formed from Champlain Sea beach deposits</p>\n    <p><b>Significance:</b> Paleoindian artifacts in dunes from the saltwater Champlain Sea. These people were living on the edge of a saltwater sea where a freshwater lake exists today.</p>\n    <p><b>Landscape:</b> The Champlain Valley was an arm of the Atlantic Ocean with beluga whales, seals, and cod. As the land rebounded from ice weight, the sea retreated and freshwater Lake Champlain formed.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Loring 1980; Haviland & Power 1994; Cronin et al. 2008</p>\n  </div>"
+      "geometry": {
+        "lat": 44.97,
+        "lng": -73.02
+      },
+      "style": {
+        "radius": 5,
+        "color": "#708090",
+        "fillColor": "#708090",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">⬢ Reagan Site — Paleoindian on Champlain Sea Beach</h3>\n    <p><b>Date:</b> ~11,000–10,000 BP (Paleoindian)</p>\n    <p><b>Location:</b> Highgate, VT — on sand dunes formed from Champlain Sea beach deposits</p>\n    <p><b>Significance:</b> Paleoindian artifacts in dunes from the saltwater Champlain Sea. These people were living on the edge of a saltwater sea where a freshwater lake exists today.</p>\n    <p><b>Landscape:</b> The Champlain Valley was an arm of the Atlantic Ocean with beluga whales, seals, and cod. As the land rebounded from ice weight, the sea retreated and freshwater Lake Champlain formed.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Loring 1980; Haviland & Power 1994; Cronin et al. 2008</p>\n  </div>",
+      "timePeriods": [
+        "early_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanArchSites",
-      "geometry": {"lat": 44.67, "lng": -73.00},
-      "style": {"radius": 4, "color": "#708090", "fillColor": "#708090", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">\u2b22 Fairfax Sandblows (VT-FR-64)</h3>\n    <p><b>Date:</b> Paleoindian period</p>\n    <p><b>Location:</b> Fairfax, Franklin County, VT</p>\n    <p><b>Significance:</b> Paleoindian artifacts found in sand dunes formed from Champlain Sea beach deposits \u2014 evidence of people living on the shores of the saltwater Champlain Sea.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Haviland & Power 1994; VT Division for Historic Preservation</p>\n  </div>"
+      "geometry": {
+        "lat": 44.67,
+        "lng": -73.0
+      },
+      "style": {
+        "radius": 4,
+        "color": "#708090",
+        "fillColor": "#708090",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">⬢ Fairfax Sandblows (VT-FR-64)</h3>\n    <p><b>Date:</b> Paleoindian period</p>\n    <p><b>Location:</b> Fairfax, Franklin County, VT</p>\n    <p><b>Significance:</b> Paleoindian artifacts found in sand dunes formed from Champlain Sea beach deposits — evidence of people living on the shores of the saltwater Champlain Sea.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Haviland & Power 1994; VT Division for Historic Preservation</p>\n  </div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanChamplainSea",
-      "geometry": {"lat": 44.31, "lng": -73.21},
-      "style": {"radius": 5, "color": "#006994", "fillColor": "#006994", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#006994\">\ud83d\udc0b Charlotte Beluga Whale Skeleton</h3>\n    <p><b>Date found:</b> 1849</p>\n    <p><b>Age:</b> ~12,000\u201311,000 BP (Champlain Sea period)</p>\n    <p><b>Location:</b> Charlotte, VT \u2014 found during railroad construction</p>\n    <p><b>Significance:</b> A complete beluga whale skeleton found 10 feet underground \u2014 proof that the Champlain Valley was once a saltwater arm of the Atlantic Ocean. Vermont's state fossil. On display at UVM Perkins Museum of Geology.</p>\n    <p><b>Context:</b> During the Paleoindian period, beluga whales, Atlantic cod, seals, and blue mussels inhabited these waters where Lake Champlain sits today.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> UVM Perkins Museum; Harington 1988; Cronin et al. 2008</p>\n  </div>"
+      "geometry": {
+        "lat": 44.31,
+        "lng": -73.21
+      },
+      "style": {
+        "radius": 5,
+        "color": "#006994",
+        "fillColor": "#006994",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#006994\">🐋 Charlotte Beluga Whale Skeleton</h3>\n    <p><b>Date found:</b> 1849</p>\n    <p><b>Age:</b> ~12,000–11,000 BP (Champlain Sea period)</p>\n    <p><b>Location:</b> Charlotte, VT — found during railroad construction</p>\n    <p><b>Significance:</b> A complete beluga whale skeleton found 10 feet underground — proof that the Champlain Valley was once a saltwater arm of the Atlantic Ocean. Vermont's state fossil. On display at UVM Perkins Museum of Geology.</p>\n    <p><b>Context:</b> During the Paleoindian period, beluga whales, Atlantic cod, seals, and blue mussels inhabited these waters where Lake Champlain sits today.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> UVM Perkins Museum; Harington 1988; Cronin et al. 2008</p>\n  </div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanArchSites",
-      "geometry": {"lat": 42.60, "lng": -72.55},
-      "style": {"radius": 5, "color": "#708090", "fillColor": "#708090", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">\u2b22 Turners Falls \u2014 Paleoindian Occupation</h3>\n    <p><b>Date:</b> ~10,500+ BP</p>\n    <p><b>Location:</b> Turners Falls area, Montague, MA</p>\n    <p><b>Context:</b> When Paleoindians occupied this area, Lake Hitchcock may have still partially existed in northern reaches, or had very recently drained. People lived on former lake terraces and deltas \u2014 flat, sandy, well-drained surfaces overlooking the newly emerging Connecticut River.</p>\n    <p><b>Landscape:</b> Vast flat expanses of lake-bottom clay and silt, punctuated by sand dune fields and gravel deltas where meltwater streams had once entered the lake. Treeless tundra transitioning to scattered spruce.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chilton et al. 2005; Thomas 1980; Ridge et al. varve chronology</p>\n  </div>"
+      "geometry": {
+        "lat": 42.6,
+        "lng": -72.55
+      },
+      "style": {
+        "radius": 5,
+        "color": "#708090",
+        "fillColor": "#708090",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#708090\">⬢ Turners Falls — Paleoindian Occupation</h3>\n    <p><b>Date:</b> ~10,500+ BP</p>\n    <p><b>Location:</b> Turners Falls area, Montague, MA</p>\n    <p><b>Context:</b> When Paleoindians occupied this area, Lake Hitchcock may have still partially existed in northern reaches, or had very recently drained. People lived on former lake terraces and deltas — flat, sandy, well-drained surfaces overlooking the newly emerging Connecticut River.</p>\n    <p><b>Landscape:</b> Vast flat expanses of lake-bottom clay and silt, punctuated by sand dune fields and gravel deltas where meltwater streams had once entered the lake. Treeless tundra transitioning to scattered spruce.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chilton et al. 2005; Thomas 1980; Ridge et al. varve chronology</p>\n  </div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanRivers",
       "geometry": [
-        [42.75, -73.69], [42.65, -73.75], [42.45, -73.78], [42.25, -73.80],
-        [42.10, -73.85], [42.00, -73.90], [41.90, -73.95], [41.80, -73.96],
-        [41.70, -73.97], [41.55, -73.98], [41.45, -73.99], [41.35, -73.97],
-        [41.25, -73.96], [41.15, -73.95], [41.05, -73.95], [40.95, -73.92],
-        [40.85, -73.92], [40.75, -73.97], [40.70, -74.00]
+        [
+          42.75,
+          -73.69
+        ],
+        [
+          42.65,
+          -73.75
+        ],
+        [
+          42.45,
+          -73.78
+        ],
+        [
+          42.25,
+          -73.8
+        ],
+        [
+          42.1,
+          -73.85
+        ],
+        [
+          42.0,
+          -73.9
+        ],
+        [
+          41.9,
+          -73.95
+        ],
+        [
+          41.8,
+          -73.96
+        ],
+        [
+          41.7,
+          -73.97
+        ],
+        [
+          41.55,
+          -73.98
+        ],
+        [
+          41.45,
+          -73.99
+        ],
+        [
+          41.35,
+          -73.97
+        ],
+        [
+          41.25,
+          -73.96
+        ],
+        [
+          41.15,
+          -73.95
+        ],
+        [
+          41.05,
+          -73.95
+        ],
+        [
+          40.95,
+          -73.92
+        ],
+        [
+          40.85,
+          -73.92
+        ],
+        [
+          40.75,
+          -73.97
+        ],
+        [
+          40.7,
+          -74.0
+        ]
       ],
-      "style": {"color": "#006D6F", "weight": 4, "opacity": 0.85},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006D6F\">\ud83c\udfde\ufe0f Muh-he-kun-ne-tuk \u2014 Hudson River</h3>\n  <p><b>Name meaning:</b> \"The river that flows both ways\" (Mohican)</p>\n  <p><b>Length:</b> 315 miles; tidal for 153 miles (Battery to Troy)</p>\n  <p><b>Evolution:</b></p>\n  <p>\u2022 <b>15,000 BP:</b> Glacial Lake Albany fills the valley</p>\n  <p>\u2022 <b>10,500 BP:</b> Lake drains; freshwater river emerges</p>\n  <p>\u2022 <b>8,000 BP:</b> Estuary forming in lower reaches; tidal head migrating north</p>\n  <p>\u2022 <b>6,000 BP:</b> Sea level stabilizes; full estuary to Troy established</p>\n  <p>\u2022 <b>1,000 BP:</b> Peak ecological abundance \u2014 sturgeon, striped bass, shad, salmon, herring, lamprey</p>\n  <p><b>Salinity zones:</b> Polyhaline near NYC \u2192 mesohaline through Highlands \u2192 oligohaline mid-valley \u2192 freshwater tidal Kingston to Troy</p>\n  <p><b>Tidal character:</b> Twice daily, tides pushed saltwater as far north as Poughkeepsie and tidal influence to Troy \u2014 defining Mohican daily life and identity.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Pekar et al. 2004; Scenic Hudson; USGS Hudson River estuary studies</p>\n</div>",
-      "popupOptions": {"maxWidth": 400}
+      "style": {
+        "color": "#006D6F",
+        "weight": 4,
+        "opacity": 0.85
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006D6F\">🏞️ Muh-he-kun-ne-tuk — Hudson River</h3>\n  <p><b>Name meaning:</b> \"The river that flows both ways\" (Mohican)</p>\n  <p><b>Length:</b> 315 miles; tidal for 153 miles (Battery to Troy)</p>\n  <p><b>Evolution:</b></p>\n  <p>• <b>15,000 BP:</b> Glacial Lake Albany fills the valley</p>\n  <p>• <b>10,500 BP:</b> Lake drains; freshwater river emerges</p>\n  <p>• <b>8,000 BP:</b> Estuary forming in lower reaches; tidal head migrating north</p>\n  <p>• <b>6,000 BP:</b> Sea level stabilizes; full estuary to Troy established</p>\n  <p>• <b>1,000 BP:</b> Peak ecological abundance — sturgeon, striped bass, shad, salmon, herring, lamprey</p>\n  <p><b>Salinity zones:</b> Polyhaline near NYC → mesohaline through Highlands → oligohaline mid-valley → freshwater tidal Kingston to Troy</p>\n  <p><b>Tidal character:</b> Twice daily, tides pushed saltwater as far north as Poughkeepsie and tidal influence to Troy — defining Mohican daily life and identity.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Pekar et al. 2004; Scenic Hudson; USGS Hudson River estuary studies</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [
+        "mohican"
+      ],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanRivers",
       "geometry": [
-        [44.95, -71.50], [44.50, -71.75], [44.20, -72.05], [43.80, -72.20],
-        [43.40, -72.35], [43.10, -72.45], [42.80, -72.55], [42.60, -72.60],
-        [42.30, -72.58], [42.10, -72.62], [41.80, -72.65], [41.55, -72.65],
-        [41.35, -72.38], [41.28, -72.34]
+        [
+          44.95,
+          -71.5
+        ],
+        [
+          44.5,
+          -71.75
+        ],
+        [
+          44.2,
+          -72.05
+        ],
+        [
+          43.8,
+          -72.2
+        ],
+        [
+          43.4,
+          -72.35
+        ],
+        [
+          43.1,
+          -72.45
+        ],
+        [
+          42.8,
+          -72.55
+        ],
+        [
+          42.6,
+          -72.6
+        ],
+        [
+          42.3,
+          -72.58
+        ],
+        [
+          42.1,
+          -72.62
+        ],
+        [
+          41.8,
+          -72.65
+        ],
+        [
+          41.55,
+          -72.65
+        ],
+        [
+          41.35,
+          -72.38
+        ],
+        [
+          41.28,
+          -72.34
+        ]
       ],
-      "style": {"color": "#006D6F", "weight": 3.5, "opacity": 0.85},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006D6F\">\ud83c\udfde\ufe0f Connecticut River \u2014 Unbroken Corridor</h3>\n  <p><b>Pre-dam condition:</b> Salmon could travel from Long Island Sound to headwaters in northern NH \u2014 over 400 miles without a single obstruction. Shad traveled unimpeded to Bellows Falls (200+ miles).</p>\n  <p><b>Evolution:</b></p>\n  <p>\u2022 <b>17,800\u201313,100 BP:</b> Glacial Lake Hitchcock fills the valley</p>\n  <p>\u2022 <b>13,000 BP:</b> Lake drains in stages; river cuts through varve clay deposits</p>\n  <p>\u2022 <b>8,000 BP:</b> Great Falls at Bellows Falls and Turners Falls established as major fishing sites</p>\n  <p>\u2022 <b>1,000 BP:</b> \"The most fertile salmon habitat in the Eastern United States\"</p>\n  <p><b>Fish runs:</b> Salmon, shad, trout, herring, bass, lamprey \u2014 smoked, dried, and roasted at processing sites near the Great Falls.</p>\n  <p><b>Destruction:</b> 1798 dam at Montague killed all salmon by the War of 1812. 45-year restoration effort abandoned in 2012 as a failure.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Bellows Falls Kchi P\u00f4ntegok Project; Bendremer & Thomas 2008</p>\n</div>",
-      "popupOptions": {"maxWidth": 400}
+      "style": {
+        "color": "#006D6F",
+        "weight": 3.5,
+        "opacity": 0.85
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006D6F\">🏞️ Connecticut River — Unbroken Corridor</h3>\n  <p><b>Pre-dam condition:</b> Salmon could travel from Long Island Sound to headwaters in northern NH — over 400 miles without a single obstruction. Shad traveled unimpeded to Bellows Falls (200+ miles).</p>\n  <p><b>Evolution:</b></p>\n  <p>• <b>17,800–13,100 BP:</b> Glacial Lake Hitchcock fills the valley</p>\n  <p>• <b>13,000 BP:</b> Lake drains in stages; river cuts through varve clay deposits</p>\n  <p>• <b>8,000 BP:</b> Great Falls at Bellows Falls and Turners Falls established as major fishing sites</p>\n  <p>• <b>1,000 BP:</b> \"The most fertile salmon habitat in the Eastern United States\"</p>\n  <p><b>Fish runs:</b> Salmon, shad, trout, herring, bass, lamprey — smoked, dried, and roasted at processing sites near the Great Falls.</p>\n  <p><b>Destruction:</b> 1798 dam at Montague killed all salmon by the War of 1812. 45-year restoration effort abandoned in 2012 as a failure.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Bellows Falls Kchi Pôntegok Project; Bendremer & Thomas 2008</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "early_archaic",
+        "formative",
+        "late_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanRivers",
       "geometry": [
-        [42.45, -73.25], [42.35, -73.23], [42.20, -73.30], [42.10, -73.35],
-        [42.00, -73.32], [41.90, -73.33], [41.78, -73.32], [41.65, -73.30],
-        [41.50, -73.25], [41.35, -73.20], [41.20, -73.17], [41.10, -73.15]
+        [
+          42.45,
+          -73.25
+        ],
+        [
+          42.35,
+          -73.23
+        ],
+        [
+          42.2,
+          -73.3
+        ],
+        [
+          42.1,
+          -73.35
+        ],
+        [
+          42.0,
+          -73.32
+        ],
+        [
+          41.9,
+          -73.33
+        ],
+        [
+          41.78,
+          -73.32
+        ],
+        [
+          41.65,
+          -73.3
+        ],
+        [
+          41.5,
+          -73.25
+        ],
+        [
+          41.35,
+          -73.2
+        ],
+        [
+          41.2,
+          -73.17
+        ],
+        [
+          41.1,
+          -73.15
+        ]
       ],
-      "style": {"color": "#006D6F", "weight": 3, "opacity": 0.85},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006D6F\">\ud83c\udfde\ufe0f Usi-a-di-en-uk \u2014 Housatonic River</h3>\n  <p><b>Name meaning:</b> \"Beyond the mountain place\" or \"river of the mountain place\" (Mohican)</p>\n  <p><b>Mohican heartland:</b> The broad valley from Pittsfield through Great Barrington provided rich floodplains for agriculture.</p>\n  <p><b>Key sites:</b> Old Indian Fordway at Great Barrington (critical river crossing); Canoe Meadows/Unkamet's Crossing at Pittsfield.</p>\n  <p><b>7,000+ years of occupation:</b> Settlement at Weatogue/Bartholomew's Cobble dates to at least 7,000 BP.</p>\n  <p><b>Destruction:</b> 28+ paper mill dams by end of Civil War. Now one of the most PCB-contaminated rivers in the country (GE Pittsfield plant).</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Housatonic watershed geological surveys; Lavin 2013; Brumbach 1986</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "style": {
+        "color": "#006D6F",
+        "weight": 3,
+        "opacity": 0.85
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#006D6F\">🏞️ Usi-a-di-en-uk — Housatonic River</h3>\n  <p><b>Name meaning:</b> \"Beyond the mountain place\" or \"river of the mountain place\" (Mohican)</p>\n  <p><b>Mohican heartland:</b> The broad valley from Pittsfield through Great Barrington provided rich floodplains for agriculture.</p>\n  <p><b>Key sites:</b> Old Indian Fordway at Great Barrington (critical river crossing); Canoe Meadows/Unkamet's Crossing at Pittsfield.</p>\n  <p><b>7,000+ years of occupation:</b> Settlement at Weatogue/Bartholomew's Cobble dates to at least 7,000 BP.</p>\n  <p><b>Destruction:</b> 28+ paper mill dams by end of Civil War. Now one of the most PCB-contaminated rivers in the country (GE Pittsfield plant).</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Housatonic watershed geological surveys; Lavin 2013; Brumbach 1986</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "early_archaic",
+        "historic"
+      ],
+      "cultures": [
+        "mohican"
+      ],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanRivers",
       "geometry": [
-        [40.50, -73.85], [40.30, -73.50], [40.10, -73.20], [39.80, -72.80],
-        [39.50, -72.40], [39.20, -72.00]
+        [
+          40.5,
+          -73.85
+        ],
+        [
+          40.3,
+          -73.5
+        ],
+        [
+          40.1,
+          -73.2
+        ],
+        [
+          39.8,
+          -72.8
+        ],
+        [
+          39.5,
+          -72.4
+        ],
+        [
+          39.2,
+          -72.0
+        ]
       ],
-      "style": {"color": "#4682B4", "weight": 2.5, "opacity": 0.6, "dashArray": "8,4"},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">\ud83c\udf0a Hudson Canyon \u2014 Submarine River</h3>\n  <p><b>Length:</b> 400+ miles across the continental shelf</p>\n  <p><b>Scale:</b> Comparable to the Grand Canyon (walls up to 3,600 ft at continental slope)</p>\n  <p><b>Origin:</b> During the Paleoindian period, sea level was 350\u2013400 ft lower and the coastline was 50\u2013100 miles further east. The Hudson River flowed across the exposed continental shelf in this channel \u2014 the ancient river mouth was near the shelf edge, ~100 miles east of modern Manhattan.</p>\n  <p><b>All Paleoindian coastal sites</b> from this period are now submerged beneath the Atlantic.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS; Uchupi et al. 2001; Newman et al. 1969</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "style": {
+        "color": "#4682B4",
+        "weight": 2.5,
+        "opacity": 0.6,
+        "dashArray": "8,4"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">🌊 Hudson Canyon — Submarine River</h3>\n  <p><b>Length:</b> 400+ miles across the continental shelf</p>\n  <p><b>Scale:</b> Comparable to the Grand Canyon (walls up to 3,600 ft at continental slope)</p>\n  <p><b>Origin:</b> During the Paleoindian period, sea level was 350–400 ft lower and the coastline was 50–100 miles further east. The Hudson River flowed across the exposed continental shelf in this channel — the ancient river mouth was near the shelf edge, ~100 miles east of modern Manhattan.</p>\n  <p><b>All Paleoindian coastal sites</b> from this period are now submerged beneath the Atlantic.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS; Uchupi et al. 2001; Newman et al. 1969</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanVillages",
-      "geometry": {"lat": 42.53, "lng": -73.73},
-      "style": {"radius": 5, "color": "#8B4513", "fillColor": "#DEB887", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u2b22 Papscanee Island / Goldkrest Site (Nanosech)</h3>\n    <p><b>Period:</b> Late Woodland (prominent by ~AD 1000)</p>\n    <p><b>Location:</b> East bank of Hudson, Rensselaer County, NY</p>\n    <p><b>Description:</b> Warm-season fishing site surrounded by marshes and rich alluvial soils. By ~AD 1000, evidence of corn production and deliberate forest burning for clearing \u2014 this affected watershed dynamics, increasing runoff and expanding meadow/wetland areas near the village.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chilton 2010; Brumbach 1975; Funk 1976</p>\n  </div>"
+      "geometry": {
+        "lat": 42.53,
+        "lng": -73.73
+      },
+      "style": {
+        "radius": 5,
+        "color": "#8B4513",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Papscanee Island / Goldkrest Site (Nanosech)</h3>\n    <p><b>Period:</b> Late Woodland (prominent by ~AD 1000)</p>\n    <p><b>Location:</b> East bank of Hudson, Rensselaer County, NY</p>\n    <p><b>Description:</b> Warm-season fishing site surrounded by marshes and rich alluvial soils. By ~AD 1000, evidence of corn production and deliberate forest burning for clearing — this affected watershed dynamics, increasing runoff and expanding meadow/wetland areas near the village.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chilton 2010; Brumbach 1975; Funk 1976</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanVillages",
-      "geometry": {"lat": 42.85, "lng": -73.63},
-      "style": {"radius": 5, "color": "#8B4513", "fillColor": "#DEB887", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u2b22 Winney's Rift \u2014 Mohican Nucleated Settlement</h3>\n    <p><b>Period:</b> Middle Woodland through Late Woodland</p>\n    <p><b>Location:</b> Upper Hudson River, Saratoga County, NY</p>\n    <p><b>Significance:</b> Shows Mohican occupation becoming \"increasingly nucleated and year-round\" \u2014 the river was productive enough to support semi-permanent settlement. Evidence of growing sedentism tied to abundant estuarine resources.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brumbach 1975; Funk 1976; Snow 1980</p>\n  </div>"
+      "geometry": {
+        "lat": 42.85,
+        "lng": -73.63
+      },
+      "style": {
+        "radius": 5,
+        "color": "#8B4513",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Winney's Rift — Mohican Nucleated Settlement</h3>\n    <p><b>Period:</b> Middle Woodland through Late Woodland</p>\n    <p><b>Location:</b> Upper Hudson River, Saratoga County, NY</p>\n    <p><b>Significance:</b> Shows Mohican occupation becoming \"increasingly nucleated and year-round\" — the river was productive enough to support semi-permanent settlement. Evidence of growing sedentism tied to abundant estuarine resources.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brumbach 1975; Funk 1976; Snow 1980</p>\n  </div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "mohican"
+      ],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanVillages",
-      "geometry": {"lat": 42.22, "lng": -73.73},
-      "style": {"radius": 4, "color": "#8B4513", "fillColor": "#DEB887", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u2b22 Claverack Creek / Spook Rock</h3>\n    <p><b>Period:</b> Middle Archaic through Woodland</p>\n    <p><b>Location:</b> Near Hudson, NY (Columbia County)</p>\n    <p><b>Description:</b> Proto-Mohican camps showing winter occupation along Claverack Creek with seasonal movement to the Hudson River in warmer months. Demonstrates the seasonal round that characterized Mohican life \u2014 interior creek sites in winter, river sites in summer for fishing.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Funk 1976; Ritchie 1994</p>\n  </div>"
+      "geometry": {
+        "lat": 42.22,
+        "lng": -73.73
+      },
+      "style": {
+        "radius": 4,
+        "color": "#8B4513",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Claverack Creek / Spook Rock</h3>\n    <p><b>Period:</b> Middle Archaic through Woodland</p>\n    <p><b>Location:</b> Near Hudson, NY (Columbia County)</p>\n    <p><b>Description:</b> Proto-Mohican camps showing winter occupation along Claverack Creek with seasonal movement to the Hudson River in warmer months. Demonstrates the seasonal round that characterized Mohican life — interior creek sites in winter, river sites in summer for fishing.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Funk 1976; Ritchie 1994</p>\n  </div>",
+      "timePeriods": [
+        "middle_archaic"
+      ],
+      "cultures": [
+        "mohican"
+      ],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanVillages",
-      "geometry": {"lat": 42.05, "lng": -73.33},
-      "style": {"radius": 5, "color": "#8B4513", "fillColor": "#DEB887", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u2b22 Weatogue / Bartholomew's Cobble</h3>\n    <p><b>Date:</b> ~7,000+ years of Native American settlement</p>\n    <p><b>Location:</b> Along the Housatonic River, Ashley Falls/Sheffield, MA</p>\n    <p><b>Significance:</b> One of the longest continuously occupied sites in the Housatonic Valley. Located where the river stabilized in its marble valley course through the Berkshires.</p>\n    <p><b>Landscape:</b> The river cut through easily eroded Stockbridge Formation limestone/marble, creating a continually changing path through the Marble Valley.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Housatonic watershed surveys; Lavin 2013</p>\n  </div>"
+      "geometry": {
+        "lat": 42.05,
+        "lng": -73.33
+      },
+      "style": {
+        "radius": 5,
+        "color": "#8B4513",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Weatogue / Bartholomew's Cobble</h3>\n    <p><b>Date:</b> ~7,000+ years of Native American settlement</p>\n    <p><b>Location:</b> Along the Housatonic River, Ashley Falls/Sheffield, MA</p>\n    <p><b>Significance:</b> One of the longest continuously occupied sites in the Housatonic Valley. Located where the river stabilized in its marble valley course through the Berkshires.</p>\n    <p><b>Landscape:</b> The river cut through easily eroded Stockbridge Formation limestone/marble, creating a continually changing path through the Marble Valley.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Housatonic watershed surveys; Lavin 2013</p>\n  </div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "mohican"
+      ],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanVillages",
-      "geometry": {"lat": 42.02, "lng": -73.43},
-      "style": {"radius": 4, "color": "#8B4513", "fillColor": "#DEB887", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u2b22 Twin Lakes \u2014 Ancient Lakeside Occupation</h3>\n    <p><b>Date:</b> ~5,000+ years (likely earlier)</p>\n    <p><b>Location:</b> Salisbury, CT</p>\n    <p><b>Description:</b> Long-term occupation site at the lakes, part of the broader Housatonic watershed settlement pattern.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Lavin 2013; CT State Historic Preservation Office</p>\n  </div>"
+      "geometry": {
+        "lat": 42.02,
+        "lng": -73.43
+      },
+      "style": {
+        "radius": 4,
+        "color": "#8B4513",
+        "fillColor": "#DEB887",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Twin Lakes — Ancient Lakeside Occupation</h3>\n    <p><b>Date:</b> ~5,000+ years (likely earlier)</p>\n    <p><b>Location:</b> Salisbury, CT</p>\n    <p><b>Description:</b> Long-term occupation site at the lakes, part of the broader Housatonic watershed settlement pattern.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Lavin 2013; CT State Historic Preservation Office</p>\n  </div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanVillages",
-      "geometry": {"lat": 42.45, "lng": -73.26},
-      "style": {"radius": 5, "color": "#8B4513", "fillColor": "#DC143C", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u2b22 Canoe Meadows / Unkamet's Crossing</h3>\n    <p><b>Period:</b> Late Woodland / Contact</p>\n    <p><b>Location:</b> Pittsfield, MA \u2014 along the Housatonic River</p>\n    <p><b>Significance:</b> A major Mohican site along the Housatonic. The name \"Canoe Meadows\" reflects the importance of water travel. The broad, flat valley between Pittsfield and Great Barrington supported rich agricultural floodplains.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brasser 1978; Dunn 1994</p>\n  </div>"
+      "geometry": {
+        "lat": 42.45,
+        "lng": -73.26
+      },
+      "style": {
+        "radius": 5,
+        "color": "#8B4513",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Canoe Meadows / Unkamet's Crossing</h3>\n    <p><b>Period:</b> Late Woodland / Contact</p>\n    <p><b>Location:</b> Pittsfield, MA — along the Housatonic River</p>\n    <p><b>Significance:</b> A major Mohican site along the Housatonic. The name \"Canoe Meadows\" reflects the importance of water travel. The broad, flat valley between Pittsfield and Great Barrington supported rich agricultural floodplains.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brasser 1978; Dunn 1994</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "mohican"
+      ],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanVillages",
-      "geometry": {"lat": 42.19, "lng": -73.36},
-      "style": {"radius": 4, "color": "#8B4513", "fillColor": "#DC143C", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">\u2b22 Old Indian Fordway</h3>\n    <p><b>Period:</b> Pre-contact through Contact</p>\n    <p><b>Location:</b> Great Barrington, MA \u2014 Housatonic River</p>\n    <p><b>Description:</b> A critical river crossing on the Housatonic, used by Mohican people and later as part of the broader trail network connecting the Hudson Valley to Long Island Sound.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brasser 1978; Dunn 1994; Lavin 2013</p>\n  </div>"
+      "geometry": {
+        "lat": 42.19,
+        "lng": -73.36
+      },
+      "style": {
+        "radius": 4,
+        "color": "#8B4513",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Old Indian Fordway</h3>\n    <p><b>Period:</b> Pre-contact through Contact</p>\n    <p><b>Location:</b> Great Barrington, MA — Housatonic River</p>\n    <p><b>Description:</b> A critical river crossing on the Housatonic, used by Mohican people and later as part of the broader trail network connecting the Hudson Valley to Long Island Sound.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brasser 1978; Dunn 1994; Lavin 2013</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "mohican"
+      ],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanSacred",
-      "geometry": {"lat": 43.13, "lng": -72.44},
-      "style": {"radius": 6, "color": "#FFD700", "fillColor": "#DC143C", "fillOpacity": 0.9, "weight": 3},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">\u25c6 Bellows Falls \u2014 Kchi P\u00f4ntegok (Great Falls)</h3>\n    <p><b>Type:</b> Petroglyphs + Major fishery + Sacred site</p>\n    <p><b>Location:</b> Bellows Falls, VT \u2014 narrowest point of the Connecticut River</p>\n    <p><b>Petroglyphs:</b> ~24 carved faces on rocks at the falls \u2014 placed where fish concentrated during spawning runs, a place of immense spiritual and practical significance.</p>\n    <p><b>Fishery:</b> \"The most fertile salmon habitat in the Eastern United States\" before damming. Fish concentrated at the narrowest point during migrations, making it a gathering place for thousands of years.</p>\n    <p><b>Fish species:</b> Salmon, shad, trout, herring, bass, lamprey \u2014 smoked, dried, and roasted at processing sites near the falls.</p>\n    <p><b>Peoples:</b> Mohawk, Abenaki, and other peoples visited these falls for the annual fish runs.</p>\n    <p><b>Significance:</b> A place of \"spiritual importance and resource abundance\" for thousands of years.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Bellows Falls Kchi P\u00f4ntegok Project; Calloway 1990; VT Division for Historic Preservation</p>\n  </div>"
+      "geometry": {
+        "lat": 43.13,
+        "lng": -72.44
+      },
+      "style": {
+        "radius": 6,
+        "color": "#FFD700",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">◆ Bellows Falls — Kchi Pôntegok (Great Falls)</h3>\n    <p><b>Type:</b> Petroglyphs + Major fishery + Sacred site</p>\n    <p><b>Location:</b> Bellows Falls, VT — narrowest point of the Connecticut River</p>\n    <p><b>Petroglyphs:</b> ~24 carved faces on rocks at the falls — placed where fish concentrated during spawning runs, a place of immense spiritual and practical significance.</p>\n    <p><b>Fishery:</b> \"The most fertile salmon habitat in the Eastern United States\" before damming. Fish concentrated at the narrowest point during migrations, making it a gathering place for thousands of years.</p>\n    <p><b>Fish species:</b> Salmon, shad, trout, herring, bass, lamprey — smoked, dried, and roasted at processing sites near the falls.</p>\n    <p><b>Peoples:</b> Mohawk, Abenaki, and other peoples visited these falls for the annual fish runs.</p>\n    <p><b>Significance:</b> A place of \"spiritual importance and resource abundance\" for thousands of years.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Bellows Falls Kchi Pôntegok Project; Calloway 1990; VT Division for Historic Preservation</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "mohawk",
+        "wabanaki"
+      ],
+      "tribes": [
+        "mohawk",
+        "mohican",
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanSacred",
-      "geometry": {"lat": 42.60, "lng": -72.56},
-      "style": {"radius": 6, "color": "#20B2AA", "fillColor": "#DC143C", "fillOpacity": 0.9, "weight": 3},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">\u25c6 Turners Falls \u2014 Great Falls Fishery</h3>\n    <p><b>Location:</b> Turners Falls, Montague, MA</p>\n    <p><b>Description:</b> One of the two Great Falls on the Connecticut River (along with Bellows Falls). A major fishing and habitation site where fish concentrated during spawning runs.</p>\n    <p><b>Fishery:</b> Fish were smoked, dried, and roasted at processing sites near the falls. The falls were a gathering place for thousands of years.</p>\n    <p><b>Destruction:</b> In 1798, the first dam across the Connecticut mainstem was built here \u2014 \"the engineering marvel of the world\" at the time. It blocked ALL salmon from reaching their last remaining spawning habitat. By the War of 1812, Atlantic salmon were completely extirpated from the Connecticut River.</p>\n    <p><b>Modern impact:</b> Of 537,000 shad passing Holyoke in 2017, only 48,000 (9%) made it past Turners Falls.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Chilton et al. 2005</p>\n  </div>"
+      "geometry": {
+        "lat": 42.6,
+        "lng": -72.56
+      },
+      "style": {
+        "radius": 6,
+        "color": "#20B2AA",
+        "fillColor": "#DC143C",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">◆ Turners Falls — Great Falls Fishery</h3>\n    <p><b>Location:</b> Turners Falls, Montague, MA</p>\n    <p><b>Description:</b> One of the two Great Falls on the Connecticut River (along with Bellows Falls). A major fishing and habitation site where fish concentrated during spawning runs.</p>\n    <p><b>Fishery:</b> Fish were smoked, dried, and roasted at processing sites near the falls. The falls were a gathering place for thousands of years.</p>\n    <p><b>Destruction:</b> In 1798, the first dam across the Connecticut mainstem was built here — \"the engineering marvel of the world\" at the time. It blocked ALL salmon from reaching their last remaining spawning habitat. By the War of 1812, Atlantic salmon were completely extirpated from the Connecticut River.</p>\n    <p><b>Modern impact:</b> Of 537,000 shad passing Holyoke in 2017, only 48,000 (9%) made it past Turners Falls.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Chilton et al. 2005</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanSacred",
-      "geometry": {"lat": 41.19, "lng": -73.89},
-      "style": {"radius": 6, "color": "#F5DEB3", "fillColor": "#D2B48C", "fillOpacity": 0.9, "weight": 3},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#D2B48C\">\ud83e\uddaa Croton Point / Navish Shell Midden</h3>\n    <p><b>Date:</b> 7,000+ years of continuous occupation</p>\n    <p><b>Location:</b> Croton Point, Westchester County, NY</p>\n    <p><b>Significance:</b> The <b>largest oyster shell midden on the North Atlantic coast</b>. Evidence spans from the Late Archaic through Contact period.</p>\n    <p><b>Oyster abundance:</b> With stabilized sea levels (~6,000 BP), massive oyster beds formed in the mesohaline Hudson. Research shows oysters thrived in two major periods: ~5,600\u20136,100 BP and ~500\u20132,400 BP, linked to warm climate cycles.</p>\n    <p><b>Context:</b> Fossil oyster beds still cover 30% of the Hudson's mesohaline river floor \u2014 ghostly remnants of the abundance that sustained thousands of years of habitation.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Claassen 1995; Funk 1976; Scenic Hudson; Hudson River estuary oyster studies</p>\n  </div>"
+      "geometry": {
+        "lat": 41.19,
+        "lng": -73.89
+      },
+      "style": {
+        "radius": 6,
+        "color": "#F5DEB3",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#D2B48C\">🦪 Croton Point / Navish Shell Midden</h3>\n    <p><b>Date:</b> 7,000+ years of continuous occupation</p>\n    <p><b>Location:</b> Croton Point, Westchester County, NY</p>\n    <p><b>Significance:</b> The <b>largest oyster shell midden on the North Atlantic coast</b>. Evidence spans from the Late Archaic through Contact period.</p>\n    <p><b>Oyster abundance:</b> With stabilized sea levels (~6,000 BP), massive oyster beds formed in the mesohaline Hudson. Research shows oysters thrived in two major periods: ~5,600–6,100 BP and ~500–2,400 BP, linked to warm climate cycles.</p>\n    <p><b>Context:</b> Fossil oyster beds still cover 30% of the Hudson's mesohaline river floor — ghostly remnants of the abundance that sustained thousands of years of habitation.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Claassen 1995; Funk 1976; Scenic Hudson; Hudson River estuary oyster studies</p>\n  </div>",
+      "timePeriods": [
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanLost",
-      "geometry": {"lat": 42.85, "lng": -72.56},
-      "style": {"radius": 5, "color": "#B22222", "fillColor": "#FFD700", "fillOpacity": 0.9, "weight": 3},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">\u25c6 Brattleboro Petroglyphs (SUBMERGED)</h3>\n    <p><b>Location:</b> Confluence of West River and Connecticut River, Brattleboro, VT (Wnatstique \u2014 Abenaki name)</p>\n    <p><b>Carvings:</b> 9 petroglyphs on a rock ledge: 5 thunderbirds, a human figure, a dog/wolf, and 2 serpent/eel figures.</p>\n    <p><b>Cultural significance:</b> Wnatstique was a place where \"people returned to be buried with their ancestors\" (Abenaki).</p>\n    <p style=\"color:#B22222;font-weight:bold;\">LOST: In 1909, the Vernon hydroelectric dam was built downstream, and the carvings disappeared under ~15 feet of water and 2.5 feet of silt. For over a century, they were lost.</p>\n    <p><b>Rediscovery:</b> In 2015, diver Annette Spaulding \u2014 who had been searching for 30 years \u2014 found a single carved face. In 2017, she located the full panel on a 12\u00d78 foot underwater ledge. The petroglyphs are now accessible only to divers.</p>\n    <p><b>Significance:</b> Represents what happened to countless sacred sites along every dammed river in this region.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> VT Division for Historic Preservation; Spaulding 2017; Calloway 1990</p>\n  </div>"
+      "geometry": {
+        "lat": 42.85,
+        "lng": -72.56
+      },
+      "style": {
+        "radius": 5,
+        "color": "#B22222",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.9,
+        "weight": 3
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">◆ Brattleboro Petroglyphs (SUBMERGED)</h3>\n    <p><b>Location:</b> Confluence of West River and Connecticut River, Brattleboro, VT (Wnatstique — Abenaki name)</p>\n    <p><b>Carvings:</b> 9 petroglyphs on a rock ledge: 5 thunderbirds, a human figure, a dog/wolf, and 2 serpent/eel figures.</p>\n    <p><b>Cultural significance:</b> Wnatstique was a place where \"people returned to be buried with their ancestors\" (Abenaki).</p>\n    <p style=\"color:#B22222;font-weight:bold;\">LOST: In 1909, the Vernon hydroelectric dam was built downstream, and the carvings disappeared under ~15 feet of water and 2.5 feet of silt. For over a century, they were lost.</p>\n    <p><b>Rediscovery:</b> In 2015, diver Annette Spaulding — who had been searching for 30 years — found a single carved face. In 2017, she located the full panel on a 12×8 foot underwater ledge. The petroglyphs are now accessible only to divers.</p>\n    <p><b>Significance:</b> Represents what happened to countless sacred sites along every dammed river in this region.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> VT Division for Historic Preservation; Spaulding 2017; Calloway 1990</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "mohican",
+        "wabanaki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanSacred",
-      "geometry": {"lat": 43.134, "lng": -72.443},
-      "style": {"radius": 5, "color": "#FFD700", "fillColor": "#FFD700", "fillOpacity": 0.8, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">\u25c6 Bellows Falls Petroglyphs</h3>\n    <p><b>Date:</b> Pre-contact (exact date unknown \u2014 possibly 1,000+ years)</p>\n    <p><b>Location:</b> Bellows Falls, VT \u2014 on rocks at the Great Falls</p>\n    <p><b>Description:</b> ~24 carved faces placed at the narrowest point of the Connecticut River, where fish concentrated during spawning runs. The petroglyphs mark a site of immense spiritual and practical significance \u2014 connecting the physical world of abundant fish with the spiritual world.</p>\n    <p><b>Status:</b> Still visible (unlike the Brattleboro petroglyphs, which were submerged).</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Kchi P\u00f4ntegok Project; VT Division for Historic Preservation; Calloway 1990</p>\n  </div>"
+      "geometry": {
+        "lat": 43.134,
+        "lng": -72.443
+      },
+      "style": {
+        "radius": 5,
+        "color": "#FFD700",
+        "fillColor": "#FFD700",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Bellows Falls Petroglyphs</h3>\n    <p><b>Date:</b> Pre-contact (exact date unknown — possibly 1,000+ years)</p>\n    <p><b>Location:</b> Bellows Falls, VT — on rocks at the Great Falls</p>\n    <p><b>Description:</b> ~24 carved faces placed at the narrowest point of the Connecticut River, where fish concentrated during spawning runs. The petroglyphs mark a site of immense spiritual and practical significance — connecting the physical world of abundant fish with the spiritual world.</p>\n    <p><b>Status:</b> Still visible (unlike the Brattleboro petroglyphs, which were submerged).</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Kchi Pôntegok Project; VT Division for Historic Preservation; Calloway 1990</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanWetlands",
-      "geometry": {"lat": 42.30, "lng": -73.74},
-      "style": {"radius": 4, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">\ud83c\udf3f Stockport Flats \u2014 Tidal Wetland</h3>\n    <p><b>Location:</b> Stockport, Columbia County, NY</p>\n    <p><b>Description:</b> One of the last significant freshwater tidal wetland complexes on the Hudson. 80% of the Hudson's tidal wetlands sit above the saltwater reach \u2014 this was true in pre-contact times as it is now.</p>\n    <p><b>Significance:</b> These wetlands were nurseries for fish, nesting grounds for waterfowl, and sources of reeds for mat-making and construction.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Scenic Hudson; NYSDEC Hudson River Estuary Program</p>\n  </div>"
+      "geometry": {
+        "lat": 42.3,
+        "lng": -73.74
+      },
+      "style": {
+        "radius": 4,
+        "color": "#2E8B57",
+        "fillColor": "#2E8B57",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Stockport Flats — Tidal Wetland</h3>\n    <p><b>Location:</b> Stockport, Columbia County, NY</p>\n    <p><b>Description:</b> One of the last significant freshwater tidal wetland complexes on the Hudson. 80% of the Hudson's tidal wetlands sit above the saltwater reach — this was true in pre-contact times as it is now.</p>\n    <p><b>Significance:</b> These wetlands were nurseries for fish, nesting grounds for waterfowl, and sources of reeds for mat-making and construction.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Scenic Hudson; NYSDEC Hudson River Estuary Program</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanWetlands",
-      "geometry": {"lat": 42.05, "lng": -73.91},
-      "style": {"radius": 4, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">\ud83c\udf3f Tivoli Bays \u2014 Tidal Wetland</h3>\n    <p><b>Location:</b> Tivoli, Dutchess County, NY</p>\n    <p><b>Description:</b> Significant freshwater tidal wetland complex. Part of the Hudson's surviving ~7,000 acres of tidal wetlands \u2014 a fraction of pre-contact extent.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Scenic Hudson; Bard College Field Station</p>\n  </div>"
+      "geometry": {
+        "lat": 42.05,
+        "lng": -73.91
+      },
+      "style": {
+        "radius": 4,
+        "color": "#2E8B57",
+        "fillColor": "#2E8B57",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Tivoli Bays — Tidal Wetland</h3>\n    <p><b>Location:</b> Tivoli, Dutchess County, NY</p>\n    <p><b>Description:</b> Significant freshwater tidal wetland complex. Part of the Hudson's surviving ~7,000 acres of tidal wetlands — a fraction of pre-contact extent.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Scenic Hudson; Bard College Field Station</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanWetlands",
-      "geometry": {"lat": 41.40, "lng": -73.95},
-      "style": {"radius": 4, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">\ud83c\udf3f Constitution Marsh \u2014 Tidal Wetland</h3>\n    <p><b>Location:</b> Cold Spring, Putnam County, NY (Hudson Highlands)</p>\n    <p><b>Description:</b> Audubon-managed tidal marsh. One of the last significant wetland complexes in the Hudson Highlands reach of the estuary.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Audubon; Scenic Hudson; NYSDEC</p>\n  </div>"
+      "geometry": {
+        "lat": 41.4,
+        "lng": -73.95
+      },
+      "style": {
+        "radius": 4,
+        "color": "#2E8B57",
+        "fillColor": "#2E8B57",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Constitution Marsh — Tidal Wetland</h3>\n    <p><b>Location:</b> Cold Spring, Putnam County, NY (Hudson Highlands)</p>\n    <p><b>Description:</b> Audubon-managed tidal marsh. One of the last significant wetland complexes in the Hudson Highlands reach of the estuary.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Audubon; Scenic Hudson; NYSDEC</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanWetlands",
-      "geometry": {"lat": 41.30, "lng": -73.98},
-      "style": {"radius": 4, "color": "#2E8B57", "fillColor": "#2E8B57", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">\ud83c\udf3f Iona Island \u2014 Tidal Wetland</h3>\n    <p><b>Location:</b> Bear Mountain, Rockland County, NY</p>\n    <p><b>Description:</b> One of the last significant tidal wetland complexes on the Hudson \u2014 representing what survived from the vast marshes that once lined the river.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Palisades Interstate Park Commission; NYSDEC</p>\n  </div>"
+      "geometry": {
+        "lat": 41.3,
+        "lng": -73.98
+      },
+      "style": {
+        "radius": 4,
+        "color": "#2E8B57",
+        "fillColor": "#2E8B57",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Iona Island — Tidal Wetland</h3>\n    <p><b>Location:</b> Bear Mountain, Rockland County, NY</p>\n    <p><b>Description:</b> One of the last significant tidal wetland complexes on the Hudson — representing what survived from the vast marshes that once lined the river.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Palisades Interstate Park Commission; NYSDEC</p>\n  </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanDams",
-      "geometry": {"lat": 42.60, "lng": -72.56},
-      "style": {"radius": 4, "color": "#696969", "fillColor": "#696969", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">\u2b1b Turners Falls Dam (orig. 1798) (1798)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: First dam across the CT mainstem \u2014 \"engineering marvel of the world.\" Blocked ALL salmon from reaching last spawning habitat. Atlantic salmon completely extirpated from the Connecticut River by the War of 1812.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Bendremer & Thomas 2008</p>\n    </div>"
+      "geometry": {
+        "lat": 42.6,
+        "lng": -72.56
+      },
+      "style": {
+        "radius": 4,
+        "color": "#696969",
+        "fillColor": "#696969",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Turners Falls Dam (orig. 1798) (1798)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: First dam across the CT mainstem — \"engineering marvel of the world.\" Blocked ALL salmon from reaching last spawning habitat. Atlantic salmon completely extirpated from the Connecticut River by the War of 1812.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Bendremer & Thomas 2008</p>\n    </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanDams",
-      "geometry": {"lat": 42.21, "lng": -72.61},
-      "style": {"radius": 4, "color": "#696969", "fillColor": "#696969", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">\u2b1b Holyoke Dam (1869/rebuilt 1895) (1869)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Blocked remaining migratory fish from upper reaches. Combined with Turners Falls dam, severed the 400-mile unbroken salmon corridor.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Holyoke Water Power Co. records; CT River Watershed Council</p>\n    </div>"
+      "geometry": {
+        "lat": 42.21,
+        "lng": -72.61
+      },
+      "style": {
+        "radius": 4,
+        "color": "#696969",
+        "fillColor": "#696969",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Holyoke Dam (1869/rebuilt 1895) (1869)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Blocked remaining migratory fish from upper reaches. Combined with Turners Falls dam, severed the 400-mile unbroken salmon corridor.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Holyoke Water Power Co. records; CT River Watershed Council</p>\n    </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanDams",
-      "geometry": {"lat": 42.77, "lng": -72.51},
-      "style": {"radius": 4, "color": "#696969", "fillColor": "#696969", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">\u2b1b Vernon Dam (1909) (1909)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: SUBMERGED the Brattleboro petroglyphs under ~15 feet of water and 2.5 feet of silt. Nine ancient carvings of thunderbirds, a human figure, a dog/wolf, and serpent/eel figures disappeared. Only rediscovered underwater in 2015\u20132017 by diver Annette Spaulding.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> VT Division for Historic Preservation; Spaulding 2017</p>\n    </div>"
+      "geometry": {
+        "lat": 42.77,
+        "lng": -72.51
+      },
+      "style": {
+        "radius": 4,
+        "color": "#696969",
+        "fillColor": "#696969",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Vernon Dam (1909) (1909)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: SUBMERGED the Brattleboro petroglyphs under ~15 feet of water and 2.5 feet of silt. Nine ancient carvings of thunderbirds, a human figure, a dog/wolf, and serpent/eel figures disappeared. Only rediscovered underwater in 2015–2017 by diver Annette Spaulding.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> VT Division for Historic Preservation; Spaulding 2017</p>\n    </div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanDams",
-      "geometry": {"lat": 43.13, "lng": -72.44},
-      "style": {"radius": 4, "color": "#696969", "fillColor": "#696969", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">\u2b1b Bellows Falls Dam (1928)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Further fragmented the river. Shad runs that once reached Bellows Falls (200+ miles) now mostly stop at Turners Falls (123 miles).</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Kchi P\u00f4ntegok Project; CT River Watershed Council</p>\n    </div>"
+      "geometry": {
+        "lat": 43.13,
+        "lng": -72.44
+      },
+      "style": {
+        "radius": 4,
+        "color": "#696969",
+        "fillColor": "#696969",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Bellows Falls Dam (1928)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Further fragmented the river. Shad runs that once reached Bellows Falls (200+ miles) now mostly stop at Turners Falls (123 miles).</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Kchi Pôntegok Project; CT River Watershed Council</p>\n    </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanDams",
-      "geometry": {"lat": 43.68, "lng": -72.31},
-      "style": {"radius": 4, "color": "#696969", "fillColor": "#696969", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">\u2b1b Wilder Dam (1950)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Additional fragmentation of the Connecticut River corridor.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USACE New England Division</p>\n    </div>"
+      "geometry": {
+        "lat": 43.68,
+        "lng": -72.31
+      },
+      "style": {
+        "radius": 4,
+        "color": "#696969",
+        "fillColor": "#696969",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Wilder Dam (1950)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Additional fragmentation of the Connecticut River corridor.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USACE New England Division</p>\n    </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanDams",
-      "geometry": {"lat": 41.21, "lng": -73.87},
-      "style": {"radius": 4, "color": "#696969", "fillColor": "#696969", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">\u2b1b Old Croton Dam (1842) / New Croton Dam (1906) (1842)</h3>\n      <p><b>River:</b> Croton (Hudson tributary) River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Dammed the Croton River (flowing past the ancient Navish/Croton Point midden site) for NYC water. 1906 replacement at 297 ft was the tallest dam in the world. Original dam and surroundings submerged. Created 400-acre lake, permanently altering the ecology.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Koeppel 2000, \"Water for Gotham\"</p>\n    </div>"
+      "geometry": {
+        "lat": 41.21,
+        "lng": -73.87
+      },
+      "style": {
+        "radius": 4,
+        "color": "#696969",
+        "fillColor": "#696969",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Old Croton Dam (1842) / New Croton Dam (1906) (1842)</h3>\n      <p><b>River:</b> Croton (Hudson tributary) River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Dammed the Croton River (flowing past the ancient Navish/Croton Point midden site) for NYC water. 1906 replacement at 297 ft was the tallest dam in the world. Original dam and surroundings submerged. Created 400-acre lake, permanently altering the ecology.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Koeppel 2000, \"Water for Gotham\"</p>\n    </div>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanDams",
-      "geometry": {"lat": 42.75, "lng": -73.69},
-      "style": {"radius": 4, "color": "#696969", "fillColor": "#696969", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">\u2b1b Federal Dam at Troy (1825)</h3>\n      <p><b>River:</b> Hudson River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Created the modern head of tidal influence. Before the dam, tidal waters may have reached slightly further upstream.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS; NYSDEC Hudson River Estuary Program</p>\n    </div>"
+      "geometry": {
+        "lat": 42.75,
+        "lng": -73.69
+      },
+      "style": {
+        "radius": 4,
+        "color": "#696969",
+        "fillColor": "#696969",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Federal Dam at Troy (1825)</h3>\n      <p><b>River:</b> Hudson River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Created the modern head of tidal influence. Before the dam, tidal waters may have reached slightly further upstream.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS; NYSDEC Hudson River Estuary Program</p>\n    </div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanLost",
       "geometry": [
-        [41.28, -72.34], [41.55, -72.65], [42.10, -72.62], [42.60, -72.60],
-        [43.13, -72.44], [43.40, -72.35], [43.80, -72.20], [44.20, -72.05],
-        [44.95, -71.50]
+        [
+          41.28,
+          -72.34
+        ],
+        [
+          41.55,
+          -72.65
+        ],
+        [
+          42.1,
+          -72.62
+        ],
+        [
+          42.6,
+          -72.6
+        ],
+        [
+          43.13,
+          -72.44
+        ],
+        [
+          43.4,
+          -72.35
+        ],
+        [
+          43.8,
+          -72.2
+        ],
+        [
+          44.2,
+          -72.05
+        ],
+        [
+          44.95,
+          -71.5
+        ]
       ],
-      "style": {"color": "#B22222", "weight": 3, "opacity": 0.5, "dashArray": "10,6"},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#B22222\">\ud83d\udc1f Connecticut River Salmon Run (ELIMINATED)</h3>\n  <p><b>Pre-dam condition:</b> Atlantic salmon traveled from Long Island Sound to headwaters in northern NH \u2014 400+ miles without obstruction. \"The most fertile salmon habitat in the Eastern United States.\"</p>\n  <p><b>Destruction:</b> 1798 dam at Montague blocked all salmon. By the War of 1812, Atlantic salmon were completely extirpated.</p>\n  <p><b>Failed restoration:</b> A 45-year, multi-million dollar restoration effort was abandoned in 2012 as a failure.</p>\n  <p><b>Shad today:</b> Of 537,000 shad passing Holyoke in 2017, only 48,000 (9%) made it past Turners Falls.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; USFWS</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "style": {
+        "color": "#B22222",
+        "weight": 3,
+        "opacity": 0.5,
+        "dashArray": "10,6"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#B22222\">🐟 Connecticut River Salmon Run (ELIMINATED)</h3>\n  <p><b>Pre-dam condition:</b> Atlantic salmon traveled from Long Island Sound to headwaters in northern NH — 400+ miles without obstruction. \"The most fertile salmon habitat in the Eastern United States.\"</p>\n  <p><b>Destruction:</b> 1798 dam at Montague blocked all salmon. By the War of 1812, Atlantic salmon were completely extirpated.</p>\n  <p><b>Failed restoration:</b> A 45-year, multi-million dollar restoration effort was abandoned in 2012 as a failure.</p>\n  <p><b>Shad today:</b> Of 537,000 shad passing Holyoke in 2017, only 48,000 (9%) made it past Turners Falls.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; USFWS</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanLost",
       "geometry": [
-        [41.00, -73.92], [41.10, -73.93], [41.20, -73.88], [41.30, -73.95],
-        [41.40, -73.97], [41.50, -73.96]
+        [
+          41.0,
+          -73.92
+        ],
+        [
+          41.1,
+          -73.93
+        ],
+        [
+          41.2,
+          -73.88
+        ],
+        [
+          41.3,
+          -73.95
+        ],
+        [
+          41.4,
+          -73.97
+        ],
+        [
+          41.5,
+          -73.96
+        ]
       ],
-      "style": {"color": "#D2B48C", "weight": 6, "opacity": 0.4, "dashArray": "4,4"},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#D2B48C\">\ud83e\uddaa Hudson Oyster Beds (Fossil Remnants)</h3>\n  <p><b>Location:</b> Mesohaline (moderately salty) reaches of the Hudson estuary</p>\n  <p><b>Coverage:</b> Fossil oyster beds cover 30% of the river floor in some mesohaline reaches \u2014 ghostly remnants of the abundance that sustained thousands of years of habitation.</p>\n  <p><b>Peak periods:</b> Oysters thrived ~5,600\u20136,100 BP and ~500\u20132,400 BP, linked to warm climate cycles.</p>\n  <p><b>Historical abundance:</b> The Croton Point/Navish midden \u2014 largest oyster shell midden on the North Atlantic coast \u2014 accumulated over 7,000+ years.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Coen & Grizzle 2007; Scenic Hudson; NYSDEC</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "style": {
+        "color": "#D2B48C",
+        "weight": 6,
+        "opacity": 0.4,
+        "dashArray": "4,4"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#D2B48C\">🦪 Hudson Oyster Beds (Fossil Remnants)</h3>\n  <p><b>Location:</b> Mesohaline (moderately salty) reaches of the Hudson estuary</p>\n  <p><b>Coverage:</b> Fossil oyster beds cover 30% of the river floor in some mesohaline reaches — ghostly remnants of the abundance that sustained thousands of years of habitation.</p>\n  <p><b>Peak periods:</b> Oysters thrived ~5,600–6,100 BP and ~500–2,400 BP, linked to warm climate cycles.</p>\n  <p><b>Historical abundance:</b> The Croton Point/Navish midden — largest oyster shell midden on the North Atlantic coast — accumulated over 7,000+ years.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Coen & Grizzle 2007; Scenic Hudson; NYSDEC</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanLost",
       "geometry": [
-        [41.20, -72.50], [40.80, -72.00], [40.50, -71.50], [40.20, -71.00],
-        [39.90, -70.50], [39.60, -70.00]
+        [
+          41.2,
+          -72.5
+        ],
+        [
+          40.8,
+          -72.0
+        ],
+        [
+          40.5,
+          -71.5
+        ],
+        [
+          40.2,
+          -71.0
+        ],
+        [
+          39.9,
+          -70.5
+        ],
+        [
+          39.6,
+          -70.0
+        ]
       ],
-      "style": {"color": "#4682B4", "weight": 2, "opacity": 0.4, "dashArray": "12,6"},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">\ud83c\udf0a Paleoindian Coastline (~12,000 BP)</h3>\n  <p><b>Sea level:</b> 350\u2013400 feet lower than today</p>\n  <p><b>Coastline position:</b> 50\u2013100 miles further east, near the continental shelf edge</p>\n  <p><b>What this means:</b> New York Harbor was a river canyon. Long Island Sound was dry land (CT and Long Island connected). The Hudson continued flowing across the exposed shelf to its ancient mouth ~100 miles east of modern Manhattan.</p>\n  <p><b>All coastal Paleoindian sites</b> from this period are now submerged beneath the Atlantic.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS continental shelf surveys; Newman et al. 1969</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "style": {
+        "color": "#4682B4",
+        "weight": 2,
+        "opacity": 0.4,
+        "dashArray": "12,6"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#4682B4\">🌊 Paleoindian Coastline (~12,000 BP)</h3>\n  <p><b>Sea level:</b> 350–400 feet lower than today</p>\n  <p><b>Coastline position:</b> 50–100 miles further east, near the continental shelf edge</p>\n  <p><b>What this means:</b> New York Harbor was a river canyon. Long Island Sound was dry land (CT and Long Island connected). The Hudson continued flowing across the exposed shelf to its ancient mouth ~100 miles east of modern Manhattan.</p>\n  <p><b>All coastal Paleoindian sites</b> from this period are now submerged beneath the Atlantic.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS continental shelf surveys; Newman et al. 1969</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "late_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanArchSites",
-      "geometry": {"lat": 40.61, "lng": -74.04},
-      "style": {"radius": 5, "color": "#4682B4", "fillColor": "#4682B4", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">\ud83c\udfd4\ufe0f Harbor Hill Moraine \u2014 Verrazano Narrows</h3>\n    <p><b>Date:</b> ~15,000+ BP (glacial feature)</p>\n    <p><b>Description:</b> A wall of glacial debris connecting Long Island to New Jersey. During the Paleoindian period, the Verrazano Narrows was dry land \u2014 a moraine dam that held back Glacial Lake Albany. The catastrophic breach of this dam released a wall of water that carved the Hudson Shelf Valley.</p>\n    <p><b>Today:</b> The Verrazano-Narrows Bridge spans this former glacial dam. The breach separated Staten Island from Long Island ~6,000 BP.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Connally & Sirkin 1973; USGS glacial geology</p>\n  </div>"
+      "geometry": {
+        "lat": 40.61,
+        "lng": -74.04
+      },
+      "style": {
+        "radius": 5,
+        "color": "#4682B4",
+        "fillColor": "#4682B4",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">🏔️ Harbor Hill Moraine — Verrazano Narrows</h3>\n    <p><b>Date:</b> ~15,000+ BP (glacial feature)</p>\n    <p><b>Description:</b> A wall of glacial debris connecting Long Island to New Jersey. During the Paleoindian period, the Verrazano Narrows was dry land — a moraine dam that held back Glacial Lake Albany. The catastrophic breach of this dam released a wall of water that carved the Hudson Shelf Valley.</p>\n    <p><b>Today:</b> The Verrazano-Narrows Bridge spans this former glacial dam. The breach separated Staten Island from Long Island ~6,000 BP.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Connally & Sirkin 1973; USGS glacial geology</p>\n  </div>",
+      "timePeriods": [
+        "middle_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
       "layer": "mohicanArchSites",
-      "geometry": {"lat": 44.28, "lng": -73.22},
-      "style": {"radius": 4, "color": "#4682B4", "fillColor": "#4682B4", "fillOpacity": 0.7, "weight": 2},
-      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">\ud83c\udfd6\ufe0f Mount Philo \u2014 Island in Glacial Lake Vermont</h3>\n    <p><b>Date:</b> ~15,000\u201313,100 BP</p>\n    <p><b>Description:</b> During Glacial Lake Vermont, Mount Philo (968 ft) was an island rising above the lake waters. Burlington and Plattsburgh were underwater. Today it's a Vermont state park with views of Lake Champlain.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chapman 1937; VT Geological Survey</p>\n  </div>"
+      "geometry": {
+        "lat": 44.28,
+        "lng": -73.22
+      },
+      "style": {
+        "radius": 4,
+        "color": "#4682B4",
+        "fillColor": "#4682B4",
+        "fillOpacity": 0.7,
+        "weight": 2
+      },
+      "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">🏖️ Mount Philo — Island in Glacial Lake Vermont</h3>\n    <p><b>Date:</b> ~15,000–13,100 BP</p>\n    <p><b>Description:</b> During Glacial Lake Vermont, Mount Philo (968 ft) was an island rising above the lake waters. Burlington and Plattsburgh were underwater. Today it's a Vermont state park with views of Lake Champlain.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chapman 1937; VT Geological Survey</p>\n  </div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanRivers",
       "geometry": [
-        [42.10, -71.85], [42.00, -71.75], [41.85, -71.65], [41.75, -71.55],
-        [41.60, -71.45], [41.50, -71.40]
+        [
+          42.1,
+          -71.85
+        ],
+        [
+          42.0,
+          -71.75
+        ],
+        [
+          41.85,
+          -71.65
+        ],
+        [
+          41.75,
+          -71.55
+        ],
+        [
+          41.6,
+          -71.45
+        ],
+        [
+          41.5,
+          -71.4
+        ]
       ],
-      "style": {"color": "#AB47BC", "weight": 2, "opacity": 0.6, "dashArray": "6,4"},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#AB47BC\">\ud83d\udee4\ufe0f Soapstone Trade Route \u2014 Quinebaug/Blackstone to Narragansett</h3>\n  <p><b>Period:</b> Late Archaic (~6,000\u20133,000 BP)</p>\n  <p><b>Description:</b> Soapstone (steatite) quarrying began in the Late Archaic. The nearest major sources were in southern Worcester County, MA. Trade routes followed rivers: the Quinebaug and Blackstone Rivers connected interior quarries to Narragansett Bay.</p>\n  <p><b>Broader network:</b> The Housatonic and its tributaries served as trade corridors between the Hudson Valley and Long Island Sound. Water systems were not just resources \u2014 they were the highway network.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Lavin 2013; Ritchie 1994</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "style": {
+        "color": "#AB47BC",
+        "weight": 2,
+        "opacity": 0.6,
+        "dashArray": "6,4"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#AB47BC\">🛤️ Soapstone Trade Route — Quinebaug/Blackstone to Narragansett</h3>\n  <p><b>Period:</b> Late Archaic (~6,000–3,000 BP)</p>\n  <p><b>Description:</b> Soapstone (steatite) quarrying began in the Late Archaic. The nearest major sources were in southern Worcester County, MA. Trade routes followed rivers: the Quinebaug and Blackstone Rivers connected interior quarries to Narragansett Bay.</p>\n  <p><b>Broader network:</b> The Housatonic and its tributaries served as trade corridors between the Hudson Valley and Long Island Sound. Water systems were not just resources — they were the highway network.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Lavin 2013; Ritchie 1994</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "narragansett"
+      ],
+      "tribes": [
+        "mohican",
+        "narragansett"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
       "layer": "mohicanRivers",
       "geometry": [
-        [42.45, -73.78], [42.35, -73.50], [42.20, -73.35], [42.00, -73.30],
-        [41.70, -73.20], [41.40, -73.10], [41.20, -73.05]
+        [
+          42.45,
+          -73.78
+        ],
+        [
+          42.35,
+          -73.5
+        ],
+        [
+          42.2,
+          -73.35
+        ],
+        [
+          42.0,
+          -73.3
+        ],
+        [
+          41.7,
+          -73.2
+        ],
+        [
+          41.4,
+          -73.1
+        ],
+        [
+          41.2,
+          -73.05
+        ]
       ],
-      "style": {"color": "#AB47BC", "weight": 2, "opacity": 0.6, "dashArray": "6,4"},
-      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#AB47BC\">\ud83d\udee4\ufe0f Housatonic Trade Corridor</h3>\n  <p><b>Period:</b> Late Archaic through Contact</p>\n  <p><b>Description:</b> The Housatonic and its tributaries connected the Hudson Valley to Long Island Sound. Soapstone, lithics, shell, and other goods traveled this water highway for thousands of years.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Lavin 2013; Brasser 1978</p>\n</div>",
-      "popupOptions": {"maxWidth": 380}
+      "style": {
+        "color": "#AB47BC",
+        "weight": 2,
+        "opacity": 0.6,
+        "dashArray": "6,4"
+      },
+      "popup": "<div class=\"popup-content\">\n  <h3 style=\"color:#AB47BC\">🛤️ Housatonic Trade Corridor</h3>\n  <p><b>Period:</b> Late Archaic through Contact</p>\n  <p><b>Description:</b> The Housatonic and its tributaries connected the Hudson Valley to Long Island Sound. Soapstone, lithics, shell, and other goods traveled this water highway for thousands of years.</p>\n  <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Lavin 2013; Brasser 1978</p>\n</div>",
+      "popupOptions": {
+        "maxWidth": 380
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "mohican"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

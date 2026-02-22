@@ -62,7 +62,15 @@
         "dashArray": "12,6",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1A237E\">~20,000 BP — Glacial Maximum Shoreline</h3><p>Sea level: ~400 ft below present. Distance: 60–100 miles further east.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1A237E\">~20,000 BP — Glacial Maximum Shoreline</h3><p>Sea level: ~400 ft below present. Distance: 60–100 miles further east.</p></div>",
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -124,7 +132,16 @@
         "dashArray": "10,5",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#283593\">~12,000 BP — Paleoindian Era Shoreline</h3><p>Sea level: ~200 ft below present.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#283593\">~12,000 BP — Paleoindian Era Shoreline</h3><p>Sea level: ~200 ft below present.</p></div>",
+      "timePeriods": [
+        "late_archaic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -182,7 +199,15 @@
         "dashArray": "8,4",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1565C0\">~7,500 BP — Martha's Vineyard Separated</h3><p>Sea level: ~50 ft below present.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1565C0\">~7,500 BP — Martha's Vineyard Separated</h3><p>Sea level: ~50 ft below present.</p></div>",
+      "timePeriods": [
+        "early_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -236,7 +261,15 @@
         "dashArray": "6,4",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E88E5\">~6,000 BP — Nantucket Sound Floods</h3><p>Sea level: ~30 ft below present.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#1E88E5\">~6,000 BP — Nantucket Sound Floods</h3><p>Sea level: ~30 ft below present.</p></div>",
+      "timePeriods": [
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -251,7 +284,13 @@
       },
       "options": {
         "interactive": false
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -266,7 +305,13 @@
       },
       "options": {
         "interactive": false
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -281,7 +326,13 @@
       },
       "options": {
         "interactive": false
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -344,7 +395,15 @@
         "dashArray": "10,5",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4A148C\">Georges Island — Lost Mega-Island</h3><p>Once larger than Massachusetts. Submerged by ~6,000 BP.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#4A148C\">Georges Island — Lost Mega-Island</h3><p>Once larger than Massachusetts. Submerged by ~6,000 BP.</p></div>",
+      "timePeriods": [
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -360,7 +419,13 @@
         "fillOpacity": 0.3,
         "weight": 3
       },
-      "popup": ""
+      "popup": "",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -423,7 +488,15 @@
         "dashArray": "6,3",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#006064\">Nantucket Sound — Drowned Coastal Plain</h3><p>Submerged ~6,000 BP. ~600 sq mi of former dry land.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#006064\">Nantucket Sound — Drowned Coastal Plain</h3><p>Submerged ~6,000 BP. ~600 sq mi of former dry land.</p></div>",
+      "timePeriods": [
+        "middle_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -474,7 +547,15 @@
         "dashArray": "6,3",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#7B1FA2\">Vineyard Sound — Moshup's Channel</h3><p>Flooded ~7,500 BP.</p></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#7B1FA2\">Vineyard Sound — Moshup's Channel</h3><p>Flooded ~7,500 BP.</p></div>",
+      "timePeriods": [
+        "early_archaic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -521,7 +602,13 @@
         "dashArray": "6,3",
         "pane": "submergedPane"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">Stellwagen Bank — Drowned Island</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">Stellwagen Bank — Drowned Island</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -538,7 +625,13 @@
         "weight": 2,
         "dashArray": "4,3"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — Nantucket Sound Shelf</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — Nantucket Sound Shelf</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -555,7 +648,13 @@
         "weight": 2,
         "dashArray": "4,3"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — South of Martha's Vineyard</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — South of Martha's Vineyard</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -572,7 +671,13 @@
         "weight": 2,
         "dashArray": "4,3"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — East of Cape Cod</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — East of Cape Cod</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -588,7 +693,13 @@
         "fillOpacity": 0.6,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Deep Sea Plummet — Off Gurnet Head, Plymouth</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Deep Sea Plummet — Off Gurnet Head, Plymouth</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -618,7 +729,13 @@
         "fillOpacity": 0.06,
         "dashArray": "8,4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#00C853\">Active Research Area — BUAR Submerged Paleolandscapes</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#00C853\">Active Research Area — BUAR Submerged Paleolandscapes</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -634,7 +751,15 @@
         "fillOpacity": 0.9,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#006064\">Sea Level Rise Timeline — Wampanoag Territory</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#006064\">Sea Level Rise Timeline — Wampanoag Territory</h3></div>",
+      "timePeriods": [],
+      "cultures": [
+        "wampanoag"
+      ],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -650,7 +775,13 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">The Scale of the Crisis — National Context</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">The Scale of the Crisis — National Context</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -695,7 +826,13 @@
         "opacity": 0.7,
         "dashArray": "4,4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Martha's Vineyard — Modern Erosion & Sea Level Rise</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Martha's Vineyard — Modern Erosion & Sea Level Rise</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -732,7 +869,13 @@
         "opacity": 0.7,
         "dashArray": "4,4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Nantucket — Accelerated Erosion</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Nantucket — Accelerated Erosion</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -769,7 +912,13 @@
         "opacity": 0.7,
         "dashArray": "4,4"
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Cape Cod Outer Coast — Ongoing Erosion</h3></div>"
+      "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Cape Cod Outer Coast — Ongoing Erosion</h3></div>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

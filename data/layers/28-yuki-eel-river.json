@@ -102,7 +102,13 @@
         "pane": "yukiBackgroundPane",
         "dashArray": null
       },
-      "popup": "<b>Eel River (Main Stem)</b><br>\n  ~196 miles from Mendocino National Forest to Pacific Ocean<br>\n  3,684 sq mi watershed — California's 3rd largest<br>\n  Highest suspended sediment yield of any major river globally<br>\n  398 miles Wild & Scenic designation (state 1972, federal 1981)<br>\n  <i>Named for Pacific lamprey — oldest fish species in the river, millions of years of presence</i><br>\n  <b>Dam removal pending:</b> PG&E surrendering Potter Valley Project license —\n  demolition could begin ~2028, making the Eel the longest free-flowing river in California"
+      "popup": "<b>Eel River (Main Stem)</b><br>\n  ~196 miles from Mendocino National Forest to Pacific Ocean<br>\n  3,684 sq mi watershed — California's 3rd largest<br>\n  Highest suspended sediment yield of any major river globally<br>\n  398 miles Wild & Scenic designation (state 1972, federal 1981)<br>\n  <i>Named for Pacific lamprey — oldest fish species in the river, millions of years of presence</i><br>\n  <b>Dam removal pending:</b> PG&E surrendering Potter Valley Project license —\n  demolition could begin ~2028, making the Eel the longest free-flowing river in California",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -159,7 +165,15 @@
         "opacity": 0.7,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Middle Fork Eel River</b><br>\n  70 miles, 753 sq mi — largest tributary by drainage area<br>\n  Rises in Yolla Bolly Mountains (Trinity County)<br>\n  Joins mainstem at Dos Rios<br>\n  <i>Heart of Yuki territory — Round Valley sits between Middle and North Forks</i><br>\n  Black Butte River joins east of Covelo"
+      "popup": "<b>Middle Fork Eel River</b><br>\n  70 miles, 753 sq mi — largest tributary by drainage area<br>\n  Rises in Yolla Bolly Mountains (Trinity County)<br>\n  Joins mainstem at Dos Rios<br>\n  <i>Heart of Yuki territory — Round Valley sits between Middle and North Forks</i><br>\n  Black Butte River joins east of Covelo",
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -232,7 +246,13 @@
         "opacity": 0.7,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>South Fork Eel River</b><br>\n  105 miles from Laytonville to Dyerville through ancient redwood forests<br>\n  689 sq mi drainage — carries the most water (highest rainfall)<br>\n  No major dams — one of the most pristine large rivers in California<br>\n  <i>Cahto and Sinkyone homeland</i>"
+      "popup": "<b>South Fork Eel River</b><br>\n  105 miles from Laytonville to Dyerville through ancient redwood forests<br>\n  689 sq mi drainage — carries the most water (highest rainfall)<br>\n  No major dams — one of the most pristine large rivers in California<br>\n  <i>Cahto and Sinkyone homeland</i>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -273,7 +293,13 @@
         "opacity": 0.6,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>North Fork Eel River</b><br>35 miles, entirely in Trinity County<br>\n  286 sq mi drainage — Wailaki territory<br>\n  Remote, rugged wilderness"
+      "popup": "<b>North Fork Eel River</b><br>35 miles, entirely in Trinity County<br>\n  286 sq mi drainage — Wailaki territory<br>\n  Remote, rugged wilderness",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -302,7 +328,13 @@
         "opacity": 0.5,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Outlet Creek</b><br>Drains from Willits area into the Eel<br>\n  One of the few coho salmon runs on the mainstem"
+      "popup": "<b>Outlet Creek</b><br>Drains from Willits area into the Eel<br>\n  One of the few coho salmon runs on the mainstem",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -335,7 +367,17 @@
         "opacity": 0.5,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Ten Mile River</b><br>Largest stream in Coast Yuki territory<br>\n  Empties into Pacific — important salmon run<br>\n  <b>Record coho return:</b> 5,574 adult CCC coho in 2023-24 — exceeded ESA recovery targets<br>\n  TNC restoration: floodplain reconnection, large wood structures since 2018<br>\n  <i>Boundary between Coast Yuki and Northern Pomo</i>"
+      "popup": "<b>Ten Mile River</b><br>Largest stream in Coast Yuki territory<br>\n  Empties into Pacific — important salmon run<br>\n  <b>Record coho return:</b> 5,574 adult CCC coho in 2023-24 — exceeded ESA recovery targets<br>\n  TNC restoration: floodplain reconnection, large wood structures since 2018<br>\n  <i>Boundary between Coast Yuki and Northern Pomo</i>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -388,7 +430,17 @@
         "opacity": 0.65,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Noyo River (Pomo: Chemli-bida)</b><br>\n  41 miles, 113 sq mi watershed — Fort Bragg's drinking water supply<br>\n  \"Noyo\" referred to a Pomo village on Pudding Creek, not the river itself<br>\n  <b>Still flowing</b> — largely undeveloped, classic salmon-steelhead habitat<br>\n  Skunk Train railroad follows the river from Willits to Fort Bragg<br>\n  Coho salmon (endangered), chinook, steelhead — all ESA-listed<br>\n  Trout Unlimited replaced old culverts blocking fish passage (2020)<br>\n  Exceeded ESA coho recovery targets in 2023-24 season<br>\n  Listed under Clean Water Act as impaired (sediment, temperature)<br>\n  <i>Coast Yuki southern boundary / Northern Pomo territory</i>"
+      "popup": "<b>Noyo River (Pomo: Chemli-bida)</b><br>\n  41 miles, 113 sq mi watershed — Fort Bragg's drinking water supply<br>\n  \"Noyo\" referred to a Pomo village on Pudding Creek, not the river itself<br>\n  <b>Still flowing</b> — largely undeveloped, classic salmon-steelhead habitat<br>\n  Skunk Train railroad follows the river from Willits to Fort Bragg<br>\n  Coho salmon (endangered), chinook, steelhead — all ESA-listed<br>\n  Trout Unlimited replaced old culverts blocking fish passage (2020)<br>\n  Exceeded ESA coho recovery targets in 2023-24 season<br>\n  Listed under Clean Water Act as impaired (sediment, temperature)<br>\n  <i>Coast Yuki southern boundary / Northern Pomo territory</i>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -433,7 +485,19 @@
         "opacity": 0.6,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Big River</b><br>\n  41.7 miles, 181 sq mi watershed — empties at Mendocino village<br>\n  <b>Longest undeveloped estuary in California</b> — brackish water extends 8 mi upstream<br>\n  Named for giant redwoods that once lined its banks (Arroyo Grande on 1844 Mexican diseño)<br>\n  Pre-contact: Me-tum'mah (Mitom Pomo / Northern Pomo) territory<br>\n  Buldam village on north bank near mouth<br>\n  Coho, chinook, steelhead — all ESA-listed. Record coho returns 2023-24<br>\n  Beavers restored in mid-20th century — beaver ponds now helping salmon habitat<br>\n  First sawmill on Mendocino Coast built at mouth (1852)<br>\n  <i>Northern Pomo territory — boundary with Coast Yuki to the north</i>"
+      "popup": "<b>Big River</b><br>\n  41.7 miles, 181 sq mi watershed — empties at Mendocino village<br>\n  <b>Longest undeveloped estuary in California</b> — brackish water extends 8 mi upstream<br>\n  Named for giant redwoods that once lined its banks (Arroyo Grande on 1844 Mexican diseño)<br>\n  Pre-contact: Me-tum'mah (Mitom Pomo / Northern Pomo) territory<br>\n  Buldam village on north bank near mouth<br>\n  Coho, chinook, steelhead — all ESA-listed. Record coho returns 2023-24<br>\n  Beavers restored in mid-20th century — beaver ponds now helping salmon habitat<br>\n  First sawmill on Mendocino Coast built at mouth (1852)<br>\n  <i>Northern Pomo territory — boundary with Coast Yuki to the north</i>",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -486,7 +550,16 @@
         "opacity": 0.6,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Navarro River</b><br>\n  ~40 miles through Anderson Valley to Pacific at Navarro-by-the-Sea<br>\n  <b>Still flowing</b> — major coho/chinook/steelhead river<br>\n  Estuary restoration: $8.3M TNC grant for floodplain reconnection<br>\n  2024: first coho in Neefus Gulch (N. Fork Navarro tributary) in 70+ years<br>\n  after TU removed 18-ft earthen dam and restored 1,600 ft stream channel<br>\n  <i>Northern Pomo / Central Pomo territory</i>"
+      "popup": "<b>Navarro River</b><br>\n  ~40 miles through Anderson Valley to Pacific at Navarro-by-the-Sea<br>\n  <b>Still flowing</b> — major coho/chinook/steelhead river<br>\n  Estuary restoration: $8.3M TNC grant for floodplain reconnection<br>\n  2024: first coho in Neefus Gulch (N. Fork Navarro tributary) in 70+ years<br>\n  after TU removed 18-ft earthen dam and restored 1,600 ft stream channel<br>\n  <i>Northern Pomo / Central Pomo territory</i>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -519,7 +592,16 @@
         "opacity": 0.5,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Albion River</b><br>\n  Small coastal river south of Mendocino village<br>\n  Coho, chinook, steelhead habitat — all ESA-listed<br>\n  Last wooden bridge on Hwy 1 crossed here until 2020<br>\n  <i>Central Pomo territory</i>"
+      "popup": "<b>Albion River</b><br>\n  Small coastal river south of Mendocino village<br>\n  Coho, chinook, steelhead habitat — all ESA-listed<br>\n  Last wooden bridge on Hwy 1 crossed here until 2020<br>\n  <i>Central Pomo territory</i>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -564,7 +646,16 @@
         "opacity": 0.5,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Garcia River</b><br>\n  Flows to Pacific near Point Arena<br>\n  <b>One of last naturally reproducing wild coho populations</b> on southern Pacific Coast<br>\n  Lost ~95% of historic winter salmon habitat<br>\n  TNC built 18 enormous log jams in estuary (2022) — first restoration<br>\n  Record coho returns 2023-24<br>\n  Manchester-Point Arena Band of Pomo engaged in restoration planning<br>\n  <i>\"There was a time you could walk across the Garcia on the backs of coho salmon\"</i>"
+      "popup": "<b>Garcia River</b><br>\n  Flows to Pacific near Point Arena<br>\n  <b>One of last naturally reproducing wild coho populations</b> on southern Pacific Coast<br>\n  Lost ~95% of historic winter salmon habitat<br>\n  TNC built 18 enormous log jams in estuary (2022) — first restoration<br>\n  Record coho returns 2023-24<br>\n  Manchester-Point Arena Band of Pomo engaged in restoration planning<br>\n  <i>\"There was a time you could walk across the Garcia on the backs of coho salmon\"</i>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -593,7 +684,15 @@
         "opacity": 0.4,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Usal Creek</b><br>\n  Flows to Pacific at Usal Beach — northern boundary of Coast Yuki territory<br>\n  Now within Sinkyone Wilderness State Park<br>\n  Conservation Fund owns lands in watershed<br>\n  <i>Coast Yuki / Sinkyone borderlands</i>"
+      "popup": "<b>Usal Creek</b><br>\n  Flows to Pacific at Usal Beach — northern boundary of Coast Yuki territory<br>\n  Now within Sinkyone Wilderness State Park<br>\n  Conservation Fund owns lands in watershed<br>\n  <i>Coast Yuki / Sinkyone borderlands</i>",
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -618,7 +717,16 @@
         "opacity": 0.4,
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Pudding Creek</b><br>\n  Small creek in Fort Bragg — the Pomo village \"Noyo\" was actually here, not on the Noyo River<br>\n  Coho salmon life-cycle monitoring station<br>\n  <i>Northern Pomo territory</i>"
+      "popup": "<b>Pudding Creek</b><br>\n  Small creek in Fort Bragg — the Pomo village \"Noyo\" was actually here, not on the Noyo River<br>\n  Coho salmon life-cycle monitoring station<br>\n  <i>Northern Pomo territory</i>",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -656,7 +764,13 @@
         "dashArray": "8,5",
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Lake Pillsbury — Drowned Upper Eel River</b><br>\n  Created by Scott Dam (1922) — blocks the uppermost Eel River<br>\n  Inundated Huchnom homeland and upper Eel fish habitat<br>\n  Blocked salmon/steelhead access to ~10% of the entire Eel watershed<br>\n  PG&E surrendering license — dam removal could begin ~2028<br>\n  <i>When removed, Eel becomes longest free-flowing river in California</i>"
+      "popup": "<b>Lake Pillsbury — Drowned Upper Eel River</b><br>\n  Created by Scott Dam (1922) — blocks the uppermost Eel River<br>\n  Inundated Huchnom homeland and upper Eel fish habitat<br>\n  Blocked salmon/steelhead access to ~10% of the entire Eel watershed<br>\n  PG&E surrendering license — dam removal could begin ~2028<br>\n  <i>When removed, Eel becomes longest free-flowing river in California</i>",
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -676,7 +790,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -751,7 +871,17 @@
         "dashArray": "6,4",
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Yuki Proper (Ukomno'om)</b><br>\n  \"Valley People\" — self-name<br>\n  Round Valley & upper Eel River drainage<br>\n  8-9 tribal subdivisions, 500+ village sites<br>\n  <b>Language isolate</b> — unrelated to any known language family<br>\n  Possibly 10,000+ years in this homeland<br>\n  <i>\"Yuki\" is Wintun for \"foreigner\" or \"enemy\"</i>"
+      "popup": "<b>Yuki Proper (Ukomno'om)</b><br>\n  \"Valley People\" — self-name<br>\n  Round Valley & upper Eel River drainage<br>\n  8-9 tribal subdivisions, 500+ village sites<br>\n  <b>Language isolate</b> — unrelated to any known language family<br>\n  Possibly 10,000+ years in this homeland<br>\n  <i>\"Yuki\" is Wintun for \"foreigner\" or \"enemy\"</i>",
+      "timePeriods": [],
+      "cultures": [
+        "wintu",
+        "yuki"
+      ],
+      "tribes": [
+        "wintu",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -798,7 +928,17 @@
         "dashArray": "6,4",
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Huchnom (\"Outside the Valley\")</b><br>\n  Yuki subgroup on South Eel River & Potter Valley<br>\n  Intermediaries between Yuki and Pomo<br>\n  Participated in Pomo/Cahto ceremonies<br>\n  Known as \"Redwoods\" at Round Valley after forced relocation (1869)<br>\n  Pre-contact pop: ~500 (Kroeber)"
+      "popup": "<b>Huchnom (\"Outside the Valley\")</b><br>\n  Yuki subgroup on South Eel River & Potter Valley<br>\n  Intermediaries between Yuki and Pomo<br>\n  Participated in Pomo/Cahto ceremonies<br>\n  Known as \"Redwoods\" at Round Valley after forced relocation (1869)<br>\n  Pre-contact pop: ~500 (Kroeber)",
+      "timePeriods": [],
+      "cultures": [
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -857,7 +997,17 @@
         "dashArray": "6,4",
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Coast Yuki (Ukohtontilka)</b><br>\n  \"Ocean People\" / \"People Beside the Big Water\"<br>\n  ~50 miles of Mendocino Coast: Noyo River to Usal Creek<br>\n  11 groups, each with coastal strip extending inland to redwood forests<br>\n  Separated from interior Yuki by Cahto migration<br>\n  Diet: salmon, mussels, abalone, surf fish, sea lions (no canoes)<br>\n  Invented wooden spatula to pry abalone from rocks<br>\n  Pre-contact: ~500; down to 15-20 by early 1900s"
+      "popup": "<b>Coast Yuki (Ukohtontilka)</b><br>\n  \"Ocean People\" / \"People Beside the Big Water\"<br>\n  ~50 miles of Mendocino Coast: Noyo River to Usal Creek<br>\n  11 groups, each with coastal strip extending inland to redwood forests<br>\n  Separated from interior Yuki by Cahto migration<br>\n  Diet: salmon, mussels, abalone, surf fish, sea lions (no canoes)<br>\n  Invented wooden spatula to pry abalone from rocks<br>\n  Pre-contact: ~500; down to 15-20 by early 1900s",
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -904,7 +1054,16 @@
         "dashArray": "6,4",
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Cahto / Kato (Tlokyhan — \"Grass People\")</b><br>\n  <b>Southernmost Athabaskan speakers</b> on the Pacific Coast<br>\n  Long Valley, Cahto Valley, upper South Fork Eel River<br>\n  ~50 village sites surrounded by redwood forests<br>\n  Bordered on 3 sides by Yukian peoples<br>\n  Most speakers bilingual in Northern Pomo<br>\n  Name from Pomo word for \"lake\" — key village: Djilbi<br>\n  Pre-contact: 500-1,100"
+      "popup": "<b>Cahto / Kato (Tlokyhan — \"Grass People\")</b><br>\n  <b>Southernmost Athabaskan speakers</b> on the Pacific Coast<br>\n  Long Valley, Cahto Valley, upper South Fork Eel River<br>\n  ~50 village sites surrounded by redwood forests<br>\n  Bordered on 3 sides by Yukian peoples<br>\n  Most speakers bilingual in Northern Pomo<br>\n  Name from Pomo word for \"lake\" — key village: Djilbi<br>\n  Pre-contact: 500-1,100",
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polygon",
@@ -963,7 +1122,16 @@
         "dashArray": "6,4",
         "pane": "yukiBackgroundPane"
       },
-      "popup": "<b>Wailaki (Kinist'ee — \"The People\")</b><br>\n  Eel River Athabaskan / Dene speakers<br>\n  Main Eel south of Kekawaka Creek & North Fork Eel<br>\n  3 subdivisions: Eel River, North Fork, Pitch Wailaki<br>\n  ~95-100 villages, 19+ tribelets<br>\n  Arrived in California ~900 AD<br>\n  Creator god: Katanagai (\"Night Traveler\")<br>\n  Pre-contact: ~2,700 Wailaki; Eel River Athabaskans combined: ~10,700+<br>\n  <i>\"Wailaki\" is Wintun for \"north language\"</i>"
+      "popup": "<b>Wailaki (Kinist'ee — \"The People\")</b><br>\n  Eel River Athabaskan / Dene speakers<br>\n  Main Eel south of Kekawaka Creek & North Fork Eel<br>\n  3 subdivisions: Eel River, North Fork, Pitch Wailaki<br>\n  ~95-100 villages, 19+ tribelets<br>\n  Arrived in California ~900 AD<br>\n  Creator god: Katanagai (\"Night Traveler\")<br>\n  Pre-contact: ~2,700 Wailaki; Eel River Athabaskans combined: ~10,700+<br>\n  <i>\"Wailaki\" is Wintun for \"north language\"</i>",
+      "timePeriods": [],
+      "cultures": [
+        "wintu"
+      ],
+      "tribes": [
+        "wintu",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -982,7 +1150,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1001,7 +1179,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1020,7 +1206,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1039,7 +1233,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1058,7 +1260,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1077,7 +1287,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1096,7 +1314,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1115,7 +1343,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1134,7 +1370,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1153,7 +1397,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1172,7 +1424,16 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1191,7 +1452,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1210,7 +1479,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1229,7 +1504,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1248,7 +1529,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1268,7 +1559,19 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "maidu",
+        "yuki"
+      ],
+      "tribes": [
+        "maidu",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1287,7 +1590,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1306,7 +1615,16 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1325,7 +1643,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1344,7 +1672,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1363,7 +1699,20 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "early_archaic",
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": [
+        "cupule_pit_and_groove",
+        "pcn_tradition",
+        "scratched"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1382,7 +1731,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1401,7 +1756,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1420,7 +1781,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1439,7 +1806,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1458,7 +1831,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1477,7 +1856,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": [
+        "cupule_pit_and_groove"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1496,7 +1885,23 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coast_miwok",
+        "miwok",
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "coast_miwok",
+        "miwok",
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": [
+        "cupule_pit_and_groove"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1515,7 +1920,21 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coast_miwok",
+        "miwok",
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "coast_miwok",
+        "miwok",
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1534,7 +1953,19 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": [
+        "cupule_pit_and_groove",
+        "pcn_tradition"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1553,7 +1984,13 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1573,7 +2010,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1592,7 +2037,17 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "yuki"
+      ],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1611,7 +2066,15 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1630,7 +2093,21 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "nomlaki",
+        "pomo",
+        "yuki"
+      ],
+      "tribes": [
+        "nomlaki",
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1649,7 +2126,16 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1668,7 +2154,16 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1687,7 +2182,16 @@
       },
       "options": {
         "pane": "markerPane"
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "pomo"
+      ],
+      "tribes": [
+        "pomo",
+        "yuki"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

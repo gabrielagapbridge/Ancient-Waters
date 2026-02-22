@@ -21,7 +21,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Oak Hill No. 1 — Earliest Mohawk</h3>\n    <p><b>Date:</b> ~AD 1350–1400</p>\n    <p><b>Location:</b> Fulton County, NY</p>\n    <p><b>Significance:</b> One of the earliest sites identified as distinctly Mohawk Iroquoian (as opposed to Owasco/proto-Iroquoian). Marks the emergence of recognizable Mohawk material culture.</p>\n    <p><b>Sources:</b> Ritchie & Funk 1973; Snow 1995</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -42,7 +53,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Jackson-Everson</h3>\n    <p><b>Date:</b> ~AD 1400–1450</p><p><b>Location:</b> Fulton County</p>\n    <p>Early Mohawk village in the pre-contact sequence.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -63,7 +85,19 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Galligan</h3>\n    <p><b>Date:</b> ~AD 1400–1450</p><p><b>Location:</b> Fulton County</p>\n    <p>Early Mohawk village, pre-contact settlement cluster.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -84,7 +118,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Wormuth</h3>\n    <p><b>Date:</b> ~AD 1420–1470</p><p><b>Location:</b> Fulton/Montgomery County</p>\n    <p>Mid-sequence Mohawk village.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -105,7 +150,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Swart-Farley</h3>\n    <p><b>Date:</b> ~AD 1440–1480</p><p><b>Location:</b> Fulton/Montgomery County</p>\n    <p>Mid-sequence Mohawk village. Villages growing larger, more palisaded.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -126,7 +182,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Second Woods (Failing Site)</h3>\n    <p><b>Date:</b> ~AD 1400s</p>\n    <p><b>Location:</b> Wooded ridge, Fort Plain area, Montgomery County</p>\n    <p><b>Discovery:</b> Found 1921. A fragment of freshwater clam shell on the surface led to excavation. Charcoal-blackened earth marked fireplace locations.</p>\n    <p><b>Pottery:</b> Distinctive — Iroquoian but lacking the characteristic rim incisions found at Otstungo and Garoga. Features corn-cob impressions, cord impressions, and porcupine quill imitation stitching.</p>\n    <p><b>Sources:</b> Douglas Ayres Jr.; Mohawk Valley history</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -147,7 +214,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Wagner’s Hollow</h3>\n    <p><b>Date:</b> ~AD 1500s</p>\n    <p><b>Location:</b> On Garoga Creek, Montgomery County</p>\n    <p>Fine bone implements and many arrowheads recovered. Located along the creek connecting multiple Mohawk village sites.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -168,7 +246,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Elwood</h3>\n    <p><b>Date:</b> ~AD 1450–1500</p><p><b>Location:</b> Montgomery County</p>\n    <p>Mohawk village in the pre-contact sequence.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -189,7 +278,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Fox Lair</h3>\n    <p><b>Date:</b> ~AD 1450–1500</p><p><b>Location:</b> Fulton County</p>\n    <p>Mohawk village.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -210,7 +310,18 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#8B0000\">⏳ Smith-Pagerie — Cornell Revised Dating</h3>\n    <p><b>Revised Date:</b> ~AD 1478–1498 (Cornell Tree-Ring Lab 2021)</p>\n    <p><b>Previous Date:</b> Thought to be ~1520s</p>\n    <p><b>Location:</b> Caroga Creek drainage, Ephratah, Fulton County</p>\n    <p><b>Significance:</b> Earliest of the three major Caroga Creek Mohawk villages. Cornell’s 2021 revision used tree-ring dating of wooden structural posts — pushing dates back decades. European metalwork found here was deposited <i>earlier than previously thought</i>, predating Jacques Cartier’s arrival at the St. Lawrence (1534).</p>\n    <p><b>Implication:</b> European goods reached Mohawk villages through trade networks <i>before</i> any documented European explorer visited the region.</p>\n    <p><b>30-Year Gap:</b> Cornell found a ~30-year gap between Klock and Garoga occupation, suggesting different communities — overturning the assumption they were sequential occupations of the same group.</p>\n    <p><b>Sources:</b> Funk & Kuhn 2003; Manning et al. 2021 (Cornell); NYSM Bulletin 503</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -231,7 +342,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Kilts</h3>\n    <p><b>Date:</b> ~AD 1500s</p><p><b>Location:</b> Montgomery County</p>\n    <p>Mohawk village in the contact-era sequence.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -252,7 +374,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Getman</h3>\n    <p><b>Date:</b> ~AD 1500s</p><p><b>Location:</b> Montgomery County</p>\n    <p>Mohawk village.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -273,7 +406,20 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Briggs Run — First Mohawk Valley Settlement</h3>\n    <p><b>Date:</b> ~AD 1580s–1600s</p>\n    <p><b>Location:</b> North shore of Mohawk River, 4 miles west of Fonda</p>\n    <p><b>Significance:</b> One of the first four Mohawk sites in the valley after migration from the St. Lawrence (~1580-1590). The four founding sites (west to east): Otstungo, Garoga, Briggs Run, Cayadutta.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [
+        "contact",
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -294,7 +440,20 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Cayadutta — First Mohawk Valley Settlement</h3>\n    <p><b>Date:</b> ~AD 1580s–1600s</p>\n    <p><b>Location:</b> North shore, 2 miles NW of Fonda, Montgomery County</p>\n    <p><b>Significance:</b> Easternmost of the four founding Mohawk valley settlements. Named for Cayadutta Creek.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "contact",
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -315,7 +474,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Ganada No. 2</h3>\n    <p><b>Date:</b> Early contact period</p><p><b>Location:</b> Montgomery County</p>\n    <p>Early contact Mohawk village.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -336,7 +504,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Fox Farm Site — Pre-Caughnawaga</h3>\n    <p><b>Date:</b> ~1650s–1679</p>\n    <p><b>Location:</b> Upstream of Caughnawaga, Montgomery County</p>\n    <p><b>Description:</b> Predecessor to the Caughnawaga village. Community moved downstream ~1679. Had larger population than its successor — some Catholic Mohawk had already migrated north to Kahnawake near Montreal.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -357,7 +534,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Fort Hunter / Tiononderoge — Lower Mohawk Castle</h3>\n    <p><b>Date:</b> 18th century</p>\n    <p><b>Location:</b> Confluence of Mohawk River and Schoharie Creek</p>\n    <p><b>Description:</b> Strategic river junction. One of the last principal Mohawk settlements before the Revolution forced evacuation. Queen Anne’s Chapel (1712) built here — one of the oldest surviving churches in NY.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -378,7 +566,19 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#8B0000\">⏳ Canajoharie — Upper Mohawk Castle</h3>\n    <p><b>Date:</b> 18th century</p>\n    <p><b>Location:</b> Canajoharie, Montgomery County</p>\n    <p><b>Significance:</b> Home of <b>Thayendanegea (Joseph Brant)</b>, the Mohawk war chief who led pro-British Mohawk during the Revolution. Also home to <b>Molly Brant (Konwatsi’tsiaienni)</b>, Joseph’s sister, consort of Sir William Johnson and one of the most politically influential Haudenosaunee women of the colonial era.</p>\n    <p><b>Tenotoge (Oak Hill):</b> Nearby site combining aboriginal and European trade goods. A French fleur-de-lis pipe stem was found in 1923. From this hilltop, the junction of the Canadian Trail from Lake George with the river trail could be seen — a surveillance point for monitoring approaches.</p>\n    <p><b>Sources:</b> Douglas Ayres Jr.; Schenectady History; Snow 1994</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -399,7 +599,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Niska Isle — River Island Village</h3>\n    <p><b>Location:</b> Island in the Mohawk River, near Niskayuna</p>\n    <p>Connected by Indian trail crossing the Lisha Kill to Helderberg Escarpment chert quarries — raw material for stone tools.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -420,7 +629,17 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⏳ Schoharie Mohawk Sites</h3>\n    <p><b>Location:</b> Schoharie County, NY</p>\n    <p><b>Description:</b> Cluster of Mohawk sites documented by the Iroquois Indian Museum. Jim Peck (NYSAA) mapped all known sites using topographic maps. The Enders and Cider Mill sites are key excavated locations.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -441,7 +660,18 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#FF4500\">🔥 Little Beard’s Town (Geneseo) — Destroyed 1779</h3>\n    <p><b>Date:</b> 18th century — one of the largest Seneca settlements</p>\n    <p><b>Location:</b> Present-day Geneseo, Livingston County (Genesee River)</p>\n    <p><b>Named for:</b> Chief Little Beard (Sequidongquee)</p>\n    <p><b>Size:</b> 128 houses destroyed by Sullivan’s troops, September 1779</p>\n    <p><b>Boyd-Parker Incident:</b> Near here, Seneca warriors captured American scouts Lt. Thomas Boyd and Sgt. Michael Parker, who were tortured and killed — one of the most documented incidents of the Sullivan campaign.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -462,7 +692,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF4500\">🏠 Honeoye — Seneca Town</h3>\n    <p><b>Location:</b> Honeoye Lake, Ontario County</p>\n    <p><b>Name:</b> \"Finger lying\" — refers to the lake’s shape</p>\n    <p><b>Destroyed:</b> Sullivan-Clinton Campaign, 1779</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -483,7 +722,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#FF4500\">🏠 Canandaigua — Seneca Town & Treaty Site</h3>\n    <p><b>Location:</b> North end of Canandaigua Lake, Ontario County</p>\n    <p><b>Name:</b> \"The chosen spot\"</p>\n    <p><b>1794 Treaty of Canandaigua:</b> Still legally binding treaty between the United States and the Six Nations. Recognized Haudenosaunee land rights. Referenced in current disputes (2025). Every November, the US government sends cloth to the Six Nations to honor the treaty — a commitment that has been maintained for 230+ years.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -504,7 +753,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF4500\">🏠 Dann Site — Seneca Village</h3>\n    <p><b>Location:</b> Ontario/Livingston County area</p>\n    <p>Major Seneca village in the pre-contact/early contact period.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -525,7 +783,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF4500\">🏠 Factory Hollow — Seneca Village</h3>\n    <p><b>Location:</b> Ontario County area</p>\n    <p>Seneca village in the Finger Lakes cluster.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -546,7 +813,13 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF4500\">🔥 Gathtsegwarohare (Cuneseraga) — Destroyed 1779</h3>\n    <p><b>Location:</b> Genesee River area, Livingston County</p>\n    <p>Sullivan campaign. Near the Boyd-Parker capture site.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -567,7 +840,17 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF4500\">🏠 Rochester Junction — Seneca Site</h3>\n    <p><b>Location:</b> Ontario County area</p>\n    <p>Shell thunderbird pendant found here — connecting to Haudenosaunee cosmology of He-no, the Thunder Spirit.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -588,7 +871,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF4500\">🏠 Boughton Hill / Fort Hill — Ganondagan Granary</h3>\n    <p><b>Location:</b> Victor, Ontario County</p>\n    <p><b>Size:</b> 33 acres (NRHP listed)</p>\n    <p><b>Description:</b> Fortified granary complex associated with the great Seneca town of Ganondagan. The centralized food storage here was a key target of Denonville’s 1687 French attack — destroying it threatened not just Ganondagan but the entire Seneca winter food supply.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -609,7 +901,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4B0082\">🏠 Pompey Center — Onondaga Village Cluster</h3>\n    <p><b>Location:</b> Pompey Hills, south of Syracuse</p>\n    <p>Cluster of Onondaga villages. The Onondaga preferred hilltop positions with views of approaching visitors — fitting for the nation hosting all Confederacy meetings.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "onondaga"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "onondaga"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -630,7 +931,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4B0082\">🏠 Indian Hill — Onondaga Village</h3>\n    <p><b>Location:</b> Onondaga County</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "onondaga"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "onondaga"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -651,7 +961,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4B0082\">🏠 Indian Fort (Nichols Pond) — Fortified Onondaga</h3>\n    <p><b>Location:</b> Onondaga County</p>\n    <p>Fortified Onondaga village. Palisaded settlements were common during the pre-Confederacy warfare period.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "onondaga"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "onondaga"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -672,7 +993,19 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#4B0082\">🔥 Onondaga Nation Territory (Present Day)</h3>\n    <p><b>Location:</b> 7,300 acres south of Syracuse</p>\n    <p><b>Sovereignty:</b> The <i>only</i> Haudenosaunee territory that has never been a reservation — continuous sovereignty maintained. Grand Council of the Haudenosaunee Confederacy still meets here.</p>\n    <p><b>Governance:</b> The Tadodaho (currently Sid Hill) presides. Clan Mothers select chiefs. Consensus-based decision-making as prescribed by the Great Law of Peace for 900+ years.</p>\n    <p><b>Longhouse Religion:</b> Still practiced. Passports issued. The Confederacy considers itself a sovereign nation under international law.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "onondaga"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "onondaga"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -693,7 +1026,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B8860B\">🔥 Cayuga Castle (Goiogouen) — Destroyed 1779</h3>\n    <p><b>Location:</b> East side of Cayuga Lake, Cayuga County</p>\n    <p>Principal Cayuga town. Major political center. Destroyed by Sullivan-Clinton, September 1779.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "cayuga"
+      ],
+      "tribes": [
+        "cayuga",
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -714,7 +1056,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B8860B\">🔥 Peachtown — Cayuga, Destroyed 1779</h3>\n    <p><b>Location:</b> Near Cayuga Lake</p>\n    <p>Named for extensive peach orchards — evidence of sophisticated Cayuga horticulture. Destroyed by Sullivan’s troops.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "cayuga"
+      ],
+      "tribes": [
+        "cayuga",
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -735,7 +1088,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B8860B\">🏠 Great Gully — Cayuga Village</h3>\n    <p><b>Location:</b> West side of Cayuga Lake</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "cayuga"
+      ],
+      "tribes": [
+        "cayuga",
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -756,7 +1118,16 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#2E8B57\">🏠 Oneida Castle — Principal Oneida Village</h3>\n    <p><b>Location:</b> Near Oneida Lake, Madison/Oneida County</p>\n    <p><b>Name Origin:</b> The distinctive large standing stone near the village — the \"stone that stands\" from which the Oneida take their name (Onyota’a:ka, \"People of the Standing Stone\").</p>\n    <p><b>Revolutionary War:</b> The Oneida, uniquely among the Six Nations, supported the Americans. Despite this sacrifice, New York systematically stripped their land in the decades that followed.</p>\n    <p><b>Legacy:</b> Today the Oneida Indian Nation has reacquired ~18,000 acres in their homeland and operate significant enterprises, but this represents a fraction of their original 6-million-acre territory.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "oneida"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "oneida"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -777,7 +1148,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🏠 Primes Hill — Early Oneida</h3>\n    <p><b>Location:</b> Madison County area</p>\n    <p>Early Oneida village site.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "oneida"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "oneida"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -798,7 +1178,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🏠 Dungham — Oneida Village</h3>\n    <p><b>Location:</b> Madison County</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "oneida"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "oneida"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -819,7 +1208,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🏠 Cameron — Oneida Village</h3>\n    <p><b>Location:</b> Madison County</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "oneida"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "oneida"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -840,7 +1238,20 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:500px;overflow-y:auto;\">\n    <h3 style=\"color:#FF69B4\">❓ Durfee Site — Northern NY Iroquoians</h3>\n    <p><b>Date:</b> ~AD 1300s–1500s</p>\n    <p><b>Location:</b> Jefferson County, NY</p>\n    <p><b>Excavation:</b> M.R. Harrington for Harvard’s Peabody Museum, 1906</p>\n    <p><b>Culture:</b> Northern New York Iroquoians (NNYI) — a <i>separate Iroquoian population</i> NOT part of the Five Nations</p>\n    <p><b>THE MYSTERY:</b> These people occupied the transitional zone between the Haudenosaunee homeland and the St. Lawrence Iroquoians to the north. They served as <b>liaison brokers</b> between the two groups without formal affiliation with either.</p>\n    <p><b>Disappearance:</b> They dispersed sometime in the first half of the 16th century. No other Iroquoian group replaced them as intermediaries. When this diplomatic bridge collapsed, it may have contributed to the escalation of violence that eventually destroyed the St. Lawrence Iroquoian populations.</p>\n    <p><b>Identity:</b> Unknown. Possibly ancestral to one of the Five Nations, possibly absorbed into the Haudenosaunee or Wendat, or possibly a separate people entirely. Pottery shows Owasco-like characteristics.</p>\n    <p><b>Sources:</b> Abel 2020; Hart et al. 2019; SAA Archaeological Record 2020</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -861,7 +1272,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF69B4\">❓ Heath Site — NNYI</h3>\n    <p><b>Date:</b> ~AD 1300s–1500s</p>\n    <p><b>Location:</b> Jefferson County</p>\n    <p>Northern NY Iroquoian — mystery population.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -882,7 +1301,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF69B4\">❓ Putnam-Gardner — NNYI</h3>\n    <p><b>Date:</b> ~AD 1400s</p>\n    <p><b>Location:</b> Northeast of Watertown, Jefferson County</p>\n    <p><b>Excavation:</b> Alanson Skinner for Heye Foundation, 1916</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "historic",
+        "late_prehistoric"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -903,7 +1331,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#FF69B4\">❓ Black Lake Cluster — NNYI</h3>\n    <p><b>Date:</b> Appeared ~AD 1400, occupied into 1500s</p>\n    <p><b>Location:</b> Black Lake area, St. Lawrence County</p>\n    <p><b>Description:</b> Iroquoian sites at a physiographic divide — the transitional zone between St. Lawrence lowlands and Adirondack uplands. This position was key to their role as intermediaries.</p>\n    <p><b>Significance:</b> When the NNYI dispersed, the diplomatic bridge between Haudenosaunee and St. Lawrence Iroquoians collapsed — potentially contributing to the violence that destroyed the St. Lawrence populations.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "haudenosaunee"
+      ],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -924,7 +1362,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF69B4\">❓ Nohle, Morse, Durham, Talcott Falls — NNYI</h3>\n    <p><b>Location:</b> Jefferson County area</p>\n    <p>Sites tested by M.R. Harrington during his 1906 Peabody Museum expedition. Part of the enigmatic Northern NY Iroquoian complex.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "contact",
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -945,7 +1392,21 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:550px;overflow-y:auto;\">\n    <h3 style=\"color:#9932CC\">👻 Hochelaga — The Vanished City</h3>\n    <p><b>Date:</b> Visited by Jacques Cartier, October 2, 1535</p>\n    <p><b>Location:</b> Present-day Montreal, Quebec (foot of Mount Royal)</p>\n    <p><b>Culture:</b> St. Lawrence Iroquoians — a distinct people, NOT Mohawk or Huron</p>\n    <p><b>Description:</b> Fortified town of ~50 longhouses, triple palisades, ~1,500+ people. Extensive cornfields. Spoke an Iroquoian language related to but distinct from the Five Nations.</p>\n    <p><b>THE MYSTERY:</b> When Champlain arrived in 1603–1608, the <b>entire St. Lawrence Iroquoian population had vanished</b>. Every settlement from Quebec City to eastern Lake Ontario — abandoned. No one knows exactly what happened.</p>\n    <p><b>Theories:</b></p>\n    <p>• <b>Warfare:</b> Destroyed by Haudenosaunee, Wendat, or both</p>\n    <p>• <b>Epidemic:</b> European diseases from Cartier’s visits (1534–42)</p>\n    <p>• <b>Absorption:</b> Survivors adopted into other nations</p>\n    <p>• <b>Most likely:</b> Disease weakened them, warfare finished them, survivors absorbed</p>\n    <p><b>Linguistic Evidence:</b> St. Lawrence Iroquoian words survive in Haudenosaunee and Wendat vocabularies. \"Canada\" itself may be St. Lawrence Iroquoian for \"village.\"</p>\n    <p><b>Archaeological Evidence:</b> St. Lawrence Iroquoian pottery styles appear in later Haudenosaunee sites, suggesting captives or refugees were incorporated.</p>\n    <p><b>Connection to NNYI:</b> The disappearance of the Northern NY Iroquoian intermediaries may have removed the diplomatic buffer that protected the St. Lawrence populations.</p>\n    <p><b>Sources:</b> Cartier 1535; Trigger 1985; Snow 1994; Engelbrecht 2003; Steckley 2007</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "mohawk",
+        "wendat"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk",
+        "wendat"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -966,7 +1427,15 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#9932CC\">👻 Stadacona — St. Lawrence Iroquoian Town</h3>\n    <p><b>Date:</b> Contacted by Cartier 1534–1535</p>\n    <p><b>Location:</b> Present-day Quebec City area</p>\n    <p><b>Chief:</b> Donnacona — kidnapped by Cartier in 1536, taken to France, died there</p>\n    <p><b>Description:</b> Major settlement near the narrows of the St. Lawrence. Donnacona told Cartier about the \"Kingdom of the Saguenay\" further inland.</p>\n    <p><b>Status:</b> Vanished by ~1580. No trace when Champlain arrived.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1008,7 +1477,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9932CC\">👻 The Vanished Corridor</h3>\n    <p>Approximate extent of St. Lawrence Iroquoian settlement. From Stadacona (Quebec City) to eastern Lake Ontario — all abandoned between ~1535 and ~1580.</p>\n    <p>An entire civilization erased from one of North America’s most important waterways in less than two generations.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1050,7 +1527,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Susquehanna River (Northern Branch)</h3>\n    <p><b>Headwaters:</b> Otsego Lake, Cooperstown, NY</p>\n    <p><b>Length:</b> 444 miles — longest East Coast river draining to the Atlantic</p>\n    <p><b>Haudenosaunee Use:</b> Major trade and war corridor connecting the Confederacy to the Chesapeake Bay. Sullivan’s army followed it upstream in 1779.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee"
+      ],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1084,7 +1569,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Oswego River</h3>\n    <p><b>Route:</b> Connects Oneida Lake to Lake Ontario</p>\n    <p><b>Major trade route.</b> Part of the water highway linking Atlantic drainage to the Great Lakes via the Oneida Carry → Oneida Lake → Oswego → Lake Ontario path.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "oneida"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "oneida"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -1106,7 +1600,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Oneida Lake</h3>\n    <p><b>Size:</b> ~21 miles long, 5 miles wide</p>\n    <p><b>Control:</b> Oneida Nation — critical link in the water highway. Connects (via the Oneida Carry/Mohawk River) to the Atlantic, and (via Oswego River) to Lake Ontario and the Great Lakes.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "mohawk",
+        "oneida"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk",
+        "oneida"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1144,7 +1649,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Seneca River</h3>\n    <p>Connects Finger Lakes to Oswego River / Lake Ontario. Delegations traveled this route to reach Onondaga for Confederacy meetings.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "onondaga",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "onondaga",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -1166,7 +1682,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Canandaigua Lake</h3>\n    <p><b>Name:</b> \"The chosen spot\"</p>\n    <p>Seneca territory. Site of the 1794 Treaty of Canandaigua — still legally binding. Referenced in current disputes.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -1188,7 +1713,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Skaneateles Lake</h3>\n    <p>Between Onondaga and Cayuga territory. One of the smaller Finger Lakes.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "cayuga",
+        "onondaga"
+      ],
+      "tribes": [
+        "cayuga",
+        "haudenosaunee",
+        "onondaga"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -1210,7 +1746,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Owasco Lake</h3>\n    <p>Named for the Owasco culture — proto-Iroquoian people (~AD 1000–1300) who preceded the Haudenosaunee in this region. The name connects modern geography to deep prehistory.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee"
+      ],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circle",
@@ -1232,7 +1776,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Keuka Lake</h3>\n    <p>Seneca territory. Distinctive Y-shape. \"Canoe landing\" in Iroquoian.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1253,7 +1806,17 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#DC143C\">⚡ Niagara Falls — Home of He-no, the Thunder Spirit</h3>\n    <p><b>Location:</b> Border of NY and Ontario, Niagara River</p>\n    <p><b>Haudenosaunee Name:</b> \"Thundering Waters\"</p>\n    <p><b>Cosmology:</b> In Haudenosaunee tradition, Niagara Falls is the home of <b>He-no</b>, the Thunder Spirit — the Iroquois equivalent of the Thunderbird found across Indigenous North American traditions. He-no lives behind the falls and protects the people from the Great Serpent who lurks in the water.</p>\n    <p><b>The Maid of the Mist:</b> The Seneca tell of a woman who went over the falls in a canoe and was rescued by He-no, who revealed the serpent’s weakness and saved her people.</p>\n    <p><b>Territory:</b> Western boundary of Seneca territory — the Keepers of the Western Door guarded the approach to the falls and the passage to the Great Lakes beyond.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1283,7 +1846,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Allegany River</h3>\n    <p>Southwestern Seneca territory. Site of the Allegany Reservation — one of two remaining Seneca Nation territories in New York.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1313,7 +1887,18 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#1E90FF\">💧 Tonawanda Creek</h3>\n    <p>Territory of the Tonawanda Band of Seneca — the most traditional of the three Seneca governing bodies. The Tonawanda Reservation (7,549 acres) is home to the Tonawanda Longhouse.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1334,7 +1919,19 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:450px;overflow-y:auto;\">\n    <h3 style=\"color:#8B0000\">⚔️ Battle of Newtown — August 29, 1779</h3>\n    <p><b>Location:</b> Near present-day Elmira, Chemung County</p>\n    <p><b>Significance:</b> The <b>only pitched battle</b> of the entire Sullivan-Clinton Campaign. Haudenosaunee and British forces (under Joseph Brant and Mohawk/Seneca warriors with Loyalist Rangers) attempted to stop Sullivan’s 4,000-man army here.</p>\n    <p><b>Outcome:</b> After a flanking maneuver, the Haudenosaunee-British force was routed. This opened the path for the systematic destruction of 40+ towns that followed.</p>\n    <p><b>Aftermath:</b> Having failed to stop the army in open battle, Haudenosaunee warriors shifted to guerrilla tactics, but the sheer size of Sullivan’s force made ambush difficult.</p>\n    <p><b>Today:</b> Newtown Battlefield State Park. The site is preserved.</p>\n    <p><b>Sources:</b> NPS; Sullivan-Clinton Campaign Historical Record</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 380
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "mohawk",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1355,7 +1952,17 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">🔥 Catherine’s Town — Destroyed 1779</h3>\n    <p><b>Location:</b> Near present-day Montour Falls, Schuyler County (head of Seneca Lake)</p>\n    <p><b>Named for:</b> Queen Catherine Montour, a mixed-race (French-Haudenosaunee) woman of great political influence among the Seneca</p>\n    <p><b>Destroyed:</b> Sullivan’s troops burned the town en route to the Finger Lakes heartland.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1376,7 +1983,21 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#8B0000\">⚔️ Cherry Valley — November 11, 1778</h3>\n    <p><b>Location:</b> Cherry Valley, Otsego County</p>\n    <p><b>Significance:</b> One of the key events that precipitated the Sullivan-Clinton Campaign. Mohawk and Seneca warriors under Joseph Brant and Loyalist Rangers attacked this frontier settlement, killing soldiers and civilians.</p>\n    <p><b>Context:</b> Cherry Valley and the Wyoming Valley Massacre (July 1778 in Pennsylvania) convinced George Washington that the Haudenosaunee pro-British alliance required a massive military response — leading directly to his orders for \"total destruction.\"</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "mohawk",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "mohawk",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1430,7 +2051,19 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:450px;overflow-y:auto;\">\n    <h3 style=\"color:#8B0000\">🔥 Sullivan’s March Route — Summer/Fall 1779</h3>\n    <p><b>Commander:</b> Major General John Sullivan, on orders from George Washington</p>\n    <p><b>Force:</b> ~4,000 Continental troops</p>\n    <p><b>Route:</b> From Easton, PA north through the Susquehanna Valley, then west through the Finger Lakes to the Genesee River</p>\n    <p><b>Destruction:</b> 40+ towns destroyed, 160,000+ bushels of corn burned, orchards of hundreds of trees girdled (killed by cutting bark rings)</p>\n    <p><b>Washington’s Orders:</b> \"The immediate objects are the total destruction and devastation of their settlements... it will be essential to ruin their crops now in the ground and prevent their planting more.\"</p>\n    <p><b>Seneca Response:</b> They named Washington <b>\"Town Destroyer\" (Hanödaga:nyas)</b> — a name passed to every subsequent US president in Haudenosaunee tradition.</p>\n    <p><b>Winter 1779-80:</b> Thousands of refugees crowded around Fort Niagara in one of the coldest winters on record. Mass starvation and disease. The Confederacy never recovered its pre-war territory.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 400
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "polyline",
@@ -1472,7 +2105,13 @@
       "popup": "<div class=\"popup-content\" style=\"max-height:400px;overflow-y:auto;\">\n    <h3 style=\"color:#AA0000\">🔥 Clinton’s Route — Northern Prong</h3>\n    <p><b>Commander:</b> Brigadier General James Clinton</p>\n    <p><b>Starting Point:</b> Otsego Lake (Cooperstown) — Clinton dammed the lake’s outlet, then breached the dam to create a flood that carried his 200+ boats down the Susquehanna to the rendezvous with Sullivan at Tioga.</p>\n    <p><b>Innovation:</b> This dam-and-flood technique was an unprecedented military engineering feat — using the waterway itself as a weapon of logistics.</p>\n    <p><b>Route:</b> Down the Susquehanna from Otsego Lake to Tioga (present-day Athens, PA), then joined Sullivan’s main force.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 360
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1493,7 +2132,20 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">⛏️ Oil Spring Reservation — Condemned</h3>\n    <p><b>Location:</b> Cuba, Allegany County</p>\n    <p><b>History:</b> Small Seneca reservation centered on a sacred oil spring — petroleum seeping naturally from the ground, used for medicine and ceremony.</p>\n    <p><b>Loss:</b> Condemned by New York State 1858–1871 to build Cuba Lake reservoir for the Genesee Valley Canal. One of the most clear-cut examples of infrastructure destroying Indigenous sacred sites — the same pattern seen at Onondaga Lake.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [
+        "historic"
+      ],
+      "cultures": [
+        "onondaga",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "onondaga",
+        "seneca"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1514,7 +2166,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">🦴 Arc Site — Possible Clovis</h3>\n    <p><b>Date:</b> ~12,000+ BP</p>\n    <p><b>Location:</b> South shore of Lake Ontario</p>\n    <p><b>Significance:</b> Fluted preforms with possible Clovis-era overshot flake scars. Evidence of the earliest human presence along the Ontario lakeshore after glacial retreat.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 320
-      }
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1535,7 +2195,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">🦴 Kings Road — Paleoindian</h3>\n    <p><b>Date:</b> ~11,000+ BP</p><p><b>Location:</b> Greene County, NY</p>\n    <p>Paleoindian site in the Hudson Valley corridor.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1556,7 +2224,15 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">🦴 Swale Site — Paleoindian</h3>\n    <p><b>Date:</b> ~11,000+ BP</p><p><b>Location:</b> Greene County, NY</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 280
-      }
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1577,7 +2253,16 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">🦴 Thurman Bifaces — Late Paleoindian</h3>\n    <p><b>Date:</b> ~10,000 BP</p>\n    <p><b>Location:</b> Warren County, NY (Adirondack foothills)</p>\n    <p>Three exceptional Late Paleoindian bifaces found during 1930s road construction. Evidence of early human penetration into the Adirondack region.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [
+        "historic",
+        "paleoindian"
+      ],
+      "cultures": [],
+      "tribes": [
+        "haudenosaunee"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -1598,7 +2283,19 @@
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">🦴 Eaton Site — 12,000 Years of Occupation</h3>\n    <p><b>Location:</b> Erie County, NY</p>\n    <p><b>Significance:</b> Late precontact Erie village with Late Paleoindian projectile points mixed into the deposits — proving the same location was used across 12,000+ years, from the first post-glacial hunters to the historic-period Erie people.</p>\n    <p><b>Note:</b> The Erie (Erielhonan) were an Iroquoian people destroyed by the Haudenosaunee during the Beaver Wars (~1654). Their territory became the westernmost extension of Seneca control.</p>\n  </div>",
       "popupOptions": {
         "maxWidth": 340
-      }
+      },
+      "timePeriods": [
+        "paleoindian"
+      ],
+      "cultures": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "tribes": [
+        "haudenosaunee",
+        "seneca"
+      ],
+      "rockArtStyles": []
     }
   ]
 }

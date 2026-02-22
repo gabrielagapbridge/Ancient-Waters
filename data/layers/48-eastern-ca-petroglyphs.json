@@ -19,7 +19,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-28 — Bishop Area</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Location:</b> Near Bishop, Owens Valley</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Elements:</b> Circles, curvilinear meanders</p><p><b>Tribal affiliation:</b> Owens Valley Paiute (Numa)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -38,7 +50,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-194 — Laws Area</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Location:</b> Near Laws, northern Owens Valley</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Tribal affiliation:</b> Owens Valley Paiute (Numa)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -57,7 +81,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-208 — Volcanic Tableland / Chalfant Valley</h3><p><b>Type:</b> Major petroglyph complex — hundreds of panels</p><p><b>County:</b> Inyo County</p><p><b>Location:</b> Volcanic Tableland, north of Bishop</p><p><b>Style:</b> Great Basin Representational AND Curvilinear</p><p><b>Key motifs:</b> Bighorn sheep (dominant), hunting scenes with atlatls, human figures with headdresses</p><p><b>Date:</b> ca. 3,500+ years ago</p><p><b>Tribal affiliation:</b> Owens Valley Paiute (Numa)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -76,7 +114,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-214</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Figures:</b> F-10, F-11</p><p><b>Style:</b> Great Basin Representational / Curvilinear</p><p><b>Tribal affiliation:</b> Owens Valley Paiute</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -95,7 +145,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-261</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Tribal affiliation:</b> Owens Valley Paiute</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -114,7 +176,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-267 — Big Pine Area</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Figures:</b> F-12a, F-13</p><p><b>Style:</b> Great Basin Representational / Curvilinear</p><p><b>Tribal affiliation:</b> Owens Valley Paiute</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -133,7 +207,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-268</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -152,7 +238,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-270</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Tribal affiliation:</b> Owens Valley Paiute</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -171,7 +269,23 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-271 — Near Coso Range</h3><p><b>Type:</b> Major petroglyph site</p><p><b>County:</b> Inyo County</p><p><b>Location:</b> Southern Owens Valley, near China Lake / Coso Range area</p><p><b>Figures:</b> F-13a, F-15, F-19, F-21, F-21d</p><p><b>Style:</b> Great Basin Representational</p><p><b>Key motifs:</b> Bighorn sheep, anthropomorphs with elaborate headdresses</p><p><b>Tribal affiliation:</b> Coso / Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "coso_tradition",
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range",
+        "coso_tradition"
+      ]
     },
     {
       "type": "circleMarker",
@@ -190,7 +304,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-272 — Swansea Petroglyphs (Solar Observatory)</h3><p><b>Type:</b> Petroglyphs & solar calendrical observatory</p><p><b>County:</b> Inyo County</p><p><b>Location:</b> Near ghost town of Swansea, north shore of Owens Lake</p><p><b>Description:</b> Several hundred petroglyphs on white dolomitic marble. EQUINOX MARKER: 6 vertical bars that predict the actual equinox within hours.</p><p><b>Key motifs:</b> Rayed circles, 6-bar equinox marker, spirals, atlatl, bighorn sheep</p><p><b>Date:</b> Radiocarbon min age ~2,060 years; site likely spans 4,000+ years</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -209,7 +337,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-274</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Figures:</b> F-16c, F-22a</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Tribal affiliation:</b> Owens Valley Paiute</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -228,7 +368,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-275</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -247,7 +401,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-276</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -266,7 +434,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-278</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -285,7 +467,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-280</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -304,7 +500,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-281</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -323,7 +533,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-282</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -342,7 +566,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-283</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -361,7 +599,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-285</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -380,7 +632,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-300</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -399,7 +665,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-363</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -418,7 +698,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-393</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -437,7 +731,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-410</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -456,7 +764,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-420</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -475,7 +797,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-425</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -494,7 +830,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-429</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -513,7 +863,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#E8A87C\">◆ Iny-439</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Inyo County</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Owens Valley Paiute / Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 300
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "tribes": [
+        "owens_valley_paiute",
+        "paiute",
+        "shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -532,7 +896,21 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">★ Ch-71 — Deer Creek Canyon (Appendix E)</h3><p><b>Type:</b> Petroglyphs at natural game ambush point</p><p><b>County:</b> Elko County, Nevada</p><p><b>Location:</b> Narrow canyon on the east fork of the Jarbidge River</p><p><b>Discovered:</b> 1959 by William Wright Jr.</p><p><b>Elements:</b> Curvilinear meanders, snakes, mountain sheep, human figures, shield figures</p><p><b>Style:</b> Great Basin Abstract Curvilinear</p><p><b>Tribal affiliation:</b> Western Shoshone / Northern Paiute</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute",
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -551,7 +929,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">◆ El-25 — Elko County Petroglyph</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Elko County, Nevada</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Source:</b> Heizer & Baumhoff 1962, Appendix E</p><p><b>Tribal affiliation:</b> Western Shoshone</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "tribes": [
+        "shoshone",
+        "western_shoshone"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -570,7 +960,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-1 — Pit River drainage</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> F-31a, s</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -589,7 +985,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-13 — Central Lassen</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> F-31a, d, F-33</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -608,7 +1010,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-18 — Susan River area</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> See Appendix F</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -627,7 +1035,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-38 — Southern Lassen</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> See Appendix F</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -646,7 +1060,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-49 — Honey Lake area</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> See Appendix F</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -665,7 +1085,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-57 — Eagle Lake area</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> F-34, F-35</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -684,7 +1110,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-61</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> See Appendix F</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -703,7 +1135,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-62</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> See Appendix F</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -722,7 +1160,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-63</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> See Appendix F</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -741,7 +1185,13 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-76 — Northern Lassen</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> F-37a-b</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -760,7 +1210,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D4A574\">◆ Las-79 — Near Modoc border</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Lassen County</p><p><b>Style:</b> Great Basin Curvilinear — concentric circles, dot grids, sun discs</p><p><b>Figures:</b> F-33</p><p><b>Tribal affiliation:</b> Pit River (Achumawi / Atsugewi)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -779,7 +1239,15 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">★ Petroglyph Point — Lava Beds National Monument</h3><p><b>Type:</b> Massive petroglyph panel — 5,000+ individual carvings</p><p><b>Site number:</b> Mod-1</p><p><b>County:</b> Modoc County</p><p><b>Location:</b> Lava Beds National Monument, SE of Tulelake</p><p><b>Description:</b> One of the largest panels of Native American rock art in California. Over 5,000 individual carvings in soft volcanic tuff.</p><p><b>Key motifs:</b> Geometric patterns, circles, dots, abstract designs</p><p><b>Date:</b> Possibly 6,000+ years old</p><p><b>Tribal affiliation:</b> Modoc</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 420
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": []
     },
     {
       "type": "circleMarker",
@@ -798,7 +1266,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">◆ Mod-10</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Modoc County</p><p><b>Figures:</b> F-37d-e</p><p><b>Style:</b> Great Basin Curvilinear / Geometric</p><p><b>Tribal affiliation:</b> Modoc</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -817,7 +1295,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">◆ Mod-19 — Central Modoc</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Modoc County</p><p><b>Figures:</b> See Appendix F</p><p><b>Style:</b> Great Basin Curvilinear / Geometric</p><p><b>Tribal affiliation:</b> Modoc</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -836,7 +1324,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">◆ Mod-30</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Modoc County</p><p><b>Figures:</b> F-38a</p><p><b>Style:</b> Great Basin Curvilinear / Geometric</p><p><b>Tribal affiliation:</b> Modoc</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -855,7 +1353,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">◆ Mod-41</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Modoc County</p><p><b>Figures:</b> F-38b-j</p><p><b>Style:</b> Great Basin Curvilinear / Geometric</p><p><b>Tribal affiliation:</b> Modoc</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -874,7 +1382,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">◆ Mod-61</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Modoc County</p><p><b>Figures:</b> F-39b</p><p><b>Style:</b> Great Basin Curvilinear / Geometric</p><p><b>Tribal affiliation:</b> Modoc</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -893,7 +1411,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#C49A6C\">◆ Mod-71</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Modoc County</p><p><b>Figures:</b> F-39d, F-44c</p><p><b>Style:</b> Great Basin Curvilinear / Geometric</p><p><b>Tribal affiliation:</b> Modoc</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "modoc"
+      ],
+      "tribes": [
+        "modoc"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -912,7 +1440,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#B8916A\">◆ Mno-6 — Near Mono Lake</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Mono County</p><p><b>Figures:</b> See Appendix F</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Northern Paiute / Mono (Monache)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -931,7 +1471,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#B8916A\">◆ Mno-15</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Mono County</p><p><b>Figures:</b> See Appendix F</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Northern Paiute / Mono (Monache)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -950,7 +1502,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#B8916A\">◆ Mno-60</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Mono County</p><p><b>Figures:</b> See Appendix F</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Northern Paiute / Mono (Monache)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -969,7 +1533,19 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#B8916A\">◆ Mno-300</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Mono County</p><p><b>Figures:</b> F-7a4, F-40a-c</p><p><b>Style:</b> Great Basin Curvilinear / Representational</p><p><b>Tribal affiliation:</b> Northern Paiute / Mono (Monache)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "tribes": [
+        "northern_paiute",
+        "paiute"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -988,7 +1564,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#A88860\">◆ Plu-26 — Plumas County</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Plumas County</p><p><b>Figures:</b> F-31d, F-40d (not natural grouping)</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Description:</b> Westernmost documented Great Basin petroglyph site in the study.</p><p><b>Tribal affiliation:</b> Maidu / Mountain Maidu (Concow)</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "maidu"
+      ],
+      "tribes": [
+        "maidu"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1007,7 +1593,17 @@
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#A88860\">◆ Plu-2</h3><p><b>Type:</b> Petroglyphs</p><p><b>County:</b> Plumas County</p><p><b>Figures:</b> F-31a</p><p><b>Style:</b> Great Basin Curvilinear</p><p><b>Tribal affiliation:</b> Maidu</p><p style=\"font-size:10px;color:#888;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:6px;\"><b>Source:</b> Heizer & Baumhoff, <i>Prehistoric Rock Art of Nevada and Eastern California</i>, 1962, Appendix F</p></div>",
       "popupOptions": {
         "maxWidth": 350
-      }
+      },
+      "timePeriods": [],
+      "cultures": [
+        "maidu"
+      ],
+      "tribes": [
+        "maidu"
+      ],
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     }
   ]
 }
