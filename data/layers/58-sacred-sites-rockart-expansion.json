@@ -254,7 +254,9 @@
       "tribes": [
         "haudenosaunee"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -288,7 +290,9 @@
       "tribes": [
         "haudenosaunee"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -319,7 +323,9 @@
       "tribes": [
         "haudenosaunee"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -353,7 +359,9 @@
       "tribes": [
         "haudenosaunee"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -387,7 +395,9 @@
       "tribes": [
         "haudenosaunee"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -420,7 +430,9 @@
       "tribes": [
         "wendat"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -665,7 +677,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
       "cultures": [
         "neutral"
       ],
@@ -694,7 +709,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
       "cultures": [
         "neutral"
       ],
@@ -723,7 +741,10 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
       "cultures": [
         "neutral"
       ],
@@ -752,7 +773,10 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
       "cultures": [
         "neutral"
       ],
@@ -887,7 +911,10 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "erie"
       ],
@@ -916,7 +943,10 @@
       "popupOptions": {
         "maxWidth": 280
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "erie"
       ],
@@ -945,7 +975,10 @@
       "popupOptions": {
         "maxWidth": 260
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "erie"
       ],
@@ -1006,7 +1039,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "erie"
       ],

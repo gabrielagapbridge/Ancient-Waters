@@ -709,9 +709,18 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "kalispel"
+      ],
+      "tribes": [
+        "kalispel"
+      ],
       "rockArtStyles": [
         "petroglyph"
       ]
