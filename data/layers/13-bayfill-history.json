@@ -74,8 +74,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -150,8 +154,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -211,9 +219,18 @@
         "size": 9
       },
       "popup": "<h4>Civic Center BART Discovery</h4><span class=\"ptype pt-construction\">1969 — BART construction</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>5,000-year-old remains of a female aged 24-26 discovered during construction of the Civic Center BART station. One of many accidental discoveries that illustrate how indigenous sites lie beneath modern infrastructure.<div class=\"popup-src\">📖 SFGate (2024); FoundSF \"Searching for the Yelamu\"; BART historical records</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -285,9 +302,18 @@
         "size": 9
       },
       "popup": "<h4>Bay Street Mall Construction</h4><span class=\"ptype pt-construction\">1999-2003 — mall construction</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>~300 intact burials found despite expectations that nothing remained. ~100 recovered from behind what became Victoria's Secret. $2 million spent on archaeological work. Bodies reburied on-site. Construction continued despite protest. An unknown number of remains still lie beneath the shopping center.<div class=\"popup-src\">📖 Cediel, \"Shellmound\" (2005); E'ville Eye; KQED; Emeryville Historical Society</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -306,8 +332,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -323,9 +353,17 @@
         "size": 9
       },
       "popup": "<h4>Alameda / Santa Clara Ave Extension</h4><span class=\"ptype pt-construction\">1908 — street construction</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>450+ individuals disinterred from the 3-acre Sather Mound when developers bisected it to extend Santa Clara Avenue and Mound Street. Previously in 1892, a journalist excavated without permission and \"played football\" with skulls. SF Academy of Sciences subsequently excavated extensively.<div class=\"popup-src\">📖 Alameda LocalWiki; SF Daily Call (1892); Imelda Merlin historical accounts</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -344,8 +382,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -361,9 +403,18 @@
         "size": 9
       },
       "popup": "<h4>Fort Mason Discovery</h4><span class=\"ptype pt-construction\">Recent — NPS surveys</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Three previously unknown archaeological sites discovered at Fort Mason in San Francisco. Part of the broader pattern of finds showing that indigenous habitation extended across the northern waterfront of the peninsula.<div class=\"popup-src\">📖 FoundSF \"Searching for the Yelamu\"; NPS Golden Gate NRA cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -382,8 +433,12 @@
       "timePeriods": [
         "late_archaic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "coast_miwok"
+      ],
+      "tribes": [
+        "coast_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -425,9 +480,18 @@
         "size": 9
       },
       "popup": "<h4>UC Davis Mondavi Center</h4><span class=\"ptype pt-construction\">1999 — university construction</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Patwin Indian remains discovered at the Robert Mondavi Center for the Performing Arts construction site. The university subsequently built a Native American Contemplative Garden within the Arboretum to honor the Patwin people whose territory includes the campus and surrounding Sacramento Valley.<div class=\"popup-src\">📖 Wikipedia (Patwin); UC Davis Arboretum</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "patwin"
+      ],
+      "tribes": [
+        "patwin"
+      ],
       "rockArtStyles": []
     },
     {
@@ -614,9 +678,19 @@
         "size": 9
       },
       "popup": "<h4>MRN-14 Bulldozed for Housing (1976)</h4><span class=\"ptype pt-construction\">1976 — housing construction</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>After 10 days of excavation by SF State and MAPOM volunteers in 1974-1975, the site was bulldozed in 1976 for a residential development. The 3-meter-deep mound contained 12 features, cremated human remains throughout, infant burial with elaborate grave goods, and evidence of occupation from AD 0 to contact. Riley (1979) later found evidence of contact-period hunting (domestic cow bones) contradicting earlier claims the site was abandoned pre-contact.<div class=\"popup-src\">📖 Barrow (2009); Moratto et al. (1974); Riley (1979)</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "coast_miwok"
+      ],
+      "tribes": [
+        "coast_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -635,8 +709,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -652,9 +730,17 @@
         "size": 9
       },
       "popup": "<h4>CCo-696 Reservoir Construction (1990s)</h4><span class=\"ptype pt-construction\">1990s — reservoir construction</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Construction of Los Vaqueros Reservoir triggered massive excavations at 8+ sites (CCo-447/H, -458/H, -459, -468, -469, -621/H, -636, -637) plus newly discovered CCo-696. The reservoir flooded a valley inhabited for nearly 10,000 years. CCo-696 alone yielded ~150 human burials and the oldest known cultural remains in the SF Bay-Delta region (9,800 cal BP). Sonoma State conducted 9 surveys across 25,000 acres.<div class=\"popup-src\">📖 Meyer & Rosenthal (1997); Bramlette (1988); Ziesing (1997); CCWD</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "bay_miwok"
+      ],
+      "tribes": [
+        "bay_miwok"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1771,7 +1857,9 @@
         "dashArray": "6,4"
       },
       "popup": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -2005,8 +2093,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "ohlone"
+      ],
+      "tribes": [
+        "ohlone"
+      ],
       "rockArtStyles": []
     },
     {
@@ -2125,7 +2217,9 @@
         "dashArray": "6,4"
       },
       "popup": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -2457,7 +2551,9 @@
         "dashArray": "6,4"
       },
       "popup": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
