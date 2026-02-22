@@ -15,9 +15,22 @@
         "size": 10
       },
       "popup": "<h4>Havasu Springs (Havasupai)</h4><span class=\"ptype pt-spring\">Sacred — Havasupai</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>The turquoise waterfalls of Havasu Creek emerge from springs deep in the Grand Canyon. The Havasupai people (\"People of the Blue-Green Water\") have lived here for over 800 years. The springs produce ~38 million gallons/day of calcium-carbonate-rich water that creates the famous blue-green travertine pools.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "havasupai"
+      ],
+      "tribes": [
+        "havasupai"
+      ],
       "rockArtStyles": []
     },
     {
@@ -40,7 +53,9 @@
       "cultures": [
         "sinagua"
       ],
-      "tribes": [],
+      "tribes": [
+        "yavapai"
+      ],
       "rockArtStyles": []
     },
     {
@@ -56,13 +71,16 @@
         "size": 10
       },
       "popup": "<h4>Pipe Spring</h4><span class=\"ptype pt-spring\">Sacred — Kaibab Paiute</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>The only perennial water for 62 miles across the Arizona Strip. The Kaibab Paiute (who call it Matungwa'vu) depended on this spring for millennia before Mormon settlers built Winsor Castle over it in 1872, cutting off Paiute access. Now a National Monument co-managed with the Kaibab Band.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [
-        "lenape",
         "paiute"
       ],
       "tribes": [
-        "lenape",
         "paiute"
       ],
       "rockArtStyles": []
@@ -80,13 +98,13 @@
         "size": 10
       },
       "popup": "<h4>Fossil Springs</h4><span class=\"ptype pt-spring\">Sacred — Yavapai-Apache</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>One of only two wild and scenic rivers in Arizona. Springs discharge 20,000 gallons/minute of 72°F water rich in calcium carbonate. The Yavapai and Apache peoples used these springs for millennia. Travertine formations create natural dams and pools.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
-      "cultures": [
-        "lenape"
+      "timePeriods": [
+        "late_archaic",
+        "late_prehistoric",
+        "contact"
       ],
-      "tribes": [
-        "lenape"
-      ],
+      "cultures": [],
+      "tribes": [],
       "rockArtStyles": []
     },
     {
@@ -102,7 +120,12 @@
         "size": 10
       },
       "popup": "<h4>Blue Spring (Little Colorado)</h4><span class=\"ptype pt-spring\">Sacred — Hopi/Navajo</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>Massive travertine spring near the Little Colorado River confluence with the Grand Canyon. Sacred to both Hopi and Navajo peoples. Produces startling turquoise-blue water loaded with calcium carbonate. The Hopi call this area the Sipapu — the place of emergence.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "hopi",
         "navajo"
@@ -132,7 +155,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "tewa"
+      ],
       "rockArtStyles": []
     },
     {
@@ -154,7 +179,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -177,7 +204,9 @@
         "ancestral_puebloan",
         "mogollon"
       ],
-      "tribes": [],
+      "tribes": [
+        "apache"
+      ],
       "rockArtStyles": []
     },
     {
@@ -193,9 +222,20 @@
         "size": 10
       },
       "popup": "<h4>Truth or Consequences Hot Springs</h4><span class=\"ptype pt-spring\">Sacred — Mimbres/Apache</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>A 50-million-year-old rift along the Rio Grande allows geothermally heated groundwater to surface. The Mimbres people lived here; Apache leader Geronimo's people soaked here. Considered a sacred neutral healing ground where no weapons were allowed.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "mogollon",
+        "apache"
+      ],
+      "tribes": [
+        "apache"
+      ],
       "rockArtStyles": []
     },
     {
@@ -217,7 +257,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "jemez_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -236,8 +278,13 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "havasupai",
+        "ancestral_puebloan"
+      ],
+      "tribes": [
+        "havasupai"
+      ],
       "rockArtStyles": []
     },
     {
@@ -253,7 +300,16 @@
         "size": 10
       },
       "popup": "<h4>Vasey's Paradise</h4><span class=\"ptype pt-spring\">Spring — Grand Canyon</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>A spectacular spring bursting from the Redwall Limestone 100 feet above the Colorado River in Marble Canyon. Creates a lush hanging garden of maidenhair fern, monkey flowers, and cardinal flowers in the desert canyon walls. Ancient granaries nearby.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -306,7 +362,10 @@
       "cultures": [
         "hohokam"
       ],
-      "tribes": [],
+      "tribes": [
+        "tohono_oodham",
+        "apache"
+      ],
       "rockArtStyles": []
     },
     {
@@ -357,7 +416,9 @@
       "cultures": [
         "hohokam"
       ],
-      "tribes": [],
+      "tribes": [
+        "tohono_oodham"
+      ],
       "rockArtStyles": []
     },
     {
@@ -402,9 +463,21 @@
         "dashArray": "4,4"
       },
       "popup": "<h4>Willcox Playa/Chiricahua Ciénegas</h4><span class=\"ptype pt-cienega\">Lost Ciénega / Desert Wetland</span><div class=\"popup-what\">Approximate historical wetland extent from geological/historical records</div>The Willcox Playa was once surrounded by ciénegas that supported Chiricahua Apache camps. Springs emerging from the Chiricahua and Dragoon Mountains created oasis wetlands in the Sulphur Springs Valley. Most dried when ranching lowered the water table.<div class=\"popup-src\">📖 Hendrickson & Minckley, \"Ciénegas\" (1984); USGS; Tellman et al., \"Arizona's Changing Rivers\" (1997); Spanish colonial accounts</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "contact"
+      ],
+      "cultures": [
+        "mogollon",
+        "chiricahua_apache"
+      ],
+      "tribes": [
+        "apache"
+      ],
       "rockArtStyles": []
     },
     {
@@ -449,11 +522,18 @@
         "dashArray": "4,4"
       },
       "popup": "<h4>Verde Valley Ciénegas</h4><span class=\"ptype pt-cienega\">Lost Ciénega / Desert Wetland</span><div class=\"popup-what\">Approximate historical wetland extent from geological/historical records</div>The Verde River's wide floodplain once supported extensive ciénegas that fed Sinagua agriculture. Montezuma Well, nearby springs, and riverside marshes created one of the richest environments in pre-contact Arizona. Irrigation diversions reduced most wetlands.<div class=\"popup-src\">📖 Hendrickson & Minckley, \"Ciénegas\" (1984); USGS; Tellman et al., \"Arizona's Changing Rivers\" (1997); Spanish colonial accounts</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "contact"
+      ],
       "cultures": [
         "sinagua"
       ],
-      "tribes": [],
+      "tribes": [
+        "yavapai",
+        "sinagua"
+      ],
       "rockArtStyles": []
     },
     {
@@ -494,7 +574,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "ancestral_puebloan"
+      ],
       "rockArtStyles": []
     },
     {
@@ -525,8 +607,12 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Chaco South Road</h4><span class=\"ptype pt-trade\">Ceremonial/Trade Road — ~900 CE</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>The counterpart to the North Road, extending ~50 km south from Chaco Canyon to Hosta Butte. Together they form an axis of cosmographic significance.<div class=\"popup-src\">📖 Kincaid et al. (1983); NPS Chaco Culture NHP</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -558,8 +644,12 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Chaco–Aztec Road</h4><span class=\"ptype pt-trade\">Regional Road — ~1100 CE</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>Connected Chaco Canyon to Aztec Ruins, its successor center on the Animas River. Part of the network of roads radiating from Chaco.<div class=\"popup-src\">📖 NPS Aztec Ruins NM; Stein & McKenna (1988)</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -591,8 +681,14 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Turquoise Trail to Cerrillos</h4><span class=\"ptype pt-trade\">Trade Route — Turquoise</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>The primary turquoise supply route from the Cerrillos Hills mines (near Santa Fe) to Chaco Canyon. Over 200,000 pieces of turquoise recovered from Chaco came primarily from this source 200+ km away. The Cerrillos mines were among the most important in the pre-contact Americas.<div class=\"popup-src\">📖 Hull et al., J. Archaeol. Science (2014); Mathien (2001)</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -637,7 +733,9 @@
         "ancestral_puebloan",
         "hohokam"
       ],
-      "tribes": [],
+      "tribes": [
+        "hohokam"
+      ],
       "rockArtStyles": []
     },
     {
@@ -676,7 +774,10 @@
       "cultures": [
         "hohokam"
       ],
-      "tribes": [],
+      "tribes": [
+        "hohokam",
+        "ancestral_puebloan"
+      ],
       "rockArtStyles": []
     },
     {
@@ -742,8 +843,12 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Obsidian Route — Jemez Mountains</h4><span class=\"ptype pt-trade\">Raw Material Trade</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>Obsidian from the Jemez Mountain volcanic fields was a primary source for cutting tools and projectile points throughout the region. Obsidian hydration dating has helped establish trade chronologies.<div class=\"popup-src\">📖 Cameron & Sappington (1984); Duff et al. (2012)</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "ancestral_puebloan"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -821,9 +926,13 @@
       "timePeriods": [
         "late_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "barrier_canyon"
+      ],
       "tribes": [],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "barrier_canyon"
+      ]
     },
     {
       "type": "polygon",
@@ -908,7 +1017,9 @@
         "dashArray": "6,4"
       },
       "popup": "<h4>Jornada Mogollon Rock Art</h4><span class=\"ptype\" style=\"color:#E67E22\">~600 – 1400 CE</span><div class=\"popup-what\">Approximate cultural region boundary based on site distribution</div>Extraordinary masks, goggle-eyed deities resembling Mesoamerican Tlaloc, horned serpents, and elaborate ceremonial scenes. Over 3,000 pictographs at Hueco Tanks alone. Key sites: Three Rivers Petroglyphs (21,000+ images), Hueco Tanks State Historic Site, Alamo Mountain.<div class=\"popup-src\">📖 Schaafsma, \"Indian Rock Art of the Southwest\" (1980); Cole, \"Legacy on Stone\" (1990); Archaeology Southwest Magazine</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "mogollon"
       ],
@@ -1072,8 +1183,12 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
-      "rockArtStyles": []
+      "tribes": [
+        "pueblo"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1099,7 +1214,10 @@
       "tribes": [
         "navajo"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -1121,7 +1239,9 @@
         "ancestral_puebloan",
         "mogollon"
       ],
-      "tribes": [],
+      "tribes": [
+        "mogollon"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1137,11 +1257,17 @@
         "size": 10
       },
       "popup": "<h4>Chiricahua Mountains Sites</h4><span class=\"ptype pt-site\">Apache/Mogollon</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or state records</div>The Chiricahua Mountains harbored Apache camps, Mogollon village sites, and sacred springs. Cochise's Stronghold in the Dragoon Mountains (31.92°N, -110.01°W) was the legendary refuge of the Apache leader. The mountain \"sky islands\" preserved biodiversity and served as refugia for indigenous peoples.<div class=\"popup-src\">📖 NPS site records; BLM cultural resource databases; Archaeology Southwest; state historic preservation offices</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "contact"
+      ],
       "cultures": [
         "mogollon"
       ],
-      "tribes": [],
+      "tribes": [
+        "apache"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1163,7 +1289,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "pecos_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1185,8 +1313,12 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
-      "rockArtStyles": []
+      "tribes": [
+        "pueblo"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1230,7 +1362,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "picuris_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1246,12 +1380,21 @@
         "size": 10
       },
       "popup": "<h4>Hueco Tanks</h4><span class=\"ptype pt-site\">Jornada Mogollon — Sacred</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or state records</div>Granite rock basins (huecos) that collect rainwater in the desert — a magnet for human habitation for 10,000+ years. Over 3,000 pictographs, the largest collection of face/mask paintings in North America. Tlaloc-like rain god images suggest Mesoamerican connections. Access restricted to preserve art.<div class=\"popup-src\">📖 NPS site records; BLM cultural resource databases; Archaeology Southwest; state historic preservation offices</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
       "cultures": [
         "mogollon"
       ],
-      "tribes": [],
-      "rockArtStyles": []
+      "tribes": [
+        "pueblo"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -1266,12 +1409,16 @@
         "size": 10
       },
       "popup": "<h4>Three Rivers Petroglyphs</h4><span class=\"ptype pt-site\">Jornada Mogollon</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or state records</div>Over 21,000 petroglyphs on a basalt ridge overlooking the Tularosa Basin. Created by Jornada Mogollon people ~900-1400 CE. Images of animals, geometric designs, and human figures. The nearby Three Rivers village had 14 room blocks. The Sacramento Mountains provided spring water.<div class=\"popup-src\">📖 NPS site records; BLM cultural resource databases; Archaeology Southwest; state historic preservation offices</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "mogollon"
       ],
       "tribes": [],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1292,7 +1439,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "picuris_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1314,7 +1463,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "pecos_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
