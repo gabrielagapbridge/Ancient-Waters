@@ -113,7 +113,16 @@
         "opacity": 0.85
       },
       "popup": "<h4>Colorado River</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Before Hoover (1935) & Glen Canyon (1966) dams, flowed freely to the Gulf of California. Annual floods reached 129,000 cfs near Yuma.<div class=\"popup-src\">📖 USGS Water Resources; Bureau of Reclamation historical records; Webb et al., \"The Controlled Flood in Grand Canyon\" (1999)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -174,9 +183,14 @@
       },
       "popup": "<h4>Salt River (Salado)</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Perennial river sustaining Hohokam civilization 1000+ years. Canal network was the largest pre-Columbian irrigation in the Western Hemisphere.<div class=\"popup-src\">📖 Salt River Project historical archives; Ackerly et al., \"Hohokam Irrigation\" (1989); USGS streamflow records</div>",
       "timePeriods": [
-        "formative",
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
         "late_archaic",
-        "middle_archaic"
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "hohokam",
@@ -273,9 +287,14 @@
       },
       "popup": "<h4>Gila River</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Once navigable by riverboats from Yuma to Phoenix. The Akimel O'odham called it their holy river. 19 Hohokam irrigation systems drew from it.<div class=\"popup-src\">📖 Woodson, \"The Gila River Indian Community\" (2010); USGS; Rea, \"At the Desert's Green Edge\" (1997)</div>",
       "timePeriods": [
-        "formative",
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
         "late_archaic",
-        "middle_archaic"
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "hohokam"
@@ -347,7 +366,14 @@
       },
       "popup": "<h4>Rio Grande</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Before Elephant Butte Dam (1916), flowed freely through NM. Pueblo peoples farmed its floodplains for centuries.<div class=\"popup-src\">📖 Bureau of Reclamation Rio Grande Project records; Scurlock, \"From the Rio to the Sierra\" (1998)</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan"
@@ -391,7 +417,14 @@
       },
       "popup": "<h4>Verde River</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Supported Sinagua people and cliff dwellings like Montezuma Castle. Bartlett Dam now controls lower reaches.<div class=\"popup-src\">📖 NPS Montezuma Castle NM resources; USGS Verde River watershed studies</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan",
@@ -444,7 +477,14 @@
       },
       "popup": "<h4>San Juan River</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Connected Ancestral Puebloan communities at Chaco Canyon, Aztec Ruins, and Mesa Verde. Navajo Dam (1963) impounds part of it.<div class=\"popup-src\">📖 NPS Chaco Culture NHP; Bureau of Reclamation Navajo Dam records</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan",
@@ -503,7 +543,14 @@
       },
       "popup": "<h4>Little Colorado River</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Vital to Ancestral Puebloans and Hopi people. Much of its lower course is now intermittent.<div class=\"popup-src\">📖 Hopi Cultural Preservation Office; USGS Little Colorado River basin reports</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan",
@@ -593,10 +640,14 @@
       },
       "popup": "<h4>Lake Cahuilla</h4><span class=\"ptype pt-ancient\">Ancient / pluvial lake</span><div class=\"popup-what\">Approximate paleolake extent from geological/shoreline evidence</div>100 mi long, 35 mi wide, 300 ft deep. Fed by Colorado River. Supported Cahuilla, Kumeyaay & Cucapá peoples. Last filled ~1580 CE. Fish weirs & travertine shorelines still visible.<div class=\"popup-src\">📖 USGS paleolake surveys; Laylander, \"The Cahuilla\" (2011); travertine shoreline surveys by Imperial Valley College</div>",
       "timePeriods": [
-        "contact",
-        "formative",
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
         "late_archaic",
-        "late_prehistoric"
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "cahuilla"
@@ -656,7 +707,16 @@
         "dashArray": "6,4"
       },
       "popup": "<h4>Pluvial Lake Estancia</h4><span class=\"ptype pt-ancient\">Ancient / pluvial lake</span><div class=\"popup-what\">Approximate paleolake extent from geological/shoreline evidence</div>Glacial paleolake in central NM that once held cutthroat trout. Paleo-Indian sites ring its former shoreline. Now dry Estancia Valley.<div class=\"popup-src\">📖 Allen & Anderson, \"Lake Estancia, NM\" (2000), NM Bureau of Geology; USGS Estancia Valley studies</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -712,7 +772,14 @@
       },
       "popup": "<h4>Lake San Agustín</h4><span class=\"ptype pt-ancient\">Ancient / pluvial lake</span><div class=\"popup-what\">Approximate paleolake extent from geological/shoreline evidence</div>Pleistocene lake — now the Plains of San Agustín, home to the Very Large Array. Paleo-Indian camps surrounded it.<div class=\"popup-src\">📖 Markgraf et al., \"Paleoclimate of San Agustin\" (1984); NM Bureau of Geology publications</div>",
       "timePeriods": [
-        "paleoindian"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [],
       "tribes": [],
@@ -768,7 +835,16 @@
         "dashArray": "6,4"
       },
       "popup": "<h4>Lake Lucero / Lake Otero</h4><span class=\"ptype pt-ancient\">Ancient / pluvial lake</span><div class=\"popup-what\">Approximate paleolake extent from geological/shoreline evidence</div>Ancient lake whose evaporation created the gypsum deposits of White Sands. Indigenous peoples used the area for millennia.<div class=\"popup-src\">📖 NPS White Sands National Park geology; Langford, \"Geology of White Sands\" (2003); USGS Tularosa Basin reports</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [
         "lenape"
       ],
@@ -791,7 +867,14 @@
       },
       "popup": "<h4>Glen Canyon Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1966 — Colorado River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Created Lake Powell, flooding 196-mi Glen Canyon with Ancestral Puebloan ruins never surveyed.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan"
@@ -812,7 +895,16 @@
         "size": 12
       },
       "popup": "<h4>Hoover Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1935 — Colorado River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Created Lake Mead. Area never archaeologically surveyed before flooding.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -831,9 +923,14 @@
       },
       "popup": "<h4>Roosevelt Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1911 — Salt River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>First major federal dam in SW. Built over ancient Hohokam canal headgates.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
       "timePeriods": [
-        "formative",
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
         "late_archaic",
-        "middle_archaic"
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "hohokam"
@@ -855,9 +952,14 @@
       },
       "popup": "<h4>Horse Mesa Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1927 — Salt River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Created Apache Lake along ancient Hohokam water source.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
       "timePeriods": [
-        "formative",
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
         "late_archaic",
-        "middle_archaic"
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "hohokam"
@@ -878,7 +980,16 @@
         "size": 12
       },
       "popup": "<h4>Mormon Flat Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1925 — Salt River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Created Canyon Lake, part of Salt River dam chain.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -897,6 +1008,13 @@
       },
       "popup": "<h4>Bartlett Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1939 — Verde River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Impounds Verde River; Sinagua settlements for centuries.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
       "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
         "historic"
       ],
       "cultures": [
@@ -919,6 +1037,13 @@
       },
       "popup": "<h4>Coolidge Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1928 — Gila River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>On San Carlos Apache Reservation. Only major dam on Gila main stem.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
       "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
         "historic"
       ],
       "cultures": [],
@@ -939,7 +1064,14 @@
       },
       "popup": "<h4>Elephant Butte Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1916 — Rio Grande River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>First major Rio Grande dam. Pueblo & Apache peoples used the corridor for centuries.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan"
@@ -960,7 +1092,16 @@
         "size": 12
       },
       "popup": "<h4>Navajo Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1963 — San Juan River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Impounds San Juan River connecting Chaco Canyon, Aztec Ruins, Mesa Verde.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [
         "navajo"
       ],
@@ -983,7 +1124,14 @@
       },
       "popup": "<h4>Horseshoe Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1946 — Verde River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Further impoundment of Verde River, lifeline for Sinagua cliff dwellings.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan",
@@ -1005,7 +1153,16 @@
         "size": 12
       },
       "popup": "<h4>Bluewater Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1927 — Bluewater Creek River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Near Zuni territory in western NM.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [
         "zuni"
       ],
@@ -1076,7 +1233,14 @@
       },
       "popup": "<h4>Lake Powell</h4><span class=\"ptype pt-modern\">Modern reservoir</span><div class=\"popup-what\">Approximate reservoir extent from satellite/survey data</div>186 mi long. Flooded unrecorded Ancestral Puebloan sites. Recent droughts exposing submerged ruins.<div class=\"popup-src\">📖 Bureau of Reclamation; USGS reservoir monitoring data</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan"
@@ -1137,7 +1301,16 @@
         "fillOpacity": 0.2
       },
       "popup": "<h4>Lake Mead</h4><span class=\"ptype pt-modern\">Modern reservoir</span><div class=\"popup-what\">Approximate reservoir extent from satellite/survey data</div>Largest US reservoir. Submerged confluence of Virgin & Muddy Rivers — indigenous habitation corridors.<div class=\"popup-src\">📖 Bureau of Reclamation; USGS reservoir monitoring data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1184,7 +1357,14 @@
       },
       "popup": "<h4>Roosevelt Lake</h4><span class=\"ptype pt-modern\">Modern reservoir</span><div class=\"popup-what\">Approximate reservoir extent from satellite/survey data</div>First major SW reservoir. Tonto Basin was home to Salado cliff dwellings.<div class=\"popup-src\">📖 Bureau of Reclamation; USGS reservoir monitoring data</div>",
       "timePeriods": [
-        "formative"
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "ancestral_puebloan",
@@ -1238,7 +1418,16 @@
         "fillOpacity": 0.2
       },
       "popup": "<h4>Elephant Butte Reservoir</h4><span class=\"ptype pt-modern\">Modern reservoir</span><div class=\"popup-what\">Approximate reservoir extent from satellite/survey data</div>NM's largest reservoir. Fluctuating levels have alternately hidden and revealed archaeological sites.<div class=\"popup-src\">📖 Bureau of Reclamation; USGS reservoir monitoring data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1287,7 +1476,16 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Lower Gila — Dried</h4><span class=\"ptype pt-dam\">Now intermittent / dry</span><div class=\"popup-what\">Dried/diverted river reach — approximate historical course</div>Once navigable by riverboats. Now dry below Ashurst-Hayden Dam except after storms.<div class=\"popup-src\">📖 USGS streamflow records; Bureau of Reclamation diversion data; Tellman et al., \"Arizona's Changing Rivers\" (1997)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1329,9 +1527,14 @@
       },
       "popup": "<h4>Lower Salt — Dried</h4><span class=\"ptype pt-dam\">Now intermittent / dry</span><div class=\"popup-what\">Dried/diverted river reach — approximate historical course</div>Through Phoenix, now usually dry. Stark contrast to the river Hohokam built their civilization around.<div class=\"popup-src\">📖 USGS streamflow records; Bureau of Reclamation diversion data; Tellman et al., \"Arizona's Changing Rivers\" (1997)</div>",
       "timePeriods": [
-        "formative",
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
         "late_archaic",
-        "middle_archaic"
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
       ],
       "cultures": [
         "hohokam"
@@ -1367,7 +1570,16 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Lower Colorado — Depleted</h4><span class=\"ptype pt-dam\">Now intermittent / dry</span><div class=\"popup-what\">Dried/diverted river reach — approximate historical course</div>Colorado River Delta — once 3,000 sq mi wetland — now mostly dry. The Cocopah lost traditional fishing grounds.<div class=\"popup-src\">📖 USGS streamflow records; Bureau of Reclamation diversion data; Tellman et al., \"Arizona's Changing Rivers\" (1997)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1400,8 +1612,14 @@
         "dashArray": "4,3"
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1433,8 +1651,14 @@
         "dashArray": "4,3"
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1466,8 +1690,14 @@
         "dashArray": "4,3"
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1499,8 +1729,14 @@
         "dashArray": "4,3"
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1532,8 +1768,14 @@
         "dashArray": "4,3"
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1565,8 +1807,14 @@
         "dashArray": "4,3"
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "hohokam"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1591,12 +1839,11 @@
       },
       "popup": "<h4>Hohokam Canal Network</h4><span class=\"ptype pt-ancient\">~200 CE – 1450 CE</span><div class=\"popup-what\">Simplified canal routes based on archaeological surveys</div>700+ mi of hand-dug canals. Largest pre-Columbian irrigation in the Western Hemisphere. Phoenix's modern canals follow ~70% of original routes.<div class=\"popup-src\">📖 Ackerly et al., \"Hohokam Irrigation\" (1989); Woodson (2010); Pueblo Grande Museum; City of Phoenix Archaeology Office</div>",
       "timePeriods": [
-        "formative",
+        "middle_archaic",
         "late_archaic",
-        "middle_archaic"
+        "formative"
       ],
       "cultures": [
-        "ancestral_puebloan",
         "hohokam"
       ],
       "tribes": [],

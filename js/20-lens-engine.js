@@ -17,6 +17,12 @@
   var cultureSections = {};    // parsed from DOM
   var lensConfig = null;       // from lens-config.json
 
+  // Base layers: always visible in every lens (water infrastructure)
+  var BASE_LAYERS = [
+    'ancientRivers', 'ancientLakes', 'modernDams',
+    'modernReservoirs', 'lostRivers', 'hohokamCanals'
+  ];
+
   // ---- Public API ----
   var engine = {
     lenses: lenses,
@@ -153,10 +159,13 @@
       return activeLensId;
     },
 
-    // Show only the listed layers, hide all others
+    // Show only the listed layers, hide all others.
+    // Base layers (water features) are always kept visible.
     showLayers: function (names) {
       var nameSet = {};
       names.forEach(function (n) { nameSet[n] = true; });
+      // Always include base layers
+      BASE_LAYERS.forEach(function (n) { nameSet[n] = true; });
 
       Object.keys(L_groups).forEach(function (name) {
         var group = L_groups[name];
@@ -273,6 +282,7 @@
     }
   };
 
+  engine.BASE_LAYERS = BASE_LAYERS;
   window.AW.engine = engine;
 
   // ---- Auto-init: wait for data-loader to finish ----
