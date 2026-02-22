@@ -19,7 +19,9 @@
         "contact"
       ],
       "cultures": [],
-      "tribes": [],
+      "tribes": [
+        "tohono_oodham"
+      ],
       "rockArtStyles": []
     },
     {
@@ -41,7 +43,9 @@
       "cultures": [
         "hohokam"
       ],
-      "tribes": [],
+      "tribes": [
+        "akimel_oodham"
+      ],
       "rockArtStyles": []
     },
     {
@@ -103,7 +107,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -125,7 +131,10 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "pueblo",
+        "taos_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -147,7 +156,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -169,7 +180,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -191,7 +204,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -213,7 +228,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -238,7 +255,9 @@
         "ancestral_puebloan",
         "hohokam"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -285,7 +304,9 @@
         "ancestral_puebloan",
         "sinagua"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -328,7 +349,9 @@
         "ancestral_puebloan",
         "sinagua"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -350,7 +373,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -422,7 +447,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "hopi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -444,7 +471,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "taos_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -466,7 +495,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "acoma_pueblo"
+      ],
       "rockArtStyles": []
     },
     {
@@ -599,7 +630,9 @@
       "tribes": [
         "cahuilla"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -627,7 +660,9 @@
       "tribes": [
         "cahuilla"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -670,10 +705,25 @@
         "size": 8
       },
       "popup": "<h4>Diamond Shelter</h4><span class=\"ptype pt-jtree\">Pictograph — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Tally marks and diamonds and sun</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -689,10 +739,25 @@
         "size": 8
       },
       "popup": "<h4>Disney</h4><span class=\"ptype pt-jtree\">Pictograph — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Real pictographs with other ones painted over by Disney</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -708,10 +773,25 @@
         "size": 8
       },
       "popup": "<h4>Hidden Valley Camp Ground</h4><span class=\"ptype pt-jtree\">Pictograph — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -727,10 +807,26 @@
         "size": 8
       },
       "popup": "<h4>High Noon</h4><span class=\"ptype pt-jtree\">Pictographs in orange ink — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Pictographs and one petroglyph; room to stand up inside</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph",
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -758,7 +854,9 @@
       "tribes": [
         "serrano"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -774,10 +872,25 @@
         "size": 8
       },
       "popup": "<h4>Queen Mountain</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Big horn sheep skulls found near here</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -793,10 +906,25 @@
         "size": 8
       },
       "popup": "<h4>Queen Valley Boulder</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -823,7 +951,9 @@
       "tribes": [
         "chemehuevi"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -850,7 +980,9 @@
       "tribes": [
         "chemehuevi"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -866,9 +998,22 @@
         "size": 8
       },
       "popup": "<h4>Ryan Ranch Habitation Area</h4><span class=\"ptype pt-jtree\">Village site — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -885,10 +1030,25 @@
         "size": 8
       },
       "popup": "<h4>Slab Rock</h4><span class=\"ptype pt-jtree\">Shelter Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -904,10 +1064,25 @@
         "size": 8
       },
       "popup": "<h4>Surprise Rock</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -934,7 +1109,9 @@
       "tribes": [
         "chemehuevi"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "cupule_pit_and_groove"
+      ]
     },
     {
       "type": "marker",
@@ -950,10 +1127,25 @@
         "size": 8
       },
       "popup": "<h4>Careys Castle</h4><span class=\"ptype pt-jtree\">Pictographs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -969,9 +1161,22 @@
         "size": 8
       },
       "popup": "<h4>Stirrup Tank</h4><span class=\"ptype pt-jtree\">Habitation Area — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
       "rockArtStyles": []
     },
     {
@@ -988,10 +1193,25 @@
         "size": 8
       },
       "popup": "<h4>Arch</h4><span class=\"ptype pt-jtree\">Petroglyphs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "tribes": [
+        "cahuilla",
+        "serrano",
+        "chemehuevi"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1007,10 +1227,21 @@
         "size": 8
       },
       "popup": "<h4>Hayfield</h4><span class=\"ptype pt-jtree\">Petroglyphs — Mojave (?) — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1026,10 +1257,21 @@
         "size": 8
       },
       "popup": "<h4>Hayfield 2</h4><span class=\"ptype pt-jtree\">Petroglyphs — Mojave (?) — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
+      "tribes": [
+        "mojave_tribe"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     }
   ]
 }
