@@ -150,7 +150,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "marker",
@@ -186,7 +188,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "marker",
@@ -222,7 +226,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "marker",
@@ -256,7 +262,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "marker",
@@ -292,7 +300,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "polyline",
@@ -348,7 +358,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "marker",
@@ -382,7 +394,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -452,7 +466,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "polyline",

@@ -709,7 +709,9 @@
         "mojave_tribe",
         "paiute"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -1166,7 +1168,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1310,7 +1314,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1344,7 +1350,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -1422,7 +1430,9 @@
         "paiute",
         "shoshone"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     }
   ]
 }

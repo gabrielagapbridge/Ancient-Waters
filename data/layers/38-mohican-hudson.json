@@ -1110,7 +1110,9 @@
         "mohican",
         "wabanaki"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1198,7 +1200,9 @@
         "mohican",
         "wabanaki"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1228,7 +1232,9 @@
       "tribes": [
         "mohican"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",

@@ -21,7 +21,9 @@
         "late_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "clovis"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -69,7 +71,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "windust"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1601,7 +1605,9 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Rock Island Dam (1933)</h3>\n      <p><b>River:</b> Columbia River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: 600+ petroglyph panels along 2 miles of Columbia River cliffs. No systematic recording before inundation — one of the largest concentrations in the Pacific Northwest, gone with almost no documentation.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Keyser 1992; Loring & Loring 1982</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1681,7 +1687,9 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ The Dalles Dam (1957)</h3>\n      <p><b>River:</b> Columbia River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Celilo Falls (Wyam) — 10,000+ year trading center, greatest salmon fishery in the world. Petroglyph Canyon (carvings cut and stored in gravel lot 30 years). 90+ rock art sites. One-time tribal compensation: ~$27/acre of fishing rights.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Ulrich 1999; Barber 2005; Cressman 1960; Keyser 1992</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1701,7 +1709,9 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ John Day Dam (1968)</h3>\n      <p><b>River:</b> Columbia River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Hundreds of rock art sites. Malcolm & Louise Loring recorded petroglyphs from boats as waters rose — racing the reservoir. Their photos are now the only record of many sites.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Loring & Loring 1982; USACE</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1721,7 +1731,9 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Ice Harbor Dam (1961)</h3>\n      <p><b>River:</b> Snake River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Burial grounds, village sites, petroglyphs along lower Snake. River rose 100+ ft. Some petroglyphs salvaged to Indian Memorial Park (15 acres, est. 1965). Park vandalized 2024.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USACE Walla Walla; Keyser 1992</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1741,7 +1753,9 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Lower Monumental Dam (1969)</h3>\n      <p><b>River:</b> Snake River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: MARMES ROCKSHELTER — 11,000 years of habitation, most important site in the Pacific Northwest. Despite $1.5M emergency excavation and presidential cofferdam order, the cofferdam leaked and the site drowned.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Hicks 2004; Rice 1972; Daugherty 1962</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1761,7 +1775,9 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Little Goose Dam (1970)</h3>\n      <p><b>River:</b> Snake River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Village sites along lower Snake canyon. Archaeological surveys documented habitation sites, fishing stations, and burial areas before construction.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USACE; Leonhardy & Rice 1970</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1781,7 +1797,9 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Lower Granite Dam (1975)</h3>\n      <p><b>River:</b> Snake River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Village sites along lower Snake. Last of four lower Snake dams — combined, they turned 140 miles of free-flowing river into slack-water reservoirs, destroying the entire lower Snake ecosystem. Ongoing movement to breach these dams to restore salmon.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USACE; Columbia River Inter-Tribal Fish Commission; Save Our Wild Salmon</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []

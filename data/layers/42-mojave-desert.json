@@ -1532,7 +1532,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1594,7 +1596,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "geoglyph"
+      ]
     },
     {
       "type": "marker",
@@ -1623,7 +1627,9 @@
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
