@@ -137,9 +137,18 @@
         "weight": 1
       },
       "popup": "<h4 style=\"color:#FFB74D\">🏘️ Sukuwutnu (Wowol village)</h4><div style=\"font-size:12px;color:#ccc\">Wowol — on island off eastern shore</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
       "rockArtStyles": []
     },
     {
@@ -164,7 +173,9 @@
       "cultures": [
         "coso_tradition"
       ],
-      "tribes": [],
+      "tribes": [
+        "timbisha_shoshone"
+      ],
       "rockArtStyles": [
         "coso_tradition"
       ]
@@ -223,8 +234,15 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -288,8 +306,12 @@
         "late_prehistoric",
         "middle_archaic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "western_shoshone"
+      ],
+      "tribes": [
+        "western_shoshone"
+      ],
       "rockArtStyles": [
         "cupule_pit_and_groove"
       ]
@@ -420,7 +442,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
@@ -506,8 +530,15 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -658,8 +689,12 @@
       "timePeriods": [
         "late_archaic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "pahranagat"
+      ],
+      "tribes": [
+        "southern_paiute"
+      ],
       "rockArtStyles": [
         "pahranagat"
       ]
@@ -680,8 +715,15 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range",
@@ -704,8 +746,15 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range",
@@ -764,7 +813,16 @@
           8
         ]
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -789,7 +847,16 @@
           8
         ]
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -814,7 +881,16 @@
           7
         ]
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -839,7 +915,16 @@
           7
         ]
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -864,7 +949,16 @@
           6
         ]
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -886,7 +980,9 @@
         "historic"
       ],
       "cultures": [],
-      "tribes": [],
+      "tribes": [
+        "owens_valley_paiute"
+      ],
       "rockArtStyles": []
     },
     {
@@ -1143,7 +1239,9 @@
         "middle_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "western_pluvial_lakes"
+      ],
       "tribes": [],
       "rockArtStyles": []
     },
@@ -1175,12 +1273,8 @@
         "formative",
         "late_prehistoric"
       ],
-      "cultures": [
-        "lenape"
-      ],
-      "tribes": [
-        "lenape"
-      ],
+      "cultures": [],
+      "tribes": [],
       "rockArtStyles": []
     },
     {
@@ -1206,7 +1300,11 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1234,7 +1332,11 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1262,7 +1364,11 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1290,7 +1396,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -1385,8 +1500,15 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1408,8 +1530,15 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "pictograph"
@@ -1431,8 +1560,15 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "pictograph"
@@ -1454,8 +1590,15 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "pictograph"
@@ -1477,8 +1620,15 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1507,7 +1657,9 @@
       "cultures": [
         "ancestral_puebloan"
       ],
-      "tribes": [],
+      "tribes": [
+        "ancestral_puebloan"
+      ],
       "rockArtStyles": [
         "ancestral_puebloan_kayenta"
       ]
@@ -1560,8 +1712,15 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1583,8 +1742,15 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1674,8 +1840,15 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1765,8 +1938,15 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1820,8 +2000,15 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1877,8 +2064,15 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "pictograph"
@@ -1936,8 +2130,15 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -1959,8 +2160,15 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "basin_and_range"
+      ],
       "tribes": [],
       "rockArtStyles": [
         "basin_and_range"
@@ -3506,9 +3714,22 @@
         "opacity": 0.5
       },
       "popup": "<h4 style=\"color:#4FC3F7\">Goose Lake & Buena Vista Slough</h4><div style=\"font-size:12px;color:#ccc\">Marshy waterway connecting the Kern/Buena Vista Lake system northward to Tulare Lake through tule marshlands. In wet years, overflow traveled this path.</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
       "rockArtStyles": []
     },
     {
@@ -3550,8 +3771,12 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
-      "tribes": [],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
       "rockArtStyles": []
     },
     {
@@ -3617,7 +3842,10 @@
         ]
       ],
       "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Owens Lake → China Lake</h4><div style=\"font-size:12px;color:#ccc\">When Owens Lake filled to its spillway, it overflowed south through <b>Rose Valley</b> into China Lake basin in Indian Wells Valley. This overflow carried Sierra Nevada waters deep into the Mojave Desert.</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3640,7 +3868,10 @@
         ]
       ],
       "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: China Lake → Searles Lake</h4><div style=\"font-size:12px;color:#ccc\">China Lake's shallow basin (only ~13m deep) filled quickly and overflowed into the much deeper Searles Lake basin. Searles was often the terminal basin — accumulating dissolved minerals that formed trona, borax, and halite deposits mined for decades.</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3669,7 +3900,10 @@
         "dashArray": "10,8"
       },
       "popup": "<h4 style=\"color:#29B6F6\">⛓️ Overflow: Searles → Panamint Valley</h4><div style=\"font-size:12px;color:#ccc\">During exceptionally wet periods, Searles Lake overflowed into Panamint Valley. The famous <b>Trona Pinnacles</b> — 500+ tufa spires up to 140 ft tall — formed in Searles Lake during these wet periods.</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3825,7 +4059,9 @@
         "opacity": 0.5
       },
       "popup": "<h4 style=\"color:#EF5350\">💧 Mono Basin Extension (1941)</h4><div style=\"font-size:12px;color:#ccc;line-height:1.5\">In 1941, LA extended the aqueduct north to divert Rush Creek, Lee Vining Creek, Walker Creek, and Parker Creek — streams feeding <b>Mono Lake</b>. The lake dropped dramatically, exposing 14,700 acres of lakebed and creating a land bridge threatening island bird rookeries.<br><br>The <b>Mono Lake Committee</b> won a landmark legal battle (1994), forcing LA to partially restore flows. As of October 2025, the lake is at 6,382 ft — still <b>9.6 ft below the mandated target</b>.</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "historic"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -3873,12 +4109,8 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [
-        "lenape"
-      ],
-      "tribes": [
-        "lenape"
-      ],
+      "cultures": [],
+      "tribes": [],
       "rockArtStyles": []
     },
     {
@@ -3960,12 +4192,10 @@
         "paleoindian"
       ],
       "cultures": [
-        "lenape",
         "owens_valley_paiute",
         "paiute"
       ],
       "tribes": [
-        "lenape",
         "owens_valley_paiute",
         "paiute"
       ],
@@ -4114,7 +4344,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [],
       "tribes": [],
       "rockArtStyles": []
@@ -4134,9 +4370,22 @@
         "radius": 5
       },
       "popup": "<h4 style=\"color:#4FC3F7\">Summit Lake</h4><div style=\"font-size:12px;color:#ccc\">Small lake SW of Riverdale that served as the overflow gateway between Tulare Lake and the San Joaquin River system. Now gone.</div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "paleoindian",
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
+      "tribes": [
+        "yokuts"
+      ],
       "rockArtStyles": []
     },
     {
