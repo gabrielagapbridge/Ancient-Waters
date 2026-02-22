@@ -201,9 +201,16 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#FFD600;margin:0 0 2px\">🐻 Chickering Petroglyphs — Shamanic Rock Art</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">N. Fork American River · Martis Complex · 1700–950 BCE · 1,600+ petroglyphs in 46 sites</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>largest Martis Complex petroglyph concentration</b> in the Sierra Nevada. The Chickering site alone has hundreds of petroglyphs, and 46 total sites along the upper North Fork of the American River contain <b>1,600+ petroglyphs</b> with over 1,000 individual symbols — all pecked into horizontal granite bedrock.<br><br><b>Spiritual interpretation:</b> The art's purpose was almost certainly <b>religious, magical, or ceremonial</b>. Key evidence:<br>• A unique <b>grizzly bear paw</b> and a <b>6-foot rattlesnake</b> are interpreted as <b>bear shaman and rattlesnake shaman symbols</b> — the bear shaman, rattlesnake shaman, and weather shaman held powerful ritual roles<br>• Human stick figures, one wearing a robe and one holding an object, suggest ceremonial activity<br>• <b>Cross-hatched (mating) designs</b> indicate the site was used for <b>puberty or fertility rites</b><br>• Paw and rake symbols are likely <b>family totems</b> — clan emblems of hunters<br><br>All sites are near game trails, and petroglyphs are placed on bedrock offering <b>panoramic views of Sierra crest peaks</b> (Anderson Peak, Tinkers Knob) — suggesting spiritual alignment with the mountain landscape.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sagehen Creek Field Station; Gortner 1986/1988; Friends of Sierra Rock Art</div></div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "martis"
+      ],
+      "tribes": [
+        "nisenan",
+        "washoe"
+      ],
       "rockArtStyles": [
         "martis_style"
       ]
@@ -265,9 +272,17 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#FFD600;margin:0 0 2px\">🪨 Meadow Lake Petroglyphs — NRHP Listed</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Sierra County, CA · Tahoe National Forest · Martis attribution · restricted access</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the <b>most prolific petroglyph sites in the northern Sierra</b>, located in a restricted area near French Lake in the Tahoe National Forest. Attributed to the <b>Martis people</b> and listed on the <b>National Register of Historic Places</b>.<br><br>Features <b>animals, spirals, and other shapes</b> etched into volcanic rocks — designs believed to have <b>spiritual and ceremonial importance</b>. Some scholars interpret them as ritual markers or records of tribal events. The Meadow Lake and nearby <b>Hawley Lake</b> (Nevada County) sites together represent some of the densest rock art concentrations in the high Sierra.<br><br>Access is restricted to protect the site. The Sierra Nevada's harsh freeze-thaw cycles cause <b>exfoliation</b> — layers of granite peeling away — making these petroglyphs fragile and slowly disappearing. Every century, some are lost forever.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sierra Rock Art; Gortner; USFS Tahoe NF; Visit California</div></div>",
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic"
+      ],
+      "cultures": [
+        "martis"
+      ],
+      "tribes": [
+        "nisenan",
+        "washoe"
+      ],
       "rockArtStyles": [
         "basin_and_range"
       ]
