@@ -84,9 +84,16 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "kawaiisu"
+      ],
+      "tribes": [
+        "kawaiisu"
+      ],
       "rockArtStyles": [
         "pictograph"
       ]
@@ -584,10 +591,25 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
-      "tribes": [],
-      "rockArtStyles": []
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "kawaiisu",
+        "kitanemuk",
+        "tubatulabal"
+      ],
+      "tribes": [
+        "kawaiisu",
+        "kitanemuk",
+        "tubatulabal"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "polygon",
@@ -635,7 +657,9 @@
       "tribes": [
         "yokuts"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "polygon",
