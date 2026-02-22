@@ -24,7 +24,9 @@
         "early_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "haudenosaunee"
+      ],
       "tribes": [
         "haudenosaunee"
       ],
@@ -52,7 +54,9 @@
         "late_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "haudenosaunee"
+      ],
       "tribes": [
         "haudenosaunee"
       ],
@@ -81,7 +85,9 @@
         "late_archaic",
         "middle_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "haudenosaunee"
+      ],
       "tribes": [
         "haudenosaunee"
       ],
@@ -165,7 +171,12 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "mohawk"
@@ -291,7 +302,12 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk",
         "oneida"
@@ -351,7 +367,12 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "onondaga"
       ],
@@ -409,7 +430,12 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "cayuga"
       ],
@@ -475,7 +501,12 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -559,7 +590,12 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "onondaga"
       ],
@@ -587,7 +623,12 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -632,7 +673,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -677,7 +723,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "cayuga"
       ],
@@ -734,7 +785,12 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk"
       ],
@@ -791,7 +847,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -819,7 +880,12 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk"
       ],
@@ -847,7 +913,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk"
       ],
@@ -875,7 +946,12 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk"
       ],
@@ -903,7 +979,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -931,7 +1012,12 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -989,7 +1075,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "seneca"
@@ -1018,7 +1109,12 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "seneca"
@@ -1047,7 +1143,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee"
       ],
@@ -1074,7 +1175,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "onondaga"
@@ -1103,7 +1209,12 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "mohawk"
@@ -1132,7 +1243,12 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -1160,7 +1276,12 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -1188,7 +1309,12 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "seneca"
       ],
@@ -1216,7 +1342,12 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "onondaga"
       ],
@@ -1244,7 +1375,12 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk",
         "oneida"

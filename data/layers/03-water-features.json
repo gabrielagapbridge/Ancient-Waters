@@ -173,7 +173,11 @@
         "opacity": 0.85
       },
       "popup": "<h4>Salt River (Salado)</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Perennial river sustaining Hohokam civilization 1000+ years. Canal network was the largest pre-Columbian irrigation in the Western Hemisphere.<div class=\"popup-src\">📖 Salt River Project historical archives; Ackerly et al., \"Hohokam Irrigation\" (1989); USGS streamflow records</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam",
         "salado"
@@ -268,7 +272,11 @@
         "opacity": 0.85
       },
       "popup": "<h4>Gila River</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Once navigable by riverboats from Yuma to Phoenix. The Akimel O'odham called it their holy river. 19 Hohokam irrigation systems drew from it.<div class=\"popup-src\">📖 Woodson, \"The Gila River Indian Community\" (2010); USGS; Rea, \"At the Desert's Green Edge\" (1997)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -338,7 +346,9 @@
         "opacity": 0.85
       },
       "popup": "<h4>Rio Grande</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Before Elephant Butte Dam (1916), flowed freely through NM. Pueblo peoples farmed its floodplains for centuries.<div class=\"popup-src\">📖 Bureau of Reclamation Rio Grande Project records; Scurlock, \"From the Rio to the Sierra\" (1998)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -380,7 +390,9 @@
         "opacity": 0.85
       },
       "popup": "<h4>Verde River</h4><span class=\"ptype pt-ancient\">Pre-dam free-flowing course</span><div class=\"popup-what\">Pre-dam river course (approximate)</div>Supported Sinagua people and cliff dwellings like Montezuma Castle. Bartlett Dam now controls lower reaches.<div class=\"popup-src\">📖 NPS Montezuma Castle NM resources; USGS Verde River watershed studies</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "sinagua"
@@ -580,7 +592,12 @@
         "dashArray": "6,4"
       },
       "popup": "<h4>Lake Cahuilla</h4><span class=\"ptype pt-ancient\">Ancient / pluvial lake</span><div class=\"popup-what\">Approximate paleolake extent from geological/shoreline evidence</div>100 mi long, 35 mi wide, 300 ft deep. Fed by Colorado River. Supported Cahuilla, Kumeyaay & Cucapá peoples. Last filled ~1580 CE. Fish weirs & travertine shorelines still visible.<div class=\"popup-src\">📖 USGS paleolake surveys; Laylander, \"The Cahuilla\" (2011); travertine shoreline surveys by Imperial Valley College</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "cahuilla"
       ],
@@ -813,7 +830,11 @@
         "size": 12
       },
       "popup": "<h4>Roosevelt Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1911 — Salt River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>First major federal dam in SW. Built over ancient Hohokam canal headgates.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -833,7 +854,11 @@
         "size": 12
       },
       "popup": "<h4>Horse Mesa Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1927 — Salt River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Created Apache Lake along ancient Hohokam water source.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -913,7 +938,9 @@
         "size": 12
       },
       "popup": "<h4>Elephant Butte Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1916 — Rio Grande River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>First major Rio Grande dam. Pueblo & Apache peoples used the corridor for centuries.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -955,7 +982,9 @@
         "size": 12
       },
       "popup": "<h4>Horseshoe Dam</h4><span class=\"ptype pt-dam\">Dam — Built 1946 — Verde River</span><div class=\"popup-what\">Major dam — coordinates from USGS National Dam Inventory</div>Further impoundment of Verde River, lifeline for Sinagua cliff dwellings.<div class=\"popup-src\">📖 Bureau of Reclamation project records; USGS National Water Information System; NPS cultural resource surveys</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "sinagua"
@@ -1154,7 +1183,9 @@
         "fillOpacity": 0.2
       },
       "popup": "<h4>Roosevelt Lake</h4><span class=\"ptype pt-modern\">Modern reservoir</span><div class=\"popup-what\">Approximate reservoir extent from satellite/survey data</div>First major SW reservoir. Tonto Basin was home to Salado cliff dwellings.<div class=\"popup-src\">📖 Bureau of Reclamation; USGS reservoir monitoring data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "salado"
@@ -1297,7 +1328,11 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Lower Salt — Dried</h4><span class=\"ptype pt-dam\">Now intermittent / dry</span><div class=\"popup-what\">Dried/diverted river reach — approximate historical course</div>Through Phoenix, now usually dry. Stark contrast to the river Hohokam built their civilization around.<div class=\"popup-src\">📖 USGS streamflow records; Bureau of Reclamation diversion data; Tellman et al., \"Arizona's Changing Rivers\" (1997)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -1555,7 +1590,11 @@
         ]
       },
       "popup": "<h4>Hohokam Canal Network</h4><span class=\"ptype pt-ancient\">~200 CE – 1450 CE</span><div class=\"popup-what\">Simplified canal routes based on archaeological surveys</div>700+ mi of hand-dug canals. Largest pre-Columbian irrigation in the Western Hemisphere. Phoenix's modern canals follow ~70% of original routes.<div class=\"popup-src\">📖 Ackerly et al., \"Hohokam Irrigation\" (1989); Woodson (2010); Pueblo Grande Museum; City of Phoenix Archaeology Office</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "hohokam"

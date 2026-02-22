@@ -88,7 +88,12 @@
         "weight": 3
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#4682B4\">★ The Ancient One / Kennewick Man</h3>\n    <p><b>Date:</b> ~8,400–8,690 cal. years before present (Cascade Phase era)</p>\n    <p><b>Discovery:</b> July 28, 1996. College students Will Thomas and David Deacy, wading to watch hydroplane races at Columbia Park, Kennewick. Thomas’s foot struck a skull in ~50 cm of water. They took it to police in a plastic bucket. Coroner Floyd Johnson called forensic anthropologist James Chatters.</p>\n    <p><b>The skeleton:</b> 350+ bones — one of the most complete ancient skeletons in the Americas. Male, 40–50 years, ~5’7”–5’9”. Right-handed (right arm larger from spearfishing). A Cascade-type stone point embedded in right hip — healed over, meaning he survived. Additional healed injuries: rib fracture, skull depressions. Arthritis in elbow, knees, vertebrae.</p>\n    <p><b>The 20-year controversy:</b> Chatters described the skull as \"Caucasoid\" and produced a reconstruction resembling Patrick Stewart. Five tribes (Colville, Umatilla, Yakama, Wanapum, Nez Perce) sought reburial under NAGPRA. Eight scientists sued. Battle reached the 9th Circuit. Remains held at Burke Museum 1998–2017.</p>\n    <p><b>DNA resolution (2015):</b> Rasmussen & Willerslev (Univ. Copenhagen) extracted DNA from a hand bone. Published in Nature: genetically closer to modern Native Americans than any other population, with affinity to Columbia Plateau tribes. Colville Tribe provided 24 DNA samples. Confirmed by Univ. Chicago (2016). Chatters himself changed his mind.</p>\n    <p><b>Reburial:</b> Congress passed WIIN Act (Dec. 2016). Feb. 18, 2017: 200+ tribal members conducted private burial at undisclosed Plateau location — ending a 20-year struggle.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Rasmussen et al. 2015, Nature 523:455–458; Burke Museum; HistoryLink.org #5664 & #21141; Chatters 2001, \"Ancient Encounters\"; Thomas 2000, \"Skull Wars\"</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "colville",
         "nez_perce",
@@ -144,7 +149,12 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">★ Kettle Falls — Shonitkwu</h3>\n    <p><b>Date:</b> 9,000+ years of documented use</p>\n    <p><b>Tribes:</b> Colville Confederated (all 11 bands), Spokane, Kalispel, Coeur d'Alene, Okanogan, Lakes, San Poil, Nez Perce, and many others</p>\n    <p><b>Location:</b> Columbia River, Stevens County, WA. Falls dropped 20+ feet through a narrow basalt canyon.</p>\n    <p><b>Fishery:</b> Second-largest salmon fishery on the Columbia (after Celilo). Tribes built wooden platforms and large funnel-shaped traps called \"kettles\" (hence the English name). At peak runs thousands of fish caught daily. A \"Salmon Chief\" directed fishing — the first salmon each season was ceremonially shared before general fishing began.</p>\n    <p><b>Trading center:</b> Peoples from hundreds of miles gathered June–Oct. Traded: dried salmon, camas, bitterroot, berries, buffalo robes from Plains, dentalium shells from coast, obsidian from Oregon. Gambling, horse racing, and diplomacy accompanied the fishing.</p>\n    <p><b>Archaeology:</b> Excavations 1938–40 revealed 9,000+ years of deposits: stone tools, bone implements, fire-cracked rock, fish bones.</p>\n    <p><b>Contact:</b> Fort Colville (HBC) established 1826 — named for London director Andrew Colvile who never visited. St. Paul's Mission 1845.</p>\n    <p style=\"color:#B22222;font-weight:bold;\">LOST: Inundated by Grand Coulee Dam (1942). Blocked ALL salmon above it — no fish ladder ever built. Lake Roosevelt drowned the falls under 90+ feet. Colville Tribes never fully compensated.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chance & Chance 1982, \"Kettle Falls: 1971/1974\" (Univ. Idaho Report No. 84); Colville Confederated Tribes; Columbia River Inter-Tribal Fish Commission; Handbook Vol. 12</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "coeur_dalene",
         "colville",
@@ -176,7 +186,12 @@
         "weight": 3
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">★ Celilo Falls — Wyam (\"Echo of Falling Water\") — DESTROYED 1957</h3>\n    <p><b>Date:</b> 10,000–15,000 years of continuous occupation</p>\n    <p><b>Tribes:</b> Wishram (north/WA), Wasco (south/OR), Yakama, Umatilla, Warm Springs, Nez Perce, Wanapum, and dozens more</p>\n    <p><b>Location:</b> Columbia River at The Dalles, WA/OR border. River narrowed from over a mile wide to just 140 feet, plunging through cascading falls.</p>\n    <p><b>Fishery:</b> Greatest salmon fishery in the world. 15–20 million salmon annually. Fishers on wooden scaffolds above thundering water used long dip nets for 30–60 lb salmon. Fishing platforms were inherited property passed through families for generations.</p>\n    <p><b>Trading center:</b> One of the largest in pre-contact North America — comparable to Cahokia. Coastal tribes brought shells, whale oil; Plains tribes brought buffalo hides; Plateau peoples brought camas, salmon; Great Basin peoples brought obsidian. 3,000–5,000 gathered at peak. Chinook Jargon likely originated here.</p>\n    <p><b>Rock art:</b> Dalles–Deschutes area: densest concentration in North America. 100+ sites, some with 1,000+ motifs. Iconic \"Spedis Owl\" originated here.</p>\n    <p><b>Lewis & Clark (1805):</b> Documented the bustling village. Clark estimated 10,000 lbs dried fish at one village.</p>\n    <p style=\"color:#B22222;font-weight:bold;\">DESTROYED: March 10, 1957. The Dalles Dam floodgates closed. Within hours the falls were silenced forever. Flora Thompson (Wasco elder): \"Everything is gone.\" One-time compensation: ~$27/acre of fishing rights sustained for 10,000 years.</p>\n    <p><b>Today:</b> Celilo Park marks the site. Falls invisible beneath reservoir. 2007: tribes held 50th-anniversary mourning. Some leaders advocate dam removal.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Ulrich 1999, \"Empty Nets\"; Barber 2005, \"Death of Celilo Falls\"; Keyser 1992; Cressman 1960; Lewis & Clark Journals; Columbia River Inter-Tribal Fish Commission</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce",
         "wanapum",
@@ -335,8 +350,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "yakama"
+      ],
       "tribes": [
         "yakama"
       ],
@@ -512,8 +534,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "spokane"
+      ],
       "tribes": [
         "spokane"
       ],
@@ -653,8 +682,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "palouse"
+      ],
       "tribes": [
         "palouse"
       ],
@@ -733,8 +769,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wanapum"
+      ],
       "tribes": [
         "wanapum"
       ],
@@ -860,8 +903,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "colville"
+      ],
       "tribes": [
         "colville"
       ],
@@ -975,8 +1025,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "coeur_dalene"
+      ],
       "tribes": [
         "coeur_dalene"
       ],
@@ -997,7 +1054,12 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">★ Steptoe Butte — Sacred Site</h3>\n    <p><b>Tribe:</b> Coeur d'Alene (Schitsu'umsh)</p>\n    <p><b>Geology:</b> 500 million year old quartzite rock rising 1,000+ feet above the Palouse prairie</p>\n    <p><b>Significance:</b> One of the most important sacred sites of the Coeur d'Alene people. Its peak was a site of meditation, prayer, and ceremony for centuries. The butte is solid rock, covered with downy grass — the highest point in the Palouse.</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "coeur_dalene",
         "palouse"
@@ -1104,8 +1166,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "kalispel"
+      ],
       "tribes": [
         "kalispel"
       ],
@@ -1224,8 +1293,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "nez_perce"
+      ],
       "tribes": [
         "nez_perce"
       ],
@@ -1277,14 +1353,21 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Vantage Petroglyphs — Wanapum</h3>\n    <p><b>Type:</b> Petroglyphs (relocated from river sites before dam)</p>\n    <p><b>Tribe:</b> Wanapum</p>\n    <p><b>Location:</b> Ginkgo Petrified Forest State Park, near Vantage, Kittitas County, WA</p>\n    <p><b>Description:</b> ~60 petroglyphs salvaged from 3 Columbia River sites before Wanapum Dam (1963). Originally 300+ petroglyphs. Includes twin figures with rayed arcs (most striking panel — two symmetrical figures with radiating lines), mountain sheep, sun designs, abstract geometric patterns.</p>\n    <p><b>Rock art tradition:</b> Columbia Plateau tradition — most homogeneous and widespread in North America. Common motifs: stick-figure humans, block-body animals, rayed arcs/circles, dots, tally marks, \"Spedis Owl.\" Made by pecking/abrading rock, removing dark desert varnish to expose lighter stone. These are NOT \"art\" — sacred images to teach, warn, and record for future generations.</p>\n    <p><b>What was lost:</b> 240+ petroglyphs that couldn't be salvaged lie beneath Wanapum Dam's reservoir.</p>\n    <p><b>Access:</b> Open year-round. Interpretive displays at visitor center.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Keyser 1992; WA State Parks; Wanapum Heritage Center (Grant County PUD); McClure 1984</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wanapum"
       ],
       "tribes": [
         "wanapum"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1301,7 +1384,12 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Buffalo Eddy Petroglyphs</h3>\n    <p><b>Type:</b> Petroglyphs & Pictographs</p>\n    <p><b>Tribe:</b> Nez Perce (Nimiipuu)</p>\n    <p><b>Location:</b> Snake River, 15 mi south of Asotin, Asotin County, WA. At one of the deepest pools in the river.</p>\n    <p><b>Description:</b> Finest publicly accessible rock art in the region. Carved/painted on tumbled black basalt boulders at water's edge. Bighorn sheep, deer, elk, humans with headdresses, geometric designs. Both older petroglyphs (pecked) and younger pictographs (red ochre) spanning thousands of years.</p>\n    <p><b>The eddy:</b> Named for the powerful whirlpool — one of the deepest pools in the Snake, considered spiritually significant. \"Buffalo\" refers to a bison-shaped rock formation.</p>\n    <p><b>Protection:</b> Added to Nez Perce National Historical Park 1992 (one of 38 sites across 4 states). Road moved 1999. Quarter-mile interpretive trail. Free, open year-round.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NPS Nez Perce NHP; Keyser 1992; Boreson 1998; Nez Perce Tribe Cultural Resources</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],
@@ -1327,7 +1415,12 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF6347\">◆ Indian Painted Rocks — Spokane</h3>\n    <p><b>Type:</b> Pictographs (red ochre paint)</p>\n    <p><b>Tribe:</b> Spokane</p>\n    <p><b>Date:</b> ~250 years old (~1750 CE) — contact-era. May depict horses (arrived ~1730) and a cross.</p>\n    <p><b>Location:</b> Little Spokane River Natural Area, Spokane County. Painted on a 25-foot porous granite rock along the river.</p>\n    <p><b>Description:</b> Two groups of pictographs in ~6 sq ft. Red pigment: pulverized hematite mixed with fish/animal oil. The iron oxide seeped deep into the porous granite — remarkably permanent despite 250+ years. Applied with fingers (lines are finger-width), typical of Plateau pictograph tradition.</p>\n    <p><b>Context:</b> Near a major Spokane village at the Little Spokane / Spokane confluence. Plateau pictographs were typically made at spiritually significant or vision quest sites.</p>\n    <p><b>Protection:</b> National Register 1970. Iron grate installed against vandalism.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> National Register nomination 1970; WA DNR; Keyser 1992; Spokane Tribe</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "spokane"
       ],
@@ -1353,14 +1446,21 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Bowl & Pitcher Petroglyphs</h3>\n    <p><b>Type:</b> Petroglyphs</p>\n    <p><b>Tribe:</b> Spokane</p>\n    <p><b>Location:</b> Riverside State Park, Spokane County</p>\n    <p><b>Description:</b> Petroglyphs carved into basalt cliffs in a popular hiking area along the Spokane River. Designs include animals, human figures, and geometric patterns. The basalt gorge was a fishing area and travel corridor.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> WA State Parks; Keyser 1992; Spokane Tribe</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "spokane"
       ],
       "tribes": [
         "spokane"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1392,7 +1492,9 @@
         "wanapum",
         "yakama"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1437,14 +1539,21 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Kettle Falls Petroglyphs</h3>\n    <p><b>Type:</b> Petroglyphs</p>\n    <p><b>Tribes:</b> Colville Confederated (multiple bands)</p>\n    <p><b>Description:</b> Animals, human figures, and geometric patterns near the great intertribal fishing and trading center. Some accessible by boat or short hike. Marcus Island nearby features petroglyphs visible only when Lake Roosevelt levels drop during dam operations — periodic glimpses of the submerged past.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chance &amp; Chance 1982; Keyser 1992; Colville Tribes; NPS Lake Roosevelt NRA</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "colville"
       ],
       "tribes": [
         "colville"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1461,14 +1570,21 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">◆ Bear Paw Rock — Kalispel</h3>\n    <p><b>Type:</b> Rock art</p>\n    <p><b>Tribe:</b> Kalispel</p>\n    <p><b>Location:</b> Near Denton Slough, across from \"Indian Meadows\" powwow grounds</p>\n    <p><b>Significance:</b> Memorializes one of the genesis stories of the Kalispel people. Partially flooded by Albeni Falls Dam (1955) on the Pend Oreille River — sits across a now-flooded meadow from historic gathering grounds.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Kalispel Tribe of Indians; Lahren 1998, Handbook Vol. 12; NPS</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "kalispel"
       ],
       "tribes": [
         "kalispel"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -1505,7 +1621,12 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Grand Coulee Dam (1942)</h3>\n      <p><b>River:</b> Columbia River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Kettle Falls fishing grounds (9,000+ years of use). BLOCKED ALL SALMON above — no fish ladder ever built. Lake Roosevelt (150 mi long) inundated villages, burial grounds, root-digging and berry-picking areas of Colville, Spokane, and other tribes.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Colville Tribes; Bureau of Reclamation; Chance & Chance 1982</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "colville",
         "spokane"
@@ -1531,7 +1652,12 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Wanapum Dam (1963)</h3>\n      <p><b>River:</b> Columbia River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: 300+ Wanapum petroglyphs (60 salvaged to Ginkgo State Park). Multiple village sites including P'ná, the principal Wanapum village. The Wanapum — who never signed a treaty — were allowed to stay on a small parcel by Grant County PUD.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Wanapum Heritage Center; Keyser 1992; Relander 1956</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wanapum"
       ],

@@ -133,7 +133,10 @@
         "opacity": 0.8
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#0288D1;margin:0 0 2px\">🏔️ Humboldt River</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">~330 mi · Longest river entirely within Nevada · Wells to Humboldt Sink</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Humboldt River</b> is the <b>only major river system wholly contained within Nevada</b> and the backbone of the state's geography. Rising from springs near <b>Wells</b> at the foot of the East Humboldt Range, it flows ~330 miles west through Elko, Carlin, Battle Mountain, Winnemucca, and Lovelock before vanishing into the <b>Humboldt Sink</b> — a classic Great Basin terminal lake with no outlet.<br><br>For <b>Western Shoshone</b> and <b>Northern Paiute</b> peoples, the Humboldt was life itself — fish, waterfowl, tule, willow, and the riparian corridor supporting deer and antelope. Bands were named for the foods they gathered along its course. For emigrants on the <b>California Trail</b> (1840s-1860s), the Humboldt was the essential — if hated — highway across the Great Basin. Mark Twain called it <i>\"the most villainous river\"</i> in America. The final stretch from Lovelock to the Sink, followed by the <b>Forty Mile Desert</b> to the Carson River, was the deadliest section of the entire California Trail.<br><br>The Humboldt River Basin covers <b>16,840 square miles</b> — the largest sub-basin in the entire Great Basin. Today I-80 follows the same corridor.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Humboldt River Chronology (NV Water Resources); Cline 1963; Britannica</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -548,7 +551,12 @@
         "opacity": 0.7
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#29B6F6;margin:0 0 2px\">Carson River — East Fork</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Sweetwater Mountains → joins West Fork near Genoa</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rises near the Sweetwater Mountains on the CA-NV border and flows north through Mason and Smith Valleys — heart of <b>Washoe</b> and <b>Northern Paiute</b> territory. Rich riparian habitat supported dense populations.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -686,7 +694,12 @@
         "opacity": 0.7
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#29B6F6;margin:0 0 2px\">Walker River — West Fork</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Sierra Nevada → joins East Fork near Yerington</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rises in the Sierra Nevada near Sonora Pass and flows northeast into Nevada through <b>Antelope Valley</b> — southern Washoe territory — and Mason Valley. Rich cottonwood riparian corridor.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -734,7 +747,10 @@
         "opacity": 0.7
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#29B6F6;margin:0 0 2px\">Walker River — East Fork</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Bridgeport Valley → joins West Fork · Kucadikadi territory</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Rises in the Sweetwater Mountains and Bridgeport Valley — <b>Kucadikadi</b> (Northern Paiute) territory. Flows through Smith Valley past important petroglyph sites documented by Heizer & Baumhoff.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Heizer & Baumhoff 1962</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -1054,7 +1070,10 @@
         "weight": 1.5
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Ash Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 95°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the largest warm springs in southern Nevada. Volume: 1,100 gallons/minute. Located along the White River corridor in <b>Pahranagat Valley</b> — a desert oasis used by Southern Paiute and earlier peoples for millennia. Nearby Pahranagat NWR preserves a rare desert wetland.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "lenape",
         "paiute",
@@ -1108,7 +1127,10 @@
         "weight": 1.5
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Hot Creek Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 180°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">One of the largest hot spring systems in Nevada, discharging 5,800 gallons/minute into Hot Creek. Located in the remote <b>Hot Creek Valley</b> in Nye County. Springs like this were critical waystations for Western Shoshone seasonal rounds.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -1134,7 +1156,10 @@
         "weight": 1.5
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Ruby Valley Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · varies</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Springs along the base of the <b>Ruby Mountains</b> that create the lush Ruby Valley. The <b>Treaty of Ruby Valley</b> (1863) was signed here — the foundational document of Western Shoshone land rights. Ruby Marshes (now a NWR) support major waterfowl populations.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -1216,7 +1241,10 @@
         "weight": 1.5
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">💧 Spencer Hot Springs</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Spring · 160°F</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Natural hot springs in Big Smoky Valley on the edge of Western Shoshone territory. Free soaking pools along Highway 376. These thermal waters were used by indigenous peoples for centuries — hot springs throughout the Great Basin were considered places of power (pooha).</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; NV Water Resources; BLM; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -1494,7 +1522,10 @@
         ]
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#EF5350;margin:0 0 2px\">🚫 Lahontan Dam (1915)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Carson River · Built 1915</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Part of the <b>Newlands Reclamation Project</b>. Impounds the Carson River to create Lahontan Reservoir (capacity: 295,000 acre-feet), storing water for irrigation of the Fallon area. Combined with Derby Dam's Truckee River diversion, these two dams remade the hydrology of western Nevada. The dam flooded a stretch of the Carson River used by Northern Paiute for millennia. Downstream, the Stillwater wetlands became dependent on agricultural return flows rather than natural river flow.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Bureau of Reclamation; USGS; NV Water Resources; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "lenape",
         "northern_paiute",
@@ -1552,7 +1583,10 @@
         ]
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#EF5350;margin:0 0 2px\">🚫 South Fork Dam (1988)</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">South Fork Humboldt · Built 1988</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">Creates South Fork Reservoir on the South Fork of the Humboldt River in Elko County. Stores water for irrigation and recreation. Located within the <b>South Fork Band</b> (Te-Moak Western Shoshone) territory. The reservoir has improved some downstream habitat but also altered the natural flow patterns of the South Fork.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Bureau of Reclamation; USGS; NV Water Resources; tribal sources</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -1678,7 +1712,10 @@
         "dashArray": "4,8"
       },
       "popup": "<div style=\"max-width:420px\">\n      <h4 style=\"color:#A1887F;margin:0 0 2px\">💀 Forty Mile Desert</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Humboldt Sink → Carson River · deadliest stretch of California Trail</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Forty Mile Desert</b> — the waterless gap between the Humboldt Sink and the Carson River — was the most feared section of the entire <b>California Trail</b>. Emigrants crossed at night to avoid the heat. The desert was littered with dead oxen, abandoned wagons, and scattered goods. Thousands made this crossing during the Gold Rush (1849-1860s). For indigenous peoples, this was simply part of the landscape — Northern Paiute bands knew the springs and water sources that emigrants could not find.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: California Trail Center; Cline 1963; NV Historical Society</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"

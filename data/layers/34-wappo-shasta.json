@@ -47,8 +47,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wappo"
+      ],
       "tribes": [
         "wappo"
       ],
@@ -76,8 +83,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wappo"
+      ],
       "tribes": [
         "wappo"
       ],
@@ -122,7 +136,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#8B008B;margin:0 0 6px;\">◆ Caymus — Wappo Village</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Napa Valley, Napa County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      One of several documented Wappo villages in Napa Valley. Others include\n      Canijolmano, Huiluc, Locnoma, Mayacama, and Napa.\n      Many were recorded through Mission Sonoma records (1823–1834).\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The name \"Wappo\" derives from Spanish <i>guapo</i> (\"brave\") — given for\n      their fierce resistance to European colonization.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Milliken 1995; Sawyer 1978</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wappo"
       ],
@@ -144,7 +163,13 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:280px;\">\n    <h3 style=\"color:#8B008B;margin:0 0 6px;\">◆ Pope Valley Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Pope Valley, Napa County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Wappo and Lake Miwok overlap zone. The Lake Miwok inhabited areas\n      south of Clear Lake extending into Pope Valley. Annual summer trips\n      brought Wappo to Clear Lake and the Pacific coast.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sawyer 1978</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok",
         "wappo"
@@ -232,8 +257,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wappo"
+      ],
       "tribes": [
         "wappo"
       ],
@@ -261,8 +293,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wappo"
+      ],
       "tribes": [
         "wappo"
       ],
@@ -281,7 +320,12 @@
         "size": 12
       },
       "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#DC143C;margin:0 0 6px;\">◆ Úytaahkoo (Mt. Shasta)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Siskiyou County — 14,179 ft</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Sacred mountain for the Shasta, Wintu, Karuk, Modoc, and many other\n      Northern California peoples. The Shasta people took their English name\n      from the mountain (their own name was <i>Kahosadi</i>).\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Wintu name <i>Bohem Puyuq</i> (\"Great Mountain\") reflects its spiritual\n      centrality. Mt. Shasta features in creation stories across multiple tribes\n      and is considered a living spiritual being.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Silver 1978</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "karuk",
         "modoc",
@@ -308,7 +352,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#CD5C5C;margin:0 0 6px;\">◆ Shasta Valley Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Shasta Valley, Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Shasta people occupied the upper Klamath River drainage and\n      Shasta Valley. They spoke a Hokan language. Multiple village and\n      camp sites documented in archaeological investigations.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Shasta were closely related culturally to the Karuk but linguistically\n      distinct. They served as important intermediaries in the\n      obsidian and dentalium shell trade.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Holt 1946</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "karuk",
         "klamath"
@@ -333,14 +382,21 @@
         "size": 12
       },
       "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◆ Yorkville Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Anderson Valley, Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Large boulder covered with ancient petroglyphs. These are\n      <b>distinctly different from known Pomo petroglyphs</b> in Willits and\n      Lake County, suggesting a <b>much earlier origin</b> — possibly pre-Pomo.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Anderson Valley was a boundary zone between Northern and Central Pomo.\n      The petroglyphs may date to a period before Pomo peoples occupied the area,\n      making them among the oldest cultural markers in the region.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Anderson Valley Advertiser; First People article</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
       "tribes": [
         "pomo"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -379,8 +435,15 @@
         "size": 11
       },
       "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◎ UC Hopland — PCN Cupule Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Hopland Research Station, Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Five boulders or boulder clusters with cultural markings including cupules\n      on the 2,150-hectare UC property. 30+ identified prehistoric sites with\n      <b>3,000+ catalogued artifacts</b>.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Obsidian hydration dating, chemical sourcing, AMS dates, and soil testing\n      have been conducted. A doctoral dissertation applied landscape archaeology\n      and ritual theory frameworks to these sites.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">UC Hopland; FSRA 1999</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "pomo"
+      ],
       "tribes": [
         "pomo"
       ],
@@ -402,12 +465,21 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:240px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◆ Glitter Rock (CA-MEN-2300)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Petroglyph site documented on 1999 FSRA Mendocino-Lake Counties field trip.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA 1999</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "pomo"
+      ],
       "tribes": [
         "pomo"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -422,12 +494,21 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:240px;\">\n    <h3 style=\"color:#D32F2F;margin:0 0 6px;\">◆ Keystone (CA-MEN-2200)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Mendocino County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Petroglyph site documented on 1999 FSRA field trip.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA 1999</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "pomo"
+      ],
       "tribes": [
         "pomo"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -445,7 +526,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "pomo"
+      ],
       "tribes": [
         "pomo"
       ],

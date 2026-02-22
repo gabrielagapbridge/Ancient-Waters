@@ -255,7 +255,12 @@
         ]
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">🏕️ Magulu Watah — Meeks Bay</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Major summer encampment · West shore · Welmelti territory</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Meeks Bay</b> (Magulu Watah) was one of the most important Washoe summer gathering sites on the west shore of Lake Tahoe. Families of the <b>Welmelti</b> (northern Washoe) returned to the same campsites year after year — familiar fishing and hunting grounds waited. The bay's shallow, warmer waters were ideal for fish traps and spear fishing. The meadows behind the beach provided seeds, roots, and berries.<br><br>Today, the <b>Washí•shiw ɄitdéɁ Native American Basket and Arts Festival</b> is held at <b>Meeks Bay Resort</b> each summer — a public celebration of Washoe culture featuring basketry, music, and dance. Meeks Bay Resort is now Washoe-operated, a rare instance of the tribe regaining stewardship of ancestral land at Lake Tahoe.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS; Washoe Tribe; Visit Lake Tahoe; d'Azevedo 1986</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -315,7 +320,12 @@
         ]
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">🪨 Lam Watah — Washoe Heritage Site</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Archaeological site · grinding rocks · near Stateline · USFS managed</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Lam Watah</b> (\"grinding stones by the water\") is a publicly accessible archaeological site near Stateline, NV — managed by the US Forest Service. It preserves <b>numerous boulders with grinding depressions</b> (mortars) where Washoe women prepared food during summer months — processing pine nuts, seeds, and dried foods for winter storage. Set in a meadow along a one-mile trail to Nevada Beach.<br><br>A Washoe elder visiting the site said: <i>\"Yes, the lake was a sacred place. It is to us yet, even though it is so different today from what it was in our people's time.\"</i><br><br>Another <b>pounding rock</b> site exists near Trout Creek in the middle of South Shore — now surrounded by modern development.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USFS LTBMU; Tahoe Mountain Culture; Chico Enterprise-Record</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -375,7 +385,12 @@
         ]
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#29B6F6;margin:0 0 2px\">💎 Emerald Bay — Glacier-Carved Sacred Bay</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Drowned glacial valley · Fannette Island · Washoe gathering area</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Emerald Bay</b> occupies a drowned glacial valley carved during the Ice Ages. A glacier advanced from an ice cap ~6.5 km to the southwest, scouring Eagle Creek valley and depositing lateral moraines that form the bay. <b>Fannette Island</b> — the only island in Lake Tahoe — sits within its waters.<br><br>For the Washoe, Emerald Bay was part of their summer territory. The bay's protected waters supported fishing, and the surrounding forests provided game, berries, and medicinal plants. In rare cold years, Emerald Bay has frozen over — the only part of Lake Tahoe that ever ices (the main lake's depth and constant motion prevent freezing).</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: USGS; Earth Magazine; Keep Tahoe Blue</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -404,7 +419,12 @@
         ]
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">🏠 Carson Valley — Pau Wa Lu Winter Camps</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Washoe winter territory · lower elevation · Gardnerville/Minden</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>Pau Wa Lu</b> (Carson Valley Washoe) spent winters in the Carson Valley east of the Sierra — at lower elevation where snow was manageable. Winter camps of 4-10 families were composed of <b>galais dungal</b> (conical winter houses) built with layers of bark, poles, and brush for insulation. A fire pit sat in the center with a smoke hole in the roof. Doors always faced east to receive the first light.<br><br>Winter camps were located near <b>hot springs</b> that occur in a chain along the eastern Sierra. The Washoe lived off stored pine nuts, seeds, dried meat, and occasionally fresh fish caught through broken ice. The final winter months before spring were the hardest — food stores dwindling, new plants not yet available.<br><br>When snow began to melt, it was time for renewal. Young adults would begin the journey back to <b>Da ow aga</b>. Eventually the majority of the tribe made its way to the sacred lake for the great <b>summer gathering</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Nevers 1976; d'Azevedo 1986; Tallac Historic Site; Washoe Tribe</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -433,7 +453,12 @@
         ]
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">🌲 Pine Nut Mountains — Fall Harvest</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Piñon pine nut gathering · sacred sustenance · storage for winter</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">In autumn, the Washoe moved to the <b>Pine Nut Mountains</b> (Pine Nut Range) east of Carson Valley for the year's most critical harvest. <b>Piñon pine nuts</b> were the staple food that sustained the Washoe through winter. Cones were knocked down with long hooked poles, roasted so their sweet oily flesh wouldn't become rancid, then shelled and ground into flour using mortars and pestles.<br><br>The Pine Nut harvest was so important that when the <b>General Allotment Act of 1887</b> finally offered the Washoe land, the government offered only pine nut hills — not their beloved lake. The Washoe took them because the sacred Piñon Pines still provided the food that sustained them. But the allotments had no water rights and were unsuitable for homes.<br><br>Today, the <b>Pine Nut Festival</b> continues to celebrate this tradition.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Nevers 1976; d'Azevedo 1986; Tallac Historic Site</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -594,7 +619,12 @@
         ]
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#78909C;margin:0 0 2px\">🏔️ 1960 Winter Olympics — Palisades Tahoe</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Olympic Valley · held while Washoe land claims unresolved</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The <b>1960 Winter Olympics</b> were held at what was then called Squaw Valley (now <b>Palisades Tahoe</b>, renamed 2021 after Washoe advocacy). The Games took place while the Washoe Tribe was <b>still waiting for resolution of its Indian Claims Commission case</b> — which wasn't settled until 1968.<br><br>The Olympics accelerated resort development in the Tahoe Basin, further transforming Washoe ancestral land. In 2021, when the resort announced it would retire the former name, Washoe women led the dialogue about cultural respect — documented in the film <b>\"Walking With My Sisters.\"</b><br><br>Today, Palisades Tahoe hosts Washoe cultural talks at High Camp (8,200 ft), where tribal members share stories of their deep-rooted history in Olympic Valley and the Sierra Nevada.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Visit Truckee Tahoe; Washoe Tribe; Palisades Tahoe</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -666,7 +696,12 @@
         "dashArray": "6,6"
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">🔄 Washoe Seasonal Round — Summer → Winter</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Lake Tahoe (summer) → Pine Nut Mtns (fall) → Carson Valley (winter)</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Washoe followed a predictable <b>annual seasonal round</b> tied to water, fish, and plant cycles:<br><br><b>Spring:</b> As snow melted, young adults began the trek from Carson Valley back to Da ow aga. Bulb plants and early grasses were the first harvests.<br><br><b>Summer:</b> The majority of the tribe gathered at Lake Tahoe — the great annual gathering. Each of the three regional groups (Welmelti, Pau Wa Lu, Hung a Lel Ti) camped on their respective side of the lake at family campsites used for generations. Fishing, hunting, gathering berries, seeds, roots, and medicinal plants. Games, races, archery competitions, socializing.<br><br><b>Fall:</b> As fishing slowed, the Washoe moved to the <b>Pine Nut Mountains</b> for the critical pine nut harvest. Hunting was best in fall when animals were fattened. Deer, rabbit, marmot, sagehen, quail.<br><br><b>Winter:</b> Families retreated to <b>Carson Valley</b> and other lowland camps near hot springs. Stored foods sustained them. Ice fishing when possible. The door of the winter house always faced east.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986; Nevers 1976; Tallac Historic Site; Washoe Tribe</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -703,7 +738,12 @@
         "dashArray": "6,6"
       },
       "popup": "<div style=\"max-width:440px\">\n      <h4 style=\"color:#FFA726;margin:0 0 2px\">🔄 Fall Migration — Pine Nut Harvest</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Carson Valley → Pine Nut Mountains</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">In fall, the Washoe moved east to the <b>Pine Nut Mountains</b> for the pine nut harvest — the most important food-gathering event of the year. The piñon pine nuts, roasted and ground into flour, would sustain families through the long winter.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986; Nevers 1976</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],

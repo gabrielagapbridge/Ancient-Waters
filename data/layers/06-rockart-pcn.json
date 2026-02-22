@@ -150,7 +150,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -209,7 +215,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone",
         "pomo"
@@ -396,7 +408,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -427,7 +445,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -458,7 +482,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -489,7 +519,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -520,7 +556,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -629,7 +671,12 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -831,7 +878,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -858,7 +911,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -885,7 +944,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok"
@@ -983,7 +1048,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -1011,7 +1082,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -1068,7 +1145,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],

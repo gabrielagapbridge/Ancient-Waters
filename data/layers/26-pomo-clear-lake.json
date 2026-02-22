@@ -184,7 +184,12 @@
         "fillOpacity": 0.85,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -209,7 +214,12 @@
         "fillOpacity": 0.85,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -288,7 +298,12 @@
         "fillOpacity": 0.85,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -313,7 +328,12 @@
         "fillOpacity": 0.85,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -365,7 +385,12 @@
         "fillOpacity": 0.85,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -422,7 +447,12 @@
         "fillOpacity": 0.75,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -479,7 +509,13 @@
         "fillOpacity": 0.75,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coast_miwok",
         "miwok",
@@ -525,7 +561,12 @@
         "pane": "pomoBackgroundPane"
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#4FC3F7;margin:0 0 6px\">Kelsey Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Major tributary entering Clear Lake at Kelseyville. Critical spawning route for the <strong>Clear Lake hitch</strong> (Lavinia exilicauda chi) — called 'chi' by the Pomo and found nowhere else on Earth. Also supports Pacific lamprey. Dredged in 1955, altering the natural channel. Named after Andrew Kelsey, who enslaved and brutalized the Pomo — a bitter irony.</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -559,7 +600,12 @@
         "pane": "pomoBackgroundPane"
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#4FC3F7;margin:0 0 6px\">Scotts Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Major tributary feeding Clear Lake from the west through Scotts Valley. Gravel mining in 1969 damaged the streambed. Northern Pomo villages lined its banks. Scotts Creek watershed assessment documented impacts of agricultural runoff on the lake ecosystem.</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -596,7 +642,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "pomo"
+      ],
       "tribes": [
         "pomo"
       ],
@@ -699,7 +747,13 @@
         "pane": "pomoBackgroundPane"
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#4FC3F7;margin:0 0 6px\">Adobe Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Tributary of Clear Lake. Adobe Creek Reservoir was completed in 1962, impounding water that once flowed freely into the lake. The creek marks a boundary zone between Eastern Pomo and Lake Miwok territories.</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok",
         "pomo"
@@ -735,7 +789,12 @@
         "pane": "pomoBackgroundPane"
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#4FC3F7;margin:0 0 6px\">Cole Creek</h3>\n    <p style=\"font-size:13px;color:#CFD8DC\">Small tributary entering Clear Lake near Clear Lake State Park. Spawning habitat for the Clear Lake hitch. Cole Creek Campground at the state park winds along its banks through a former Pomo village area.</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -790,7 +849,12 @@
         "dashArray": "4,3",
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -930,14 +994,21 @@
         ]
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#FFB74D;margin:0 0 4px\">Clear Lake Basin Petroglyphs</h3>\n    <p style=\"font-size:12px;color:#FFCC80;margin:0 0 6px\">Petroglyph · Pomo Territory</p>\n    <p style=\"font-size:13px;color:#CFD8DC\">Paul Peterson (1996) documented <strong>ethnographic rock art in the Clear Lake Basin</strong> — petroglyphs connected to Pomo ceremonial practices. Pomo cosmology views mountains as holy and powerful places; some petroglyph sites occur in elevated locations. The roundhouse symbolized the Upper, Middle, and Lower Worlds (Parkman).</p>\n    <p style=\"font-size:11px;color:#78909C;margin-top:8px\">Sources: Peterson 1996; Parkman 1991</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
       "tribes": [
         "pomo"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -959,7 +1030,12 @@
         ]
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#FFB74D;margin:0 0 4px\">Cloverdale Boulder (CA-MEN-1800)</h3>\n    <p style=\"font-size:12px;color:#FFCC80;margin:0 0 6px\">Petroglyph · Pomo Territory</p>\n    <p style=\"font-size:13px;color:#CFD8DC\">PCN-style petroglyph on a schist boulder. Part of the <strong>'Baby Rocks'</strong> tradition — Pomo women visited these sites to ensure conception and fertility. Central Pomo mythology connects PCN glyphs to supernatural <strong>Bird People</strong>. Documented by Hedges (1983).</p>\n    <p style=\"font-size:11px;color:#78909C;margin-top:8px\">Sources: Hedges 1983; Freeman 1998; Marymor 2016</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -990,7 +1066,12 @@
         ]
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#FFB74D;margin:0 0 4px\">Hopland PCN Boulders (UC Research Station)</h3>\n    <p style=\"font-size:12px;color:#FFCC80;margin:0 0 6px\">Petroglyph · Pomo Territory</p>\n    <p style=\"font-size:13px;color:#CFD8DC\">Five boulders with cultural markings including cupules and PCN-style elements at the UC Hopland Research and Extension Center (2,150 hectares). <strong>Donna Gillette's</strong> landscape archaeology study examined these in the context of 30+ prehistoric sites with 3,000+ catalogued artifacts. The PCN boulders sit on Franciscan schist — the same geology that hosts PCN petroglyphs across the Coast Range.</p>\n    <p style=\"font-size:11px;color:#78909C;margin-top:8px\">Sources: Gillette 2011; Freeman 1999</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -1031,7 +1112,9 @@
       "tribes": [
         "pomo"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "marker",
@@ -1053,7 +1136,12 @@
         ]
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n    <h3 style=\"color:#FFB74D;margin:0 0 4px\">Elledge Valley Baby Rock (Sonin 68)</h3>\n    <p style=\"font-size:12px;color:#FFCC80;margin:0 0 6px\">Petroglyph · Pomo Territory</p>\n    <p style=\"font-size:13px;color:#CFD8DC\">A <strong>'Baby Rock'</strong> in the Pomo tradition — a boulder with cupules and grooves used in fertility rituals. Loeb (1926) and Barrett recorded ethnographic accounts of Pomo women visiting these rocks. The tradition connects directly to the PCN petroglyph phenomenon documented across Northern California.</p>\n    <p style=\"font-size:11px;color:#78909C;margin-top:8px\">Sources: Loeb 1926; Heizer 1953; Freeman 1998</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -1136,7 +1224,12 @@
         "pane": "pomoBackgroundPane"
       },
       "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\">\n  <h3 style=\"color:#8D6E63;margin:0 0 6px\">Clear Lake Pomo Territory</h3>\n  <p style=\"font-size:13px;color:#CFD8DC\">Approximate territory of the <strong>Eastern, Southeastern, and Northern Pomo</strong> groups centered on Clear Lake. Boundaries from Barrett (1908) and Stewart (1940). The Eastern Pomo occupied Big Valley and the main lake shores; the Southeastern Pomo held the eastern arm (Rattlesnake Island, Indian Island, Anderson Island); the Northern Pomo held Upper Lake and Scotts Valley.</p>\n  <p style=\"font-size:13px;color:#CFD8DC\">Population est. <strong>~8,000 total Pomo at contact (1770)</strong> across all 7 groups. By 1908, Barrett counted only 747.</p>\n</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -1188,7 +1281,12 @@
         "fillOpacity": 0.8,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -1240,7 +1338,12 @@
         "fillOpacity": 0.8,
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],

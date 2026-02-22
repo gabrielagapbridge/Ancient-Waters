@@ -455,7 +455,10 @@
       "popupOptions": {
         "maxWidth": 440
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "lenape",
         "northern_paiute",
@@ -2065,7 +2068,13 @@
       "popupOptions": {
         "maxWidth": 440
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok",
         "northern_paiute",
@@ -2662,7 +2671,10 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"

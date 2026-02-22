@@ -105,7 +105,13 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "lenape"
       ],
@@ -198,8 +204,16 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -273,8 +287,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -352,8 +374,16 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -374,8 +404,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FF8C00\">🏰 Castle Clinton — Once an Island</h3>\n    <p><b>Built:</b> 1808–1811</p>\n    <p><b>Originally:</b> Built <b>200 feet offshore</b> on an artificial island</p>\n    <p><b>Today:</b> Battery Park was created by filling the gap between the fort and Manhattan, making the offshore fort part of the island. Now a national monument surrounded by parkland that didn't exist when it was built.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NPS Castle Clinton NM; Buttenwieser 1999</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -396,8 +434,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#A0522D\">🏗️ Ellis Island — 724% Expansion</h3>\n    <p><b>Original:</b> ~3.3 acres</p>\n    <p><b>After fill:</b> ~27.5 acres</p>\n    <p><b>Legal consequence:</b> In 1998, New Jersey successfully argued to the Supreme Court that all the \"artificial\" portions of Ellis Island belong to New Jersey, since the fill extended into NJ waters. Only the original 3.3-acre island is in New York.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NPS; New Jersey v. New York, 523 U.S. 767 (1998)</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -421,7 +467,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -442,8 +490,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#A0522D\">🏗️ Gansevoort Peninsula (Meatpacking District)</h3>\n    <p><b>Originally:</b> A spit of land</p>\n    <p><b>Expanded:</b> 1837+ when Thirteenth Avenue was created by landfill, extending the shoreline into the Hudson.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Buttenwieser 1999; NYC Parks</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -593,8 +649,16 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -643,8 +707,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -665,8 +737,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#6495ED\">💧 Sunfish Pond & Stream (T'oude Wrack)</h3>\n    <p><b>Location:</b> Kips Bay area</p>\n    <p><b>Description:</b> Spring-fed pond and stream. Used by British during 1776 invasion of Manhattan. Now entirely buried under the city.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Sanderson 2009; Viele 1865</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -687,8 +767,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#6495ED\">💧 Spring Street — The Lost Spring</h3>\n    <p><b>Description:</b> Named for a spring that flowed into Lipsenard's Meadow, a swampy area near Canal Street. Both the spring and the meadow are buried.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Sanderson 2009; Burrows & Wallace \"Gotham\"</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -733,8 +821,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -802,7 +898,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "lenape"
       ],
@@ -827,8 +929,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DAA520\">⚓ WTC Ship — Revolutionary War Gunboat</h3>\n    <p><b>Found:</b> 2010, during World Trade Center reconstruction</p>\n    <p><b>Depth:</b> 22 feet below street level — preserved in oxygen-poor landfill for 200+ years</p>\n    <p><b>Date:</b> Built ~1773, near Philadelphia</p>\n    <p><b>Description:</b> Revolutionary War-era gunboat. Over 600 planks and 2,000 artifacts recovered, including musket balls and buttons. The ship was buried as landfill to expand Manhattan between 1790–1818.</p>\n    <p><b>Status:</b> Being reassembled at New York State Museum in Albany.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> AKRF archaeological monitoring; Huey 2010; NYS Museum</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -852,7 +962,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -927,7 +1039,9 @@
       "timePeriods": [
         "contact"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -995,7 +1109,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1019,7 +1135,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1083,8 +1201,16 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1108,7 +1234,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1129,7 +1257,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B0000\">☠️ Housatonic River PCBs — GE Pittsfield</h3>\n    <p><b>Location:</b> GE Pittsfield plant, Berkshire County, MA</p>\n    <p><b>Effect:</b> The Housatonic is now one of the most PCB-contaminated rivers in the country. The river that was the Mohican heartland — \"Usi-a-di-en-uk\" — is now a Superfund site.</p>\n    <p><b>Context:</b> In addition to PCBs, the Housatonic had 28+ paper mill dams by the end of the Civil War, fundamentally altering the river that supported 7,000+ years of continuous human habitation.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> EPA GE-Pittsfield/Housatonic River Superfund; MA DEP</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -1156,7 +1290,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1180,7 +1316,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1216,8 +1354,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1238,8 +1384,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#5C4033\">🗑️ Old Saybrook Landfill (\"Mount Saybrook\")</h3>\n    <p><b>Location:</b> Banks of the Connecticut River at its mouth</p>\n    <p><b>Description:</b> Long-shuttered landfill blocking a wide stretch of scenic waterfront. Being converted to a park. From the top: unobstructed view from Old Lyme down the Connecticut to Long Island Sound — a view that for decades was only enjoyed by the town's garbage.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; Old Saybrook Conservation Commission</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1260,8 +1414,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Mannahatta — The Island Before Fill</h3>\n    <p><b>Research:</b> Eric Sanderson's Mannahatta Project (Wildlife Conservation Society, 10 years)</p>\n    <p><b>Original ecology (1609):</b></p>\n    <p>• <b>66 miles of streams and rivers</b> flowed across the island</p>\n    <p>• <b>54 distinct ecological communities</b> — more per acre than Yellowstone</p>\n    <p>• 627 plant species, 85 fish species, 233 bird species, 24 mammal species</p>\n    <p>• Wolves, black bears, mountain lions, mink, river otters</p>\n    <p>• Whales, porpoises, and seals visited the harbor</p>\n    <p>• Western shore: sandy beaches from Battery to ~34th St</p>\n    <p>• Forests covered Times Square; meadows spread across Harlem; wetlands dominated downtown</p>\n    <p><b>Today:</b> ~29% of the island is artificial fill. Every stream buried. Every wetland filled. The only trace: street names (Pearl, Water, Canal, Spring, Minetta) and the occasional flooded basement.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Sanderson 2009 \"Mannahatta: A Natural History of New York City\"; Welikia Project (WCS)</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1285,8 +1447,16 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],

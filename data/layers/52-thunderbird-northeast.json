@@ -197,7 +197,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Nemasket River Thunderbird Boulder</h3>\n    <p><b>Location:</b> Along the Nemasket River, Lakeville, Massachusetts</p>\n    <p><b>Coordinates:</b> ~41.840°N, 70.950°W</p>\n    <p><b>Discovered:</b> 2007 (Taylor 2008)</p>\n    <p><b>Culture:</b> Wampanoag / Historic Contact period</p>\n    <p><b>Description:</b> A carved thunderbird image on a large glacially deposited boulder. The figure was cut deeply into the east vertical face of the boulder, which faces the river. It is a stick-figure style image with its head turned to the right, wings widespread and down-turned near each end, a somewhat enlarged body, and widespread feet. An incised straight line is present below the glyph along with another line to the bird's right — possibly framing lines.</p>\n    <p><b>Interpretation:</b> Lenik suggests this figure was carved with metal tools and dates to the Historic Contact period. The thunderbird represents a shaman's attempt to communicate with spiritual beings and marks the location as a sacred place consistent with Algonkian ideology and spiritual flight concepts.</p>\n    <p><b>Source:</b> Lenik 2012: 169; Taylor 2008 69(2):65–66</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wampanoag"
       ],
@@ -223,7 +229,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Assawompset Lake Thunderbird</h3>\n    <p><b>Location:</b> North shore of Assawompset Lake, Middleborough, Massachusetts</p>\n    <p><b>Culture:</b> Wampanoag</p>\n    <p><b>Description:</b> A large boulder partially covered by drifting sand, low-lying with a vertical face on its southerly side. A thunderbird figure is pecked into the vertical face of the rock. Its head is turned to its right, wings are widespread with a long rounded tail, and legs are not depicted. Lenik interprets the figure as a thunderbird in flight — consistent with Algonkian shamanistic concepts of spiritual flight.</p>\n    <p><b>Source:</b> Lenik 2012: 169</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wampanoag"
       ],
@@ -249,7 +261,13 @@
         "weight": 1
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Middleborough — Petroglyph Cluster Context</h3>\n    <p><b>Location:</b> Three petroglyph sites recorded along the Nemasket River in Middleborough: Hand Rock, Chestnut Street, and Great Rock (Lenik 2002:114–120).</p>\n    <p><b>Thunderbird connection:</b> Along with the 2007 Nemasket River thunderbird boulder and the Assawompset Lake thunderbird, these sites form a cluster of rock art in the Wampanoag heartland — concentrated around the intersection of the Nemasket River and Assawompset Pond, one of the most important interior waterways in southeastern New England.</p>\n    <p><b>Source:</b> Lenik 2002; 2012:169</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wampanoag"
       ],
@@ -389,7 +407,13 @@
         "weight": 1
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Hammond Petroglyph Pendant</h3>\n    <p><b>Location:</b> Found along the Taunton River, southeastern Massachusetts</p>\n    <p><b>Culture:</b> Wampanoag</p>\n    <p><b>Artifact:</b> A pentagonal-shaped pendant of reddish brown slate, found by a relic collector. Single suspension hole near upper end. On the obverse: a vertically oriented fine-line incised thunderbird with head turned to the side, wings outstretched downward, and a forked tail. On the reverse: a triangular, somewhat ladder-like geometric motif.</p>\n    <p><b>Source:</b> Lenik 2012: 174; Taylor 2008 69(2):64–65</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wampanoag"
       ],
@@ -461,7 +485,13 @@
         "weight": 1
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Shelter Island & Martha's Vineyard — Thunderbird on Hide & Daybook</h3>\n    <p><b>Martha's Vineyard:</b> A thunderbird figure was \"impressed\" into the animal hide cover of a daybook kept by Matthew Mayhew (1780–1785), a boat builder and descendant of missionaries to the Wampanoag. The image measures 32 cm (12½ inches) wing tip to wing tip. Now at Martha's Vineyard Museum.</p>\n    <p><b>Shelter Island:</b> Sylvester Manor, a 17th-century Dutch provisioning plantation (est. 1652). Nine seasons of excavation (1998–2006) recovered numerous Native American artifacts from this multi-cultural site where Dutch, English, Native Americans, and enslaved Africans lived together.</p>\n    <p><b>Source:</b> Lenik 2012: 180; Bouck & Richardson 2007 35:11–19; Gary 2007</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wampanoag"
       ],
@@ -529,7 +559,12 @@
         "weight": 1
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#9370DB\">⬡ Rochester Junction — Seneca Shell Thunderbird</h3>\n    <p><b>Location:</b> Rochester Junction site, upstate New York</p>\n    <p><b>Culture:</b> Seneca Iroquois (c. 1675–1687)</p>\n    <p><b>Artifact:</b> A shell pendant representing a thunderbird. Sculpted figure with head facing forward, eyes indicated by two small circular depressions, wings at rest along its body, and legs spread apart. Attributed to the Seneca Iroquois.</p>\n    <p><b>Now at:</b> Rochester Museum and Science Center</p>\n    <p><b>Source:</b> Lenik 2012: 179; Hayes 1988:60–61</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "seneca"
@@ -599,7 +634,13 @@
         "weight": 1
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">🎨 Mohican Chief Etowaukum — Thunderbird Tattoos (1710)</h3>\n    <p><b>Context:</b> Upper Hudson River Valley (Mohican territory)</p>\n    <p><b>Documentation:</b> A 1710 portrait by Jan Verelst shows Mohican chief Etowaukum with four thunderbird tattoos on his face. According to ethnohistoric accounts, Iroquois and Mohican Indians in the upper Hudson River Valley of New York and New Jersey adorned their bodies with facial tattoos (Heckewelder 1881:206; Van der Donck 1968:39).</p>\n    <p><b>Significance:</b> Tattooing of the body conveyed visible information about the person and their beliefs. Thunderbird tattoos likely indicated warrior status or spiritual connection.</p>\n    <p><b>Source:</b> Lenik 2012: 180; Brasser 1978:202</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "mohican"

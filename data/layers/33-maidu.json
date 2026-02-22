@@ -47,8 +47,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -76,8 +83,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -124,8 +138,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -153,8 +174,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -201,8 +229,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -230,8 +265,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -280,8 +322,15 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Jamison Creek Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Plumas County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Martis Complex petroglyph sites near Jamison Creek in the Lakes Basin.\n      Documented by Pete Rhode for FSRA.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA field trips</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -302,8 +351,15 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Badenough Canyon (CA-SIE-391)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sierra County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Style 7 Martis petroglyph site in Sierra County.\n      Documented by FSRA 1996 field trip.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -324,7 +380,13 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Salmon Lake Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sierra County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Martis petroglyphs near Salmon Lake. Pete Rhode documentation.\n      Washoe / Mountain Maidu zone.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "maidu",
         "washoe"
@@ -333,7 +395,9 @@
         "maidu",
         "washoe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -348,12 +412,21 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Frazier Creek Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sierra County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Martis petroglyphs near Frazier Creek. Pete Rhode documentation.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -368,14 +441,21 @@
         "size": 13
       },
       "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ North Fork American River Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Placer County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>46 petroglyph sites</b> identified along the upper North Fork of the\n      American River and its tributaries. Martis Culture, dated by associated\n      cultural materials and radiocarbon to <b>~1700–950 BCE</b> —\n      the period when Martis culture flourished most.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      This cluster represents the densest concentration of Martis petroglyphs\n      in the central Sierra. Nisenan (Southern Maidu) territory.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sagehen Creek Field Station; Gortner</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu"
       ],
       "tribes": [
         "maidu"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -390,7 +470,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Wabena Creek (CA-PLA-591)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Placer County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Style 7 Martis petroglyph site at Wabena Creek.\n      Nisenan / Southern Maidu territory.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu"
       ],
@@ -414,8 +499,15 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Rattlesnake Creek (CA-NEV-504)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Nevada County, CA</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Martis petroglyph site on Tahoe National Forest.\n      Part of the 92 identified Style 7 sites in the northern Sierra.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA; USFS Tahoe NF</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -436,8 +528,15 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Cisco Grove Rock (CA-NEV-506)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Nevada County, CA</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Martis petroglyphs at Cisco Grove. Part of the Style 7 tradition.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
@@ -458,12 +557,21 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:280px;\">\n    <h3 style=\"color:#FFB347;margin:0 0 6px;\">◆ Picayune Valley Petroglyphs</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Placer County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Cluster of Martis petroglyph sites — Sonin 61, 63, and John Betts sites.\n      Documented during 1996 FSRA field trip.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">FSRA 1996</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -478,7 +586,12 @@
         "size": 12
       },
       "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#DAA520;margin:0 0 6px;\">◆ Llano Seco (CA-BUT-233)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sacramento River, Butte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Earliest C14-dated habitation in the Chico area</b> — occupation dating back\n      <b>4,000+ years</b>. 12-foot deep midden buried under 14–18 inches of alluvial\n      soil on a Sacramento River levee.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Excavated by Chico State archaeologists. Reveals deep time depth of\n      Valley Maidu presence in the Sacramento Valley.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Chico State; Kowta 1988</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu"
       ],
@@ -500,7 +613,12 @@
         "size": 11
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DAA520;margin:0 0 6px;\">◆ Michoopda Village Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Chico area, Butte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Five Maidu (Michoopda band) village sites identified in the Chico area.\n      The Michoopda were the Valley Maidu band centered near present-day Chico.\n      <b>Block mortars</b> are the diagnostic tool of Valley Maidu (vs. slab hopper mortars\n      used by Nomlaki to the west).\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Archaeological Identification of the Valley Maidu</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu",
         "nomlaki"
@@ -550,7 +668,13 @@
         "size": 11
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Indian Valley — Mountain Maidu</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Greenville area, Plumas County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Heart of Mountain Maidu territory. Permanent villages in\n      Indian Valley near present-day Greenville. Bedrock milling features\n      used for acorn processing are common throughout the Plumas NF.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Mountain Maidu, Paiute, and Washoe all used the high Sierra\n      zone seasonally — their territories overlapping in the mountains.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Plumas NF; Kowta 1988</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "maidu",
         "paiute",
@@ -576,8 +700,15 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Bucks Lake Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Plumas County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple sites with Martis and later materials. Wide-stemmed projectile\n      points. Summer camps at higher elevations.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kowta 1988</div>\n  </div>\n",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "maidu"
+      ],
       "tribes": [
         "maidu"
       ],

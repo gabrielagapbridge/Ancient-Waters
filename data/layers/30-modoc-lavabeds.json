@@ -79,8 +79,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "modoc"
+      ],
       "tribes": [
         "modoc"
       ],
@@ -108,8 +115,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "modoc"
+      ],
       "tribes": [
         "modoc"
       ],
@@ -156,7 +170,12 @@
         "size": 11
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#FF6347;margin:0 0 6px;\">○ Lava Beds Cave Pictographs — West Cluster</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lava Beds NM, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Painted pictographs in multiple lava tube cave entrances across the monument.\n      Red, white, and black pigments — charcoal base mixed with animal fat (black),\n      clay base (white), mineral pigments (red).\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Most pictographs appear at <b>cave entrances</b> rather than deep interiors.\n      Pictograph sites hold traditional significance for modern Modoc and Klamath people.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">NPS · Exact cave locations partially restricted for protection</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "klamath",
         "modoc"
@@ -182,7 +201,12 @@
         "size": 11
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#FF6347;margin:0 0 6px;\">○ Lava Beds Cave Pictographs — South Cluster</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lava Beds NM, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Additional pictograph sites in lava tube caves in the southern portion of the monument.\n      Part of the extensive Lava Beds NM Archaeological District, which contains both\n      carved petroglyphs and painted pictographs — an unusual combination in one area.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      All rock imagery at Lava Beds is located within the traditional territory of the Modoc\n      people and their ancestors or predecessors.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">NPS · Public access via monument trails</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -206,7 +230,12 @@
         "size": 12
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DEB887;margin:0 0 6px;\">◆ Nightfire Island (CA-MOD-2)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Near Tule Lake, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major stratified habitation site near Tule Lake with <b>7,500+ years of occupation</b>.\n      Deep deposits reveal continuous use of the Tule Lake basin.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Geometric patterns on household items here <b>match motifs at Petroglyph Point</b>,\n      dated to 5,000+ years old — providing key chronological evidence for the rock art.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Clewlow 1968</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -228,7 +257,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DEB887;margin:0 0 6px;\">◆ Tule Lake Village Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Former Tule Lake shore, Modoc / Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple Modoc village sites along the former shoreline of Tule Lake, which was\n      drastically reduced by 20th-century drainage for agriculture. Winter villages\n      concentrated along the lake and Lost River.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Modoc name <i>Moatokni</i> (\"people of the south\") distinguished them from\n      the Klamath to the north. They were skilled waterfowl hunters and fishers\n      in the rich Tule Lake wetlands.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Ray 1963</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "klamath",
         "modoc"
@@ -276,7 +310,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#DEB887;margin:0 0 6px;\">◆ Clear Lake (Modoc) Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Clear Lake, Modoc County (NOT Lake County Clear Lake)</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Eastern Modoc villages around Clear Lake in Modoc County. This is a different lake\n      from the Pomo's Clear Lake in Lake County. Modoc bands here included the\n      Gumbatwas (the \"people of the lake\").\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Ray 1963</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc",
         "pomo"
@@ -300,7 +339,12 @@
         "size": 12
       },
       "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#8A2BE2;margin:0 0 6px;\">◆ Captain Jack's Stronghold</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Lava Beds NM, Modoc County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      From November 1872 to April 1873, <b>Kintpuash (Captain Jack)</b> and approximately\n      53 Modoc warriors held off over 600 U.S. Army troops in this natural lava fortress.\n      The <b>Modoc War</b> was the only major Indian war in California and the most costly\n      per-capita Indian war the U.S. military fought.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      After the war, Captain Jack was executed and surviving Modoc were forcibly\n      relocated to the Quapaw Agency in Oklahoma Territory. Much traditional knowledge\n      about the petroglyphs and pictographs was lost during this diaspora.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">\n      NPS · National Historic Landmark<br>\n      Self-guided trail through the lava fortifications\n    </div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -387,8 +431,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "modoc"
+      ],
       "tribes": [
         "modoc"
       ],

@@ -401,7 +401,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -464,7 +466,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -496,7 +500,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -566,8 +572,16 @@
         "dashArray": null
       },
       "popup": "<h4>Olema Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>The largest tributary of Lagunitas Creek (14.5 sq mi catchment), flowing 9 miles northwest along the San Andreas Fault zone through the Olema Valley. Receives Bear Valley Creek from Point Reyes National Seashore. Important steelhead and coho spawning habitat — in 2018-19, 107 adult coho and 51 redds were counted. The creek's alignment along the fault creates a remarkably straight valley visible from the air, marking the boundary between the Pacific and North American tectonic plates.<div class=\"popup-src\">📖 NPS Point Reyes; Marin Water adult salmonid monitoring; CDFW</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -639,8 +653,16 @@
         "interactive": true
       },
       "popup": "<h4>Olema Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>The largest tributary of Lagunitas Creek (14.5 sq mi catchment), flowing 9 miles northwest along the San Andreas Fault zone through the Olema Valley. Receives Bear Valley Creek from Point Reyes National Seashore. Important steelhead and coho spawning habitat — in 2018-19, 107 adult coho and 51 redds were counted. The creek's alignment along the fault creates a remarkably straight valley visible from the air, marking the boundary between the Pacific and North American tectonic plates.<div class=\"popup-src\">📖 NPS Point Reyes; Marin Water adult salmonid monitoring; CDFW</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -669,8 +691,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -724,8 +754,16 @@
         "dashArray": null
       },
       "popup": "<h4>Nicasio Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Flows from Nicasio Reservoir (built 1960, Seeger Dam) southeast to join Lagunitas Creek in Samuel P. Taylor State Park. Before the dam, Nicasio Creek supported half of all steelhead and coho spawning in the Lagunitas watershed. The reservoir flooded the valley floor of the historic Nicasio ranching community. The creek passes through rolling grasslands and oak woodland characteristic of inland Marin.<div class=\"popup-src\">📖 Marin Water; Wikipedia Lagunitas Creek</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -781,8 +819,16 @@
         "interactive": true
       },
       "popup": "<h4>Nicasio Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Flows from Nicasio Reservoir (built 1960, Seeger Dam) southeast to join Lagunitas Creek in Samuel P. Taylor State Park. Before the dam, Nicasio Creek supported half of all steelhead and coho spawning in the Lagunitas watershed. The reservoir flooded the valley floor of the historic Nicasio ranching community. The creek passes through rolling grasslands and oak woodland characteristic of inland Marin.<div class=\"popup-src\">📖 Marin Water; Wikipedia Lagunitas Creek</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -811,8 +857,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -905,7 +959,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1000,7 +1056,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1032,7 +1090,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1090,8 +1150,16 @@
         "dashArray": null
       },
       "popup": "<h4>San Anselmo Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A major tributary of Corte Madera Creek flowing through the town of San Anselmo. Notorious for flooding — the 2005 New Year's flood caused over $100M in damage to downtown San Anselmo. The Army Corps of Engineers' Corte Madera Creek Flood Risk Management Project aims to reduce flood risk while enhancing habitat. Headwaters on the slopes below Pine Mountain.<div class=\"popup-src\">📖 Marin County Flood Control; USACE</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1151,8 +1219,16 @@
         "interactive": true
       },
       "popup": "<h4>San Anselmo Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A major tributary of Corte Madera Creek flowing through the town of San Anselmo. Notorious for flooding — the 2005 New Year's flood caused over $100M in damage to downtown San Anselmo. The Army Corps of Engineers' Corte Madera Creek Flood Risk Management Project aims to reduce flood risk while enhancing habitat. Headwaters on the slopes below Pine Mountain.<div class=\"popup-src\">📖 Marin County Flood Control; USACE</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1181,8 +1257,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1240,8 +1324,16 @@
         "dashArray": null
       },
       "popup": "<h4>Miller Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Flows through Lucas Valley and the community of Terra Linda to San Pablo Bay. The watershed includes St. Vincent's/Silveira Ranch, one of the largest undeveloped properties in eastern Marin. The creek supports habitat for California red-legged frog (marginal) and various native fish. The upper watershed passes through oak-bay woodland and grassland.<div class=\"popup-src\">📖 Marin County Flood Control District</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1301,8 +1393,16 @@
         "interactive": true
       },
       "popup": "<h4>Miller Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Flows through Lucas Valley and the community of Terra Linda to San Pablo Bay. The watershed includes St. Vincent's/Silveira Ranch, one of the largest undeveloped properties in eastern Marin. The creek supports habitat for California red-legged frog (marginal) and various native fish. The upper watershed passes through oak-bay woodland and grassland.<div class=\"popup-src\">📖 Marin County Flood Control District</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1331,8 +1431,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1414,8 +1522,16 @@
         "dashArray": null
       },
       "popup": "<h4>Novato Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A 17-mile creek flowing through the city of Novato to extensive salt marshes and baylands along San Pablo Bay. Despite being in the driest watershed in Marin County, it supports both rearing and spawning steelhead. Six major tributaries: Arroyo San Jose, Warner Creek, Vineyard Creek, Bowman Canyon Creek, Novato Creek South Fork, and Rush Creek. The lower watershed's tidal marshes are among the largest remnant wetlands remaining on the bay — critical habitat for migratory ducks and shorebirds. The upper watershed features serpentine outcroppings with specialized plant communities. O'Hare Park contains one of the best riparian communities in the watershed.<div class=\"popup-src\">📖 Marin County Flood Control District; Novato Creek watershed assessment</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1499,8 +1615,16 @@
         "interactive": true
       },
       "popup": "<h4>Novato Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A 17-mile creek flowing through the city of Novato to extensive salt marshes and baylands along San Pablo Bay. Despite being in the driest watershed in Marin County, it supports both rearing and spawning steelhead. Six major tributaries: Arroyo San Jose, Warner Creek, Vineyard Creek, Bowman Canyon Creek, Novato Creek South Fork, and Rush Creek. The lower watershed's tidal marshes are among the largest remnant wetlands remaining on the bay — critical habitat for migratory ducks and shorebirds. The upper watershed features serpentine outcroppings with specialized plant communities. O'Hare Park contains one of the best riparian communities in the watershed.<div class=\"popup-src\">📖 Marin County Flood Control District; Novato Creek watershed assessment</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1529,8 +1653,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1587,7 +1719,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1646,7 +1780,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1678,7 +1814,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1732,8 +1870,16 @@
         "dashArray": null
       },
       "popup": "<h4>San Rafael Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Flows through downtown San Rafael, Marin's county seat and largest city. The lower reaches are tidally influenced, forming a small-boat harbor and canal district. The creek's watershed drains the hills of San Rafael and open space on San Pedro Ridge. Mission San Rafael Arcángel (1817) was sited near this creek — water access was essential for mission agriculture.<div class=\"popup-src\">📖 Marin County Flood Control District</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1789,8 +1935,16 @@
         "interactive": true
       },
       "popup": "<h4>San Rafael Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Flows through downtown San Rafael, Marin's county seat and largest city. The lower reaches are tidally influenced, forming a small-boat harbor and canal district. The creek's watershed drains the hills of San Rafael and open space on San Pedro Ridge. Mission San Rafael Arcángel (1817) was sited near this creek — water access was essential for mission agriculture.<div class=\"popup-src\">📖 Marin County Flood Control District</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1819,8 +1973,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1878,8 +2040,16 @@
         "dashArray": null
       },
       "popup": "<h4>Arroyo Corte Madera del Presidio (Mill Valley)</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>The main creek of Mill Valley, flowing from the southern slopes of Mt. Tamalpais through downtown Mill Valley to Richardson Bay. The creek's name references the original Corte Madera del Presidio land grant — \"the place where they cut wood for the Presidio.\" John Reed built the first sawmill here in 1834, making this the oldest industrial site in Marin. Old Mill Park preserves the site. The creek passes through redwood groves, residential neighborhoods, and a brief stretch of salt marsh before reaching the bay.<div class=\"popup-src\">📖 Marin County historical records; Mill Valley Historical Society</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1939,8 +2109,16 @@
         "interactive": true
       },
       "popup": "<h4>Arroyo Corte Madera del Presidio (Mill Valley)</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>The main creek of Mill Valley, flowing from the southern slopes of Mt. Tamalpais through downtown Mill Valley to Richardson Bay. The creek's name references the original Corte Madera del Presidio land grant — \"the place where they cut wood for the Presidio.\" John Reed built the first sawmill here in 1834, making this the oldest industrial site in Marin. Old Mill Park preserves the site. The creek passes through redwood groves, residential neighborhoods, and a brief stretch of salt marsh before reaching the bay.<div class=\"popup-src\">📖 Marin County historical records; Mill Valley Historical Society</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -1969,8 +2147,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2035,7 +2221,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2102,7 +2290,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2134,7 +2324,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2188,8 +2380,16 @@
         "dashArray": null
       },
       "popup": "<h4>Walker Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Drains the northern Marin hills and empties into the western shore of Tomales Bay. The watershed includes rolling grasslands and dairy ranching country. Walker Creek estuary provides important habitat for shorebirds and waterfowl. The Gambonini Mercury Mine — a Superfund cleanup site — sits in the upper watershed, where mercury-laden sediment was remediated in 2000 by the EPA.<div class=\"popup-src\">📖 Marin County Flood Control; SF Bay Regional Water Quality Control Board</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2245,8 +2445,16 @@
         "interactive": true
       },
       "popup": "<h4>Walker Creek</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>Drains the northern Marin hills and empties into the western shore of Tomales Bay. The watershed includes rolling grasslands and dairy ranching country. Walker Creek estuary provides important habitat for shorebirds and waterfowl. The Gambonini Mercury Mine — a Superfund cleanup site — sits in the upper watershed, where mercury-laden sediment was remediated in 2000 by the EPA.<div class=\"popup-src\">📖 Marin County Flood Control; SF Bay Regional Water Quality Control Board</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2275,8 +2483,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2318,8 +2534,16 @@
         "dashArray": null
       },
       "popup": "<h4>Pine Gulch Creek (Bolinas)</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A small but ecologically significant creek draining into Bolinas Lagoon. Supports steelhead and historically coho salmon. Bolinas Lagoon itself is one of the most pristine tidal lagoons on the California coast — a critical stopover for migrating shorebirds on the Pacific Flyway. The lagoon is slowly filling with sediment from the surrounding steep watersheds.<div class=\"popup-src\">📖 Marin County; Bolinas Lagoon Technical Advisory Committee</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2363,8 +2587,16 @@
         "interactive": true
       },
       "popup": "<h4>Pine Gulch Creek (Bolinas)</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span> <span style=\"display:inline-block;background:#4CAF50;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;margin-left:4px\">🐟 SALMON/STEELHEAD HABITAT</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A small but ecologically significant creek draining into Bolinas Lagoon. Supports steelhead and historically coho salmon. Bolinas Lagoon itself is one of the most pristine tidal lagoons on the California coast — a critical stopover for migrating shorebirds on the Pacific Flyway. The lagoon is slowly filling with sediment from the surrounding steep watersheds.<div class=\"popup-src\">📖 Marin County; Bolinas Lagoon Technical Advisory Committee</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2393,8 +2625,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2432,8 +2672,16 @@
         "dashArray": null
       },
       "popup": "<h4>Easkoot Creek (Stinson Beach)</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A small coastal creek flowing through the community of Stinson Beach to Bolinas Lagoon. One of the initial watersheds in Marin County's Watershed Program. The creek passes through Douglas fir forest and coastal scrub before reaching the lagoon.<div class=\"popup-src\">📖 Marin County Watershed Program</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2473,8 +2721,16 @@
         "interactive": true
       },
       "popup": "<h4>Easkoot Creek (Stinson Beach)</h4><span class=\"ptype\" style=\"color:#26C6DA\">Current Waterway — Marin County</span><div class=\"popup-what\">Living creek system — approximate course from watershed maps & USGS data</div>A small coastal creek flowing through the community of Stinson Beach to Bolinas Lagoon. One of the initial watersheds in Marin County's Watershed Program. The creek passes through Douglas fir forest and coastal scrub before reaching the lagoon.<div class=\"popup-src\">📖 Marin County Watershed Program</div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2503,8 +2759,16 @@
       "options": {
         "interactive": true
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "miwok"
+      ],
       "tribes": [
         "miwok"
       ],
@@ -2626,7 +2890,13 @@
         "dashArray": "8,4"
       },
       "popup": "<div style=\"max-width:340px\"><h4>Hokan (Esselen isolate)</h4><span style=\"display:inline-block;background:#E91E63;color:#fff;font-size:10px;font-weight:700;padding:2px 7px;border-radius:10px\">HOKAN</span><div style=\"margin:8px 0;font-size:12px;color:#ccc\">The Esselen language is a Hokan isolate — meaning it has no close relatives even within the Hokan family. The Esselen people occupied the rugged Big Sur coast and Santa Lucia Mountains, one of the most geographically isolated regions on the California coast. Linguistic and archaeological evidence suggests the Esselen represent a population that was in place before the Penutian-speaking Ohlone expanded southward. Breschini (1983) and Moratto (1984) both model the Esselen as a Hokan remnant population that survived by being pushed into the remote coast ranges.</div><div style=\"font-size:11px;color:#aaa;margin:4px 0\"><strong>Languages:</strong> Esselen (single language, no known dialects)</div><div style=\"font-size:11px;color:#aaa;margin:4px 0\"><strong>Status:</strong> Last known fluent speaker died in the early 1800s. The Ohlone/Costanoan Esselen Nation is working to reconstruct the language from mission-era wordlists and J.P. Harrington notes.</div><div style=\"font-size:11px;color:#aaa;margin:4px 0\"><strong>Time depth:</strong> Esselen's deep isolation within Hokan suggests it diverged very early, possibly 5,000+ years ago.</div><div class=\"popup-src\">📖 Breschini 1983; Moratto 1984; Kroeber 1925; Ohlone/Costanoan Esselen Nation</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "esselen",
         "ohlone"
@@ -2982,7 +3252,12 @@
         "dashArray": "8,4"
       },
       "popup": "<div style=\"max-width:340px\"><h4>Yukian (Wappo)</h4><span style=\"display:inline-block;background:#FF9800;color:#fff;font-size:10px;font-weight:700;padding:2px 7px;border-radius:10px\">YUKIAN</span><div style=\"margin:8px 0;font-size:12px;color:#ccc\">The Wappo language is part of the Yukian family — one of the most mysterious language families in California. Yukian has NO demonstrated relationship to any other language family in the world. Some linguists believe Yukian-speaking peoples may represent an even older population layer than Hokan, possibly among the very earliest inhabitants of California. The Wappo occupied the Napa Valley, Alexander Valley, and areas around the geysers of present-day Sonoma and Lake counties. Their territory sat between Pomo (Hokan) to the west and Patwin (Penutian) to the east.</div><div style=\"font-size:11px;color:#aaa;margin:4px 0\"><strong>Languages:</strong> Wappo (single language with dialectal variation)</div><div style=\"font-size:11px;color:#aaa;margin:4px 0\"><strong>Status:</strong> Last fluent speaker, Laura Fish Somersal, died in 1990. The language was documented extensively by Jesse Sawyer and later by linguists at UC Berkeley. Some revitalization work continues.</div><div style=\"font-size:11px;color:#aaa;margin:4px 0\"><strong>Time depth:</strong> Yukian has no demonstrated external relationships. If it represents a pre-Hokan population, it could have roots going back 10,000+ years in California — though this is speculative.</div><div class=\"popup-src\">📖 Kroeber 1925; Sawyer 1965; UC Berkeley Survey; Thompson et al. 2006</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo",
         "wappo"

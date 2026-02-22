@@ -25,7 +25,11 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "hopi",
         "mojave_tribe",
@@ -63,7 +67,11 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mojave_tribe"
       ],
@@ -95,7 +103,11 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mojave_tribe"
       ],
@@ -127,8 +139,14 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -157,7 +175,11 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mojave_tribe"
       ],
@@ -189,8 +211,14 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -222,7 +250,9 @@
       "timePeriods": [
         "contact"
       ],
-      "cultures": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -251,8 +281,14 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -301,8 +337,14 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -334,7 +376,9 @@
       "timePeriods": [
         "late_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -397,8 +441,14 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -459,7 +509,11 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mojave_tribe"
       ],
@@ -531,7 +585,12 @@
       "popupOptions": {
         "maxWidth": 440
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "cahuilla",
         "lenape"
@@ -566,7 +625,12 @@
       "popupOptions": {
         "maxWidth": 440
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "cahuilla"
       ],
@@ -599,7 +663,12 @@
       "popupOptions": {
         "maxWidth": 440
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "serrano"
       ],
@@ -664,7 +733,11 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi",
         "paiute",
@@ -729,7 +802,11 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi",
         "hopi",
@@ -761,8 +838,14 @@
           6
         ]
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -787,8 +870,14 @@
           5
         ]
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -813,8 +902,14 @@
           5
         ]
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],

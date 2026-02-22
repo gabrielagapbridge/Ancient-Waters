@@ -126,7 +126,9 @@
         "size": 10
       },
       "popup": "<h4>Ojo Caliente Hot Springs</h4><span class=\"ptype pt-spring\">Sacred — Tewa Pueblo</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>Sacred hot springs used by ancestral Pueblo peoples for generations. The Tewa hero P'oseyemu accessed the underworld here. The original village of P'oseuinge (1,000+ people) stood nearby. One of the oldest health resorts in the US (est. 1868). Contains iron, arsenic, soda, and lithia mineral springs.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -146,7 +148,9 @@
         "size": 10
       },
       "popup": "<h4>Montezuma Hot Springs</h4><span class=\"ptype pt-spring\">Sacred — Pueblo peoples</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>Hot springs considered sacred neutral healing ground by multiple tribes. Warriors from warring nations would come here peacefully to heal. Temperatures range 95–120°F. Later became the Montezuma Hotel resort; now on United World College grounds, still free to soak.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -207,7 +211,9 @@
         "size": 10
       },
       "popup": "<h4>Jemez Hot Springs</h4><span class=\"ptype pt-spring\">Sacred — Jemez Pueblo</span><div class=\"popup-what\">Spring/sacred water source — coordinates from USGS/NPS records</div>Geothermal springs in the Jemez Mountains volcanic caldera. The Jemez people (Walatowa) have used these springs since time immemorial. Multiple springs dot the canyon — Soda Dam, Spence Hot Spring, San Antonio Hot Spring. The caldera is one of the largest volcanic features in North America.<div class=\"popup-src\">📖 USGS National Water Information System; NPS site records; Arizona Heritage Waters (NAU); Wikipedia geographic data</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -482,7 +488,9 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Chaco Great North Road</h4><span class=\"ptype pt-trade\">Ceremonial/Trade Road — ~900-1150 CE</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>A 50+ km road running due north from Pueblo Alto in Chaco Canyon to Kutz Canyon. Built 8-10 meters wide with masonry ramps over cliffs. The straightness suggests ceremonial rather than purely economic purpose — aligned with cosmological directions.<div class=\"popup-src\">📖 Kantner (2004); Roney (1992); NPS Chaco Culture NHP</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -620,7 +628,11 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Shell Trade Route — Gulf of California</h4><span class=\"ptype pt-trade\">Long-Distance Trade</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>Pacific and Gulf of California shells were traded northward to Hohokam centers. Shells were fashioned into bracelets, pendants, and beads at workshops in Pueblo Bonito and Hohokam villages. Trade continued into the 1800s.<div class=\"popup-src\">📖 Toll (1991); NPS Chaco Canyon museum collections</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "hohokam"
@@ -656,7 +668,11 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>Hohokam–Chaco Connection</h4><span class=\"ptype pt-trade\">Inter-Regional Trade</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>Trade goods including shell, copper bells, macaws, cacao, and cotton moved between Hohokam territory in the Salt River valley and Chaco Canyon. This corridor connected the two most powerful pre-contact civilizations of the Southwest.<div class=\"popup-src\">📖 Crown et al. (2009); Cameron (2001); Archaeology Southwest</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -691,7 +707,11 @@
         "dashArray": "12,8"
       },
       "popup": "<h4>Paquimé–Hohokam Trade Corridor</h4><span class=\"ptype pt-trade\">Mesoamerican Long-Distance Trade — ~700-1450 CE</span><div class=\"popup-what\">Approximate trade/road corridor based on archaeological evidence</div>Copper bells, macaws, cacao, and shell traded north from Paquimé (Casas Grandes) in Chihuahua. In return, turquoise and other minerals flowed south. This corridor connected the Greater Southwest to Mesoamerican civilizations over 1,000+ miles away.<div class=\"popup-src\">📖 Lekson, \"The Chaco Meridian\" (2015); Di Peso (1974)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -1022,7 +1042,11 @@
         "dashArray": "10,5"
       },
       "popup": "<h4>Central Arizona Project Canal</h4><span class=\"ptype pt-modern\">Modern Infrastructure — 1973-1993</span><div class=\"popup-what\">Canal centerline — approximate route from CAP/USBR maps</div>A 336-mile aqueduct moving Colorado River water from Lake Havasu across the desert to Phoenix and Tucson. The largest and most expensive aqueduct ever built in the US ($4.4 billion). Lifts water up to 2,900 feet using 14 pumping plants. Crosses ancient Hohokam territory — a modern echo of the same civilization-sustaining impulse to move water through the desert.<div class=\"popup-src\">📖 Central Arizona Water Conservation District; Bureau of Reclamation CAP project records; Wikipedia</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -1090,7 +1114,9 @@
         "size": 10
       },
       "popup": "<h4>Gila Cliff Dwellings</h4><span class=\"ptype pt-site\">Mogollon/Tularosa Phase</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or state records</div>Cliff dwellings built in natural caves high above the Gila River, occupied ~1275-1300 CE. The Mogollon people built 40+ rooms in five caves overlooking the canyon. Hot springs along the Gila River below the ruins were likely sacred.<div class=\"popup-src\">📖 NPS site records; BLM cultural resource databases; Archaeology Southwest; state historic preservation offices</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "mogollon"
@@ -1198,7 +1224,9 @@
         "size": 10
       },
       "popup": "<h4>Picuris Pueblo</h4><span class=\"ptype pt-site\">Living Pueblo — Tiwa</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or state records</div>One of the oldest continuously occupied pueblos, with roots dating to ~1250 CE. Located in a high mountain valley with reliable springs. The pueblo once stood seven stories high and housed 3,000 people. Still an active, living community.<div class=\"popup-src\">📖 NPS site records; BLM cultural resource databases; Archaeology Southwest; state historic preservation offices</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -1258,7 +1286,9 @@
         "size": 10
       },
       "popup": "<h4>Picuris Mission (San Lorenzo)</h4><span class=\"ptype pt-spanish\">Spanish/Colonial — 1621</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Built near the ancient springs of Picuris Pueblo. Part of the string of missions following Rio Grande water sources.<div class=\"popup-src\">📖 NPS National Register; state historic preservation offices; Kessell (1979)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -1278,7 +1308,9 @@
         "size": 10
       },
       "popup": "<h4>Pecos Mission (Nuestra Señora)</h4><span class=\"ptype pt-spanish\">Spanish/Colonial — 1625</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Massive mission church built at Pecos Pueblo, near springs that made the pueblo a major trade center. Destroyed during the Pueblo Revolt of 1680, rebuilt and later abandoned.<div class=\"popup-src\">📖 NPS National Register; state historic preservation offices; Kessell (1979)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -1298,7 +1330,11 @@
         "size": 10
       },
       "popup": "<h4>Hohokam Canal Headgates</h4><span class=\"ptype pt-spanish\">Spanish/Colonial — 1867</span><div class=\"popup-what\">Historic colonial site — location from NPS/state records</div>Jack Swilling's irrigation company reopened ancient Hohokam canals to water farmland — the founding act of modern Phoenix. The city's canal system follows ~70% of original Hohokam routes.<div class=\"popup-src\">📖 NPS National Register; state historic preservation offices; Kessell (1979)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],

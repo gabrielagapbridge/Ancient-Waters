@@ -20,7 +20,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -51,7 +54,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -115,7 +121,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -146,7 +155,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -177,7 +189,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -208,7 +223,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -239,7 +257,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -270,7 +291,13 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "early_archaic",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coso_tradition",
         "owens_valley_paiute",
@@ -338,7 +365,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute"
@@ -369,7 +399,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -402,7 +435,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -435,7 +471,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -468,7 +507,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -501,7 +543,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -534,7 +579,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -567,7 +615,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -600,7 +651,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -633,7 +687,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -666,7 +723,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -699,7 +759,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -732,7 +795,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -765,7 +831,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -798,7 +867,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -831,7 +903,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -864,7 +939,10 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",
@@ -897,7 +975,10 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -930,7 +1011,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -1211,7 +1295,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1240,7 +1329,12 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1267,7 +1361,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1296,7 +1395,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1325,7 +1429,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1354,7 +1463,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1383,7 +1497,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1412,7 +1531,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "modoc"
       ],
@@ -1441,7 +1565,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -1472,7 +1599,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -1503,7 +1633,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -1534,7 +1667,10 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -1565,7 +1701,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu"
       ],
@@ -1594,7 +1735,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu"
       ],

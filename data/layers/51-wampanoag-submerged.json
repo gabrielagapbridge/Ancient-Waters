@@ -66,7 +66,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -137,7 +139,9 @@
         "late_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -203,7 +207,9 @@
       "timePeriods": [
         "early_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -265,7 +271,9 @@
       "timePeriods": [
         "middle_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -285,8 +293,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -306,8 +322,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -327,8 +351,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -399,7 +431,9 @@
       "timePeriods": [
         "middle_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -420,8 +454,16 @@
         "weight": 3
       },
       "popup": "",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -492,7 +534,9 @@
       "timePeriods": [
         "middle_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -551,7 +595,9 @@
       "timePeriods": [
         "early_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -603,8 +649,16 @@
         "pane": "submergedPane"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">Stellwagen Bank — Drowned Island</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -626,8 +680,16 @@
         "dashArray": "4,3"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — Nantucket Sound Shelf</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -649,8 +711,16 @@
         "dashArray": "4,3"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — South of Martha's Vineyard</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -672,8 +742,16 @@
         "dashArray": "4,3"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Probable Submerged Sites — East of Cape Cod</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -694,8 +772,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#FF6F00\">Deep Sea Plummet — Off Gurnet Head, Plymouth</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -730,8 +816,16 @@
         "dashArray": "8,4"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#00C853\">Active Research Area — BUAR Submerged Paleolandscapes</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -752,7 +846,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#006064\">Sea Level Rise Timeline — Wampanoag Territory</h3></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wampanoag"
       ],
@@ -776,8 +876,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#0D47A1\">The Scale of the Crisis — National Context</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -827,8 +935,16 @@
         "dashArray": "4,4"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Martha's Vineyard — Modern Erosion & Sea Level Rise</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -870,8 +986,16 @@
         "dashArray": "4,4"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Nantucket — Accelerated Erosion</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],
@@ -913,8 +1037,16 @@
         "dashArray": "4,4"
       },
       "popup": "<div class=\"popup-content\"><h3 style=\"color:#D32F2F\">⚠ Cape Cod Outer Coast — Ongoing Erosion</h3></div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
       "tribes": [
         "wampanoag"
       ],

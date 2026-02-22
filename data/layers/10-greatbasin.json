@@ -17,7 +17,13 @@
         "weight": 1
       },
       "popup": "<h4 style=\"color:#FFB74D\">🏘️ Udjiu (Tachi village, near Coalinga)</h4><div style=\"font-size:12px;color:#ccc\">Tachi Yokuts</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -41,7 +47,13 @@
         "weight": 1
       },
       "popup": "<h4 style=\"color:#FFB74D\">🏘️ Chawlowin (Wowol village, Atwell Island/Alpaugh)</h4><div style=\"font-size:12px;color:#ccc\">Wowol Yokuts — last autonomous Yokuts on the lake, 1870s</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -65,7 +77,13 @@
         "weight": 1
       },
       "popup": "<h4 style=\"color:#FFB74D\">🏘️ Miketsiu (Chunut village, Kaweah Delta)</h4><div style=\"font-size:12px;color:#ccc\">Chunut Yokuts</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -89,7 +107,13 @@
         "weight": 1
       },
       "popup": "<h4 style=\"color:#FFB74D\">🏘️ Walna (Tachi village)</h4><div style=\"font-size:12px;color:#ccc\">Tachi Yokuts — near modern Lemoore</div><div style=\"font-size:10px;color:#888;margin-top:4px\">Sources: Kroeber 1925; Latta 1978</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -286,7 +310,10 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -315,7 +342,10 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -530,7 +560,10 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -559,7 +592,10 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -692,7 +728,10 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "paiute",
         "southern_paiute"
@@ -1315,7 +1354,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -1483,7 +1528,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "paiute",
         "southern_paiute"
@@ -1558,7 +1606,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -1587,7 +1638,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -1643,7 +1697,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "paiute",
         "southern_paiute"
@@ -1672,7 +1729,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -1726,7 +1788,10 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -1778,7 +1843,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "paiute",
         "shoshone",
@@ -1832,7 +1900,10 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -1944,7 +2015,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute"
@@ -2034,7 +2108,10 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_prehistoric"
+      ],
       "cultures": [
         "shoshone",
         "western_shoshone"
@@ -3949,7 +4026,13 @@
         "radius": 8000
       },
       "popup": "<h4 style=\"color:#4FC3F7\">🌊 Kern Lake</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">East of Buena Vista Lake · Fed by Kern River primary channel</div><div style=\"font-size:12px;color:#ccc;line-height:1.5\">A smaller lake east of Buena Vista Lake, fed by the Kern River's primary channel (which flowed south through swamps via what became Union Avenue in Bakersfield). Home to the <b>Hometwoli (Humetwadi)</b> Yokuts, with villages Halau, Loasau, and Sihetal Daal. Connected to Buena Vista Lake by a channel. An 1861 flood obstructed the primary channel, and the 1868 flood shifted the Kern River to its present course.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Latta 1978; SERC Kern River vignette</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],

@@ -169,8 +169,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -223,7 +231,13 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -375,7 +389,13 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -402,7 +422,13 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -487,7 +513,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -543,8 +575,16 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -576,7 +616,9 @@
         "middle_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -600,8 +642,16 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -685,7 +735,13 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -712,7 +768,13 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -739,8 +801,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],

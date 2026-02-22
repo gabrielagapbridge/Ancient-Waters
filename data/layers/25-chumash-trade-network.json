@@ -29,7 +29,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash"
       ],
@@ -281,7 +287,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash"
       ],
@@ -329,7 +341,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash",
         "salinan",
@@ -437,7 +455,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash"
       ],
@@ -469,7 +493,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash"
       ],
@@ -501,7 +531,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash"
       ],
@@ -533,7 +569,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash"
       ],
@@ -683,7 +725,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash",
         "yokuts"
@@ -717,7 +765,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash",
         "tongva"

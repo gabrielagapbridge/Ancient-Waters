@@ -20,7 +20,12 @@
       "popupOptions": {
         "maxWidth": 450
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "coeur_dalene",
         "kalispel",
@@ -51,7 +56,12 @@
       "popupOptions": {
         "maxWidth": 450
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "coeur_dalene",
         "shoshone"
@@ -311,7 +321,12 @@
       "popupOptions": {
         "maxWidth": 320
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],
@@ -338,7 +353,12 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],
@@ -365,7 +385,12 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],
@@ -392,7 +417,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],
@@ -477,7 +507,12 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],
@@ -567,8 +602,15 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "kalispel"
+      ],
       "tribes": [
         "kalispel"
       ],
@@ -670,7 +712,9 @@
       "timePeriods": [],
       "cultures": [],
       "tribes": [],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "circleMarker",
@@ -758,7 +802,12 @@
       "popupOptions": {
         "maxWidth": 300
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],
@@ -820,7 +869,12 @@
       "popupOptions": {
         "maxWidth": 350
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "kalispel"
       ],
@@ -876,7 +930,12 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nez_perce"
       ],

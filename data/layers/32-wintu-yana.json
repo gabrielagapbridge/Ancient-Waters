@@ -56,8 +56,15 @@
         "interactive": false,
         "pane": "wintuBackgroundPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wintu"
+      ],
       "tribes": [
         "wintu"
       ],
@@ -86,8 +93,15 @@
         "interactive": false,
         "pane": "wintuBackgroundPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wintu"
+      ],
       "tribes": [
         "wintu"
       ],
@@ -139,8 +153,15 @@
         "interactive": false,
         "pane": "wintuBackgroundPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wintu"
+      ],
       "tribes": [
         "wintu"
       ],
@@ -169,8 +190,15 @@
         "interactive": false,
         "pane": "wintuBackgroundPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wintu"
+      ],
       "tribes": [
         "wintu"
       ],
@@ -218,8 +246,15 @@
         "interactive": false,
         "pane": "wintuBackgroundPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wintu"
+      ],
       "tribes": [
         "wintu"
       ],
@@ -248,8 +283,15 @@
         "interactive": false,
         "pane": "wintuBackgroundPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wintu"
+      ],
       "tribes": [
         "wintu"
       ],
@@ -277,7 +319,10 @@
       "tribes": [
         "wintu"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph",
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -340,7 +385,12 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#8B6914;margin:0 0 6px;\">◆ CA-SHA-207 — Wintu Fishing Station</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sacramento River, Shasta County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Salvage-excavated Wintu fishing station on the Sacramento River.\n      Salmon fishing was central to Wintu economy and spirituality.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Dotta & Hullinger</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wintu"
       ],
@@ -387,7 +437,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#A0522D;margin:0 0 6px;\">◆ Northern Yana Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Upper Yana territory, Shasta/Tehama Counties</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Yana comprised four groups: Northern Yana, Central Yana,\n      Southern Yana, and Yahi. All spoke related Hokan languages.\n      Their territory was in the eastern Sacramento Valley foothills,\n      between the Wintu to the west and the Maidu to the south.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sapir & Spier 1943; Kroeber 1925</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu",
         "wintu",
@@ -413,7 +468,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#6B8E23;margin:0 0 6px;\">◆ Black Butte Lake — Nomlaki Sites</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Near Orland, Glenn/Tehama Counties</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple Hill Wintun (Nomlaki) sites documented during reservoir construction.\n      Distinguished from neighboring Maidu by use of <b>slab hopper mortars</b>\n      rather than block mortars.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">J. Johnson 1990; Treganza & Heickson 1969</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "maidu",
         "nomlaki",
@@ -439,7 +499,12 @@
         "size": 9
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#6B8E23;margin:0 0 6px;\">◆ Bambauer Village (CA-TEH-248)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Rice Creek, Tehama County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Nomlaki housepit village on Rice Creek. Photographed 1974.\n      Excavated by Chico State archaeologists.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Chico State</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "nomlaki"
       ],
@@ -465,11 +530,16 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "wintu"
+      ],
       "tribes": [
         "wintu"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "pictograph",
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",

@@ -185,7 +185,9 @@
         "size": 10
       },
       "popup": "<h4>Aztec Ruins</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Great house on the Animas River connected to Chaco by ancient road. ~1100-1300 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -205,7 +207,9 @@
         "size": 10
       },
       "popup": "<h4>Mesa Verde</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>600+ cliff dwellings built ~1190-1300 CE near springs seeping from sandstone. Left ~1300 CE, likely drought.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -225,7 +229,11 @@
         "size": 10
       },
       "popup": "<h4>Pueblo Grande</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Platform mound on Hohokam canals. Park of Four Waters preserves visible canal remnants. Museum in Phoenix.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "hohokam"
@@ -246,7 +254,11 @@
         "size": 10
       },
       "popup": "<h4>Casa Grande Ruins</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>4-story Hohokam structure ~1350 CE on the Gila River. Largest pre-contact structure in the SW.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -266,7 +278,9 @@
         "size": 10
       },
       "popup": "<h4>Montezuma Castle</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Sinagua cliff dwelling above Beaver Creek. 20 rooms, 5 stories. ~1100-1425 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "sinagua"
@@ -307,7 +321,9 @@
         "size": 10
       },
       "popup": "<h4>Tuzigoot</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Large Sinagua pueblo, 110 rooms overlooking Verde River. ~1125-1400 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "sinagua"
@@ -328,7 +344,9 @@
         "size": 10
       },
       "popup": "<h4>Puerco Pueblo</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>100-room pueblo on the Puerco River with solar calendar petroglyphs. ~1250-1380 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -348,7 +366,9 @@
         "size": 10
       },
       "popup": "<h4>Navajo National Monument</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Betatakin & Keet Seel cliff dwellings near springs. ~1250-1300 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "navajo"
@@ -371,7 +391,9 @@
         "size": 10
       },
       "popup": "<h4>Homolovi</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Ancestral Hopi pueblos on the Little Colorado River. ~1260-1400 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan",
         "hopi"
@@ -394,7 +416,9 @@
         "size": 10
       },
       "popup": "<h4>El Morro</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Permanent pool at base of sandstone mesa attracted indigenous peoples then Spanish. Atsinna Pueblo ~1275-1350 CE.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -414,7 +438,9 @@
         "size": 10
       },
       "popup": "<h4>Taos Pueblo</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>Continuously inhabited 1000+ years. Rio Pueblo flows through center. UNESCO World Heritage Site.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative"
+      ],
       "cultures": [
         "ancestral_puebloan"
       ],
@@ -536,7 +562,11 @@
         "size": 10
       },
       "popup": "<h4>Park of the Canals</h4><span class=\"ptype pt-site\">Indigenous Site — Southwest</span><div class=\"popup-what\">Archaeological/cultural site — location from NPS, BLM, or tribal records</div>One of few places to see remnants of Hohokam canals dug before the time of Christ. Mesa, AZ.<div class=\"popup-src\">📖 NPS site documentation; Archaeology Southwest; Lekson, \"A History of the Ancient Southwest\" (2009)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
       "cultures": [
         "hohokam"
       ],
@@ -557,7 +587,12 @@
         "size": 8
       },
       "popup": "<h4>Alisters Cave</h4><span class=\"ptype pt-jtree\">Pictograph — Cahuilla — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Possibly above old riverbed</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "cahuilla"
       ],
@@ -580,7 +615,12 @@
         "size": 8
       },
       "popup": "<h4>Bloody Hands</h4><span class=\"ptype pt-jtree\">Pictograph — Cahuilla — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Near Alisters Cave</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "cahuilla"
       ],
@@ -603,7 +643,11 @@
         "size": 8
       },
       "popup": "<h4>Butchers Cave</h4><span class=\"ptype pt-jtree\">Artifacts — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Big horn sheep skulls found</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi"
       ],
@@ -702,7 +746,12 @@
         "size": 8
       },
       "popup": "<h4>Pleasant Valley</h4><span class=\"ptype pt-jtree\">Petroglyphs — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><br><em>Near Serrano village of Squaw Tank</em><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "serrano"
       ],
@@ -763,7 +812,11 @@
         "size": 8
       },
       "popup": "<h4>Red Lady</h4><span class=\"ptype pt-jtree\">Pictographs — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi"
       ],
@@ -786,7 +839,11 @@
         "size": 8
       },
       "popup": "<h4>Brunette Lady</h4><span class=\"ptype pt-jtree\">Pictographs — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi"
       ],
@@ -866,7 +923,11 @@
         "size": 8
       },
       "popup": "<h4>Twin Tanks</h4><span class=\"ptype pt-jtree\">Cupules — Chemehuevi — Joshua Tree NP</span><div class=\"popup-what\">Rock art site — GPS from field survey data</div><div class=\"popup-src\">📖 User-provided CSV dataset (California Petroglyphs); NPS Joshua Tree NP cultural resources</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi"
       ],

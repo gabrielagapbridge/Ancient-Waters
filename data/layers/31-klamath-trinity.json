@@ -55,8 +55,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -84,8 +91,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -132,8 +146,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -161,8 +182,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -221,8 +249,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -250,8 +285,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -298,8 +340,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -327,8 +376,15 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "klamath"
+      ],
       "tribes": [
         "klamath"
       ],
@@ -347,7 +403,12 @@
         "size": 12
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Katimin (Katimiîn)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Confluence of Salmon & Klamath Rivers, Siskiyou Co.</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Spiritual center of the Karuk world — the \"Center of the World\" in Karuk cosmology.\n      Site of the annual <b>Pikyávish (World Renewal) ceremony</b>, one of the most important\n      ceremonial complexes in California. Salmon River joins Klamath here.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Karuk maintained <b>100+ named villages</b> along the middle Klamath.\n      They were (and are) master salmon fishers, using intricate weir and dip-net systems.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Karuk Tribe</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "karuk",
         "klamath"
@@ -371,7 +432,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Ishi Pishi Falls</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River, Siskiyou County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Ancient and ongoing Karuk fishing station. One of the few places where\n      Karuk people continue to fish for salmon using traditional dip-net methods.\n      Site of World Renewal ceremonies.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925; Karuk Tribe</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "karuk",
         "klamath"
@@ -395,7 +461,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#B8860B;margin:0 0 6px;\">◆ Panamenik (Orleans area)</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Klamath River at Orleans, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Major Karuk village at the downstream end of Karuk territory, near the\n      boundary with Yurok territory. Important gathering and trade location.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "karuk",
         "klamath",
@@ -446,7 +517,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#2E8B57;margin:0 0 6px;\">◆ Weitchpec</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Trinity-Klamath Confluence, Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Strategic location where the Trinity River meets the Klamath.\n      Border area between Hupa, Yurok, and Karuk territories.\n      Major trade and ceremonial gathering point.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Kroeber 1925</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "hupa",
         "karuk",
@@ -474,7 +550,12 @@
         "size": 12
       },
       "popup": "\n  <div style=\"max-width:320px;\">\n    <h3 style=\"color:#4682B4;margin:0 0 6px;\">◆ Sue-meg Village</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Sue-meg State Park (Patrick's Point), Humboldt County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      <b>Reconstructed Yurok village</b> built by local Yurok people using traditional\n      materials — redwood plank houses, sweat lodge, dance house, and a\n      dugout redwood canoe. Active ceremonial use by Yurok people today.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Yurok people did not merely \"inhabit\" this coast — they shaped it.\n      Redwood plank architecture, sophisticated fisheries, a complex wealth system,\n      and elaborate ceremonial life made the Yurok one of the most culturally\n      complex societies in pre-contact California.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Sue-meg State Park; Yurok Tribe</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "yurok"
       ],
@@ -573,7 +654,12 @@
         "size": 10
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#708090;margin:0 0 6px;\">◆ Smith River Tolowa Villages</h3>\n    <div style=\"font-size:11px;color:#ccc;margin-bottom:6px;\">Smith River, Del Norte County</div>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Multiple permanent Tolowa villages along the Smith River — the last\n      major undammed river in California. Dense shell midden sites along\n      the coast document thousands of years of occupation.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The Tolowa spoke an Athabaskan language related to Navajo and Apache\n      but were culturally aligned with their Northwest California neighbors\n      (Yurok, Karuk), sharing the wealth-display ceremonial complex.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Gould 1966; Kroeber 1925</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "karuk",
         "navajo",
@@ -665,7 +751,12 @@
         "dashArray": "10,5"
       },
       "popup": "\n  <div style=\"max-width:300px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Klamath River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      The lifeblood of Karuk, Yurok, and Hupa peoples. 263 miles long, draining\n      a 15,700 sq mi basin. The river defined tribal territories — Karuk held the\n      middle canyon, Yurok the lower reaches, Hupa the Trinity tributary.\n    </p>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      In 2024, the <b>largest dam removal in U.S. history</b> began on the Klamath,\n      with four dams being demolished to restore salmon runs — a major\n      victory for tribal nations who fought for decades to free the river.\n    </p>\n    <div style=\"font-size:10px;color:#999;margin-top:6px;\">Klamath River Renewal Corporation</div>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "hupa",
         "karuk",
@@ -708,7 +799,12 @@
         "dashArray": "8,5"
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Trinity River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Flows through Hoopa Valley — heart of Hupa territory.\n      Meets the Klamath at Weitchpec. Major salmon and steelhead river.\n    </p>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "hupa",
         "klamath"
@@ -751,7 +847,12 @@
         "dashArray": "8,5"
       },
       "popup": "\n  <div style=\"max-width:260px;\">\n    <h3 style=\"color:#1E90FF;margin:0 0 6px;\">~ Smith River</h3>\n    <p style=\"font-size:12px;color:#eee;line-height:1.5;\">\n      Tolowa homeland. Last major undammed river in California.\n      Wild salmon runs still intact.\n    </p>\n  </div>\n",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "tolowa"
       ],

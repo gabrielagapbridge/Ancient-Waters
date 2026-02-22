@@ -22,7 +22,12 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#00E5FF;margin:0 0 2px\">♨️ Steamboat Hot Springs — Sacred Geothermal Ground</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Washoe County, NV · sacred to Washoe, N. Paiute & W. Shoshone · south of Reno</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Washoe, Northern Paiute, and Western Shoshone all <b>revered Nevada hot springs as sacred ground</b>, and Steamboat was among the most powerful. In precontact times, Steamboat featured a <b>70-foot geyser</b> and roughly 20 smaller ones — one of the largest geyser fields in the world. Pioneer journals noted <b>60-70 columns of steam</b> visible from miles away.<br><br>For all Great Basin peoples, hot springs were <b>places of healing</b> — the heated water and mineral mud could relieve pain and illness. But they were not recreational: it was essential to <b>leave offerings and prayers</b>. To misuse sacred springs was to risk spiritual consequences.<br><br>After Euro-Americans arrived, Steamboat was converted into a luxury bathhouse, severing its spiritual purpose. Early photographs show Washoe and Paiute women doing laundry at the springs — pushed to the margins of their own sacred site. The geothermal field remains active today, though the great geyser is long gone.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Travel Nevada; UNR Special Collections; Finding Nevada Wild; d'Azevedo 1986</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -156,7 +161,12 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#FFD600;margin:0 0 2px\">🪨 Pah Rah Range — High Basin Petroglyph ACEC</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">3,881 acres · NE of Sparks · Washoe & N. Paiute · 3,500+ years of use</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">A <b>3,881-acre Area of Critical Environmental Concern</b> in the Pah Rah Range northeast of Sparks — one of the most significant rock art concentrations near the Reno/Tahoe area. Contains <b>18+ documented rock art sites</b> with petroglyphs, stone tool artifacts, rock rings, and both seasonal and residential camps.<br><br><b>Culturally significant to both the Southern Washoe and Northern Paiute Tribes.</b> Evidence shows over 3,500 years of continuous use. The rock art follows all three main Great Basin styles: <b>curvilinear</b> (oldest), <b>rectilinear</b>, and <b>representational</b> (newest) — confirming a long progression of peoples using this landscape.<br><br>A 2004-2005 recording project by Murray documented the full range of motifs: rakes, dots, lines, vulviform and burden-basket designs, hunters, archers, and deeply abraded \"old\" engravings. Ground stone tools (metates, manos) confirm extensive plant processing alongside ritual activity.<br><br>The ACEC was designated to protect the site from <b>urban expansion, OHV damage, and vandalism</b> — threats that grow as Reno/Sparks sprawls northeast.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: BLM Carson City 2013 RMP; Murray 2005; Delacorte 1997; McLane 1999</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "northern_paiute",
         "paiute",
@@ -167,7 +177,9 @@
         "paiute",
         "washoe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -256,7 +268,9 @@
       "timePeriods": [],
       "cultures": [],
       "tribes": [],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -278,7 +292,13 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#A1887F;margin:0 0 2px\">🗺️ North Fork American River — Rock Art Corridor</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">46 petroglyph sites · 10-mile stretch · Martis Complex heartland</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The upper <b>North Fork of the American River</b> — from its source at Mountain Meadow Lake downstream through Royal Gorge — contains <b>46 documented petroglyph sites</b> forming a remarkable concentration of ancient rock art. The vast majority cluster within a 3-mile stretch downstream from the Chickering site.<br><br>What makes these sites distinctive: the petroglyphs appear <b>only on horizontal bedrock</b> (not boulders or cliffs like Southwest sites), and they are consistently placed at locations <b>offering panoramic views of Sierra peaks</b>. Archaeologist Willis Gortner demonstrated that some wavy-line petroglyphs may be <b>trail maps</b> — their contours matching actual topographic routes when overlaid on contour maps.<br><br>The <b>Sagehen Creek Field Station</b> (UC Natural Reserve) sits within this rock art landscape. Most petroglyph sites on the Tahoe National Forest were made by <b>ancestors of the Washoe tribe</b>, though Nisenan and Northern Maidu also visited, potentially adding images of their own. This gives many sites spiritual and cultural relevance to <b>multiple tribal nations</b>.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Sagehen Creek Field Station; Gortner 1986a/1988; Friends of Sierra Rock Art; USFS</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "maidu",
         "washoe"
@@ -380,7 +400,12 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#CE93D8;margin:0 0 2px\">🌿 Washoe Meadows State Park</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">620 acres · South Lake Tahoe · meadow & woodland · named for the Washoe</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Washoe Meadows State Park</b> occupies 620 acres of meadow and woodland at the base of the escarpment leading to Echo Summit — named for the Washoe people who <b>inhabited this area for thousands of years</b>.<br><br>This area was part of the <b>summer gathering territory</b> around the south shore of Lake Tahoe. The meadows provided seeds, roots, berries, and medicinal plants. The Upper Truckee River and its tributaries flowing through the park supported fishing. The elevation (~6,200 ft) and open meadows made it an ideal campsite.<br><br>The park preserves a landscape that the Washoe would have recognized — unlike most of the Tahoe Basin, which has been heavily developed. It is one of the few remaining places where the relationship between <b>meadow, water, and forest</b> echoes the precontact ecosystem.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: California State Parks; Washoe Tribe</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -409,7 +434,13 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#B0BEC5;margin:0 0 2px\">🏾 Indian Grinding Rock (Chaw'se) — 1,185 Mortars</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Amador County, CA · largest mortar collection in N. America · Miwok/Washoe artifacts</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><b>Chaw'se</b> (Miwok: \"grinding place\") preserves the <b>largest collection of bedrock mortars in North America</b> — 1,185 mortar cups carved into a massive limestone outcrop, along with 363 petroglyphs. Primarily a Northern Sierra Miwok site, the museum also holds significant <b>Washoe artifacts</b> — reflecting the overlapping territories and trade relationships between the Miwok (west slope) and Washoe (east slope) peoples.<br><br>The mortars were used to process acorns, pine nuts, seeds, and medicinal plants — the same food-processing technology found at Washoe sites like <b>Lam Watah</b> at Lake Tahoe. A reconstructed Miwok village with roundhouse stands on the grounds.<br><br>This site demonstrates the <b>shared material culture of the Sierra peoples</b>: Miwok, Maidu, Washoe, Nisenan, and Yokut all used similar grinding technology, traded across the Sierra crest, and maintained complex relationships despite speaking unrelated languages.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: California State Parks; Chaw'se Museum</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "maidu",
         "miwok",
@@ -462,7 +493,12 @@
         "dashArray": "4,8"
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#FF80AB;margin:0 0 2px\">🔗 Sacred Waters Connection</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Cave Rock → Carson Valley hot springs → Steamboat Springs</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\">The Washoe spiritual landscape connects water features across their territory. <b>Shamans with Water Baby guardian spirits</b> could travel the underground waterways linking Lake Tahoe to Carson Valley. The hot springs along the eastern Sierra front — from Walley's to Steamboat — all carry the same <b>spiritual charge</b>: places where the power of the earth emerges through water.<br><br>This is not metaphorical. The same geothermal fault system that heats Steamboat Hot Springs connects through the Carson Range to the hot springs near Genoa and Minden. The Washoe understood this underground connection through spiritual knowledge thousands of years before geologists mapped the fault lines.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: d'Azevedo 1986; Dance For All People; Finding Nevada Wild</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],
@@ -602,7 +638,12 @@
         ]
       },
       "popup": "<div style=\"max-width:460px\">\n      <h4 style=\"color:#FF80AB;margin:0 0 2px\">🔮 Washoe Spirituality — The Living Landscape</h4>\n      <div style=\"font-size:10px;color:#aaa;margin-bottom:6px\">Washí•shiw worldview · all nature is sentient · power pervades the land</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5\"><i>\"It is difficult to separate the sacred from the everyday life of the Washoe. The Washoe see every aspect of the environment as sentient beings that are deserving of respect and cooperation if humans are to survive.\"</i> — Tallac Historic Site<br><br><b>Core beliefs:</b><br>• All natural phenomena are imbued with <b>sentient spirit power</b> — earth, water, rocks, animals, plants<br>• <b>Prayers and offerings</b> were essential for any successful human endeavor — hunting, fishing, gathering, travel<br>• Animals were never hunted for sport; before a kill, hunters performed sacred rituals and asked forgiveness<br>• <b>Shamans (Damomliw)</b> were called to power by spirit-beings who came unsought — resisting the call could be fatal<br>• Both men and women could become shamans, apprenticing under experienced practitioners<br>• The dead's spirits were feared; houses where death occurred were abandoned or burned<br><br><b>Sacred beings:</b><br>• <b>Metsunge (Water Babies)</b> — created all lakes and streams, dwell in water, travel through Cave Rock<br>• <b>Ong</b> — giant man-eating bird nesting in Lake Tahoe, wingbeats bending trees<br>• A man-eating giant in a cave near Cave Rock who preyed on those neglecting duty<br><br><b>Sacred places:</b> Hot springs, rock art sites, mountain peaks, water sources — all connected by the spiritual force that flows through water and stone.</div>\n      <div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Tallac Historic Site; d'Azevedo 1986 (HNAI 11); Handelman 1967; Encyclopedia.com/Washoe; Britannica</div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "washoe"
       ],

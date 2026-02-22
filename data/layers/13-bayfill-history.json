@@ -183,7 +183,13 @@
         "fillOpacity": 0.1
       },
       "popup": "<h4>SoMa / South of Market (former marsh)</h4><span class=\"ptype pt-bay-fill\">Bay Fill / Lost Coastline</span><div class=\"popup-what\">Approximate fill zone from USGS geological surveys, historical Coast Survey maps</div>Originally marshland where Mission Creek and other waterways drained into the bay. Filled over decades. The Transbay Terminal construction (2014) uncovered a 7,600-year-old Ohlone man buried beneath 30+ feet of fill. USGS maps show \"very high\" liquefaction risk across the entire zone.<div class=\"popup-src\">📖 USGS liquefaction maps; SF Chronicle; SFGate (2014 Transbay discovery)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -223,7 +229,13 @@
         "size": 9
       },
       "popup": "<h4>Transbay Transit Center Discovery</h4><span class=\"ptype pt-construction\">2014 — Transbay construction</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Well-preserved remains of a 7,600-year-old man, likely Ohlone, found beneath 30+ feet of fill during concrete preparation. One of the oldest human remains found on the SF peninsula. Located in an \"Archaeological Mitigation Zone.\"<div class=\"popup-src\">📖 SFGate (2024); SF Chronicle; Archaeology Magazine</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -245,7 +257,13 @@
         "size": 9
       },
       "popup": "<h4>CCA Campus Discovery</h4><span class=\"ptype pt-construction\">2018 — campus expansion testing</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>8,000-year-old buried site found 40 feet below surface — the oldest evidence ever discovered of the bay's first inhabitants. Obsidian and chert tool flakes, marine shells indicating cooking. No human remains found. CCA built permanent interpretive features in partnership with Ohlone.<div class=\"popup-src\">📖 SFGate (2024); AECOM archaeological report; CCA interpretive plan</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -425,7 +443,13 @@
         "size": 9
       },
       "popup": "<h4>Marin Mounds Bulldozed for Topsoil (1960s)</h4><span class=\"ptype pt-construction\">Coast Miwok — destroyed for topsoil</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Moratto (1973) Case #3: \"A Marin County entrepreneur spent the early 1960s bulldozing local Indian mounds to sell the midden material as topsoil.\" Stopped only when the alkaline shell-rich earth killed domestic plants. Marin County later passed Ordinance No. 1589 — one of only 3 CA counties making it unlawful to disturb any Indian midden without a permit.<div class=\"popup-src\">📖 Moratto (1973) \"Status of CA Archaeology\" Case #3; SCA Special Report No. 3</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coast_miwok",
         "miwok"
@@ -449,7 +473,13 @@
         "size": 9
       },
       "popup": "<h4>San Pablo Shellmound I (destroyed ~1969)</h4><span class=\"ptype pt-construction\">Ohlone — destroyed for housing</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Moratto (1973) Case #29: A monumental shellmound representing 2,000+ years of habitation exposed during home building in San Pablo. Student volunteers raced to salvage remains, \"sometimes meeting heavy opposition from the contractor.\" Builders and archaeologists nearly came to blows. Public letters called it \"disgraceful\" — site destroyed anyway.<div class=\"popup-src\">📖 Moratto (1973) Case #29; CSU San Francisco files</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -471,7 +501,13 @@
         "size": 9
       },
       "popup": "<h4>San Pablo Shellmound II (trailer park)</h4><span class=\"ptype pt-construction\">Ohlone — destroyed for trailer park</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Moratto (1973) Case #25: A large undamaged mound in San Pablo replaced by a trailer park. Archaeologists who attempted salvage \"were harassed and finally removed by the contractor.\" Dozens of pot hunters were allowed to dig freely. One of the last intact large mounds on the east shore of San Pablo Bay.<div class=\"popup-src\">📖 Moratto (1973) Case #25; Elsasser, Lowie Museum; Coles, Contra Costa College</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -493,7 +529,13 @@
         "size": 9
       },
       "popup": "<h4>Fernandez Site CCo-259 (sold 25c/yard)</h4><span class=\"ptype pt-construction\">Ohlone — sold to topsoil company</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Moratto (1973) Case #32: Known to Berkeley Archaeological Survey as critically important. Landowner promised to protect it. When the Survey was finally ready, \"the landowner confessed with some shame that he had sold the site to a topsoil company for 25 cents per yard and that the site was no longer in existence.\"<div class=\"popup-src\">📖 Moratto (1973) Case #32; Dr. Robert F. Heizer, UC Berkeley</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -515,7 +557,13 @@
         "size": 9
       },
       "popup": "<h4>Bodega Bay Midden Son-299 (bulldozed)</h4><span class=\"ptype pt-construction\">Coast Miwok (Olamentko) — bulldozed by owner</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Moratto (1973) Case #33: A large deep midden on Bodega Bay shore, critical to local prehistory. Two years after Berkeley sampled it, \"the owner destroyed the site with a bulldozer in order to discover materials for his private collection. He found little by this method, but he effectively destroyed a very important site.\"<div class=\"popup-src\">📖 Moratto (1973) Case #33; Dr. Robert F. Heizer, UC Berkeley</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coast_miwok",
         "miwok"
@@ -539,7 +587,12 @@
         "size": 9
       },
       "popup": "<h4>Largest Pomo Cremation Site (crushed 1950s)</h4><span class=\"ptype pt-construction\">Southern Pomo — ground by gravel plant</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Moratto (1973) Case #16: The largest known Pomo cremation and mortuary site, on Santa Rosa Creek, \"was ground to oblivion by a gravel crushing plant in the early 1950s.\" Schoolchildren ravaged the bulldozed heaps, hauling off wagons of mortars, pestles, charmstones, beads, and human remains. Most went through the crusher.<div class=\"popup-src\">📖 Moratto (1973) Case #16; Michael J. Moratto, CSU San Francisco</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -617,7 +670,13 @@
         "size": 9
       },
       "popup": "<h4>Los Vaqueros Expansion (2011 burials)</h4><span class=\"ptype pt-construction\">2011 — reservoir expansion</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Expansion of Los Vaqueros Reservoir in 2011 threatened to expose additional Native American burial sites. The Volvon people had been completely removed from their homeland by 1806, absorbed into Mission San Jose — making cultural consultation complex as no direct Volvon tribal entity exists today.<div class=\"popup-src\">📖 Anthropology Now (2015); CCWD; Muwekma Ohlone Tribal Council</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -663,7 +722,13 @@
         "size": 9
       },
       "popup": "<h4>Hulpu-mni (east bank Sacramento)</h4><span class=\"ptype pt-construction\">Plains Miwok — Kroeber village site</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Village-community of the Hulpumni on the east bank of the Sacramento River below Sacramento. Kroeber (1919) listed Hulpumni among the Plains Miwok names ending in -mni that suggest Yokuts-style tribal names, but Barrett (1908) proved these were village names, not tribes. The Plains Miwok dialect was the most distinct of the four Sierra Miwok dialects, with 40% of word stems unique to itself.<div class=\"popup-src\">📖 Barrett (1908); Kroeber (1919) Handbook of Indians of CA; Bureau of American Ethnology</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok",
         "yokuts"
@@ -759,7 +824,13 @@
         "size": 9
       },
       "popup": "<h4>Cosomne (Wilton Rancheria)</h4><span class=\"ptype pt-construction\">Plains Miwok — Cosumnes River village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Village-community of the Cosomne on the Cosumnes River at present-day Wilton. The Cosumnes River formed the approximate northern boundary of the entire main Miwok territory. Barrett (1908) noted informants disagreed whether the boundary was at the river itself or slightly north at Elk Grove. Today the Wilton Rancheria of Miwok Indians maintains federal recognition here.<div class=\"popup-src\">📖 Barrett (1908); Wilton Rancheria; Kroeber (1919); Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok"
       ],
@@ -781,7 +852,13 @@
         "size": 9
       },
       "popup": "<h4>Sonolomne (near Galt)</h4><span class=\"ptype pt-construction\">Plains Miwok — Dry Creek village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Plains Miwok village probably on Dry and Laguna creeks east of present-day Galt. Located in the transition zone between the Sacramento plains and the gentle rise into the foothills. Barrett (1908) noted that in this area \"it is difficult to say definitely where the plains end and the foot-hills begin, so gentle and undulating are the first rises.\"<div class=\"popup-src\">📖 Kroeber (1919); Barrett (1908); Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok"
       ],
@@ -803,7 +880,13 @@
         "size": 9
       },
       "popup": "<h4>Ochech-ak/Otcehamni (near Galt)</h4><span class=\"ptype pt-construction\">Plains Miwok — Barrett's key informant village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Village site a few miles west of Galt. Barrett (1908) used this village to demonstrate how the Miwok naming system worked: O'tcex was the place name, and Otceha'mni meant \"people of O'tce\" — proving these were not tribal names like the Yokuts had, but village-community designations. Barrett's Plains Miwok vocabulary came from a single informant who spoke the Mokelumne dialect.<div class=\"popup-src\">📖 Barrett (1908) UC Publ. Am. Arch. Ethn. Vol.6 No.2; Kroeber (1908)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok",
         "yokuts"
@@ -853,7 +936,13 @@
         "size": 9
       },
       "popup": "<h4>Mokel-umni (near Lockford)</h4><span class=\"ptype pt-construction\">Plains Miwok — \"People of Mokel\"</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>The village-community that gave its name to the Mokelumne River — and eventually to Lodi. Mo'kel was the place name, moke'lumni meant \"people of Mokel.\" Barrett (1908) obtained a vocabulary from a single Plains Miwok informant who spoke this dialect. \"Mokelumne\" was corrupted from the Miwok words mogul (river) and one (people of). All Plains Miwok communities in the Mokelumne watershed were gone by 1848.<div class=\"popup-src\">📖 Barrett (1908); Kroeber (1908/1919); Clark, Ralph \"Lodi—Images of America\"; Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok"
       ],
@@ -875,7 +964,13 @@
         "size": 9
       },
       "popup": "<h4>Lelamne (Clements)</h4><span class=\"ptype pt-construction\">Plains Miwok — Mokelumne River village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Lel-amni village on the Mokelumne River at present-day Clements. Kroeber (1919) noted this as one of the Plains Miwok village-communities. Located in what is now the Clements Hills Viticultural Area of the Lodi wine region. By the 1830s most Plains Miwok had succumbed to waves of malaria, smallpox, and cholera epidemics introduced through mission contact.<div class=\"popup-src\">📖 Kroeber (1919); Barrett (1908); Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok"
       ],
@@ -897,7 +992,13 @@
         "size": 9
       },
       "popup": "<h4>Seuamne (Jenny Lind)</h4><span class=\"ptype pt-construction\">Plains/Northern Sierra Miwok — transitional village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Village-community at present-day Jenny Lind on the Calaveras River. Described as \"intermediate to Northern Sierra Miwok\" — sitting on the dialectic boundary between Plains and Amador (foothill) Miwok. The Calaveras River roughly marked the southern edge of Plains Miwok territory, beyond which lay Yokuts land in the San Joaquin Valley plains.<div class=\"popup-src\">📖 Kroeber (1919); Barrett (1908); Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok",
         "yokuts"
@@ -921,7 +1022,13 @@
         "size": 9
       },
       "popup": "<h4>Chilamne (Bellota)</h4><span class=\"ptype pt-construction\">Plains Miwok — Calaveras River village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Plains Miwok village at present-day Bellota on the Calaveras River. The Calaveras River formed the critical boundary: Barrett (1908) showed that south of it, the San Joaquin Valley plains were entirely Yokuts territory, not Miwok. Kroeber confirmed with vocabulary evidence that Plains Miwok informants near Merced Falls and Knight's Ferry stated \"the plains in these two regions were held by people speaking the Yokuts language.\"<div class=\"popup-src\">📖 Barrett (1908); Kroeber (1908); Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok",
         "yokuts"
@@ -945,7 +1052,13 @@
         "size": 9
       },
       "popup": "<h4>Unizumne (Thornton)</h4><span class=\"ptype pt-construction\">Plains Miwok — river confluence village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Plains Miwok village at present-day Thornton at the confluence of the Cosumnes and Mokelumne rivers. A strategically important location controlling access to both major waterways. The Plains Miwok used these river corridors for salmon and sturgeon fishing, and the surrounding grasslands and oak groves provided acorns — their chief food source.<div class=\"popup-src\">📖 Kroeber (1919); Lodi Winegrape Commission; Barrett (1908)</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok"
       ],
@@ -967,7 +1080,13 @@
         "size": 9
       },
       "popup": "<h4>Guaypemne (Terminus)</h4><span class=\"ptype pt-construction\">Plains Miwok — Mokelumne River delta</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Plains Miwok village at present-day Terminus on the Mokelumne River delta. Located at the edge of the vast tule marsh that formed the Sacramento-San Joaquin Delta. These Delta-edge villages were adapted to a riparian environment of grasslands, oaks, and marshland that early European settlers called \"an abundant paradise.\"<div class=\"popup-src\">📖 Kroeber (1919); Clark, Ralph \"Lodi—Images of America\"; Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok"
       ],
@@ -1014,7 +1133,13 @@
         "size": 9
       },
       "popup": "<h4>Ochejamne (Courtland)</h4><span class=\"ptype pt-construction\">Plains Miwok — Sacramento River village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Plains Miwok village at present-day Courtland on the east side of the Sacramento River. Located in the heart of the Delta, where the Sacramento River splits into distributary channels. Today this area is famous for pear orchards built on the deep peat soils of reclaimed Delta islands — soils enriched by millennia of tule marsh decomposition.<div class=\"popup-src\">📖 Kroeber (1919); Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "lenape",
         "miwok"
@@ -1038,7 +1163,13 @@
         "size": 9
       },
       "popup": "<h4>Quenemsia (Grand Island)</h4><span class=\"ptype pt-construction\">Plains Miwok — Delta distributary village</span><div class=\"popup-what\">Construction / accidental discovery site — from news reports & archaeological records</div>Plains Miwok village on Grand Island among the distributary channels of the Sacramento River. The network of Plains Miwok Delta villages — Anizumne, Chucumne, Musupum, Quenemsia, Ochejamne — formed an interconnected water-adapted community controlling river confluences and island territories across the Delta.<div class=\"popup-src\">📖 Kroeber (1919); Lodi Winegrape Commission</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "miwok"
       ],
@@ -1188,8 +1319,16 @@
         "dashArray": "12,8"
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "ohlone"
+      ],
       "tribes": [
         "ohlone"
       ],
@@ -1216,8 +1355,16 @@
         ]
       },
       "popup": null,
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "ohlone"
+      ],
       "tribes": [
         "ohlone"
       ],

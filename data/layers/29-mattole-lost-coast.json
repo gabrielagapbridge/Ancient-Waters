@@ -64,7 +64,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Mattole Territory (Mattóal)</b><br>\n  Mattole River valley from coast to Upper North Fork<br>\n  ~60 villages along the river (Baumhoff 1958)<br>\n  Self-name: Ni'ekeni' (shared with Bear River)<br>\n  Pre-contact population: ~2,500 (Mattole + Bear River combined)<br>\n  Language: Mattole (Athabaskan), extinct ~1950s. Grammar by Fang-Kuei Li (1930)<br>\n  Unique: men tattooed their foreheads (women in all other local groups)<br>\n  Houses with vertical walls & pitched roofs — unusual among Southern Athabaskans",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -127,7 +132,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Bear River Territory (Ni'ekeni')</b><br>\n  Coast near Cape Mendocino & lower Bear River<br>\n  7+ villages: Tcalko', Chilsheck, Chilenche, Selsche'ech, Tlanko, Estakana, Sehtla<br>\n  Very closely related to Mattole — same self-name, similar dialect<br>\n  Bear River dialect documented by Goddard (1929)<br>\n  Nomland (1938) ethnography from surviving elders<br>\n  <i>Wailaki name for them: Tul'bush (\"foreigners\")</i>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -287,7 +297,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Sinkyone (Northern / Lolangkok)</b><br>\n  Lower Eel River from Scotia to above South Fork mouth<br>\n  \"Sinkikok\" = their name for the Eel River watershed<br>\n  Northern dialect distinct from Shelter Cove Sinkyone to the south<br>\n  The redwood (Kahstcho) was considered especially sacred<br>\n  Rotational burning of coastal prairies and woodlands<br>\n  ~70 villages total (both northern & southern groups)<br>\n  Boundary with Mattole marked by Kings Peak & Ettersberg<br>\n  <i>Baumhoff 1958, Merriam notes, Goddard village lists</i>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -343,7 +358,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -370,7 +390,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -426,7 +451,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -482,7 +512,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -509,7 +544,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -536,7 +576,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -563,7 +608,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -590,7 +640,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -617,7 +672,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -734,7 +794,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wiyot"
       ],
@@ -762,7 +827,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wiyot"
       ],
@@ -790,7 +860,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wiyot"
       ],
@@ -818,8 +893,15 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mattole"
+      ],
       "tribes": [
         "mattole"
       ],
@@ -843,8 +925,15 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mattole"
+      ],
       "tribes": [
         "mattole"
       ],
@@ -871,7 +960,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mattole"
+      ],
       "tribes": [
         "mattole"
       ],
@@ -898,7 +989,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mattole"
+      ],
       "tribes": [
         "mattole"
       ],
@@ -948,7 +1041,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Mattole River (Mattóal = \"clear water\" in Sinkyone)</b><br>\n  62 miles, 74 tributaries, 194,560-acre watershed<br>\n  Drains the King Range — sea level to 4,000 ft in 3 miles<br>\n  100+ inches of rain annually — among highest in continental US<br>\n  <b>Salmon collapse:</b> 10,000 chinook + 4,000 coho (1959) → 100 each by 1990-91<br>\n  Only 9% of original old-growth coniferous forest remained by 1987<br>\n  <b>First community-based watershed restoration in California</b> (1980)<br>\n  Mattole Restoration Council (1983), Mattole Salmon Group, Sanctuary Forest<br>\n  BLM: $3M decade-long estuary restoration completed 2021<br>\n  Bear River Band salmon ceremony at mouth, Nov 2020 — first in over a century<br>\n  Listed as impaired waterbody (EPA 1992) — still flowing, actively restoring",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -989,7 +1087,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Bear River</b><br>\n  Flows west to Pacific near Cape Mendocino<br>\n  7 named villages along its course (Goddard 1929, Nomland 1938)<br>\n  Bear River Band territory — boundary between Mattole and Wiyot<br>\n  Salmon and steelhead habitat — impacted by logging and floods",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole",
         "wiyot"
@@ -1048,7 +1151,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Eel River — Lower Reach (Sinkikok)</b><br>\n  From South Fork confluence through Scotia to Pacific at Fernbridge<br>\n  \"Sinkikok\" = Sinkyone name for the Eel River watershed<br>\n  Northern Sinkyone (Lolangkok) territory on west bank<br>\n  Wiyot territory at the delta and mouth<br>\n  Goddard documented village names on both sides from Garberville to Scotia<br>\n  <i>Continues from Phase 3 Eel River coverage upstream</i>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wiyot"
       ],
@@ -1156,7 +1264,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Mad River</b><br>\n  Northern boundary of Wiyot territory<br>\n  Flows to Pacific north of Arcata / Humboldt Bay<br>\n  Wiyot, Nongatl, and Whilkut territories converge here",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wiyot"
       ],
@@ -1190,7 +1303,12 @@
         "pane": "mattoleBackgroundPane"
       },
       "popup": "<b>Honeydew Creek</b><br>\n  Major Mattole River tributary near Honeydew village<br>\n  Honeydew Creek Wildlife Preserve: 2,980 acres protecting bald eagle,<br>\n  spotted owl, mink, and anadromous fish habitat",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -1281,7 +1399,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -1311,7 +1434,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mattole"
+      ],
       "tribes": [
         "mattole"
       ],
@@ -1368,7 +1493,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -1399,7 +1529,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mattole"
+      ],
       "tribes": [
         "mattole"
       ],
@@ -1424,7 +1556,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],
@@ -1512,7 +1649,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wiyot"
       ],
@@ -1540,7 +1682,12 @@
       "options": {
         "pane": "markerPane"
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mattole"
       ],

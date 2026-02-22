@@ -114,7 +114,13 @@
       "popup": "<h4>Coast Miwok</h4><span style=\"display:inline-block;background:#2196F3;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px\">PENUTIAN (later expansion)</span><div style=\"margin-top:6px;font-size:12px;color:#ccc\">Penutian (Miwokan/Utian) — spoken throughout Marin County and southern Sonoma County, from the Golden Gate to Bodega Bay. Coast Miwok names survive in Tamalpais (\"coast hill\"), Tomales (\"west coast\"), Olompali, Novato, and Nicasio. The Federated Indians of Graton Rancheria represent Coast Miwok people today.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Click 🗣️ Language Encyclopedia for full details</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coast_miwok",
         "miwok"
@@ -263,7 +269,13 @@
       "popup": "<h4>Chochenyo Ohlone</h4><span style=\"display:inline-block;background:#2196F3;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px\">PENUTIAN (later expansion)</span><div style=\"margin-top:6px;font-size:12px;color:#ccc\">Penutian (Ohlone/Costanoan > Utian) — spoken across the East Bay from Richmond south through Oakland and Alameda to the foothills of the Diablo Range. The Muwekma Ohlone Tribe leads Chochenyo language revitalization today.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Click 🗣️ Language Encyclopedia for full details</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -394,7 +406,13 @@
       "popup": "<h4>Ramaytush Ohlone</h4><span style=\"display:inline-block;background:#2196F3;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px\">PENUTIAN (later expansion)</span><div style=\"margin-top:6px;font-size:12px;color:#ccc\">Penutian (Ohlone/Costanoan > Utian) — spoken on the San Francisco Peninsula from the Golden Gate south to Pacifica. The least documented Ohlone language — no fluent speakers survived into the recording era. The Association of Ramaytush Ohlone maintains cultural connections.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Click 🗣️ Language Encyclopedia for full details</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],
@@ -729,7 +747,12 @@
       "popup": "<h4>Wappo</h4><span style=\"display:inline-block;background:#FF9800;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px\">YUKIAN (ancient isolate)</span><div style=\"margin-top:6px;font-size:12px;color:#ccc\">Yukian family — no known relatives anywhere on Earth. Spoken in Napa Valley and Alexander Valley. Possibly the oldest language lineage in California, predating even Hokan. Laura Fish Somersal, last fluent speaker, died 1990.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Click 🗣️ Language Encyclopedia for full details</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wappo"
       ],
@@ -836,7 +859,12 @@
       "popup": "<h4>Southern Pomo</h4><span style=\"display:inline-block;background:#E91E63;color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px\">HOKAN (oldest)</span><div style=\"margin-top:6px;font-size:12px;color:#ccc\">Hokan (Pomoan) — spoken in northern Sonoma County, including the Santa Rosa Plain and the Russian River valley. One of seven Pomo languages, representing the Hokan presence that once extended much further south before the Penutian expansion.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Click 🗣️ Language Encyclopedia for full details</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "pomo"
       ],
@@ -1045,7 +1073,13 @@
       "popup": "<h4 style=\"color:#42A5F5\">Chupcan</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Bay Miwok tribelet · ~146 baptized</div><div style=\"font-size:12px;color:#ccc\">Occupied the Concord area. The 1805 \"Monte del Diablo\" naming incident: Spanish soldiers tried to force Chupcan into the mission, camped near a willow thicket on Pacheco Creek (near today's Buchanan Field). At night, the Chupcan escaped across the Carquinez Straits in tule boats. A mysterious figure — \"Puy\" — appeared, turning the battle in the Chupcan's favor. The Spanish named the thicket \"Monte del Diablo\" (Thicket of the Devil). In 1810, 146 Chupcan were baptized at Mission San Francisco.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; EBRPD Bay Miwok Resources; Bev Ortiz</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok"
@@ -1249,7 +1283,13 @@
       "popup": "<h4 style=\"color:#26C6DA\">Tatcan</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Bay Miwok tribelet · ~161 baptized</div><div style=\"font-size:12px;color:#ccc\">Lived on the west side of Mt. Diablo in the San Ramon Creek watershed — modern Danville, Alamo, and parts of San Ramon. Controlled the southern and western reaches of Mount Diablo where annual autumn Indian gatherings took place below the summit. First large group of 127 went to Mission San Francisco in 1804. Their territory became Rancho San Ramon (1833), granted to Bartolo Pacheco and Mariano Castro.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; EBRPD Bay Miwok Resources; Bev Ortiz</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok"
@@ -1350,7 +1390,13 @@
       "popup": "<h4 style=\"color:#7E57C2\">Julpun (Hoolpoon)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Bay Miwok tribelet · ~103 baptized</div><div style=\"font-size:12px;color:#ccc\">Occupied lower Marsh Creek east of Mt. Diablo — present-day Brentwood and Byron area. C. Hart Merriam's creation story \"The Birth of Wek-Wek and the Creation of Man\" was told by a Hool-poom'-ne (Julpun) Miwok, perhaps a descendant of this people. Their territory became Rancho Los Meganos (Mt. Diablo to Brentwood), granted to Jose Noriega in 1834. John Marsh later operated a cattle ranch using Volvon and Julpun laborers. They were among the last Bay Miwok to enter the missions (1811).</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; EBRPD Bay Miwok Resources; Bev Ortiz</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -1449,7 +1495,13 @@
       "popup": "<h4 style=\"color:#AB47BC\">Ompin</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Bay Miwok tribelet · ~95 baptized</div><div style=\"font-size:12px;color:#ccc\">Occupied the area around present-day Pittsburg and north to rural south Solano County, including the islands in the Sacramento-San Joaquin confluence. In this strategic position they controlled the entrance to both great rivers. Most went to Mission San Jose with the Julpun — 78 in 1811 and 15 in 1812. Their territory became Rancho Los Medanos (Clayton to Antioch), granted to Jose Mesa in 1839.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; EBRPD Bay Miwok Resources; Bev Ortiz</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok"
@@ -1546,7 +1598,13 @@
       "popup": "<h4 style=\"color:#66BB6A\">Jalquin / Yrgin</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Bay Miwok tribelet · ~77 + ~152 baptized</div><div style=\"font-size:12px;color:#ccc\">The Jalquin occupied the southern portion of present-day Oakland, San Leandro, and San Leandro Creek to the east. The Yrgin of Hayward and Castro Valley had Chochenyo Ohlone name endings but were so highly intermarried with the Jalquin that they may have been a single bilingual tribe — straddling the Bay Miwok/Ohlone linguistic boundary. Jalquin were baptized at Mission San Francisco 1801-1803. Liberato Culpecse (born Jalquin, baptized 1801) is one of the main ancestors of the present-day Muwekma Ohlone Tribe.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; EBRPD Bay Miwok Resources; Bev Ortiz</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -1614,7 +1672,13 @@
         "maxWidth": 420
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -1745,7 +1809,13 @@
       "popup": "<h4 style=\"color:#FFB74D\">Northern Valley Yokuts</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Penutian (Yokutsan) · up to 60 tribes · 18,000-50,000+ people pre-contact</div><div style=\"font-size:12px;color:#ccc\">The Yokuts were the dominant people of the San Joaquin Valley — the largest ethnic group in pre-contact California. Villages were spaced every 3-5 miles along waterways. Their territory extended 250 miles from the Delta south to Bakersfield. The Northern (Delta) Yokuts inhabited the marshy tule lands where the San Joaquin and Sacramento rivers converge, using tule boats and managing the landscape through controlled burns. Trade flowed over the Altamont Pass to the Bay Area — Yokuts brought furs and inland goods, receiving coastal shells (used as currency) in return.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Kroeber 1925; Cook 1955; Milliken 1995; Wallace (eHRAF)</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -1810,7 +1880,13 @@
       "popup": "<h4 style=\"color:#FF8F00\">Tamcan (Delta Yokuts)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Valley Yokuts · Penutian</div><div style=\"font-size:12px;color:#ccc\">Occupied the lower San Joaquin River — present-day eastern Contra Costa County and western San Joaquin County. Spoke Delta Yokuts, a unique dialect with possible substratal influence from a pre-Yokuts language. Territory along Old River was probably ~12 miles in circumference. Baptized at Mission San Jose mixed with their Cholvon neighbors, 1806-1811. The Muwekma Ohlone Tribe traces ancestral lines to the Tamcan.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; Muwekma Ohlone Tribe</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone",
         "yokuts"
@@ -1846,8 +1922,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
       "tribes": [
         "yokuts"
       ],
@@ -1905,7 +1989,13 @@
       "popup": "<h4 style=\"color:#FFA726\">Cholvon (Delta Yokuts)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Valley Yokuts · Penutian</div><div style=\"font-size:12px;color:#ccc\">Near neighbors of the Tamcan along the Delta. Cholvon individuals appear in Mission San Jose baptismal records alongside the Tamcan from 1806-1811. The Delta Yokuts language was first delineated in 1959; Alphonse Pinart recorded the first vocabulary at Pleasanton in 1880, calling it \"Tcholovones.\" Place names from Cholvon territory survive in the Delta landscape.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; Muwekma Ohlone Tribe</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone",
         "yokuts"
@@ -1941,8 +2031,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
       "tribes": [
         "yokuts"
       ],
@@ -2000,7 +2098,13 @@
       "popup": "<h4 style=\"color:#FFB74D\">Passasimi (Yokuts)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Valley Yokuts · Penutian</div><div style=\"font-size:12px;color:#ccc\">Inhabited the area south and east of the Delta, in the interior valleys. The Muwekma Ohlone Tribe traces ancestral heritage to the Passasimi North Valley Yokuts. Their territory abutted the Julpun Bay Miwok to the west — a linguistic frontier between Miwokan and Yokutsan peoples.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; Muwekma Ohlone Tribe</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "bay_miwok",
         "miwok",
@@ -2040,8 +2144,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
       "tribes": [
         "yokuts"
       ],
@@ -2099,7 +2211,13 @@
       "popup": "<h4 style=\"color:#FFCC80\">Yatchikumne (Yokuts)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Valley Yokuts · Penutian</div><div style=\"font-size:12px;color:#ccc\">A Northern Valley Yokuts group near the San Joaquin River's Delta confluence. Their dialect (also called Chulamni or Tauquimne) is documented among the Far Northern / Delta Yokuts subgroup. Muwekma Ohlone ancestry includes Yatchikumne lineages from the Stockton region. Pre-contact population of the entire Delta Yokuts zone: 7,200-12,800 people across 12-16 groups.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; Muwekma Ohlone Tribe</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone",
         "yokuts"
@@ -2135,8 +2253,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
       "tribes": [
         "yokuts"
       ],
@@ -2194,7 +2320,13 @@
       "popup": "<h4 style=\"color:#FFE0B2\">Lakisamni (Yokuts)</h4><div style=\"font-size:10px;color:#aaa;margin-bottom:4px\">Northern Valley Yokuts · Penutian</div><div style=\"font-size:12px;color:#ccc\">Linked to villages along the Stanislaus River. Chief Estanislao (born Cucunuchi, ~1798), the famous Yokuts resistance leader, was born along its banks. Baptized \"Estanislao\" at Mission San Jose — the river itself was renamed for him. He led one of the largest indigenous resistance movements in California history against the Mexican authorities in 1828-29. The Lakisamni were Penutian (Yokutsan) speakers.</div><div style=\"margin-top:6px;font-size:10px;color:#888\">Sources: Milliken 1995; Bennyhoff 1961; Muwekma Ohlone Tribe</div>",
       "popupOptions": null,
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone",
         "yokuts"
@@ -2230,8 +2362,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
       "tribes": [
         "yokuts"
       ],
@@ -2262,8 +2402,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
       "tribes": [
         "yokuts"
       ],
@@ -2414,8 +2562,16 @@
       "options": {
         "interactive": false
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "yokuts"
+      ],
       "tribes": [
         "yokuts"
       ],
@@ -2446,7 +2602,13 @@
         "maxWidth": 380
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -2520,7 +2682,13 @@
         "maxWidth": 380
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "wendat",
         "yokuts"
@@ -2592,7 +2760,13 @@
         "maxWidth": 350
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -2662,7 +2836,13 @@
         "maxWidth": 350
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -2788,7 +2968,13 @@
         "maxWidth": 350
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -2850,7 +3036,13 @@
         "maxWidth": 350
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -2984,7 +3176,13 @@
         "maxWidth": 380
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -3182,7 +3380,13 @@
         "maxWidth": 350
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -3244,7 +3448,13 @@
         "maxWidth": 380
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "yokuts"
       ],
@@ -3458,7 +3668,13 @@
         "maxWidth": 380
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash",
         "miwok",
@@ -3876,7 +4092,13 @@
         "maxWidth": 400
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash",
         "salinan",
@@ -3953,7 +4175,13 @@
         "maxWidth": 380
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "chumash",
         "salinan",
@@ -4014,7 +4242,13 @@
         "maxWidth": 380
       },
       "options": null,
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "owens_valley_paiute",
         "paiute",

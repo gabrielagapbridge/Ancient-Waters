@@ -90,7 +90,13 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Ox Roast Site / Pre-Contact Homesites</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact (5,000+ years); 1783 George Washington celebration layer</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Excavation:</span> <span style=\"font-size:12px;color:#333;\">August 2021 — Stockbridge-Munsee THPO team</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Findings:</span> <span style=\"font-size:12px;color:#333;\">Second pre-contact homesite with living floors beneath 1783 layer. Stone flakes, fire-cracked rock. \"Two digs, two for two\" — Bonney Hartley</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Historical Context:</span> <span style=\"font-size:12px;color:#333;\">1783: George Washington provided ox roast to thank Mohican veterans of the Revolutionary War. Mohicans fought alongside patriots at Bunker Hill.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">NEPM Aug 2021; BTW Berkshires</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -120,7 +126,13 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Bidwell House Museum Grounds</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican (potential)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Unknown — unstudied</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Status:</span> <span style=\"font-size:12px;color:#333;\">192-acre grounds with cellar holes and stone structures that \"might be Mohican\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Note:</span> <span style=\"font-size:12px;color:#333;\">Museum curator invited UMass archaeologist Eric Johnson to speak about Kampoosa Bog findings. Hope to study Bidwell grounds someday.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Berkshire Eagle 2013; Bidwell House Museum</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -184,7 +196,13 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Claverack Rock Shelter</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Multi-period occupation</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Excavation:</span> <span style=\"font-size:12px;color:#333;\">Ken Mynter (vocational archaeologist)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Published:</span> <span style=\"font-size:12px;color:#333;\">Results included in Robert Funk's \"Recent Contributions to Hudson Valley Prehistory\"</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Ted Filli continues research on Contact Period Mohican sites along waterways flowing to/from Hudson in Columbia County</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">10th Annual Algonquian Peoples Seminar, NYS Museum 2010</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -335,7 +353,13 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Papscanee Island — RETURNED 2021</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Stockbridge-Munsee Band of Mohican Indians</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">12,000 years of continuous use</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Status:</span> <span style=\"font-size:12px;color:#333;\">★ RETURNED TO MOHICANS May 9, 2021 — after 384 years of colonial/American ownership</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">History:</span> <span style=\"font-size:12px;color:#333;\">Named for Sachem Papsickene. April 13, 1637: heirs signed deed to Dutch merchant Kiliaen Van Rensselaer (payment: duffels, axes, knives, wampum). Open Space Institute purchased 1990s to prevent port expansion. Donated to tribe 2021.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">\"Perhaps the best preserved known late woodland Native village site in New York.\" NRHP eligible. Rich marine resources + most productive agricultural fields in Mohican homeland.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Quote:</span> <span style=\"font-size:12px;color:#333;\">\"Our land is intrinsic to who we are, it's our identity. The greatest gift is to have our land back.\" — Bonney Hartley</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Today:</span> <span style=\"font-size:12px;color:#333;\">156 acres, 3 miles trails, conservation easement, open to public. Turtles in ponds (important in Mohican cosmology).</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Open Space Institute; Albany Times Union 5/9/2021</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -361,7 +385,13 @@
         "pane": "berkPane"
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Schodack Islands — Mohican Capital</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohican Confederacy</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through 18th century</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Significance:</span> <span style=\"font-size:12px;color:#333;\">Major Mohican political center — capital of the confederacy. \"Moenemin's Castle\" at Van Schaick Mansion site (confluence of Mohawk & Hudson Rivers).</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Context:</span> <span style=\"font-size:12px;color:#333;\">Schodack and Papscanee Islands were the two major Mohican village sites in the upper Hudson Valley.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Paul R. Huey 1993; Shirley W. Dunn</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk",
         "mohican"
@@ -516,7 +546,9 @@
       "tribes": [
         "lenape"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -544,7 +576,9 @@
       ],
       "cultures": [],
       "tribes": [],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -567,7 +601,12 @@
         "className": ""
       },
       "popup": "<div style=\"font-family:Georgia,serif;max-width:320px;\"><div style=\"font-size:15px;font-weight:bold;color:#2D4A3E;border-bottom:2px solid #4A7C59;padding-bottom:4px;margin-bottom:6px;\">Indian Ladder Trail</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">People:</span> <span style=\"font-size:12px;color:#333;\">Mohawk (Haudenosaunee)</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Period:</span> <span style=\"font-size:12px;color:#333;\">Pre-contact through Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Description:</span> <span style=\"font-size:12px;color:#333;\">Helderberg escarpment west of Albany. Indigenous travelers placed trees against limestone cliff wall and trimmed branches as rungs to ascend the steep cliff. Modern staircase replicates the route.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Geology:</span> <span style=\"font-size:12px;color:#333;\">300-million-year-old fossils visible in limestone walls</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Location:</span> <span style=\"font-size:12px;color:#333;\">John Boyd Thacher State Park, near Voorheesville NY</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;color:#4A7C59;font-size:11px;\">Source:</span> <span style=\"font-size:12px;color:#333;\">Scenic Hudson 2025</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "mohawk"

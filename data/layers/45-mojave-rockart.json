@@ -25,7 +25,11 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi",
         "mojave_tribe"
@@ -34,7 +38,10 @@
         "chemehuevi",
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -59,14 +66,21 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mojave_tribe"
       ],
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -104,7 +118,10 @@
         "chemehuevi",
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -129,7 +146,11 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mojave_tribe"
       ],
@@ -163,7 +184,11 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "chemehuevi",
         "mojave_tribe"
@@ -236,7 +261,12 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "serrano"
       ],
@@ -286,7 +316,10 @@
         "mojave_tribe",
         "serrano"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -353,7 +386,12 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "serrano"
       ],
@@ -361,7 +399,10 @@
         "mojave_tribe",
         "serrano"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -386,7 +427,12 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "serrano"
       ],
@@ -422,8 +468,14 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -454,8 +506,14 @@
       "popupOptions": {
         "maxWidth": 440
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -487,8 +545,14 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -521,7 +585,12 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "serrano"
       ],
@@ -557,8 +626,14 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -589,8 +664,14 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -622,8 +703,14 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -654,7 +741,12 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "serrano"
       ],
@@ -689,7 +781,11 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "paiute"
       ],
@@ -724,8 +820,14 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
@@ -756,12 +858,21 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mojave_tribe"
+      ],
       "tribes": [
         "mojave_tribe"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph",
+        "basin_and_range"
+      ]
     },
     {
       "type": "marker",
@@ -786,7 +897,13 @@
       "popupOptions": {
         "maxWidth": 460
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "early_archaic",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coso_tradition",
         "lenape"

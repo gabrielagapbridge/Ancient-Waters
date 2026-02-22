@@ -75,7 +75,13 @@
         "dashArray": "10,6"
       },
       "popup": "<h4>Rancho Corte Madera del Presidio (John Reed, 1834)</h4><span class=\"ptype\" style=\"color:#8D6E63\">Mexican Land Grant — carved from Coast Miwok territory</span><div class=\"popup-what\">Approximate boundaries from 1873 Austin/Whitney county survey (David Rumsey Collection)</div>\"The wood cutting place for the Presidio\" — granted to Irishman John Reed, who built the first house in Sausalito and the first ferry across the bay. The rancho was vigorously logged to supply lumber to the Presidio in San Francisco. Two sawmills operated in what became Larkspur. This was Huimen Coast Miwok territory. Reed's rancho encompasses present-day Mill Valley, Corte Madera, and Larkspur — where shellmounds were later destroyed for development.<div class=\"popup-src\">📖 Austin/Whitney 1873 map; CA Historical Landmark #207; Marin IJ</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coast_miwok",
         "miwok"
@@ -202,7 +208,13 @@
         "dashArray": "10,6"
       },
       "popup": "<h4>Rancho Punta de los Reyes (1843)</h4><span class=\"ptype\" style=\"color:#8D6E63\">Mexican Land Grant — carved from Coast Miwok territory</span><div class=\"popup-what\">Approximate boundaries from 1873 Austin/Whitney county survey (David Rumsey Collection)</div>Point Reyes grant visible on the 1873 map in the Point Reyes Township. This windswept peninsula was Coast Miwok territory for at least 3,000-4,000 years. Kule Loklo (Bear Valley) — a reconstructed Miwok village — now sits within Point Reyes National Seashore. Francis Drake may have landed here in 1579; an Elizabethan sixpence found at nearby Olompali supports contact.<div class=\"popup-src\">📖 Austin/Whitney 1873 map; NPS Point Reyes; CA State Parks</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coast_miwok",
         "miwok"
@@ -243,7 +255,13 @@
         "dashArray": "10,6"
       },
       "popup": "<h4>Rancho Tomales y Baulines</h4><span class=\"ptype\" style=\"color:#8D6E63\">Mexican Land Grant — carved from Coast Miwok territory</span><div class=\"popup-what\">Approximate boundaries from 1873 Austin/Whitney county survey (David Rumsey Collection)</div>Grant along Tomales Bay and Bolinas area, visible on the 1873 map spanning Bolinas Township. Tomales Bay was a critical Coast Miwok (Olamentko) resource — rich in shellfish, fish, and waterfowl. The bay's name comes from the Miwok word \"Tamal.\" Toms Point, a 3,000-year-old village site, sits along Tomales Bay and was still a thriving Native trading post in the 1840s-50s.<div class=\"popup-src\">📖 Austin/Whitney 1873 map; Schneider/Panich (UCSC); Federated Indians of Graton Rancheria</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "coast_miwok",
         "miwok"
@@ -507,7 +525,13 @@
         "dashArray": "8,6"
       },
       "popup": "<h4>North Bay / Carquinez / Suisun — Lost Marshlands</h4><span class=\"ptype pt-historic-shore\">TIDAL MARSH AND WETLANDS filled or diked</span><div class=\"popup-what\">Vast marshlands once extended along Carquinez Strait and Suisun Bay</div>Sogorea Te' (Glen Cove) — a 3,500-year-old Karkin Ohlone sacred site — sat along this waterway. The Suisun Marsh was one of the largest brackish marshes in the western U.S. Chief Sem-Yeto's Suisun Patwin people controlled these marshlands and waterways. Much has been diked for salt ponds and agriculture.<div class=\"popup-src\">📖 NOAA NGS; SFEI; Solano County Historical Society; Patwin ethnographic records</div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "late_archaic",
+        "late_prehistoric",
+        "middle_archaic"
+      ],
       "cultures": [
         "ohlone"
       ],

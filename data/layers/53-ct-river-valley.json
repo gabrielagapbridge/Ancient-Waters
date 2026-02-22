@@ -62,14 +62,22 @@
         "className": ""
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Guilford Petroglyphs</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Abenaki · Date unknown · Location protected</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Guilford, VT — exact location restricted</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">Possible Abenaki petroglyphs in a remote location. \"Way off the beaten path\" (Rich Holschuh). Combined with Bellows Falls and Brattleboro sites, points to a significant Abenaki presence in southern Vermont.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Access:</span> <span style=\"font-size:12px;\">⚠️ Location deliberately protected. Not publicly accessible.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wabanaki"
       ],
       "tribes": [
         "wabanaki"
       ],
-      "rockArtStyles": []
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     },
     {
       "type": "marker",
@@ -247,7 +255,13 @@
         "pane": "ctRiverPane"
       },
       "popup": "<div style=\"max-width:340px;font-family:'Georgia',serif;\"><div style=\"font-size:15px;font-weight:bold;color:#1B4332;margin-bottom:3px;\">Peskeompskut / Wissatinnewag</div><div style=\"font-size:11px;color:#2D6A4F;margin-bottom:8px;font-style:italic;\">Multi-tribal gathering · 10,000+ years · Riverside Arch. District (NRHP)</div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Location:</span> <span style=\"font-size:12px;\">Turners Falls / Gill, MA — Great Falls of the Connecticut River</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Time depth:</span> <span style=\"font-size:12px;\">10,000+ years of human occupation — evidence from Paleo times through Historic Contact</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Description:</span> <span style=\"font-size:12px;\">One of the most important fishing sites in New England for thousands of years. At least twice yearly, peoples from hundreds of miles converged for salmon/shad/herring runs, planting, trade, ceremony, and kinship renewal. 300 acres of cleared land with wetus (domed huts). Wissatinnewag was the adjacent Pocumtuck village.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Gathering peoples:</span> <span style=\"font-size:12px;\">Nipmuc paddled down the Millers River. Abenaki & Sokoki streamed south. Mohican arrived from the west. Narragansett from the southeast. Pocumtuck Confederation villages moved upriver.</span></div><div style=\"margin-bottom:4px;\"><span style=\"font-weight:bold;font-size:11px;color:#555;\">Interpretation:</span> <span style=\"font-size:12px;\">Great Falls Discovery Center (state park, Turners Falls) — life-size dioramas, exhibits on watershed natural and cultural history. Free admission.</span></div></div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican",
         "narragansett",

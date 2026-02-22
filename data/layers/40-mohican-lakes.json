@@ -22,7 +22,13 @@
       "popupOptions": {
         "maxWidth": 360
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -51,8 +57,16 @@
       "popupOptions": {
         "maxWidth": 340
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -134,7 +148,13 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -204,8 +224,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -264,8 +292,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -355,8 +391,16 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -415,7 +459,13 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -526,7 +576,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">🏖️ Kwuniikwat Island</h3>\n    <p><b>Meaning:</b> \"Appearing long\" (Mohican)</p>\n    <p><b>Named:</b> 2018 by the Stockbridge-Munsee tribal council</p>\n    <p><b>Size:</b> 2 acres, in the center of Stockbridge Bowl (Lake Mahkeenac)</p>\n    <p>A living act of Mohican naming in a landscape that was reshaped by damming but never forgotten.</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -587,8 +643,16 @@
       "popupOptions": {
         "maxWidth": 400
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -609,8 +673,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#87CEEB\">💧 Richmond Pond — Housatonic Headwater</h3>\n    <p><b>Location:</b> Richmond, MA</p>\n    <p><b>Description:</b> Feeds the West Branch of the Housatonic River. Drops 140 feet in ~5 miles before joining the East Branch to form the Housatonic mainstem. One of the headwater lakes of the entire Housatonic system.</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -631,7 +703,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Woods Pond Dam</h3>\n      <p><b>Location:</b> Lenox</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>PCB trap — 11,000 lbs of PCBs trapped behind dam</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -655,7 +733,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Columbia Mill Dam</h3>\n      <p><b>Location:</b> Lee</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Mill dam on mainstem</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -679,7 +763,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Willow Mill Dam</h3>\n      <p><b>Location:</b> South Lee</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Historic mill dam</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -703,7 +793,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Glendale Dam</h3>\n      <p><b>Location:</b> Stockbridge</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Impounds river in Glendale section</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -727,7 +823,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Rising Pond Dam</h3>\n      <p><b>Location:</b> Great Barrington</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Impounds Rising Pond on mainstem</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -751,7 +853,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Falls Village Dam</h3>\n      <p><b>Location:</b> Falls Village, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Hydroelectric; blocks fish passage</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -775,7 +883,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Bulls Bridge Dam</h3>\n      <p><b>Location:</b> Kent, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Hydroelectric dam</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -799,7 +913,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Shepaug Dam</h3>\n      <p><b>Location:</b> Southbury, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Creates Lake Lillinonah — 1,900 acres</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -823,7 +943,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Stevenson Dam</h3>\n      <p><b>Location:</b> Monroe, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Creates Lake Zoar — 975 acres</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -847,7 +973,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#A52A2A\">⬛ Derby Dam</h3>\n      <p><b>Location:</b> Shelton, CT</p>\n      <p><b>River:</b> Housatonic</p>\n      <p>Creates Lake Housatonic — 328 acres</p>\n      <p><b>Context:</b> By 1900, there were 30 dams on the Housatonic in Pittsfield alone. The Mohicans knew this as <i>Usi-a-di-en-uk</i> — a free-flowing 149-mile river from Pittsfield to Long Island Sound.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP dam inventory; MA DEP; EPA Housatonic Superfund</p>\n    </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -935,7 +1067,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -956,8 +1090,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Lake Lillinonah (1900 acres)</h3>\n      <p><b>Created by:</b> Shepaug Dam</p>\n      <p><b>Type:</b> Hydroelectric impoundment on the Housatonic River</p>\n      <p><b>Before:</b> Free-flowing section of the Housatonic — <i>Usi-a-di-en-uk</i>. Fish (salmon, shad, herring, eel, sturgeon) traveled the entire 149-mile length.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; FERC hydroelectric records</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -978,8 +1120,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Lake Zoar (975 acres)</h3>\n      <p><b>Created by:</b> Stevenson Dam</p>\n      <p><b>Type:</b> Hydroelectric impoundment on the Housatonic River</p>\n      <p><b>Before:</b> Free-flowing section of the Housatonic — <i>Usi-a-di-en-uk</i>. Fish (salmon, shad, herring, eel, sturgeon) traveled the entire 149-mile length.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; FERC hydroelectric records</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1000,8 +1150,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Lake Housatonic (328 acres)</h3>\n      <p><b>Created by:</b> Derby Dam</p>\n      <p><b>Type:</b> Hydroelectric impoundment on the Housatonic River</p>\n      <p><b>Before:</b> Free-flowing section of the Housatonic — <i>Usi-a-di-en-uk</i>. Fish (salmon, shad, herring, eel, sturgeon) traveled the entire 149-mile length.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT DEEP; FERC hydroelectric records</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1022,8 +1180,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Ashokan Reservoir (1915)</h3>\n      <p><b>Size:</b> 8,315 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Flooded the towns of Olive and Shokan, displacing 2,000+ people. Entire communities — homes, churches, cemeteries, farms — submerged.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Galusha 1999 \"Liquid Assets\"</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1044,8 +1210,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Pepacton Reservoir (1955)</h3>\n      <p><b>Size:</b> 5,700 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Largest in the NYC system. Flooded the towns of Arena, Pepacton, Shavertown, and Union Grove. Entire communities erased.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Delaware County Historical Association</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1066,8 +1240,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Cannonsville Reservoir (1964)</h3>\n      <p><b>Size:</b> 4,800 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Flooded the town of Cannonsville and surrounding communities. One of the last major NYC reservoir projects.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Delaware County Historical Association</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1088,8 +1270,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Rondout Reservoir (1950)</h3>\n      <p><b>Size:</b> 2,100 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Part of the Delaware System connecting western Catskills water to NYC.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1110,8 +1300,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Neversink Reservoir (1954)</h3>\n      <p><b>Size:</b> 1,500 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Flooded the town of Neversink. Waters from here travel through the Neversink Tunnel to the Rondout Reservoir.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP; Sullivan County Historical Society</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1132,8 +1330,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#1565C0\">🏗️ Schoharie Reservoir (1926)</h3>\n      <p><b>Size:</b> 1,100 acres</p>\n      <p style=\"color:#B22222;font-weight:bold;\">Part of the Catskill System. Waters diverted through the Shandaken Tunnel to the Esopus Creek and then to Ashokan.</p>\n      <p><b>Context:</b> NYC's water supply system dammed virtually every significant Hudson Valley tributary. These reservoirs drowned entire towns, villages, and landscapes that were part of the indigenous and colonial heritage of the region.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> NYC DEP</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1154,8 +1360,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#87CEEB\">💧 Twin Lakes — Natural Glacial Lake (Relatively Unchanged)</h3>\n    <p><b>Location:</b> Salisbury, CT</p>\n    <p><b>Evidence of human use:</b> 5,000+ years</p>\n    <p><b>Status:</b> One of the few natural glacial lakes in the region that remains relatively close to its original size. A rare window into what the pre-dam landscape actually looked like.</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1208,7 +1422,13 @@
       "popupOptions": {
         "maxWidth": 420
       },
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "haudenosaunee",
         "mohican",

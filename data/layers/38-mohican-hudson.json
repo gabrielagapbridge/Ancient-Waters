@@ -196,7 +196,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -291,7 +293,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -387,7 +391,9 @@
         "early_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -454,7 +460,9 @@
       "timePeriods": [
         "middle_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -479,7 +487,9 @@
         "early_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -503,7 +513,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -527,7 +539,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -551,7 +565,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -737,7 +753,9 @@
         "late_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -859,7 +877,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -880,8 +900,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Papscanee Island / Goldkrest Site (Nanosech)</h3>\n    <p><b>Period:</b> Late Woodland (prominent by ~AD 1000)</p>\n    <p><b>Location:</b> East bank of Hudson, Rensselaer County, NY</p>\n    <p><b>Description:</b> Warm-season fishing site surrounded by marshes and rich alluvial soils. By ~AD 1000, evidence of corn production and deliberate forest burning for clearing — this affected watershed dynamics, increasing runoff and expanding meadow/wetland areas near the village.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Chilton 2010; Brumbach 1975; Funk 1976</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -983,7 +1011,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1004,7 +1034,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Canoe Meadows / Unkamet's Crossing</h3>\n    <p><b>Period:</b> Late Woodland / Contact</p>\n    <p><b>Location:</b> Pittsfield, MA — along the Housatonic River</p>\n    <p><b>Significance:</b> A major Mohican site along the Housatonic. The name \"Canoe Meadows\" reflects the importance of water travel. The broad, flat valley between Pittsfield and Great Barrington supported rich agricultural floodplains.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brasser 1978; Dunn 1994</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -1028,7 +1064,13 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#8B4513\">⬢ Old Indian Fordway</h3>\n    <p><b>Period:</b> Pre-contact through Contact</p>\n    <p><b>Location:</b> Great Barrington, MA — Housatonic River</p>\n    <p><b>Description:</b> A critical river crossing on the Housatonic, used by Mohican people and later as part of the broader trail network connecting the Hudson Valley to Long Island Sound.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Brasser 1978; Dunn 1994; Lavin 2013</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohican"
       ],
@@ -1052,7 +1094,13 @@
         "weight": 3
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">◆ Bellows Falls — Kchi Pôntegok (Great Falls)</h3>\n    <p><b>Type:</b> Petroglyphs + Major fishery + Sacred site</p>\n    <p><b>Location:</b> Bellows Falls, VT — narrowest point of the Connecticut River</p>\n    <p><b>Petroglyphs:</b> ~24 carved faces on rocks at the falls — placed where fish concentrated during spawning runs, a place of immense spiritual and practical significance.</p>\n    <p><b>Fishery:</b> \"The most fertile salmon habitat in the Eastern United States\" before damming. Fish concentrated at the narrowest point during migrations, making it a gathering place for thousands of years.</p>\n    <p><b>Fish species:</b> Salmon, shad, trout, herring, bass, lamprey — smoked, dried, and roasted at processing sites near the falls.</p>\n    <p><b>Peoples:</b> Mohawk, Abenaki, and other peoples visited these falls for the annual fish runs.</p>\n    <p><b>Significance:</b> A place of \"spiritual importance and resource abundance\" for thousands of years.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Bellows Falls Kchi Pôntegok Project; Calloway 1990; VT Division for Historic Preservation</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "mohawk",
         "wabanaki"
@@ -1079,8 +1127,16 @@
         "weight": 3
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#DC143C\">◆ Turners Falls — Great Falls Fishery</h3>\n    <p><b>Location:</b> Turners Falls, Montague, MA</p>\n    <p><b>Description:</b> One of the two Great Falls on the Connecticut River (along with Bellows Falls). A major fishing and habitation site where fish concentrated during spawning runs.</p>\n    <p><b>Fishery:</b> Fish were smoked, dried, and roasted at processing sites near the falls. The falls were a gathering place for thousands of years.</p>\n    <p><b>Destruction:</b> In 1798, the first dam across the Connecticut mainstem was built here — \"the engineering marvel of the world\" at the time. It blocked ALL salmon from reaching their last remaining spawning habitat. By the War of 1812, Atlantic salmon were completely extirpated from the Connecticut River.</p>\n    <p><b>Modern impact:</b> Of 537,000 shad passing Holyoke in 2017, only 48,000 (9%) made it past Turners Falls.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Chilton et al. 2005</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1105,7 +1161,9 @@
         "late_archaic",
         "middle_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1126,7 +1184,13 @@
         "weight": 3
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#B22222\">◆ Brattleboro Petroglyphs (SUBMERGED)</h3>\n    <p><b>Location:</b> Confluence of West River and Connecticut River, Brattleboro, VT (Wnatstique — Abenaki name)</p>\n    <p><b>Carvings:</b> 9 petroglyphs on a rock ledge: 5 thunderbirds, a human figure, a dog/wolf, and 2 serpent/eel figures.</p>\n    <p><b>Cultural significance:</b> Wnatstique was a place where \"people returned to be buried with their ancestors\" (Abenaki).</p>\n    <p style=\"color:#B22222;font-weight:bold;\">LOST: In 1909, the Vernon hydroelectric dam was built downstream, and the carvings disappeared under ~15 feet of water and 2.5 feet of silt. For over a century, they were lost.</p>\n    <p><b>Rediscovery:</b> In 2015, diver Annette Spaulding — who had been searching for 30 years — found a single carved face. In 2017, she located the full panel on a 12×8 foot underwater ledge. The petroglyphs are now accessible only to divers.</p>\n    <p><b>Significance:</b> Represents what happened to countless sacred sites along every dammed river in this region.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> VT Division for Historic Preservation; Spaulding 2017; Calloway 1990</p>\n  </div>",
-      "timePeriods": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
       "cultures": [
         "wabanaki"
       ],
@@ -1151,8 +1215,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#FFD700\">◆ Bellows Falls Petroglyphs</h3>\n    <p><b>Date:</b> Pre-contact (exact date unknown — possibly 1,000+ years)</p>\n    <p><b>Location:</b> Bellows Falls, VT — on rocks at the Great Falls</p>\n    <p><b>Description:</b> ~24 carved faces placed at the narrowest point of the Connecticut River, where fish concentrated during spawning runs. The petroglyphs mark a site of immense spiritual and practical significance — connecting the physical world of abundant fish with the spiritual world.</p>\n    <p><b>Status:</b> Still visible (unlike the Brattleboro petroglyphs, which were submerged).</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Kchi Pôntegok Project; VT Division for Historic Preservation; Calloway 1990</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1173,8 +1245,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Stockport Flats — Tidal Wetland</h3>\n    <p><b>Location:</b> Stockport, Columbia County, NY</p>\n    <p><b>Description:</b> One of the last significant freshwater tidal wetland complexes on the Hudson. 80% of the Hudson's tidal wetlands sit above the saltwater reach — this was true in pre-contact times as it is now.</p>\n    <p><b>Significance:</b> These wetlands were nurseries for fish, nesting grounds for waterfowl, and sources of reeds for mat-making and construction.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Scenic Hudson; NYSDEC Hudson River Estuary Program</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1195,8 +1275,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Tivoli Bays — Tidal Wetland</h3>\n    <p><b>Location:</b> Tivoli, Dutchess County, NY</p>\n    <p><b>Description:</b> Significant freshwater tidal wetland complex. Part of the Hudson's surviving ~7,000 acres of tidal wetlands — a fraction of pre-contact extent.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Scenic Hudson; Bard College Field Station</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1217,8 +1305,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Constitution Marsh — Tidal Wetland</h3>\n    <p><b>Location:</b> Cold Spring, Putnam County, NY (Hudson Highlands)</p>\n    <p><b>Description:</b> Audubon-managed tidal marsh. One of the last significant wetland complexes in the Hudson Highlands reach of the estuary.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Audubon; Scenic Hudson; NYSDEC</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1239,8 +1335,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n    <h3 style=\"color:#2E8B57\">🌿 Iona Island — Tidal Wetland</h3>\n    <p><b>Location:</b> Bear Mountain, Rockland County, NY</p>\n    <p><b>Description:</b> One of the last significant tidal wetland complexes on the Hudson — representing what survived from the vast marshes that once lined the river.</p>\n    <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Palisades Interstate Park Commission; NYSDEC</p>\n  </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1261,8 +1365,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Turners Falls Dam (orig. 1798) (1798)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: First dam across the CT mainstem — \"engineering marvel of the world.\" Blocked ALL salmon from reaching last spawning habitat. Atlantic salmon completely extirpated from the Connecticut River by the War of 1812.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> CT River salmon restoration records; Bendremer & Thomas 2008</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1283,8 +1395,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Holyoke Dam (1869/rebuilt 1895) (1869)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Blocked remaining migratory fish from upper reaches. Combined with Turners Falls dam, severed the 400-mile unbroken salmon corridor.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Holyoke Water Power Co. records; CT River Watershed Council</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1308,7 +1428,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1329,8 +1451,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Bellows Falls Dam (1928)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Further fragmented the river. Shad runs that once reached Bellows Falls (200+ miles) now mostly stop at Turners Falls (123 miles).</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> Kchi Pôntegok Project; CT River Watershed Council</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1351,8 +1481,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Wilder Dam (1950)</h3>\n      <p><b>River:</b> Connecticut River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Additional fragmentation of the Connecticut River corridor.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USACE New England Division</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1376,7 +1514,9 @@
       "timePeriods": [
         "historic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1397,8 +1537,16 @@
         "weight": 2
       },
       "popup": "<div class=\"popup-content\">\n      <h3 style=\"color:#696969\">⬛ Federal Dam at Troy (1825)</h3>\n      <p><b>River:</b> Hudson River</p>\n      <p style=\"color:#B22222;font-weight:bold;\">LOST: Created the modern head of tidal influence. Before the dam, tidal waters may have reached slightly further upstream.</p>\n      <p style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px;\"><b>Sources:</b> USGS; NYSDEC Hudson River Estuary Program</p>\n    </div>",
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1455,8 +1603,16 @@
       "popupOptions": {
         "maxWidth": 380
       },
-      "timePeriods": [],
-      "cultures": [],
+      "timePeriods": [
+        "contact",
+        "formative",
+        "historic",
+        "late_archaic",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1505,7 +1661,9 @@
         "late_archaic",
         "middle_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1554,7 +1712,9 @@
         "late_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1579,7 +1739,9 @@
         "middle_archaic",
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1603,7 +1765,9 @@
       "timePeriods": [
         "paleoindian"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
@@ -1707,7 +1871,9 @@
       "timePeriods": [
         "late_archaic"
       ],
-      "cultures": [],
+      "cultures": [
+        "mohican"
+      ],
       "tribes": [
         "mohican"
       ],
