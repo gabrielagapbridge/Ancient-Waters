@@ -1,6 +1,6 @@
 {
   "source": "21-chumash-rockart.js",
-  "featureCount": 27,
+  "featureCount": 32,
   "features": [
     {
       "type": "marker",
@@ -1167,6 +1167,171 @@
         "chumash"
       ],
       "rockArtStyles": []
+    },
+    {
+      "type": "marker",
+      "layer": "chumashSacred",
+      "geometry": {
+        "lat": 34.53,
+        "lng": -119.85
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#E65100",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 480
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#E65100;margin:0 0 4px;font-size:15px;\">Indian Caves — West of Santa Barbara (Steward #85)</h4><br><i>Chumash (Barbareño) · Pictograph Site</i><br><br>Located near San Jose Creek, approximately 15 miles west of Santa Barbara near San Marcos Pass. First documented by John V. Frederick and published in Steward's 1929 survey.<br><br>Polychrome pictographs in red, black, and white featuring checkerboard patterns, zigzags, triangles, sun disks, feather elements, stars, chains of triangles, rake designs, crosses, snake representations, many-legged creatures, and hand/footprints. These are classic Chumash shamanic motifs associated with <i>'antap</i> society ritual practices.<br><br>Pigments made from hematite (red), charcoal/manganese (black), and diatomaceous earth (white). A flat granitic boulder with 21 mortar holes nearby indicates seasonal acorn processing camp.<br><br><b>Source:</b> Steward 1929, pp. 91–140 · Frederick field notes · Grant 1965\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "chumashSacred",
+      "geometry": {
+        "lat": 34.55,
+        "lng": -120.15
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#E65100",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 480
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#E65100;margin:0 0 4px;font-size:15px;\">Najowe Valley Pictographs (Steward #86)</h4><br><i>Chumash (Ineseño / Purisimeño boundary) · Pictograph Site</i><br><br>Located 43 miles west of Santa Barbara in the Santa Ynez / San Rafael Mountains. Pictographs in a large shallow cavern at the base of a rocky promontory.<br><br>Red (ferruginous clay) and black (manganese) pictographs featuring human figures with rectangular bodies, crosses, and designs similar to San Marcos Pass sites. Some later additions include horned cattle — indicating post-contact use after Spanish livestock arrived (post-1769). Human figures appear to show gestures of surprise or negation, an unusual and expressive detail.<br><br>The presence of post-contact imagery (cattle) alongside traditional motifs makes this a rare site documenting the transition between pre-contact and colonial periods.<br><br><b>Source:</b> Steward 1929 (via Mallery) · Grant 1965\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "chumashSacred",
+      "geometry": {
+        "lat": 35.05,
+        "lng": -119.88
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#E65100",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 480
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "chumash",
+        "yokuts"
+      ],
+      "tribes": [
+        "chumash",
+        "yokuts"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#E65100;margin:0 0 4px;font-size:15px;\">Carrizo Plains Secondary Pictograph Site (Steward #124)</h4><br><i>Chumash / Yokuts · Pictograph Site</i><br><br>Located approximately 10 miles south of the main Painted Rock (La Piedra Pintada) on the Carrizo Plain, San Luis Obispo County. Isolated location accessible only by horseback or on foot.<br><br>Pictographs in red, black, and white featuring a dog/coyote head, bat, centipede, and concentric circles approximately 15 inches in diameter. Rock somewhat exposed to weather. Painted caves also noted in the nearby Sisquoc River country.<br><br>The Chumash first populated the Carrizo Plain around 2000 BCE but mostly abandoned it by ~600 CE, possibly due to drought. The Yokuts of the San Joaquin Valley moved in and out after the Chumash departed, creating their own rock art. Yokut pictographs tend toward large colorful figures while Chumash pictographs favor small elements, circular mandalas, and complex polychrome panels. This area sits in contested territory claimed by Chumash, Salinan, and Yokuts peoples.<br><br><b>Source:</b> Steward 1929 (via B. F. Stilwell)\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "chumashSacred",
+      "geometry": {
+        "lat": 34.08,
+        "lng": -118.8
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#E65100",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 480
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#E65100;margin:0 0 4px;font-size:15px;\">Cornell Pictograph Site (Steward #126)</h4><br><i>Chumash (Ventureño) · Pictograph Site</i><br><br>Located near the former Cornell Post Office in the Santa Monica Mountains, approximately 40 miles west of Los Angeles (Sec 12, T1S, R19W). Now in the Paramount Ranch / Cornell area of the Santa Monica Mountains National Recreation Area, Ventura/Los Angeles County boundary.<br><br>Over 50 paintings reported as well preserved. Previously inaccessible due to private ranch land. The Santa Monica Mountains contain multiple documented Chumash rock art sites in sandstone outcrops. The nearby Saddlerock Ranch \"Cave of the Four Horsemen\" contains the first known Chumash depiction of humans on horseback, dated after 500 CE and possibly depicting the Portolá expedition (1769–70) or the Anza expedition (1775).<br><br>The Ventureño Chumash maintained villages and ceremonial sites throughout the Santa Monica Mountains. Shamans (<i>'alchuklash</i>) created rock art during vision quests at sacred locations, usually near their home villages.<br><br><b>Source:</b> Steward 1929 (via K. W. Thompson)\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "chumashSacred",
+      "geometry": {
+        "lat": 34.02,
+        "lng": -119.75
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#E65100",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 480
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact",
+        "historic"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "chumash_painted",
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#E65100;margin:0 0 4px;font-size:15px;\">Santa Cruz Island Pictograph Cave (Steward #129)</h4><br><i>Island Chumash (Limuw) · Pictograph Site</i><br><br>One of the very few documented pictograph sites on the Channel Islands — rock art is notably rare on the islands compared to the Chumash mainland. Located in a cave on the north shore of Santa Cruz Island, Santa Barbara County.<br><br>Approximately 50 pictographs painted in red ochre on walls and roof. Designs include stripes in groups of 2–10, irregular smears, simple crosses, and rake figures. None were elaborate compared to mainland Chumash sites. Many partially obscured by fire blackening from centuries of cooking fires.<br><br>An ash deposit 2–6 feet deep forms the cave floor, indicating centuries of occupation. Artifacts found include mortars, pestles, asphalted pebbles, and asphalt blocks — all characteristic Chumash materials. The asphalted pebbles relate to the Chumash tradition of using natural tar (bitumen) for waterproofing their plank canoes (<i>tomols</i>) used to cross the Santa Barbara Channel.<br><br>The Island Chumash called Santa Cruz Island <i>Limuw</i> (\"in the sea\") and maintained villages there for over 10,000 years. At European contact, the island had multiple large villages. Mission records document 119 baptisms from the village of Qshiwqshiw alone. Possible shrines associated with winter solstice ceremonies have been identified on the island's ridgelines.<br><br><b>Source:</b> Steward 1929 (via Ronald Olson, UC) · Orr 1968 · Perry 2007\n      </div>"
     }
   ]
 }

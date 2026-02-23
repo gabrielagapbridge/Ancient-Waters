@@ -1,6 +1,6 @@
 {
   "source": "18-southcentral-rockart.js",
-  "featureCount": 19,
+  "featureCount": 24,
   "features": [
     {
       "type": "marker",
@@ -712,6 +712,167 @@
       "rockArtStyles": [
         "chumash_painted"
       ]
+    },
+    {
+      "type": "marker",
+      "layer": "scRockArt",
+      "geometry": {
+        "lat": 35.52,
+        "lng": -120.5
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF5722",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "salinan"
+      ],
+      "tribes": [
+        "salinan"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF5722;margin:0 0 4px;font-size:15px;\">Creston Pictographs (Steward #95)</h4><br><i>Salinan · Pictograph Site</i><br><br>Located on a hill opposite the Huer-Huero schoolhouse, approximately 6 miles southeast of Creston, San Luis Obispo County. Firmly within Salinan territory along the eastern flanks of the Santa Lucia Range.<br><br>Pictographs in red and yellow on sandstone. The site is notable for many bedrock mortar holes nearby, indicating long-term seasonal use as an acorn processing station. The association of rock art with milling features suggests this was both a practical food-gathering site and a location of ritual or symbolic importance — a pattern seen throughout Salinan territory.<br><br>The Salinan people lived along the Salinas River valley, encompassing present-day Monterey and San Luis Obispo counties. Their territory included some of the most rugged topography in the Coast Ranges. The Salinan are divided into two main groups: the Antonianos (associated with Mission San Antonio) and the Migueleños (associated with Mission San Miguel).<br><br><b>Source:</b> Steward 1929 (via Mr. Cliff)\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "scRockArt",
+      "geometry": {
+        "lat": 35.97,
+        "lng": -121.18
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF5722",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "salinan"
+      ],
+      "tribes": [
+        "salinan"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF5722;margin:0 0 4px;font-size:15px;\">Jolon / San Miguelito Ranch Pictographs (Steward #98)</h4><br><i>Salinan (Antonianos) · Pictograph Site</i><br><br>Located on the San Miguelito ranch near Jolon in the San Antonio River valley, southern Monterey County. Within the heart of Salinan Antonianos territory, near present-day Fort Hunter Liggett.<br><br>Pictographs in black (primary), white, and red on coarse sandstone with arched cave-like openings. Design elements include an acorn figure, possible ship mast (may indicate post-contact addition), tally marks, human figure, sun disk, and cross-work lines. Rock strata at 60° angle — rapid weathering noted by Steward.<br><br>Three mortar holes and fire-blackened walls indicate seasonal acorn gathering camp. The Salinan Antonianos occupied villages in the Jolon area from approximately 450 CE through the protohistoric period (1450–1650 CE). The nearby Wagon Caves (CA-MNT-307) contain evidence of centuries of Salinan habitation including shell beads, bone awls, mortars, and fire-scarred roofs.<br><br><b>Source:</b> Steward 1929 (via P. M. Jones) · Breschini & Haversat 1980\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "scRockArt",
+      "geometry": {
+        "lat": 35.82,
+        "lng": -121.05
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF5722",
+        "size": 12
+      },
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "salinan"
+      ],
+      "tribes": [
+        "salinan"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF5722;margin:0 0 4px;font-size:15px;\">La Cueva Pintada — Cave of the Idols (Steward #99)</h4><br><i>Salinan · Pictograph Site · CA-MNT-256 · NRHP Listed 1975</i><br><br>\"The Painted Cave\" — one of the most important rock art sites in central California. Located approximately 5 miles north of Mission San Antonio de Padua on the San Antonio River, within Fort Hunter Liggett, southern Monterey County.<br><br>A large rock shelter (16.5 ft high × 21 ft wide) covered with prehistoric white, red, black, and ochre pictographs created by the Salinan people over thousands of years. Designs include human figures, a turtle, the sun, and other ideographic symbols. Natural rock features were incorporated into compositions — a hallmark of Salinan artistic practice. Probable ceremonial use (puberty rites). No evidence of permanent habitation. Floor polished from centuries of use. Roof blackened by fires.<br><br>This site corresponds to the \"Cave of the Idols\" referenced in Father Junípero Serra's letter of May 21, 1773, shortly after the founding of Mission San Antonio de Padua. After converting to Christianity, indigenous people informed the Franciscan priests about the cave's location.<br><br>In 1980, Archaeological Consulting (Breschini & Haversat) documented over 360 drawings, tracings, and photographs — now housed at the Rock Art Archives at UCLA. Access limited by U.S. Army (Fort Hunter Liggett). Protected by chain-link fence and razor wire.<br><br><b>Source:</b> Steward 1929 (via Mason) · Serra 1773 · Breschini & Haversat 1980 · NRHP 1975\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "scRockArt",
+      "geometry": {
+        "lat": 36.22,
+        "lng": -121.55
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF5722",
+        "size": 12
+      },
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "esselen"
+      ],
+      "tribes": [
+        "esselen"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF5722;margin:0 0 4px;font-size:15px;\">Tassajara Hand Cave — Church Creek (Steward #100)</h4><br><i>Esselen · Pictograph Site · CA-MNT-44</i><br><br>The famous Esselen handprint cave — one of the most unique rock art sites in North America. Located in a narrow canyon a few miles from Tassajara Hot Springs, deep in the Santa Lucia Mountains of the Ventana Wilderness, Monterey County.<br><br>Approximately 250 carefully painted white handprints cover the walls of this rock shelter. Unlike typical palm-stamp handprints found worldwide, these are composed of precisely painted parallel white lines — essentially unique signatures of each individual. Both left and right hands are represented, with individual variation in style. White pigment likely made from limestone or white clay.<br><br>A towering sandstone formation shaped like a human hand rises 200–300 feet above the valley floor less than half a mile from the cave, and likely inspired the use of the hand as the primary motif. The handprints may be connected to initiation ceremonies — individuals symbolically taking their places as adults as their handprints join the many others on the cave walls.<br><br>Artifacts found at CA-MNT-44 include bone awls, antler flakers, Desert side-notched projectile points, and scrapers. Steward also noted a red swastika painting 2 miles away on overhanging rocks — likely a separate Esselen or Salinan site.<br><br>Immortalized by Robinson Jeffers in his poem \"Hands\" (1929). The Esselen (population ~500–1,000 at contact) were one of the smallest California peoples. Their territory centered on the upper Carmel Valley and Santa Lucia Mountains. Carbon dating places Esselen presence in Big Sur since circa 2630 BCE, with recent dates extending back over 6,500 years.<br><br><b>Source:</b> Steward 1929 · Breschini 1973 · Breschini & Haversat · Jeffers 1929\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "scRockArt",
+      "geometry": {
+        "lat": 36.4,
+        "lng": -121.65
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF5722",
+        "size": 10
+      },
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "esselen",
+        "ohlone"
+      ],
+      "tribes": [
+        "esselen",
+        "rumsen_ohlone"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ],
+      "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF5722;margin:0 0 4px;font-size:15px;\">Monterey / Carmelo Range Pictographs (Steward #101)</h4><br><i>Esselen or Rumsen Ohlone · Pictograph Site</i><br><br>Located in a large cave near hot springs in the Tularcitos hills, Carmelo Range east of Monterey, Monterey County. This area sits at the boundary between Esselen and Rumsen Ohlone territories.<br><br>Many figures painted in vermilion red. The association with hot springs is notable — thermal springs were often sacred locations for indigenous peoples of this region. Tassajara (an Esselen word meaning \"place where meat is hung to dry\") also centers on hot springs, and the nearby Esselen handprint cave (CA-MNT-44) is in the same mountain system.<br><br>Minimal documentation in Steward's survey. Further research needed to identify the specific cave and determine cultural affiliation. The Carmelo Range was contested territory between the Esselen and the coastal Rumsen Ohlone.<br><br><b>Source:</b> Steward 1929\n      </div>"
     }
   ]
 }
