@@ -1,6 +1,6 @@
 {
   "source": "18-southcentral-rockart.js",
-  "featureCount": 24,
+  "featureCount": 25,
   "features": [
     {
       "type": "marker",
@@ -873,6 +873,18 @@
         "pictograph"
       ],
       "popup": "\n    <div style=\"max-width:460px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FF5722;margin:0 0 4px;font-size:15px;\">Monterey / Carmelo Range Pictographs (Steward #101)</h4><br><i>Esselen or Rumsen Ohlone · Pictograph Site</i><br><br>Located in a large cave near hot springs in the Tularcitos hills, Carmelo Range east of Monterey, Monterey County. This area sits at the boundary between Esselen and Rumsen Ohlone territories.<br><br>Many figures painted in vermilion red. The association with hot springs is notable — thermal springs were often sacred locations for indigenous peoples of this region. Tassajara (an Esselen word meaning \"place where meat is hung to dry\") also centers on hot springs, and the nearby Esselen handprint cave (CA-MNT-44) is in the same mountain system.<br><br>Minimal documentation in Steward's survey. Further research needed to identify the specific cave and determine cultural affiliation. The Carmelo Range was contested territory between the Esselen and the coastal Rumsen Ohlone.<br><br><b>Source:</b> Steward 1929\n      </div>"
+    },
+    {
+      "type": "marker",
+      "layer": "scRockArt",
+      "geometry": { "lat": 35.3, "lng": -119.62 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FF5722", "size": 10 },
+      "popup": "<b>McKittrick Pictographs — Temblor Ranch (Steward #94)</b><br><i>Tulamni Yokuts · Pictograph Site · Possibly Destroyed</i><br><br>Steward (1929) recorded \"rock paintings\" at the Temblor Ranch near McKittrick in western Kern County. The site lies in the oil-rich Temblor Range foothills at the extreme southwestern edge of the San Joaquin Valley, adjacent to a former creek drainage.<br><br>This area was the territory of the <b>Tulamni</b> (Southern Valley Yokuts), who maintained the village of <b>Wogitiu</b> at McKittrick and larger settlements around nearby Buena Vista Lake. An <b>Indian Cemetery</b> still marked on modern maps southeast of town confirms long-term indigenous habitation. Walker's <i>Excavation of a Yokuts Indian Cemetery</i> documents burials at nearby Elk Hills.<br><br>The Salinan Tribe also claims territory extending east to the Temblor Mountains, making this a Yokuts–Salinan borderland. The site's current condition is unknown — the McKittrick oil fields have been intensively developed since the early 1900s, and the site may be damaged or destroyed.<br><br><b>Cultural note:</b> The Tulamni were lake-and-slough dwellers who built tule-mat communal houses (kawi) housing up to 10 families. They traded with the Chumash for shell beads and with Sierra foothill groups for obsidian.<br><br><b>Source:</b> Steward 1929, #94 · Kroeber 1925 · Walker (Elk Hills cemetery) · Access Genealogy (Tulamni villages)",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative", "late_prehistoric", "contact"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts_tulamni"],
+      "rockArtStyles": ["pictograph"]
     }
   ]
 }

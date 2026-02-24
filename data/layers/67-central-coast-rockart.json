@@ -1,6 +1,6 @@
 {
   "source": "67-central-coast-rockart.json",
-  "featureCount": 9,
+  "featureCount": 11,
   "features": [
     {
       "type": "marker",
@@ -287,6 +287,30 @@
       "rockArtStyles": [
         "pictograph"
       ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": { "lat": 35.52, "lng": -120.47 },
+      "icon": { "factory": "mkPetroIcon", "color": "#FF8C42", "size": 10 },
+      "popup": "<b>Vacquero Water Petroglyphs (Steward #96)</b><br><i>Salinan Miguele\u00f1o \u00b7 Petroglyph Site</i><br><br>Steward (1929) recorded <b>carvings</b> on a <b>chalk bluff approximately 100 feet high</b>, located 6 miles east of Creston in San Luis Obispo County. The rock art was situated 15 feet above the talus slope. The site is near a tributary of the Huer Huero Creek, close to the dried-up Salinas River drainage.<br><br>This is notable for two reasons: the <b>chalk substrate</b> is extremely unusual for California rock art (most sites use sandstone or granite), and Steward specifically described \"carvings\" rather than paintings, indicating <b>petroglyphs</b> \u2014 which are rare in Salinan territory where pictographs predominate.<br><br>The site lies firmly within <b>Salinan Miguele\u00f1o</b> territory, near the ethnographic village of <b>him'-se-en'</b> (between Paso Robles and Templeton) and the major village of <b>isolam</b> near Cholame. The Miguele\u00f1o dialect group was associated with Mission San Miguel, founded 1797.<br><br>The high placement on a visible bluff suggests these may have served as <b>trail markers or territorial markers</b> along a route connecting the Salinas Valley to the interior.<br><br><b>Source:</b> Steward 1929, #96 \u00b7 Hester 1978 (Salinan ethnography) \u00b7 Estrella Substation CRTR (Miguele\u00f1o villages)",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["salinan"],
+      "tribes": ["salinan_migueleno"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": { "lat": 35.48, "lng": -120.55 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FF8C42", "size": 10 },
+      "popup": "<b>Fisher's Peak Lattice Pictograph (Steward #97)</b><br><i>Salinan Miguele\u00f1o \u00b7 Pictograph/Petroglyph Site</i><br><br>Steward (1929) recorded a single prominent <b>lattice design</b> measuring <b>32 \u00d7 58 inches</b>, positioned <b>16 feet above ground level</b>, near Creston in San Luis Obispo County. The site is near a water source in the rolling hills east of the Salinas River.<br><br>The <b>lattice pattern</b> is interpretively significant. In Salinan culture, it may represent: <b>fishing or carrying nets</b> (the Salinan used dip nets and seine nets extensively in the Salinas River), <b>basket weave patterns</b> (Salinan women were renowned basket weavers using both twining and coiling techniques), or <b>cosmological grid patterns</b> found in shamanic rock art traditions across California.<br><br>The 16-foot height is remarkable \u2014 either the ground level has changed substantially since the art was created, or the artist used scaffolding, implying this was an <b>intentional, ceremonial placement</b> meant to be seen but not easily reached.<br><br>Like the nearby Creston site (#95), this lies within <b>Salinan Miguele\u00f1o</b> territory between the Salinas Valley and the Temblor Range, an area the Salinan Tribe describes as their homeland \"from the Pacific Ocean East to the Temblor Mountains.\"<br><br><b>Source:</b> Steward 1929, #97 \u00b7 Salinan Tribe of Monterey & San Luis Obispo Counties \u00b7 Hester 1978",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["salinan"],
+      "tribes": ["salinan_migueleno"],
+      "rockArtStyles": ["pictograph"]
     }
   ]
 }
