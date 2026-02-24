@@ -240,6 +240,8 @@
     "nvRockArtLate":        {"type":"layerGroup","addedToMap":true,"dataSources":["64-nevada-rock-art-expansion.json"]},
     "tahoeWashoe":          {"type":"layerGroup","addedToMap":true,"dataSources":["65-tahoe-deep-dive.json"]},
     "tahoeLake":            {"type":"layerGroup","addedToMap":true,"dataSources":["65-tahoe-deep-dive.json"]},
-    "tahoeChange":          {"type":"layerGroup","addedToMap":true,"dataSources":["65-tahoe-deep-dive.json"]}
+    "tahoeChange":          {"type":"layerGroup","addedToMap":true,"dataSources":["65-tahoe-deep-dive.json"]},
+    "centralCoastRockArt":  {"type":"layerGroup","addedToMap":true,"dataSources":["67-central-coast-rockart.json"]},
+    "kernRiverRockArt":     {"type":"layerGroup","addedToMap":true,"dataSources":["68-kern-river-tubatulabal-rockart.json"]}
   }
 }

@@ -1,0 +1,292 @@
+{
+  "source": "67-central-coast-rockart.json",
+  "featureCount": 9,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 34.55,
+        "lng": -120.15
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 10
+      },
+      "popup": "<b>Najowe Valley Pictographs (Steward #86)</b><br><i>Chumash (Inese\u00f1o / Purisime\u00f1o boundary) \u00b7 Pictograph Site</i><br><br>Located 43 miles west of Santa Barbara in the Santa Ynez / San Rafael Mountains. Pictographs in a large shallow cavern at the base of a rocky promontory.<br><br>Red (ferruginous clay) and black (manganese) pictographs featuring human figures with rectangular bodies, crosses, and designs similar to San Marcos Pass sites. Some later additions include horned cattle \u2014 indicating post-contact use after Spanish livestock arrived (post-1769). Human figures appear to show gestures of surprise or negation, an unusual and expressive detail.<br><br>The presence of post-contact imagery (cattle) alongside traditional motifs makes this a rare site documenting the transition between pre-contact and colonial periods.<br><br><b>Source:</b> Steward 1929 (via Mallery) \u00b7 Grant 1965",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 35.52,
+        "lng": -120.5
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 10
+      },
+      "popup": "<b>Creston Pictographs (Steward #95)</b><br><i>Salinan \u00b7 Pictograph Site</i><br><br>Located on a hill opposite the Huer-Huero schoolhouse, approximately 6 miles southeast of Creston, San Luis Obispo County. Firmly within Salinan territory along the eastern flanks of the Santa Lucia Range.<br><br>Pictographs in red and yellow on sandstone. The site is notable for many bedrock mortar holes nearby, indicating long-term seasonal use as an acorn processing station. The association of rock art with milling features suggests this was both a practical food-gathering site and a location of ritual or symbolic importance \u2014 a pattern seen throughout Salinan territory.<br><br>The Salinan people lived along the Salinas River valley, encompassing present-day Monterey and San Luis Obispo counties. Their territory included some of the most rugged topography in the Coast Ranges. The Salinan are divided into two main groups: the Antonianos (associated with Mission San Antonio) and the Miguele\u00f1os (associated with Mission San Miguel).<br><br><b>Source:</b> Steward 1929 (via Mr. Cliff)",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "salinan"
+      ],
+      "tribes": [
+        "salinan"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 35.97,
+        "lng": -121.18
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 10
+      },
+      "popup": "<b>Jolon / San Miguelito Ranch Pictographs (Steward #98)</b><br><i>Salinan (Antonianos) \u00b7 Pictograph Site</i><br><br>Located on the San Miguelito ranch near Jolon in the San Antonio River valley, southern Monterey County. Within the heart of Salinan Antonianos territory, near present-day Fort Hunter Liggett.<br><br>Pictographs in black (primary), white, and red on coarse sandstone with arched cave-like openings. Design elements include an acorn figure, possible ship mast (may indicate post-contact addition), tally marks, human figure, sun disk, and cross-work lines. Rock strata at 60\u00b0 angle \u2014 rapid weathering noted by Steward.<br><br>Three mortar holes and fire-blackened walls indicate seasonal acorn gathering camp. The Salinan Antonianos occupied villages in the Jolon area from approximately 450 CE through the protohistoric period (1450\u20131650 CE). The nearby Wagon Caves (CA-MNT-307) contain evidence of centuries of Salinan habitation including shell beads, bone awls, mortars, and fire-scarred roofs.<br><br><b>Source:</b> Steward 1929 (via P. M. Jones) \u00b7 Breschini & Haversat 1980",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "salinan"
+      ],
+      "tribes": [
+        "salinan"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 35.82,
+        "lng": -121.05
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 12
+      },
+      "popup": "<b>La Cueva Pintada \u2014 Cave of the Idols (Steward #99)</b><br><i>Salinan \u00b7 Pictograph Site \u00b7 CA-MNT-256 \u00b7 NRHP Listed 1975</i><br><br>\"The Painted Cave\" \u2014 one of the most important rock art sites in central California. Located approximately 5 miles north of Mission San Antonio de Padua on the San Antonio River, within Fort Hunter Liggett, southern Monterey County.<br><br>A large rock shelter (16.5 ft high \u00d7 21 ft wide) covered with prehistoric white, red, black, and ochre pictographs created by the Salinan people over thousands of years. Designs include human figures, a turtle, the sun, and other ideographic symbols. Natural rock features were incorporated into compositions \u2014 a hallmark of Salinan artistic practice. Probable ceremonial use (puberty rites). No evidence of permanent habitation. Floor polished from centuries of use. Roof blackened by fires.<br><br>This site corresponds to the \"Cave of the Idols\" referenced in Father Jun\u00edpero Serra's letter of May 21, 1773, shortly after the founding of Mission San Antonio de Padua. After converting to Christianity, indigenous people informed the Franciscan priests about the cave's location.<br><br>In 1980, Archaeological Consulting (Breschini & Haversat) documented over 360 drawings, tracings, and photographs \u2014 now housed at the Rock Art Archives at UCLA. Access limited by U.S. Army (Fort Hunter Liggett). Protected by chain-link fence and razor wire.<br><br><b>Source:</b> Steward 1929 (via Mason) \u00b7 Serra 1773 \u00b7 Breschini & Haversat 1980 \u00b7 NRHP 1975",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "early_archaic",
+        "middle_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "salinan"
+      ],
+      "tribes": [
+        "salinan"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 36.22,
+        "lng": -121.55
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 12
+      },
+      "popup": "<b>Tassajara Hand Cave \u2014 Church Creek (Steward #100)</b><br><i>Esselen \u00b7 Pictograph Site \u00b7 CA-MNT-44</i><br><br>The famous Esselen handprint cave \u2014 one of the most unique rock art sites in North America. Located in a narrow canyon a few miles from Tassajara Hot Springs, deep in the Santa Lucia Mountains of the Ventana Wilderness, Monterey County.<br><br>Approximately 250 carefully painted white handprints cover the walls of this rock shelter. Unlike typical palm-stamp handprints found worldwide, these are composed of precisely painted parallel white lines \u2014 essentially unique signatures of each individual. Both left and right hands are represented, with individual variation in style. White pigment likely made from limestone or white clay.<br><br>A towering sandstone formation shaped like a human hand rises 200\u2013300 feet above the valley floor less than half a mile from the cave, and likely inspired the use of the hand as the primary motif. The handprints may be connected to initiation ceremonies \u2014 individuals symbolically taking their places as adults as their handprints join the many others on the cave walls.<br><br>Artifacts found at CA-MNT-44 include bone awls, antler flakers, Desert side-notched projectile points, and scrapers. Steward also noted a red swastika painting 2 miles away on overhanging rocks \u2014 likely a separate Esselen or Salinan site.<br><br>Immortalized by Robinson Jeffers in his poem \"Hands\" (1929). The Esselen (population ~500\u20131,000 at contact) were one of the smallest California peoples. Their territory centered on the upper Carmel Valley and Santa Lucia Mountains. Carbon dating places Esselen presence in Big Sur since circa 2630 BCE, with recent dates extending back over 6,500 years.<br><br><b>Source:</b> Steward 1929 \u00b7 Breschini 1973 \u00b7 Breschini & Haversat \u00b7 Jeffers 1929",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "esselen"
+      ],
+      "tribes": [
+        "esselen"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 36.4,
+        "lng": -121.65
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 10
+      },
+      "popup": "<b>Monterey / Carmelo Range Pictographs (Steward #101)</b><br><i>Esselen or Rumsen Ohlone \u00b7 Pictograph Site</i><br><br>Located in a large cave near hot springs in the Tularcitos hills, Carmelo Range east of Monterey, Monterey County. This area sits at the boundary between Esselen and Rumsen Ohlone territories.<br><br>Many figures painted in vermilion red. The association with hot springs is notable \u2014 thermal springs were often sacred locations for indigenous peoples of this region. Tassajara (an Esselen word meaning \"place where meat is hung to dry\") also centers on hot springs, and the nearby Esselen handprint cave (CA-MNT-44) is in the same mountain system.<br><br>Minimal documentation in Steward's survey. Further research needed to identify the specific cave and determine cultural affiliation. The Carmelo Range was contested territory between the Esselen and the coastal Rumsen Ohlone.<br><br><b>Source:</b> Steward 1929",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "esselen",
+        "ohlone"
+      ],
+      "tribes": [
+        "esselen",
+        "rumsen_ohlone"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 35.05,
+        "lng": -119.88
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 10
+      },
+      "popup": "<b>Carrizo Plains Secondary Pictograph Site (Steward #124)</b><br><i>Chumash / Yokuts \u00b7 Pictograph Site</i><br><br>Located approximately 10 miles south of the main Painted Rock (La Piedra Pintada) on the Carrizo Plain, San Luis Obispo County. Isolated location accessible only by horseback or on foot.<br><br>Pictographs in red, black, and white featuring a dog/coyote head, bat, centipede, and concentric circles approximately 15 inches in diameter. Rock somewhat exposed to weather. Painted caves also noted in the nearby Sisquoc River country.<br><br>The Chumash first populated the Carrizo Plain around 2000 BCE but mostly abandoned it by ~600 CE, possibly due to drought. The Yokuts of the San Joaquin Valley moved in and out after the Chumash departed, creating their own rock art. Yokut pictographs tend toward large colorful figures while Chumash pictographs favor small elements, circular mandalas, and complex polychrome panels. This area sits in contested territory claimed by Chumash, Salinan, and Yokuts peoples.<br><br><b>Source:</b> Steward 1929 (via B. F. Stilwell)",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "chumash",
+        "yokuts"
+      ],
+      "tribes": [
+        "chumash",
+        "yokuts"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 34.08,
+        "lng": -118.8
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 10
+      },
+      "popup": "<b>Cornell Pictograph Site (Steward #126)</b><br><i>Chumash (Venture\u00f1o) \u00b7 Pictograph Site</i><br><br>Located near the former Cornell Post Office in the Santa Monica Mountains, approximately 40 miles west of Los Angeles (Sec 12, T1S, R19W). Now in the Paramount Ranch / Cornell area of the Santa Monica Mountains National Recreation Area, Ventura/Los Angeles County boundary.<br><br>Over 50 paintings reported as well preserved. Previously inaccessible due to private ranch land. The Santa Monica Mountains contain multiple documented Chumash rock art sites in sandstone outcrops. The nearby Saddlerock Ranch \"Cave of the Four Horsemen\" contains the first known Chumash depiction of humans on horseback, dated after 500 CE and possibly depicting the Portol\u00e1 expedition (1769\u201370) or the Anza expedition (1775).<br><br>The Venture\u00f1o Chumash maintained villages and ceremonial sites throughout the Santa Monica Mountains. Shamans (<i>'alchuklash</i>) created rock art during vision quests at sacred locations, usually near their home villages.<br><br><b>Source:</b> Steward 1929 (via K. W. Thompson)",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "centralCoastRockArt",
+      "geometry": {
+        "lat": 34.02,
+        "lng": -119.75
+      },
+      "icon": {
+        "factory": "mkPictoIcon",
+        "color": "#FF8C42",
+        "size": 10
+      },
+      "popup": "<b>Santa Cruz Island Pictograph Cave (Steward #129)</b><br><i>Island Chumash (Limuw) \u00b7 Pictograph Site</i><br><br>One of the very few documented pictograph sites on the Channel Islands \u2014 rock art is notably rare on the islands compared to the Chumash mainland. Located in a cave on the north shore of Santa Cruz Island, Santa Barbara County.<br><br>Approximately 50 pictographs painted in red ochre on walls and roof. Designs include stripes in groups of 2\u201310, irregular smears, simple crosses, and rake figures. None were elaborate compared to mainland Chumash sites. Many partially obscured by fire blackening from centuries of cooking fires.<br><br>An ash deposit 2\u20136 feet deep forms the cave floor, indicating centuries of occupation. Artifacts found include mortars, pestles, asphalted pebbles, and asphalt blocks \u2014 all characteristic Chumash materials. The asphalted pebbles relate to the Chumash tradition of using natural tar (bitumen) for waterproofing their plank canoes (<i>tomols</i>) used to cross the Santa Barbara Channel.<br><br>The Island Chumash called Santa Cruz Island <i>Limuw</i> (\"in the sea\") and maintained villages there for over 10,000 years. At European contact, the island had multiple large villages. Mission records document 119 baptisms from the village of Qshiwqshiw alone. Possible shrines associated with winter solstice ceremonies have been identified on the island's ridgelines.<br><br><b>Source:</b> Steward 1929 (via Ronald Olson, UC) \u00b7 Orr 1968 \u00b7 Perry 2007",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "chumash"
+      ],
+      "tribes": [
+        "chumash"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    }
+  ]
+}

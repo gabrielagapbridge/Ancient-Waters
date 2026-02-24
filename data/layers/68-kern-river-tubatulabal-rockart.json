@@ -1,0 +1,102 @@
+{
+  "source": "68-kern-river-tubatulabal-rockart.json",
+  "featureCount": 8,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.72, "lng": -118.83 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>Woody Pictograph Site (Steward #89)</b><br><i>Tübatulabal · Pictograph Site</i><br><br>Located near the community of Woody in the southern Sierra foothills, Kern County. This area sits along the Kern River drainage between Lake Isabella and the San Joaquin Valley — the heart of Tübatulabal seasonal migration territory.<br><br>Minimal description in Steward's 1929 survey, but the location firmly within Tübatulabal country and the pattern of pictograph sites along the Kern River corridor make attribution confident. The Tübatulabal (\"pine-nut eaters\" in their Uto-Aztecan language) have no migration myth — their oral tradition holds they have always lived in the Kern River Valley. During summer they ranged into the Sierra foothills gathering pine nuts; in winter they retreated to semi-permanent villages along the Kern River near good water sources.<br><br>The Kern River Valley contains numerous pictograph sites, typically painted on granite boulders and rock shelters, often associated with bedrock mortars, grinding slicks, and seasonal village sites. Polychrome pictographs (red, black, white) are common. Some scholars associate the art with shamanic vision quests; others with seasonal ceremonial practices.<br><br><b>Source:</b> Steward 1929 · Garfinkel 2005 · Kern County Archaeological Society records",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative", "late_prehistoric", "contact"],
+      "cultures": ["tubatulabal"],
+      "tribes": ["tubatulabal"],
+      "rockArtStyles": ["pictograph"]
+    },
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.61085, "lng": -118.49126 },
+      "icon": { "factory": "mkBothIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>Palakuè — Kern River Painted Rock</b><br><i>Tübatulabal · Pictograph & Petroglyph Site</i><br><br>A spectacular panel of polychrome rock art on a vertical granite cliff face above the Kern River, near Lake Isabella in the Keyesville area, Kern County. Visible from Highway 178 and from rafts on the river, though most motorists pass unaware.<br><br>The main panel features very large elements painted in black, white, and red on the cliff face overlooking the river. The Tübatulabal name <i>palakuè</i> describes it as a good fishing site. Recorded in 1929, when an old Indian mound at the location had already been leveled. Petroglyphs (unusual for the Kern River corridor, which is dominated by pictographs) are also found nearby.<br><br>No public access from the cliff side (private property, Painted Rock Lodge). Best viewed from the river or from Highway 178 pullouts. Located in the Keyesville South Recreation Site area, Sequoia National Forest.<br><br><b>Source:</b> Kern County Archaeological Society · DZRTGRLS field documentation · gjhikes.com (GPS: 35.61085, -118.49126)",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative", "late_prehistoric", "contact"],
+      "cultures": ["tubatulabal"],
+      "tribes": ["tubatulabal"],
+      "rockArtStyles": ["pictograph", "petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.63766, "lng": -118.48283 },
+      "icon": { "factory": "mkPetroIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>Slippery Rock Petroglyphs — Keyesville South</b><br><i>Tübatulabal · Petroglyph Site</i><br><br>Two boulders with petroglyphs located in the Keyesville South Recreation Site along the Kern River near Lake Isabella, Kern County. The site falls just inside the boundary of Sequoia National Forest.<br><br>Petroglyphs are relatively rare along the Kern River, where pictographs dominate. This makes Slippery Rock an unusual and significant site within the Tübatulabal rock art tradition. The presence of both petroglyph and pictograph sites in close proximity (Palakuè is less than 2 miles south) suggests this stretch of the Kern River was an important cultural corridor.<br><br><b>Source:</b> gjhikes.com (GPS: 35.63766, -118.48283) · Bill Petry, <i>Rock Art of the Owens Valley</i>",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative", "late_prehistoric"],
+      "cultures": ["tubatulabal"],
+      "tribes": ["tubatulabal"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.67297, "lng": -118.34478 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>KER-1 — Weldon Pictograph Boulder</b><br><i>Tübatulabal · Pictograph Site</i><br><br>A single boulder with faint pictographs located near Weldon along Sierra Way, north of Lake Isabella, Kern County. Falls just inside the boundary of Sequoia National Forest, in a streambed accessible from the road.<br><br>Part of a dense cluster of Tübatulabal rock art sites in the upper Kern River / South Fork Valley area. The faintness of the pictographs suggests significant age and weathering exposure. KER-15 is located 0.45 miles further up Sierra Way, consisting of several boulders with faint images also in a streambed.<br><br><b>Source:</b> gjhikes.com (GPS: 35.67297, -118.34478) · Bill Petry, <i>Rock Art of the Owens Valley</i>",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative", "late_prehistoric"],
+      "cultures": ["tubatulabal"],
+      "tribes": ["tubatulabal"],
+      "rockArtStyles": ["pictograph"]
+    },
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.67339, "lng": -118.35702 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>KER-15 — Weldon Streambed Pictographs</b><br><i>Tübatulabal · Pictograph Site</i><br><br>Several boulders with faint pictograph images in a streambed along Sierra Way, north of Lake Isabella near Weldon, Kern County. Within Sequoia National Forest. Located approximately 1,800 feet up the streambed from the Sierra Way pullout.<br><br>Part of the same cultural complex as KER-1 (0.45 miles south). The Weldon / South Fork Valley area was densely occupied by the Tübatulabal, whose winter villages dotted the Kern River Valley close to water sources.<br><br><b>Source:</b> gjhikes.com (GPS: 35.67339, -118.35702) · Bill Petry, <i>Rock Art of the Owens Valley</i>",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative", "late_prehistoric"],
+      "cultures": ["tubatulabal"],
+      "tribes": ["tubatulabal"],
+      "rockArtStyles": ["pictograph"]
+    },
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.62262, "lng": -118.24255 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>Kelso Creek Boulder</b><br><i>Tübatulabal / Kawaiisu borderland · Rock Art Site</i><br><br>A rock art site near Weldon along Kelso Creek, southeast of Lake Isabella, Kern County. This area sits at the boundary between Tübatulabal territory (Kern River Valley) and Kawaiisu territory (Tehachapi Mountains to the south).<br><br>Kelso Creek drains from the Piute Mountains into the South Fork Kern River valley. The creek would have been a natural travel corridor between the two cultural zones, and rock art at boundary locations may have served as territorial markers or waypoints along trade routes.<br><br><b>Source:</b> gjhikes.com (GPS: 35.62262, -118.24255)",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative", "late_prehistoric"],
+      "cultures": ["tubatulabal", "kawaiisu"],
+      "tribes": ["tubatulabal", "kawaiisu"],
+      "rockArtStyles": ["pictograph"]
+    },
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.84913, "lng": -118.01345 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>Chimney Meadow Pictographs</b><br><i>Tübatulabal · Pictograph Site</i><br><br>A pictograph site at Chimney Meadow in the Kern Plateau area of the southern Sierra Nevada, near Pearsonville, Kern/Tulare County border. At higher elevation than the Lake Isabella valley floor sites.<br><br>This location is consistent with the Tübatulabal pattern of summer-season upland camps in the Sierra foothills and plateau, where pine nuts and other resources were gathered. Garfinkel's archaeological survey of the Kern Plateau documents multiple sites with Coso-style pictograph influences and obsidian trade materials linking the Sierra to the Great Basin.<br><br><b>Source:</b> gjhikes.com (GPS: 35.84913, -118.01345) · Garfinkel 2005",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["tubatulabal"],
+      "tribes": ["tubatulabal"],
+      "rockArtStyles": ["pictograph"]
+    },
+    {
+      "type": "marker",
+      "layer": "kernRiverRockArt",
+      "geometry": { "lat": 35.81604, "lng": -118.04997 },
+      "icon": { "factory": "mkPictoIcon", "color": "#FFB74D", "size": 10 },
+      "popup": "<b>Lamont Meadow Pictographs</b><br><i>Tübatulabal · Pictograph Site</i><br><br>A pictograph site at Lamont Meadow in the piñon woodlands of the Kern Plateau, southern Sierra Nevada, near Pearsonville. The Kern Plateau was a critical summer resource area for the Tübatulabal, with extensive piñon pine groves that provided the pine nuts central to their diet and identity.<br><br>Garfinkel's dissertation (UC Davis, 2005) documents the archaeology and rock art of this frontier zone, noting obsidian hydration dates and trade connections between the Isabella Basin, the Kern Plateau, and the Coso Range to the east.<br><br><b>Source:</b> gjhikes.com (GPS: 35.81604, -118.04997) · Garfinkel 2005",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["tubatulabal"],
+      "tribes": ["tubatulabal"],
+      "rockArtStyles": ["pictograph"]
+    }
+  ]
+}
