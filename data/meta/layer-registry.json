@@ -242,6 +242,7 @@
     "tahoeLake":            {"type":"layerGroup","addedToMap":true,"dataSources":["65-tahoe-deep-dive.json"]},
     "tahoeChange":          {"type":"layerGroup","addedToMap":true,"dataSources":["65-tahoe-deep-dive.json"]},
     "centralCoastRockArt":  {"type":"layerGroup","addedToMap":true,"dataSources":["67-central-coast-rockart.json"]},
-    "kernRiverRockArt":     {"type":"layerGroup","addedToMap":true,"dataSources":["68-kern-river-tubatulabal-rockart.json"]}
+    "kernRiverRockArt":     {"type":"layerGroup","addedToMap":true,"dataSources":["68-kern-river-tubatulabal-rockart.json"]},
+    "salinanSanAntonioRockArt": {"type":"layerGroup","addedToMap":true,"dataSources":["69-salinan-san-antonio-valley.json"]}
   }
 }

@@ -10,7 +10,8 @@
     "mainePetro", "mainePickto", "maineStyles",
     "wampanoagPetro", "tbdRockArt", "ctrRockArt", "bhcRockArt",
     "nvRockArtPaleo", "nvRockArtArchaic", "nvRockArtFremont", "nvRockArtLate",
-    "spiritRockArt"
+    "spiritRockArt",
+    "centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt"
   ],
 
   "rockArtGroups": {
@@ -73,6 +74,11 @@
       "layers": ["tbdRockArt", "ctrRockArt", "bhcRockArt", "mainePetro", "mainePickto", "maineStyles", "wampanoagPetro"],
       "color": "#4A148C",
       "description": "Thunderbird motif, CT River, Berkshires, Maine & Wampanoag"
+    },
+    "Central Coast / Salinan": {
+      "layers": ["centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt"],
+      "color": "#D4A574",
+      "description": "Salinan, Chumash & Tübatulabal — Steward 1929, DRI 2020"
     }
   },
 
