@@ -1,0 +1,174 @@
+{
+  "source": "70-yokuts-joaquin-ridge.json",
+  "featureCount": 8,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.03544,
+        "lng": -120.46895
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 10
+      },
+      "popup": "<b>Church Rock</b><br><i>Tachi Yokuts (Southern Valley) \u00b7 Petroglyph Site</i><br><br>One of a cluster of decorated sandstone formations on Joaquin Ridge, ~8 miles NNW of Coalinga, western Fresno County. This area sits at the edge of the historic Tulare Lake basin \u2014 once the largest freshwater lake west of the Mississippi \u2014 within the territory of the Tachi Yokuts.<br><br>The Joaquin Ridge petroglyph complex was studied by BLM archaeologist Bruce Crespin (1982) and surveyed by the California Department of Forestry (1987\u20131988). Multiple archaeological sites are recorded here, including Birdwell Rock (CA-FRE-2244), Cupule Point (CA-FRE-2109), and Joaquin Mill (CA-FRE-1345). The complex includes pecked petroglyphs, cupules (small pecked pits considered among the oldest rock art in California), bedrock mortars, and ceremonial artifacts.<br><br>Crespin proposed the sites functioned as a shamanic ceremonial landscape \u2014 a place of ritual isolation for youth initiation rites (involving toloache/Datura), winter solstice observation, and weather shamanism. The Yokuts considered rock art to be <i>tripne</i> (supernatural) and shamans cached ceremonial paraphernalia at such sites.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Crespin 2002 (CA Prehistory Proc. Vol. 12) \u00b7 Foster et al. 1989 \u00b7 Wikipedia 'Birdwell Rock'",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph", "cupule_pit_and_groove"]
+    },
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.03038,
+        "lng": -120.46973
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 10
+      },
+      "popup": "<b>Eagle Rock</b><br><i>Tachi Yokuts \u00b7 Petroglyph Site</i><br><br>Decorated sandstone formation ~550m south of Church Rock in the Joaquin Ridge ceremonial complex. Eagles held profound ritual significance for the Yokuts \u2014 shamans used eagle feathers and down ceremonially, and raptors nesting on the sandstone cliffs were considered to sanctify the locality.<br><br>The nearby extensive cliffs provided nesting habitat for eagles, condors, and hawks \u2014 all creatures central to Yokuts cosmology. The entire Joaquin Ridge cluster functioned as a ceremonial landscape rather than a habitation site \u2014 virtually no subsistence debris has been found, only ritual mortars, petroglyphs, cupules, and cached ceremonial objects.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Crespin 2002 \u00b7 Gayton 1976",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.03166,
+        "lng": -120.47734
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 10
+      },
+      "popup": "<b>Swallow Rock</b><br><i>Tachi Yokuts \u00b7 Petroglyph Site</i><br><br>Named for the cliff swallows that nest on sandstone formations throughout this area. Part of the Joaquin Ridge ceremonial complex ~8 miles NNW of Coalinga. Lies in the oak-grass savanna and chaparral zone at ~2,600 ft elevation.<br><br>Cupule petroglyphs (small pecked pits in rock) found throughout this zone are considered among the oldest rock art forms in California. E. Breck Parkman\u2019s 1986 study specifically documented cupule petroglyphs in the Diablo Range, proposing they predate other forms of California rock art and may be associated with rain-making and weather shamanism.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Parkman 1986 (JCGBA 8(2)) \u00b7 Crespin 2002",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph", "cupule_pit_and_groove"]
+    },
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.03838,
+        "lng": -120.46872
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 10
+      },
+      "popup": "<b>Wildcat Rock</b><br><i>Tachi Yokuts \u00b7 Petroglyph Site</i><br><br>Northernmost formation in the tight Los Gatos Creek Canyon cluster. Sits near the extensive sandstone cliffs that characterize the Joaquin Ridge area at ~2,600 ft elevation.<br><br>The 1983 Coalinga earthquake (M6.5) damaged the nearby Birdwell Rock \u2014 widening fissures and breaking loose rock fragments. Similar seismic damage may have affected this and other formations in the cluster. Despite the marginal subsistence resources (scant water, limited food plants), the area was used repeatedly over millennia for ceremonial purposes.<br><br>The male anthropomorphic petroglyphs at nearby Birdwell Rock resemble motifs found in both the Tulare Painted Style (Foothill Yokuts) and Chumash rock art, suggesting this was a cultural crossroads where Yokuts, Chumash, Salinan, and Costanoan exchange networks intersected.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Crespin 2002 \u00b7 Wikipedia 'Birdwell Rock'",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.03392,
+        "lng": -120.4835
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 8
+      },
+      "popup": "<b>Twin Springs #1</b><br><i>Tachi Yokuts \u00b7 Spring / Petroglyph Site</i><br><br>Water source within the Joaquin Ridge ceremonial complex. Springs were critical for this remote ritual landscape \u2014 Crespin noted the area \u2018has only a small water seep\u2019 that improves after chaparral burns. In early spring, seeps may have provided water for multi-day initiation ceremonies and toloache preparation.<br><br>Water sources also connect to weather shamanism. Yokuts weather shamans (\u2018rain doctors\u2019) performed rituals to control rain, wind, and earthquakes using quartz crystals and plummet-shaped charmstones. Cupule petroglyphs in the area, called \u2018rain rocks\u2019 by some tribes, are associated with shamanic weather control.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Crespin 2002 \u00b7 Latta 1977",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.03336,
+        "lng": -120.48329
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 8
+      },
+      "popup": "<b>Twin Springs #2</b><br><i>Tachi Yokuts \u00b7 Spring / Petroglyph Site</i><br><br>Located ~65m from Twin Springs #1, likely marking a second spring or decorated rock feature at the same water source within the Joaquin Ridge complex. The Tachi Yokuts village of Udjio (Paso Chana) \u2014 a major regional trading center for shells, beads, and asphaltum \u2014 lay about 10 miles downstream where Los Gatos Creek meets the valley floor.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Crespin 2002 \u00b7 von Werlhof & Vierhus 1956",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.2738,
+        "lng": -120.4227
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 10
+      },
+      "popup": "<b>Donut Rock</b><br><i>Yokuts (Southern Valley) \u00b7 Solstice Alignment Feature</i><br><br>Sandstone formation atop Anticline Ridge at ~3,000 ft elevation. Documented in academic literature by BLM archaeologist Bruce Crespin (2002) as a <b>winter solstice viewsight</b> aligned with the Birdwell Rock Petroglyph Site (CA-FRE-2244).<br><br>In 1982, Crespin determined that the solstice sunrise could be observed from Birdwell Rock with Donut Rock forming the horizon alignment. Lick Observatory (UC Santa Cruz) confirmed the astronomical calculations. On Dec. 21, 1982, Crespin attempted direct observation but dense fog prevented it.<br><br>The <b>1983 Coalinga earthquake dislodged Donut Rock</b> from its original position, though Crespin believed solstice observation remains possible. The Yokuts observed the winter solstice as part of their ceremonial calendar. \u2018Sundisk\u2019 motifs at Birdwell Rock (circles with central dots and radiating lines) are symbols commonly associated with solstice observation.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Crespin 2002 \u00b7 Hudson, Lee & Hedges 1979 (JCGBA 1(1))",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "marker",
+      "layer": "yokutsJoaquinRidgeRockArt",
+      "geometry": {
+        "lat": 36.3215,
+        "lng": -120.4603
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#C4956A",
+        "size": 10
+      },
+      "popup": "<b>Joaquin Ridge</b><br><i>Yokuts (Southern Valley) \u00b7 Petroglyph / Rock Art Site</i><br><br>Located on Joaquin Ridge proper \u2014 the geographic feature that gives the entire archaeological district its name. Part of the Diablo Range in western Fresno County. Frank Latta, the pioneering Yokuts ethnographer, reported rock shelters and associated pictographs in the Joaquin Rocks area (CA-FRE-83, recorded 1950).<br><br>Joaquin Ridge is bounded by archaeologically rich Cantua Creek to the north, the San Joaquin Valley to the east, and Coalinga to the south. The uplands provide a \u2018retreat for shamans and for ritual isolation from lowland villages and populations\u2019 (Crespin 2002). Serpentine masses to the west provided minerals and pigments; the diverse ecotones supported medicines and ceremonial plants.<br><br>The Yokuts, Chumash, Salinan, and Costanoan all had well-developed trade networks intersecting in this area, centering on the Tachi village of Paso Chana (Udjio), where shells, beads, acorns, asphaltum, obsidian, and other goods were exchanged.<br><br><b>Sources:</b> GJHikes/Rex Nye Map \u00b7 Crespin 2002 \u00b7 Latta 1950 (CA-FRE-83) \u00b7 Latta 1977",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": ["middle_archaic", "late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["yokuts"],
+      "tribes": ["yokuts"],
+      "rockArtStyles": ["petroglyph", "pictograph"]
+    }
+  ]
+}

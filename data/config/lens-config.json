@@ -11,7 +11,8 @@
     "wampanoagPetro", "tbdRockArt", "ctrRockArt", "bhcRockArt",
     "nvRockArtPaleo", "nvRockArtArchaic", "nvRockArtFremont", "nvRockArtLate",
     "spiritRockArt",
-    "centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt"
+    "centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt",
+    "yokutsJoaquinRidgeRockArt"
   ],
 
   "rockArtGroups": {
