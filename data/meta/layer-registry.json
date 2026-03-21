@@ -248,6 +248,9 @@
     "timucuaTerritory":    {"type":"layerGroup","addedToMap":true,"dataSources":["30-florida-sites.json"]},
     "timucuaSites":        {"type":"layerGroup","addedToMap":true,"dataSources":["30-florida-sites.json"]},
     "calusaSites":         {"type":"layerGroup","addedToMap":true,"dataSources":["30-florida-sites.json"]},
-    "floridaPaleo":        {"type":"layerGroup","addedToMap":true,"dataSources":["30-florida-sites.json"]}
+    "floridaPaleo":        {"type":"layerGroup","addedToMap":true,"dataSources":["30-florida-sites.json"]},
+    "scShellRings":        {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
+    "scVillages":          {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
+    "scMounds":            {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]}
   }
 }

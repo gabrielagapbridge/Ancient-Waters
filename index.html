@@ -56,6 +56,7 @@
   <button class="region-btn" onclick="flyTo('neutral')">⚒️ Neutral</button>
   <button class="region-btn" onclick="flyTo('erie')">🏹 Erie</button>
   <button class="region-btn" onclick="flyTo('florida')">Florida</button>
+  <button class="region-btn" onclick="flyTo('charleston')">Charleston</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -710,6 +711,24 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('timucuaSites')"><span style="color:#D2691E">Timucua Sites</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('calusaSites')"><span style="color:#2E8B57">Calusa / Crystal River Sites</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('floridaPaleo')"><span style="color:#4B0082">Florida Paleoindian</span></label>
+    </div>
+  </div>
+
+  <!-- ============ SC LOWCOUNTRY ============ -->
+  <div class="culture-section" id="culture-charleston" data-regions="overview charleston">
+    <div class="culture-header" onclick="toggleCulture('charleston')">
+      <div class="culture-color-bar" style="background:#8B4513;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">SC Lowcountry</div>
+        <div class="culture-meta">Cusabo, Sewee, Santee · ~4,000 BP – contact</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('charleston',this.checked)" title="Toggle all SC Lowcountry layers">
+      <span class="culture-arrow" id="arrow-charleston">&#9656;</span>
+    </div>
+    <div class="culture-layers" id="layers-charleston">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('scShellRings')"><span style="color:#D2B48C">Shell rings — 4,000+ year-old monuments</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('scVillages')"><span style="color:#D2691E">Villages & ceremonial centers</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('scMounds')"><span style="color:#8B6914">Burial mounds</span></label>
     </div>
   </div>
 

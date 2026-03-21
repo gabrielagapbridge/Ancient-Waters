@@ -1,0 +1,146 @@
+{
+  "source": "71-sc-lowcountry.json",
+  "featureCount": 10,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.9685, "lng": -79.7095 },
+      "radius": 6,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Sewee Shell Ring (38CH45)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic (~4,000 BP / ~2200-1000 BCE) — Ancestral Thom's Creek culture</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Awendaw, Charleston County (32.969°N, 79.710°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Northernmost shell ring in North America. C-shaped ring ~150 ft diameter, walls 10 ft high, composed primarily of oyster shells with mussels, clams, and periwinkles. Built ~4,000 years ago — contemporary with the Great Pyramids of Giza and Stonehenge. Contains pottery sherds (some of earliest in North America), stone tools, bone fragments including dog remains (early evidence of dog domestication). Human remains with evidence of cutting/burning found. Shell rings exist in only four places on Earth: SE United States, Japan, Colombia, and Peru. Nearly half destroyed in 1920s by road crews mining material for Highway 17 paving. Now protected in Francis Marion National Forest with 1-mile interpretive trail and boardwalk. NRHP listed 1970.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Francis Marion National Forest, Sewee Shell Ring Interpretive Trail — free, open dawn to dusk.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Trinkley 1985; Russo & Heide 2003; Hemmings 1970; SAH Archipedia</p></div>",
+      "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.5713, "lng": -80.2139 },
+      "radius": 7,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#FFD54F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Fig Island Shell Ring Complex (38CH42)</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">National Historic Landmark — Late Archaic (~4,400-3,600 BP)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Edisto Island, Charleston County (32.571°N, 80.214°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Most complex shell ring site in North America. Three rings on a peninsula extending from Edisto Island along the North Edisto River. Ring 1: ~600 ft long, 20-25 ft above sea level, with four attached smaller rings. Ring 2: circular, 215 ft diameter. Ring 3: smaller ring. Contains some of the earliest pottery known in North America. Excavations revealed deliberate rapid deposition of shells — monumental construction, not refuse accumulation. By total volume, the largest single Archaic shell ring complex on US coasts. State-owned (Botany Bay Plantation, SC Dept of Natural Resources). Sea level was ~4 ft lower when built. NRHP listed 1970; NHL designated.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Russo & Saunders 2004; NPS NHL nomination; SCDAH</p></div>",
+      "popupOptions": { "maxWidth": 430 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.7350, "lng": -79.9600 },
+      "radius": 5,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Lighthouse Point Shell Ring (38CH12)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic / Early Woodland — James Island</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> James Island, Charleston County (32.735°N, 79.960°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Also called Parrot's Point Shell Ring. Once a complete circle ~240 paces across and 8-10 ft high (Governor John Drayton, 1802). Contains the most diverse faunal assemblage of any shell ring — catfish, drum, mullet, bowfin, rays, toads, snakes, turtles, turkey, clapper rail, ducks, perching birds, rabbit, rat, squirrel, opossum, dog, raccoon, mink, and deer. Human remains found as bone fragments and coprolites. Heavily disturbed by erosion and shell mining. NRHP listed 1990.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Trinkley 1980a; Drayton 1802; SCDAH</p></div>",
+      "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.6180, "lng": -80.1850 },
+      "radius": 5,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:360px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Horse Island Shell Ring (38CH14)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Rockville/Wadmalaw, Charleston County (32.618°N, 80.185°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Late Archaic shell ring near the Rockville/Wadmalaw area. Part of the dense cluster of shell rings along the South Carolina Sea Islands. Limited published excavation data. NRHP listed.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NPS Archaic Shell Rings context study</p></div>",
+      "popupOptions": { "maxWidth": 380 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.6060, "lng": -80.2280 },
+      "radius": 5,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Hanckel Mound / Leadenwah Creek Shell Ring (38CH7)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Rockville, Leadenwah Creek, Charleston County (32.606°N, 80.228°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Also called Leadenwah Creek Mount. ~158 ft diameter, 8 ft high. One of ~20 shell rings identified along the SC coastal plain, all located along tidal creeks. Composed primarily of oyster shell. NRHP listed 1970.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: SCDAH; NPS Archaic Shell Rings context study</p></div>",
+      "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.6500, "lng": -80.1700 },
+      "radius": 5,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Stratton Place Shell Ring (38CH24)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic — Johns Island/Edisto area</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Johns Island area, Charleston County (32.650°N, 80.170°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Late Archaic shell ring in the Johns Island/Edisto area. Archaeological evidence shows houses and hearths during early ring occupation that disappear in later stages — suggesting a transition from residential use to ceremonial/monumental function over time. Part of the Charleston County cluster of shell rings.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NPS Archaic Shell Rings context study; Russo 2004</p></div>",
+      "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scVillages",
+      "geometry": { "lat": 32.8067, "lng": -79.9883 },
+      "radius": 6,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D2691E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Charles Towne Landing — Mississippian Ceremonial Center</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cusabo (Kiawah, Etiwan); earlier Woodland and Mississippian peoples</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Albemarle Point, Ashley River, Charleston (32.807°N, 79.988°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> 6,000+ years continuous occupation — Woodland through Mississippian through Contact</p><p style=\"font-size:13px;color:#CFD8DC\">One of the most layered archaeological sites in coastal South Carolina. Contains Woodland era shell middens, a Mississippian ceremonial center, and evidence of Native American villages, campsites, and a ceremonial center spanning 6,000+ years. The Cassique (chief) of the Kiawah directed English colonists to settle here in 1670. Ashley series pottery — the diagnostic Cusabo ceramic type — was first identified here by Stanley South in the late 1960s. Also yielded Creek trade pottery from central Alabama, demonstrating long-distance exchange networks. Active archaeological excavations ongoing. Now Charles Towne Landing State Historic Site (664 acres). Contains a Native American cemetery and ceremonial center on park grounds.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Charles Towne Landing State Historic Site, 1500 Old Towne Rd, Charleston — open daily.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: South 1969; Zierden (Charleston Museum); Isenbarger (CTL Archaeologist); SCIAA; Marcoux, Nyman, Cable (Ashley series)</p></div>",
+      "popupOptions": { "maxWidth": 430 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scMounds",
+      "geometry": { "lat": 33.0375, "lng": -79.5475 },
+      "radius": 5,
+      "style": {
+        "color": "#6D4C41",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#6D4C41;margin:0 0 8px\">Buck Hall Burial Mound (38CH644)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Middle Woodland — Sewee (ancestral); coastal Woodland peoples</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Francis Marion National Forest, near Awendaw Creek, Charleston County (33.038°N, 79.548°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Middle Woodland sand burial mound documenting the extension of North Carolina coastal burial mound traditions southward into Charleston County. Contains ossuaries (collective bone deposits) with Deptford and Deep Creek ceramic wares. Excavated by Michael Trinkley in February 1983. Significant for demonstrating that sand burial mounds — previously thought limited to the NC coast — were a more common practice among coastal Woodland groups than previously recognized.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Trinkley 1991, Chicora Foundation Research Series 25</p></div>",
+      "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scVillages",
+      "geometry": { "lat": 32.7280, "lng": -79.9450 },
+      "radius": 5,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#A0522D",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Dill Sanctuary (James Island)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cusabo — Woodland through Contact period</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> James Island, Charleston County (32.728°N, 79.945°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Multi-period archaeological site on James Island, excavated by the Charleston Museum. Yielded both local Ashley series Cusabo pottery and Creek pottery from central Alabama — demonstrating long-distance trade/exchange networks connecting coastal South Carolina with peoples hundreds of miles to the southwest. Also produced colonoware (low-fired earthenware made in the Lowcountry through the 18th century). One of several sites contributing to the identification and naming of the Ashley ceramic series.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Zierden (Charleston Museum); Marcoux, Nyman, Cable; Jon Marcoux</p></div>",
+      "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scMounds",
+      "geometry": { "lat": 33.5390, "lng": -80.4378 },
+      "radius": 6,
+      "style": {
+        "color": "#6D4C41",
+        "fillColor": "#8B6914",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Santee Indian Mound / Fort Watson</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Santee — Mississippian (~1200-1500 CE)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Santee National Wildlife Refuge, Clarendon County (33.539°N, 80.438°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> Mississippian ~1200-1500 CE; Revolutionary War fort 1780-1781</p><p style=\"font-size:13px;color:#CFD8DC\">Mississippian burial and/or temple mound, part of a Santee mound village complex on the Santee River (now Lake Marion). The Santee held elaborate burial rituals — chiefs, shamans, and warriors were interred on mounds with wooden pole structures and offerings of rattles and feathers. Mound height indicated the deceased's importance. Common people were wrapped in bark on platforms; relatives painted faces black and kept vigil. Bones were later cleaned, boxed, and re-oiled annually. At least 16 graves excavated by archaeologists. During the American Revolution, the British built Fort Watson (30-50 ft high) atop the mound. In 1781, Francis Marion and Light Horse Harry Lee captured it by building a log tower in a single night — the first British outpost recaptured after the 1780 occupation. No remains of the fort survive. Now in Santee National Wildlife Refuge. NRHP listed 1969.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Santee National Wildlife Refuge — free, open during refuge hours. Fort Watson site has interpretive markers.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: SCDAH; NPS; American Battlefield Trust</p></div>",
+      "popupOptions": { "maxWidth": 440 }
+    }
+  ]
+}
