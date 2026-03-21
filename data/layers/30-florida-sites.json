@@ -25,7 +25,7 @@
       "type": "circleMarker",
       "layer": "timucuaSites",
       "geometry": { "lat": 29.902, "lng": -81.311 },
-      "radius": 8,
+      "radius": 6,
       "style": {
         "color": "#8B4513",
         "fillColor": "#D2691E",
@@ -39,7 +39,7 @@
       "type": "circleMarker",
       "layer": "timucuaSites",
       "geometry": { "lat": 29.906, "lng": -81.310 },
-      "radius": 7,
+      "radius": 5,
       "style": {
         "color": "#8B4513",
         "fillColor": "#A0522D",
@@ -53,7 +53,7 @@
       "type": "circleMarker",
       "layer": "timucuaSites",
       "geometry": { "lat": 29.364, "lng": -81.085 },
-      "radius": 8,
+      "radius": 6,
       "style": {
         "color": "#8B4513",
         "fillColor": "#D2691E",
@@ -67,7 +67,7 @@
       "type": "circleMarker",
       "layer": "timucuaSites",
       "geometry": { "lat": 30.46, "lng": -81.43 },
-      "radius": 7,
+      "radius": 5,
       "style": {
         "color": "#8B4513",
         "fillColor": "#A0522D",
@@ -81,7 +81,7 @@
       "type": "circleMarker",
       "layer": "calusaSites",
       "geometry": { "lat": 26.418, "lng": -81.865 },
-      "radius": 9,
+      "radius": 5,
       "style": {
         "color": "#2E8B57",
         "fillColor": "#3CB371",
@@ -95,7 +95,7 @@
       "type": "circleMarker",
       "layer": "calusaSites",
       "geometry": { "lat": 28.895, "lng": -82.596 },
-      "radius": 9,
+      "radius": 5,
       "style": {
         "color": "#2E8B57",
         "fillColor": "#3CB371",
@@ -109,7 +109,7 @@
       "type": "circleMarker",
       "layer": "calusaSites",
       "geometry": { "lat": 26.633, "lng": -82.094 },
-      "radius": 8,
+      "radius": 6,
       "style": {
         "color": "#2E8B57",
         "fillColor": "#20B2AA",
@@ -123,7 +123,7 @@
       "type": "circleMarker",
       "layer": "floridaPaleo",
       "geometry": { "lat": 30.12, "lng": -83.86 },
-      "radius": 9,
+      "radius": 5,
       "style": {
         "color": "#4B0082",
         "fillColor": "#8B008B",
