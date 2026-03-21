@@ -55,6 +55,7 @@
   <button class="region-btn" onclick="flyTo('wendake')">🏠 Wendake</button>
   <button class="region-btn" onclick="flyTo('neutral')">⚒️ Neutral</button>
   <button class="region-btn" onclick="flyTo('erie')">🏹 Erie</button>
+  <button class="region-btn" onclick="flyTo('florida')">Florida</button>
 </div>
 
 <div class="stats-bar" id="stats-bar">
@@ -690,6 +691,25 @@
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveCeremonial')"><span style="color:#E040FB">Ceremonial & rock art sites</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveSpiritGeo')"><span style="color:#E040FB">✦ Spiritual geography overlay</span></label>
       <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('mojaveRockArt')"><span style="color:#FF7043">🪨 Rock art deep dive</span></label>
+    </div>
+  </div>
+
+  <!-- ============ FLORIDA PEOPLES ============ -->
+  <div class="culture-section" id="culture-florida" data-regions="overview florida">
+    <div class="culture-header" onclick="toggleCulture('florida')">
+      <div class="culture-color-bar" style="background:#8B4513;"></div>
+      <div class="culture-header-text">
+        <div class="culture-name">Florida Peoples</div>
+        <div class="culture-meta">Timucua, Calusa & Paleoindian · ~14,550 BP – contact</div>
+      </div>
+      <input type="checkbox" class="culture-master" checked onclick="event.stopPropagation();toggleCultureAll('florida',this.checked)" title="Toggle all Florida layers">
+      <span class="culture-arrow" id="arrow-florida">&#9656;</span>
+    </div>
+    <div class="culture-layers" id="layers-florida">
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('timucuaTerritory')"><span style="color:#8B4513">Timucua Territory</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('timucuaSites')"><span style="color:#D2691E">Timucua Sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('calusaSites')"><span style="color:#2E8B57">Calusa / Crystal River Sites</span></label>
+      <label class="layer-toggle"><input type="checkbox" checked onchange="toggle('floridaPaleo')"><span style="color:#4B0082">Florida Paleoindian</span></label>
     </div>
   </div>
 

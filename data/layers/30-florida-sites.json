@@ -1,0 +1,137 @@
+{
+  "source": "30-florida-sites.json",
+  "featureCount": 9,
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "timucuaTerritory",
+      "geometry": [
+        [30.9, -82.5],[30.9, -81.2],[30.5, -81.0],[30.2, -81.0],
+        [29.7, -81.1],[29.3, -81.0],[28.9, -81.3],[28.7, -81.5],
+        [28.7, -82.0],[29.0, -82.3],[29.5, -82.6],[30.0, -82.7],
+        [30.5, -82.6],[30.9, -82.5]
+      ],
+      "style": {
+        "color": "#8B4513",
+        "weight": 2,
+        "opacity": 0.6,
+        "fillColor": "#8B4513",
+        "fillOpacity": 0.08,
+        "dashArray": "6,4"
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Timucua Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> ~19,200 square miles — northeast and north-central Florida, southeast Georgia</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~2400 BC–AD 1767</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Population at contact:</b> 50,000–200,000 (collapsed to fewer than 1,000 by late 1600s)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Culture:</b> Matrilineal chiefdoms; St. Johns pottery tradition; villages of 200–300; surpluses stored in community granaries</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Milanich 1996; Worth 1998; Hann 1996</p></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "timucuaSites",
+      "geometry": { "lat": 29.902, "lng": -81.311 },
+      "radius": 8,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D2691E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Village of Seloy / Fountain of Youth Archaeological Park</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Timucua (Saturiwa band) — St. Johns II period</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Trinomial:</b> 8-SJ-31 &nbsp;|&nbsp; <b>Location:</b> St. Augustine, St. Johns County (29.902°N, 81.311°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> Occupied ~2400 BC–AD 1600s; Timucua village from at least 1100–1300 AD</p><p style=\"font-size:13px;color:#CFD8DC\">The principal village of chief Seloy, where Pedro Menéndez de Avilés landed in September 1565 and established the first permanent European settlement in what is now the continental United States. Seloy's council house became the first Spanish fort. The site covers over 12 acres. Archaeological work since 1934 (Dickson/Smithsonian) has uncovered 100+ burials, structural remains of circular palm-thatched houses, the first Franciscan mission (Nombre de Dios, 1587), and 16th-century Spanish encampment evidence. Excavations led by Dr. Kathleen Deagan (University of Florida) from the 1970s through 2015 have confirmed this as the location of Menéndez's original 1565 camp. One of the most archaeologically excavated sites in North America. Active dig site — still open to visitors.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Ponce de León's Fountain of Youth Archaeological Park, 11 Magnolia Ave, St. Augustine — open daily, active excavations viewable.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Deagan 1983–2015 (UF/Florida Museum); Florida Museum of Natural History Historical Archaeology collections; Merritt 1977</p></div>",
+      "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "timucuaSites",
+      "geometry": { "lat": 29.906, "lng": -81.310 },
+      "radius": 7,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#A0522D",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Mission Nombre de Dios</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Timucua / Spanish colonial contact</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> St. Augustine, Florida (29.906°N, 81.310°W) — adjacent to Fountain of Youth Park</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> Established 1587 (first Franciscan mission doctrina in continental North America)</p><p style=\"font-size:13px;color:#CFD8DC\">In 1587, Franciscan friar Antonio de Escobedo established the first Christian mission in what is now the continental United States at the Timucua town of Nombre de Dios, just north of St. Augustine. A gardener planting orange trees in 1934 discovered the first of over 100 Timucua burials on the site — all interred in Christian fashion, facing east. Archaeological work has documented continuous use of this property since 1565, with Timucua village midden beneath the mission cemetery, 16th-century Spanish features, and 17th-century mission remains layered together. Reflects the full arc of Timucua history: pre-contact village, Spanish encounter, conversion, and population collapse.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Florida Museum of Natural History — Nombre de Dios excavations; Hann 1996; Deagan 1983</p></div>",
+      "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "timucuaSites",
+      "geometry": { "lat": 29.364, "lng": -81.085 },
+      "radius": 8,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D2691E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Nocoroco Village / Tomoka State Park</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Timucua (Mocama band); earlier Mount Taylor and St. Johns cultures</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tomoka Point, Ormond Beach, Volusia County (29.364°N, 81.085°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> Occupied ~3,300 BC (Mount Taylor period mounds); Timucua village c. 1300–mid 1700s AD</p><p style=\"font-size:13px;color:#CFD8DC\">One of the largest Timucuan villages documented by European explorers. Spanish diplomat Álvaro Mexia visited in 1605 and wrote that the Timucua were \"of goodly stature and covered in many tattoos.\" The village sat at the confluence of the freshwater Tomoka River and saltwater Halifax River — a bountiful estuarine environment. The site contains shell middens rising 40 feet above the shoreline, built by generations of harvesting oysters and clams. Construction of the earliest mounds dates to ~5,500 years ago. Among the finds: rare banner stones of North Georgia stone, indicating long-distance trade networks. The park is listed on the National Register of Historic Places (1973). The Strickland Mound complex nearby is considered one of Florida's most significant prehistoric sites.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Tomoka State Park, 2099 N Beach St, Ormond Beach — $5/vehicle. Nature trail passes through Nocoroco site.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Florida State Parks (floridastateparks.org/Tomoka); Volusia County Historic Sites; Trail of Florida's Indian Heritage</p></div>",
+      "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "timucuaSites",
+      "geometry": { "lat": 30.46, "lng": -81.43 },
+      "radius": 7,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#A0522D",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Village of Sarabay / Big Talbot Island</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Timucua (Mocama band)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Big Talbot Island, Duval County (30.46°N, 81.43°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> Occupied ~1,500 BP; documented in French and Spanish texts mid-1500s</p><p style=\"font-size:13px;color:#CFD8DC\">The Mocama Timucua village of Sarabay, mentioned in French and Spanish colonial texts dating to the mid-1500s. Ongoing excavations by UNF Archaeology Lab Director Dr. Keith Ashley and students are seeking to map the layout of the village: house locations, council house position, and the material remains of daily Mocama life. The site provides an indigenous-perspective counterpoint to the heavily European-documented history of nearby Jacksonville and Fort Caroline. Ashley notes that indigenous people have inhabited this coastal area on and off for at least 1,500 years — a deep history largely overshadowed by colonial narratives.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Ashley, Keith — UNF Archaeology Lab; First Coast News 2019; Florida Museum of Natural History</p></div>",
+      "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "calusaSites",
+      "geometry": { "lat": 26.418, "lng": -81.865 },
+      "radius": 9,
+      "style": {
+        "color": "#2E8B57",
+        "fillColor": "#3CB371",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#2E8B57;margin:0 0 8px\">Mound Key — Calusa Capital (Calos)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Calusa — Trinomial: 8LL2</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Estero Bay, Lee County (26.418°N, 81.865°W) — accessible by boat only</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> ~1150 BC–AD 1750; carbon-dated continuous occupation 2,000+ years</p><p style=\"font-size:13px;color:#CFD8DC\">The capital of the Calusa kingdom — an entirely human-made island constructed over 2,000 years from oyster shells, fish bones, and pottery, rising 33 feet above Estero Bay. In 1566, Spain's first Florida governor was appointed on this island, and the first Jesuit mission in the New World (San Antón de Carlos) was established here — lasting only until 1569 before Calusa resistance expelled the Spanish. When 13-year-old Hernando de Escalante Fontaneda was shipwrecked in 1549, the Calusa brought him to Mound Key, where he lived for 17 years and later wrote the most detailed account of Calusa life. In 2020, archaeologists confirmed Mound Key as the location of Fort San Antón de Carlos using remote sensing and excavation. The island preserves water courts, canals, and mounds that still shape its topography today. Listed on the National Register of Historic Places (1970).</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Boat or kayak from Koreshan State Park or Lovers Key State Park. No facilities on island. Free admission.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Thompson et al. (2020) PLOS ONE; Trail of Florida's Indian Heritage; Florida Hikes</p></div>",
+      "popupOptions": { "maxWidth": 430 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "calusaSites",
+      "geometry": { "lat": 28.895, "lng": -82.596 },
+      "radius": 9,
+      "style": {
+        "color": "#2E8B57",
+        "fillColor": "#3CB371",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#2E8B57;margin:0 0 8px\">Crystal River Archaeological State Park</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Deptford, Santa Rosa-Swift Creek, Weeden Island, Fort Walton cultures — Gulf Coast Woodland tradition</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> 3400 N Museum Point, Crystal River, Citrus County (28.895°N, 82.596°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> Occupied ~500 BC–AD 1400; 1,600+ years of continuous occupation</p><p style=\"font-size:13px;color:#CFD8DC\">One of the longest continuously occupied archaeological sites in Florida — a National Historic Landmark (1990). The six-mound complex served as a major ceremonial center for at least 1,600 years, with trade connections reaching the Hopewell culture of Ohio and the Great Lakes (copper artifacts from Michigan found here). Up to 7,500 Native Americans may have visited annually for ritual burials and trade. The site contains burial mounds, platform mounds, a plaza, a massive shell midden 1,300 feet long and 7 feet deep, and two carved stone steles — one is Florida's only known petroglyph, with a faded carved face still visible under a protective roof. Archaeological investigation began before the Civil War; significant finds in 1903; park established 1962. The museum displays pottery, projectile points, copper jewelry, and a short film about the site.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Open daily 8am–sunset; museum Thurs–Mon 9am–5pm. $4/person.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Florida State Parks; National Historic Landmark designation; Trail of Florida's Indian Heritage; Florida Hikes; Thompson et al. 2017</p></div>",
+      "popupOptions": { "maxWidth": 430 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "calusaSites",
+      "geometry": { "lat": 26.633, "lng": -82.094 },
+      "radius": 8,
+      "style": {
+        "color": "#2E8B57",
+        "fillColor": "#20B2AA",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#2E8B57;margin:0 0 8px\">Pineland / Randell Research Center</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Calusa</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> 13810 Waterfront Drive, Pine Island, Lee County (26.633°N, 82.094°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> ~2,000 BP–AD 1750</p><p style=\"font-size:13px;color:#CFD8DC\">A major Calusa center on the western shore of Pine Island — an enormous shell mound complex extending across more than 200 acres from the coastline, with a Calusa Heritage Trail (3,700 feet) leading through mounds and the remains of a historic Calusa canal still visible today. The Randell Research Center (Florida Museum of Natural History) is dedicated to teaching visitors about the Calusa and conducts ongoing archaeological research here. The site is considered one of the best-preserved and most accessible Calusa archaeological landscapes in Florida. Guided tours available January–April.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Randell Research Center, Pine Island — free; guided tours seasonal.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Florida Museum of Natural History / Randell Research Center; Visit Florida shell mound guide</p></div>",
+      "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "floridaPaleo",
+      "geometry": { "lat": 30.12, "lng": -83.86 },
+      "radius": 9,
+      "style": {
+        "color": "#4B0082",
+        "fillColor": "#8B008B",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4B0082;margin:0 0 8px\">Page-Ladson Site (8JE591) — Pre-Clovis</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Paleoindian (pre-Clovis)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Aucilla River, Jefferson/Taylor County (30.12°N, 83.86°W) — submerged underwater</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> ~14,550–14,200 BP (pre-Clovis); also Early Archaic occupation ~10,000 BP</p><p style=\"font-size:13px;color:#CFD8DC\">One of the most significant archaeological sites in North America. A deep sinkhole in the bed of the karstic Aucilla River, submerged under ~9 meters of water, containing stratified late Pleistocene animal bones and human artifacts dating to 14,550 years ago — roughly 1,000–1,500 years before the Clovis culture. The first pre-Clovis site confirmed in southeastern North America. Artifacts include a bifacial chert knife, lithic flakes, and ivory spear foreshafts; faunal remains include mastodon bones with human cut marks (a 7.5-foot tusk recovered 1993 shows 8 cut marks from human removal). At the time of occupation, sea levels were ~300 feet lower, Florida was significantly drier, and the sinkhole was a fresh spring-fed pond — a critical water source for Paleoindians and megafauna alike. Discovered 1983 by former Navy SEAL Buddy Page. Major excavations 1983–1997 (Dunbar/Webb) and 2012–2014 (Halligan/Waters). Published in Science Advances (2016). Site is not publicly accessible — underwater and on private/state land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Halligan et al. (2016) Science Advances 2(5):e1600375; Webb, S.D. ed. (2006) First Floridians and Last Mastodons, Springer; Florida Museum of Natural History — Aucilla River Prehistory Project; National Geographic (2016)</p></div>",
+      "popupOptions": { "maxWidth": 440 }
+    }
+  ]
+}

@@ -679,6 +679,42 @@ const tribalData = [
     villages: ["Slakaiya tribelet (deep Eel canyon — 11+ named villages including sketeclkascanan, kaslenkyobi, kaitcdantadan)", "Tsennahkenne (Eel River Wailaki — multiple bands)", "Bahneko (North Fork Wailaki — 6 tribelets)", "Che-teg-gah-ahng (Pitch Wailaki)", "Chiskokaiya (upstream from Slakaiya)", "Baskaiya (upstream neighbors)", "Setakaiya (west side ridge)", "Tc'ih-Léh-Dûñ ('Fish Run Place' — Sinkyone, returned 2022)"],
     keyDates: "~900 CE: Athabaskan arrival in California • 1860-65: Bald Hills War — Nongatl, Lassik nearly annihilated • 1864: Survivors forced to Round Valley • 1986: InterTribal Sinkyone Wilderness Council founded • 1997: First InterTribal Protected Area (3,845 acres) • 2017: Begay publishes Wailaki Grammar (UC Berkeley) • 2022: 523 acres old-growth redwood returned as Tc'ih-Léh-Dûñ • 2024: Council co-founder Priscilla Hunter dies",
     sources: "Goddard 1923; Kroeber 1925; Baumhoff 1958; Begay 2017; Keter 2024; InterTribal Sinkyone Wilderness Council; Save the Redwoods League"
+  },
+  {
+    name: "Timucua",
+    altNames: "Thimogona, Utina, Saturiwa, Mocama",
+    language: "Timucuan (language isolate — no confirmed relatives)",
+    timeStart: -2400,
+    timeEnd: 1767,
+    occupation: "~2400 BCE — AD 1767",
+    territory: "Northeast and north-central Florida, southeast Georgia; Atlantic coast to Aucilla River; Lake George south to Altamaha River north",
+    population: "50,000–200,000 at contact (c. 1565); fewer than 1,000 by late 1600s; last known Timucua died 1767",
+    centerLat: 29.9,
+    centerLng: -81.6,
+    zoom: 7,
+    color: "#8B4513",
+    description: "The Timucua were the largest Indigenous group in northeastern Florida and the most linguistically documented pre-colonial people in the Southeast. Their territory spanned roughly 19,200 square miles. Organized as matrilineal chiefdoms, they lived in circular, palm-thatched houses in villages of 200–300 people, with council houses large enough — by European accounts — to hold 3,000. They fished, hunted, and cultivated corn, beans, and squash, often storing surpluses in community granaries. Their pottery tradition, the St. Johns series (c. 500 BC–AD 1600), is among the most recognizable in Florida archaeology. In 1565, chief Seloy of the Saturiwa band welcomed Pedro Menéndez de Avilés at what is now Fountain of Youth Park — the first Spanish fort in St. Augustine was literally built inside Seloy's council house. Franciscan missionaries documented ten Timucuan dialects (Mocama, Potano, Agua Salada, and others), and friars Francisco Pareja (1612) and Gregorio de Mouilla (1635) produced devotional books in the Timucua language — rare surviving records of an otherwise lost tongue. European diseases, particularly measles, devastated the population catastrophically. By the late 1600s fewer than 1,000 remained. The last known fluent speaker died in Havana in 1767.",
+    villages: ["Seloy / Fountain of Youth (29.902°N, 81.311°W)", "Nocoroco / Tomoka Point (29.364°N, 81.085°W)", "Nombre de Dios Mission (29.906°N, 81.311°W)", "Sarabay / Big Talbot Island (30.46°N, 81.43°W)"],
+    keyDates: "~2400 BC: Timucua occupation of St. Augustine region begins • 1513: Juan Ponce de León first Spanish contact with Florida • 1564: French Huguenots establish Fort Caroline in Saturiwa territory; Jacques Le Moyne de Morgues documents Timucua life in famous illustrations • 1565: Pedro Menéndez de Avilés founds St. Augustine at Seloy's village • 1587: First Franciscan mission (Nombre de Dios) established at Fountain of Youth site • 1612: Friar Francisco Pareja publishes first grammar of Timucua language • 1656: Timucua Rebellion against Spanish forced labor • Late 1600s: Population collapses to fewer than 1,000 due to disease and warfare • 1767: Last known Timucua dies in Havana",
+    sources: "Milanich 1996; Worth 1998; Hann 1996; Florida Museum of Natural History Historical Archaeology; Deagan — Fountain of Youth Park excavations 1970s–2015"
+  },
+  {
+    name: "Calusa",
+    altNames: "Calos, Carlos, Caloosa",
+    language: "Calusa (language isolate — extinct, poorly documented)",
+    timeStart: -1150,
+    timeEnd: 1750,
+    occupation: "~1150 BCE — AD 1750",
+    territory: "Southwest Florida coast and interior; Charlotte Harbor to Florida Keys; shell mound islands throughout Ten Thousand Islands; dominant force over much of south Florida",
+    population: "~20,000 at contact; extinct as distinct group by ~1750",
+    centerLat: 26.4,
+    centerLng: -81.9,
+    zoom: 8,
+    color: "#2E8B57",
+    description: "The Calusa were among the most powerful and sophisticated non-agricultural chiefdoms in North America. For over 2,000 years they dominated southwest Florida's coast and interior, controlling dozens of other tribes through tribute networks without ever farming — sustaining their complex society entirely through fishing, hunting, and gathering from Florida's extraordinarily rich estuarine environment. Their capital, Calos (modern Mound Key), was a wholly human-made island constructed from shells, fish bones, and pottery over millennia, rising 33 feet above Estero Bay. When Pedro Menéndez de Avilés arrived in 1566, Spain's first Florida governor was appointed on this island — and the first Jesuit mission in the New World (San Antón de Carlos) was established there, lasting only until 1569 before violent Calusa resistance expelled the Spanish. Hernando de Escalante Fontaneda, shipwrecked among the Calusa as a 13-year-old in 1549, lived with them for 17 years and wrote the most detailed surviving account of their society. The Calusa produced extraordinary carved wooden artifacts — masks, figurines, plaques — preserved at Key Marco (excavated 1896) in anaerobic muck conditions. Felled by disease and Spanish colonial pressure, the surviving Calusa fled to Cuba around 1750.",
+    villages: ["Calos / Mound Key — capital (26.418°N, 81.865°W)", "Pineland / Randell Research Center (26.633°N, 82.094°W)", "Key Marco (25.93°N, 81.72°W)"],
+    keyDates: "~1150 BC: Carbon-dated Calusa occupation of Mound Key begins • 1513: Juan Ponce de León first recorded contact with Calusa; repelled • 1549: Hernando de Escalante Fontaneda shipwrecked; lives 17 years among Calusa • 1566: Pedro Menéndez de Avilés arrives at Calos; first Florida governor appointed at Mound Key; first Jesuit mission (San Antón de Carlos) established • 1569: Spanish abandon Mound Key after Calusa resistance • 1896: Frank Hamilton Cushing excavates Key Marco; recovers extraordinary preserved wooden artifacts • 2020: Archaeologists confirm Mound Key as location of Fort San Antón de Carlos • ~1750: Remaining Calusa population flees to Cuba; culture ends",
+    sources: "Widmer 1988; Marquardt — Randell Research Center / Pineland excavations; Thompson et al. 2020 PLOS ONE; Fontaneda 1575/1944; Florida Hikes"
   }
 ];
 
