@@ -6,7 +6,7 @@
       "type": "circleMarker",
       "layer": "scShellRings",
       "geometry": { "lat": 32.9685, "lng": -79.7095 },
-      "radius": 6,
+      "radius": 4,
       "style": {
         "color": "#5D4037",
         "fillColor": "#D2B48C",
@@ -20,7 +20,7 @@
       "type": "circleMarker",
       "layer": "scShellRings",
       "geometry": { "lat": 32.5713, "lng": -80.2139 },
-      "radius": 7,
+      "radius": 4,
       "style": {
         "color": "#5D4037",
         "fillColor": "#FFD54F",
@@ -34,7 +34,7 @@
       "type": "circleMarker",
       "layer": "scShellRings",
       "geometry": { "lat": 32.7350, "lng": -79.9600 },
-      "radius": 5,
+      "radius": 3,
       "style": {
         "color": "#5D4037",
         "fillColor": "#D2B48C",
@@ -48,7 +48,7 @@
       "type": "circleMarker",
       "layer": "scShellRings",
       "geometry": { "lat": 32.6180, "lng": -80.1850 },
-      "radius": 5,
+      "radius": 3,
       "style": {
         "color": "#5D4037",
         "fillColor": "#D2B48C",
@@ -62,7 +62,7 @@
       "type": "circleMarker",
       "layer": "scShellRings",
       "geometry": { "lat": 32.6060, "lng": -80.2280 },
-      "radius": 5,
+      "radius": 3,
       "style": {
         "color": "#5D4037",
         "fillColor": "#D2B48C",
@@ -76,7 +76,7 @@
       "type": "circleMarker",
       "layer": "scShellRings",
       "geometry": { "lat": 32.6500, "lng": -80.1700 },
-      "radius": 5,
+      "radius": 3,
       "style": {
         "color": "#5D4037",
         "fillColor": "#D2B48C",
@@ -90,7 +90,7 @@
       "type": "circleMarker",
       "layer": "scVillages",
       "geometry": { "lat": 32.8067, "lng": -79.9883 },
-      "radius": 6,
+      "radius": 4,
       "style": {
         "color": "#8B4513",
         "fillColor": "#D2691E",
@@ -104,7 +104,7 @@
       "type": "circleMarker",
       "layer": "scMounds",
       "geometry": { "lat": 33.0375, "lng": -79.5475 },
-      "radius": 5,
+      "radius": 3,
       "style": {
         "color": "#6D4C41",
         "fillColor": "#A1887F",
@@ -118,7 +118,7 @@
       "type": "circleMarker",
       "layer": "scVillages",
       "geometry": { "lat": 32.7280, "lng": -79.9450 },
-      "radius": 5,
+      "radius": 3,
       "style": {
         "color": "#8B4513",
         "fillColor": "#A0522D",
@@ -132,7 +132,7 @@
       "type": "circleMarker",
       "layer": "scMounds",
       "geometry": { "lat": 33.5390, "lng": -80.4378 },
-      "radius": 6,
+      "radius": 4,
       "style": {
         "color": "#6D4C41",
         "fillColor": "#8B6914",
