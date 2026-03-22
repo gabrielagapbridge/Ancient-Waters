@@ -223,6 +223,11 @@ function buildMarkerOptions(f) {
 function buildCircleMarkerStyle(f) {
   const style = Object.assign({}, f.style || {});
 
+  // Apply radius from feature data (Leaflet default is 10)
+  if (f.radius != null) {
+    style.radius = f.radius;
+  }
+
   // Handle interactive: false
   if (f.options && f.options.interactive === false) {
     style.interactive = false;
