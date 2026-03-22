@@ -1,6 +1,6 @@
 {
   "source": "71-sc-lowcountry.json",
-  "featureCount": 10,
+  "featureCount": 17,
   "features": [
     {
       "type": "circleMarker",
@@ -141,6 +141,104 @@
       },
       "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Santee Indian Mound / Fort Watson</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Santee — Mississippian (~1200-1500 CE)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Santee National Wildlife Refuge, Clarendon County (33.539°N, 80.438°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Date:</b> Mississippian ~1200-1500 CE; Revolutionary War fort 1780-1781</p><p style=\"font-size:13px;color:#CFD8DC\">Mississippian burial and/or temple mound, part of a Santee mound village complex on the Santee River (now Lake Marion). The Santee held elaborate burial rituals — chiefs, shamans, and warriors were interred on mounds with wooden pole structures and offerings of rattles and feathers. Mound height indicated the deceased's importance. Common people were wrapped in bark on platforms; relatives painted faces black and kept vigil. Bones were later cleaned, boxed, and re-oiled annually. At least 16 graves excavated by archaeologists. During the American Revolution, the British built Fort Watson (30-50 ft high) atop the mound. In 1781, Francis Marion and Light Horse Harry Lee captured it by building a log tower in a single night — the first British outpost recaptured after the 1780 occupation. No remains of the fort survive. Now in Santee National Wildlife Refuge. NRHP listed 1969.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Santee National Wildlife Refuge — free, open during refuge hours. Fort Watson site has interpretive markers.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: SCDAH; NPS; American Battlefield Trust</p></div>",
       "popupOptions": { "maxWidth": 440 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.4980, "lng": -80.2250 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#EF5350",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#EF5350;margin:0 0 8px\">Pockoy Island Shell Ring Complex</h3><p style=\"font-size:12px;color:#EF5350;margin:0 0 6px\">HERITAGE AT RISK — Late Archaic (~4,300 BP) — Thom's Creek culture</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Botany Bay Heritage Preserve, Edisto Island, Charleston County (32.498°N, 80.225°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Two Late Archaic shell rings discovered via LiDAR scanning in late 2016 after Hurricane Matthew. Pockoy 1 was donut-shaped, ~60 meters across, constructed and occupied over a very short period (20-100 years). Contained some of the oldest ceramics in the United States — Thom's Creek pottery with sand tempering and bold punctated designs, as well as beautifully decorated deer bone pins incised with designs that may have been tribal identifiers handed down for generations. Also found Stallings Island pottery (one of the earliest pottery traditions in North America, using Spanish moss as temper).</p><p style=\"font-size:13px;color:#EF5350\"><b>Heritage at Risk:</b> Pockoy 1 has been completely lost to coastal erosion — the island was eroding at ~50 feet per year. It was one of the most intensively investigated shell rings in the world before the ocean claimed it. Ring 2 was expected to follow within a few years. Over 13,000 archaeological sites along the south Atlantic and Gulf coasts are potentially at risk with just 3 feet of sea level rise.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: SCDNR Heritage Trust Program; Gaillard & Smith; Cochran (East Tennessee State); Garcia 2019 (SC Wild); Anderson et al. 2017</p></div>",
+      "popupOptions": { "maxWidth": 440 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.5065, "lng": -80.3228 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#EF5350",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Spanish Mount Point (38CH62)</h3><p style=\"font-size:12px;color:#EF5350;margin:0 0 6px\">HERITAGE AT RISK — Late Archaic (~2200-1800 BCE) — Thom's Creek culture</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Edisto Beach State Park, Scott Creek, Charleston County (32.507°N, 80.323°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Also called the 'Indian Mound' locally. An oyster-clam shell midden approximately 27 meters long and 3 meters high, bordered by water and marsh on three sides along Scott Creek. Possibly a shell ring that was later infilled with shell over time. Archaeological finds include Thom's Creek pottery, Stallings Island pottery (using Spanish moss as temper), decorated deer bone pins used as hair accessories, soapstone vessels for indirect heating of water and food, and abundant faunal remains. Soapstone came from interior Piedmont quarries, indicating long-distance trade. Excavated by Donald Sutherland in 1973-1974 for SCIAA.</p><p style=\"font-size:13px;color:#EF5350\"><b>Heritage at Risk:</b> A retaining wall installed in the 2000s to combat erosion was ruptured by the 2015 floods. Most of Spanish Mount has now been overwashed by tidal creek action.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Accessible via 1.7-mile trail through maritime forest. NRHP listed 1974.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Sutherland 1974 (South Carolina Antiquities vol. 6); Chamberlain 1980; New South Associates 1992; SCDAH</p></div>",
+      "popupOptions": { "maxWidth": 430 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scVillages",
+      "geometry": { "lat": 32.5030, "lng": -80.3150 },
+      "radius": 2,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#A0522D",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Edisto Beach State Park Shell Middens</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cusabo (Edisto subtribe); earlier Archaic peoples — Late Archaic through Contact</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Edisto Beach State Park, Colleton County (32.503°N, 80.315°W)</p><p style=\"font-size:13px;color:#CFD8DC\">At least 16 Late Archaic archaeological components identified in a 1992 cultural resource management survey by New South Associates. The island itself is named for the Edistow (Edisto) people, a Cusabo subtribe who originally lived south of the Port Royal River but moved to Edisto Island after the Escamacu War of 1576-1579. Continuous evidence of human occupation from the Late Archaic through the Contact period, including shell middens, lithic scatters, and ceramic deposits. The state-recognized Edisto Natchez-Kusso Tribe (recognized 2008, 784 members documented in 2001) and the Wassamasaw people trace their lineage to the Edisto and other Cusabo subtribes and claim burial grounds on Edisto Island and other Lowcountry islands. Human remains have been found eroding from the beachfront in recent years.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: New South Associates 1992; Waddell 1980; SCDAH; Chicora Foundation</p></div>",
+      "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.1280, "lng": -80.8320 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#FFD54F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Sea Pines Shell Ring (38BU7)</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">Late Archaic (~4,000 BP) — Best-preserved shell ring in the Southeast</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Sea Pines Forest Preserve, Hilton Head Island, Beaufort County (32.128°N, 80.832°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The most pristine and best-preserved shell ring in the southeastern United States. A near-perfect circle of shells ~150 feet in diameter, built over approximately 300 years around 4,000 years ago. Composed of thousands of discarded oysters, clams, whelk, turtle, fish, and other animal remains. Originally stood 2-3 feet tall but is now mostly covered by soil, barely distinguishable from surrounding ground — which is precisely what preserved it. No signs anyone lived directly in the ring — likely a ceremonial area and community plaza. Currently being studied by Binghamton University archaeologists led by Dr. Matthew Sanger. Two other shell rings on Hilton Head were destroyed when shells were removed to make tabby for roads and buildings. NRHP listed.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Sea Pines Forest Preserve — open to public with interpretive signage.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Calmes 1967; NPS shell ring context study; Sanger (Binghamton University); discoversouthcarolina.com</p></div>",
+      "popupOptions": { "maxWidth": 430 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.2465, "lng": -80.7481 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Skull Creek Shell Rings (38BU8)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic (early second millennium BCE) — Figure-8 conjoined rings</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Skull Creek Drive, north Hilton Head Island, Beaufort County (32.247°N, 80.748°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Two conjoined Late Archaic shell rings in a distinctive figure-8 configuration. The only known example in the Southeast of a later ring superimposed over an earlier one, though the precise relationship between the two has not been determined. The southernmost ring (No. 1) is approximately 128 feet in diameter and stands about 7.5 feet at some points above a flat central area. Like all shell rings in the region, composed primarily of oyster shells mixed with other mollusks, animal bones, and pottery sherds. Contains some of the earliest pottery in North America. Has suffered extensive shell removal over the years but is now NRHP listed and protected.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Calmes 1967; Heide & Russo 2003; NPS shell ring context study; SCDAH</p></div>",
+      "popupOptions": { "maxWidth": 430 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.2380, "lng": -80.7400 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#EF5350",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Green's Shell Enclosure</h3><p style=\"font-size:12px;color:#EF5350;margin:0 0 6px\">HERITAGE AT RISK — Late Archaic through Mississippian (~4,000 BP – ~1400 CE)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Squire Pope Road, near Skull Creek, Hilton Head Island, Beaufort County (32.238°N, 80.740°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A shell ring / enclosure now preserved as Green Shell Heritage Preserve. Currently being surveyed by SCDNR Heritage Trust archaeologists led by Meg Gaillard (the same team that excavated Pockoy Island). January 2025 excavations found Irene Phase pottery (~1300-1400 CE) — gorgeous, well-preserved sherds from a Georgia Coast archaeological phase — demonstrating that this site had a much longer occupation history than most shell rings, spanning from the Late Archaic potentially into the Mississippian period.</p><p style=\"font-size:13px;color:#EF5350\"><b>Heritage at Risk:</b> Erosion is occurring at a slower rate than Pockoy (a few centimeters per year rather than feet), giving archaeologists more time — but the threat remains ongoing.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Public tours offered during excavation seasons. NRHP listed.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Gaillard (SCDNR); Post & Courier 2025; NPS shell ring context study</p></div>",
+      "popupOptions": { "maxWidth": 440 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.4650, "lng": -80.4250 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Coosaw Shell Rings (38BU2)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic — Figure-8 conjoined rings</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Coosaw Island, Beaufort County (32.465°N, 80.425°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Two conjoined Late Archaic shell rings in a figure-8 pattern on Coosaw Island. Along with Skull Creek, one of only two known figure-8 conjoined ring sites in South Carolina. The Coosaw River and island name derive from the Cusabo subtribe 'Coosaw' or 'Kussoe/Kussah.' Three major rings are found at the Coosaw complex (similar to Fig Island and Sapelo complexes), suggesting these multi-ring sites served as regional gathering centers. Located in a remote, marshy setting typical of shell ring placement along tidal creeks.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Heide & Russo 2003; NPS shell ring context study; Calmes 1967</p></div>",
+      "popupOptions": { "maxWidth": 420 }
     }
   ]
 }
