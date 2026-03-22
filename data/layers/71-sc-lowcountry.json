@@ -1,6 +1,6 @@
 {
   "source": "71-sc-lowcountry.json",
-  "featureCount": 17,
+  "featureCount": 20,
   "features": [
     {
       "type": "circleMarker",
@@ -239,6 +239,67 @@
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Coosaw Shell Rings (38BU2)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic — Figure-8 conjoined rings</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Coosaw Island, Beaufort County (32.465°N, 80.425°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Two conjoined Late Archaic shell rings in a figure-8 pattern on Coosaw Island. Along with Skull Creek, one of only two known figure-8 conjoined ring sites in South Carolina. The Coosaw River and island name derive from the Cusabo subtribe 'Coosaw' or 'Kussoe/Kussah.' Three major rings are found at the Coosaw complex (similar to Fig Island and Sapelo complexes), suggesting these multi-ring sites served as regional gathering centers. Located in a remote, marshy setting typical of shell ring placement along tidal creeks.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Heide & Russo 2003; NPS shell ring context study; Calmes 1967</p></div>",
       "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "polygon",
+      "layer": "scTerritories",
+      "geometry": [
+        [32.85, -79.90],[32.80, -79.75],[32.70, -79.80],[32.65, -79.85],
+        [32.55, -80.00],[32.45, -80.15],[32.35, -80.30],[32.25, -80.50],
+        [32.15, -80.65],[32.10, -80.80],[32.05, -80.90],[32.05, -81.00],
+        [32.08, -81.08],[32.15, -81.10],[32.20, -81.08],[32.30, -81.00],
+        [32.40, -80.95],[32.50, -80.85],[32.55, -80.75],[32.60, -80.65],
+        [32.65, -80.55],[32.70, -80.45],[32.75, -80.35],[32.80, -80.20],
+        [32.85, -80.05],[32.85, -79.90]
+      ],
+      "style": {
+        "color": "#8B4513",
+        "weight": 2,
+        "opacity": 0.6,
+        "fillColor": "#8B4513",
+        "fillOpacity": 0.08,
+        "dashArray": "6,4"
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Cusabo Alliance Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> ~5,000 square miles — Cooper River south to Savannah River, ~80 miles inland</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~1000 BCE – AD 1751</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Peoples:</b> At least 19 politically autonomous polities — Kussoe, Edisto, Escamacu, Kiawah, Etiwan, Ashepoo, Bohicket, Combahee, Stono, Wando, Wimbee, and others</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Seasonal pattern:</b> Coast in summer (fishing, shellfish); inland river valleys in winter (deer, turkey). Villages were circular, palisaded, with council houses and central plazas.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Population:</b> ~1,750 in 1562; 664 by 1682; fewer than 250 by 1751. Nearly 6 of every 7 Indians on the Lower Coast died of causes directly related to European contact (Waddell).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Waddell 1980; Milling 1969; Swanton 1953</p></div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "scTerritories",
+      "geometry": [
+        [33.15, -79.30],[33.10, -79.25],[33.00, -79.35],[32.95, -79.50],
+        [32.90, -79.65],[32.85, -79.75],[32.85, -79.90],[32.85, -80.05],
+        [32.90, -80.10],[33.00, -80.05],[33.05, -79.95],[33.10, -79.80],
+        [33.15, -79.60],[33.18, -79.45],[33.15, -79.30]
+      ],
+      "style": {
+        "color": "#2E8B57",
+        "weight": 2,
+        "opacity": 0.6,
+        "fillColor": "#2E8B57",
+        "fillOpacity": 0.08,
+        "dashArray": "6,4"
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#2E8B57;margin:0 0 8px\">Sewee Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Lower Santee River and coast to Ashley River divide — Berkeley County</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~2000 BCE – AD 1720</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Population:</b> ~800 in 1600; 57 by 1715; declared 'utterly extirpated' by Governor Johnson in 1720</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Language:</b> Probably Catawban/Siouan — different from Cusaboan. Place names in Sewee territory are in Catawban languages. Their name survives in Sewee Bay (now Bulls Bay) and the town of Awendaw (from their village Avendaughbough).</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Notable:</b> Renowned canoe men. Tragically lost most able-bodied men in a doomed attempt to sail to England for direct trade — survivors were enslaved in the West Indies.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lawson 1709; Waddell 1980; Swanton 1953</p></div>"
+    },
+    {
+      "type": "polygon",
+      "layer": "scTerritories",
+      "geometry": [
+        [33.55, -79.30],[33.45, -79.25],[33.35, -79.30],[33.25, -79.35],
+        [33.15, -79.30],[33.18, -79.45],[33.15, -79.60],[33.10, -79.80],
+        [33.15, -80.00],[33.25, -80.20],[33.40, -80.45],[33.50, -80.55],
+        [33.55, -80.50],[33.58, -80.35],[33.55, -80.15],[33.52, -79.90],
+        [33.55, -79.60],[33.55, -79.30]
+      ],
+      "style": {
+        "color": "#8B6914",
+        "weight": 2,
+        "opacity": 0.6,
+        "fillColor": "#8B6914",
+        "fillOpacity": 0.08,
+        "dashArray": "6,4"
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Santee Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Santee River corridor from the Sewee settlements upstream to the forks</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~800 CE – AD 1743</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Culture:</b> Mississippian tradition — burial/temple mounds. The Santee chief held unusual despotic authority (rare for the region). Elaborate burial rituals with mound interment, wooden pole structures, and offerings of rattles and feathers.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Decline:</b> Yamasee War (1715) broke their power; many enslaved and shipped to West Indies. By 1743 consolidated with Catawba, retaining distinct dialect.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lawson 1709; Mooney 1894; Waddell 1980</p></div>"
     }
   ]
 }
