@@ -1,6 +1,6 @@
 {
   "source": "71-sc-lowcountry.json",
-  "featureCount": 20,
+  "featureCount": 24,
   "features": [
     {
       "type": "circleMarker",
@@ -13,7 +13,7 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Sewee Shell Ring (38CH45)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic (~4,000 BP / ~2200-1000 BCE) — Ancestral Thom's Creek culture</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Awendaw, Charleston County (32.969°N, 79.710°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Northernmost shell ring in North America. C-shaped ring ~150 ft diameter, walls 10 ft high, composed primarily of oyster shells with mussels, clams, and periwinkles. Built ~4,000 years ago — contemporary with the Great Pyramids of Giza and Stonehenge. Contains pottery sherds (some of earliest in North America), stone tools, bone fragments including dog remains (early evidence of dog domestication). Human remains with evidence of cutting/burning found. Shell rings exist in only four places on Earth: SE United States, Japan, Colombia, and Peru. Nearly half destroyed in 1920s by road crews mining material for Highway 17 paving. Now protected in Francis Marion National Forest with 1-mile interpretive trail and boardwalk. NRHP listed 1970.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Francis Marion National Forest, Sewee Shell Ring Interpretive Trail — free, open dawn to dusk.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Trinkley 1985; Russo & Heide 2003; Hemmings 1970; SAH Archipedia</p></div>",
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Sewee Shell Ring (38CH45)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic (~4,000 BP / ~2200-1000 BCE) — Ancestral Thom's Creek culture</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Awendaw, Charleston County (32.969°N, 79.710°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Northernmost shell ring in North America. C-shaped ring ~150 ft diameter, walls 10 ft high, composed primarily of oyster shells with mussels, clams, and periwinkles. Built ~4,000 years ago — contemporary with the Great Pyramids of Giza and Stonehenge. Contains pottery sherds (some of earliest in North America), stone tools, bone fragments including dog remains (early evidence of dog domestication). Human remains with evidence of cutting/burning found. Shell rings exist in only four places on Earth: SE United States, Japan, Colombia, and Peru. Nearly half destroyed in 1920s by road crews mining material for Highway 17 paving. Now protected in Francis Marion National Forest with 1-mile interpretive trail and boardwalk. NRHP listed 1970.</p><p style=\"font-size:13px;color:#26C6DA\"><b>Water-storage hypothesis:</b> Marquardt (2010) and Middaugh (2009) proposed that the Sewee Shell Ring functioned primarily as a freshwater reservoir. Hydrological testing found the ring still accumulates potable freshwater today — even after 3,000+ years of sediment infilling. Three distinct berms and a slough shell structure functioned as weirs to control water flow. The interior 'plaza' contained clean sand with almost no shell, consistent with a water collection basin. The ring (~75 m diameter, ~2,900 cubic meters of shell) was built during the Mid-Holocene Cool Period (~5000-3500 BP), when sea level was 0.8-3.0 m lower and coastal freshwater was scarce. Freshwater springs or sloughs are found near many other SC rings, suggesting strategic placement for access to both marine food and potable water. This challenges dominant 'feasting monument' theories and reframes the rings as sophisticated paleo-engineering.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Francis Marion National Forest, Sewee Shell Ring Interpretive Trail — free, open dawn to dusk.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Trinkley 1985; Russo & Heide 2003; Hemmings 1970; SAH Archipedia; Marquardt 2010 (American Antiquity 75:551-570); Middaugh 2009 (Journal of the NC Academy of Science)</p></div>",
       "popupOptions": { "maxWidth": 420 }
     },
     {
@@ -195,7 +195,7 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Sea Pines Shell Ring (38BU7)</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">Late Archaic (~4,000 BP) — Best-preserved shell ring in the Southeast</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Sea Pines Forest Preserve, Hilton Head Island, Beaufort County (32.128°N, 80.832°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The most pristine and best-preserved shell ring in the southeastern United States. A near-perfect circle of shells ~150 feet in diameter, built over approximately 300 years around 4,000 years ago. Composed of thousands of discarded oysters, clams, whelk, turtle, fish, and other animal remains. Originally stood 2-3 feet tall but is now mostly covered by soil, barely distinguishable from surrounding ground — which is precisely what preserved it. No signs anyone lived directly in the ring — likely a ceremonial area and community plaza. Currently being studied by Binghamton University archaeologists led by Dr. Matthew Sanger. Two other shell rings on Hilton Head were destroyed when shells were removed to make tabby for roads and buildings. NRHP listed.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Sea Pines Forest Preserve — open to public with interpretive signage.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Calmes 1967; NPS shell ring context study; Sanger (Binghamton University); discoversouthcarolina.com</p></div>",
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Sea Pines Shell Ring (38BU7)</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">Late Archaic (~4,000 BP) — Best-preserved shell ring in the Southeast</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Sea Pines Forest Preserve, Hilton Head Island, Beaufort County (32.128°N, 80.832°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The most pristine and best-preserved shell ring in the southeastern United States. A near-perfect circle of shells ~150 feet in diameter, built over approximately 300 years around 4,000 years ago. Composed of thousands of discarded oysters, clams, whelk, turtle, fish, and other animal remains. Originally stood 2-3 feet tall but is now mostly covered by soil, barely distinguishable from surrounding ground — which is precisely what preserved it. No signs anyone lived directly in the ring — likely a ceremonial area and community plaza. Currently being studied by Binghamton University archaeologists led by Dr. Matthew Sanger. Two other shell rings on Hilton Head were destroyed when shells were removed to make tabby for roads and buildings. NRHP listed.</p><p style=\"font-size:13px;color:#26C6DA\"><b>Ritual reuse:</b> Sanger et al. (2021) found that later southeastern coastal peoples engaged in ritual reuse of the Sea Pines Shell Ring more than 1,000 years after its initial construction, by cremating human and non-human bodies at the site. The findings suggest shell rings were 'persistent places' — powerful, sacred locales with a social and cosmological gravity that attracted people across many generations. The concept of 'revelatory locales' frames these sites as points where past, present, and future collapse — aligning with how many Native American communities understand significant places.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Sea Pines Forest Preserve — open to public with interpretive signage.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Calmes 1967; NPS shell ring context study; Sanger (Binghamton University); discoversouthcarolina.com; Sanger et al. 2021 (Journal of Anthropological Archaeology 63:101322)</p></div>",
       "popupOptions": { "maxWidth": 430 }
     },
     {
@@ -300,6 +300,62 @@
         "dashArray": "6,4"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Santee Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Santee River corridor from the Sewee settlements upstream to the forks</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~800 CE – AD 1743</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Culture:</b> Mississippian tradition — burial/temple mounds. The Santee chief held unusual despotic authority (rare for the region). Elaborate burial rituals with mound interment, wooden pole structures, and offerings of rattles and feathers.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Decline:</b> Yamasee War (1715) broke their power; many enslaved and shipped to West Indies. By 1743 consolidated with Catawba, retaining distinct dialect.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lawson 1709; Mooney 1894; Waddell 1980</p></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.4350, "lng": -80.7250 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Chester Field Shell Ring (38BU29)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic (second millennium BCE)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Laurel Bay, Beaufort County (32.435°N, 80.725°W) — address restricted</p><p style=\"font-size:13px;color:#CFD8DC\">Late Archaic shell ring containing some of the earliest pottery in North America. Sassaman (2006) noted stylistic similarities between Stallings Island decorated pottery and ceramics from Chester Field, though he considered them 'distinct, albeit closely related, communities' — suggesting cultural exchange between interior Savannah River populations and coastal ring-builders 200 km away. Marquardt (2010) identified freshwater springs or sloughs in proximity, consistent with his hypothesis that ring placement was driven by access to potable water during the dry Mid-Holocene Cool Period. NRHP listed 1970.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NPS Archaic Shell Rings context study (Russo 2006); Sassaman 2006; Marquardt 2010; SCDAH NRHP 1970</p></div>",
+      "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.4670, "lng": -80.4580 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#FFD54F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Coosaw Island Shell Ring Complex (38BU1866)</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">Late Archaic (~3,800-3,600 BP) — 4 rings including figure-8 pair</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South Bluff Heritage Preserve, Coosaw Island, Beaufort County (32.467°N, 80.458°W)</p><p style=\"font-size:13px;color:#CFD8DC\">One of the most complex shell ring sites in the United States. Discovered in 2000, the complex includes two conjoined rings in a figure-8 configuration (Coosaw 1 and 2, 55-60 m diameter, up to 1.73 m high) plus two additional rings (130-170 ft diameter, 3-4 ft high). The conjoined pair extends over 300 feet and rises nearly six feet. Radiocarbon dates indicate construction began ~3,800 years ago and the site was abandoned ~200 years later. Along with Fig Island and Sapelo Island (Georgia), Coosaw is one of only three known multi-ring complexes in the Southeast, suggesting these served as regional gathering centers for trade, communication, and political relations. Artifacts include fiber-tempered pottery (both Stallings and Thom's Creek types), shell tools, bone pins, bifaces, and lithic flakes. The island name derives from the Cusabo subtribe 'Coosaw' (Kussoe/Kussah). Now preserved as South Bluff Heritage Preserve (24 acres) — one of the best-preserved shell ring complexes in the state.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Accessible via trails from end of Friendship Lane, Coosaw Island.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: SCDNR Heritage Trust; Heide & Russo 2003; NPS shell ring context study</p></div>",
+      "popupOptions": { "maxWidth": 440 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.2400, "lng": -80.7450 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Ford's Shell Ring (Hilton Head)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic (~4,000 BP) — Figure-8 conjoined rings</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Squire Pope community, north Hilton Head Island, Beaufort County (32.240°N, 80.745°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Two conjoined shell rings in a figure-8 configuration. Named for site's last private owner, Henry Ford. The smaller ring was constructed approximately 300 years earlier than the larger ring, which is partially superimposed over the older one — the older ring is approximately the same age as the Sea Pines Shell Ring, and occupants of both sites undoubtedly socialized and traded with each other. The 6.8-acre wooded waterfront lot was purchased in 2003 by the Town of Hilton Head, Heritage Trust, and Beaufort County to preempt development and protect the rings. In November 2024, Beaufort County Council voted unanimously to approve construction of a passive park for public access and protection.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Archaeological Society of SC (Kiernan 2020); Post & Courier; SCDNR</p></div>",
+      "popupOptions": { "maxWidth": 420 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scShellRings",
+      "geometry": { "lat": 32.3500, "lng": -80.5200 },
+      "radius": 2,
+      "style": {
+        "color": "#5D4037",
+        "fillColor": "#D2B48C",
+        "fillOpacity": 0.8,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Kempfer Place Shell Ring</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Beaufort County coast (32.350°N, 80.520°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Late Archaic shell ring between Stratton Place and Hilton Head. Marquardt (2010) identified freshwater springs or sloughs in proximity — along with Chester Field, Sewee, Auld, Cannon's Point, St. Catherines, and Guana — supporting his hypothesis that shell rings were strategically placed to access both marine food resources and potable freshwater during the dry Mid-Holocene Cool Period. Part of the dense network of shell rings along the South Carolina Sea Islands. South Carolina has more shell rings than any other state — at least 17 known sites with 25+ individual rings.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Marquardt 2010 (American Antiquity 75:551-570); NPS Archaic Shell Rings context study</p></div>",
+      "popupOptions": { "maxWidth": 400 }
     }
   ]
 }
