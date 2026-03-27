@@ -252,6 +252,7 @@
     "scShellRings":        {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
     "scVillages":          {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
     "scMounds":            {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
-    "scTerritories":       {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]}
+    "scTerritories":       {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
+    "scWoodland":          {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]}
   }
 }

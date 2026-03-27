@@ -1,6 +1,6 @@
 {
   "source": "71-sc-lowcountry.json",
-  "featureCount": 24,
+  "featureCount": 29,
   "features": [
     {
       "type": "circleMarker",
@@ -356,6 +356,96 @@
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Kempfer Place Shell Ring</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Archaic</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Beaufort County coast (32.350°N, 80.520°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Late Archaic shell ring between Stratton Place and Hilton Head. Marquardt (2010) identified freshwater springs or sloughs in proximity — along with Chester Field, Sewee, Auld, Cannon's Point, St. Catherines, and Guana — supporting his hypothesis that shell rings were strategically placed to access both marine food resources and potable freshwater during the dry Mid-Holocene Cool Period. Part of the dense network of shell rings along the South Carolina Sea Islands. South Carolina has more shell rings than any other state — at least 17 known sites with 25+ individual rings.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Marquardt 2010 (American Antiquity 75:551-570); NPS Archaic Shell Rings context study</p></div>",
       "popupOptions": { "maxWidth": 400 }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scWoodland",
+      "geometry": { "lat": 32.813079, "lng": -79.813676 },
+      "radius": 3,
+      "style": {
+        "color": "#5D8AA8",
+        "fillColor": "#5D8AA8",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:410px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5D8AA8;margin:0 0 8px\">38CH1466 — Seaside Farms Woodland Shell Midden</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Middle Woodland (~500 BCE – AD 1000) — Deptford / Hanover / Santee-McClellanville phases</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Seaside Farms tract, near Inlet Creek, Charleston County (32.813°N, 79.814°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>National Register:</b> Eligible — 250 × 600 ft intact midden</p><p style=\"font-size:13px;color:#CFD8DC\">Intact Middle Woodland shell midden situated behind a historic earthen berm on the Seaside Farms tract. Multi-component occupation spanning Deptford through Santee/McClellanville phases. Of 87 analyzable sherds: Deptford dominates at 69% (cord marked, check stamped, simple stamped, fabric impressed), with significant Hanover (18.4%) and minor Santee/McClellanville (8%) and Wando limestone-tempered ware (2.3%). Several Deptford sherds contained fragments of unleached limestone — possibly experimental. Test Unit 1 yielded 159 lbs of oyster shell midden at 0.6 ft depth. Excellent faunal preservation includes deer bone, and water-screening recovered ethnobotanical remains. Demonstrates the importance of coastal marsh resources to Woodland groups even on poorly drained Rutlege soils — challenging the prevailing model (Brooks &amp; Scurry 1978) that prehistoric sites cluster only on well-drained soils. Site likely functioned as a seasonal/extractive camp oriented toward shellfish collection and deer hunting.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Adams &amp; Trinkley 1993, Chicora Foundation Research Series 35</p></div>",
+      "popupOptions": { "maxWidth": 420 },
+      "timePeriods": ["formative"],
+      "cultures": ["deptford", "hanover", "wando", "santee_mcclellanville"],
+      "tribes": ["wando"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scWoodland",
+      "geometry": { "lat": 32.802836, "lng": -79.817871 },
+      "radius": 3,
+      "style": {
+        "color": "#5D8AA8",
+        "fillColor": "#FFD54F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5D8AA8;margin:0 0 8px\">38CH1474 — Wando Series Type Site</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">TYPE SITE — Woodland period — First formal description of Wando Series limestone-tempered pottery</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Marsh island, Seaside Farms tract, Charleston County (32.803°N, 79.818°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>National Register:</b> Eligible — 300 × 75 ft on remnant ridge-and-trough topography</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Type site for the Wando Series</b> — the first formal description of a limestone-tempered pottery tradition restricted to the Wando River basin. Located on a long thin marsh island with Crevasse-Dawhoo soils, the most favorable fishing and shellfishing location on the tract. Of 32 sherds, 25 are limestone-tempered Wando ware (cord marked, check stamped). Temper confirmed as limestone (not shell) via HCl acid test and binocular microscope by Dr. Vincas Steponaitis — abundant rounded particles 0.5–6mm with near-surface leaching leaving characteristic rounded holes. Wando pottery is distinct from shell-tempered Oak Island ware: darker color (10YR3/2 to 7.5YR4/2), harder (Mohs 3–3.5 vs 2.5), and geographically restricted to the Wando drainage. Possible limestone sources include the Duplin formation (Cooper River/Goose Creek), Santee Limestone (Lake Marion bluffs), and Cooper Marl. Intact midden with both midden and non-midden areas — potential for intra-site spatial patterning.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Adams &amp; Trinkley 1993, Chicora Foundation Research Series 35; Steponaitis (pers. comm.)</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["formative"],
+      "cultures": ["wando"],
+      "tribes": ["wando"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scWoodland",
+      "geometry": { "lat": 32.801770, "lng": -79.819594 },
+      "radius": 3,
+      "style": {
+        "color": "#5D8AA8",
+        "fillColor": "#5D8AA8",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5D8AA8;margin:0 0 8px\">38CH1475 — Seaside Farms Marsh Island Midden</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Woodland period — Wando (inferred from proximity to type site 38CH1474)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Marsh island, Seaside Farms tract, Charleston County (32.802°N, 79.820°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>National Register:</b> Potentially Eligible — 200 × 50 ft</p><p style=\"font-size:13px;color:#CFD8DC\">Intact shell midden located on the same long thin marsh island as 38CH1474 (Wando Series type site), approximately 200 ft to the east. Three of six shovel tests yielded shell midden deposits on Crevasse-Dawhoo ridge-and-trough topography. No diagnostic artifacts recovered during survey testing, but cultural context inferred from proximity to the type site. May represent a spatial extension of 38CH1474 or a related occupation area.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Adams &amp; Trinkley 1993, Chicora Foundation Research Series 35</p></div>",
+      "popupOptions": { "maxWidth": 410 },
+      "timePeriods": ["formative"],
+      "cultures": ["wando"],
+      "tribes": ["wando"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scWoodland",
+      "geometry": { "lat": 32.803546, "lng": -79.816580 },
+      "radius": 2,
+      "style": {
+        "color": "#5D8AA8",
+        "fillColor": "#5D8AA8",
+        "fillOpacity": 0.4,
+        "weight": 1
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5D8AA8;margin:0 0 8px;opacity:0.7\">38CH177 — Causeway Midden (Destroyed)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Middle Woodland — Documented 1974, destroyed by erosion/collection</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> End of causeway to marsh island, Seaside Farms tract, Charleston County (32.804°N, 79.817°W)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>National Register:</b> Not Eligible (heavily disturbed)</p><p style=\"font-size:13px;color:#CFD8DC\">Remnant (~50 × 50 ft) of a Middle Woodland shell midden on a marsh hummock at the end of a causeway. Originally identified in 1974 by Trinkley &amp; Carter with oyster and clam midden containing Middle Woodland sherds in tree falls. Revisited by Cabaniss in 1977. By 1992, no artifacts could be recovered — the site had been eroded or collected away. Documents the broader pattern of Woodland occupation on the Seaside Farms tract, where groups exploited marsh-edge environments across multiple islands and hummocks.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Trinkley &amp; Carter 1974; Trinkley 1978b, 1980d; Adams &amp; Trinkley 1993</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "timePeriods": ["formative"],
+      "cultures": ["wando"],
+      "tribes": ["wando"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "polygon",
+      "layer": "scTerritories",
+      "geometry": [
+        [32.83, -79.87],[32.84, -79.82],[32.83, -79.77],[32.80, -79.75],
+        [32.77, -79.76],[32.74, -79.79],[32.74, -79.84],[32.76, -79.88],
+        [32.79, -79.89],[32.83, -79.87]
+      ],
+      "style": {
+        "color": "#5D8AA8",
+        "weight": 2,
+        "opacity": 0.8,
+        "fillColor": "#5D8AA8",
+        "fillOpacity": 0.15,
+        "dashArray": "6,4"
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5D8AA8;margin:0 0 8px\">Wando Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Wando River drainage — tidal marshes, barrier islands, and 'sea shore' lands of Christ Church Parish</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~1000 BCE – early 1700s CE (Woodland through Contact periods)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>People:</b> Wando — small Muskhogean-speaking coastal group, part of the broader Cusabo alliance. Occupied the Wando River estuary, Inlet Creek, Swinton Creek, and surrounding marshlands.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Archaeology:</b> Woodland period shell middens at Seaside Farms document occupation from Deptford through Santee/McClellanville phases. 38CH1474 is the type site for Wando Series limestone-tempered pottery — a ceramic tradition restricted to this drainage, distinct from Oak Island shell-tempered ware.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Contact:</b> English settlement at Oyster Point (1680) placed colonists directly adjacent to Wando territory. Disease, the Indian slave trade, and displacement eliminated the Wando as a distinct polity by the early 1700s.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Adams &amp; Trinkley 1993; Waddell 1980; Mooney 1894</p></div>"
     }
   ]
 }
