@@ -98,7 +98,8 @@
     "haudenosaunee": ["hdnTerritories"],
     "wendat":     ["wdtTerritory"],
     "neutral":    ["ntrTerritory"],
-    "erie":       ["erieTerritory"]
+    "erie":       ["erieTerritory"],
+    "scLowcountry": ["scTerritories"]
   },
 
   "extraCultures": {

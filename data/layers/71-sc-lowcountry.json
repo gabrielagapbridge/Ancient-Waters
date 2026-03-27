@@ -1,6 +1,6 @@
 {
   "source": "71-sc-lowcountry.json",
-  "featureCount": 29,
+  "featureCount": 31,
   "features": [
     {
       "type": "circleMarker",
@@ -446,6 +446,42 @@
         "dashArray": "6,4"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5D8AA8;margin:0 0 8px\">Wando Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Wando River drainage — tidal marshes, barrier islands, and 'sea shore' lands of Christ Church Parish</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~1000 BCE – early 1700s CE (Woodland through Contact periods)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>People:</b> Wando — small Muskhogean-speaking coastal group, part of the broader Cusabo alliance. Occupied the Wando River estuary, Inlet Creek, Swinton Creek, and surrounding marshlands.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Archaeology:</b> Woodland period shell middens at Seaside Farms document occupation from Deptford through Santee/McClellanville phases. 38CH1474 is the type site for Wando Series limestone-tempered pottery — a ceramic tradition restricted to this drainage, distinct from Oak Island shell-tempered ware.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Contact:</b> English settlement at Oyster Point (1680) placed colonists directly adjacent to Wando territory. Disease, the Indian slave trade, and displacement eliminated the Wando as a distinct polity by the early 1700s.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Adams &amp; Trinkley 1993; Waddell 1980; Mooney 1894</p></div>"
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scVillages",
+      "geometry": { "lat": 32.820, "lng": -80.040 },
+      "radius": 3,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D2691E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Kinloch Site (38CH109)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Ancestral Cusabo — Late Archaic through Late Woodland (~2000 BCE – AD 1000)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Savage Road / US 17 intersection, West Ashley, Charleston County (32.820°N, 80.040°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Multi-period Indigenous habitation site on a low sandy rise near a tributary of the Stono River, in the live oak forest strand biotope at the ecotone between the Coastal and Pine Barrens biomes — a strategically advantageous position for accessing resources from both ecological zones. Two prehistoric components span roughly 3,000 years of occupation. The earlier component (~2000–1000 BCE) yielded fiber tempered pottery, Thom's Creek / Awendaw Ware sherds, and a perforated baked clay object comparable to specimens from Charles Towne Landing (South 1971). The later component (~AD 500–1000) produced Wilmington Fabric-marked and possible Cape Fear Ware sherds. Together these represent the earliest and latest extremes of what Milanich (1972, 1973) defined as the <b>Coastal Tradition</b> — a continuous adaptation to the biotic resources of the Southeastern coastal plain spanning the Thom's Creek through Savannah cultural phases.</p><p style=\"font-size:13px;color:#CFD8DC\">The non-shell midden character of the site was significant for understanding inland settlement patterns complementary to better-known shell ring and shell midden sites along the coast. Presence of pottery and baked clay objects suggested permanent habitation and whole-kin group activity — the authors hypothesized possible house structures similar to a Deptford house on Cumberland Island (Milanich 1972). The site also produced dense 18th century Colonial material including numerous Colono-Indian Ware sherds — evidence of continued Indigenous ceramic production and trade during the plantation era.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: House &amp; Goodyear 1975 (RMS 83); Carrillo 1980; Parler 1972 (SCIAA site files); Milanich 1972, 1973</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["cusabo"],
+      "tribes": ["cusabo"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scVillages",
+      "geometry": { "lat": 32.840, "lng": -80.015 },
+      "radius": 2,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D2691E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Dog Pound Site (38CH262)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Ancestral Cusabo / Colonial Contact — Late Prehistoric through 18th century</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Former Charleston County Prison Farm, near Ashley River, Charleston County (32.840°N, 80.015°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Multi-component site on a high, well-drained rise beside a tidal creek flowing into the Ashley River. A sparse prehistoric component — two sand tempered pottery sherds and a heat-treated chert biface thinning flake — attests to Indigenous use of this elevated landform prior to European colonization. The primary component is a mid-18th century farmstead. Eleven Colono-Indian Ware sherds demonstrate the continued role of Indigenous ceramic traditions in Colonial society — these hand-built, low-fired earthenwares were produced by Native peoples and traded to or used alongside European-made goods. The presence of Colono-Indian Ware at plantation sites is central to understanding Indigenous-Colonial economic relationships in the 18th century Lowcountry.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: House &amp; Goodyear 1975 (RMS 83); SCIAA site files</p></div>",
+      "popupOptions": { "maxWidth": 410 },
+      "timePeriods": ["late_prehistoric", "contact"],
+      "cultures": ["cusabo"],
+      "tribes": ["cusabo"],
+      "rockArtStyles": []
     }
   ]
 }
