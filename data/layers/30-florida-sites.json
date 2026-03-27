@@ -17,7 +17,8 @@
         "opacity": 0.6,
         "fillColor": "#8B4513",
         "fillOpacity": 0.08,
-        "dashArray": "6,4"
+        "dashArray": "6,4",
+        "pane": "scBackgroundPane"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Timucua Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> ~19,200 square miles — northeast and north-central Florida, southeast Georgia</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~2400 BC–AD 1767</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Population at contact:</b> 50,000–200,000 (collapsed to fewer than 1,000 by late 1600s)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Culture:</b> Matrilineal chiefdoms; St. Johns pottery tradition; villages of 200–300; surpluses stored in community granaries</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Milanich 1996; Worth 1998; Hann 1996</p></div>"
     },

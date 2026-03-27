@@ -17,7 +17,8 @@
     "thunderbirdPane": { "zIndex": 360 },
     "ctRiverPane": { "zIndex": 370 },
     "berkPane": { "zIndex": 375 },
-    "haudenosauneePane": { "zIndex": 350 }
+    "haudenosauneePane": { "zIndex": 350 },
+    "scBackgroundPane": { "zIndex": 350 }
   },
   "layers": {
     "ancientRivers":        {"type":"layerGroup","addedToMap":true,"dataSources":["03-water-features.json"]},

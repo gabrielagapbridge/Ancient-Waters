@@ -258,7 +258,8 @@
         "opacity": 0.6,
         "fillColor": "#8B4513",
         "fillOpacity": 0.08,
-        "dashArray": "6,4"
+        "dashArray": "6,4",
+        "pane": "scBackgroundPane"
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Cusabo Alliance Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> ~5,000 square miles — Cooper River south to Savannah River, ~80 miles inland</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~1000 BCE – AD 1751</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Peoples:</b> At least 19 politically autonomous polities — Kussoe, Edisto, Escamacu, Kiawah, Etiwan, Ashepoo, Bohicket, Combahee, Stono, Wando, Wimbee, and others</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Seasonal pattern:</b> Coast in summer (fishing, shellfish); inland river valleys in winter (deer, turkey). Villages were circular, palisaded, with council houses and central plazas.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Population:</b> ~1,750 in 1562; 664 by 1682; fewer than 250 by 1751. Nearly 6 of every 7 Indians on the Lower Coast died of causes directly related to European contact (Waddell).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Waddell 1980; Milling 1969; Swanton 1953</p></div>"
     },
@@ -277,7 +278,8 @@
         "opacity": 0.6,
         "fillColor": "#2E8B57",
         "fillOpacity": 0.08,
-        "dashArray": "6,4"
+        "dashArray": "6,4",
+        "pane": "scBackgroundPane"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#2E8B57;margin:0 0 8px\">Sewee Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Lower Santee River and coast to Ashley River divide — Berkeley County</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~2000 BCE – AD 1720</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Population:</b> ~800 in 1600; 57 by 1715; declared 'utterly extirpated' by Governor Johnson in 1720</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Language:</b> Probably Catawban/Siouan — different from Cusaboan. Place names in Sewee territory are in Catawban languages. Their name survives in Sewee Bay (now Bulls Bay) and the town of Awendaw (from their village Avendaughbough).</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Notable:</b> Renowned canoe men. Tragically lost most able-bodied men in a doomed attempt to sail to England for direct trade — survivors were enslaved in the West Indies.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lawson 1709; Waddell 1980; Swanton 1953</p></div>"
     },
@@ -297,6 +299,7 @@
         "opacity": 0.6,
         "fillColor": "#8B6914",
         "fillOpacity": 0.08,
+        "pane": "scBackgroundPane",
         "dashArray": "6,4"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Santee Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Santee River corridor from the Sewee settlements upstream to the forks</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~800 CE – AD 1743</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Culture:</b> Mississippian tradition — burial/temple mounds. The Santee chief held unusual despotic authority (rare for the region). Elaborate burial rituals with mound interment, wooden pole structures, and offerings of rattles and feathers.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Decline:</b> Yamasee War (1715) broke their power; many enslaved and shipped to West Indies. By 1743 consolidated with Catawba, retaining distinct dialect.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lawson 1709; Mooney 1894; Waddell 1980</p></div>"
@@ -443,7 +446,8 @@
         "opacity": 0.8,
         "fillColor": "#5D8AA8",
         "fillOpacity": 0.15,
-        "dashArray": "6,4"
+        "dashArray": "6,4",
+        "pane": "scBackgroundPane"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5D8AA8;margin:0 0 8px\">Wando Territory</h3><p style=\"font-size:13px;color:#CFD8DC\"><b>Extent:</b> Wando River drainage — tidal marshes, barrier islands, and 'sea shore' lands of Christ Church Parish</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Time:</b> ~1000 BCE – early 1700s CE (Woodland through Contact periods)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>People:</b> Wando — small Muskhogean-speaking coastal group, part of the broader Cusabo alliance. Occupied the Wando River estuary, Inlet Creek, Swinton Creek, and surrounding marshlands.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Archaeology:</b> Woodland period shell middens at Seaside Farms document occupation from Deptford through Santee/McClellanville phases. 38CH1474 is the type site for Wando Series limestone-tempered pottery — a ceramic tradition restricted to this drainage, distinct from Oak Island shell-tempered ware.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Contact:</b> English settlement at Oyster Point (1680) placed colonists directly adjacent to Wando territory. Disease, the Indian slave trade, and displacement eliminated the Wando as a distinct polity by the early 1700s.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Adams &amp; Trinkley 1993; Waddell 1980; Mooney 1894</p></div>"
     },
