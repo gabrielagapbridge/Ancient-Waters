@@ -1,6 +1,6 @@
 {
   "source": "72-sc-piedmont-rockart.json",
-  "featureCount": 66,
+  "featureCount": 74,
   "features": [
     {
       "type": "circleMarker",
@@ -662,11 +662,11 @@
       "radius": 2,
       "style": {
         "color": "#8B6914",
-        "fillColor": "#C4956A",
+        "fillColor": "#A0785A",
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR305</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR305 — Stone Barn Wall Petroglyph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable (displaced) · Greenville County · Prehistoric carving incorporated into barn wall</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Greenville County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A carved stone that was incorporated into a permanent stone barn wall, giving it formal site status (trinomial 38GR305). The carving was removed from an unknown original location. Along with the four stones at 38GR320 (church cemetery wall), this is one of only two portable petroglyphs given formal SCIAA trinomials — because both were incorporated into permanent structures. All other portable glyphs were assigned identity numbers instead. The stone was likely collected locally, suggesting the original carving site was nearby in the Greenville County Piedmont.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 95); SCIAA</p></div>",
       "popupOptions": {
         "maxWidth": 420
       },
@@ -682,7 +682,9 @@
         "cherokee"
       ],
       "rockArtStyles": [
-        "petroglyph"
+        "petroglyph",
+        "abstract_geometric",
+        "portable"
       ]
     },
     {
@@ -732,7 +734,7 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR307</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR307 — Greenville County Humus Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Petroglyphs revealed beneath forest humus</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Greenville County (approximate — exact location restricted by SCIAA)</p><p style=\"font-size:13px;color:#CFD8DC\">Two petroglyphs discovered after removing the accumulated humus layer from a rock outcrop. Part of the broader pattern across the SC Piedmont where centuries of topsoil erosion — accelerated by mid-nineteenth century land clearing and agriculture — buried archaeological sites at the bases of hills and on floodplains. The site demonstrates why systematic rock cleaning is essential to the survey methodology: many SC petroglyph sites are invisible until vegetation and soil are carefully removed.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Plate 6b, 7); SCIAA</p></div>",
       "popupOptions": {
         "maxWidth": 420
       },
@@ -748,7 +750,8 @@
         "cherokee"
       ],
       "rockArtStyles": [
-        "petroglyph"
+        "petroglyph",
+        "abstract_geometric"
       ]
     },
     {
@@ -996,7 +999,7 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN138</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pickens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN138 — Mountaintop Oddity</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Possible zoomorph on highland site</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Pickens County mountaintop (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A petroglyph on one of the mountaintop sites in Pickens County, discovered and photographed by volunteer Jeff Catlin while hiking. The carving could be interpreted as a turtle — or it could be a fortuitous combination of circles and lines that just happens to resemble one. Unlike most highland petroglyphs in the region, which are exclusively circles, this site has a zoomorphic-like form. Visible by day without enhancement, consistent with the highland pattern where glyphs are boldly carved into exposed rock domes.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 28); SCIAA</p></div>",
       "popupOptions": {
         "maxWidth": 420
       },
@@ -1012,7 +1015,9 @@
         "cherokee"
       ],
       "rockArtStyles": [
-        "petroglyph"
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
       ]
     },
     {
@@ -1656,7 +1661,7 @@
         "fillOpacity": 0.85,
         "weight": 2
       },
-      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC384</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Oconee County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC384 — Talc Powder Revelation</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Alphabet-like petroglyphs revealed by talc powder technique</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Oconee County (approximate — exact location restricted by SCIAA)</p><p style=\"font-size:13px;color:#CFD8DC\">A rock where volunteer Michael Bramlett spotted a groove in daylight while eating lunch. When the survey team covered the rock with black plastic to simulate night conditions and used lights to skim the surface, they could detect the presence of carving but were unable to define or photograph it adequately. Bramlett then spread dry talc powder over the rock surface; after brushing away the excess, alphabet-like petroglyphs were revealed that spelled nothing recognizable. This site demonstrates one of the survey's innovative field techniques for documenting extremely eroded carvings invisible under normal conditions.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Plate 5); SCIAA</p></div>",
       "popupOptions": {
         "maxWidth": 420
       },
@@ -1672,7 +1677,8 @@
         "cherokee"
       ],
       "rockArtStyles": [
-        "petroglyph"
+        "petroglyph",
+        "abstract_geometric"
       ]
     },
     {
@@ -2284,6 +2290,285 @@
         "catawba"
       ],
       "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 35.12,
+        "lng": -82.31
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#A0785A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #1 — Glassy Mountain</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · Greenville County · Found during road grading</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Glassy Mountain, Greenville County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Found on Glassy Mountain during grading for a road into a new development — the first portable petroglyph reported to the survey after the team advertised in newspapers for information about rock carvings. When found, only a portion of the glyph was visible beneath a thin veneer of limonite, which the owner removed to expose the full carving. The carvings consist of a small circle dissected by interior lines (similar to the circle-and-line motif found across the Appalachians) and several abstract lines. Stone measures 31 × 16 cm. Created by incising.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 53); SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "portable"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 35.05,
+        "lng": -82.4
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#A0785A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #2 — Greenville Woods</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · Northern Greenville County · Now at Pickens County Museum</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Northern Greenville County, in woods (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Found by a young girl playing in the woods of northern Greenville County. One end is marred by what appears to be a plow scar. The glyph end is stained red, apparently with ochre. The carvings consist of unidentifiable abstract motifs created by incising. The stone measures 88 × 18 cm, 10 cm thick. Donated to the Pickens County Museum where it is on display.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 54); SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "portable"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.54,
+        "lng": -82.66
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#A0785A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #3 — Anderson County</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · Anderson County · Three triangular motifs</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Anderson County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A stone bearing three somewhat triangular-shaped motifs, found in Anderson County. The survey recorded several petroglyphs inscribed with similar lines creating simple squares and triangles. Stone measures 40 × 19 cm, 12 cm thick. Created by incising. Among the simplest of the portable petroglyph designs but representative of the geometric repertoire found across the northwestern Piedmont.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 55); SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "portable"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.87,
+        "lng": -82.05
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#A0785A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #4 — Spartanburg Farm</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · SW Spartanburg County · Well-incised markings</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Southwestern Spartanburg County farm (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Found on a farm in southwestern Spartanburg County, this stone was removed from the field where it was found and is now stored in an old abandoned tenant home on the property. The glyphs consist of a series of well-incised but unidentifiable markings. Stone measures 71 × 29 cm, approximately 15 cm thick. Created by incising.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 56); SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "portable"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 35.02,
+        "lng": -82.92
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#A0785A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #5 — Lake Jocassee Stone</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · Pickens County · Elaborately engraved, possibly Mississippian</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Shore of Lake Jocassee, Pickens County — eroded from banks during lake construction</p><p style=\"font-size:13px;color:#CFD8DC\">One of several elaborately engraved stones found on Lake Jocassee when the lake was being filled after construction. Eroded from the banks by rising water. This small engraved stone has glyphs on both sides. One side has a small circle in the center with four panels radiating outward, each containing an irregularly shaped groove somewhat similar to a lightning bolt, with unidentifiable motifs near the perimeter. The other side features a serpent, a shield-like figure, and a half circle. Stone measures 10.4 cm across. Possibly Mississippian in origin (~1000–1500 CE). The find spot — Lake Jocassee — submerged the Cherokee Lower Towns of Jocassee and Toxaway.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 57); SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cherokee",
+        "mississippian"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "zoomorph",
+        "portable"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.78,
+        "lng": -83.12
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#A0785A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #6 — Oconee Mountains</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · Oconee County · Smallest carved stone reported</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Mountains of Oconee County, during dirt road repair (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A tabular stone found in the mountains of Oconee County when a dirt road was being repaired. The stone appears to have been naturally shaped and polished in a stream prior to being inscribed. It is one of the smallest carved stones reported in the survey. The incised lines are quite small and the motif is an unidentifiable abstract form. Stone measures 26 × 18 cm, approximately 7 cm thick. Includes drilled holes alongside the incised motifs.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 59); SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "portable"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 35.01,
+        "lng": -82.94
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#A0785A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #7 — Lake Jocassee Masterwork</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · Pickens County · Most elaborately decorated stone in the survey · Possibly Mississippian</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Shore of Lake Jocassee, Pickens County — found by a family walking along the shore in the late 1960s</p><p style=\"font-size:13px;color:#CFD8DC\">The most elaborately decorated stone recorded by the entire SC Rock Art Survey. Found by a family walking along the shore of Lake Jocassee during the late 1960s, when wave action was eroding the landform. Unlike most small portables, this glyph is deeply incised and has small, shallow holes drilled into its surface — apparently by cane, as the bottoms of several have the raised centers typical of hollow-cane drilling. Motifs include a sun-like circle with radiating lines, what appears to be a half moon, and several unidentifiable markings. A portion of the carving is missing where the stone broke in antiquity — the broken edge is weathered equally with the rest of the rock. Possibly Mississippian (~1000–1500 CE). Like Portable #5, found on the shores of Lake Jocassee, which submerged the Cherokee Lower Towns.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 59); SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cherokee",
+        "mississippian"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "portable"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 32.85,
+        "lng": -79.95
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#D4A574",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Portable Petroglyph #8 — Charleston Birdman Gorget</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">🪨 Portable · Charleston County · Mississippian birdman motif · Only rock carving south of the fall line</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Find spot:</b> Bank of a tidal creek, Charleston County</p><p style=\"font-size:13px;color:#CFD8DC\">A small gorget (6.3 × 4.3 cm) — the only example of a rock carving reported from south of the fall line in South Carolina, making it a significant outlier from the Piedmont concentration. Found eroding from the bank of a tidal creek in Charleston County, broken into two pieces. Associated with several chipped-stone tool preforms and a cluster of burned-limestone chunks that may be the remains of a prehistoric hearth. The carving represents a stylized bird similar to the birdman motif in Mississippian-period iconography (~1000–1500 CE), connecting it to the Southeastern Ceremonial Complex. Two suspension holes at the top indicate it was worn as a pendant.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2010 (Fig. 60); Birmingham &amp; Eisenberg 2000; Brown 2004, 2007; Strong 1989; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mississippian"
+      ],
+      "tribes": [
+        "cusabo"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "portable"
+      ]
     }
   ]
 }
