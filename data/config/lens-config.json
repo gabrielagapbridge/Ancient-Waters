@@ -16,7 +16,8 @@
     "scPiedmontRockArt",
     "kyRockArt",
     "tnCumberlandRockArt",
-    "nePetro"
+    "nePetro",
+    "mallerySurvey"
   ],
 
   "rockArtGroups": {
@@ -99,6 +100,11 @@
       "layers": ["tnCumberlandRockArt"],
       "color": "#8B4513",
       "description": "Simek et al. 2013 — 94 sites, Mississippian dark-zone cave art & open-air pictographs"
+    },
+    "Mallery 1893 Continental Survey": {
+      "layers": ["mallerySurvey"],
+      "color": "#5D4037",
+      "description": "Mallery, Picture-Writing of the American Indians (Smithsonian 1893) — foundational continental survey"
     }
   },
 

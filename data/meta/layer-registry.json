@@ -263,6 +263,7 @@
     "tnCumberlandTerr":    {"type":"layerGroup","addedToMap":true,"dataSources":["74-tn-cumberland-rock-art.json"]},
     "nePetro":             {"type":"layerGroup","addedToMap":true,"dataSources":["75-new-england-landscape.json"]},
     "neSacredStone":       {"type":"layerGroup","addedToMap":true,"dataSources":["75-new-england-landscape.json"]},
-    "neAncientWeirs":      {"type":"layerGroup","addedToMap":true,"dataSources":["75-new-england-landscape.json"]}
+    "neAncientWeirs":      {"type":"layerGroup","addedToMap":true,"dataSources":["75-new-england-landscape.json"]},
+    "mallerySurvey":       {"type":"layerGroup","addedToMap":true,"dataSources":["76-mallery-1893-survey.json"]}
   }
 }
