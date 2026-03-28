@@ -13,7 +13,8 @@
     "spiritRockArt",
     "centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt",
     "yokutsJoaquinRidgeRockArt",
-    "scPiedmontRockArt"
+    "scPiedmontRockArt",
+    "kyRockArt"
   ],
 
   "rockArtGroups": {
@@ -86,6 +87,11 @@
       "layers": ["scPiedmontRockArt"],
       "color": "#8B6914",
       "description": "Charles 1997–2010 — 64 sites, 1,000+ carvings across SC Upstate"
+    },
+    "Kentucky": {
+      "layers": ["kyRockArt"],
+      "color": "#795548",
+      "description": "Coy, Fuller, Meadows & Swauger 1997 — 62 confirmed + 9 destroyed sites across 22 counties"
     }
   },
 

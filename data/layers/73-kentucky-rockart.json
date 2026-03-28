@@ -1,0 +1,2371 @@
+{
+  "source": "73-kentucky-rockart.json",
+  "featureCount": 71,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.77,
+        "lng": -86.6
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BC128 — Mattingly</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Breckinridge County · Petroglyph · Unknown (Woodland probable)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North of Mattingly, south of Cloverport, western bank of Caney Creek, Mattingly Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 63 bird tracks, 3 deer tracks, 3 rabbit tracks, pit-and-groove, human hand/footprints, hominy hole. <b>Technique:</b> Carved/incised. <b>Setting:</b> Sandstone rockshelter, 6m wide, open 3 sides, near Caney Creek. <b>Elevation:</b> 520 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1966; Fuller 1969a</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.772,
+        "lng": -86.598
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BC129 — Tar Springs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Breckinridge County · Petroglyph · Unknown</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Tar Springs and Mattingly Site, Mattingly Quad</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Spiral (clockwise double helix), 12 circular carvings, 17 bird tracks, concentric circles, circle-and-pit, deer track, curvilinear designs. <b>Technique:</b> Percussion (pecking only). <b>Setting:</b> Sandstone rockshelter, south-facing, 9.75m deep, 18m high. <b>Elevation:</b> 560 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1968; Fuller 1969a</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.645,
+        "lng": -86.47
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BC130 — North Fork of Rough River</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Breckinridge County · Petroglyph · Late Woodland (ceramics, projectile points found - Hockensmi</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> East of St. Anthony's School, south of Roff, Kingswood Quad, North Fork of Rough River north bank (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 14+ bird tracks, human hand print, 2 hominy holes. <b>Technique:</b> Not specified. <b>Setting:</b> Large south-facing rockshelter 27.5m wide, fallen roof piece, within Rough River Reservoir boundary. <b>Elevation:</b> 550 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1966; Hockensmith 1981</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.05,
+        "lng": -86.61
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BT40 — Baby Track Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Butler County · Petroglyph · Late Woodland (ceramics, projectile points - Hockensmith 198</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NNW of Mount Union Church, WNW of Cedar Grove School, Riverside Quad, 3mi N of Green-Barren confluence (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 5 human footprints (5-7.5cm x 10-25cm), 3 hominy holes. <b>Technique:</b> Carved on 45-degree slope. <b>Setting:</b> Sandstone rockshelter 13.2m wide, overlooking Welchs Creek, near Green-Barren River junction. <b>Elevation:</b> 600 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1966; Hockensmith 1981</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.19,
+        "lng": -86.67
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BT64 — Turkey Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Butler County · Petroglyph · Unknown</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Banks of Green River, Big Bend area, north of Allens Hill, Morgantown Quad, river miles 140-141 (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 6 quadrangular figures with undulating lines, 11+ bird tracks, 4 punctate groupings, triangular carving, serpentine line with oval punctates. <b>Technique:</b> Incised (percussion, not abrasion). <b>Setting:</b> Sandstone projection into Green River, frequently flooded, rock face at 30 degrees.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1967; Fuller 1969a, 1969b; Moore 1916</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.185,
+        "lng": -86.43
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BT65 — Reedyville</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Butler County · Petroglyph · Unknown (within 15mi of 6 other rock art sites)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Reedyville, Reedyville Quad, near old Honakers Ferry, north side of Green River bend (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 5+ bird tracks, 4 human footprints, life-sized arm-and-hand print, pit-and-groove, circles with pits, cross-in-circle (sun circle), unique anthropomorph (arms outstretched above head on bisected circle). <b>Technique:</b> Pecking, abrasion, and incision. <b>Setting:</b> Lower Pennsylvanian sandstone (Caseyville Fm), triangular outcrop near Green River floodplain. <b>Elevation:</b> 500 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1966-1969; Fuller 1969a, 1969b</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph",
+        "abstract_geometric",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 38.38,
+        "lng": -83.13
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#D4836E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15CR60 — Carter Caves Pictograph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Carter County · Pictograph · Late Prehistoric possible (sun circle motif similarity, deba</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE of Riggs Hill, Grahn Quad, NOT in Carter Caves proper (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Rectangular/oval outline enclosing equal-arm cross (55cm x 45cm), human footprint (0.6m). Only limestone canvas in Kentucky. One of only 2 pictograph sites in state.. <b>Technique:</b> Painted (pigment gone, algae-inhibition negative image). <b>Setting:</b> Base of limestone cliff face - unique substrate for Kentucky. <b>Elevation:</b> 740 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Funkhouser &amp; Webb 1932; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "pictograph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 36.921,
+        "lng": -87.286
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15CH200 — Pilot Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Christian County · Petroglyph · Unknown (no diagnostic artifacts)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Atop Pilot Rock, Honey Grove Quad, SW of Flat Rock School, NE of Ebenezer Church, Christian/Todd county line</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 12+ hominy holes, 2-3 abrading areas, 3+ turkey tracks (1 possibly with red ocher), concentric circles, cupular pits. <b>Technique:</b> Rubbing alone. <b>Setting:</b> Small sandstone ledge near summit of Pilot Rock (prominent landmark, Big Clifty sandstone). <b>Elevation:</b> 966 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Sanders 1977; Sanders &amp; Maynard 1979; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee",
+        "chickasaw"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.19,
+        "lng": -83.68
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15CY18 — Bar Creek</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Clay County · Petroglyph · Unknown (questionable origin)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North of Spurlock, south of Red Bird River, Barcreek Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 3 bird tracks (center toes avg 9cm). Native American origin questioned due to unusual V-shaped incision.. <b>Technique:</b> Shallow with sharp V-shaped cross section (unusual). <b>Setting:</b> Sandstone rockshelter, petroglyphs on exterior western face (atypical placement). <b>Elevation:</b> 840 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known (first publication); Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.154,
+        "lng": -83.762
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15CY51 — Red Bird River</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Clay County · Petroglyph · Unknown - Cherokee association legendary; pre-Columbian Euro</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#FFB74D\">RELOCATED</span> · NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE bank of Red Bird River, along State Highway 66, 9.5mi upstream from Oneida</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Dense linear carvings on flat surface 1.6m x 6m. Stylistically unique. Stone fell Dec 7 1994 onto Hwy 66; moved to Manchester park. Original NRHP listing 1989, delisted 2003 after relocation.. <b>Technique:</b> Sharply incised straight lines (stylistically distinct). <b>Setting:</b> Vertical sandstone cliff face, 16ft above road, base of 60ft cliff along Hwy 66. <b>Elevation:</b> 1020 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1969b, 1970b; Funkhouser &amp; Webb 1932; Wentworth 1969</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.17,
+        "lng": -83.585
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15CY52 — Red Bird River Shelter</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Clay County · Petroglyph · Unknown</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> West bank of Red Bird River, south of Brutus Church, north of New Berry School, Big Creek Quad</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Linear incisions, several bird tracks (clustered near shelter opening, overlain by modern graffiti). <b>Technique:</b> Pounded, rubbed, and cut into sandstone. <b>Setting:</b> South-facing rockshelter, 2m mouth to 1.5m passage to 3m room, 5m total depth. <b>Elevation:</b> 950 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1969b, 1970b; Funkhouser &amp; Webb 1932; Wentworth 1969</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.168,
+        "lng": -83.585
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15CY53 — Fish Trap Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Clay County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> West bank of Red Bird River, SE of New Berry School, Big Creek Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 20-25 bird tracks (weathered/shallow, with unusual bars at right angles to spur). <b>Technique:</b> Pounded and rubbed. <b>Setting:</b> Large sandstone boulder 3.5m x 2-3m, smooth rounded surface, moved by bridge construction. <b>Elevation:</b> 950 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.155,
+        "lng": -83.615
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15CY265 — Laurel Branch</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Clay County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> On unnamed branch of Laurel Creek, east of Goose Creek, Bar Creek Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Linear marks on diamond-shaped boulder (former rockshelter roof). <b>Technique:</b> Unknown. <b>Setting:</b> Small rockshelter under a waterfall, diamond-shaped boulder (0.85-1.35m sides, 62.5cm thick). <b>Elevation:</b> 1020 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.255,
+        "lng": -86.225
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15ED15 — Dismal Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Edmonson County · Petroglyph · Unknown (artifacts found, no cultural affiliation assigned)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Kyrock Church, Bee Spring Quad, right bank of Nolin River (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 2 spirals (higher &lt;20cm, lower ~10cm), 4+ bird tracks. <b>Technique:</b> Pecked (no rubbing traces). <b>Setting:</b> Cave with ledge and campsite, 60m W of Nolin River. Petroglyphs on roof fall against north wall.. <b>Elevation:</b> 550 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Schwartz 1960; Fuller 1969a</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.189,
+        "lng": -86.361
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#D4836E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15ED24 — Asphalt Rock Pictographs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Edmonson County · Pictograph · Mississippian or Fort Ancient (1000-1750 CE) - cordmarked po</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of New Liberty Church, Brownsville Quad, base of cliff line overlooking Green River Valley</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Horned/masked human figure (male, arms flexed 90 degrees above head, horn projections, cat-like mask/facial painting, deep red ochre pigment); large circle (41cm) with internal geometric zones; hourglass figure (15x27cm); concentric lines; small human head/torso; birdlike figure. One of only 2 pictograph sites in Kentucky.. <b>Technique:</b> Painted - red ochre (confirmed ancient by Kingery 1982 pigment analysis); black from carbonaceous source. <b>Setting:</b> Middle of 3 rockshelters at cliff base beneath plateau overlooking Green River Valley. 45m long, 9m deep, 4.5m high, faces SW.. <b>Elevation:</b> 550 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1969; Fuller 1969a; Kingery 1982 (pigment analysis)</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "fort_ancient"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "pictograph",
+        "anthropomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.21,
+        "lng": -86.23
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15ED96 — Little Fairdale</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Edmonson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of Nolin River, north of Cove Hollow Church, Nolin Reservoir Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 2 bird tracks (axes point toward rockshelter/bedrock mortar areas 180m away on bluffs over Nolin River). <b>Technique:</b> Unknown. <b>Setting:</b> Sandstone boulder in open field, 0.6m diameter, flush with ground. <b>Elevation:</b> 660 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1966</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 38.12,
+        "lng": -83.085
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15EL3 — Big Gimlet</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Elliott County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE side of Big Gimlet Creek, west of Access, north of Grundy Church, Bruin Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 7+ bird tracks (close together, some overlapping), rabbit tracks, ovular holes of uncertain origin. <b>Technique:</b> Pecked. <b>Setting:</b> Enormous rockshelter - 93m across opening, 42m deep. Petroglyphs on roof fall 4.2m south of overhang lip.. <b>Elevation:</b> 800 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.69,
+        "lng": -83.94
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15ES26 — Sparks Indian Rock House</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Estill County · Petroglyph · Unknown (complex multi-period palimpsest)</p><p style=\"font-size:12px;margin:0 0 6px\">NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Double Oak Cemetery, Leighton Quad, near Granny Richards Springs School (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Across 5 boulders: 3 skeletal heads (broad grooves, gouged eyes/mouths), rayed circle, 2 human feet + hand print, vulva form (confirmed NA per Swauger 1974, parallels in WV), human stick figure, rayed head (original NA, rays added later with metal), small footprint, 5 pits in circle. Complex palimpsest of NA and Euro-American modifications.. <b>Technique:</b> Pounded, pecked, rubbed (varies by boulder). <b>Setting:</b> Rockshelter with 5 carved boulders in eastern half. <b>Elevation:</b> 1200 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NRHP listed (Statewide significance). Swauger 1974 (vulva form parallels in WV).; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.71,
+        "lng": -83.92
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15ES27 — Ashley</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Estill County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\">NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North of Mountain Spring School, NE of Watson School, Cob Hill Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Panel of 6 bird tracks (base of south wall, randomly distributed). <b>Technique:</b> Unknown. <b>Setting:</b> North-facing rockshelter, 6m high, 16.2m wide at entrance, 12.2m deep. <b>Elevation:</b> 1200 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NRHP listed 1989 (Statewide significance).; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.693,
+        "lng": -83.938
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15ES59 — Sparks II</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Estill County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Ridgetop saddle near Sparks Indian Rock House, Leighton Quad</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 2+ human footprints (one nearly obliterated, second outlined with more recent circle). <b>Technique:</b> Pecked. <b>Setting:</b> Exposed rock outcrop on ridgetop saddle near Sparks Indian Rock House. <b>Elevation:</b> 1310 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.41,
+        "lng": -86.295
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15GY65 — Crow Hollow</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Grayson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE of West Clifty, south of Goodman School, Big Clifty Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Rabbit tracks, raccoon paw prints (northerly boulder); bird track with star-like abrasions (southerly boulder). Bedrock mortar present.. <b>Technique:</b> Unknown. <b>Setting:</b> Rockshelter with two boulder sections bearing petroglyphs. <b>Elevation:</b> 600 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.385,
+        "lng": -86.225
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15GY66 — Saltsman Branch</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Grayson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Moutardier, SE of McGrew Church, Bee Spring Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 12 bird tracks, 3 deer tracks, isolated bird track W of main group. Abrading area for tool sharpening. Vehicle traffic erosion degrading clarity.. <b>Technique:</b> Pecked and rubbed. <b>Setting:</b> Sandstone rock outcrop in roadbed along ridge saddle, grass-covered, vehicle-damaged. <b>Elevation:</b> 650 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy 1991, 1993, 1994; Weller 1927</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.387,
+        "lng": -86.223
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15GY67 — Saltsman Branch Shelter</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Grayson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE of BM 700, west of BM 797, Nolin Reservoir Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 7 bird tracks (entrance area), abrading area for tool sharpening (west NW wall), 7 linear incisions, additional bird track (toes oriented outward). <b>Technique:</b> Pecked and rubbed. <b>Setting:</b> Small south-facing sandstone rockshelter, 90m wide, 30m deep, 15m high. <b>Elevation:</b> 650 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.83,
+        "lng": -86.775
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15HA114 — Jeffry Cliff</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Hancock County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North of Sunny Corner, Cloverport Quad, Hancock County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 3 clusters: rounded square with U-shaped elements + scroll/S-shaped design; 6 straight lines pecked into floor rock; 3 straight lines, eroded semicircle, bedrock mortar 8cm diameter.. <b>Technique:</b> Pecked. <b>Setting:</b> Large NW-facing rockshelter with semicircular floor plan. <b>Elevation:</b> 550 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Turnbow et al. 1980; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.545,
+        "lng": -84.015
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15JA160 — Daugherty Bear Track</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Jackson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> West of Dry Fork School, SE of Corinth Church, Johnetta Quad, Jackson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 21 bear paw prints, 1 small + 2 large circles (with center holes, 4 paws associated), zig-zag linear design (similar to stick-figure animals at Indian God Rock, PA). Circles enclose 4 tracks each. Compass-point center holes in circles.. <b>Technique:</b> Pounding and rubbing. <b>Setting:</b> Sandstone outcrop on side of ravine, facing west, ~30m above freshwater spring. Petroglyph area 3.3 x 5.1m.. <b>Elevation:</b> 1200 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.56,
+        "lng": -84.03
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15JA161 — Brushy Ridge</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Jackson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North of Sparks School, McKee Quad, Jackson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Bird tracks (line of 5 on rear wall + 1 single higher), animal tracks (2 complete + 1 partial, possibly paw prints), arc of dots (possibly unfinished paw carving). <b>Technique:</b> Rubbed (very sharp lines, possibly with stone celt). <b>Setting:</b> Small sandstone rockshelter, 4.5 x 6m, 2.25m high. <b>Elevation:</b> 1480 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.555,
+        "lng": -84.025
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15JA234 — William Gay</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Jackson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Small knoll along SE-trending ridge, McKee Quad, Jackson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 9 bear tracks, 2 human footprints, 2 footprints combining human and bear characteristics, 1 deer track. <b>Technique:</b> Carved/incised. <b>Setting:</b> Sandstone outcrop near SE end of knoll along ridge separating Middle Fork and Lime Kiln drainages. <b>Elevation:</b> 1340 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.53,
+        "lng": -83.98
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15JA235 — Christmas Eve</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Jackson County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> West of Cavanaugh School, Sandgap Quad, Jackson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> ~25 split-hoof animal tracks of various shapes. Traces of former nitre mining operations.. <b>Technique:</b> Unknown. <b>Setting:</b> Sandstone boulder (~90cm diameter) in large rockshelter (18m across, 9m high, 12-18m deep). <b>Elevation:</b> 1400 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.54,
+        "lng": -83.97
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15JA355 — Peter Cave Branch</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Jackson County · Petroglyph · Late Woodland (disturbed deposits identified by USFS)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Flat Top Church on Peter Cave Branch, Parrot Quad, Jackson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 2 human footprints, 1 bear track, 8+ bird tracks, 3 small tracks (mink or squirrel?), numerous abrading marks, abraded area resembling inverted comma. Many historic initials.. <b>Technique:</b> Unknown. <b>Setting:</b> Large rockshelter with many grottoes. Disturbed Late Woodland archaeological deposits identified by USFS archaeologist Cecil Ison.. <b>Elevation:</b> 1020 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.62,
+        "lng": -83.7
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE55 — Big Turtle Shelter</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph · 310 BC (O'Steen, Gremillion &amp; Ledbetter 1991)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Mt. Paran, Zachariah Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 2 sets of concentric circles (10 and 15cm diameter, severely weathered). Possibly cultural linear markings at one end. 3 bedrock mortars on separate rock. Dated to 310 BC.. <b>Technique:</b> Abraded. <b>Setting:</b> Large slab resting against ledge on rockshelter roof. <b>Elevation:</b> 1080 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: O'Steen, Gremillion &amp; Ledbetter 1991; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.635,
+        "lng": -83.69
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE57 — Big Sinking Creek Turtle Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NW of Zoe, north of Mt. Olive, Zachariah Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 7+ bird tracks (4 in line pointing east, 2 pointing N/SE, 1 isolated pointing SE), turtle (30cm head to tail, pointing ESE). Historic initials.. <b>Technique:</b> Unknown. <b>Setting:</b> Sandstone outcrop on south-facing ridge north of Big Sandy Creek, adjacent to oil road.. <b>Elevation:</b> 1040 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Knudsen &amp; Simpson 1982; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.61,
+        "lng": -83.68
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE110 — Cave Fork Hill</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph · Hominy hole undoubtedly prehistoric per Funkhouser &amp; Webb</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#FFB74D\">RELOCATED</span> · <span style=\"color:#EF5350\">ORIGINAL BOULDER LOST</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of Hopewell Church, SE of cemetery at Fixer, Zachariah Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Human footprints and bear tracks (on lost boulder). 2 bear tracks remain on roof fall in rockshelter. Original boulder removed to University of Kentucky - current location unknown, LOST.. <b>Technique:</b> Carved (possibly with blunt-pointed chisel or flint chisels). <b>Setting:</b> Rockshelter ~30ft wide, 40ft deep, formed by fallen cliff stones.. <b>Elevation:</b> 1120 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Funkhouser &amp; Webb 1929; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.615,
+        "lng": -83.685
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE111 — Perdue</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Mt. Paran School, NW of cemetery at Fixer, Zachariah Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Bird track + unique curvilinear figure resembling insect (possibly dragonfly larva per Swauger). Insect motifs extremely rare in rock art.. <b>Technique:</b> Unknown. <b>Setting:</b> Sandstone rockshelter 15m long, 5m high. Petroglyphs on tilted 45-degree slab.. <b>Elevation:</b> 1120 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.605,
+        "lng": -83.695
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE112 — Bear Track</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE of Bear Track Lookout Tower, SE of Sandfield School, Cobhill Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Single bear track surrounded by circle. Design similar to Daugherty Bear Track (15JA160).. <b>Technique:</b> Unknown. <b>Setting:</b> Sandstone outcrop at head of Town Hollow. <b>Elevation:</b> 1080 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Fuller 1969a</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.6,
+        "lng": -83.69
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE113 — Old Landing</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of BM 646, SW of Sandfield School, Cobhill Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Several series of vertical lines in roughly parallel rows on south face of cliff. Interpretive debate: calendrical marks, tally marks, counting coup, tool sharpening, or Old World records (unlikely).. <b>Technique:</b> Narrow cuts and wider cuts. <b>Setting:</b> South face of cliff, lines split by large cleft into west main group and east small cluster. <b>Elevation:</b> 1100 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.625,
+        "lng": -83.675
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE120 — Fincastle</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NW of Bethlehem Church, SW of Fincastle Church, Zachariah Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 6-7 bear tracks, bird track, unusual four-footed tailed animal with long neck and upright pointed ears (body transected by 2 broad lines beneath belly - bear track perched on its back). Swauger: may symbolize animal or man possessed of sacred power.. <b>Technique:</b> Unknown. <b>Setting:</b> Sandstone rockshelter 80m entrance, 7m deep, 25m high. Petroglyphs on boulder near drip line.. <b>Elevation:</b> 800 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.63,
+        "lng": -83.71
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LE215 — Little Sinking</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE of Mt. Paran School, overlooking Little Sinking Creek, Zachariah Quad, Lee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> At least 1 deer track and 1 bird track (severely weathered). Possible remnants of human footprints or bear tracks.. <b>Technique:</b> Unknown. <b>Setting:</b> Sandstone point overlooking Little Sinking Creek. <b>Elevation:</b> 1200 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.098,
+        "lng": -88.362
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LV160 — Mantle Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Livingston County · Petroglyph · Historic (probably) - Trail of Tears era (1838-39) or earlie</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#81C784\">Trail of Tears National Historic Trail</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Cave Spring Church, Golconda Quad, Livingston County. Mantle Rock Nature Preserve (TNC).</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Fish, human figure, turkey. Trail of Tears site: 10,000+ Cherokee passed through winter 1838-39. Peter Hildebrand Detachment (~1766 people) camped 2 weeks waiting for frozen Ohio River to thaw. Now 367-acre Nature Conservancy preserve, certified Trail of Tears National Historic Trail site (NPS 2004).. <b>Technique:</b> Pecked with sharp metallic tool (probably historic date). <b>Setting:</b> Small rockshelter, sandstone slab. 30ft high natural sandstone bridge spanning 188ft - largest freestanding arch east of Mississippi.. <b>Elevation:</b> 400 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NPS Trail of Tears documentation; TNC preserve records; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.6,
+        "lng": -84.27
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15MA197 — Burnt Ridge</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Madison County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE of Macedonia Church, Berea Quad, Madison County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 3 human stick figures (one possibly male with penis or lizard with tail), raptorial bird with widespread wings, chevrons. <b>Technique:</b> Pit-and-groove. <b>Setting:</b> Small sandstone rockshelter 9m long, 4.5m deep, 4.5m high, faces west. <b>Elevation:</b> 1400 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.935,
+        "lng": -86.395
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15MD308 — Payneville</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Meade County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> West of Sirocco, east of Payneville, Irvington Quad, Meade County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Many bird tracks on flat horizontal surface (1.8-2.4m). Popular picnic spot - many historic/modern initials.. <b>Technique:</b> Carved. <b>Setting:</b> Outcropping of sandstone forming small series of ledges on wooded hillside. <b>Elevation:</b> 720 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1966</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.905,
+        "lng": -83.58
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15MF160 — Indian Stairway</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Menifee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NW of Tower Rock, NE of Chimney Top Rock, Pomeroyton Quad, Menifee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 4 concentric circles carved into sandstone slab on rockshelter floor. <b>Technique:</b> Carved/abraded. <b>Setting:</b> Large sandstone rockshelter facing east. <b>Elevation:</b> 1000 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Wyss &amp; Wyss 1977; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.915,
+        "lng": -83.62
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15MF178 — Stone Foot Shelter</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Menifee County · Petroglyph · Late Archaic / Early Woodland (diagnostic artifacts)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Very near Menifee-Powell County line, NW of Short Creek, Frenchburg Quad (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> On 2 boulders: bedrock mortar + at least 2 human footprints; 2-3 human footprints, 2 deer tracks, figure-eight geometric design. Dense prehistoric artifacts; evidence of severe looting.. <b>Technique:</b> Unknown. <b>Setting:</b> Large east-facing rockshelter, 45m across, 8m deep. Near Menifee-Powell County line.. <b>Elevation:</b> 1300 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Jobe, Stafford &amp; Boisvert 1980; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph",
+        "abstract_geometric",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.895,
+        "lng": -83.575
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15MF199 — Bells Falls</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Menifee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of juncture of Powell Branch with Gladie Creek, Pomeroyton Quad, Menifee County. Within Daniel Boone NF. (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Row of straight lines, 1-2 possible + 2 definite split-hoof animal tracks, bird track. Within Daniel Boone National Forest.. <b>Technique:</b> Pecked and ground. <b>Setting:</b> Rockshelter with boulder near drip line. <b>Elevation:</b> 1200 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Knudsen 1980; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.88,
+        "lng": -83.54
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15MF353 — Spratts</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Menifee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Natural Arch, NW of Kendrick Ridge Church, Scranton Quad, Menifee County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Abstract and curvilinear designs with at least 2 bird tracks (main group, linear arrangement on upper face of boulder 1.8 x 1.7m).. <b>Technique:</b> Unknown. <b>Setting:</b> East-facing sandstone rockshelter with shallow overhang. Boulder in north-central portion.. <b>Elevation:</b> 1100 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.91,
+        "lng": -83.61
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15MF354 — Skidmore</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Menifee County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Hawkins Branch School, SW of Leatherwood School, Frenchburg Quad. (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Possible plant motif (multiple-branched pecked petroglyph with terminal clusters - plant motifs very unusual in Eastern US rock art). Several bird tracks lacking hind toes. Also known as Short Creek Site.. <b>Technique:</b> Pecked. <b>Setting:</b> Large south-facing rockshelter, 30m wide, 7.4-8.5m deep. 2 large boulders in central portion.. <b>Elevation:</b> 1380 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1971</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.795,
+        "lng": -83.685
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO23 — Martin Fork</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of juncture of Martin Fork and Grays Branch of Red River, Slade Quad, Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 3+ sets of large hoof tracks interpreted as elk (not deer - much larger). 2 concentric rings + elk track. Nearly obliterated large bird track. USFS has placed fence around site.. <b>Technique:</b> Pecked then smoothed by abrasion. <b>Setting:</b> 2 boulders in large sandstone rockshelter with semicircular cliff face. 60m long, 18m high, 12m deep, facing 270 degrees.. <b>Elevation:</b> 1150 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1971; Weinland &amp; Sanders 1977</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.81,
+        "lng": -83.66
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO25 — High Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#FFB74D\">RELOCATED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North of Rogers Chapel, SE of Cat Creek Church, Stanton Quad, Powell County</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Complex geometric and linear designs - most unusual and complicated beyond the normal designs found in the northeastern United States (Swauger). Boulder moved to Red River Museum in Clay City for protection.. <b>Technique:</b> Pecked with some smoothing by abrasion. <b>Setting:</b> Sandstone rockshelter 47m long, 9.6m deep, 15-18m high, facing SSW.. <b>Elevation:</b> 1350 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1971; Weinland &amp; Sanders 1977</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.815,
+        "lng": -83.665
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO106 — State Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> At State Rock, prominently marked on Stanton Quad, Powell County</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Three-toed turkey tracks at top of naturally formed steps. 2 tracks definitely Native American, 1 possible track obscured by superimposed V initial.. <b>Technique:</b> Unknown. <b>Setting:</b> At State Rock, prominently marked on Stanton Quad. <b>Elevation:</b> 1280 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Weinland &amp; Sanders 1977; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.79,
+        "lng": -83.69
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO107 — McKinney Bluff</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of juncture of Short Creek and Red River, NW of Middle Fork Church, Slade Quad, Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 4 human-like footprints carved on large boulder (1.2 x 1.4m). Footprints equivalent size (14cm long, 5cm wide). One pair close together and perpendicular.. <b>Technique:</b> Unknown. <b>Setting:</b> Rockshelter on east slope of McKinney Cliff. <b>Elevation:</b> 1080 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Weinland &amp; Sanders 1977; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.785,
+        "lng": -83.7
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO108 — Amburgy Hollow</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NW of Courthouse Rock, east of juncture of Spaas Creek and Red River, Slade Quad, Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Series of cut lines on SE wall. Deer tracks and other designs formerly on rear wall NOW DESTROYED - apparently removed by someone attempting to take them.. <b>Technique:</b> Cut lines. <b>Setting:</b> Sandstone rockshelter 10.4m wide, 7.6m deep, 4m high. <b>Elevation:</b> 1100 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy &amp; Fuller 1971; Weinland &amp; Sanders 1977</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.808,
+        "lng": -83.658
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO154 — Whites</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Estill County line, SW of Rogers Chapel, Stanton Quad, Powell County. (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Circular and wavy line elements. Chevron design on ledge 2m north of main boulder. Also known as Fayes Petroglyph Site.. <b>Technique:</b> Pounded and rubbed. <b>Setting:</b> East-facing sandstone rockshelter with large boulder (1.4m x 1m x 32cm). Near Estill County line.. <b>Elevation:</b> 1100 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.802,
+        "lng": -83.69
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO155 — Nada Tunnel 1</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph · Woodland period (1000 BCE - 1000 CE)</p><p style=\"font-size:12px;margin:0 0 6px\">NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of juncture of Schoolhouse Branch and Red River, Slade Quad, Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Narrow lines forming V-shapes on rear wall of shallow cave. One set enclosed forming triangular element. Chevron patterns similar to Whites, 7.5 miles away. NRHP listed 1992.. <b>Elevation:</b> 1000 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NRHP 1992.; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.8,
+        "lng": -83.692
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO156 — Nada Tunnel 2</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph · Woodland period (1000 BCE - 1000 CE)</p><p style=\"font-size:12px;margin:0 0 6px\">NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of juncture of Schoolhouse Branch and Red River, Slade Quad, Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 3 concentric circles (identified as Native American) on north-slanting rock facing outward. NRHP listed 1992.. <b>Setting:</b> Large NW-facing sandstone rockshelter at head of Moreland Branch. <b>Elevation:</b> 1220 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NRHP 1992.; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.79,
+        "lng": -83.73
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO158 — Branham Ridge</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Vaughns Mill, Clay City Quad, Powell County. (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Numerous bird tracks oriented in all directions on sandstone outcrop on top of ridge. Also known as Buckner Ridge and Hardwicke Branch.. <b>Technique:</b> Carved. <b>Setting:</b> Sandstone outcrop on ridge top. <b>Elevation:</b> 1300 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.805,
+        "lng": -83.655
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO159 — Knox</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Cat Creek Church, east of State Rock, Stanton Quad, Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 5 bird tracks and 2 cloven hoof tracks carved on 30x40cm panel on west wall of small cave.. <b>Technique:</b> Carved. <b>Setting:</b> Small cave, 3m wide, 10m deep, facing north above South Fork of Red River. <b>Elevation:</b> 1135 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.795,
+        "lng": -83.68
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO160 — Steven DeHart</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph · Woodland or late prehistoric (ceramics, corn cobs in associa</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North of Slade Interchange, east of Middle Fork Church, Slade Quad, Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Linear elements interpreted as abrading lines and paw marks. DeHart Rockshelter assemblage included ceramics, corn cobs, shell spoons, gourd fragments.. <b>Technique:</b> Unknown. <b>Setting:</b> Small rockshelter facing SW, 14m wide, 5m deep, 3-5m high.. <b>Elevation:</b> 1000 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Funkhouser &amp; Webb 1930, 1932; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.8,
+        "lng": -83.675
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15PO281 — Ledford Hollow</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Powell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Powell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 2 well-executed human footprints. Unusual: both have only 4 toes and well-defined arches.. <b>Technique:</b> Pecked and abraded. <b>Setting:</b> South-facing rockshelter, 23.8m wide, 20m high, 17m deep.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.548,
+        "lng": -84.012
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15RK49 — Loman Hill</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Rockcastle County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Dicycope Chapel, NW of Climax Church, Johnetta Quad, Rockcastle County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Originally 12 foot-prints. Burroughs (1938) believed prints were 250 million years old; Bushnell (Smithsonian) said undoubtedly Indian carvings. DESTROYED between 1970-1972.. <b>Technique:</b> Carved. <b>Setting:</b> Sandstone ledge outcropping on top of ridge. SITE DESTROYED.. <b>Elevation:</b> 1440 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy 1991, 1993; Burroughs 1938a, 1938b, 1940</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 36.85,
+        "lng": -85.05
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15RU42 — Jabez</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Russell County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SE of Lake View Church, north of Coleman Church, Jabez Quad, Russell County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 8 human footprints on north wall (toes vary 3-5). 10 additional footprints outside on weather-exposed wall. Altogether different style from other KY sites - more elongated and stylized. Lake Cumberland Petroglyph.. <b>Technique:</b> Pounded and pecked (Swauger style). <b>Setting:</b> Narrow cave/rockshelter near top of bluff overlooking Cumberland River and Cumberland Lake. <b>Elevation:</b> 980 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.72,
+        "lng": -83.53
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15WO19 — Caesar Hurst Shelter</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wolfe County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> SW of Grannis, east of Big Andy Church, Campton Quad, Wolfe County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Originally 2 bird tracks and arrow. Later: 4 turkey tracks + bow and arrow. Hominy hole. Bow considered a later non-Native addition.. <b>Technique:</b> Unknown (site modified by non-Native carvers). <b>Setting:</b> Enormous rockshelter - 60m wide, 18m deep, at least 21m high.. <b>Elevation:</b> 1020 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Funkhouser &amp; Webb 1932; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.74,
+        "lng": -83.56
+      },
+      "radius": 3,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15WO26 — Trinity Shelter</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wolfe County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Tower Rock, Pomeroyton Quad, Wolfe County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> Footprint, possible vulva form, possible human stick figure, V-shaped elements (possible deer tracks). Second vulva form in Kentucky if confirmed.. <b>Technique:</b> Carved. <b>Setting:</b> Central rockshelter in series of 3 connected shelters. 50m deep. South of Tower Rock.. <b>Elevation:</b> 1020 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.71,
+        "lng": -83.525
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15WO119 — Seventeen Seventeen</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wolfe County · Petroglyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> NE of juncture of Lower Devil Creek and Panther Branch, Campton Quad, Wolfe County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Motifs:</b> 5-6 bird tracks. Historic carving of 1717 - if a date, predates first documented Euro-American visit to Kentucky (Dr. Thomas Walker, 1750) by 33 years.. <b>Technique:</b> Incised. <b>Setting:</b> Sandstone outcrop at base of cliff line. <b>Elevation:</b> 1000 ft.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: None known; Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 36.97,
+        "lng": -89.09
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BA109 — Wickliffe</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Ballard County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Ballard County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Ballard County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee",
+        "chickasaw"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 38.4,
+        "lng": -82.6
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15BD81 — Catlettsburg</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Boyd County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Boyd County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Boyd County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 38.73,
+        "lng": -82.97
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15GP173 — Portsmouth Indian Head</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenup County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Greenup County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Greenup County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.44,
+        "lng": -86.33
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">Grayson Springs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Grayson County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Grayson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Grayson County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.43,
+        "lng": -86.32
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15GY68 — Pine Knob</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Grayson County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Grayson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Grayson County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.57,
+        "lng": -84.03
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15JA162 — Clover Bottom</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Jackson County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Jackson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Jackson County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.85,
+        "lng": -82.85
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15JO3 — Little Mud Creek Pictograph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Johnson County · Pictograph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Johnson County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Johnson County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 38.55,
+        "lng": -83.4
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">15LW93 — Unnamed (Lewis)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lewis County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Lewis County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Lewis County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "kyRockArt",
+      "geometry": {
+        "lat": 37.65,
+        "lng": -87.95
+      },
+      "radius": 2,
+      "style": {
+        "color": "#795548",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#795548;margin:0 0 8px\">Unnamed (Union)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Union County · Petroglyph</p><p style=\"font-size:12px;margin:0 0 6px\"><span style=\"color:#EF5350\">DESTROYED</span></p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Union County (approximate location)</p><p style=\"font-size:13px;color:#CFD8DC\">Destroyed or questionable rock art site recorded in Union County, Kentucky. Listed in Table 2 of <i>Rock Art of Kentucky</i> (Coy, Fuller, Meadows &amp; Swauger 1997) as a site that has been destroyed, cannot be relocated, or whose attribution as rock art is uncertain.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coy, Fuller, Meadows &amp;amp; Swauger 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "shawnee",
+        "chickasaw"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    }
+  ]
+}

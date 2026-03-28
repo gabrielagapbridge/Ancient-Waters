@@ -257,6 +257,7 @@
     "scWoodland":          {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
     "scPiedmontRockArt":   {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
     "cherokeeLowerTerr":   {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
-    "catawbaTerr":         {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]}
+    "catawbaTerr":         {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
+    "kyRockArt":           {"type":"layerGroup","addedToMap":true,"dataSources":["73-kentucky-rockart.json"]}
   }
 }
