@@ -1,0 +1,411 @@
+{
+  "source": "75-new-england-landscape.json",
+  "featureCount": 13,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "nePetro",
+      "geometry": {
+        "lat": 41.845,
+        "lng": -70.935
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4A148C",
+        "fillColor": "#7E57C2",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4A148C;margin:0 0 8px\">Middleborough / Assawompset Pond Hand Prints</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wampanoag · Pecked handprints &amp; footprints on glacial boulders</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Bettys Neck, south side of Assawompset Pond, Lakeville/Middleborough, MA</p><p style=\"font-size:13px;color:#CFD8DC\">Multiple boulders with pecked life-sized handprints and footprints along the shores of Assawompset Pond. The handprints are described as 'pecked left-hand-oriented vertically on the rock' (Lenik 2016). May date to the Woodland period (1000 BCE – AD 1000) or the Contact period.</p><p style=\"font-size:13px;color:#CFD8DC\">Nehemiah Bennett (1793) recorded 'a rock on a high hill... where there is the print of a person\\'s hand in said rock.' A King Philip\\'s War legend holds the handprint was left by a dying Indian shot at the nearby garrison. Sites include Hand Rock, Great Sacred Rock, and the Bettys Neck boulders. Some surfaces may have been 'enhanced' in the 1930s. Located near the Middleborough stone fishing weir referenced in the same 1793 account.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lenik 2002, 2016 (Bulletin of Mass Archaeological Society); NEARA; Bennett 1793</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "contact"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nePetro",
+      "geometry": {
+        "lat": 41.88,
+        "lng": -71.08
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4A148C",
+        "fillColor": "#7E57C2",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4A148C;margin:0 0 8px\">Taunton River Cross-in-Circle</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wampanoag or Narragansett · Thunderbird &amp; cross-in-circle petroglyphs</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Taunton, MA — along the Taunton River (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Thunderbird and cross-in-circle design discovered by a hiker in 2007, carved into adjacent sides of a large granite boulder on a wooded hill overlooking the Taunton River. The cross-in-circle (21 × 23 cm) is deeply chipped into a flat vertical surface. Ed Lenik confirmed the cross-in-circle as a 'common Indian motif' widespread in Southeastern and Northeastern rock art. Located near encroaching office park development. The cross-in-circle motif connects New England rock art to the broader Eastern Woodlands tradition.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Taylor 2008 (Bulletin of Mass. Archaeological Society); Anick 2018; Lenik 2002</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nePetro",
+      "geometry": {
+        "lat": 41.37,
+        "lng": -72.03
+      },
+      "radius": 3,
+      "style": {
+        "color": "#5C6BC0",
+        "fillColor": "#9FA8DA",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5C6BC0;margin:0 0 8px\">Gungywamp Complex</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pequot / Mohegan territory · Stone chambers, equinox alignment · NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Groton, CT</p><p style=\"font-size:13px;color:#CFD8DC\">A multi-component archaeological site containing stone circles, cairns, chambers, and a 'calendar chamber' with equinox alignment. On the spring and autumn equinox, sunlight shines through a hole in the west wall, illuminating a lighter stone on the opposite side within the inner beehive chamber.</p><p style=\"font-size:13px;color:#CFD8DC\">Listed on the National Register of Historic Places. Interpretations range from Indigenous ceremonial site to colonial root cellar, but the equinox alignment and associated stone features suggest intentional astronomical design. Located in southeastern Connecticut in territory historically associated with the Pequot and Mohegan peoples.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NEARA; NRHP listing; Connecticut Archaeological Society</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "pequot"
+      ],
+      "tribes": [
+        "pequot"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "nePetro",
+      "geometry": {
+        "lat": 41.45,
+        "lng": -72.45
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4A148C",
+        "fillColor": "#7E57C2",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4A148C;margin:0 0 8px\">Blaschik Petroglyph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Connecticut River Valley · Portable carved stone</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> East Haddam, CT (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A small carved stone (13 × 15 cm) documented by the Connecticut Archaeological Society. Found in the Connecticut River Valley, an area with documented Indigenous occupation spanning thousands of years. One of only a handful of confirmed petroglyphs in Connecticut.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Connecticut Archaeological Society Bulletin 46, 1983</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "mohegan"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neSacredStone",
+      "geometry": {
+        "lat": 42.1743,
+        "lng": -71.6022
+      },
+      "radius": 4,
+      "style": {
+        "color": "#5C6BC0",
+        "fillColor": "#9FA8DA",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5C6BC0;margin:0 0 8px\">Upton Stone Chamber</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Narragansett / Wampanoag · Largest beehive chamber in New England · NRHP 2011</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> 18 Elm Street, Upton Heritage Park, Upton, MA (public access)</p><p style=\"font-size:13px;color:#CFD8DC\">One of the largest and most precisely built beehive chambers in New England. A 14-foot (4.3m) entrance tunnel leads to a corbelled dome room 12 ft across and 11 ft high. Aligned with summer solstice sunset and the heliacal setting of the Pleiades as viewed from Pratt Hill cairns across the valley.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>OSL dating (USGS, 2015):</b> construction between <b>1350 and 1625 AD</b> — before documented English settlement of the area. Narragansett, Wampanoag Aquinnah, and Mashpee tribal representatives surveyed Pratt Hill and confirmed astronomical links between the chamber and hilltop cairns. Listed on the National Register as a Discontinuous Historic District (2011) with Pratt Hill. Now preserved as Upton Heritage Park with public access.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Upton Heritage Park, 18 Elm St, Upton, MA — free, open to public.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mavor &amp; Dix 1989 (Manitou); USGS OSL study 2015; Upton Historical Commission; NRHP 2011</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "narragansett"
+      ],
+      "tribes": [
+        "narragansett",
+        "wampanoag"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neSacredStone",
+      "geometry": {
+        "lat": 42.8414,
+        "lng": -71.2075
+      },
+      "radius": 3,
+      "style": {
+        "color": "#5C6BC0",
+        "fillColor": "#9FA8DA",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5C6BC0;margin:0 0 8px\">America's Stonehenge</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cultural attribution debated · 30-acre hilltop complex · Astronomical alignments</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North Salem, NH</p><p style=\"font-size:13px;color:#CFD8DC\">A 30-acre hilltop complex with 22+ stone chambers, standing stones, and stone walls. Features include a summer solstice sunrise monolith and a True North Stone aligned with the pole star Thuban (~1750 BCE). Astronomical alignments have been calibrated to approximately 1500 BCE.</p><p style=\"font-size:13px;color:#CFD8DC\">Heavily debated origin — theories range from Native American ceremonial site to colonial construction to pre-Columbian European. Radiocarbon dates from the site range widely. Open to the public as a paid attraction. Regardless of origin, the site documents the long human fascination with astronomical alignment in New England's stone landscape.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Multiple publications; stonehengeusa.com</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "abenaki"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neSacredStone",
+      "geometry": {
+        "lat": 42.12,
+        "lng": -71.18
+      },
+      "radius": 3,
+      "style": {
+        "color": "#5C6BC0",
+        "fillColor": "#9FA8DA",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5C6BC0;margin:0 0 8px\">King Philip\\'s Cave</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wampanoag · Solstice alignments · Named for Metacom</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Sharon, MA — conservation land</p><p style=\"font-size:13px;color:#CFD8DC\">Natural boulder cluster with a worked slab creating a narrow aperture. On summer solstice sunset, light passes through the stone aperture from the center of the cave. On winter solstice, a 'dagger of light' disappears into a crevice. Named for Metacom ('King Philip'), the Wampanoag sachem who led the 1675–76 war against English colonists — historically important Indian site. Located on conservation land in Sharon.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NEARA Massachusetts chapter</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neSacredStone",
+      "geometry": {
+        "lat": 42.18,
+        "lng": -71.6
+      },
+      "radius": 3,
+      "style": {
+        "color": "#5C6BC0",
+        "fillColor": "#9FA8DA",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5C6BC0;margin:0 0 8px\">Pratt Hill Cairns</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Narragansett / Wampanoag · Astronomical horizon markers · NRHP 2011 (with Upton Chamber)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Upton, MA</p><p style=\"font-size:13px;color:#CFD8DC\">Stone cairns near the summit of Pratt Hill serve as horizon markers for astronomical observations from the Upton Stone Chamber across the valley. One cairn marks summer solstice sunrise, another relates to the Pleiades setting. Surveyed by Narragansett, Wampanoag Aquinnah, and Mashpee tribal representatives who confirmed the astronomical connections. Listed on the National Register of Historic Places (2011) as part of the Upton Chamber Discontinuous Historic District.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mavor &amp; Dix 1989 (Manitou); NRHP 2011</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "narragansett"
+      ],
+      "tribes": [
+        "narragansett",
+        "wampanoag"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neSacredStone",
+      "geometry": {
+        "lat": 42.6,
+        "lng": -72.55
+      },
+      "radius": 3,
+      "style": {
+        "color": "#5C6BC0",
+        "fillColor": "#9FA8DA",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5C6BC0;margin:0 0 8px\">Turners Falls Sacred Ceremonial Hill</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Multiple CT River Valley tribes · Federal NRHP determination 2009</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Turners Falls / Montague, MA</p><p style=\"font-size:13px;color:#CFD8DC\">In 2009, a federal determination found that a site near the Turners Falls Airport is a sacred ceremonial hill eligible for the National Register of Historic Places. This was a landmark recognition that New England stone features can be of Indigenous origin and hold ceremonial significance — an important precedent for the protection of similar sites across the region. Associated with multiple Connecticut River Valley tribal communities.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Federal determination 2009</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "nipmuc"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neSacredStone",
+      "geometry": {
+        "lat": 42.49,
+        "lng": -71.52
+      },
+      "radius": 2,
+      "style": {
+        "color": "#5C6BC0",
+        "fillColor": "#9FA8DA",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#5C6BC0;margin:0 0 8px\">Boxboro Esker Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Stone features along glacial ridge · Solstice alignments</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Boxboro, MA — Sudbury Valley Trustees conservation land</p><p style=\"font-size:13px;color:#CFD8DC\">Stone features along a glacial esker (ridge of sand/gravel deposited by a retreating glacier). On winter solstice sunrise, light appears in a V-shaped notch of an animal-shaped effigy boulder when viewed from a stone platform built into a wall. A stone cairn visible from the same viewing point marks summer solstice sunrise. Protected by Sudbury Valley Trustees.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mavor &amp; Dix 1989 (Manitou); NEARA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "nipmuc"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neAncientWeirs",
+      "geometry": {
+        "lat": 42.351,
+        "lng": -71.0735
+      },
+      "radius": 4,
+      "style": {
+        "color": "#00695C",
+        "fillColor": "#4DB6AC",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#00695C;margin:0 0 8px\">Boylston Street Fish Weir</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Massachusett / Wampanoag (ancestral) · One of oldest engineered structures in North America · ~5,200–3,700 BP</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Buried 28–40 ft below Boylston Street / Back Bay, Boston, MA</p><p style=\"font-size:13px;color:#CFD8DC\">One of the oldest engineered structures in North America. A series of fish weirs built over a 1,500-year period (~3050–1550 BCE / 5,200–3,700 BP) in the shallow tidal flats of what is now Boston's Back Bay. Over 65,000 wooden stakes have been discovered during subway construction (1913) and building excavations (1939, 1946, 1985).</p><p style=\"font-size:13px;color:#CFD8DC\">Stakes were made of sassafras, hickory, dogwood, beech, oak, and alder — species that changed with climate over the centuries. Wood was cut in late winter; weirs were built each spring. Used to trap fish during tidal cycles. Abandoned ~1550 BCE as Back Bay silted in. Sea level has risen 10+ feet since the weirs were in use.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Today:</b> The Ancient Fishweir Project (fishweir.org) conducts annual reconstructions on Boston Common with Massachusett and Wampanoag tribal members and students — now in its 23rd year (2026). As Ross Miller noted: 'In a city full of bronze sculptures and historical markers, there is no public display of information about the ancient fishweirs or the people who lived here 250 generations before the colonists arrived.'</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Johnson 1942, 1949; Rosen et al. 1993; fishweir.org; Wikipedia</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [
+        "massachusett",
+        "wampanoag"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neAncientWeirs",
+      "geometry": {
+        "lat": 44.03,
+        "lng": -69.52
+      },
+      "radius": 3,
+      "style": {
+        "color": "#00695C",
+        "fillColor": "#4DB6AC",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#00695C;margin:0 0 8px\">Damariscotta River Oyster Shell Middens</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wabanaki (ancestral) · Among the largest shell middens in North America · Largely destroyed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Damariscotta, ME</p><p style=\"font-size:13px;color:#CFD8DC\">Among the largest oyster shell middens in North America, built up over thousands of years along the Damariscotta River. These massive deposits — once 30+ feet deep in places — represent sustained human-river relationships spanning millennia, documenting both food production and landscape transformation.</p><p style=\"font-size:13px;color:#CFD8DC\">Largely destroyed by colonial-era lime burning: shells were quarried industrially for lime production, consuming the bulk of the archaeological record. Remaining portions are now protected. The destruction of the Damariscotta middens is emblematic of the broader pattern across New England, where colonial industry systematically consumed Indigenous landscape features for raw material.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Multiple archaeological publications; Maine Historic Preservation Commission</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wabanaki"
+      ],
+      "tribes": [
+        "abenaki"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "neAncientWeirs",
+      "geometry": {
+        "lat": 41.84,
+        "lng": -70.94
+      },
+      "radius": 2,
+      "style": {
+        "color": "#00695C",
+        "fillColor": "#4DB6AC",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#00695C;margin:0 0 8px\">Middleborough Stone Fishing Weir</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wampanoag · Stone weir referenced in 1793 account</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Middleborough, MA (approximate — near Assawompset Pond)</p><p style=\"font-size:13px;color:#CFD8DC\">Referenced in a 1793 account by Nehemiah Bennett as 'the old stone fishing weir.' Associated with the nearby petroglyph handprints at Bettys Neck on Assawompset Pond. Stone fishing weirs were used to channel fish into shallow pools during tidal or seasonal flow changes. The connection between the weir and the handprint petroglyphs suggests an integrated sacred and subsistence landscape along the pond shore.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Bennett 1793; Massachusetts Historical Collections Vol. 3d, 1810; Lenik 2002</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "wampanoag"
+      ],
+      "tribes": [
+        "wampanoag"
+      ],
+      "rockArtStyles": []
+    }
+  ]
+}

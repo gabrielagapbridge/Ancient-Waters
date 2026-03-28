@@ -260,6 +260,9 @@
     "catawbaTerr":         {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
     "kyRockArt":           {"type":"layerGroup","addedToMap":true,"dataSources":["73-kentucky-rockart.json"]},
     "tnCumberlandRockArt": {"type":"layerGroup","addedToMap":true,"dataSources":["74-tn-cumberland-rock-art.json"]},
-    "tnCumberlandTerr":    {"type":"layerGroup","addedToMap":true,"dataSources":["74-tn-cumberland-rock-art.json"]}
+    "tnCumberlandTerr":    {"type":"layerGroup","addedToMap":true,"dataSources":["74-tn-cumberland-rock-art.json"]},
+    "nePetro":             {"type":"layerGroup","addedToMap":true,"dataSources":["75-new-england-landscape.json"]},
+    "neSacredStone":       {"type":"layerGroup","addedToMap":true,"dataSources":["75-new-england-landscape.json"]},
+    "neAncientWeirs":      {"type":"layerGroup","addedToMap":true,"dataSources":["75-new-england-landscape.json"]}
   }
 }

@@ -1250,7 +1250,7 @@
         "fillOpacity": 0.9,
         "weight": 3
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Dighton Rock</h3></div>",
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD700;margin:0 0 8px\">Dighton Rock</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wampanoag / Narragansett · New England's most famous petroglyph · NRHP 1980</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Dighton Rock Museum, Dighton Rock State Park, Berkley, MA (41.807°N, 71.128°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A 40-ton glacial sandstone boulder covered with petroglyphs — geometric shapes, schematic human figures, lines, and possible writing. Originally in the Taunton River bed, where it was exposed at low tide. First documented by Rev. John Danforth in 1680 (drawing preserved in the British Museum), making it one of the earliest recorded archaeological sites in North America.</p><p style=\"font-size:13px;color:#CFD8DC\">Centuries of alternative theories (Portuguese, Viking, Phoenician, Chinese) have all been rejected by mainstream archaeology. The most accepted attribution is Wampanoag or Narragansett — the rock sits in territory historically occupied by both peoples, near the head of Narragansett Bay. Removed from the river in 1963 for preservation and housed in a purpose-built museum. NRHP listed 1980.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Dighton Rock State Park, Berkley, MA — museum open seasonally.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lenik 2002; Delabarre 1928; Danforth 1680; NRHP 1980</p></div>",
       "timePeriods": [
         "contact",
         "formative",
@@ -1266,7 +1266,10 @@
       ],
       "rockArtStyles": [
         "petroglyph"
-      ]
+      ],
+      "popupOptions": {
+        "maxWidth": 430
+      }
     },
     {
       "type": "circleMarker",
@@ -1410,7 +1413,7 @@
         "fillOpacity": 0.8,
         "weight": 2
       },
-      "popup": "<div class=\"popup-content\"><h3 style=\"color:#FFD700\">Mark Rock (Warwick, RI)</h3></div>",
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD700;margin:0 0 8px\">Mark Rock (Warwick, RI)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Narragansett · Multiple petroglyph panels · Shamanic imagery</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Warwick, RI — near Narragansett Bay</p><p style=\"font-size:13px;color:#CFD8DC\">A ledge with multiple petroglyph panels documented since the 1920s by Delabarre. Motifs include anthropomorphs with 'radiating power lines' from their heads (interpreted as shamanic imagery), hourglass/X-shaped figures (possible thunderbird representations), and a possible 'flower' motif (likely post-Contact). Some figures lack arms — consistent with Algonkian depictions of medicine men found on birch bark song scrolls. Historic graffiti is superimposed on some panels. The site demonstrates the Narragansett tradition of marking significant places with carved imagery in the landscape surrounding Narragansett Bay.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Delabarre 1928; Lenik 2002; Anick 2018</p></div>",
       "timePeriods": [
         "contact",
         "formative",
@@ -1426,7 +1429,10 @@
       ],
       "rockArtStyles": [
         "petroglyph"
-      ]
+      ],
+      "popupOptions": {
+        "maxWidth": 420
+      }
     },
     {
       "type": "circleMarker",
