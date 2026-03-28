@@ -1,0 +1,71 @@
+{
+  "source": "72-sc-piedmont-rockart.json",
+  "featureCount": 3,
+  "features": [
+    {
+      "type": "marker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.9269,
+        "lng": -82.7217
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#8B6914",
+        "size": 12
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Hagood Creek Petroglyph Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee Lower Towns territory · Petroglyph Site — SC's only protected rock art</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Hagood Mill Historic Site, Pickens County (34.927°N, 82.722°W)</p><p style=\"font-size:13px;color:#CFD8DC\">South Carolina's most significant rock art site and the only publicly accessible, protected petroglyph assemblage in the state. At least 32 carvings — including 17 human figures — are incised into a large, low-lying sandstone boulder adjacent to Hagood Creek, a tributary of the Twelve Mile River. The site lies in the heart of the Cherokee Lower Towns, along the foothills of the Blue Ridge Mountains where the Keowee River drainage historically supported Cherokee settlements including Keowee, Seneca, Toxaway, and Jocassee.</p><p style=\"font-size:13px;color:#CFD8DC\">Discovered in January 2003 by Michael Bramlett, a volunteer with the South Carolina Petroglyph Survey led by SCIAA archaeologist Tommy Charles. Much of the boulder had been buried beneath a dirt road built in the 1820s, which paradoxically preserved the carvings from weathering. When Charles excavated the covered portion, he found additional human representations — mostly stick-like figures, with one notable armless figure with a filled torso. Night examination with side-scanning lights revealed further glyphs invisible in daylight.</p><p style=\"font-size:13px;color:#CFD8DC\">The figures are part of a broader pattern identified across the SC Piedmont. Charles's survey (1997–ongoing) documented 64 rock art sites and over 1,000 individual carvings across the Upstate. The circle-and-line motif found repeatedly in SC mirrors patterns identified along the Appalachian Mountains from Alabama to New York. Piedmont petroglyphs occur in two distinct landform settings: westward-facing bald rock near mountain crests (with more uniform motifs) and foothills near streams and springs (with more varied motifs). The Hagood Creek site falls in the latter category.</p><p style=\"font-size:13px;color:#CFD8DC\">Dating remains unresolved — the carvings are not amenable to radiocarbon dating and no associated artifacts have been found. Charles estimated they could range from 400 to 4,000 years old. A purpose-built museum structure now protects the petroglyphs in situ, with colored lighting to reveal the eroded carvings.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Hagood Mill Historic Site, 138 Hagood Mill Rd, Pickens — free admission, Wed–Sat 10am–4pm.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 1997, 2004, 2010 (Discovering SC's Rock Art, USC Press); SC Encyclopedia; Diaz-Granados &amp; Duncan 2004, Ch. 15; SCIAA</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["cherokee"],
+      "tribes": ["cherokee"],
+      "rockArtStyles": ["petroglyph", "anthropomorph", "abstract_geometric", "incised"]
+    },
+    {
+      "type": "polygon",
+      "layer": "cherokeeLowerTerr",
+      "geometry": [
+        [35.10, -83.15],[35.05, -82.75],[34.95, -82.60],[34.80, -82.55],
+        [34.60, -82.65],[34.55, -82.85],[34.55, -83.10],[34.65, -83.20],
+        [34.80, -83.25],[35.00, -83.20],[35.10, -83.15]
+      ],
+      "style": {
+        "color": "#C62828",
+        "weight": 2,
+        "opacity": 0.8,
+        "fillColor": "#C62828",
+        "fillOpacity": 0.12,
+        "pane": "scBackgroundPane"
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#C62828;margin:0 0 8px\">Cherokee Lower Towns Territory</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Keowee River drainage · Oconee, Pickens, Anderson Counties</p><p style=\"font-size:13px;color:#CFD8DC\">The Cherokee Lower Towns occupied the Keowee River drainage in the Piedmont foothills of northwestern South Carolina. Principal towns included Keowee, Seneca, Toxaway, Jocassee, Estatoe, and Tomassee. The Lower Towns served as the primary interface between the Cherokee Nation and English colonial traders from Charleston. Destroyed by Colonel Andrew Williamson's expedition in 1776; many former town sites now submerged beneath Lake Keowee and Lake Jocassee.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: SC Encyclopedia; Bartram 1775–76; Wikipedia (Historic Cherokee settlements)</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "timePeriods": ["late_prehistoric", "contact"],
+      "cultures": ["cherokee"],
+      "tribes": ["cherokee"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "polygon",
+      "layer": "catawbaTerr",
+      "geometry": [
+        [35.40, -81.30],[35.35, -80.70],[35.10, -80.50],[34.80, -80.55],
+        [34.60, -80.70],[34.55, -81.00],[34.60, -81.30],[34.80, -81.40],
+        [35.10, -81.45],[35.30, -81.40],[35.40, -81.30]
+      ],
+      "style": {
+        "color": "#6A1B9A",
+        "weight": 2,
+        "opacity": 0.8,
+        "fillColor": "#6A1B9A",
+        "fillOpacity": 0.12,
+        "pane": "scBackgroundPane"
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#6A1B9A;margin:0 0 8px\">Catawba Nation Territory</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Iswa — People of the River · Catawba River Valley</p><p style=\"font-size:13px;color:#CFD8DC\">The Catawba Nation — the only federally recognized tribe in South Carolina — inhabited the Catawba River Valley spanning the Piedmont of both Carolinas. At contact, their territory encompassed most of the SC Piedmont from the Blue Ridge foothills to the fall line. The Nation was a confederacy incorporating 20+ smaller tribes who sought protection from Iroquois raids and colonial warfare. Renowned for their warrior culture and the oldest continuously practiced pottery tradition east of the Mississippi. The 1763 reservation of 144,000 acres was reduced to 630 acres by 1850. Federal recognition restored 1993.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Catawba Indian Nation; Merrell 1989; SC Encyclopedia; UNC Catawba Project</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
+      "cultures": ["catawba"],
+      "tribes": ["catawba"],
+      "rockArtStyles": []
+    }
+  ]
+}

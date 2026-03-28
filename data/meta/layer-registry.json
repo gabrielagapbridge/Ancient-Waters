@@ -254,6 +254,9 @@
     "scVillages":          {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
     "scMounds":            {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
     "scTerritories":       {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
-    "scWoodland":          {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]}
+    "scWoodland":          {"type":"layerGroup","addedToMap":true,"dataSources":["71-sc-lowcountry.json"]},
+    "scPiedmontRockArt":   {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
+    "cherokeeLowerTerr":   {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
+    "catawbaTerr":         {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]}
   }
 }

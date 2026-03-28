@@ -12,7 +12,8 @@
     "nvRockArtPaleo", "nvRockArtArchaic", "nvRockArtFremont", "nvRockArtLate",
     "spiritRockArt",
     "centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt",
-    "yokutsJoaquinRidgeRockArt"
+    "yokutsJoaquinRidgeRockArt",
+    "scPiedmontRockArt"
   ],
 
   "rockArtGroups": {
@@ -80,6 +81,11 @@
       "layers": ["centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt"],
       "color": "#D4A574",
       "description": "Salinan, Chumash & Tübatulabal — Steward 1929, DRI 2020"
+    },
+    "SC Piedmont": {
+      "layers": ["scPiedmontRockArt"],
+      "color": "#8B6914",
+      "description": "Charles 1997–2010 — 64 sites, 1,000+ carvings across SC Upstate"
     }
   },
 
@@ -99,7 +105,9 @@
     "wendat":     ["wdtTerritory"],
     "neutral":    ["ntrTerritory"],
     "erie":       ["erieTerritory"],
-    "scLowcountry": ["scTerritories"]
+    "scLowcountry": ["scTerritories"],
+    "cherokeeLower": ["cherokeeLowerTerr"],
+    "catawba": ["catawbaTerr"]
   },
 
   "extraCultures": {
