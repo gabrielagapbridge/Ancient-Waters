@@ -14,7 +14,8 @@
     "centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt",
     "yokutsJoaquinRidgeRockArt",
     "scPiedmontRockArt",
-    "kyRockArt"
+    "kyRockArt",
+    "tnCumberlandRockArt"
   ],
 
   "rockArtGroups": {
@@ -92,6 +93,11 @@
       "layers": ["kyRockArt"],
       "color": "#795548",
       "description": "Coy, Fuller, Meadows & Swauger 1997 — 62 confirmed + 9 destroyed sites across 22 counties"
+    },
+    "Tennessee / Cumberland Plateau": {
+      "layers": ["tnCumberlandRockArt"],
+      "color": "#8B4513",
+      "description": "Simek et al. 2013 — 94 sites, Mississippian dark-zone cave art & open-air pictographs"
     }
   },
 
@@ -113,7 +119,8 @@
     "erie":       ["erieTerritory"],
     "scLowcountry": ["scTerritories"],
     "cherokeeLower": ["cherokeeLowerTerr"],
-    "catawba": ["catawbaTerr"]
+    "catawba": ["catawbaTerr"],
+    "tnCumberland": ["tnCumberlandTerr"]
   },
 
   "extraCultures": {

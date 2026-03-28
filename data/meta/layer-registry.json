@@ -258,6 +258,8 @@
     "scPiedmontRockArt":   {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
     "cherokeeLowerTerr":   {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
     "catawbaTerr":         {"type":"layerGroup","addedToMap":true,"dataSources":["72-sc-piedmont-rockart.json"]},
-    "kyRockArt":           {"type":"layerGroup","addedToMap":true,"dataSources":["73-kentucky-rockart.json"]}
+    "kyRockArt":           {"type":"layerGroup","addedToMap":true,"dataSources":["73-kentucky-rockart.json"]},
+    "tnCumberlandRockArt": {"type":"layerGroup","addedToMap":true,"dataSources":["74-tn-cumberland-rock-art.json"]},
+    "tnCumberlandTerr":    {"type":"layerGroup","addedToMap":true,"dataSources":["74-tn-cumberland-rock-art.json"]}
   }
 }

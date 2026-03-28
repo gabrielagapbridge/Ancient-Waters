@@ -1,0 +1,137 @@
+{
+  "source": "74-tn-cumberland-rock-art.json",
+  "featureCount": 7,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "tnCumberlandRockArt",
+      "geometry": { "lat": 36.566, "lng": -87.312 },
+      "radius": 4,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D4836E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Dunbar Cave (40MT43)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Middle Cumberland Mississippian · Dark Zone Cave Art &amp; Habitation · 10,000+ years of use</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Clarksville, Montgomery County, TN — largest cave on the Western Highland Ridge</p><p style=\"font-size:13px;color:#CFD8DC\">Dunbar Cave is one of the most significant prehistoric sites in the Eastern Woodlands. With over 8 miles of mapped passages, the cave saw human use spanning 10,000+ years — from Paleo-Indian tool caches to Mississippian ceremonial art. In the cave's dark zone, 35+ petroglyphs and pictographs were created during the Mississippian period (~AD 1300). Imagery includes rayed circles with interior crosses — a hallmark of the Southeastern Ceremonial Complex — concentric circles, and a mythological hero warrior figure. For the Mississippian people along the Red River, Dunbar Cave was an actual portal to the Underworld.</p><p style=\"font-size:13px;color:#CFD8DC\">Earlier Archaic visitors (~5,000 years ago) may have deposited finely worked stone tools in the cave's interior pools as ritual offerings. The cave vestibule preserves occupation layers from every prehistoric period in the Southeast, including a Paleo-Indian Beaver Lake point and Woodland ceramics. Mississippian-era bison and elk remains were also recovered.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Dunbar Cave State Park — seasonal guided cave tours. Closed Sept–April for bat hibernation (white-nose syndrome detected 2010).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Simek et al. 2012 (J. Cave &amp; Karst Studies 74: 19–32); Simek et al. 2013 (Antiquity 87: 430–446); TN State Parks</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["paleoindian", "early_archaic", "middle_archaic", "late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["middle_cumberland_mississippian"],
+      "tribes": ["shawnee"],
+      "rockArtStyles": ["petroglyph", "pictograph", "abstract_geometric"]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tnCumberlandRockArt",
+      "geometry": { "lat": 35.7961, "lng": -85.0086 },
+      "radius": 4,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D4836E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Devilstep Hollow Cave</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Middle Cumberland Mississippian · Dark Zone Ceremonial Cave Art · ~1,100 years old</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Cumberland County, TN — headwaters of the Sequatchie River, draining Grassy Cove (largest sinkhole in North America)</p><p style=\"font-size:13px;color:#CFD8DC\">Devilstep Hollow Cave sits at the headwaters of the Sequatchie River, where water from Grassy Cove — the largest sinkhole in North America — emerges through the Cumberland Plateau's limestone. The cave entrance, reached through a sinkhole scramble, opens into a twilight zone where a shelf leads around a still pool to a passage into total darkness — an entrance to the underworld.</p><p style=\"font-size:13px;color:#CFD8DC\">Inside, 22 Mississippian-era images (~1,100 years old) form what appears to be a complete ceremonial sequence. Paired woodpeckers point the way to a major panel containing a warrior axe with a human head, the iconic <b>Falcon Warrior</b> (Red Horn/Morning Star) with outstretched wings clutching ceremonial maces, a disembodied face with serpent eyes and toothy rictus grin, and a 2+ meter underworld fish with a sharp-toothed snout resembling an alligator gar. A single Indigenous footprint remains in the cave mud. The Falcon Warrior connects this site to the continental Mississippian belief system that spread during the Cahokian diaspora.</p><p style=\"font-size:13px;color:#CFD8DC\">Fully 3D-scanned (85 million faces) by the Ancient Art Archive. Closed to public entry — the Falcon Warrior Trail at Head of Sequatchie State Park offers an overlook.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Simek et al. 2013 (Antiquity 87: 430–446); Ancient Art Archive (ancientartarchive.org); TennGreen Land Conservancy; National Geographic Society</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["late_prehistoric"],
+      "cultures": ["middle_cumberland_mississippian"],
+      "tribes": ["cherokee"],
+      "rockArtStyles": ["petroglyph", "pictograph", "anthropomorph", "zoomorph"]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tnCumberlandRockArt",
+      "geometry": { "lat": 36.147, "lng": -87.118 },
+      "radius": 4,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#FFD54F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Mound Bottom (40CH8)</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">Middle Cumberland Mississippian · Largest Mound Complex in Tennessee · AD 950–1350</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Horseshoe bend of the Harpeth River, Cheatham County, TN — near Kingston Springs</p><p style=\"font-size:13px;color:#B0BEC5\"><b>National Register:</b> Listed 1971 (updated 2020)</p><p style=\"font-size:13px;color:#CFD8DC\">Mound Bottom is the largest Mississippian mound complex in Tennessee, situated in a well-protected horseshoe bend of the Harpeth River. Around AD 950, it emerged as a sacred ceremonial center, growing over three centuries into a fortified city with 12+ platform mounds around a 7-acre central plaza. Mound A — a massive platform (~246 ft per side, 36 ft tall) — likely supported the chief's residence or a temple. Approximately 5 miles of earthen embankments topped by wooden palisades enclosed houses, storehouses, craft centers, and cemeteries. Distinctive Middle Cumberland stone-box burials are a defining feature.</p><p style=\"font-size:13px;color:#CFD8DC\">The adjacent Pack Site (1.5 miles south) adds 20 more mounds — together forming the 'Great Mound Group,' the largest mound grouping in the state. Trade networks connected Mound Bottom to Cahokia and beyond: copper from the Great Lakes, shell cups from the Gulf Coast, pottery from southern Illinois. By AD 1200, few leaders in eastern North America would have been unaware of this city. Decline began around AD 1300, with occupation ceasing by ~1350.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> State-owned, managed by Harpeth River State Park &amp; TN Division of Archaeology.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: O'Brien &amp; Kuttruff 2012 (Southeastern Archaeology); Deter-Wolf 2016, 2020; Tennessee Encyclopedia; TN Division of Archaeology; NRHP 1971/2020</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["late_prehistoric"],
+      "cultures": ["middle_cumberland_mississippian"],
+      "tribes": ["shawnee"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tnCumberlandRockArt",
+      "geometry": { "lat": 36.143, "lng": -87.120 },
+      "radius": 3,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Mace Bluff</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Middle Cumberland Mississippian · Open Air Petroglyph · Overlooking Mound Bottom</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Bluff overlooking Harpeth River and Mound Bottom, Cheatham County, TN</p><p style=\"font-size:13px;color:#B0BEC5\"><b>National Register:</b> Listed alongside Mound Bottom (1971)</p><p style=\"font-size:13px;color:#CFD8DC\">Mace Bluff is an open-air rock art site on the bluff line overlooking the Harpeth River and the Mound Bottom mound complex. The site's signature element is a petroglyph of a ceremonial crown mace — a symbol of authority and priestly power throughout the Mississippian world. This weapon motif appears on shell gorgets, chipped flint, and copper objects across the Southeast, making its presence here directly above a major ceremonial center especially significant.</p><p style=\"font-size:13px;color:#CFD8DC\">First noted by John Haywood in his 1823 survey of Tennessee rock art, Mace Bluff demonstrates the connection between open-air rock art (positioned high, in the 'upper world') and the mound centers in the fertile valley bottoms below. Featured on the 2014 Tennessee Archaeology Awareness Month poster. Managed by Harpeth River State Park.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Simek et al. 2013 (Antiquity 87: 430–446); Haywood 1823; TN Division of Archaeology; NRHP 1971</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["late_prehistoric"],
+      "cultures": ["middle_cumberland_mississippian"],
+      "tribes": ["shawnee"],
+      "rockArtStyles": ["petroglyph"]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tnCumberlandRockArt",
+      "geometry": { "lat": 35.95, "lng": -83.50 },
+      "radius": 4,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#D4836E",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Mud Glyph Cave</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">Middle Cumberland Mississippian · Foundational SE Cave Art Site · Location Confidential</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tennessee River Valley, eastern Tennessee (exact location protected — approximate coordinates)</p><p style=\"font-size:13px;color:#CFD8DC\">Mud Glyph Cave is the foundational site for southeastern U.S. cave art research. In 1979, a recreational caver exploring a narrow underground stream passage discovered images traced into the wet clay lining the stream banks — Mississippian religious iconography previously known only from ceremonial objects outside caves. Charles Faulkner of the University of Tennessee recognized the art as prehistoric and launched a documentation project in 1980.</p><p style=\"font-size:13px;color:#CFD8DC\">The cave contains organized compositions of hundreds of mud glyphs, including the iconic warrior figure with talons for feet, horned serpents, and human-animal transformation creatures. The mud remains wet today — the images retain the warmth and immediacy of their creation but could be erased by a single careless touch. The cave art closely resembles imagery found on Mississippian shell gorgets, copper plates, and other ceremonial objects of the Southeastern Ceremonial Complex.</p><p style=\"font-size:13px;color:#CFD8DC\">The discovery expanded the known repertoire of southeastern rock art to include dark-zone cave contexts and launched three decades of systematic survey that has now documented 70+ cave art sites across the region.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Faulkner 1986 (ed., UT Press); Faulkner et al. 1984 (American Antiquity 49: 350–61); Muller 1986; Simek et al. 2013 (Antiquity 87: 430–446)</p></div>",
+      "popupOptions": { "maxWidth": 430 },
+      "timePeriods": ["late_prehistoric"],
+      "cultures": ["middle_cumberland_mississippian"],
+      "tribes": ["cherokee"],
+      "rockArtStyles": ["petroglyph", "pictograph", "anthropomorph", "zoomorph"]
+    },
+    {
+      "type": "polygon",
+      "layer": "tnCumberlandTerr",
+      "geometry": [
+        [36.60, -87.50],[36.60, -85.20],[35.20, -85.20],
+        [35.20, -86.80],[35.80, -87.50],[36.60, -87.50]
+      ],
+      "style": {
+        "color": "#8B4513",
+        "weight": 2,
+        "opacity": 0.8,
+        "fillColor": "#8B4513",
+        "fillOpacity": 0.10,
+        "dashArray": "6,4",
+        "pane": "scBackgroundPane"
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Middle Cumberland Mississippian Territory</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Nashville Basin &amp; Cumberland Plateau · AD 900–1450</p><p style=\"font-size:13px;color:#CFD8DC\">The Middle Cumberland Mississippian culture occupied the Nashville Basin and western Cumberland Plateau escarpment from roughly AD 900 to 1450. Major ceremonial centers — Mound Bottom, Pack Site, Gordontown — were built in fertile river bottomlands along the Cumberland, Harpeth, and Tennessee rivers, while the plateau itself served as a sacred landscape. 94 documented rock and cave art sites are organized according to a three-tiered cosmological model: open-air sites at high elevations (upper world) use red pigment; dark-zone cave art at low elevations (lower world) uses black pigment. Historical descendant peoples include Cherokee and Chickasaw.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Simek et al. 2013; Faulkner 1986; Moore &amp; Smith; Tennessee Encyclopedia</p></div>",
+      "popupOptions": { "maxWidth": 410 },
+      "timePeriods": ["late_prehistoric"],
+      "cultures": ["middle_cumberland_mississippian"],
+      "tribes": ["cherokee", "chickasaw"],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "tnCumberlandRockArt",
+      "geometry": { "lat": 35.85, "lng": -85.60 },
+      "radius": 2,
+      "style": {
+        "color": "#8B4513",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.65,
+        "weight": 1
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B4513;margin:0 0 8px\">Tennessee Cumberland Plateau — 94 Rock &amp; Cave Art Sites</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Regional Summary Marker · Individual site locations protected</p><p style=\"font-size:13px;color:#CFD8DC\">As of 2013, the University of Tennessee's rock art survey has documented 94 sites across the Cumberland Plateau — 44 open-air and 50 dark-zone caves — spanning from the Middle Archaic (~4000 BCE) through the Mississippian period (AD 900–1600). Sites follow a three-tiered cosmological model: open-air pictographs in red pigment at high elevations (upper world) and cave art in black pigment at low elevations (lower world). Most individual site locations are confidential to prevent looting and disturbance. Only about 1,000 of Tennessee's 9,000+ caves have been surveyed — hundreds more sites likely await discovery.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Simek et al. 2013 (Antiquity 87: 430–446); Simek &amp; Cressler 2009; Faulkner 1986</p></div>",
+      "popupOptions": { "maxWidth": 410 },
+      "timePeriods": ["middle_archaic", "late_archaic", "formative", "late_prehistoric"],
+      "cultures": ["middle_cumberland_mississippian"],
+      "tribes": ["cherokee", "chickasaw"],
+      "rockArtStyles": ["petroglyph", "pictograph"]
+    }
+  ]
+}
