@@ -1,17 +1,41 @@
 {
   "version": 1,
-
   "rockArtLayers": [
-    "rockArt", "greatBasinRockArt", "scRockArt", "martisRockArt",
-    "pomoRockArt", "yukiRockArt", "modocRockArt", "wintuRockArt",
-    "maiduRockArt", "plateauRockArt", "mojaveRockArt", "mojaveCeremonial",
-    "hulkuhkuPicto", "diabloCupules", "chumashSacred",
-    "ecaInyoPetro", "ecaLassenPetro", "ecaModocPetro", "ecaMonoPetro", "ecaPlumasPetro",
-    "mainePetro", "mainePickto", "maineStyles",
-    "wampanoagPetro", "tbdRockArt", "ctrRockArt", "bhcRockArt",
-    "nvRockArtPaleo", "nvRockArtArchaic", "nvRockArtFremont", "nvRockArtLate",
+    "rockArt",
+    "greatBasinRockArt",
+    "scRockArt",
+    "martisRockArt",
+    "pomoRockArt",
+    "yukiRockArt",
+    "modocRockArt",
+    "wintuRockArt",
+    "maiduRockArt",
+    "plateauRockArt",
+    "mojaveRockArt",
+    "mojaveCeremonial",
+    "hulkuhkuPicto",
+    "diabloCupules",
+    "chumashSacred",
+    "ecaInyoPetro",
+    "ecaLassenPetro",
+    "ecaModocPetro",
+    "ecaMonoPetro",
+    "ecaPlumasPetro",
+    "mainePetro",
+    "mainePickto",
+    "maineStyles",
+    "wampanoagPetro",
+    "tbdRockArt",
+    "ctrRockArt",
+    "bhcRockArt",
+    "nvRockArtPaleo",
+    "nvRockArtArchaic",
+    "nvRockArtFremont",
+    "nvRockArtLate",
     "spiritRockArt",
-    "centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt",
+    "centralCoastRockArt",
+    "kernRiverRockArt",
+    "salinanSanAntonioRockArt",
     "yokutsJoaquinRidgeRockArt",
     "scPiedmontRockArt",
     "kyRockArt",
@@ -19,145 +43,296 @@
     "nePetro",
     "mallerySurvey"
   ],
-
   "rockArtGroups": {
     "PCN (Pacific Coast Network)": {
-      "layers": ["rockArt"],
+      "layers": [
+        "rockArt"
+      ],
       "color": "#D32F2F",
-      "description": "Pre-tribal tradition, 3,000–8,000 BP"
+      "description": "Pre-tribal tradition, 3,000\u20138,000 BP"
     },
     "Great Basin": {
-      "layers": ["greatBasinRockArt", "spiritRockArt"],
+      "layers": [
+        "greatBasinRockArt",
+        "spiritRockArt"
+      ],
       "color": "#FF7043",
       "description": "Coso, Lagomarsino & Sierra/Western NV"
     },
     "Nevada Timeline": {
-      "layers": ["nvRockArtPaleo", "nvRockArtArchaic", "nvRockArtFremont", "nvRockArtLate"],
+      "layers": [
+        "nvRockArtPaleo",
+        "nvRockArtArchaic",
+        "nvRockArtFremont",
+        "nvRockArtLate"
+      ],
       "color": "#FFD600",
       "description": "Paleoindian through Late Prehistoric"
     },
     "South-Central California": {
-      "layers": ["scRockArt", "chumashSacred"],
+      "layers": [
+        "scRockArt",
+        "chumashSacred"
+      ],
       "color": "#FF5722",
       "description": "Chumash & neighboring traditions"
     },
     "Chumash / Hulkuhku": {
-      "layers": ["hulkuhkuPicto"],
+      "layers": [
+        "hulkuhkuPicto"
+      ],
       "color": "#FF6F00",
       "description": "Robinson 2010 GIS landscape study"
     },
     "Northern Sierra": {
-      "layers": ["martisRockArt", "maiduRockArt"],
+      "layers": [
+        "martisRockArt",
+        "maiduRockArt"
+      ],
       "color": "#FFB300",
-      "description": "Martis Complex / Style 7, 4,000–1,500 BP"
+      "description": "Martis Complex / Style 7, 4,000\u20131,500 BP"
     },
     "Eastern California": {
-      "layers": ["ecaInyoPetro", "ecaLassenPetro", "ecaModocPetro", "ecaMonoPetro", "ecaPlumasPetro"],
+      "layers": [
+        "ecaInyoPetro",
+        "ecaLassenPetro",
+        "ecaModocPetro",
+        "ecaMonoPetro",
+        "ecaPlumasPetro"
+      ],
       "color": "#E8A87C",
-      "description": "Heizer & Baumhoff 1962 — 60+ sites across 5 counties"
+      "description": "Heizer & Baumhoff 1962 \u2014 60+ sites across 5 counties"
     },
     "Diablo Range Cupules": {
-      "layers": ["diabloCupules"],
+      "layers": [
+        "diabloCupules"
+      ],
       "color": "#8D6E63",
-      "description": "Parkman 1986 — 76+ cupule petroglyph sites"
+      "description": "Parkman 1986 \u2014 76+ cupule petroglyph sites"
     },
     "Mojave Desert": {
-      "layers": ["mojaveRockArt", "mojaveCeremonial"],
+      "layers": [
+        "mojaveRockArt",
+        "mojaveCeremonial"
+      ],
       "color": "#FF8F00",
       "description": "Geoglyphs, intaglios & desert rock art"
     },
     "Northern California": {
-      "layers": ["pomoRockArt", "yukiRockArt", "modocRockArt", "wintuRockArt"],
+      "layers": [
+        "pomoRockArt",
+        "yukiRockArt",
+        "modocRockArt",
+        "wintuRockArt"
+      ],
       "color": "#CD853F",
       "description": "Pomo, Yuki, Modoc & Wintu traditions"
     },
     "Columbia Plateau": {
-      "layers": ["plateauRockArt"],
+      "layers": [
+        "plateauRockArt"
+      ],
       "color": "#FFD700",
       "description": "Eastern Washington rock art"
     },
     "Northeast": {
-      "layers": ["tbdRockArt", "ctrRockArt", "bhcRockArt", "mainePetro", "mainePickto", "maineStyles", "wampanoagPetro"],
+      "layers": [
+        "tbdRockArt",
+        "ctrRockArt",
+        "bhcRockArt",
+        "mainePetro",
+        "mainePickto",
+        "maineStyles",
+        "wampanoagPetro"
+      ],
       "color": "#4A148C",
       "description": "Thunderbird motif, CT River, Berkshires, Maine & Wampanoag"
     },
     "Central Coast / Salinan": {
-      "layers": ["centralCoastRockArt", "kernRiverRockArt", "salinanSanAntonioRockArt"],
+      "layers": [
+        "centralCoastRockArt",
+        "kernRiverRockArt",
+        "salinanSanAntonioRockArt"
+      ],
       "color": "#D4A574",
-      "description": "Salinan, Chumash & Tübatulabal — Steward 1929, DRI 2020"
+      "description": "Salinan, Chumash & T\u00fcbatulabal \u2014 Steward 1929, DRI 2020"
     },
     "SC Piedmont": {
-      "layers": ["scPiedmontRockArt"],
+      "layers": [
+        "scPiedmontRockArt"
+      ],
       "color": "#8B6914",
-      "description": "Charles 1997–2010 — 64 sites, 1,000+ carvings across SC Upstate"
+      "description": "Charles 1997\u20132010 \u2014 64 sites, 1,000+ carvings across SC Upstate"
     },
     "Kentucky": {
-      "layers": ["kyRockArt"],
+      "layers": [
+        "kyRockArt"
+      ],
       "color": "#795548",
-      "description": "Coy, Fuller, Meadows & Swauger 1997 — 62 confirmed + 9 destroyed sites across 22 counties"
+      "description": "Coy, Fuller, Meadows & Swauger 1997 \u2014 62 confirmed + 9 destroyed sites across 22 counties"
     },
     "Tennessee / Cumberland Plateau": {
-      "layers": ["tnCumberlandRockArt"],
+      "layers": [
+        "tnCumberlandRockArt"
+      ],
       "color": "#8B4513",
-      "description": "Simek et al. 2013 — 94 sites, Mississippian dark-zone cave art & open-air pictographs"
+      "description": "Simek et al. 2013 \u2014 94 sites, Mississippian dark-zone cave art & open-air pictographs"
     },
     "Mallery 1893 Continental Survey": {
-      "layers": ["mallerySurvey"],
+      "layers": [
+        "mallerySurvey"
+      ],
       "color": "#5D4037",
-      "description": "Mallery, Picture-Writing of the American Indians (Smithsonian 1893) — foundational continental survey"
+      "description": "Mallery, Picture-Writing of the American Indians (Smithsonian 1893) \u2014 foundational continental survey"
+    },
+    "Mississippian World": {
+      "layers": [
+        "mississippianMounds",
+        "mississippianTrade"
+      ],
+      "color": "#FF6F00",
+      "description": "Cahokia, Moundville, Etowah, Spiro & the Southeastern Ceremonial Complex"
     }
   },
-
   "territoryLayers": {
-    "chumash":    ["hulkuhkuTerritory"],
-    "coastmiwok": ["langTerritories"],
-    "bayohlone":  ["bayMiwokTribelets"],
-    "yokuts":     ["yokutsTerr", "sValleyYokuts", "foothillYokuts", "yokutsNeighbors"],
-    "diablo":     ["diabloTerritory"],
-    "greatbasin": ["numicTerritories", "nvNorthernPaiuteBands", "nvWesternShoshoneBands", "nvSouthernPaiuteBands", "nvWashoeBands", "nvMojaveFortMojave"],
-    "maine":      ["maineTerritory"],
-    "wampanoag":  ["wampanoagTerritory"],
-    "plateau":    ["yakamaTerr", "spokaneTerr", "palouseTerr", "wanapumTerr", "colvilleTerr", "coeurTerr", "kalispelTerr", "nezperceTerr"],
-    "mohican":    ["mohicanTerritory"],
-    "mojave":     ["mojaveTerritories"],
-    "haudenosaunee": ["hdnTerritories"],
-    "wendat":     ["wdtTerritory"],
-    "neutral":    ["ntrTerritory"],
-    "erie":       ["erieTerritory"],
-    "scLowcountry": ["scTerritories"],
-    "cherokeeLower": ["cherokeeLowerTerr"],
-    "catawba": ["catawbaTerr"],
-    "tnCumberland": ["tnCumberlandTerr"]
+    "chumash": [
+      "hulkuhkuTerritory"
+    ],
+    "coastmiwok": [
+      "langTerritories"
+    ],
+    "bayohlone": [
+      "bayMiwokTribelets"
+    ],
+    "yokuts": [
+      "yokutsTerr",
+      "sValleyYokuts",
+      "foothillYokuts",
+      "yokutsNeighbors"
+    ],
+    "diablo": [
+      "diabloTerritory"
+    ],
+    "greatbasin": [
+      "numicTerritories",
+      "nvNorthernPaiuteBands",
+      "nvWesternShoshoneBands",
+      "nvSouthernPaiuteBands",
+      "nvWashoeBands",
+      "nvMojaveFortMojave"
+    ],
+    "maine": [
+      "maineTerritory"
+    ],
+    "wampanoag": [
+      "wampanoagTerritory"
+    ],
+    "plateau": [
+      "yakamaTerr",
+      "spokaneTerr",
+      "palouseTerr",
+      "wanapumTerr",
+      "colvilleTerr",
+      "coeurTerr",
+      "kalispelTerr",
+      "nezperceTerr"
+    ],
+    "mohican": [
+      "mohicanTerritory"
+    ],
+    "mojave": [
+      "mojaveTerritories"
+    ],
+    "haudenosaunee": [
+      "hdnTerritories"
+    ],
+    "wendat": [
+      "wdtTerritory"
+    ],
+    "neutral": [
+      "ntrTerritory"
+    ],
+    "erie": [
+      "erieTerritory"
+    ],
+    "scLowcountry": [
+      "scTerritories"
+    ],
+    "cherokeeLower": [
+      "cherokeeLowerTerr"
+    ],
+    "catawba": [
+      "catawbaTerr"
+    ],
+    "tnCumberland": [
+      "tnCumberlandTerr"
+    ]
   },
-
   "extraCultures": {
     "haudenosaunee": {
       "name": "Haudenosaunee Confederacy",
       "color": "#8B4513",
-      "meta": "Six Nations · Finger Lakes to St. Lawrence",
-      "layers": ["hdnArchSites", "hdnTerritories", "hdnSacredWater", "hdnVillages", "hdnMuseums", "hdnLost", "hdnMohawkSeq", "hdnSenecaSeq", "hdnOnondagaSites", "hdnCayugaSites", "hdnOneidaSites", "hdnNNYI", "hdnStLawrence", "hdnWaterways", "hdnSullivanPath"],
-      "regions": ["haudenosaunee"]
+      "meta": "Six Nations \u00b7 Finger Lakes to St. Lawrence",
+      "layers": [
+        "hdnArchSites",
+        "hdnTerritories",
+        "hdnSacredWater",
+        "hdnVillages",
+        "hdnMuseums",
+        "hdnLost",
+        "hdnMohawkSeq",
+        "hdnSenecaSeq",
+        "hdnOnondagaSites",
+        "hdnCayugaSites",
+        "hdnOneidaSites",
+        "hdnNNYI",
+        "hdnStLawrence",
+        "hdnWaterways",
+        "hdnSullivanPath"
+      ],
+      "regions": [
+        "haudenosaunee"
+      ]
     },
     "wendat": {
       "name": "Wendat Confederacy",
       "color": "#A0522D",
-      "meta": "Wendake · Southern Ontario · 900–1650 CE",
-      "layers": ["wdtTerritory", "wdtVillages", "wdtOssuaries", "wdtMissions", "wdtDestruction", "wdtWaterways"],
-      "regions": ["wendake"]
+      "meta": "Wendake \u00b7 Southern Ontario \u00b7 900\u20131650 CE",
+      "layers": [
+        "wdtTerritory",
+        "wdtVillages",
+        "wdtOssuaries",
+        "wdtMissions",
+        "wdtDestruction",
+        "wdtWaterways"
+      ],
+      "regions": [
+        "wendake"
+      ]
     },
     "neutral": {
       "name": "Neutral Nation (Attawandaron)",
       "color": "#6D4C41",
       "meta": "Niagara Peninsula & SW Ontario",
-      "layers": ["ntrVillages", "ntrTerritory"],
-      "regions": ["neutral"]
+      "layers": [
+        "ntrVillages",
+        "ntrTerritory"
+      ],
+      "regions": [
+        "neutral"
+      ]
     },
     "erie": {
       "name": "Erie Nation (Erielhonan)",
       "color": "#5D4037",
-      "meta": "Southern Lake Erie · pre-1656",
-      "layers": ["erieVillages", "erieTerritory"],
-      "regions": ["erie"]
+      "meta": "Southern Lake Erie \u00b7 pre-1656",
+      "layers": [
+        "erieVillages",
+        "erieTerritory"
+      ],
+      "regions": [
+        "erie"
+      ]
     }
   }
 }

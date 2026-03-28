@@ -1,0 +1,371 @@
+{
+  "source": "77-mississippian-world.json",
+  "featureCount": 22,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 38.6555, "lng": -90.0622 },
+      "radius": 6,
+      "style": {
+        "color": "#B71C1C",
+        "fillColor": "#FF6F00",
+        "fillOpacity": 0.95,
+        "weight": 3
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FF6F00;margin:0 0 8px\">⬟ CAHOKIA — The Great City</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">UNESCO World Heritage Site • Mississippian Capital • ~800–1400 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Collinsville, Madison County, Illinois (38.655°N, 90.062°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The largest pre-Columbian settlement north of Mexico. At its peak around 1050–1150 CE, Cahokia covered over 4,000 acres, encompassed ~120 earthen mounds, and hosted a population of 10,000–20,000 — larger than contemporary London. The city was laid out with clearly defined zones for administrative, ceremonial, elite, and residential functions, all oriented on cardinal directions. A 40-acre Grand Plaza anchored the center. The city traded with peoples from the Gulf of Mexico to the Great Lakes, the Appalachians to the Rockies.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Monks Mound (Mound 38):</b> The largest prehistoric earthen structure in the Western Hemisphere — 100 ft high, 951 ft long, 836 ft wide, covering 13.8 acres, containing ~25 million cubic feet of earth. Constructed in 14 stages between ~1050–1150 CE. A massive building (~100 ft long, 50 ft wide, 50 ft tall) stood at its summit — the seat of governance. Named for Trappist monks who farmed atop it in 1809–1813.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>The Stockade:</b> A 2-mile-long palisade surrounded the central precinct, rebuilt 3–4 times over 200 years. Each construction required 15,000–20,000 oak and hickory logs, 1 ft in diameter and 20 ft tall, sunk into a trench 4–5 ft deep. Bastioned guard towers allowed defensive archery.</p><p style=\"font-size:13px;color:#26C6DA\"><b>SECC Art Tradition:</b> Cahokia was the likely epicenter of the Braden artistic style — a highly refined tradition depicting Morning Star, Earthmother, plants, animals, and humans with elaborate body painting and tattooing. Braden-style objects (engraved shell cups, copper plates, effigy vessels) were distributed to regional centers across the eastern half of North America.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Illinois State Historic Site. 2,200 acres protected, 72 of ~80 remaining mounds. Interpretive Center (undergoing renovation). Free admission. Augmented reality app available.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(255,111,0,0.3);padding-top:4px\">Sources: Pauketat 2009, 2010; Schilling 2013; UNESCO WHS Nomination; Fowler 1997; cahokiamounds.org</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Cahokia"],
+        "tribes": ["Osage", "Illini"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 38.6570, "lng": -90.0740 },
+      "radius": 3,
+      "style": {
+        "color": "#FF6F00",
+        "fillColor": "#FFD600",
+        "fillOpacity": 0.9,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD600;margin:0 0 8px\">☉ Cahokia Woodhenge</h3><p style=\"font-size:12px;color:#FFD54F;margin:0 0 6px\">Solar Calendar • ~900–1100 CE • Five successive timber circles</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> ~850 m west of Monks Mound (38.657°N, 90.074°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A series of large timber circles serving as a solar calendar — the most important astronomical monument in pre-Columbian North America north of Mexico. Five successive Woodhenges were built over ~200 years, each larger than the last with 12 more posts. Woodhenge III (reconstructed 1985): 48 posts, 410 ft diameter, posts set at 7°30' intervals. At the equinoxes, the sun rises due east — and from the center post, it appears to emerge from the front of Monks Mound a half-mile away. The winter solstice sunrise aligns with Fox Mound (Mound 60) across the Grand Plaza. Traces of red ochre on posts suggest they were painted. Discovered by Dr. Warren Wittry in the 1960s during salvage archaeology ahead of interstate construction.</p><p style=\"font-size:13px;color:#26C6DA\"><b>Cosmological significance:</b> The cross-in-circle motif found on ceremonial beakers is a stylized depiction of Woodhenge — some examples include markers at winter solstice positions. The alignment of Woodhenge, Monks Mound, and the Grand Plaza created a sacred cosmological axis that unified celestial observation with political power.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(255,214,0,0.3);padding-top:4px\">Sources: Wittry 1977; Iseminger 1985; Fowler 1996 (Wisconsin Archaeologist 77:3-4); Rolingson & Sherrod 1987</p></div>",
+      "popupOptions": { "maxWidth": 440 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Cahokia"],
+        "siteType": "astronomical observatory"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 38.6490, "lng": -90.0620 },
+      "radius": 3,
+      "style": {
+        "color": "#B71C1C",
+        "fillColor": "#E53935",
+        "fillOpacity": 0.9,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#E53935;margin:0 0 8px\">⚱ Mound 72 — The Birdman Burial</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Ridgetop Mortuary Mound • ~1050 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> ~850 m south of Monks Mound (38.649°N, 90.062°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The most dramatic mortuary discovery at Cahokia. Contains 272 individuals in 25 separate burial deposits. The central burial: a man laid on a blanket of 20,000+ marine shell beads arranged in the shape of a falcon or thunderbird. Surrounding him: caches of hundreds of unused projectile points (15 distinct styles from across the Midwest), chunkey stones, mica sheets, copper-covered wooden staffs, and 800+ arrowheads in a single bundle. Nearby: mass graves of ~53 young women (ages 15–25, likely sacrificed) and ~39 men (some with heads and hands removed). The 'Birdman' figure likely represents a paramount leader whose burial was accompanied by ritual human sacrifice — an event witnessed in living memory among the Natchez in 1725 when Tattooed Serpent died.</p><p style=\"font-size:13px;color:#26C6DA\"><b>SECC Connection:</b> The falcon/thunderbird bead blanket connects directly to the Falcon Warrior / Morning Star figure central to Southeastern Ceremonial Complex iconography — found on shell gorgets, copper plates, and ceramic vessels across the Mississippian world.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(229,57,53,0.3);padding-top:4px\">Sources: Fowler et al. 1999; Pauketat 2004, 2010; Brown 2003; Rose 1999</p></div>",
+      "popupOptions": { "maxWidth": 440 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Cahokia", "SECC"],
+        "siteType": "mortuary mound"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 33.0040, "lng": -87.6320 },
+      "radius": 5,
+      "style": {
+        "color": "#4A148C",
+        "fillColor": "#7B1FA2",
+        "fillOpacity": 0.95,
+        "weight": 3
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#CE93D8;margin:0 0 8px\">⬟ MOUNDVILLE — The Necropolis</h3><p style=\"font-size:12px;color:#BA68C8;margin:0 0 6px\">National Historic Landmark • Second-Largest Mississippian Center • ~1000–1450 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Black Warrior River, Hale County, Alabama (33.004°N, 87.632°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The second-largest Mississippian site after Cahokia. A 300-acre village on a river bluff, with 29 platform mounds surrounding a rectangular plaza. Protected on three sides by a bastioned wooden palisade; the river bluff formed the fourth. The largest mounds faced north; mounds decreased in size clockwise and counterclockwise toward the south — an architectural sociogram encoding the ranked clan hierarchy.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>From City to Necropolis:</b> Founded ~1120 CE, rising rapidly from local to regional center. By ~1300 CE, the population dramatically diminished, the number of burials increased, and the palisade walls were demolished. Moundville transformed from a living city into a regional cemetery — a necropolis where the dead of surrounding communities were brought for burial in the mounds. By the 1500s, most of the site was abandoned.</p><p style=\"font-size:13px;color:#26C6DA\"><b>SECC Art:</b> Moundville produced extraordinary engraved pottery, shell gorgets, copper ornaments, and stone palettes. Motifs include the hand-and-eye (weeping eye), winged serpent, skull-and-bones, and forked-eye falcon warrior. In 2021, the NAGPRA Review Committee found cultural affiliation with seven Muskogean-speaking tribes. In 1980, 264 pottery vessels (one-fifth of the collection) were stolen from the Erskine Ramsay Repository; three ceremonial bowls were anonymously returned in 2018.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> University of Alabama Archaeological Park. Jones Archaeological Museum (remodeled 2010). Annual Moundville Native American Festival.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(123,31,162,0.3);padding-top:4px\">Sources: Knight & Steponaitis 1998; Welch 1991; Peebles 1971; Lupton map 1869; Moore 1906; UA Museums</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Moundville"],
+        "tribes": ["Muscogee Creek"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 34.1260, "lng": -84.8060 },
+      "radius": 5,
+      "style": {
+        "color": "#1B5E20",
+        "fillColor": "#43A047",
+        "fillOpacity": 0.95,
+        "weight": 3
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#81C784;margin:0 0 8px\">⬟ ETOWAH — The Warrior City</h3><p style=\"font-size:12px;color:#A5D6A7;margin:0 0 6px\">National Historic Landmark • Most Intact Mississippian Site in the Southeast • ~1000–1550 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Etowah River, Bartow County, Georgia (34.126°N, 84.806°W)</p><p style=\"font-size:13px;color:#CFD8DC\">54 acres on the north shore of the Etowah River, occupied in three phases across 550 years. Multi-layered fortification: outer band of nut tree orchards (to prevent flaming arrows), a 9–10 ft deep moat (doubling as flood drainage), and a palisade of 12 ft logs with archer guard towers every 80 ft. Battled for regional hegemony with Moundville over the Alabama River basin.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Mound C Burials:</b> Warren Moorehead's 1925 excavation of Mound C revealed an extraordinary cache of Mississippian burial goods — repousse copper plates depicting falcon warriors, paired ancestor stone statues (cross-legged men and kneeling women), brightly colored textiles preserved by copper contact, elaborate hairstyles, and visible sex organs on female statues. The stone statues are unique to Etowah and represent lineage ancestors. Over 100 stone fish weirs have been found along the Etowah River — V-shaped rock structures used to pen and channel catfish, drum, and gar.</p><p style=\"font-size:13px;color:#26C6DA\"><b>SECC Art:</b> Etowah copper plates are among the most important SECC artifacts ever found. The 'Rogan Plates' (copper repousse) show falcon warriors with forked-eye surround, feathered capes, and ceremonial maces. These, combined with Cahokia, Moundville, and Spiro collections, defined the Southeastern Ceremonial Complex.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Georgia State Historic Site. Museum, nature trails, fishing on Etowah River. Restored rock weir on site.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(67,160,71,0.3);padding-top:4px\">Sources: Moorehead 1932; King 2003; Larson 1971; Smith 2000; Georgia DNR; Kelly (UGA)</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Etowah"],
+        "tribes": ["Muscogee Creek", "Cherokee"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 35.2440, "lng": -94.6190 },
+      "radius": 5,
+      "style": {
+        "color": "#E65100",
+        "fillColor": "#FF9800",
+        "fillOpacity": 0.95,
+        "weight": 3
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFB74D;margin:0 0 8px\">⬟ SPIRO — The Gateway</h3><p style=\"font-size:12px;color:#FFCC80;margin:0 0 6px\">NRHP Listed • Westernmost Mississippian Outpost • ~800–1450 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Arkansas River, Le Flore County, Oklahoma (35.244°N, 94.619°W)</p><p style=\"font-size:13px;color:#CFD8DC\">150 acres with 12 earthen mounds on the Arkansas River floodplain. The westernmost outpost of the Mississippian world, Spiro was a gateway town that funneled resources from the Great Plains to the eastern ceremonial centers and received valuable goods in return. Unlike Cahokia, Moundville, and Etowah, Spiro was not palisaded — suggesting a different kind of power: commercial and ceremonial rather than military.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Craig Mound — 'King Tut of the Arkansas Valley':</b> In 1933, the Pocola Mining Company bought rights to tunnel into Craig Mound for artifacts. They exposed a unique hollow burial chamber — an airtight cavity that had preserved extraordinary perishable materials: textiles, feathers, fur, lace, basketry. Over 600 burials were found. Trade goods from across the continent: copper from the Great Lakes, shell beads from the Gulf of California, conch shell from the Gulf of Mexico. Oklahoma passed some of the nation's first archaeological protection laws to stop the looting (1935).</p><p style=\"font-size:13px;color:#26C6DA\"><b>SECC Art:</b> Spiro yielded the largest collection of sacred SECC objects deposited at a single site in North America. Engraved conch shell cups, copper plates, cedar masks, stone effigy pipes. The 'Great Mortuary' preserved materials found nowhere else — a Mississippian time capsule. Objects show the full iconographic program: falcon warriors, bi-lobed arrows, chunkey players, weeping eyes, feathered serpents.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Descendant peoples:</b> The Spiro culture is ancestral to Caddoan-speaking peoples — modern Caddo, Wichita, Pawnee, and Arikara. Spiro's four phases: Evans (950–1100), Harlan (1100–1250), Norman (1250–1350), Spiro (1350–1450).</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Oklahoma Historical Society. Spiro Mounds Archaeological Center. Interpretive trail system. Special tours at solstices and equinoxes.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(255,152,0,0.3);padding-top:4px\">Sources: Brown 1996; La Vere 2007; Hamilton et al. 1974; Peterson et al.; OK Historical Society; spiromounds.com</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Spiro", "Caddo"],
+        "tribes": ["Caddo", "Wichita"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 31.5480, "lng": -91.3950 },
+      "radius": 4,
+      "style": {
+        "color": "#880E4F",
+        "fillColor": "#AD1457",
+        "fillOpacity": 0.9,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#F48FB1;margin:0 0 8px\">⬟ Grand Village of the Natchez</h3><p style=\"font-size:12px;color:#F8BBD0;margin:0 0 6px\">National Historic Landmark • Last Living Mississippian Chiefdom • ~700–1731 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> St. Catherine Creek, Adams County, Mississippi (31.548°N, 91.395°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The Natchez were the last Mississippian chiefdom with complex hierarchical characteristics to survive into the European colonial period — a living window into the Mississippian world that had collapsed elsewhere centuries earlier. The Grand Village: six mounds along St. Catherine Creek. The Great Sun (paramount chief) lived atop one mound; Tattooed Serpent (war chief, the Great Sun's brother) lived adjacent to the plaza. Two 'temple' mounds housed burials of chiefs and high-ranking officials, with a perpetual sacred flame.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Witnessed by the French:</b> Antoine-Simon Le Page du Pratz lived among the Natchez for years, learning their language and befriending Tattooed Serpent. In 1725, he witnessed the Tattooed Serpent's funeral: two wives, a sister (La Glorieuse), his first warrior, doctor, head servant and the servant's wife, nurse, and a craftsman voluntarily died to accompany him. Retainers had faces painted red and were given large doses of nicotine or Jimson weed before ritual strangulation. The chief's body was carried to the temple on a cedar-pole litter. This eyewitness account is directly compared to the archaeological evidence at Cahokia's Mound 72.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Social hierarchy:</b> Matrilineal descent — the 'White Woman' (senior female Sun) anchored the royal line. Great Sun had absolute authority; Tattooed Serpent oversaw war and diplomacy. Suns, Nobles, Honored, and Commoners (Stinkards). Suns were required to marry commoners. The Natchez language is a linguistic isolate.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Destruction:</b> The Natchez Revolt of 1729 against Fort Rosalie ended with French retaliation that destroyed the nation. Survivors scattered to Cherokee, Creek, Choctaw, and Seminole nations. Some were enslaved and shipped to Saint-Domingue. Natchez descendants today: Natchez Nation (confederate of Muscogee Creek Nation, OK), Eastern Band Cherokee, Seminole Tribe of Oklahoma.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Mississippi DAHP. 128-acre site with museum, walking trails, reconstructed house. Emerald Mound (NHL) nearby.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(173,20,87,0.3);padding-top:4px\">Sources: Barnett 2006, 2012; du Pratz 1758/1774; Brown (DAH); Milne 2015; 64parishes.org; MS DAHP</p></div>",
+      "popupOptions": { "maxWidth": 440 },
+      "tags": {
+        "timePeriods": ["Mississippian", "Contact Period"],
+        "cultures": ["Mississippian", "Natchez", "Plaquemine"],
+        "tribes": ["Natchez"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 31.4320, "lng": -91.3410 },
+      "radius": 3,
+      "style": {
+        "color": "#880E4F",
+        "fillColor": "#C62828",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#EF9A9A;margin:0 0 8px\">⬟ Emerald Mound</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">National Historic Landmark • Plaquemine/Natchez • ~1250–1600 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Adams County, Mississippi (31.432°N, 91.341°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Second-largest ceremonial mound in the US (after Monks Mound). An immense platform mound — 770 ft x 435 ft at the base, 35 ft high — with two secondary mounds atop the platform. Ancestral to the Natchez, built by the Plaquemine culture. The Natchez used this as their primary ceremonial center before relocating to the Grand Village. Located along the Natchez Trace Parkway. NPS managed.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(198,40,40,0.3);padding-top:4px\">Sources: Cotter 1951; NPS Natchez Trace; Brain 1978</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Plaquemine", "Natchez"],
+        "tribes": ["Natchez"],
+        "siteType": "platform mound"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 37.0050, "lng": -88.5430 },
+      "radius": 3,
+      "style": {
+        "color": "#FF6F00",
+        "fillColor": "#FFB300",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD54F;margin:0 0 8px\">⬟ Kincaid Mounds</h3><p style=\"font-size:12px;color:#FFE082;margin:0 0 6px\">Mississippian Regional Center • Cumberland Valley • ~1000–1400 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Brookport, Massac County, Illinois (37.005°N, 88.543°W)</p><p style=\"font-size:13px;color:#CFD8DC\">19 mounds in the Ohio-Mississippi confluence region — the most notable mound site in the Cumberland area. Palisaded, with close trading relationship to Cahokia. The Cumberland region had one of the densest concentrations of Mississippian mound sites. Subsistence: deer, bear, elk, turkey, eastern box turtle; corn, sunflowers, squash, beans, hickory nuts. Access to salt and mineral springs made this a powerful trade zone.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(255,179,0,0.3);padding-top:4px\">Sources: Cole et al. 1951; Butler 1991; spiromounds.com/exhibit</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 32.8440, "lng": -83.6070 },
+      "radius": 3,
+      "style": {
+        "color": "#1B5E20",
+        "fillColor": "#66BB6A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#A5D6A7;margin:0 0 8px\">⬟ Ocmulgee Mounds</h3><p style=\"font-size:12px;color:#C8E6C9;margin:0 0 6px\">National Historical Park • 12,000 Years of Continuous Occupation</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Macon, Bibb County, Georgia (32.844°N, 83.607°W)</p><p style=\"font-size:13px;color:#CFD8DC\">One of the most continuously occupied sites in North America — 12,000 years spanning Paleoindian through Mississippian. Major Mississippian center with Great Temple Mound, Lesser Temple Mound, Funeral Mound, and a reconstructed earthlodge with original clay floor. The earthlodge (circular, ~42 ft diameter) contained a raised eagle-shaped platform with 47 seats — believed to be a council chamber. Sacred to both Muscogee Creek and Cherokee peoples. Designated National Monument 1936; became National Historical Park 2019 with Ocmulgee Mounds National Historical Park and Preserve Act.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(102,187,106,0.3);padding-top:4px\">Sources: Fairbanks 1956; NPS; Kelly (UGA); Williams & Shapiro 1990</p></div>",
+      "popupOptions": { "maxWidth": 420 },
+      "tags": {
+        "timePeriods": ["Paleoindian", "Archaic", "Woodland", "Mississippian"],
+        "cultures": ["Mississippian"],
+        "tribes": ["Muscogee Creek"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 43.0720, "lng": -88.8630 },
+      "radius": 3,
+      "style": {
+        "color": "#FF6F00",
+        "fillColor": "#FFA726",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFB74D;margin:0 0 8px\">⬟ Aztalan</h3><p style=\"font-size:12px;color:#FFCC80;margin:0 0 6px\">National Historic Landmark • Northernmost Mississippian Outpost • ~1050–1200 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Crawfish River, Jefferson County, Wisconsin (43.072°N, 88.863°W)</p><p style=\"font-size:13px;color:#CFD8DC\">The northernmost outpost of Mississippian culture — a possible Cahokia colony or trading post on the Crawfish River. Palisaded village with platform mounds, built during Cahokia's peak. Contains both Mississippian and Late Woodland (Effigy Mound culture) artifacts, suggesting interaction between the two cultures. Evidence of long-distance trade in copper, marine shell, and other exotic materials. Abandoned ~1200 CE. Named by early settlers who mistakenly attributed it to the Aztecs. Wisconsin State Park since 1952.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(255,167,38,0.3);padding-top:4px\">Sources: Barrett 1933; Richards 1992; Birmingham & Goldstein 2005; WI Historical Society</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Cahokia"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 37.9310, "lng": -87.4500 },
+      "radius": 3,
+      "style": {
+        "color": "#FF6F00",
+        "fillColor": "#FFA000",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFB74D;margin:0 0 8px\">⬟ Angel Mounds</h3><p style=\"font-size:12px;color:#FFCC80;margin:0 0 6px\">National Historic Landmark • Ohio River Chiefdom • ~1050–1400 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Ohio River, Vanderburgh County, Indiana (37.931°N, 87.450°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A major Mississippian chiefdom center on the Ohio River, ~100 acres with 11 mounds around a central plaza. Palisaded with bastions. Population ~1,000 at its peak. Likely the political center for a region of scattered farmsteads and hamlets. The largest site in Indiana. Inhabited for ~350 years before being abandoned in the early 1400s — possibly due to climate change (Little Ice Age) or political disruption. Indiana State Historic Site with interpretive center.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(255,160,0,0.3);padding-top:4px\">Sources: Black 1967; Monaghan & Peebles 2010; IN DNR</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 33.2380, "lng": -90.8520 },
+      "radius": 3,
+      "style": {
+        "color": "#4A148C",
+        "fillColor": "#9C27B0",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#CE93D8;margin:0 0 8px\">⬟ Winterville Mounds</h3><p style=\"font-size:12px;color:#E1BEE7;margin:0 0 6px\">Mississippi State Park • Yazoo Delta • ~1000–1450 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Greenville, Washington County, Mississippi (33.238°N, 90.852°W)</p><p style=\"font-size:13px;color:#CFD8DC\">23 mounds in the Yazoo-Mississippi Delta, one of the most significant Mississippian sites in the Lower Mississippi Valley. Occupied ~1000–1450 CE. Like Moundville, it transitioned from a residential center to a ceremonial/mortuary site over time. Major excavations by Jeffrey Brain (1967–1968). Mississippi State Park with museum.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(156,39,176,0.3);padding-top:4px\">Sources: Brain 1989; MS DAHP</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Plaquemine"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "mississippianMounds",
+      "geometry": { "lat": 30.4760, "lng": -84.2020 },
+      "radius": 3,
+      "style": {
+        "color": "#1B5E20",
+        "fillColor": "#2E7D32",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#81C784;margin:0 0 8px\">⬟ Lake Jackson Mounds</h3><p style=\"font-size:12px;color:#A5D6A7;margin:0 0 6px\">National Historic Landmark • Fort Walton Culture • ~1050–1500 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tallahassee, Leon County, Florida (30.476°N, 84.202°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Seven mounds on the shores of Lake Jackson. Fort Walton culture — the Mississippian expression in the Florida panhandle. Elaborate burial goods including copper breast plates, shell gorgets with SECC motifs (forked-eye, bi-lobed arrow), and greenstone celts. Connects the Mississippian world to the Apalachee chiefdom encountered by de Soto in 1539. Florida State Park.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(46,125,50,0.3);padding-top:4px\">Sources: Jones 1982; Payne 1994; FL Division of Historical Resources</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Fort Walton", "Mississippian"],
+        "tribes": ["Apalachee"],
+        "siteType": "mound center"
+      }
+    },
+    {
+      "type": "polyline",
+      "layer": "mississippianTrade",
+      "geometry": [
+        { "lat": 38.655, "lng": -90.062 },
+        { "lat": 37.005, "lng": -88.543 },
+        { "lat": 37.931, "lng": -87.450 },
+        { "lat": 33.004, "lng": -87.632 },
+        { "lat": 34.126, "lng": -84.806 },
+        { "lat": 32.844, "lng": -83.607 },
+        { "lat": 30.476, "lng": -84.202 }
+      ],
+      "style": {
+        "color": "#FFD600",
+        "weight": 2,
+        "opacity": 0.5,
+        "dashArray": "8, 6"
+      },
+      "popup": "<div style=\"max-width:350px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD600;margin:0 0 8px\">Eastern Mississippian Exchange Network</h3><p style=\"font-size:13px;color:#CFD8DC\">Approximate corridor linking the major Mississippian centers along the Mississippi, Ohio, Black Warrior, Etowah, and Ocmulgee rivers. Traded goods: copper (Great Lakes), marine shell (Gulf & Atlantic coasts), mica (Appalachians), galena (Upper Mississippi), greenstone celts, chert, salt, Braden-style ceremonial objects, and chunkey stones.</p></div>",
+      "popupOptions": { "maxWidth": 370 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["SECC"],
+        "siteType": "trade route"
+      }
+    },
+    {
+      "type": "polyline",
+      "layer": "mississippianTrade",
+      "geometry": [
+        { "lat": 38.655, "lng": -90.062 },
+        { "lat": 35.244, "lng": -94.619 }
+      ],
+      "style": {
+        "color": "#FF9800",
+        "weight": 2,
+        "opacity": 0.5,
+        "dashArray": "8, 6"
+      },
+      "popup": "<div style=\"max-width:350px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FF9800;margin:0 0 8px\">Western Gateway — Cahokia to Spiro</h3><p style=\"font-size:13px;color:#CFD8DC\">The Arkansas River corridor connected Spiro to the Mississippian heartland. Spiro funneled bison meat, hides, bows, and bow wood from the Plains eastward, receiving Braden-style ceremonial objects, marine shell, and copper in return. Trade goods from as far as the Gulf of California and Rocky Mountains entered the system through Spiro.</p></div>",
+      "popupOptions": { "maxWidth": 370 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Caddo", "Mississippian"],
+        "siteType": "trade route"
+      }
+    },
+    {
+      "type": "polyline",
+      "layer": "mississippianTrade",
+      "geometry": [
+        { "lat": 38.655, "lng": -90.062 },
+        { "lat": 43.072, "lng": -88.863 }
+      ],
+      "style": {
+        "color": "#FFD600",
+        "weight": 2,
+        "opacity": 0.4,
+        "dashArray": "8, 6"
+      },
+      "popup": "<div style=\"max-width:320px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD600;margin:0 0 8px\">Northern Frontier — Cahokia to Aztalan</h3><p style=\"font-size:13px;color:#CFD8DC\">Cahokia's northernmost reach. Aztalan may have been a Cahokia colony or allied outpost on the Crawfish River in Wisconsin, bringing Mississippian mound-building culture to the Great Lakes frontier.</p></div>",
+      "popupOptions": { "maxWidth": 340 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Cahokia"],
+        "siteType": "trade route"
+      }
+    },
+    {
+      "type": "polyline",
+      "layer": "mississippianTrade",
+      "geometry": [
+        { "lat": 38.655, "lng": -90.062 },
+        { "lat": 33.238, "lng": -90.852 },
+        { "lat": 31.548, "lng": -91.395 },
+        { "lat": 31.432, "lng": -91.341 }
+      ],
+      "style": {
+        "color": "#AD1457",
+        "weight": 2,
+        "opacity": 0.5,
+        "dashArray": "8, 6"
+      },
+      "popup": "<div style=\"max-width:340px;font-family:'Crimson Text',serif\"><h3 style=\"color:#F48FB1;margin:0 0 8px\">Mississippi River Axis — Cahokia to Natchez</h3><p style=\"font-size:13px;color:#CFD8DC\">The Mississippi River itself was the central artery of the Mississippian world. From Cahokia south through Winterville and the Yazoo Delta to the Natchez Bluffs, mound centers lined the river corridor. The Natchez, last surviving Mississippian chiefdom, preserved traditions (matrilineal Sun dynasty, platform mound temples, sacred eternal flame, ritual sacrifice) that archaeologists use to interpret sites abandoned centuries earlier.</p></div>",
+      "popupOptions": { "maxWidth": 360 },
+      "tags": {
+        "timePeriods": ["Mississippian"],
+        "cultures": ["Mississippian", "Plaquemine", "Natchez"],
+        "siteType": "trade route"
+      }
+    }
+  ]
+}
