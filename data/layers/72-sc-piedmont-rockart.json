@@ -1,33 +1,2190 @@
 {
   "source": "72-sc-piedmont-rockart.json",
-  "featureCount": 3,
+  "featureCount": 66,
   "features": [
     {
-      "type": "marker",
+      "type": "circleMarker",
       "layer": "scPiedmontRockArt",
       "geometry": {
         "lat": 34.9269,
         "lng": -82.7217
       },
-      "icon": {
-        "factory": "mkPetroIcon",
+      "radius": 3,
+      "style": {
         "color": "#8B6914",
-        "size": 12
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
       },
-      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Hagood Creek Petroglyph Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee Lower Towns territory · Petroglyph Site — SC's only protected rock art</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Hagood Mill Historic Site, Pickens County (34.927°N, 82.722°W)</p><p style=\"font-size:13px;color:#CFD8DC\">South Carolina's most significant rock art site and the only publicly accessible, protected petroglyph assemblage in the state. At least 32 carvings — including 17 human figures — are incised into a large, low-lying sandstone boulder adjacent to Hagood Creek, a tributary of the Twelve Mile River. The site lies in the heart of the Cherokee Lower Towns, along the foothills of the Blue Ridge Mountains where the Keowee River drainage historically supported Cherokee settlements including Keowee, Seneca, Toxaway, and Jocassee.</p><p style=\"font-size:13px;color:#CFD8DC\">Discovered in January 2003 by Michael Bramlett, a volunteer with the South Carolina Petroglyph Survey led by SCIAA archaeologist Tommy Charles. Much of the boulder had been buried beneath a dirt road built in the 1820s, which paradoxically preserved the carvings from weathering. When Charles excavated the covered portion, he found additional human representations — mostly stick-like figures, with one notable armless figure with a filled torso. Night examination with side-scanning lights revealed further glyphs invisible in daylight.</p><p style=\"font-size:13px;color:#CFD8DC\">The figures are part of a broader pattern identified across the SC Piedmont. Charles's survey (1997–ongoing) documented 64 rock art sites and over 1,000 individual carvings across the Upstate. The circle-and-line motif found repeatedly in SC mirrors patterns identified along the Appalachian Mountains from Alabama to New York. Piedmont petroglyphs occur in two distinct landform settings: westward-facing bald rock near mountain crests (with more uniform motifs) and foothills near streams and springs (with more varied motifs). The Hagood Creek site falls in the latter category.</p><p style=\"font-size:13px;color:#CFD8DC\">Dating remains unresolved — the carvings are not amenable to radiocarbon dating and no associated artifacts have been found. Charles estimated they could range from 400 to 4,000 years old. A purpose-built museum structure now protects the petroglyphs in situ, with colored lighting to reveal the eroded carvings.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Hagood Mill Historic Site, 138 Hagood Mill Rd, Pickens — free admission, Wed–Sat 10am–4pm.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 1997, 2004, 2010 (Discovering SC's Rock Art, USC Press); SC Encyclopedia; Diaz-Granados &amp; Duncan 2004, Ch. 15; SCIAA</p></div>",
-      "popupOptions": { "maxWidth": 430 },
-      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
-      "cultures": ["cherokee"],
-      "tribes": ["cherokee"],
-      "rockArtStyles": ["petroglyph", "anthropomorph", "abstract_geometric", "incised"]
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN129 — Hagood Creek Petroglyph Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee Lower Towns territory · SC's only protected rock art</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Hagood Mill Historic Site, Pickens County (34.927°N, 82.722°W)</p><p style=\"font-size:13px;color:#CFD8DC\">South Carolina's most significant rock art site and the only publicly accessible, protected petroglyph assemblage in the state. At least 32 carvings — including 18 human figures, predominantly male — are pecked into a large, low-lying sandstone boulder adjacent to Hagood Creek, a tributary of the Twelve Mile River. The site lies in the heart of the Cherokee Lower Towns, along the foothills of the Blue Ridge Mountains.</p><p style=\"font-size:13px;color:#CFD8DC\">Discovered January 2003 by Michael Bramlett, a volunteer with the SC Petroglyph Survey, on a rainy day. Much of the boulder had been buried beneath the 1820s Pickens-to-Rosman road, which paradoxically preserved the carvings. Excavation revealed 6 additional human figures and 2 abstract petroglyphs beneath the roadbed — proving they predate the 1820s. Four buried figures are male, enclosed in individual squares with cupola/dome enclosures on top. One head has horn-like appendages. The striking 'Refrigerator Man' has a head and legs but no arms, with a rectangular filled torso. Historic carvings (initials and 'Thomas') were found on exposed portions only — none beneath the road.</p><p style=\"font-size:13px;color:#CFD8DC\">Part of a broader pattern across the SC Piedmont. Tommy Charles's survey (1997–ongoing) documented 64 rock art sites and over 1,000 individual carvings across the Upstate. The circle-and-line motif found repeatedly mirrors patterns along the Appalachian Mountains from Alabama to New York. A purpose-built museum structure now protects the petroglyphs in situ with colored lighting.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Hagood Mill Historic Site, 138 Hagood Mill Rd, Pickens — free admission, Wed–Sat 10am–4pm.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010 (Discovering SC's Rock Art, USC Press); Bramlett 2003; SC Encyclopedia; Diaz-Granados &amp; Duncan 2004, Ch. 15; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.88,
+        "lng": -82.72
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN81 — Pickens County Lowland Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Richest lowland petroglyph site in SC — 198 carvings</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Pickens County, near stream at north end of small floodplain (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Richest lowland petroglyph site in South Carolina with 198 total petroglyphs — the greatest number recorded at any lowland site. Located near a stream where a creek cascades from higher ground (a historic gristmill was later built at this location). The first prehistoric rock art site discovered during the 1997 survey, found on a rainy day.</p><p style=\"font-size:13px;color:#CFD8DC\">All prehistoric glyphs are extremely eroded and totally invisible during the day — discovered using lights at night. Motifs include 4 anthropomorph-like figures (3 in a single panel, 1 alone), 2 serpent-like forms, and 169+ abstract petroglyphs. Named glyphs include 'the keyhole,' 'the lag,' and 'the horseshoes.' Talc powder tracing revealed the full extent of the carvings. One of three 'special' lowland sites at the north end of small floodplains near low falls.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.74,
+        "lng": -83.07
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC378 — Oconee County Lowland Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · One of SC's most significant rock art sites</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Oconee County, opposite shore of stream from hillside outcrop (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">One of South Carolina's most abundant and significant rock art sites. Discovered by sheer luck — a rock protruding from a hillside with a small vertical groove running contrary to the natural horizontal orientation. After excavation using steel probes, 15 large boulders were located and uncovered. Four boulders had abstract petroglyphs and cupules considered prehistoric.</p><p style=\"font-size:13px;color:#CFD8DC\">Two anthropomorph-like figures boldly pecked into the top of a large gneiss ledge — the most boldly carved anthropomorphs recorded by the survey, visible by day regardless of light conditions. Associated cupules, a 'bird track' glyph, and abstract motifs. Cupules are incorporated into petroglyphs by connecting grooves. Rock surfaces so decomposed that a thin veneer could be removed by pinching. One of three sites where additional petroglyphs were discovered by excavating buried portions. Landowner offered the site to a heritage preservation group.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "cupule_pit_and_groove",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.5,
+        "lng": -81.97
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LU422 — Laurens County Multi-Motif Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Catawba territory · Rare combination of anthropomorphic, zoomorphic &amp; abstract carvings</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Laurens County, near a recently constructed lake (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Multi-motif lowland petroglyph site with a rare combination of anthropomorphic, zoomorphic, and abstract carvings. Two prehistoric human figures in stick form are highly eroded and totally invisible during the day until just before sunset, when low-angle light skims the rock surface.</p><p style=\"font-size:13px;color:#CFD8DC\">One carving suggestive of a quadruped and possibly another zoomorph — associated with the two human figures and several abstract motifs. Abstract petroglyphs partially inundated by a recently constructed lake — most glyphs extremely eroded, observable only at night with lights or at sunset. Other carvings are said to exist below the water. The site also has clearly visible historic petroglyphs (names, initials, dates). Trinomial from original 1997 survey article.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 1997, 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 35.0,
+        "lng": -81.9
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP13 — Spartanburg Steatite Quarry</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Catawba territory · Late Archaic steatite quarry with birdlike figure · NRHP-listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Spartanburg County, immediately by a river (approximate, NRHP-listed)</p><p style=\"font-size:13px;color:#CFD8DC\">A single human figure with birdlike attributes on the vertical wall of a steatite boulder at a huge prehistoric steatite quarry dating to the Late Archaic period (~4,000 years ago). Many stone bowls and fragments found in various stages of completion — evidence of large-scale soapstone bowl manufacturing. The figure has a well-defined body and limbs with scratches creating a birdlike feathering effect — possibly a composite carving (body incised by one person, feathering added later). Located immediately by a river, just above ground level. One of the few lowland glyphs visible by daylight without enhancement. When first reported, covered in green moss. Listed on the National Register of Historic Places.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; NRHP; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.0,
+        "lng": -81.04
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38RD668 — 'King Beetle Rock'</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Catawba territory · Zoomorphic petroglyph in Columbia</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Columbia, Richland County — thickly settled old neighborhood (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A large granite boulder in a thickly settled old neighborhood in the heart of Columbia with a beetle-like image boldly pecked into its vertical face. Locals call it 'King Beetle Rock' and older residents recall playing around it as children. The only petroglyph recorded in Richland County and one of the two southernmost petroglyphs in South Carolina. Presumed prehistoric but dating uncertain. Anomalously visible by day — the granite host rock (rather than gneiss, which hosts most SC rock art) may weather less rapidly, preserving the carving's visibility.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.72,
+        "lng": -83.1
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC184 — Tugaloo River Turtle</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Incised turtle motif — endangered by vehicle traffic</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Oconee County, immediately next to Tugaloo River (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Single turtle motif created by incising rather than pecking — unusual technique for SC rock art. Located in a precarious position immediately next to the Tugaloo River on one side and a narrow dirt road on the other. Endangered by increasing vehicle traffic — the turtle's head has been partially abraded by vehicle tires. Recorded in 1983, initially thought to be the first example of rock art in SC (actually the second, after 38GR9 in 1979). Located in the last parcel of Cherokee land ceded to South Carolina on March 22, 1816. No direct cultural affiliation with the Cherokee can be confirmed.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "incised"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 33.97,
+        "lng": -81.24
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LX273 — Lexington County Anthropomorph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Catawba territory · Southernmost SC petroglyph — narrowly escaped destruction</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Lexington County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A single anthropomorphic figure — the only rock art recorded in Lexington County. Two cupules are incorporated into the carving, one representing the 'head' and another at the pelvis. Visible during the day but difficult to photograph due to tree shadow. This site narrowly escaped destruction when a new roadway was cut through the forest for a housing development, missing the boulder by approximately ten feet. One of only two petroglyphs recorded this far south in South Carolina (the other being 'King Beetle Rock' in Columbia). Granite host rock, like 38RD668, may account for daylight visibility.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.85,
+        "lng": -82.39
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR9 — First SC Petroglyph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · First petroglyph ever recorded in South Carolina (1979)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Greenville County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">The first petroglyph ever recorded in South Carolina. Filed as a brief report in 1979 by Dr. Robert L. Stephenson, then state archaeologist and director of SCIAA. The report consists of a single photograph and site-location data. Local people called the carved stone the 'Old Indian Rock,' believing it was created by Native Americans, though some thought the carving might be Spanish in origin. This discovery, along with two others reported in 1983, was the catalyst for launching the systematic South Carolina Rock Art Survey in 1997.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; Stephenson 1979; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.86,
+        "lng": -82.4
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR303 — Spring Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Faintly incised abstract glyphs near collapsed spring alcove</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Greenville County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Discovered by chance while visiting an elderly woman's old spring site. The stone alcove over the spring had collapsed and the area was now mature forest. About 25 meters from the spring, a small boulder (156 × 55 cm) was covered with unusual faintly incised abstract petroglyphs — created by incising instead of the more common pecking technique. Accompanying the glyphs are 23 shallow holes (~5–7 mm width) that appear to have been drilled, possibly using a hollow cane, a known prehistoric drilling method.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "incised"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.84,
+        "lng": -82.38
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR320 — Church Cemetery Wall</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · 4 petroglyphs incorporated into 1786 church cemetery wall</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Greenville County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Four petroglyphs incorporated into a stone wall surrounding a church cemetery dating to 1786 (earliest marked burial 1791). Around 1932, a new portion was added using locally collected stone brought by wagon. Among the rocks were four carved stones. The builders recognized them and placed them side-by-side adjacent to the entrance gate. Three were created by pecking; the fourth possibly pecked then smoothed by rubbing. They are believed to be prehistoric — the stones were collected from the surrounding countryside, not carved in place.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.39,
+        "lng": -81.12
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38FA305 — Fairfield County Cupule Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Catawba territory · Only prolific cupule site in SC — 200+ cupules</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Fairfield County (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">The only site prolific with cupules recorded in the South Carolina Rock Art Survey. More than 200 cupules were found randomly placed on several flat, adjacent sheet rocks near ground level. One larger depression, like a mortar, is among them. Nearby elevated rocks also have cupules on tops and vertical faces. Whether these are prehistoric or historic cannot be definitively determined, but they are not consistent with modern quarrying patterns (which produce larger, uniform, in-line holes). The cupules are randomly distributed, small but variable in size, shallow, and have worn, irregular edges.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "cupule_pit_and_groove"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.9,
+        "lng": -82.75
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN122 — Highland Circle Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Hundreds of circles on sloping rock dome</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Pickens County highlands (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Hundreds of circles — and no other forms — on a sloping rock dome in the Pickens County highlands. The first site where the SC Rock Art Survey discovered petroglyphs bold enough to be visible by daylight. Circles are less numerous approaching the timberline at the top of the dome and decrease near the bottom as well. One of several similar circle sites in a relatively restricted area of Pickens County. Why so many redundant circles occur on these particular rock domes, and not on similar ones nearby, has not been determined.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.9,
+        "lng": -82.74
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN121 — Highland Spine Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Marked motif variance on narrow rock spine</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Pickens County highlands (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Located on a sharp, narrow rock spine leading to the slightly higher 'circle' sites, this highland petroglyph site is the smallest in the area but the only one exhibiting marked motif variance. Enclosed on both sides by low forest, it lacks the expansive westward vistas typical of most high-elevation sites. Most circles here have outward-radiating grooves or are dissected by interior grooves. Some are joined by grooves to other motifs, forming complexes. Several standalone petroglyphs consist of irregular squares, rectangles, and randomly meandering lines.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.91,
+        "lng": -82.73
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN127 — Highland East-Facing Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Only east-facing rock dome with petroglyphs in SC</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Pickens County highlands (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Only two petroglyphs — one a simple, faintly visible circle, the other a slightly more visible circle with six outward-radiating lines (unusual because the lines are paired in groups of two). The only circles found on an east-facing rock dome — all other highland circle sites are west-facing. Their limited number, east-facing location, and paired radiating lines set this site apart from all other high-elevation petroglyph sites.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.823,
+        "lng": -82.417
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR205</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.823,
+        "lng": -82.399
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR290</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.823,
+        "lng": -82.381
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR301</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.823,
+        "lng": -82.363
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR304</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.841,
+        "lng": -82.417
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR305</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.841,
+        "lng": -82.399
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR306</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.841,
+        "lng": -82.381
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR307</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.841,
+        "lng": -82.363
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR308</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.859,
+        "lng": -82.417
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR326</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.859,
+        "lng": -82.399
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38GR331</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Greenville County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.862,
+        "lng": -82.738
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN111</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pickens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.862,
+        "lng": -82.72
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN124</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pickens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.862,
+        "lng": -82.702
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN125</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pickens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.88,
+        "lng": -82.738
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN136</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pickens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.876,
+        "lng": -82.716
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN138</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pickens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.903,
+        "lng": -82.017
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP330</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.903,
+        "lng": -81.999
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP331</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.903,
+        "lng": -81.981
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP335</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.903,
+        "lng": -81.963
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP336</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.921,
+        "lng": -82.017
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP337</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.921,
+        "lng": -81.999
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP338</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.921,
+        "lng": -81.981
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP340</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.921,
+        "lng": -81.963
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP345</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.939,
+        "lng": -82.017
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP346</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.939,
+        "lng": -81.999
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP347</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.939,
+        "lng": -81.981
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38SP366</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Spartanburg County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.472,
+        "lng": -81.978
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LU486</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Laurens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.472,
+        "lng": -81.96
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LU487</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Laurens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.472,
+        "lng": -81.942
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LU488</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Laurens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.49,
+        "lng": -81.978
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LU489</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Laurens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.49,
+        "lng": -81.96
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LU490</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Laurens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.49,
+        "lng": -81.942
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LU507</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Laurens County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.731,
+        "lng": -83.079
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC365</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Oconee County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.731,
+        "lng": -83.061
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC383</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Oconee County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.749,
+        "lng": -83.079
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC384</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Oconee County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.749,
+        "lng": -83.061
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38OC416</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Oconee County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.381,
+        "lng": -81.129
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38FA303</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Fairfield County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.381,
+        "lng": -81.111
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38FA306</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Fairfield County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.399,
+        "lng": -81.129
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38FA307</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Fairfield County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.53,
+        "lng": -82.65
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38AN227</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Anderson County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.338,
+        "lng": -80.592
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38KE51</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Kershaw County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.7,
+        "lng": -80.78
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38LA203</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Lancaster County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.3,
+        "lng": -81.61
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38NE163</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Newberry County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.681,
+        "lng": -81.629
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38UN966</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Union County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.681,
+        "lng": -81.611
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38UN967</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Union County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 35.0,
+        "lng": -81.25
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38YK404</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">York County · Petroglyph Site</p><p style=\"font-size:13px;color:#CFD8DC\">Rock art site recorded during the South Carolina Rock Art Survey (Charles 1997–2010). Prehistoric origin. Approximate location — county-level placement only; exact coordinates restricted by SCIAA to protect sites on private land.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.89,
+        "lng": -82.73
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN102 — Highland Pictograph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Pictograph in rock shelter — red/orange ochre</p><p style=\"font-size:13px;color:#CFD8DC\">Highland pictograph in a rock shelter, painted in red/orange ochre. Located in the Table Rock / Oolenoy River area of Pickens County. Possibly the site James Mooney reported in 1891 during his ethnographic work with the Eastern Cherokee. One of only three pictograph sites recorded in South Carolina — the vast majority of SC rock art consists of petroglyphs (carved) rather than pictographs (painted).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; Mooney 1891; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.87,
+        "lng": -82.71
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38PN134 — Lowland Pictograph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cherokee territory · Lowland pictograph site</p><p style=\"font-size:13px;color:#CFD8DC\">Lowland pictograph site in Pickens County. One of only three pictograph sites recorded in South Carolina. Approximate location — county-level placement only; exact coordinates restricted by SCIAA.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "scPiedmontRockArt",
+      "geometry": {
+        "lat": 34.34,
+        "lng": -80.6
+      },
+      "radius": 2,
+      "style": {
+        "color": "#8B6914",
+        "fillColor": "#C4956A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">38KE281 — Southernmost SC Pictograph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Catawba territory · Southernmost pictograph in South Carolina — red/orange ochre</p><p style=\"font-size:13px;color:#CFD8DC\">Lowland pictograph site in Kershaw County, painted in red/orange ochre. The southernmost pictograph recorded in South Carolina. One of only three pictograph sites in the state. Approximate location — county-level placement only; exact coordinates restricted by SCIAA.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Charles 2004, 2010; SCIAA</p></div>",
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
+      "rockArtStyles": [
+        "pictograph"
+      ]
     },
     {
       "type": "polygon",
       "layer": "cherokeeLowerTerr",
       "geometry": [
-        [35.10, -83.15],[35.05, -82.75],[34.95, -82.60],[34.80, -82.55],
-        [34.60, -82.65],[34.55, -82.85],[34.55, -83.10],[34.65, -83.20],
-        [34.80, -83.25],[35.00, -83.20],[35.10, -83.15]
+        [
+          35.1,
+          -83.15
+        ],
+        [
+          35.05,
+          -82.75
+        ],
+        [
+          34.95,
+          -82.6
+        ],
+        [
+          34.8,
+          -82.55
+        ],
+        [
+          34.6,
+          -82.65
+        ],
+        [
+          34.55,
+          -82.85
+        ],
+        [
+          34.55,
+          -83.1
+        ],
+        [
+          34.65,
+          -83.2
+        ],
+        [
+          34.8,
+          -83.25
+        ],
+        [
+          35.0,
+          -83.2
+        ],
+        [
+          35.1,
+          -83.15
+        ]
       ],
       "style": {
         "color": "#C62828",
@@ -38,19 +2195,69 @@
         "pane": "scBackgroundPane"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#C62828;margin:0 0 8px\">Cherokee Lower Towns Territory</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Keowee River drainage · Oconee, Pickens, Anderson Counties</p><p style=\"font-size:13px;color:#CFD8DC\">The Cherokee Lower Towns occupied the Keowee River drainage in the Piedmont foothills of northwestern South Carolina. Principal towns included Keowee, Seneca, Toxaway, Jocassee, Estatoe, and Tomassee. The Lower Towns served as the primary interface between the Cherokee Nation and English colonial traders from Charleston. Destroyed by Colonel Andrew Williamson's expedition in 1776; many former town sites now submerged beneath Lake Keowee and Lake Jocassee.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: SC Encyclopedia; Bartram 1775–76; Wikipedia (Historic Cherokee settlements)</p></div>",
-      "popupOptions": { "maxWidth": 400 },
-      "timePeriods": ["late_prehistoric", "contact"],
-      "cultures": ["cherokee"],
-      "tribes": ["cherokee"],
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "cherokee"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
       "rockArtStyles": []
     },
     {
       "type": "polygon",
       "layer": "catawbaTerr",
       "geometry": [
-        [35.40, -81.30],[35.35, -80.70],[35.10, -80.50],[34.80, -80.55],
-        [34.60, -80.70],[34.55, -81.00],[34.60, -81.30],[34.80, -81.40],
-        [35.10, -81.45],[35.30, -81.40],[35.40, -81.30]
+        [
+          35.4,
+          -81.3
+        ],
+        [
+          35.35,
+          -80.7
+        ],
+        [
+          35.1,
+          -80.5
+        ],
+        [
+          34.8,
+          -80.55
+        ],
+        [
+          34.6,
+          -80.7
+        ],
+        [
+          34.55,
+          -81.0
+        ],
+        [
+          34.6,
+          -81.3
+        ],
+        [
+          34.8,
+          -81.4
+        ],
+        [
+          35.1,
+          -81.45
+        ],
+        [
+          35.3,
+          -81.4
+        ],
+        [
+          35.4,
+          -81.3
+        ]
       ],
       "style": {
         "color": "#6A1B9A",
@@ -61,10 +2268,21 @@
         "pane": "scBackgroundPane"
       },
       "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#6A1B9A;margin:0 0 8px\">Catawba Nation Territory</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Iswa — People of the River · Catawba River Valley</p><p style=\"font-size:13px;color:#CFD8DC\">The Catawba Nation — the only federally recognized tribe in South Carolina — inhabited the Catawba River Valley spanning the Piedmont of both Carolinas. At contact, their territory encompassed most of the SC Piedmont from the Blue Ridge foothills to the fall line. The Nation was a confederacy incorporating 20+ smaller tribes who sought protection from Iroquois raids and colonial warfare. Renowned for their warrior culture and the oldest continuously practiced pottery tradition east of the Mississippi. The 1763 reservation of 144,000 acres was reduced to 630 acres by 1850. Federal recognition restored 1993.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Catawba Indian Nation; Merrell 1989; SC Encyclopedia; UNC Catawba Project</p></div>",
-      "popupOptions": { "maxWidth": 400 },
-      "timePeriods": ["late_archaic", "formative", "late_prehistoric", "contact"],
-      "cultures": ["catawba"],
-      "tribes": ["catawba"],
+      "popupOptions": {
+        "maxWidth": 400
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "catawba"
+      ],
+      "tribes": [
+        "catawba"
+      ],
       "rockArtStyles": []
     }
   ]
