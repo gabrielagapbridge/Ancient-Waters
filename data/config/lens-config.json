@@ -192,6 +192,13 @@
       ],
       "color": "#FF6F00",
       "description": "Cahokia, Moundville, Etowah, Spiro & the Southeastern Ceremonial Complex"
+    },
+    "Archaic Midsouth Caves": {
+      "layers": [
+        "archaicCaves"
+      ],
+      "color": "#8D6E63",
+      "description": "Homsey-Messer 2015 \u2014 Gendered taskscapes, mast processing, ritual cave use"
     }
   },
   "territoryLayers": {

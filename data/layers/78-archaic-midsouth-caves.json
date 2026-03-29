@@ -1,0 +1,83 @@
+{
+  "source": "78-archaic-midsouth-caves.json",
+  "featureCount": 4,
+  "citation": "Homsey-Messer, Lara. 2015. Revisiting the Role of Caves and Rockshelters in the Hunter-Gatherer Taskscape of the Archaic Midsouth. American Antiquity 80(2):332-352. DOI: 10.7183/0002-7316.80.2.332",
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "archaicCaves",
+      "geometry": { "lat": 34.780, "lng": -87.535 },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.95,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#BCAAA4;margin:0 0 8px\">◉ Dust Cave (1Lu496)</h3><p style=\"font-size:12px;color:#D7CCC8;margin:0 0 6px\">Late Paleoindian through Middle Archaic • ~10,650–3,600 cal. B.C. • 7,000 years of occupation</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Limestone bluffs overlooking Coffee Slough, tributary of the Tennessee River, Lauderdale County, NW Alabama (34.780°N, 87.535°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A karstic cave vestibule containing over 4 vertical meters of cultural deposits — one of the most complete early cultural sequences in the Southeast. Five cultural components span from Late Paleoindian (Quad/Beaver Lake/Dalton, 10,650–9200 cal. B.C.) through Middle Archaic (Benton, 4500–3600 cal. B.C.). Chronology based on 43 radiocarbon dates. The cave became habitable at 10,600 B.P. when water tables dropped, flushing river sediment that had buried the entrance between 17,000 and 15,000 B.P. This segment of the Tennessee River contains one of the largest concentrations of Paleoindian fluted points in the Eastern U.S.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>359 recorded features</b> include: 37 human burials, 4 canine burials, 66 hearths (charcoal pits), 124 charcoal/ash concentrations, 15 ash pits, 10 rock pits (storage), 30 ash concentrations, 22 undifferentiated pits, and prepared clay surfaces. Pit hearths (~40 cm diameter, ~15 cm deep) first appear in the late Early Archaic and are associated with nut processing — microartifacts dominated by charred nutshell and spherulite ash crystals. Expedient hearths (~40 cm, <10 cm deep) used for grilling fish and possible nut parching. Prepared surfaces (1.5–3 cm thick clay) date from Paleoindian through Middle Archaic.</p><p style=\"font-size:13px;color:#FFAB91\"><b>Gendered taskscape (Homsey-Messer 2015):</b> During the Middle Archaic, Dust Cave became increasingly specialized as a mast extraction station — with intensified nut processing, pit hearths, prepared surfaces, and storage pits. Female burials outnumber male burials. Canine burials appear alongside human burials in the Middle Archaic, located on the west side of the cave where they could have been buried or deposited out of the way. Walker (2010) suggests dog burials reflect their sacred status as guardians of the afterlife. The cave simultaneously served as both a processing camp and a persistent place of ritual significance — women's daily labor of nut collection and processing imbued these spaces with meaning over millennia.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> On private land; not open to public. Excavated by University of Alabama since 1989 under Dr. Boyce Driskell. Artifacts housed at University of Tennessee Archaeological Research Laboratory.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(141,110,99,0.3);padding-top:4px\">Sources: Homsey-Messer 2015 (American Antiquity 80:332-352); Sherwood et al. 2004; Driskell 1994; Walker 2010; Hollenbach 2009</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Paleoindian", "Archaic"],
+        "cultures": ["Dalton", "Kirk", "Eva/Morrow Mountain", "Benton"],
+        "siteType": "cave"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "archaicCaves",
+      "geometry": { "lat": 34.655, "lng": -87.740 },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.95,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#BCAAA4;margin:0 0 8px\">◉ Stanfield-Worley Bluff Shelter (1Ct125)</h3><p style=\"font-size:12px;color:#D7CCC8;margin:0 0 6px\">Early Archaic through Middle Archaic • ~12 miles south of Dust Cave • Highland Rim uplands</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Sanderson Cove, tributary of Cane Creek, Colbert County, NW Alabama (34.655°N, 87.740°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A sandstone rockshelter 250 ft wide, stretching back ~55 ft under a massive overhanging rock wall, near Cane Creek. Occupied intermittently for over 8,000 years, from the Early Archaic through Mississippian periods. One of the most important prehistoric sites excavated in Alabama — it contains four Southeast cultural periods in stratigraphic sequence at a single location. Excavated 1960–1963 by the North Alabama Project (University of Alabama / Archaeological Research Association of Alabama) under David L. DeJarnette.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Feature assemblage (108 features):</b> 10 rock-filled storage pits, 58 midden-filled depressions, 18 hearths, 5 fire-hardened clay masses, 11 burials, and unidentified pits. Fire-hardened clay masses (prepared surfaces) are technologically similar to those at Dust Cave. Storage pits appear during the Middle Archaic — large rock-filled pits that Hollenbach (2009) interprets as caches for nutting stones and mortars.</p><p style=\"font-size:13px;color:#FFAB91\"><b>Mast processing site (Homsey-Messer 2015):</b> Stanfield-Worley functioned as a plant processing site during the Middle Archaic, with slightly increasing occupation intensity over time. Hickory nuts constitute ~80% of the total plant assemblage. Features overlap with Dust Cave typology at the lower end of the width/depth continuum — suggesting similar range of activities and technologies. Burials increase during Middle Archaic, paralleling Dust Cave. At least four of the sexable Middle Archaic burials at Stanfield-Worley are female.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Private property (Stanfield family). NRHP listed. 1963 excavation materials largely unstudied and unreported.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(141,110,99,0.3);padding-top:4px\">Sources: Homsey-Messer 2015; DeJarnette et al. 1962; Encyclopedia of Alabama; Hollenbach 2009</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Archaic"],
+        "cultures": ["Kirk", "Eva/Morrow Mountain"],
+        "siteType": "rockshelter"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "archaicCaves",
+      "geometry": { "lat": 34.973, "lng": -85.810 },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#6D4C41",
+        "fillOpacity": 0.95,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#BCAAA4;margin:0 0 8px\">◉ Russell Cave (1Ja940)</h3><p style=\"font-size:12px;color:#D7CCC8;margin:0 0 6px\">National Monument • ~8,500–1,000 B.P. • Early Archaic through Late Woodland</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Montague Mountain, Monteagle Limestone, Jackson County, NE Alabama (34.973°N, 85.810°W)</p><p style=\"font-size:13px;color:#CFD8DC\">One of the most significant archaeological sites in the Southeast — the most complete record of prehistoric cultures in the region. Russell Cave is formed from the dissolution of Monteagle Limestone, approximately 7 miles from the Tennessee River. Its exceptionally large main entrance was used as a shelter for over 8,000 years, from the Early Archaic (~6500 BCE) through European contact (~1650 CE). Primarily a seasonal winter shelter. Over 3 meters of cultural deposits in an entrance area approximately 33 m long and 50 m deep (1,650 m²).</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Feature assemblage:</b> Excavated by the Smithsonian Institution and National Geographic Society (1953, 1962). Feature types include hearths, U-shaped ash pits, storage pits, fire-baked prepared surfaces (Type 1B), and post holes (n=123). Storage pits first appear during the Middle Archaic. The 123 post holes indicate that Modoc-style windbreak structures were built inside the shelter — a significant difference from the other three caves in this study.</p><p style=\"font-size:13px;color:#FFAB91\"><b>Gendered taskscape:</b> Russell Cave shows fall/early winter occupation with nut processing as a significant activity. Like Dust Cave, burials appear during the transition from Early to Middle Archaic. The presence of post holes and multiple prepared surfaces suggests longer-duration occupation than the other extraction camps — Russell Cave may have functioned as both a base camp AND a mast processing site simultaneously (Homsey-Messer 2015).</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Russell Cave National Monument (NPS). 310 acres donated by National Geographic Society, established 1961. Visitor center with museum. Free admission. 7.2 miles of mapped cave (3rd longest in Alabama).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(141,110,99,0.3);padding-top:4px\">Sources: Homsey-Messer 2015; Griffin 1974; Weigel et al. 1974; NPS; Encyclopedia of Alabama</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Archaic", "Woodland"],
+        "cultures": ["Kirk", "Eva/Morrow Mountain"],
+        "siteType": "cave"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "archaicCaves",
+      "geometry": { "lat": 38.060, "lng": -89.980 },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#795548",
+        "fillOpacity": 0.95,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#BCAAA4;margin:0 0 8px\">◉ Modoc Rockshelter (11Ra5)</h3><p style=\"font-size:12px;color:#D7CCC8;margin:0 0 6px\">National Historic Landmark • ~9,000–3,000 B.P. • Over 6,000 years of occupation</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Eastern edge of the Mississippi River floodplain, Randolph County, southern Illinois (38.060°N, 89.980°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A massive sandstone overhang (Aux Vase Sandstone) along the Mississippi floodplain edge, containing two sites: the Main Shelter and the smaller West Shelter. Nearly 5 m of cultural deposits span more than 6,000 years of occupation, from ~9,000–3,000 B.P. First occupied on bedrock as soon as it became available. High artifact and feature diversity coupled with multi-season occupation, structures (post holes), and extensive storage pits indicate the Middle Archaic occupation was a multi-season residential base camp — distinct from the other three extraction camp sites.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Feature assemblage:</b> Unequivocal post-molds document that occupants built windbreaks and structures inside the shelter. A wide diversity of burned feature types including hearths, fire-baked prepared surfaces (prepared fireplaces or fired sediment layers, Type 1B), storage pits (large deep basins, Type 3C), charcoal concentrations, and post holes. Fowler (1959a) noted fire pits consistently occurred ~10 ft from the rock bluff — the heat reflected off the back wall providing warmth. The general living area was between the bluff wall and the fireplace area, with refuse disposed outside the fireplace zone.</p><p style=\"font-size:13px;color:#FFAB91\"><b>Base camp + mast processing (Homsey-Messer 2015):</b> Modoc is the only site of the four that functioned as both a base camp AND a mast extraction station simultaneously. High diversity in lithic, botanical, and faunal assemblages, coupled with structures and extensive storage, indicate multi-season occupation during late summer, fall, winter, and early summer. Hickory nuts dominate the plant assemblage (~80% at all four sites), but Modoc's ecotone location between lowland floodplain and upland forest gave occupants access to nut resources from both zones — eliminating the need for distant satellite extraction camps. Mast processing at Modoc was a prominent activity but embedded within a broader range of domestic tasks.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> National Historic Landmark. Located in Randolph County, near the Mississippi River. Fowler's 1959 excavation report remains the primary reference. Only ~30 miles south of Cahokia — the same floodplain, thousands of years apart.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(141,110,99,0.3);padding-top:4px\">Sources: Homsey-Messer 2015; Fowler 1959a, 1959b; Ahler 1993, 2004; Styles et al. 1983</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Archaic"],
+        "cultures": ["Modoc", "Middle Archaic"],
+        "siteType": "rockshelter"
+      }
+    }
+  ]
+}
