@@ -1,0 +1,296 @@
+{
+  "source": "80-eastern-karst-geology.json",
+  "featureCount": 26,
+  "description": "Geological underlay: major karst regions of the Eastern Woodlands shown as faint polygons, with significant named cave systems as subtle dots. This layer provides the geological context for why caves exist where they do — the limestone, dolomite, and sandstone bedrock that dissolution and erosion carved into the shelters and passages used by Indigenous peoples for millennia.",
+  "features": [
+    {
+      "type": "polygon",
+      "layer": "karstRegions",
+      "geometry": [
+        { "lat": 37.900, "lng": -86.600 },
+        { "lat": 37.600, "lng": -86.900 },
+        { "lat": 37.200, "lng": -87.000 },
+        { "lat": 36.800, "lng": -86.800 },
+        { "lat": 36.600, "lng": -86.400 },
+        { "lat": 36.500, "lng": -85.800 },
+        { "lat": 36.800, "lng": -85.400 },
+        { "lat": 37.200, "lng": -85.200 },
+        { "lat": 37.600, "lng": -85.400 },
+        { "lat": 37.900, "lng": -85.800 },
+        { "lat": 38.100, "lng": -86.200 },
+        { "lat": 37.900, "lng": -86.600 }
+      ],
+      "style": {
+        "color": "rgba(120,144,156,0.15)",
+        "fillColor": "rgba(120,144,156,0.06)",
+        "fillOpacity": 0.06,
+        "weight": 1,
+        "dashArray": "4, 4"
+      },
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\"><h3 style=\"color:#90A4AE;margin:0 0 6px;font-size:14px\">Interior Low Plateaus Karst</h3><p style=\"font-size:12px;color:#78909C\">Mississippian-age limestone, ~150 m thick. Home to Mammoth Cave System (580+ km), Salts Cave, and dozens of other major systems. The densest concentration of long cave systems in the world relative to the thickness of the host rock. South-central Kentucky through north-central Tennessee.</p><p style=\"font-size:11px;color:#607D8B\">Bedrock: Mississippian limestone (Ste. Genevieve, St. Louis formations)</p></div>",
+      "popupOptions": { "maxWidth": 320 },
+      "tags": { "siteType": "karst region" }
+    },
+    {
+      "type": "polygon",
+      "layer": "karstRegions",
+      "geometry": [
+        { "lat": 35.200, "lng": -87.200 },
+        { "lat": 34.600, "lng": -87.800 },
+        { "lat": 34.400, "lng": -87.600 },
+        { "lat": 34.400, "lng": -86.800 },
+        { "lat": 34.600, "lng": -86.200 },
+        { "lat": 34.800, "lng": -85.600 },
+        { "lat": 35.200, "lng": -85.400 },
+        { "lat": 35.400, "lng": -85.800 },
+        { "lat": 35.400, "lng": -86.600 },
+        { "lat": 35.200, "lng": -87.200 }
+      ],
+      "style": {
+        "color": "rgba(120,144,156,0.15)",
+        "fillColor": "rgba(120,144,156,0.06)",
+        "fillOpacity": 0.06,
+        "weight": 1,
+        "dashArray": "4, 4"
+      },
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\"><h3 style=\"color:#90A4AE;margin:0 0 6px;font-size:14px\">Tennessee Valley / Highland Rim Karst</h3><p style=\"font-size:12px;color:#78909C\">Limestone bluffs along the Tennessee River and its tributaries in NW Alabama and south-central Tennessee. Host to Dust Cave, Stanfield-Worley, Russell Cave. Tennessee has more recorded caves (10,000+) than any other state.</p><p style=\"font-size:11px;color:#607D8B\">Bedrock: Mississippian & Ordovician limestone and dolomite</p></div>",
+      "popupOptions": { "maxWidth": 320 },
+      "tags": { "siteType": "karst region" }
+    },
+    {
+      "type": "polygon",
+      "layer": "karstRegions",
+      "geometry": [
+        { "lat": 40.800, "lng": -79.200 },
+        { "lat": 39.800, "lng": -80.200 },
+        { "lat": 38.800, "lng": -80.600 },
+        { "lat": 37.800, "lng": -80.800 },
+        { "lat": 37.000, "lng": -81.200 },
+        { "lat": 36.600, "lng": -82.000 },
+        { "lat": 35.800, "lng": -83.400 },
+        { "lat": 35.200, "lng": -84.800 },
+        { "lat": 34.800, "lng": -85.600 },
+        { "lat": 34.600, "lng": -85.800 },
+        { "lat": 34.800, "lng": -86.400 },
+        { "lat": 35.400, "lng": -85.200 },
+        { "lat": 36.200, "lng": -83.800 },
+        { "lat": 37.000, "lng": -82.200 },
+        { "lat": 37.600, "lng": -80.400 },
+        { "lat": 38.200, "lng": -79.800 },
+        { "lat": 39.000, "lng": -79.400 },
+        { "lat": 39.800, "lng": -78.600 },
+        { "lat": 40.200, "lng": -78.000 },
+        { "lat": 40.600, "lng": -78.200 },
+        { "lat": 40.800, "lng": -79.200 }
+      ],
+      "style": {
+        "color": "rgba(120,144,156,0.12)",
+        "fillColor": "rgba(120,144,156,0.05)",
+        "fillOpacity": 0.05,
+        "weight": 1,
+        "dashArray": "4, 4"
+      },
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\"><h3 style=\"color:#90A4AE;margin:0 0 6px;font-size:14px\">Appalachian Valley & Ridge / Plateau Karst</h3><p style=\"font-size:12px;color:#78909C\">Extends from central Alabama to New York. The Valley and Ridge has extensive karst in Cambrian-Ordovician carbonates of the Great Valley. The Appalachian Plateaus contain world-class karst in the Mississippian Greenbrier Group (WV). Host to Meadowcroft Rockshelter, Russell Cave, and thousands of documented caves.</p><p style=\"font-size:11px;color:#607D8B\">Bedrock: Cambrian-Devonian carbonates (Valley & Ridge); Mississippian limestone (Plateaus)</p></div>",
+      "popupOptions": { "maxWidth": 320 },
+      "tags": { "siteType": "karst region" }
+    },
+    {
+      "type": "polygon",
+      "layer": "karstRegions",
+      "geometry": [
+        { "lat": 38.800, "lng": -93.600 },
+        { "lat": 38.200, "lng": -94.200 },
+        { "lat": 37.200, "lng": -94.400 },
+        { "lat": 36.200, "lng": -94.200 },
+        { "lat": 35.600, "lng": -93.600 },
+        { "lat": 35.800, "lng": -92.400 },
+        { "lat": 36.200, "lng": -91.200 },
+        { "lat": 36.800, "lng": -90.400 },
+        { "lat": 37.400, "lng": -90.000 },
+        { "lat": 38.000, "lng": -90.200 },
+        { "lat": 38.600, "lng": -90.800 },
+        { "lat": 38.800, "lng": -91.600 },
+        { "lat": 38.800, "lng": -93.600 }
+      ],
+      "style": {
+        "color": "rgba(120,144,156,0.12)",
+        "fillColor": "rgba(120,144,156,0.05)",
+        "fillOpacity": 0.05,
+        "weight": 1,
+        "dashArray": "4, 4"
+      },
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\"><h3 style=\"color:#90A4AE;margin:0 0 6px;font-size:14px\">Ozark Plateau Karst</h3><p style=\"font-size:12px;color:#78909C\">Extensive karst on limestones ringing the Ozark Dome across Missouri, northern Arkansas, and eastern Oklahoma. Missouri has 7,300+ recorded caves (second only to Tennessee). Host to Graham Cave, Rodgers Shelter, and thousands of springs. The Springfield and Salem Plateaus are the primary karst zones.</p><p style=\"font-size:11px;color:#607D8B\">Bedrock: Ordovician dolomite and Mississippian limestone</p></div>",
+      "popupOptions": { "maxWidth": 320 },
+      "tags": { "siteType": "karst region" }
+    },
+    {
+      "type": "polygon",
+      "layer": "karstRegions",
+      "geometry": [
+        { "lat": 38.400, "lng": -89.400 },
+        { "lat": 38.000, "lng": -89.800 },
+        { "lat": 37.600, "lng": -89.600 },
+        { "lat": 37.200, "lng": -89.200 },
+        { "lat": 37.400, "lng": -88.400 },
+        { "lat": 37.800, "lng": -88.000 },
+        { "lat": 38.200, "lng": -88.200 },
+        { "lat": 38.400, "lng": -88.800 },
+        { "lat": 38.400, "lng": -89.400 }
+      ],
+      "style": {
+        "color": "rgba(120,144,156,0.12)",
+        "fillColor": "rgba(120,144,156,0.05)",
+        "fillOpacity": 0.05,
+        "weight": 1,
+        "dashArray": "4, 4"
+      },
+      "popup": "<div style=\"max-width:300px;font-family:'Crimson Text',serif\"><h3 style=\"color:#90A4AE;margin:0 0 6px;font-size:14px\">Southern Illinois / Shawnee Hills Karst</h3><p style=\"font-size:12px;color:#78909C\">Karst in the Shawnee Hills and Chester Upland of southern Illinois. Sandstone and limestone shelters along the Mississippi bluffs — host to Modoc Rockshelter. This zone connects the Ozark karst to the Interior Low Plateaus across the Mississippi.</p><p style=\"font-size:11px;color:#607D8B\">Bedrock: Mississippian limestone and Aux Vase Sandstone</p></div>",
+      "popupOptions": { "maxWidth": 320 },
+      "tags": { "siteType": "karst region" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 37.187, "lng": -86.101 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Mammoth Cave System</b> — 580+ km mapped. Longest cave in the world.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 37.050, "lng": -85.960 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Fisher Ridge Cave System</b> — 200+ km. Second longest in Kentucky.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 37.950, "lng": -84.440 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Carter Caves System</b> — NE Kentucky. Multiple caves with archaeological evidence.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 38.220, "lng": -86.130 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Blue Spring Cave</b> — 55+ km. Longest cave in Indiana.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 38.295, "lng": -86.218 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Wyandotte Cave</b> — Crawford County, IN. Archaeological mineral mining.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 35.660, "lng": -85.610 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Cumberland Caverns</b> — 45+ km. Second longest in Tennessee.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 35.270, "lng": -85.900 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Craighead Caverns / Lost Sea</b> — Contains the largest underground lake in the US. Pleistocene jaguar tracks found inside.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 36.250, "lng": -83.550 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Bull Cave / English Cave System</b> — Union County, TN. 35+ km.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 37.800, "lng": -80.450 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Organ Cave System</b> — 65+ km. Longest in West Virginia. Greenbrier karst.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 37.750, "lng": -79.780 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Luray Caverns / Shenandoah Caves</b> — Famous Virginia show caves in Great Valley karst.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 38.900, "lng": -78.870 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Schoolhouse Cave / Trout Rock</b> — WV/VA border. Appalachian Valley & Ridge karst.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 40.810, "lng": -77.610 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Penn's Cave</b> — Centre County, PA. Only cave in Pennsylvania navigable by boat.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 36.870, "lng": -92.270 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Marvel Cave</b> — Stone County, MO. Ozark Plateau. Archaeological evidence of early use.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 37.140, "lng": -93.290 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Fantastic Caverns</b> — Greene County, MO. Springfield Plateau karst.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 37.670, "lng": -92.120 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Onondaga Cave</b> — Crawford County, MO. State Park. Salem Plateau karst.</div>",
+      "tags": { "siteType": "cave system" }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "caveSystems",
+      "geometry": { "lat": 36.200, "lng": -93.250 },
+      "radius": 1.5,
+      "style": { "color": "rgba(144,164,174,0.4)", "fillColor": "rgba(144,164,174,0.3)", "fillOpacity": 0.3, "weight": 1 },
+      "popup": "<div style=\"font-family:'Crimson Text',serif;font-size:12px;color:#90A4AE\"><b>Blanchard Springs Caverns</b> — Stone County, AR. Ozark National Forest. USFS managed.</div>",
+      "tags": { "siteType": "cave system" }
+    }
+  ]
+}

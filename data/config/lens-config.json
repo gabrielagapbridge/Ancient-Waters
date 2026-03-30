@@ -209,6 +209,16 @@
       ],
       "color": "#8D6E63",
       "description": "Karst geology underlay + Archaic vestibule caves + Woodland ritual deep caves"
+    },
+    "Eastern Cave Systems": {
+      "layers": [
+        "archaicCaves",
+        "ritualCaves",
+        "karstRegions",
+        "caveSystems"
+      ],
+      "color": "#3F51B5",
+      "description": "Karst geology underlay + Archaic vestibule sites + Woodland ritual deep caves"
     }
   },
   "territoryLayers": {

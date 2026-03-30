@@ -1841,7 +1841,7 @@
       "type": "layerGroup",
       "addedToMap": true,
       "dataSources": [
-        "80-karst-geology.json"
+        "80-eastern-karst-geology.json"
       ]
     },
     "karstCaves": {
@@ -1849,6 +1849,13 @@
       "addedToMap": true,
       "dataSources": [
         "80-karst-geology.json"
+      ]
+    },
+    "caveSystems": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "80-eastern-karst-geology.json"
       ]
     }
   }
