@@ -1836,6 +1836,20 @@
       "dataSources": [
         "79-ritual-caves-eastern.json"
       ]
+    },
+    "karstRegions": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "80-karst-geology.json"
+      ]
+    },
+    "karstCaves": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "80-karst-geology.json"
+      ]
     }
   }
 }

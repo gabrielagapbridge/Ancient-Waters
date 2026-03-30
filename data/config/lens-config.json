@@ -200,13 +200,15 @@
       "color": "#8D6E63",
       "description": "Homsey-Messer 2015 \u2014 Gendered taskscapes, mast processing, ritual cave use"
     },
-    "Eastern Cave Systems": {
+    "Eastern Caves & Karst": {
       "layers": [
         "archaicCaves",
-        "ritualCaves"
+        "ritualCaves",
+        "karstRegions",
+        "karstCaves"
       ],
-      "color": "#3949AB",
-      "description": "Mammoth Cave ritual underworld, Archaic taskscapes, Meadowcroft, major cave sites"
+      "color": "#8D6E63",
+      "description": "Karst geology underlay + Archaic vestibule caves + Woodland ritual deep caves"
     }
   },
   "territoryLayers": {
