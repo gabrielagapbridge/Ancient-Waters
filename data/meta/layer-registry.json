@@ -1834,7 +1834,7 @@
       "type": "layerGroup",
       "addedToMap": true,
       "dataSources": [
-        "79-ritual-deep-caves.json"
+        "79-ritual-caves-eastern.json"
       ]
     }
   }

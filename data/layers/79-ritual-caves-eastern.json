@@ -1,0 +1,159 @@
+{
+  "source": "79-ritual-caves-eastern.json",
+  "featureCount": 8,
+  "citation": "Crothers, George M. 2012. Early Woodland Ritual Use of Caves in Eastern North America. American Antiquity 77(3):524-541. Additional: Watson 1974; Adovasio et al. 1998; Chapman 1975; Faulkner 1986",
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 37.187, "lng": -86.101 },
+      "radius": 6,
+      "style": {
+        "color": "#1A237E",
+        "fillColor": "#3949AB",
+        "fillOpacity": 0.95,
+        "weight": 3
+      },
+      "popup": "<div style=\"max-width:460px;font-family:'Crimson Text',serif\"><h3 style=\"color:#7986CB;margin:0 0 8px\">◉ Mammoth Cave — Ritual Underworld</h3><p style=\"font-size:12px;color:#9FA8DA;margin:0 0 6px\">UNESCO World Heritage Site • National Park • Longest cave system in the world (~686 km)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Edmonson County, south-central Kentucky (37.187°N, 86.101°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Mammoth Cave is the longest known cave system in the world at over 426 miles (686 km) of surveyed passageways. Native Americans explored the upper three levels for over 3,000 years, from ~5,000 to ~2,000 years ago. The cave's entrances also show Archaic vestibule occupation. But the deep cave — miles of passage in total darkness — was used very differently.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Deep-cave archaeology (Crothers 2012):</b> ~6,000 m (19,700 ft) of passage systematically surveyed for archaeological remains over 12 years. 6,000+ prehistoric artifacts and features documented. Three categories: (1) <b>Lighting</b> — 58% of assemblage: torch debris of dry river cane, weed stalks, burned wood, knotted bark strips for bundling torches; (2) <b>Mining tools</b> — 12%: mussel shell scrapers, hammerstones, gourd and wooden containers, wood poles for scaling walls; (3) <b>Incidental remains</b> — 30%: cordage, twined fabric, woven grass moccasin slippers, and paleofecal specimens (24% of all artifacts).</p><p style=\"font-size:13px;color:#FFAB91\"><b>Male initiation rites (Crothers 2012):</b> Crothers argues the intensive gypsum and sulfate mineral mining in the Early Woodland period (~1200–200 cal. B.C.) was part of male rites of passage — adolescent boys being initiated into adulthood through ordeal in the cave darkness. Evidence: (1) Steroid analysis of 12 paleofecal specimens showed exclusively male testosterone-to-estradiol ratios; (2) Mirabilite and epsomite (saline laxatives) were consumed inside the cave as ritual purgatives; (3) Pollen from paleofeces includes sweetflag (Acorus americanus) — a plant whose rhizome contains α-asarone, a stimulant/hallucinogen — plus lily and iris, suggesting medicinal/psychotropic plant use; (4) Two prehistoric bodies found deep in the cave: a ~45-year-old man crushed by limestone in 1935 ('Lost John'), and a ~9-year-old boy found in fetal position in Salts Cave in 1875, both with minimal clothing; (5) Gypsum mining was the most labor-intensive activity — Crothers estimates several metric tons were removed. Possessing gypsum proved you had entered the underworld and returned.</p><p style=\"font-size:13px;color:#80DEEA\"><b>Cave art:</b> Charcoal pictographs deep inside the cave include grids, zigzags, spirals, concentric circles, lattice patterns, and rare anthropomorphic/zoomorphic figures. These match the entoptic forms (Lewis-Williams & Dowson 1988) — universal visual percepts produced by the human nervous system during altered states of consciousness induced by darkness, fatigue, hunger, and possibly psychoactive substances.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Seclusion and sensory deprivation:</b> Cave temperature is a constant ~14°C (57°F) — warm enough to prevent fatal hypothermia but cold enough to be deeply uncomfortable without clothing. Total darkness. Confusing labyrinth of passages, vertical shafts, loose rocks. No hearths or fire circles found in the deep cave — only small fires using torch remnants. The cave environment maximized the liminal experience of initiation: separation from the known world, transition through ordeal, re-emergence with new status.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Mammoth Cave National Park (NPS). UNESCO World Heritage Site (1981). Multiple cave tour options. Archaeological remains protected by federal law — visitors trained not to disturb artifacts.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(57,73,171,0.3);padding-top:4px\">Sources: Crothers 2012 (American Antiquity 77:524-541); Watson 1974; Carstens 2001; NPS; Faulkner 1986; Nelson 1917; Sobolik et al. 1996</p></div>",
+      "popupOptions": { "maxWidth": 480 },
+      "tags": {
+        "timePeriods": ["Archaic", "Woodland"],
+        "cultures": ["Early Woodland"],
+        "siteType": "ritual cave"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 37.210, "lng": -86.070 },
+      "radius": 4,
+      "style": {
+        "color": "#1A237E",
+        "fillColor": "#5C6BC0",
+        "fillOpacity": 0.9,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#9FA8DA;margin:0 0 8px\">◉ Salts Cave (15Ht4)</h3><p style=\"font-size:12px;color:#C5CAE9;margin:0 0 6px\">Part of Mammoth Cave System • Flint Ridge entrance • 4.8 km from Mammoth entrance</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Flint Ridge, Hart County, Kentucky (37.210°N, 86.070°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Salts Cave is part of the same underground system as Mammoth Cave, with its entrance 4.8 km (3 mi) away on the surface. Each entrance was used separately in prehistory. Like Mammoth, Salts Cave shows vestibule occupation AND deep-cave ritual mining. Patty Jo Watson's long-term research (Washington University in St. Louis) pioneered the analysis of paleofecal specimens here, establishing the transition from hunter-gatherer diet to plant domestication.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Paleofecal evidence:</b> Diet of the prehistoric cavers included hickory nutshell (Carya), sunflower (Helianthus annuus), marshelder (Iva annua), goosefoot (Chenopodium berlandieri), maygrass (Phalaris caroliniana), and occasional squash seeds (Cucurbita pepo). Except for hickory, all are components of the earliest horticultural complex in eastern North America — the Eastern Agricultural Complex. Schoenwetter's maygrass beer hypothesis (2001) suggests maygrass seeds were chewed, spit into containers, and fermented into an alcoholic beverage consumed during cave rituals.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Preserved remains:</b> Vestibule excavations recovered ~2,000 human bone fragments comingled with occupational debris, many showing cut marks or evidence of burning. The 'Salts Cave mummy' — a ~9-year-old boy found in 1875 deep in the cave in fetal position, without clothing, who died of hypothermia possibly exacerbated by a blow to the chest — testifies to the danger of the deep cave and the youth of some participants in the ritual activities.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Within Mammoth Cave National Park. Not on standard tour routes; archaeological areas restricted.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(57,73,171,0.3);padding-top:4px\">Sources: Crothers 2012; Watson 1969, 1974; Robbins 1971; Sobolik et al. 1996; Schoenwetter 1998, 2001</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Archaic", "Woodland"],
+        "cultures": ["Early Woodland"],
+        "siteType": "ritual cave"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 36.380, "lng": -85.680 },
+      "radius": 3,
+      "style": {
+        "color": "#1A237E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#9FA8DA;margin:0 0 8px\">◉ Big Bone Cave, Tennessee</h3><p style=\"font-size:12px;color:#C5CAE9;margin:0 0 6px\">Early Woodland gypsum mining • Cumberland Plateau</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Van Buren County, Tennessee (36.380°N, 85.680°W)</p><p style=\"font-size:13px;color:#CFD8DC\">One of at least five documented Early Woodland gypsum mining caves outside the Mammoth Cave system, indicating the ritual cave use pattern was regional, not limited to a single site. Contains evidence of intensive mineral extraction during the same period (~1200–200 cal. B.C.) as Mammoth and Salts caves. Named for the Pleistocene megafauna bones (giant ground sloth, jaguar) found in the cave during saltpeter mining in the 19th century.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(57,73,171,0.3);padding-top:4px\">Sources: Crothers 1987, 2012; TN Division of Archaeology</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Woodland"],
+        "cultures": ["Early Woodland"],
+        "siteType": "ritual cave"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 38.180, "lng": -86.225 },
+      "radius": 3,
+      "style": {
+        "color": "#1A237E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#9FA8DA;margin:0 0 8px\">◉ Wyandotte Cave, Indiana</h3><p style=\"font-size:12px;color:#C5CAE9;margin:0 0 6px\">Epsomite mining • Later Woodland/Mississippian</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Crawford County, southern Indiana (38.180°N, 86.225°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Wyandotte Cave may have been mined for epsomite (Epsom salt) — another saline laxative mineral. Associated radiocarbon dates are slightly later than Mammoth/Salts (cal A.D. 130–530 and 130–770), and no human paleofecal samples have been identified. The primary prehistoric activity appears to have been mining a large aragonite flowstone column and high quality chert. The mining activity may represent a later, non-ritual phenomenon distinct from the Early Woodland initiation pattern at Mammoth/Salts.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(57,73,171,0.3);padding-top:4px\">Sources: Crothers 2012; Munson & Munson 1990</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Woodland"],
+        "cultures": ["Woodland"],
+        "siteType": "mining cave"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 40.287, "lng": -80.494 },
+      "radius": 5,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#D84315",
+        "fillOpacity": 0.95,
+        "weight": 3
+      },
+      "popup": "<div style=\"max-width:440px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FF8A65;margin:0 0 8px\">◉ Meadowcroft Rockshelter</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">National Historic Landmark • Possibly oldest human habitation site in North America • ~16,000–19,000 B.P.</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Cross Creek (Ohio River tributary), Jefferson Township, Washington County, Pennsylvania (40.287°N, 80.494°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A sandstone rockshelter overlooking Cross Creek containing evidence of continuous human occupation for at least 16,000 years — and possibly up to 19,000 years. If the earliest dates are accurate, Meadowcroft is one of the oldest known sites of human habitation in the Americas, predating the Clovis culture by several thousand years. Excavated 1973–1989 by James Adovasio (University of Pittsburgh) using methods still considered state-of-the-art. 11 major cultural strata spanning Paleoindian through Late Prehistoric periods. Over 1 million animal remains found showing signs of processing and cooking.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Pre-Clovis controversy:</b> Artifacts from the deepest levels include the Miller Lanceolate point, bifaces, prismatic blades, and debitage. Critics argue charcoal contamination from coal deposits in the surrounding bedrock may have produced artificially old radiocarbon dates. Independent geomorphological testing found no evidence of groundwater contamination. Accelerator mass spectrometry dates support the earlier chronology. The debate remains unresolved but Meadowcroft has become the standard against which other pre-Clovis claims are measured.</p><p style=\"font-size:13px;color:#E0E0E0\"><b>Later occupations:</b> Area's earliest corn (~300s BCE) and earliest squash and pottery (~1000 BCE) found here. Also includes a reconstruction of a ~1570 CE Monongahela culture village on site.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Meadowcroft Rockshelter and Museum of Rural Life, division of the Heinz History Center. Open to public with guided tours. NHL (2005). PA Commonwealth Treasure.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(216,67,21,0.3);padding-top:4px\">Sources: Adovasio et al. 1978, 1998; Goldberg & Arpin 1999; meadowcroftrockshelter.org</p></div>",
+      "popupOptions": { "maxWidth": 460 },
+      "tags": {
+        "timePeriods": ["Paleoindian", "Archaic", "Woodland", "Late Prehistoric"],
+        "cultures": ["Pre-Clovis", "Clovis", "Archaic", "Monongahela"],
+        "siteType": "rockshelter"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 38.830, "lng": -91.620 },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.9,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#BCAAA4;margin:0 0 8px\">◉ Graham Cave</h3><p style=\"font-size:12px;color:#D7CCC8;margin:0 0 6px\">National Historic Landmark (first archaeological NHL in US, 1961) • ~10,000 B.P.</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Loutre River, Montgomery County, Missouri (38.830°N, 91.620°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A dolomite/sandstone cave with an entrance 120 ft wide and 60 ft high, containing 10,000 years of occupation. Graham Cave was the first archaeological site in the United States designated a National Historic Landmark (1961). Excavated 1949–1961 by the University of Missouri and Missouri Archaeological Society. Linked the site to Dalton and Archaic cultures. A circle of rocks suggests a council meeting area; bones of cooked animals document it as a kitchen. Now part of a 370-acre state park on the Loutre River with trails leading to the cave entrance.</p><p style=\"font-size:13px;color:#81C784\"><b>Today:</b> Graham Cave State Park (MO DNR). Trails to cave entrance; interpretive signs. Free. Fishing and camping available.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(141,110,99,0.3);padding-top:4px\">Sources: Logan 1952; Klippel 1971; Chapman 1975; O'Brien & Wood 1998; MO State Parks</p></div>",
+      "popupOptions": { "maxWidth": 420 },
+      "tags": {
+        "timePeriods": ["Paleoindian", "Archaic"],
+        "cultures": ["Dalton", "Archaic"],
+        "siteType": "cave"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 37.780, "lng": -93.330 },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:380px;font-family:'Crimson Text',serif\"><h3 style=\"color:#BCAAA4;margin:0 0 8px\">◉ Rodgers Shelter</h3><p style=\"font-size:12px;color:#D7CCC8;margin:0 0 6px\">Multi-component Archaic through Woodland • Western Ozarks</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Pomme de Terre River valley, Benton County, Missouri (37.780°N, 93.330°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A key Western Ozark site in the Pomme de Terre River valley, with deep stratified Archaic through Woodland deposits. Excavated as part of salvage archaeology ahead of Truman Dam and Reservoir construction in the 1960s–1970s. Important for establishing the cultural sequence of the western Ozarks and for evidence of early plant domestication (goosefoot, sunflower, marshelder) that connects to the broader Eastern Agricultural Complex documented in the Mammoth Cave paleofeces.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(141,110,99,0.3);padding-top:4px\">Sources: Ahler 1971; McMillan 1971; Wood & McMillan 1976</p></div>",
+      "popupOptions": { "maxWidth": 400 },
+      "tags": {
+        "timePeriods": ["Archaic", "Woodland"],
+        "cultures": ["Archaic"],
+        "siteType": "rockshelter"
+      }
+    },
+    {
+      "type": "circleMarker",
+      "layer": "ritualCaves",
+      "geometry": { "lat": 37.850, "lng": -83.640 },
+      "radius": 3,
+      "style": {
+        "color": "#1A237E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#9FA8DA;margin:0 0 8px\">◉ Newt Kash Shelter, Kentucky</h3><p style=\"font-size:12px;color:#C5CAE9;margin:0 0 6px\">Terminal Archaic • Women's ritual retreat • Menifee County</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Menifee County, eastern Kentucky (37.850°N, 83.640°W)</p><p style=\"font-size:13px;color:#CFD8DC\">A Terminal Archaic rockshelter that Claassen (2011) interprets as a women's retreat — a gendered counterpart to the male initiation caves at Mammoth and Salts. Evidence includes: (1) highly regulated, ritualized spacing of features unlike typical habitation sites; (2) nuts processed not for food but for oiling human skin and hair, polishing bone and antler items, and producing dyes and binders; (3) material correlates of menstrual seclusion, birthing, and healing activities. Excavated by Webb & Funkhouser (1936). Claassen argues that Terminal Archaic shelters in the Eastern Woodlands show gendered activity separation — deep dark caves for male initiation, light-zone shelters for female ritual — a pattern that provides critical context for understanding both Homsey-Messer's mast-processing taskscapes and Crothers' initiation caves.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(57,73,171,0.3);padding-top:4px\">Sources: Claassen 2011 (American Antiquity 76:628-641); Webb & Funkhouser 1936; Crothers 2012</p></div>",
+      "popupOptions": { "maxWidth": 420 },
+      "tags": {
+        "timePeriods": ["Archaic"],
+        "cultures": ["Terminal Archaic"],
+        "siteType": "rockshelter"
+      }
+    }
+  ]
+}
