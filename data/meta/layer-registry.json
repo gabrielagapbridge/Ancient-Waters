@@ -1829,6 +1829,13 @@
       "dataSources": [
         "78-archaic-midsouth-caves.json"
       ]
+    },
+    "ritualCaves": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "79-ritual-deep-caves.json"
+      ]
     }
   }
 }

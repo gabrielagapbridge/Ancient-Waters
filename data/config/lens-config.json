@@ -199,6 +199,14 @@
       ],
       "color": "#8D6E63",
       "description": "Homsey-Messer 2015 \u2014 Gendered taskscapes, mast processing, ritual cave use"
+    },
+    "Eastern Cave Systems": {
+      "layers": [
+        "archaicCaves",
+        "ritualCaves"
+      ],
+      "color": "#3F51B5",
+      "description": "Archaic vestibule sites (Homsey-Messer 2015) & Woodland ritual deep caves (Crothers 2012)"
     }
   },
   "territoryLayers": {
