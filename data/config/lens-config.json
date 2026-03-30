@@ -41,7 +41,8 @@
     "kyRockArt",
     "tnCumberlandRockArt",
     "nePetro",
-    "mallerySurvey"
+    "mallerySurvey",
+    "gaultonNetwork"
   ],
   "rockArtGroups": {
     "PCN (Pacific Coast Network)": {
@@ -184,6 +185,13 @@
       ],
       "color": "#5D4037",
       "description": "Mallery, Picture-Writing of the American Indians (Smithsonian 1893) \u2014 foundational continental survey"
+    },
+    "Atlantic Canada / Algonquian Network": {
+      "layers": [
+        "gaultonNetwork"
+      ],
+      "color": "#1565C0",
+      "description": "Gaulton et al. 2019 — Upper Island Cove, Kejimkujik & Algonquian rock art tradition"
     },
     "Mississippian World": {
       "layers": [

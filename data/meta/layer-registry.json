@@ -1857,6 +1857,13 @@
       "dataSources": [
         "80-eastern-karst-geology.json"
       ]
+    },
+    "gaultonNetwork": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "81-gaulton-algonquian-network.json"
+      ]
     }
   }
 }

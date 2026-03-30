@@ -1,0 +1,357 @@
+{
+  "source": "81-gaulton-algonquian-network.json",
+  "featureCount": 11,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 47.65,
+        "lng": -53.175
+      },
+      "radius": 4,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Upper Island Cove Petroglyphs (CjAh-29)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Mi’kmaq (probable) · First recorded petroglyphs on Newfoundland · c. 1690–1720 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Conception Bay, Avalon Peninsula, Newfoundland</p><p style=\"font-size:13px;color:#CFD8DC\">The first recorded Indigenous petroglyphs on the island of Newfoundland, discovered by local residents in the 1940s inside a cave-like crevice on a rocky tor about 500m west of the community. The carved panel measures only 21.1 × 18.7 cm and contains seven discrete motifs: two anthropomorphic figures (one ithyphallic with radiating head lines and a pipe motif, one skull-like 'death' figure), a vulva/fertility motif, a quadruped (likely a pony or small horse), Roman-type alphabetic script ('SBEMAP / FG MMRL'), and two abstract geometric motifs.</p><p style=\"font-size:13px;color:#CFD8DC\">The carvings were incised using a metal tool, dating them to the historic period. Stylistic comparison places the anthropomorphic and fertility motifs firmly within Algonquian rock art traditions, with close parallels to Kejimkujik Lake (Nova Scotia), Kinoomaagewaabkong/Peterborough (Ontario), and Embden (Maine). The figures face west — a cardinal direction associated with death and the land of the dead in Algonquian cosmology. The combination of Indigenous motifs with Roman-type script suggests the carver was an Algonquian person (likely Mi’kmaq) with functional literacy, possibly connected to French-Indigenous military campaigns against English settlements during King William’s War (1696–97) or Queen Anne’s War (1702–1713). Documented by the Avalon Historic Petroglyph Project (AHPP) in 2018 using photogrammetry and H-RTI imaging.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Gaulton et al. 2019, Canadian Journal of Archaeology 43:123–161</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "mikmaq"
+      ],
+      "tribes": [
+        "mikmaq"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 44.3897,
+        "lng": -65.224
+      },
+      "radius": 4,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Kejimkujik Lake Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Mi’kmaq · 500+ carvings · National Park &amp; National Historic Site (dual designation — unique in Canada)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Kejimkujik National Park, southwestern Nova Scotia</p><p style=\"font-size:13px;color:#CFD8DC\">One of the largest concentrations of petroglyphs in eastern North America, with over 500 individual carvings at four sites around Kejimkujik Lake and George Lake. Carved into soft slate outcrops along the lakeshores, depicting Mi’kmaw life and spirituality: canoes, wigwams, traditional clothing (including the distinctive peaked cap with double-curve designs), caribou, European sailing ships, horses, French soldiers, Christian symbols, and the Mi’kmaw eight-point star. The carvings primarily document Mi’kmaw culture between the 17th and 19th centuries, though some may be 800–1,000 years old.</p><p style=\"font-size:13px;color:#CFD8DC\">The site sits within the traditional Mi’kmaw district of Kespukwitk, at the hub of a river network between the Atlantic and Bay of Fundy coasts. The Mersey River canoe route through Kejimkujik was a major travel corridor for thousands of years. First documented in 1873 by Joseph More; detailed recordings by George Creed in 1887–1888. Holds the unique dual designation as both a National Park and a National Historic Site (1994) — the only site in Canada with this status for its entire landscape. Many petroglyphs are fading due to ice, acid rain, and historical vandalism. Mi’kmaw elders decided in the 1980s to let the carvings erode naturally rather than attempt artificial preservation.</p><p style=\"font-size:12px;color:#81C784\"><b>Visitor info:</b> Kejimkujik National Park — guided petroglyph tours available seasonally.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Parks Canada; Molyneaux 1984a, 1984b; Whitehead 2015; Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "contact"
+      ],
+      "cultures": [
+        "mikmaq"
+      ],
+      "tribes": [
+        "mikmaq"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 44.38,
+        "lng": -65.15
+      },
+      "radius": 3,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">McGowan Lake Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Mi’kmaq · Warriors in rank · 17th–19th century</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> McGowan Lake, east of Kejimkujik National Park, Nova Scotia</p><p style=\"font-size:13px;color:#CFD8DC\">A Mi’kmaq petroglyph site featuring a notable series of six stick figures aligned in rank, interpreted as Mi’kmaw warriors carrying staves or guns over their shoulders. Several figures are depicted with ovoid torsos and possible hair or headdresses. First documented by George Creed during his 1887–1888 recording campaign. Stylistically related to the larger Kejimkujik petroglyph corpus.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Molyneaux 1984b; Whitehead 2015:7; Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "mikmaq"
+      ],
+      "tribes": [
+        "mikmaq"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 44.73,
+        "lng": -63.66
+      },
+      "radius": 3,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Kwipek / Bedford Barrens Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Mi’kmaq · Anthropomorph &amp; fertility motifs · National Historic Site</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Bedford, near Halifax, Nova Scotia</p><p style=\"font-size:13px;color:#CFD8DC\">Mi’kmaq petroglyphs along a forested trail including an 'anthropomorph and vulva' composition interpreted as invoking spiritual power and fertility associated with the Sun — paralleling the fertility motifs at Upper Island Cove and Kejimkujik. Designated a National Historic Site in 1994 with additional protection under Nova Scotia’s Special Places Act. Following consultation, the Assembly of Nova Scotia Mi’kmaq Chiefs directed that the carvings be preserved in their natural state, with the hiking trail diverted around them. An interpretive sign in Mi’kmaq, English, and French was placed near the site.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Whitehead 1992; Gaulton et al. 2019; Ku’ku’kwes News 2015</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "contact"
+      ],
+      "cultures": [
+        "mikmaq"
+      ],
+      "tribes": [
+        "mikmaq"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 44.75,
+        "lng": -75.55
+      },
+      "radius": 2,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Roebuck Engraved Stone</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Saint Lawrence Iroquoian · Late Woodland portable art · c. 1300–1535 CE</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Roebuck, Grenville County, Ontario (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">An engraved stone from the Late Saint Lawrence Iroquoian Roebuck site bearing a human figure with lines extending from the sides of the head, interpreted as hair or a headdress. Cited as perhaps the closest stylistic parallel to the main anthropomorph at Upper Island Cove, despite the different cultural affiliation (Iroquoian rather than Algonquian) — suggesting possible cross-cultural artistic exchange in the late precontact Northeast.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "iroquoian"
+      ],
+      "tribes": [
+        "iroquoian"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 44.85,
+        "lng": -75.15
+      },
+      "radius": 2,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Dundas County 'Upside-Down' Pendant</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Iroquoian · Death symbolism · Skeletal anthropomorph &amp; owl</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> North shore of Saint Lawrence River, Dundas County, Ontario (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A pendant depicting a skeletal anthropomorph oriented upside-down on one side, with an owl on the reverse — both motifs strongly associated with death symbolism. The inversion of human and animal figures is a widespread convention among Siouan, Iroquoian, and Algonquian-speaking peoples for representing death. Cited as contextual parallel for the death/mortality symbolism at Upper Island Cove.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lenik 2016:14–15; Cooper 2005; Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "iroquoian"
+      ],
+      "tribes": [
+        "iroquoian"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 41.308,
+        "lng": -72.928
+      },
+      "radius": 2,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">New Haven Incised Cobble</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Algonquian · Late Woodland portable art · Headdress motif</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> New Haven, Connecticut (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Two armed figures incised on a cobble, thought to date to the Late Woodland period. The figures appear to be wearing headdresses, as indicated by series of short strokes extending from the tops of their heads. Cited as a comparative example for the headdress/hair motif at Upper Island Cove.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lenik 2002; Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "algonquian"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 40.7,
+        "lng": -73.62
+      },
+      "radius": 2,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Hempstead Birdstone</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Algonquian · Shamanic figures with ceremonial headdresses · Long Island</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Hempstead, Long Island, New York (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">A birdstone depicting two anthropomorphs in ceremonial regalia with tall headdresses, interpreted as representing shamans. Cited as a regional parallel for the ceremonial headdress motif at Upper Island Cove and the broader pattern of shamanic depiction in Algonquian portable and rock art.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Lenik 2002:217–218, Figure 131; Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "algonquian"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 47.72,
+        "lng": -53.17
+      },
+      "radius": 2,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Ochre Pit Cove</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Beothuk / Mi’kmaq · Annual ochre procurement site · Referenced in 1689</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Conception Bay North, Newfoundland (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Referenced in <i>The English Pilot</i> (1689) as a place where Indigenous peoples came annually to excavate red ochre: 'the Indians come every year to dig oaker to oaker them selves.' Ochre was of immense importance to both the Beothuk and Mi’kmaq — the Beothuk were historically known as 'Red Indians' precisely because of their extensive use of red ochre to coat their bodies, tools, and burial goods. Provides critical evidence that Indigenous peoples regularly visited the Conception Bay shoreline during the historic period.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Fisher and Thorton 1689:11; Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "beothuk",
+        "mikmaq"
+      ],
+      "tribes": [
+        "beothuk",
+        "mikmaq"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 47.55,
+        "lng": -53.1
+      },
+      "radius": 2,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Soldier’s Pond &amp; Thomas Pond Archaeological Sites</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Unknown precontact · Interior Avalon Peninsula · Archaic–Woodland</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Interior Avalon Peninsula, Newfoundland (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Interior archaeological sites near Conception Bay with spot finds demonstrating Indigenous occupation dating back several thousand years. Although scarce, this evidence confirms that the Avalon Peninsula was not devoid of Indigenous presence. As Gaulton et al. (2019) argue: absence of recorded evidence is not evidence of absence — Indigenous peoples moved through these landscapes in ways that colonial records seldom documented.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Tuck 1979; Steve Hull (pers. comm. 2019); Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_archaic",
+        "formative"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "gaultonNetwork",
+      "geometry": {
+        "lat": 47.533,
+        "lng": -53.214
+      },
+      "radius": 2,
+      "style": {
+        "color": "#1565C0",
+        "fillColor": "#64B5F6",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:420px;font-family:'Crimson Text',serif\"><h3 style=\"color:#1565C0;margin:0 0 8px\">Cupids Colony</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">English Colonial · First permanent colony on Conception Bay · 1610</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Cupids, Conception Bay, Newfoundland</p><p style=\"font-size:13px;color:#CFD8DC\">The first permanent English colony on Conception Bay, established in 1610 by the London and Bristol Company. Governor John Guy reported in 1612 leading a party northward by boat to Trinity Bay to trade with the Indigenous Beothuk. The colony provides essential context for the Upper Island Cove petroglyphs — Indigenous peoples (both Beothuk and later Mi’kmaq/Abenaki allied with France) moved through and around English-settled areas in ways not captured by European record-keeping.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Cadigan 2009; Gilbert 2003; Pope 2004; Gaulton et al. 2019</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "beothuk"
+      ],
+      "tribes": [
+        "beothuk"
+      ],
+      "rockArtStyles": []
+    }
+  ]
+}
