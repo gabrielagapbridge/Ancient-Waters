@@ -1871,6 +1871,13 @@
       "dataSources": [
         "82-appalachian-cave-worlds.json"
       ]
+    },
+    "vaWvRockArt": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "83-va-wv-rock-art.json"
+      ]
     }
   }
 }

@@ -42,7 +42,8 @@
     "tnCumberlandRockArt",
     "nePetro",
     "mallerySurvey",
-    "gaultonNetwork"
+    "gaultonNetwork",
+    "vaWvRockArt"
   ],
   "rockArtGroups": {
     "PCN (Pacific Coast Network)": {
@@ -235,6 +236,13 @@
       ],
       "color": "#4E342E",
       "description": "SW Virginia & East Tennessee — burial caves, pictographs, mud glyph caves, 10,500 yrs"
+    },
+    "Virginia & West Virginia": {
+      "layers": [
+        "vaWvRockArt"
+      ],
+      "color": "#4E342E",
+      "description": "VA pictographs (2 known sites) + WV petroglyphs (27 recorded) — Maslowski 2024, Swauger 1974"
     }
   },
   "territoryLayers": {

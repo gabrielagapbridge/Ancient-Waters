@@ -1,0 +1,789 @@
+{
+  "source": "83-va-wv-rock-art.json",
+  "featureCount": 26,
+  "features": [
+    {
+      "type": "circle",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 37.08,
+        "lng": -77.99
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 37.08,
+        "lng": -77.99
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#FFAB91",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FF8A65;margin:0 0 8px\">Little Mountain Pictograph Site (067-0107)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">One of only 2 pictograph sites in Virginia · NRHP 1991 · Red ochre handprint &amp; sun glyph</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Blackstone, Nottoway County, Virginia (address restricted — approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">One of only two known pictograph sites in Virginia. Three red ochre (hematite) pictographs in a small sandstone rockshelter (<15 sq meters, ceiling ~3m at mouth): (1) a left human handprint, (2) a possible 'sun glyph' or overlapping handprints, and (3) a 'turkey foot' motif ~9 ft above grade. Good to excellent condition at time of 1990 survey.</p><p style=\"font-size:13px;color:#CFD8DC\">Hranicky (1990) argued the shelter's orientation causes sunlight to illuminate the painted wall only around winter solstice — making this a potential prehistoric astronomical observatory. Historical graffiti (1887, 1897, 1903) was carefully placed to avoid the pictographs, suggesting local awareness of their significance. Archaeological testing found no prehistoric artifacts. In Nottoway (Cheroenhaka) territory — Iroquoian-speaking people whose homeland centered on the Nottoway River.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NRHP nomination (Opperman 1990/1991); Hranicky 1990; Swauger 1984; Faulkner 1986; Virginia DHR 067-0107</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [
+        "nottoway"
+      ],
+      "rockArtStyles": [
+        "pictograph",
+        "anthropomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 40.425,
+        "lng": -80.609
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#EF5350;margin:0 0 8px\">Browns Island Petroglyph (46HK8)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\"><span style='color:#EF5350'>DESTROYED / SUBMERGED</span> · First WV archaeological site ever documented (1785)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Hancock County, WV — Ohio River island opposite Weirton</p><p style=\"font-size:13px;color:#CFD8DC\">The first archaeological site ever documented in West Virginia, recorded by Benjamin Barton ca. 1785 (published 1799). 47 designs recorded by Swauger on flat sandstone at the water's edge of this Ohio River island: turtle, bear paw, bird, snake motifs. <b>Permanently inundated by the Ohio River dam system.</b> The loss of Browns Island represents the beginning of a pattern of industrial destruction of West Virginia's rock art heritage that continued for two centuries.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Barton 1799; Swauger 1974 (Rock Art of the Upper Ohio Valley); Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 40.41,
+        "lng": -80.61
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#EF5350;margin:0 0 8px\">Half Moon Site (46HK29)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\"><span style='color:#EF5350'>DESTROYED / SUBMERGED</span> · Documented July 4, 1838 by James McBride</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Hancock County, WV — Ohio River bank ~1 mile below Browns Island</p><p style=\"font-size:13px;color:#CFD8DC\">Documented by James McBride on July 4, 1838 (original drawings survive). Turtle, bear paw, rabbit tracks, bird tracks, human figures. <b>Either destroyed or permanently submerged</b> by the Ohio River dam system.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: McBride 1838; Swauger 1974; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "anthropomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 40.065,
+        "lng": -80.72
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Table Rock &amp; Timmons Farm Petroglyphs (46OH36, 46OH64)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wheeling area · Upper Ohio Valley petroglyph tradition</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Ohio County, WV — near Wheeling (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Two petroglyph sites near Wheeling surveyed by James Swauger (1960, published 1961). Part of the Upper Ohio Valley petroglyph tradition characterized by Algonquian motifs including thunderbirds, underwater panthers, and serpents.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Swauger 1960/1961, 1974; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 39.9198,
+        "lng": -80.7423
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#FFCC80",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Clifton Heights &amp; Elm Grove Petroglyphs (relocated)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\"><span style='color:#FFB74D'>RELOCATED</span> · Now at Grave Creek Mound Archaeological Complex, Moundsville</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Grave Creek Mound Archaeological Complex, 801 Jefferson Ave, Moundsville, WV</p><p style=\"font-size:13px;color:#CFD8DC\">Two petroglyphs relocated from Ohio County to the Grave Creek Mound Archaeological Complex. The Clifton Heights stone was originally from a hillside ~8 miles north of Wheeling. The Elm Grove stone was reported in 2019. Both are now on display at the museum alongside the famous Grave Creek Mound — the largest Adena burial mound in North America (69 ft tall, 295 ft diameter, built ca. 250–150 BCE).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Swauger 1974; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 39.6,
+        "lng": -79.9
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 39.6,
+        "lng": -79.9
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Hamilton Farm / Evansville Pike Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Massive cliff panel: 150 ft × 50 ft · ~50 species of animals · Full-length female figure</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Monongalia County, WV — ~4 miles from Morgantown on Evansville pike (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Massive cliff panel of white sandstone, 150 ft long by 50 ft wide, with ~50 species of animals, birds, reptiles, and fish, plus a full-length female figure and numerous animal footprints. Described by Mallery (1893) as the 'Evansville pike pictured rocks.' One of the most extensive petroglyph panels in the state.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 39.22,
+        "lng": -80.42
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 39.22,
+        "lng": -80.42
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#CE93D8",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Indian Cave Petroglyphs &amp; Pictographs (46HN1)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">NRHP 1976 · One of only 2 WV pictograph sites · Occupation AD 500–1675</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Good Hope, Harrison County, WV (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Rockshelter with 20 ft × 4 ft petroglyph panel on back wall, PLUS pictographs — making this one of only two recorded pictograph sites in West Virginia (the wet climate destroyed most painted surfaces). First reported by W.H. Holmes (Bureau of American Ethnology) in 1889. Holmes found hammerstones and worked hematite at the site.</p><p style=\"font-size:13px;color:#CFD8DC\">Pottery indicates occupation spanning AD 500–1675. Studied by Swauger in 1970; petroglyphs described as 'virtually unchanged' in the NRHP nomination. Listed on the National Register of Historic Places in 1976.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Holmes 1889; Swauger 1970, 1974; NRHP 1976; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian",
+        "fort_ancient"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "pictograph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.95,
+        "lng": -80.65
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.95,
+        "lng": -80.65
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#CE93D8",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Berlin Cave Pictograph/Petroglyph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Possibly one of only 2 WV pictograph sites · Reported by McWhorter to Mallery (1893)</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Berlin, Lewis County, WV (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Cave with pictographs reported by L.Y. McWhorter to Mallery (1893). Minimal description survives: 'pictographs in a cave.' If confirmed as a pictograph site, this would be one of only two in West Virginia. Status unknown.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.87,
+        "lng": -81.97
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.87,
+        "lng": -81.97
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Mount Pleasant Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Totemic characters at foot of hills · North side of Kanawha River</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> ~2 miles above Mount Pleasant, Mason County, WV (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Totemic characters at the foot of hills flanking the Kanawha River, north side. No detailed modern documentation. Part of the broader pattern of petroglyph placement at river crossings and ford sites throughout the Kanawha Valley.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.13,
+        "lng": -81.07
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.13,
+        "lng": -81.07
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Mount Carbon Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Cliffs near mouth of Kanawha · Near the famous Mount Carbon Stone Walls</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Opposite Mount Carbon, Fayette County border, WV (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Petroglyphs cut into sandstone cliffs near the mouth of the Kanawha River. Located near the famous Mount Carbon Stone Walls — prehistoric stone fortifications of debated origin. The proximity of petroglyphs to defensive stoneworks suggests this was a significant cultural landscape node.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian",
+        "fort_ancient"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.39,
+        "lng": -81.7
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#9E9E9E",
+        "fillOpacity": 0.45,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Charleston Area Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\"><span style='color:#EF5350'>DESTROYED</span> · Rock broken up for building construction</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> ~6 miles above Charleston, Kanawha County, WV (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Rock near the water's edge with bear outline, turkey tracks, and other markings. Tradition held this was a canoe/boat landing on a north-south trail. <b>'The rock had been broken and used in the construction of buildings'</b> — destroyed for building stone. A common fate for Kanawha Valley petroglyphs.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893; Norris (Bureau of Ethnology)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.1,
+        "lng": -81.73
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.1,
+        "lng": -81.73
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#CE93D8",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Little Coal River Pictographs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">One of only 2 WV pictograph sites · Red pigment · 'Similar to Tazewell County, Virginia'</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Boone County, WV — 6–8 miles above Coal River confluence (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Animals (deer, panther?), circles in dark red pigment on a low sandstone escarpment facing Little Coal River. Mallery noted these were 'similar in general appearance to those in Tazewell county, Virginia' — connecting the Little Coal River pictographs to the Paint Lick Mountain tradition across the state line. Already 'rather faint from disintegration of the surface' in 1893.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893; Norris (Bureau of Ethnology); Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "pictograph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.063828,
+        "lng": -81.226299
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Beards Fork Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Sandstone shelf under overhang · Animal representations · Near Mount Carbon Stone Walls</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Fayette County, WV (38.064°N, 81.226°W — precise, WV Explorer)</p><p style=\"font-size:13px;color:#CFD8DC\">Petroglyphs on sandstone shelf beneath an overhang along the left fork of Beards Fork of Loop Creek (Kanawha tributary). Also called 'Chisled Rocks' or 'Lettered Rocks.' Animal representations. Located near the Mount Carbon Stone Walls. Property of Pocahontas Surface International.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Maslowski 2024 (e-WV); WV Explorer</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian",
+        "fort_ancient"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.345,
+        "lng": -82.24
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Salt Rock Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Fort Ancient · 6-foot anthropomorph with 'weeping eye' mask · ca. AD 1550–1650</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Cabell County, WV — near Guyandotte River (~38.345°N, 82.240°W)</p><p style=\"font-size:13px;color:#CFD8DC\">Two large sandstone boulders ~100 yards from the northeast bank of the Guyandotte River. The dominant image is a <b>6-foot anthropomorph with a 'weeping eye' mask</b> — a hallmark of the Fort Ancient culture (ca. AD 1550–1650) and the broader Southeastern Ceremonial Complex. Also includes a bird figure and a hybrid deer-serpent creature.</p><p style=\"font-size:13px;color:#CFD8DC\">First documented by Squier &amp; Davis in 1846 (published 1848 in <i>Ancient Monuments of the Mississippi Valley</i> — the first publication of the Smithsonian Institution). Connected to the Gue Farm Fort Ancient village site nearby. On private property, public access prohibited.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Squier &amp; Davis 1848; Swauger 1974; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "fort_ancient"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 37.682,
+        "lng": -81.662
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Luther Elkins / Lynco / Horse Creek Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Clusters, sunburst, swastika-like pattern, turkey tracks · ca. AD 1300–1500</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Wyoming County, WV (37.682°N, 81.662°W — from historical marker)</p><p style=\"font-size:13px;color:#CFD8DC\">Low cliff near the foot of a hill overlooking upper Clear Fork of the Guyandotte River. Clusters of vertical linear and curvilinear designs, sunburst pattern, swastika-like pattern, and turkey tracks. Recorded 1964 by Oscar Mairs and Hillis Youse. Professional study in 1970 concluded: late prehistory, ca. 1300–1500 AD, by American Aborigines. Some (debunked) claims of Ogham/Irish origin have been rejected by archaeologists.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mairs &amp; Youse 1964; Maslowski 2024 (e-WV); WV Historical Marker</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "fort_ancient"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 37.82,
+        "lng": -82.3
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#FFCC80",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Dingess Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\"><span style='color:#FFB74D'>RELOCATED</span> · Found 1987 at strip mine · Now at Laurel Lake WMA</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Laurel Lake Wildlife Management Area, Lenore, Mingo County, WV (display location)</p><p style=\"font-size:13px;color:#CFD8DC\">Five panels of abstract markings found in 1987 under a rocky outcrop at a strip mine near Dingess. Transported to Laurel Lake Wildlife Management Area at Lenore for preservation. Investigated by Robert L. Pyle (Archaeological Archives, Inc.). The discovery at a strip mine site underscores how coal mining has both destroyed and occasionally revealed West Virginia's archaeological record.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Pyle; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "fort_ancient"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.844,
+        "lng": -82.137
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#FFCC80",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Panther Petroglyph / Water-Panther Stone</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\"><span style='color:#FFB74D'>RELOCATED</span> · Underwater Panther motif · Now at Tu-Endie-Wei State Park</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tu-Endie-Wei State Park, Point Pleasant, Mason County, WV (display location)</p><p style=\"font-size:13px;color:#CFD8DC\">Originally from Leon, WV, ~13 miles upstream on the Kanawha River. Depicts the Water Panther / Underwater Serpent — one of the most powerful beings in Algonquian cosmology, master of the underworld waters. The slab was once used as a staircase by a settler before its significance was recognized. Now housed in a miniature log cabin for protection at Tu-Endie-Wei State Park ('Point Pleasant' in Shawnee).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Swauger 1974; Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.4,
+        "lng": -82.56
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Ceredo Petroglyph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wayne County · Minimal documentation</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Ceredo, Wayne County, WV (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Petroglyph site near Ceredo. No detailed public description available. Part of the broader distribution of rock art sites along the Guyandotte and Ohio River drainages in southwestern West Virginia.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    },
+    {
+      "type": "circleMarker",
+      "layer": "vaWvRockArt",
+      "geometry": {
+        "lat": 38.3,
+        "lng": -82.4
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A1887F",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#4E342E;margin:0 0 8px\">Wildcat Branch Petroglyph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Wayne County · Minimal documentation</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Wayne County, WV (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Petroglyph site in Wayne County. No detailed public description available.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Maslowski 2024 (e-WV)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "algonquian"
+      ],
+      "tribes": [
+        "shawnee"
+      ],
+      "rockArtStyles": [
+        "petroglyph"
+      ]
+    }
+  ]
+}
