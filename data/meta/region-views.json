@@ -30,6 +30,7 @@
     "neutral":        {"lat":43.1,"lng":-80.0,"zoom":8},
     "erie":           {"lat":42.3,"lng":-79.5,"zoom":8},
     "florida":        {"lat":28.5,"lng":-82.0,"zoom":6},
-    "charleston":     {"lat":32.75,"lng":-80.0,"zoom":9}
+    "charleston":     {"lat":32.75,"lng":-80.0,"zoom":9},
+    "appalachianCaves": {"lat":37.08,"lng":-81.60,"zoom":9}
   }
 }

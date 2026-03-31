@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Investigations — Ancient Waters</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --earth: #2C1810; --clay: #8B4513; --sand: #D4A574;
+    --bg: #1A1208; --text: #E8DCC8; --dim: #9B8B73;
+    --accent: #FF8A65; --cave: #7986CB;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'Crimson Pro',Georgia,serif; background:var(--bg); color:var(--text); min-height:100vh; }
+  a { color:var(--sand); }
+
+  .header {
+    padding:40px 24px 20px; text-align:center;
+    background:linear-gradient(180deg, rgba(26,18,8,0.98) 0%, var(--bg) 100%);
+    border-bottom:1px solid rgba(193,154,107,0.15);
+  }
+  .header h1 { font-family:'Cinzel',serif; font-size:28px; color:var(--sand); letter-spacing:4px; text-transform:uppercase; }
+  .header p { font-size:14px; color:var(--dim); font-style:italic; margin-top:6px; }
+  .header .back { display:inline-block; margin-top:12px; font-size:13px; text-decoration:none; color:var(--dim); }
+  .header .back:hover { color:var(--sand); }
+
+  .container { max-width:800px; margin:0 auto; padding:24px 16px 60px; }
+
+  .investigation {
+    background:rgba(44,24,16,0.5); border:1px solid rgba(193,154,107,0.15);
+    border-radius:8px; padding:20px 24px; margin-bottom:24px;
+  }
+  .inv-header { display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px; }
+  .inv-title { font-family:'Cinzel',serif; font-size:18px; color:var(--sand); }
+  .badge { font-size:11px; padding:3px 10px; border-radius:12px; font-weight:600; letter-spacing:1px; text-transform:uppercase; }
+  .badge.active { background:rgba(255,183,77,0.2); color:#FFB74D; border:1px solid rgba(255,183,77,0.3); }
+  .badge.resolved { background:rgba(129,199,132,0.2); color:#81C784; border:1px solid rgba(129,199,132,0.3); }
+  .badge.cold { background:rgba(158,158,158,0.2); color:#9E9E9E; border:1px solid rgba(158,158,158,0.3); }
+  .inv-date { font-size:12px; color:var(--dim); margin-top:4px; }
+  .inv-summary { font-size:14px; color:var(--text); margin:12px 0; line-height:1.6; }
+  .inv-sources { font-size:12px; color:var(--dim); margin:8px 0; border-left:3px solid rgba(193,154,107,0.2); padding-left:12px; }
+
+  .notes-section { margin-top:16px; border-top:1px solid rgba(193,154,107,0.1); padding-top:12px; }
+  .notes-section h4 { font-family:'Cinzel',serif; font-size:13px; color:var(--dim); letter-spacing:2px; text-transform:uppercase; margin-bottom:8px; }
+  .note { font-size:13px; color:var(--text); padding:8px 0; border-bottom:1px solid rgba(193,154,107,0.06); line-height:1.5; }
+  .note:last-child { border-bottom:none; }
+  .note-date { color:var(--accent); font-weight:600; font-size:12px; }
+  .note-text { margin-top:2px; }
+
+  .note-form { margin-top:12px; display:none; }
+  .note-form.open { display:block; }
+  .note-form textarea {
+    width:100%; min-height:80px; padding:10px; font-family:'Crimson Pro',serif; font-size:14px;
+    background:rgba(26,18,8,0.8); color:var(--text); border:1px solid rgba(193,154,107,0.2);
+    border-radius:6px; resize:vertical;
+  }
+  .note-form input {
+    width:100%; padding:8px 10px; margin-top:6px; font-family:'Crimson Pro',serif; font-size:13px;
+    background:rgba(26,18,8,0.8); color:var(--dim); border:1px solid rgba(193,154,107,0.15);
+    border-radius:6px;
+  }
+  .note-form textarea:focus, .note-form input:focus { outline:none; border-color:var(--sand); }
+
+  .btn {
+    padding:6px 14px; font-family:'Cinzel',serif; font-size:11px; letter-spacing:1px;
+    text-transform:uppercase; border:1px solid rgba(193,154,107,0.3); border-radius:4px;
+    cursor:pointer; background:transparent; color:var(--dim); transition:all 0.2s;
+  }
+  .btn:hover { color:var(--sand); border-color:var(--sand); }
+  .btn-row { display:flex; gap:8px; margin-top:8px; flex-wrap:wrap; }
+  .btn.danger { color:#EF5350; border-color:rgba(239,83,80,0.3); }
+  .btn.danger:hover { border-color:#EF5350; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Investigations</h1>
+  <p>Tracing sites lost to the modern record</p>
+  <a href="index.html" class="back">&larr; Back to map</a>
+</div>
+
+<div class="container" id="investigations">
+
+  <!-- Investigation 1: Handkerchief Rock -->
+  <div class="investigation" data-id="handkerchief-rock">
+    <div class="inv-header">
+      <div>
+        <div class="inv-title">Handkerchief Rock — Tazewell County, VA</div>
+        <div class="inv-date">Started: March 31, 2026</div>
+      </div>
+      <span class="badge active">Active</span>
+    </div>
+    <div class="inv-summary">
+      Lozenge-shaped group of red and black squares on vertical cliff, 5 mi E of Paint Lick, 7 mi W of Tazewell. Described by Mallery 1893. No modern documentation found. Estimated coordinates: 37.08, -81.59 (&plusmn;2.5 mi).
+    </div>
+    <div class="inv-sources">
+      <b>Sources:</b> Mallery 1893 pp. 121&ndash;122; Coale 1878 Ch. XXIII; Hranicky 1987 (not yet located)
+    </div>
+    <div class="notes-section">
+      <h4>Research Notes</h4>
+      <div class="hardcoded-notes">
+        <div class="note"><span class="note-date">[3/31/2026]</span><div class="note-text">Mallery: "five miles east...7 west of Tazewell, high up against a vertical cliff." Lozenge-shaped red and black squares. Same ridge as Paint Lick. Only visible from across valley. Description cuts off mid-sentence.</div></div>
+        <div class="note"><span class="note-date">[3/31/2026]</span><div class="note-text">1902 USPS application for Akers PO confirms Knob PO was ~9mi from Tazewell, matching Mallery. Handkerchief Rock position places it in Akers/Thompson Valley area.</div></div>
+        <div class="note"><span class="note-date">[3/31/2026]</span><div class="note-text">Paint Lick is an entire ridge, not single peak. GNIS shows 2 summits 4mi apart. Handkerchief Rock is somewhere along this extended ridge.</div></div>
+        <div class="note"><span class="note-date">[3/31/2026]</span><div class="note-text">Indian Creek runs near Paint Lick base. 1915 USPS Bandy PO form confirms. Creek name likely reflects Indigenous presence.</div></div>
+        <div class="note"><span class="note-date">[3/31/2026]</span><div class="note-text"><b>Next:</b> Locate Hranicky 1987; check USGS old topos for Knob locality; GNIS search Indian Creek Tazewell; plan field visit with binoculars from across Thompson Valley.</div></div>
+      </div>
+      <div id="notes-handkerchief-rock"></div>
+      <div class="btn-row">
+        <button class="btn" onclick="toggleForm('handkerchief-rock')">Add Note</button>
+        <button class="btn danger" onclick="clearNotes('handkerchief-rock')">Clear Notes</button>
+      </div>
+      <div class="note-form" id="form-handkerchief-rock">
+        <textarea id="text-handkerchief-rock" placeholder="Research note..."></textarea>
+        <input id="source-handkerchief-rock" placeholder="Source (optional)">
+        <div class="btn-row">
+          <button class="btn" onclick="saveNote('handkerchief-rock')">Save</button>
+          <button class="btn" onclick="toggleForm('handkerchief-rock')">Cancel</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Investigation 2: Cherokee-Shawnee Battlefield -->
+  <div class="investigation" data-id="cherokee-shawnee-battlefield">
+    <div class="inv-header">
+      <div>
+        <div class="inv-title">Cherokee-Shawnee Battlefield & Buffalo Lick — Tazewell County, VA</div>
+        <div class="inv-date">Started: March 31, 2026</div>
+      </div>
+      <span class="badge active">Active</span>
+    </div>
+    <div class="inv-summary">
+      Battle between Cherokee and Shawnee 1740&ndash;1750 over buffalo lick on mountain neighboring Paint Lick. Fortification remains visible in 1871. No modern documentation found. Estimated coordinates: 37.07, -81.65 (&plusmn;5 mi).
+    </div>
+    <div class="inv-sources">
+      <b>Sources:</b> Coale 1878 Ch. XXIII (via Mallery 1893)
+    </div>
+    <div class="notes-section">
+      <h4>Research Notes</h4>
+      <div class="hardcoded-notes">
+        <div class="note"><span class="note-date">[3/31/2026]</span><div class="note-text">Coale links pictographs to territorial conflict. Buffalo lick = major resource node. Fortifications suggest substantial engagement.</div></div>
+        <div class="note"><span class="note-date">[3/31/2026]</span><div class="note-text"><b>Next:</b> Search Bickley 1852 for battle reference; check CRM surveys along Paint Lick/Deskins ridge for earthworks.</div></div>
+      </div>
+      <div id="notes-cherokee-shawnee-battlefield"></div>
+      <div class="btn-row">
+        <button class="btn" onclick="toggleForm('cherokee-shawnee-battlefield')">Add Note</button>
+        <button class="btn danger" onclick="clearNotes('cherokee-shawnee-battlefield')">Clear Notes</button>
+      </div>
+      <div class="note-form" id="form-cherokee-shawnee-battlefield">
+        <textarea id="text-cherokee-shawnee-battlefield" placeholder="Research note..."></textarea>
+        <input id="source-cherokee-shawnee-battlefield" placeholder="Source (optional)">
+        <div class="btn-row">
+          <button class="btn" onclick="saveNote('cherokee-shawnee-battlefield')">Save</button>
+          <button class="btn" onclick="toggleForm('cherokee-shawnee-battlefield')">Cancel</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// localStorage-backed note system
+const STORAGE_KEY = 'aw-investigations-notes';
+
+function getNotes() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+  catch { return {}; }
+}
+
+function renderNotes(id) {
+  const container = document.getElementById('notes-' + id);
+  const notes = (getNotes()[id] || []).slice().reverse();
+  container.innerHTML = notes.map(n =>
+    '<div class="note"><span class="note-date">[' + n.date + ']</span>' +
+    '<div class="note-text">' + escHtml(n.text) +
+    (n.source ? ' <span style="color:var(--dim);font-size:12px">(' + escHtml(n.source) + ')</span>' : '') +
+    '</div></div>'
+  ).join('');
+}
+
+function toggleForm(id) {
+  document.getElementById('form-' + id).classList.toggle('open');
+}
+
+function saveNote(id) {
+  const text = document.getElementById('text-' + id).value.trim();
+  if (!text) return;
+  const source = document.getElementById('source-' + id).value.trim();
+  const date = new Date().toLocaleDateString('en-US', { month:'numeric', day:'numeric', year:'numeric' });
+  const all = getNotes();
+  if (!all[id]) all[id] = [];
+  all[id].push({ date, text, source });
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(all));
+  document.getElementById('text-' + id).value = '';
+  document.getElementById('source-' + id).value = '';
+  toggleForm(id);
+  renderNotes(id);
+}
+
+function clearNotes(id) {
+  if (!confirm('Clear all added notes for this investigation? (Hardcoded notes will remain.)')) return;
+  const all = getNotes();
+  delete all[id];
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(all));
+  renderNotes(id);
+}
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// Render on load
+document.querySelectorAll('.investigation').forEach(inv => {
+  renderNotes(inv.dataset.id);
+});
+</script>
+
+</body>
+</html>
