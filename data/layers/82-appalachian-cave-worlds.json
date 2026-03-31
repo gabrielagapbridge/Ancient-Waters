@@ -1,0 +1,1108 @@
+{
+  "source": "82-appalachian-cave-worlds.json",
+  "featureCount": 42,
+  "features": [
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.0739,
+        "lng": -81.6488
+      },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#FF8A65",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FF8A65;margin:0 0 8px\">Paint Lick Mountain Pictographs (092-0007)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">One of only 2 pictograph sites in Virginia · NRHP 1969 · Red iron oxide on quartzite</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tazewell County, Virginia (37.074°N, 81.649°W — precise, GNIS)</p><p style=\"font-size:13px;color:#CFD8DC\">One of only two known pictograph sites in all of Virginia. Twenty documented pictographs painted in red iron oxide (hematite) on a Silurian sandstone/quartzite cliff face, approximately halfway up the 1,000-foot mountain. Imagery includes: a 16-inch diameter sun symbol with radiating lines, doe outline, multiple human figures with arms raised in adoration or surprise, concentric rings, thunderbirds, running deer, roosting bird in profile, a two-headed bird, and an abstract figure of concentric circles with L-shaped legs.</p><p style=\"font-size:13px;color:#CFD8DC\">All painted in heavy dark red ferruginous paint sourced from soft mudstone rich in iron oxide on the mountain slope — the same material used by settler Gen. Bowen’s grandmother for dyeing linsey cloth ('a fadeless color'). One figure originally black, now faded to dark gray. Rock face approximately 75 feet broad with smooth white surface. First documented in J.P. Leslie’s 1871 geological survey; visited by W.J. Hoffman for the Smithsonian in 1886; described by Coale in 1878. A Cherokee-Shawnee battle over a buffalo lick was fought on the neighboring mountain between 1740–1750, with fortification remains still visible in 1871. Private property, restricted access.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893; Coale 1878; Leslie 1871; Hranicky 1987; Klatka 2020 (Encyclopedia Virginia); Virginia DHR 092-0007</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "unknown_virginia_indian"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph",
+        "anthropomorph",
+        "zoomorph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.08,
+        "lng": -81.59
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.08,
+        "lng": -81.59
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#FF8A65",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FF8A65;margin:0 0 8px\">Handkerchief Rock Pictograph</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Virtually undocumented · Red &amp; black pigment on vertical cliff · Approximate location</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tazewell County, Virginia (approximate — '5 miles east of Paint Lick, 7 west of Tazewell')</p><p style=\"font-size:13px;color:#CFD8DC\">A lozenge/diamond-shaped group of red and black squares high on a vertical cliff, on the same range of hills as Paint Lick. Known locally as 'Handkerchief Rock' because the colored markings suggest an immense bandana handkerchief. Can only be viewed from a point opposite, across the valley. Notable for use of both red AND black pigment. The Mallery 1893 passage appears to be the only published account — virtually undocumented in modern literature.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Mallery 1893:121–122</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "unknown_virginia_indian"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "pictograph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.07,
+        "lng": -81.65
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.07,
+        "lng": -81.65
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#EF9A9A",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#EF9A9A;margin:0 0 8px\">Cherokee-Shawnee Battlefield / Buffalo Lick</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Territorial battle 1740–1750 · Earthwork fortifications still visible 1871</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tazewell County, Virginia (approximate — 'neighboring mountain' to Paint Lick)</p><p style=\"font-size:13px;color:#CFD8DC\">Battle fought between Cherokee and Shawnee for possession of a buffalo lick, with 'remains of rude fortifications being still visible' as of 1871 (Coale). Buffalo licks were critical resource nodes — salt, minerals, and the animals they attracted. Coale speculated the Paint Lick pictographs were territorial markers related to this conflict: 'hieroglyphics conveying such intelligence to the red man as we now communicate through newspapers.'</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Coale 1878 (via Mallery 1893)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "contact"
+      ],
+      "cultures": [
+        "cherokee",
+        "shawnee"
+      ],
+      "tribes": [
+        "cherokee",
+        "shawnee"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.12,
+        "lng": -81.52
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.12,
+        "lng": -81.52
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Bull Thistle Cave (44TZ92)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Burial cave · 11 individuals · 65-ft entrance shaft · NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tazewell County, Virginia (approximate — headwaters of Clinch River)</p><p style=\"font-size:13px;color:#CFD8DC\">Vertical shaft pit burial cave — 65-foot entrance drop, 575 feet total length, 119 feet vertical extent. Bodies were cast down or lowered into the pit. Cultural material confined to main room and western alcove. Single artifact: an alate-stemmed smoking pipe tempered with crushed mussel shell, indicating Mississippian interaction (AD 1300–1600).</p><p style=\"font-size:13px;color:#CFD8DC\">One of only three undisturbed burial caves documented by the Marginella Burial Cave Project. Skeletal remains appear to be in situ with only natural movement — no evidence of looting at time of study. Minimum 11 individuals: 2 children, 1 adolescent, 8 adults (2 males, 2 females).</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Willey &amp; Crothers 1986; Barber &amp; Hubbard 1997 (JCKS 59(3):132–136); Boyd &amp; Boyd 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland",
+        "dallas"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.1,
+        "lng": -81.55
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.1,
+        "lng": -81.55
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Higginbotham Cave (44TZ5)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Burial cave · 102 individuals · Radiocarbon AD 1410 ± 65 · Extensively looted</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tazewell County, Virginia (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">One of the largest burial caves in the region with over 100 individuals. The only burial cave other than Lake Hole with a radiocarbon date (AD 1410 ± 65 corrected). Evidence of cremation reported. Extensively looted over the years.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Clark 1978; Boyd &amp; Boyd 1997 (JCKS 59(3):160–165)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.73,
+        "lng": -83.12
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.73,
+        "lng": -83.12
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Indian Burial Cave (44LE11)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Burial cave · Doughnut-shaped chamber with skylight · Gated 1994 after active looting</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Lee County, Virginia (approximate — Woodway Limestone)</p><p style=\"font-size:13px;color:#CFD8DC\">Intermediate-sized cave in upper Ordovician Woodway Limestone. Burial chamber is doughnut-shaped, isolated from main entrance by tight sloping crawl. Skylight entrance in ceiling provides partial lighting. Local lore: burials were first observed in extended positions on large flat rocks. Shell beads found with burials. Dallas culture jar recovered — Mississippian influence.</p><p style=\"font-size:13px;color:#CFD8DC\">Extensively looted over decades — MBCP documented ongoing looting with newly dug piles of skeletal material discovered during visits. Gated in April 1994; suspected looters encountered during gating. Minimum 6 individuals.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Holland 1970 (Smithsonian); Hubbard &amp; Barber 1997 (JCKS 59(3):154–159); Boyd &amp; Boyd 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland",
+        "dallas"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.72,
+        "lng": -83.15
+      },
+      "style": {
+        "radius": 800,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.08,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.72,
+        "lng": -83.15
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Bone Cave (44LE169)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Burial cave · <span style='color:#EF5350'>Nearly destroyed by highway construction</span> · 1,494 skeletal fragments</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Lee County, Virginia (approximate — Woodway Limestone)</p><p style=\"font-size:13px;color:#CFD8DC\">Small cave (~15m passage) in Woodway Limestone. Local lore attributed burials to enslaved people, but MBCP and Phase II investigations confirmed Native American origin. Phase II excavation yielded 1,494 human skeletal fragments, marine shell beads, pottery, and cut mica.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Nearly destroyed by US Highway 58 realignment</b> — Virginia Cave Board negotiated to alter road path. Cave ceiling was breached by construction blasting; motor oil or hydraulic fluid dripped from fractures onto burial deposits. Gate undermined by looters. A devastating case study in failure to protect sacred sites. Minimum 6 individuals, Middle to Late Woodland.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Kimball &amp; Whyte 1994; Hubbard &amp; Barber 1997 (JCKS 59(3):154–159); Boyd &amp; Boyd 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "middle_woodland",
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.7,
+        "lng": -83.2
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.7,
+        "lng": -83.2
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Mer Site (44LE280)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Burial cave · Strongest evidence of maize diet in Virginia · Stable isotope analysis</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Lee County, Virginia (approximate — near Indian Creek tributary)</p><p style=\"font-size:13px;color:#CFD8DC\">Cave in limestone hillside. 8 individuals buried 15–18m from entrance in dark zone, under rock ledge — intentional placement. No artifacts except reportedly a 6-inch spear point removed by looter. Stable isotope analysis (δ¹³C: -12.7 to -9.2‰) indicates diet of primarily C4 plants (maize) with some terrestrial animal protein — the strongest evidence for maize consumption of any site in Virginia. Diet similar to Shannon site (44MY8) palisaded village. Demonstrates that stable isotope analysis can reconstruct subsistence even when all other archaeological evidence is absent.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Trimble &amp; Macko 1997 (JCKS 59(3):137–142); Boyd &amp; Boyd 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.15,
+        "lng": -80.55
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.15,
+        "lng": -80.55
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Adams Cave (44MY482)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Burial cave · Geographically anomalous · Disturbed by saltpetre mining</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Montgomery County, Virginia (approximate — Elbrook Formation)</p><p style=\"font-size:13px;color:#CFD8DC\">Small cave in Cambrian Elbrook Formation dolostone. 4 individuals. Attention directed after student brought human bones to Radford University. Skeletal material found in saltpetre mining spoils — burials likely disturbed during War of 1812-era mining. Geographically anomalous: far northeast of all other known burial caves in SW Virginia. Gated September 1994.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Hubbard &amp; Barber 1997 (JCKS 59(3):154–159); Boyd &amp; Boyd 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "unknown"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.95,
+        "lng": -81.95
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.95,
+        "lng": -81.95
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Russell County Burial Caves (44RU6 + 3 others)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">4 recorded burial caves · 113+ individuals at 44RU6 alone</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Russell County, Virginia (county-level estimate — Clinch River drainage)</p><p style=\"font-size:13px;color:#CFD8DC\">Russell County contains at least 4 recorded burial caves. Site 44RU6 alone held 113 individuals — one of the largest mortuary cave populations in the Appalachians. Part of the broader southwestern Virginia cave burial tradition spanning the Late Woodland to Mississippian periods.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Boyd &amp; Boyd 1997 (JCKS 59(3):160–165, Table 1)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.72,
+        "lng": -82.6
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.72,
+        "lng": -82.6
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Scott County Burial Caves (44SC6, 44SC10, 44SC44, 44SC140)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">4 recorded burial caves · Clinch Mountain area</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Scott County, Virginia (county-level estimate)</p><p style=\"font-size:13px;color:#CFD8DC\">Four recorded burial caves in Scott County. Part of the dense cluster of mortuary caves along the Clinch River and its tributaries in southwestern Virginia.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Boyd &amp; Boyd 1997 (JCKS 59(3):160–165)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.85,
+        "lng": -81.55
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.85,
+        "lng": -81.55
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Smyth County Burial Caves (9 recorded sites)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">9 burial caves · Holston River drainage · Densest cluster in Virginia</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Smyth County, Virginia (county-level estimate — Holston River drainage)</p><p style=\"font-size:13px;color:#CFD8DC\">Smyth County contains at least 9 recorded burial caves — the densest cluster in Virginia — including 44SM6, 44SM12, 44SM13, 44SM24, 44SM28, 44SM34, 44SM48, and two unnumbered caves (6 individuals combined). The Holston River drainage was clearly a major focus of the cave burial tradition.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Boyd &amp; Boyd 1997 (JCKS 59(3):160–165)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.75,
+        "lng": -81.85
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.75,
+        "lng": -81.85
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Washington County Burial Caves — Ton Site (44WG3) + 2 others</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">3 burial caves · Ton Site: 20 individuals</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Washington County, Virginia (approximate)</p><p style=\"font-size:13px;color:#CFD8DC\">Three recorded burial caves including the Ton Site (44WG3) with 20 individuals, 44WG14, and the Born Site (44WG397, 2 individuals). Washington County lies at the junction of the Holston River system with the Virginia-Tennessee border region.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Boyd &amp; Boyd 1997 (JCKS 59(3):160–165)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.6,
+        "lng": -79.9
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.6,
+        "lng": -79.9
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#7986CB;margin:0 0 8px\">Williams Cave — Mud Glyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Virginia glyph cave · AD 995–1060 · Headwaters of James River · Location protected</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Headwaters of James River, Virginia (approximate — location protected)</p><p style=\"font-size:13px;color:#CFD8DC\">Mud glyphs including a large spiral with attached lattice design. First reported 1979. One of two Virginia glyph caves at the headwaters of the James River. Three radiocarbon dates cluster AD 995–1060. Location protected.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Bunnell 1979 (Cavalier Caver 13(2):9–14); Faulkner 1988, 1997 (JCKS 59(3):148–153)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.0,
+        "lng": -81.3
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.0,
+        "lng": -81.3
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#7986CB;margin:0 0 8px\">Little Mountain Cave — Mud Glyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Virginia glyph cave · AD 975–1425 · Emergent to full Mississippian span</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Southwestern Virginia (approximate — location protected)</p><p style=\"font-size:13px;color:#CFD8DC\">Mud glyphs including trailed lines possibly representing an anthropomorph or bird, and a barred oval motif. Four radiocarbon dates span AD 975–1425, bracketing the Emergent to full Mississippian period in the eastern Tennessee Valley.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Faulkner 1997 (JCKS 59(3):148–153); G. Tolley pers. comm.</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mississippian"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.2,
+        "lng": -86.0
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.2,
+        "lng": -86.0
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#7986CB;margin:0 0 8px\">Indian Cave — Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Tennessee glyph cave · AD 1010–1360 · Falcon/eagle dancers · SECC</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Eastern Highland Rim, middle Tennessee (approximate — location protected)</p><p style=\"font-size:13px;color:#CFD8DC\">Large number of petroglyphs from mouth to ~100m from entrance. Abstract bird/human 'falcon or eagle dancers' with V-shaped heads and chevron plumage. Sun symbol near cave mouth. Serpent with possible rattles on tail and antler-like head features. Two radiocarbon dates: AD 1010–1360.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Faulkner 1988; Faulkner 1997 (JCKS 59(3):148–153)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "mississippian"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.98,
+        "lng": -86.3
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.98,
+        "lng": -86.3
+      },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#7986CB;margin:0 0 8px\">Crumps Cave — Mud Glyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Kentucky · <b>30 BC ± 60</b> — the ONLY directly dated cave glyph in eastern North America</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Warren County, Kentucky (approximate — location protected)</p><p style=\"font-size:13px;color:#CFD8DC\">Mud glyphs on clay banks 1,000m from entrance. The majority are trailed meanders and short straight line clusters. Naturalistic figures include: a horned serpent with rattlesnake tail and possible wings, a turtle, and 8 human figures (some with scooped-out heads and abdomens, 2 with nipples — thought to be pregnant females).</p><p style=\"font-size:13px;color:#CFD8DC\">The <b>30 BC ± 60</b> date from bark within a glyph incision is the only charcoal ever directly retrieved from within a glyph itself — all other cave art dates come from torch charcoal on cave floors. This makes Crumps Cave the single most important site for establishing the antiquity of cave art in eastern North America.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Davis &amp; Haskins 1993; Faulkner 1997 (JCKS 59(3):148–153)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative"
+      ],
+      "cultures": [
+        "middle_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "petroglyph",
+        "anthropomorph",
+        "zoomorph"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.1,
+        "lng": -85.3
+      },
+      "style": {
+        "radius": 5000,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.04,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.1,
+        "lng": -85.3
+      },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#7986CB",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#7986CB;margin:0 0 8px\">Adair Glyph Cave — Mud Glyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Kentucky · <b>1610 BC ± 100</b> — OLDEST dated cave art in eastern North America</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Adair County, Kentucky (approximate — location protected)</p><p style=\"font-size:13px;color:#CFD8DC\">Mud glyphs on floor of remote passage more than 1 km from entrance. Geometric symbols: trailed lines, zigzags, hatching and cross-hatching, chevrons. The <b>1610 BC ± 100</b> date demonstrates that cave ceremonialism extends back nearly 4,000 years — not just a Mississippian phenomenon as long assumed. The oldest dated cave art in all of eastern North America.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: DiBlasi 1996 (in Carstens &amp; Watson eds., Of Caves and Shell Mounds, U Alabama Press:40–47); Faulkner 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_archaic"
+      ],
+      "cultures": [
+        "late_archaic"
+      ],
+      "tribes": [],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric"
+      ]
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.95,
+        "lng": -82.1
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.95,
+        "lng": -82.1
+      },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#A5D6A7",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#A5D6A7;margin:0 0 8px\">Daugherty’s Cave — 10,500 Years of Occupation</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Stratified habitation cave · 7840 BC through ~AD 1650 · Russell County, Virginia</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Russell County, Virginia (approximate — Big Cedar Creek, tributary of Clinch River)</p><p style=\"font-size:13px;color:#CFD8DC\">Most important contribution to understanding culture history in southwestern Virginia. Northeast-facing cave entrance with ~50°F air current (comfortable year-round). 300 sq ft excavated, 44 cultural features (hearths, refuse pits, ash pits, stone-filled pits). 10 stratigraphic zones spanning 7.5 feet of cultural deposition.</p><p style=\"font-size:13px;color:#CFD8DC\">681 potsherds including Late Woodland shell-tempered and limestone-tempered ceramics. 9,256 lithic artifacts. 15 projectile point types from Kirk corner-notched (Early Archaic) through Late Woodland triangles. Faunal: deer, bear, elk, beaver, otter, raccoon, turkey, passenger pigeon. Botanical: corn, hickory nuts, walnuts. Radiocarbon from Zone J (earliest): 7840 ± 400 BC. Demonstrates evolution from ephemeral Archaic hunting camp to Late Woodland protein-procurement station supporting a nearby palisaded agricultural village.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Benthall 1990 (ASV Special Publication 18); Barber &amp; Hubbard 1997 (JCKS 59(3):132–136)</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "early_archaic",
+        "late_archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "kirk",
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.1,
+        "lng": -81.6
+      },
+      "style": {
+        "radius": 800,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.08,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.1,
+        "lng": -81.6
+      },
+      "radius": 3,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#FFCC80",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFCC80;margin:0 0 8px\">Crab Orchard Palisaded Village</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Major Late Woodland town · 3 palisades · 175+ burials · ~400 people · NRHP listed</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tazewell County, Virginia (approximate — Clinch River near Pisgah)</p><p style=\"font-size:13px;color:#CFD8DC\">Major palisaded Virginia Indian town. Three concentric palisades (400 ft diameter), 14 circular houses with hearths, 195+ storage pits, 175+ human burials, semi-subterranean communal structure outside palisade. Population estimated ~400 — unusually large for the region. Ceramics: Radford Ware, New River and Wythe wares. Connected to the burial cave tradition — this is the kind of village whose dead may have been placed in nearby caves.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Klatka (Encyclopedia Virginia); Egloff &amp; Reed 1980; NRHP listing</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland"
+      ],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circle",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.32,
+        "lng": -82.1
+      },
+      "style": {
+        "radius": 2500,
+        "color": "#4E342E",
+        "weight": 1,
+        "opacity": 0.2,
+        "fillColor": "#4E342E",
+        "fillOpacity": 0.06,
+        "dashArray": "4,4"
+      },
+      "popup": "",
+      "popupOptions": {},
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 36.32,
+        "lng": -82.1
+      },
+      "radius": 4,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#8D6E63",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8D6E63;margin:0 0 8px\">Lake Hole Cave (40JN159)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">99 individuals · ARPA felony convictions 1990 · Cherokee NF · AD 1260</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Johnson County, Tennessee (approximate — north side of Watauga Lake, Cherokee NF)</p><p style=\"font-size:13px;color:#CFD8DC\">The most extensively investigated burial cave in the region. <b>Catastrophically looted March 1990</b> — 9 defendants prosecuted under ARPA, including felony convictions. Eastern Band of Cherokee sent delegation to sentencing. Archaeological salvage by Appalachian State University 1991 — all 20,000+ kg of disturbed sediment wet-screened through nested mesh.</p><p style=\"font-size:13px;color:#CFD8DC\">Recovered: 12,841 human bones/teeth from 99 individuals (50 subadults, 49 adults), 6,029 marine shell beads (71% olivella, 25% whelk disk, 3.5% marginella), 25 triangular arrowpoints, 136 pottery sherds, bone/antler tools. AMS date AD 1260 from bone awl. Microwear analysis showed arrowpoints had impact fractures and meat/bone polish — some may have been embedded in bodies, not grave offerings. Also contained Pleistocene fauna: fisher (extinct since 1830s), extinct horse, giant armadillo.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Whyte &amp; Kimball 1997 (JCKS 59(3):143–147); Boyd &amp; Boyd 1997; Trimble &amp; Macko 1997</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_woodland",
+        "hamilton",
+        "mississippian"
+      ],
+      "tribes": [
+        "cherokee"
+      ],
+      "rockArtStyles": []
+    },
+    {
+      "type": "circleMarker",
+      "layer": "appalachianCaveWorlds",
+      "geometry": {
+        "lat": 37.12,
+        "lng": -81.52
+      },
+      "radius": 2,
+      "style": {
+        "color": "#4E342E",
+        "fillColor": "#90A4AE",
+        "fillOpacity": 0.85,
+        "weight": 2
+      },
+      "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#90A4AE;margin:0 0 8px\">Tazewell County Karst Landscape</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Geological context · 159 caves · 28 miles surveyed passage · 40% karst terrain</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Tazewell County, Virginia</p><p style=\"font-size:13px;color:#CFD8DC\">~40% karst terrain with 159 reported caves and 28 miles of surveyed passage. Longest cave: 40,814 feet. Part of the Ridge-and-Valley Appalachians. Contains headwaters of four watersheds: Upper Clinch, Middle New, North Fork Holston, and Tug. Burke’s Garden — a bowl-shaped valley from an eroded anticline. The karst geology created the infrastructure for the entire cultural landscape: caves as burial portals, cliff faces as pictograph canvases, mineral licks as resource nodes, iron oxide mudstone as pigment sources.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Virginia Caves (virginiacaves.org); Bickley 1852</p></div>",
+      "popupOptions": {
+        "maxWidth": 430
+      },
+      "timePeriods": [],
+      "cultures": [],
+      "tribes": [],
+      "rockArtStyles": []
+    }
+  ]
+}

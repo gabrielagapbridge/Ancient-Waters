@@ -223,10 +223,18 @@
         "archaicCaves",
         "ritualCaves",
         "karstRegions",
-        "caveSystems"
+        "caveSystems",
+        "appalachianCaveWorlds"
       ],
       "color": "#3F51B5",
-      "description": "Karst geology underlay + Archaic vestibule sites + Woodland ritual deep caves"
+      "description": "Karst geology underlay + Archaic vestibule sites + Woodland ritual deep caves + Appalachian burial & glyph caves"
+    },
+    "Appalachian Cave Worlds": {
+      "layers": [
+        "appalachianCaveWorlds"
+      ],
+      "color": "#4E342E",
+      "description": "SW Virginia & East Tennessee — burial caves, pictographs, mud glyph caves, 10,500 yrs"
     }
   },
   "territoryLayers": {

@@ -1864,6 +1864,13 @@
       "dataSources": [
         "81-gaulton-algonquian-network.json"
       ]
+    },
+    "appalachianCaveWorlds": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "82-appalachian-cave-worlds.json"
+      ]
     }
   }
 }
