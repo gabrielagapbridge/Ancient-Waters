@@ -1,6 +1,6 @@
 {
   "source": "20-martis-rockart.js",
-  "featureCount": 41,
+  "featureCount": 42,
   "features": [
     {
       "type": "marker",
@@ -1357,6 +1357,41 @@
       ],
       "rockArtStyles": [
         "martis_style"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "martisRockArt",
+      "geometry": {
+        "lat": 39.35,
+        "lng": -120.35
+      },
+      "icon": {
+        "factory": "raIcon",
+        "raType": "petroglyph",
+        "color": "#FFB300",
+        "size": 9
+      },
+      "popup": "\n    <div style=\"max-width:420px;font-family:'Source Sans Pro',sans-serif;\">\n      <h4 style=\"color:#FFB300;margin:0 0 4px;font-size:15px;\">🪨 Castle Valley</h4>\n      <div style=\"font-size:10px;color:#FFB300;margin-bottom:6px;font-weight:600;\">Style 7 Petroglyph + Grinding Depressions — Unique co-location</div>\n      <div style=\"font-size:11px;color:#aaa;margin-bottom:6px;\">\n        <b>Location:</b> Castle Valley, near Castle Peak (9,103 ft), Tahoe National Forest &nbsp;|&nbsp; <b>Elevation:</b> ~7,200–7,400 ft<br>\n        <b>Access:</b> Castle Peak Trailhead (I-80 Exit 176), ~¼ mile on PCT, granite slabs on left\n      </div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">Martis Complex petroglyphs pecked into glaciated granite bedrock overlooking Castle Valley, just south of Castle Peak — the highest point in Nevada County. The petroglyphs are spread across the middle of one of the largest slab exposures along the Pacific Crest Trail. <b>What distinguishes this site from all other Donner Summit locations is the co-location of petroglyphs with grinding depressions (mortars) just 5–10 yards west</b> — food processing features used for seeds and tubers, found together with rock art. This is the only Donner Summit site where rock art and daily subsistence features are in such close proximity, powerfully illustrating that these were not abstract ritual spaces separated from daily life. The Martis made art where they made food, at a place where the view alone might have been reason enough to return every summer for 2,500 years.</div>\n      <div style=\"font-size:12px;color:#ccc;line-height:1.5;margin-bottom:6px;\">The petroglyphs belong to Style 7: High Sierra Abstract-Representational (Payen 1966), the most complex rock art style in the northern Sierra. Common motifs include concentric circles, circles elaborated by line elements, wavy lines of varying complexity, and animal/human tracks — pecked through the glaciated granite surface using hammerstones. The enormous labor required (estimated 30–115 minutes per motif at ~126 pecks per minute; a single lizard figure ~15,000 blows) suggests deep intentionality. 92 Style 7 sites have been identified across Nevada, Placer, Plumas, and Sierra Counties.</div>\n      <div style=\"font-size:11px;color:#4FC3F7;margin-bottom:4px;\">🌊 Castle Valley — seasonal gathering area along Donner Summit trade corridor between coastal and Great Basin peoples</div>\n      <div style=\"font-size:11px;color:#E0E0E0;margin-bottom:4px;\">\n        <b>Petroglyphs:</b> Multiple panels on granite slabs &nbsp;|&nbsp; <b>Mortars:</b> Grinding depressions 5–10 yards west\n      </div>\n      <div style=\"font-size:11px;color:#A5D6A7;margin-bottom:4px;\"><b>Archaeology:</b> Mortars/metates indicate sustained seasonal food processing (acorns, seeds, pine nuts)</div>\n      <div style=\"font-size:10px;color:#888;margin-top:6px;border-top:1px solid rgba(255,179,0,0.2);padding-top:4px;\">\n        <b>Culture:</b> Martis Complex (~2000 BC – 500 AD) / Style 7 \"High Sierra Abstract-Representational\"<br>\n        <b>Descendant debate:</b> Moratto argues no Washo connection, suggests Maidu. Elston & Fowler propose Kings Beach Complex link to ancestral Washo. Gortner noted Washo were primarily Great Basin desert people. Donner Summit was a summer convergence for Maidu (Nisenan), Miwok, and Washo.<br>\n        <b>Conservation:</b> Exfoliation (freeze-thaw) is the primary threat. Light granite makes petroglyphs difficult to see — many visitors walk directly over them. Not individually landmarked (unlike Meadow Lake NHL).<br>\n        <b>Sources:</b> Payen 1966; Foster, Betts & Sandelin 1999/2002; Gortner (Ancient Rock Carvings / Martis Indians); Steward 1929; Donner Summit Historical Society\n      </div>\n    </div>",
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [
+        "formative",
+        "late_archaic",
+        "middle_archaic"
+      ],
+      "cultures": [
+        "martis"
+      ],
+      "tribes": [
+        "washo",
+        "nisenan"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "abstract_geometric",
+        "cupule_pit_and_groove"
       ]
     }
   ]
