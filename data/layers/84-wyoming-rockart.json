@@ -1,6 +1,6 @@
 {
   "source": "84-wyoming-rockart.json",
-  "featureCount": 20,
+  "featureCount": 21,
   "features": [
     {
       "type": "circle",
@@ -850,6 +850,44 @@
       "tribes": [],
       "rockArtStyles": [
         "petroglyph"
+      ]
+    },
+    {
+      "type": "marker",
+      "layer": "wyRockArt",
+      "geometry": {
+        "lat": 41.48,
+        "lng": -105.72
+      },
+      "icon": {
+        "factory": "mkBothIcon",
+        "color": "#B8860B",
+        "size": 3
+      },
+      "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Horned Owl Cave</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Pictographs + rich perishable assemblage · 3 distinct painting styles · Laramie Mountains · Wenner-Gren funded</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> West flank of Laramie Mountains, 19 mi NNW of Laramie, Albany County, Wyoming (T 18 N; R 72 W) · Limestone cave, ~300 ft above valley floor</p><p style=\"font-size:13px;color:#CFD8DC\">A funnel-shaped limestone cave (~15 ft diameter entrance) containing 8 pictograph panels (PS 1–8) and an extraordinarily rich assemblage of normally perishable artifacts. The cave consists of an outer and inner chamber, with pictographs confined to the front area walls and ceiling. Excavation funded by the Wenner-Gren Foundation for Anthropological Research; artifacts displayed at the Rawhide Museum, Orin, Wyoming.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Three distinct pictograph styles were identified:</b> (1) An early <b>red-figure style</b> — highly schematized rectilinear and geometric forms including tridentlike motifs (possible bird tracks), paired circles, and elongated ovoids. Red pigment is always older where superimposition occurs. Stylistically similar to Craven Cave and Pinkerton Ranch sites in Fall River County, South Dakota (Over 1941). (2) A <b>shield-figure style</b> in black — 23 linear-shield figures across 4 panels, some depicting headdresses, spears, and clubs. One panel (PS 5) shows a man spearing a bear, with the bear’s claws and genitalia carefully rendered. Connected to the widespread Castle Gardens shield tradition. (3) A <b>late black-figure style</b> — stick figures, solidly colored outlines, and V-neck parallel-line human figures common across the Plains into the 19th century.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Artifacts:</b> Atlatl darts, 15 arrows (sinew-wrapped, feather fragments), bone awls, polished bone beads, knapping tools, wooden gaming discs (drilled, painted), a quill whistle (eagle/owl feather), a charred bow fragment, dart foreshafts, leaf-shaped knives hafted with pitch to charred pine handles, 31 Shoshone Intermountain pottery sherds (thumbnail indentations, limestone/quartz/mica temper), woven cotton cloth (dyed red), leather fragments, and wild-cherry bark strips. Horse, bison, and pronghorn bone identified by Paul McGrew (University of Wyoming).</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Cultural affiliation:</b> Late Middle Culture through Late Prehistoric period. Two or more distinct cultural groups used the cave — one oriented westward (associated with the dart, blunt arrow, and early red-figure drawings), the other eastward (associated with small corner-notched points, pottery, and the shield-figure drawings). The absence of European objects suggests all occupation was precontact. Related sites include Birdshead Cave, Ten Sleep Caves, and Wedding of the Waters Cave in the Big Horn Basin, and a small shelter a few miles north containing two shield figures.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Gebhard, Agogino &amp; Haynes, \"Horned Owl Cave, Wyoming,\" <i>American Antiquity</i> 29(3):360–368, 1964; Gebhard 1951a (El Palacio); Gebhard &amp; Cahn 1950 (American Antiquity); Mulloy 1954a, 1958 (University of Wyoming Publications)</p></div>",
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "plains_archaic",
+        "late_prehistoric_plains",
+        "shoshone_intermountain"
+      ],
+      "tribes": [
+        "eastern_shoshone"
+      ],
+      "rockArtStyles": [
+        "pictograph",
+        "shield_figure",
+        "red_figure",
+        "anthropomorph",
+        "zoomorph",
+        "geometric"
       ]
     }
   ]
