@@ -5,7 +5,10 @@
     {
       "type": "circle",
       "layer": "wyRockArt",
-      "geometry": { "lat": 43.5, "lng": -108.0 },
+      "geometry": {
+        "lat": 43.5,
+        "lng": -108.0
+      },
       "style": {
         "radius": 180000,
         "color": "#B8860B",
@@ -22,170 +25,492 @@
       "tribes": [],
       "rockArtStyles": []
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 43.4125, "lng": -108.0842 },
-      "icon": { "factory": "mkPetroIcon", "color": "#B8860B", "size": 22 },
+      "geometry": {
+        "lat": 43.4125,
+        "lng": -108.0842
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#B8860B",
+        "size": 12
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Legend Rock State Petroglyph Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">One of the largest accessible rock art sites in the U.S. · NRHP 1973 · 10,000+ years of use</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> 30 mi NW of Thermopolis, Hot Springs County, Wyoming · Cottonwood Creek, SW Bighorn Basin</p><p style=\"font-size:13px;color:#CFD8DC\">A 1,600-yard-long cliff containing more than 330 prehistoric petroglyph panels and over 900 individual petroglyphs. The site is best known for its large, elaborate, and highly abstract anthropomorphic petroglyphs of the <b>Dinwoody Tradition</b> — patterned-body figures with headdresses, wings, and interior line decoration, deeply revered by the present-day Eastern Shoshone.</p><p style=\"font-size:13px;color:#CFD8DC\">Archaeological evidence indicates nearly continuous use beginning approximately 10,000 years ago (Paleo-Indian period). The oldest images are Paleo-Indian in origin, but most belong to the Dinwoody Tradition associated with the Archaic period (~4500–500 BP). Later images include bows and arrows, eagles, and horses from the Late Prehistoric through Historic periods. Excavations in 1988 suggest Legend Rock was used for personal rituals — prayer, fasting, and vision questing — rather than as a permanent campsite. A bison processing area and red ochre processing pits were also documented.</p><p style=\"font-size:13px;color:#CFD8DC\">Three distinct concentrations of rock art representing all artistic traditions known in Wyoming were identified across state, BLM, and private lands. In 2024–2025, rancher Richard Wagner donated his parcels to the Archaeological Conservancy, ensuring the entire site's permanent protection. Legend Rock includes the oldest and best-preserved examples of Dinwoody tradition rock art known in the world.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Ethnographic connections:</b> Although known to the Crow and Northern Arapaho, ethnographic interviews demonstrate the Eastern Shoshone feel most closely connected to Legend Rock. The petroglyphs closely resemble rock art in the Great Basin and particularly the Coso Range of southern California — all areas once occupied by Numic-speaking tribes.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Francis & Loendorf, <i>Ancient Visions</i> (U of Utah Press, 2002); NRHP nomination 1973; Alliance for Historic Wyoming; Archaeological Conservancy 2025; Wyoming State Parks; Bies 2016 (SAA poster)</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["paleoindian", "archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["dinwoody_tradition", "plains_archaic", "late_prehistoric_plains"],
-      "tribes": ["eastern_shoshone", "mountain_shoshone", "crow", "northern_arapaho"],
-      "rockArtStyles": ["petroglyph", "dinwoody_anthropomorph", "patterned_body", "zoomorph", "abstract_geometric", "shield_style"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "paleoindian",
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "dinwoody_tradition",
+        "plains_archaic",
+        "late_prehistoric_plains"
+      ],
+      "tribes": [
+        "eastern_shoshone",
+        "mountain_shoshone",
+        "crow",
+        "northern_arapaho"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "dinwoody_anthropomorph",
+        "patterned_body",
+        "zoomorph",
+        "abstract_geometric",
+        "shield_style"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 42.9050, "lng": -107.5800 },
-      "icon": { "factory": "mkPetroIcon", "color": "#B8860B", "size": 20 },
+      "geometry": {
+        "lat": 42.905,
+        "lng": -107.58
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#B8860B",
+        "size": 10
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Castle Gardens Petroglyph Site</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Finest shield-style rock art in the West · BLM · Castle Gardens Shield Style type site</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> ~45 mi east of Riverton, Fremont County, Wyoming · Wind-eroded sandstone outcrop</p><p style=\"font-size:13px;color:#CFD8DC\">One of the finest rock art sites in Wyoming, set among wind-eroded sandstone turrets and towers. Castle Gardens is the type site for the <b>Castle Gardens Shield Style</b>, which depicts warriors with shields — or the shields alone — incised into sandstone and then painted with mineral pigments. Traces of original color remain visible. The shield-style petroglyphs date to approximately 1000–1250 CE.</p><p style=\"font-size:13px;color:#CFD8DC\">First reported in the late 1920s by David Love, who grew up on a nearby ranch. Around 1940 a famous petroglyph known as the 'Great Turtle Shield' was cut from the sandstone and stolen. Local outrage and threats of retribution eventually led to its return. In 2011, Sacred Sites Research (Lawrence Loendorf) completed a tracing project documenting 22 petroglyph panels inside fenced areas and 30 panels outside, creating detailed replicas for preservation and interpretation.</p><p style=\"font-size:13px;color:#CFD8DC\">Shield-bearing warrior imagery at Castle Gardens connects to a broader Northern Plains tradition found at the Valley of the Shields (Montana), Bear Gulch, and other sites. Some shields depict bears emerging from dens — a motif also found on historic Crow Indian shields.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Francis & Loendorf 2002; Loendorf (Sacred Sites Research) 2011 tracing project; Loubser 2009 condition assessment; BLM Lander Field Office; Keyser & Klassen 2001</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["formative", "late_prehistoric"],
-      "cultures": ["late_prehistoric_plains"],
-      "tribes": ["eastern_shoshone", "crow"],
-      "rockArtStyles": ["petroglyph", "castle_gardens_shield", "shield_bearing_warrior", "incised_painted"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "late_prehistoric_plains"
+      ],
+      "tribes": [
+        "eastern_shoshone",
+        "crow"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "castle_gardens_shield",
+        "shield_bearing_warrior",
+        "incised_painted"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 43.4800, "lng": -109.5900 },
-      "icon": { "factory": "mkPetroIcon", "color": "#B8860B", "size": 20 },
+      "geometry": {
+        "lat": 43.48,
+        "lng": -109.59
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#B8860B",
+        "size": 10
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Dinwoody Lake Petroglyphs (Type Site)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Type site for the Dinwoody Tradition · 7,100 ft elevation · Transitional zone between prairie and alpine</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Head of Dinwoody Lake, western Wyoming · Between Wind River Range cliff walls (200–1000 ft)</p><p style=\"font-size:13px;color:#CFD8DC\">The archaeological area that gives the <b>Dinwoody Tradition</b> its name. Located in a valley between two cliff walls of reddish sandstone and limestone, with a central 'hog-back' of Tensleep sandstone containing numerous caves and shelters. Most petroglyphs are found on the smooth faces of these formations. The valley sits at a transitional zone between short-grass prairie and coniferous forest, near the Gannet Peak Glacier Fields.</p><p style=\"font-size:13px;color:#CFD8DC\">Reported as early as 1873 by Captain William A. Jones, who noted that 'throughout the Wind River country of Wyoming many pictographs have been found, and others reported by the Shoshoni Indians.' Despite this early recognition, the site was not scientifically surveyed until 1938–1939. Dinwoody petroglyphs have been used by amateur speculators to 'prove' the existence of lost continents, buried treasures, and hidden cities — a pattern common to petroglyph sites across North America.</p><p style=\"font-size:13px;color:#CFD8DC\">The site's relative inaccessibility (8 miles from the highway on rough road) has helped protect it from vandalism that has damaged other Wyoming sites. Multiple superimposition sequences document a long chronological sequence of rock art traditions.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Sowers, <i>American Antiquity</i> 15:219–228 (1950); Capt. William A. Jones 1873 expedition report; Francis & Loendorf 2002</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["dinwoody_tradition", "plains_archaic"],
-      "tribes": ["eastern_shoshone", "mountain_shoshone"],
-      "rockArtStyles": ["petroglyph", "dinwoody_anthropomorph", "patterned_body", "zoomorph", "abstract_geometric"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "dinwoody_tradition",
+        "plains_archaic"
+      ],
+      "tribes": [
+        "eastern_shoshone",
+        "mountain_shoshone"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "dinwoody_anthropomorph",
+        "patterned_body",
+        "zoomorph",
+        "abstract_geometric"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 43.4600, "lng": -109.5200 },
-      "icon": { "factory": "mkPetroIcon", "color": "#B8860B", "size": 18 },
+      "geometry": {
+        "lat": 43.46,
+        "lng": -109.52
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#B8860B",
+        "size": 8
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Torrey Lake / Torrey Basin Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Mountain Shoshone (Sheep Eater) heartland · 8,000+ ft elevation · Guided tours via Dubois Museum</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Torrey Creek drainage near Dubois, Fremont County, Wyoming</p><p style=\"font-size:13px;color:#CFD8DC\">Petroglyphs pecked into large boulders scattered throughout the Torrey Basin valley, believed to be the work of the <b>Tukudika (Sheep Eater Indians / Mountain Shoshone)</b>, who called Wind River country home before European contact. The Sheep Eaters developed a lifestyle perfectly adapted to their rugged mountain homeland, sustaining themselves for hundreds of years through hunting bighorn sheep.</p><p style=\"font-size:13px;color:#CFD8DC\">The Torrey Basin petroglyphs include a famous 'winged figure' associated with vision questing. Shoshone tradition holds that people would bathe in a stream, then wait before such images for days without food or water, praying for a vision. If the vision instructed them, they would create a new image to record what they had seen — details useful for future vision seekers.</p><p style=\"font-size:13px;color:#CFD8DC\">The Sheep Eaters' harmonious way of life ended when the Yellowstone area became a national park and they were rounded up and moved to reservations. Their hunting traps, blinds, tipi rings, and vision quest sites remain visible in the mountains around Dubois.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Francis & Loendorf 2002; Dubois Museum; Wind River Country tourism; WyoHistory.org</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["dinwoody_tradition", "mountain_shoshone_culture"],
-      "tribes": ["mountain_shoshone", "eastern_shoshone"],
-      "rockArtStyles": ["petroglyph", "dinwoody_anthropomorph", "zoomorph", "vision_quest"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "dinwoody_tradition",
+        "mountain_shoshone_culture"
+      ],
+      "tribes": [
+        "mountain_shoshone",
+        "eastern_shoshone"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "dinwoody_anthropomorph",
+        "zoomorph",
+        "vision_quest"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 44.2986, "lng": -107.5416 },
-      "icon": { "factory": "mkBothIcon", "color": "#B8860B", "size": 22 },
+      "geometry": {
+        "lat": 44.2986,
+        "lng": -107.5416
+      },
+      "icon": {
+        "factory": "mkBothIcon",
+        "color": "#B8860B",
+        "size": 12
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Medicine Lodge Creek State Archaeological Site (48BH499)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">11,300 years of occupation · NRHP · Thousands of petroglyphs & pictographs · 250m of Tensleep sandstone</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> ~6 mi NE of Hyattville, Big Horn County, Wyoming · Medicine Lodge Creek</p><p style=\"font-size:13px;color:#CFD8DC\">One of the most significant prehistoric archaeological sites in Wyoming. Excavations by Dr. George Frison (University of Wyoming) produced one of the most complete stratigraphic sequences of human occupation in the state — more than 60 cultural levels spanning 11,300 years from the Paleoindian through the historic Crow occupation (1300s CE). The 750-foot sandstone bluff shelters thousands of painted, incised, and pecked images: <b>shield-bearing warriors</b>, bear, elk, mountain sheep, horses, and diverse zoomorphic and anthropomorphic figures across nearly 250 meters of Tensleep sandstone.</p><p style=\"font-size:13px;color:#CFD8DC\">Medicine Lodge contains one of the most extensive and diverse concentrations of prehistoric rock art in the Northwestern Plains and Central Rocky Mountains. Some of the most compelling images were created high above ground level. Iron oxide pigment (deep red) was used for pictographs — iron oxide has been mined in Wyoming as far back as 13,000 years ago. The area lies near abundant water sources and five different vegetation zones, making it an ideal hunter-gatherer location.</p><p style=\"font-size:13px;color:#CFD8DC\">The site was known to rancher Sadie Taylor as early as the 1940s. Frison's excavations began in the late 1960s and continued for eight years. A 'Postulated Crow Component' was identified in the 1970s excavations, dated to the 1300s CE. Recent testing (2023) found 544 bone/antler fragments, 947 chipped stone artifacts, and intact features from this component.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Frison & Walker, <i>Medicine Lodge Creek</i>; Wyoming State Archaeologist Office; NRHP; <i>Archaeology Magazine</i>; WyoHistory.org; Cowboy State Daily 2024</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["paleoindian", "archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["paleoindian", "plains_archaic", "late_prehistoric_plains", "crow_historic"],
-      "tribes": ["crow", "eastern_shoshone", "northern_arapaho"],
-      "rockArtStyles": ["petroglyph", "pictograph", "shield_bearing_warrior", "zoomorph", "anthropomorph"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "paleoindian",
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "paleoindian",
+        "plains_archaic",
+        "late_prehistoric_plains",
+        "crow_historic"
+      ],
+      "tribes": [
+        "crow",
+        "eastern_shoshone",
+        "northern_arapaho"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "pictograph",
+        "shield_bearing_warrior",
+        "zoomorph",
+        "anthropomorph"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 41.7875, "lng": -109.1275 },
-      "icon": { "factory": "mkPetroIcon", "color": "#B8860B", "size": 20 },
+      "geometry": {
+        "lat": 41.7875,
+        "lng": -109.1275
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#B8860B",
+        "size": 10
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">White Mountain Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Sacred to Shoshone, Arapaho & Ute · Red Desert · Possible birthing site · ~12,000 visitors/year</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> ~26 mi NE of Rock Springs, Sweetwater County, Wyoming · BLM · Green River Formation (Lake Gosiute, 30+ million years old)</p><p style=\"font-size:13px;color:#CFD8DC\">Hundreds of carved figures on a 300-foot sandstone cliff face in the Red Desert, etched into the Eocene Bridger Formation between approximately 200 and 1,000 years ago. Imagery includes bison and elk hunts, geometric forms, tiny footprints, and handprints scooped into the rock. Contact-era figures portray horses and a warrior brandishing a sword, demonstrating interaction with European cultures.</p><p style=\"font-size:13px;color:#CFD8DC\">The Shoshone, Arapaho, and Ute tribes hold this site sacred. Some believe this was a birthing place for Plains and Great Basin peoples. The site sits in the culturally significant landscape of the Red Desert — historically a crossroads for multiple tribal groups. The White Mountain Petroglyphs are part of a broader cultural landscape important to at least four Native American tribes.</p><p style=\"font-size:13px;color:#CFD8DC\">The nearby Boar's Tusk volcanic formation is visible on the horizon ~5 miles northeast. The site is remote, without facilities, and requires a high-clearance vehicle. Despite this, it draws approximately 12,000 visitors per year.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: BLM Rock Springs Field Office; WyoHistory.org; Keyser & Klassen 2001; Sweetwater County tourism</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["late_prehistoric_plains", "great_basin_tradition"],
-      "tribes": ["eastern_shoshone", "northern_arapaho", "ute"],
-      "rockArtStyles": ["petroglyph", "zoomorph", "anthropomorph", "handprint", "contact_era"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "late_prehistoric_plains",
+        "great_basin_tradition"
+      ],
+      "tribes": [
+        "eastern_shoshone",
+        "northern_arapaho",
+        "ute"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "anthropomorph",
+        "handprint",
+        "contact_era"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 43.7500, "lng": -104.1900 },
-      "icon": { "factory": "mkPetroIcon", "color": "#B8860B", "size": 20 },
+      "geometry": {
+        "lat": 43.75,
+        "lng": -104.19
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#B8860B",
+        "size": 10
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Whoopup Canyon Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">~150 panels along 4 miles · Among the oldest petroglyphs in North America · NE Wyoming</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Weston County, NE Wyoming · Dakota sandstone · LAK Ranch & BLM lands</p><p style=\"font-size:13px;color:#CFD8DC\">An extensive system of roughly 150 rock art panels along a four-mile stretch of Dakota sandstone in northeast Wyoming — among the most extensive and among the oldest petroglyphs in North America. Ancient people left images of animals including elk, deer, pronghorn, bighorn sheep, canines, eagles, and bison, along with some human figures. The canyon has served as a game trail and migratory corridor for thousands of years.</p><p style=\"font-size:13px;color:#CFD8DC\">Panels are located in both upper and lower Whoopup Canyon with few petroglyphs in the rarely-traveled middle section. Habitation sites on the ridgetops overlooking the canyons contain small scatters of chipped stone artifacts and stone circles (tipi rings), likely associated with the rock art and of comparable antiquity.</p><p style=\"font-size:13px;color:#CFD8DC\">The first scientific surveys were conducted in the 1930s by Ralph I. Olinger — Lusk businessman, Wyoming Legislature representative, and amateur archaeologist. Alice Tratebas, Nicole Villa Cerveny, and Ronald Dorn published research (2004) on the effect of fire on the rock art. The Whoopup Canyon rock art represents a culturally distinct tradition from the Dinwoody sites of the Bighorn Basin, situated instead within the Northern Plains / Black Hills cultural sphere.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: WyoHistory.org (Keeler 2024); Olinger 1930s surveys; Tratebas, Cerveny & Dorn 2004; Anna Miller Museum, Newcastle</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["paleoindian", "archaic", "formative", "late_prehistoric"],
-      "cultures": ["paleoindian", "plains_archaic", "northern_plains_tradition"],
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "paleoindian",
+        "archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "paleoindian",
+        "plains_archaic",
+        "northern_plains_tradition"
+      ],
       "tribes": [],
-      "rockArtStyles": ["petroglyph", "zoomorph", "anthropomorph", "game_animal"]
+      "rockArtStyles": [
+        "petroglyph",
+        "zoomorph",
+        "anthropomorph",
+        "game_animal"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 42.7400, "lng": -108.9300 },
-      "icon": { "factory": "mkBothIcon", "color": "#B8860B", "size": 18 },
+      "geometry": {
+        "lat": 42.74,
+        "lng": -108.93
+      },
+      "icon": {
+        "factory": "mkBothIcon",
+        "color": "#B8860B",
+        "size": 8
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Sinks Canyon Rock Art</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Active documentation project (2024–) · 'Bird Man' pictograph · Working with THPO offices</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Sinks Canyon State Park, near Lander, Fremont County, Wyoming</p><p style=\"font-size:13px;color:#CFD8DC\">An archaeological site within Sinks Canyon State Park, currently the subject of an active rock art documentation project — the first of its kind in Wyoming. Seasonal archaeologists trained at the Shumla Archaeological Research Center in Texas are conducting systematic recording of all rock art in the park. The project is working directly with the Northern Arapaho and Eastern Shoshone Tribal Historic Preservation Offices.</p><p style=\"font-size:13px;color:#CFD8DC\">The site includes notable figures such as the 'bird man' pictograph. Natural deterioration is accelerating — visible changes have occurred within the last decade alone. The documentation effort is described as 'a race against nature.' The Wyoming Legislature's Select Committee on Tribal Relations has discussed expanding the project statewide, with Sinks Canyon as the test case.</p><p style=\"font-size:13px;color:#CFD8DC\">No decisions have been made about how public the documented images will be. Many tribes consider rock art sacred and prefer to safeguard certain images from public display.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Buffalo Bulletin (November 2024); Sen. Cale Case, R-Lander; Sinks Canyon WILD nonprofit; Wyoming State Parks</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric"],
-      "cultures": ["plains_archaic", "dinwoody_tradition"],
-      "tribes": ["eastern_shoshone", "northern_arapaho"],
-      "rockArtStyles": ["pictograph", "anthropomorph"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "plains_archaic",
+        "dinwoody_tradition"
+      ],
+      "tribes": [
+        "eastern_shoshone",
+        "northern_arapaho"
+      ],
+      "rockArtStyles": [
+        "pictograph",
+        "anthropomorph"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 43.5700, "lng": -109.3200 },
-      "icon": { "factory": "mkPetroIcon", "color": "#B8860B", "size": 16 },
+      "geometry": {
+        "lat": 43.57,
+        "lng": -109.32
+      },
+      "icon": {
+        "factory": "mkPetroIcon",
+        "color": "#B8860B",
+        "size": 8
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Wind River Indian Reservation Rock Art</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Dinwoody Tradition · NOT open to public · Active documentation by Mike Bies</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Wind River Indian Reservation, Fremont County, Wyoming (approximate — locations restricted)</p><p style=\"font-size:13px;color:#CFD8DC\">Extensive Dinwoody Tradition rock art exists on the Wind River Indian Reservation, dominated by the large patterned-body anthropomorphs characteristic of the Bighorn Basin. BLM archaeologist Mike Bies has been systematically documenting these panels, racing against time as natural erosion causes some rock faces to slide away entirely.</p><p style=\"font-size:13px;color:#CFD8DC\">Shoshone elders describe the Dinwoody figures as deities and supernatural entities that present themselves through the rock face. The barrier between the physical world and the 'rock world behind the rock face' is believed to be weak at these locations. Visitors are advised to prepare for the encounter appropriately. All documentation is being shared with the tribal archaeologist and Tribal Historic Preservation Office.</p><p style=\"font-size:13px;color:#CFD8DC\"><b>Note:</b> This rock art is on sovereign tribal land and is not open to the public. Mapped here for scholarly documentation only.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Cowboy State Daily (Aug 2023); Mike Bies documentation project; Francis & Loendorf 2002; Dr. Larry Loendorf ethnographic research</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["dinwoody_tradition"],
-      "tribes": ["eastern_shoshone", "northern_arapaho"],
-      "rockArtStyles": ["petroglyph", "dinwoody_anthropomorph", "patterned_body"]
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "dinwoody_tradition"
+      ],
+      "tribes": [
+        "eastern_shoshone",
+        "northern_arapaho"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "dinwoody_anthropomorph",
+        "patterned_body"
+      ]
     },
-
     {
       "type": "marker",
       "layer": "wySacredSites",
-      "geometry": { "lat": 44.8275, "lng": -107.9219 },
-      "icon": { "factory": "mkIcon", "color": "#FFD700", "size": 22 },
+      "geometry": {
+        "lat": 44.8275,
+        "lng": -107.9219
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#FFD700",
+        "size": 12
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD700;margin:0 0 8px\">Bighorn Medicine Wheel / Medicine Mountain</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">National Historic Landmark 1970 · Sacred to 16+ tribes · 9,640 ft elevation · Solstice alignments</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Bighorn National Forest, Big Horn County, Wyoming · 12 mi south of Montana border</p><p style=\"font-size:13px;color:#CFD8DC\">One of the largest and best-preserved stone medicine wheels in the northwestern Plains, and the first ever mentioned in popular literature or studied scientifically. A roughly circular pattern of stones approximately 82 feet in diameter surrounds a central stone cairn about 12 feet in diameter. 28 radial 'spokes' extend from the central cairn to a peripheral circle, with six additional cairns around and near the perimeter. These cairns align with sunrise and sunset positions during the summer solstice.</p><p style=\"font-size:13px;color:#CFD8DC\">The Medicine Wheel is a composite structure built over several hundred years. During 1958 excavations, ceramic sherds associated with the Shoshone and Crow tribes were recovered, along with early 19th-century glass trade beads near the central cairn. A wood sample from the western cairn dates to approximately 1760 CE, though Native American oral histories indicate the Wheel is much older, extending back through many generations.</p><p style=\"font-size:13px;color:#CFD8DC\">The 4,080-acre National Historic Landmark includes a high concentration of natural formations, traditional use areas, and associated archaeological sites: ceremonial staging areas, medicinal and ceremonial plant-gathering areas, sweat lodge sites, altars, offering locales, and recent vision-quest enclosures. The Medicine Wheel remains Wyoming's most complex historic preservation case, involving over 20 years of negotiations among government agencies and elders representing 16 Indian tribes.</p><p style=\"font-size:13px;color:#CFD8DC\">There are approximately 150 medicine wheels across Montana, South Dakota, Wyoming, Alberta, and Saskatchewan. The oldest is the 5,500-year-old Majorville Cairn in Alberta.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: WyoHistory.org; Bighorn National Forest; NHL designation 1970; Sheridan Chapter Wyoming Archaeological Society 1958 excavations</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["plains_ceremonial"],
-      "tribes": ["eastern_shoshone", "crow", "northern_arapaho", "northern_cheyenne", "lakota", "blackfeet"],
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "plains_ceremonial"
+      ],
+      "tribes": [
+        "eastern_shoshone",
+        "crow",
+        "northern_arapaho",
+        "northern_cheyenne",
+        "lakota",
+        "blackfeet"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "marker",
       "layer": "wySacredSites",
-      "geometry": { "lat": 44.5902, "lng": -104.7148 },
-      "icon": { "factory": "mkIcon", "color": "#FFD700", "size": 20 },
+      "geometry": {
+        "lat": 44.5902,
+        "lng": -104.7148
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#FFD700",
+        "size": 10
+      },
       "popup": "<div style=\"max-width:450px;font-family:'Crimson Text',serif\"><h3 style=\"color:#FFD700;margin:0 0 8px\">Devils Tower / Bear Lodge (Mathó Thípila)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">National Monument (1906, first in U.S.) · Sacred to multiple Plains tribes · 867 ft summit to base</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Crook County, NE Wyoming · Black Hills outlier</p><p style=\"font-size:13px;color:#CFD8DC\">Called Bear Lodge (Mathó Thípila) by the Lakota, Tree Rock, Brown Buffalo Horn, and Aloft on a Rock by other tribes, this igneous intrusion monolith is one of the most sacred Native American sites in the Northern Plains. The first U.S. National Monument, designated 1906 by Theodore Roosevelt. It rises 867 feet from base to summit and is deeply tied to origin stories of multiple tribes. During June, many tribes gather for personal and group ceremonies, leaving prayer cloths and other sacred offerings.</p><p style=\"font-size:13px;color:#CFD8DC\">While not a rock art site, Devils Tower is a critical element of the Northern Plains sacred landscape. Young Native American men continue to use the area for vision quests. The tower is located within the broader Black Hills cultural region, which contains additional archaeological sites and culturally significant landforms.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: NPS; Wyoming Office of Tourism; Sundstrom 2004; Multiple tribal oral histories</p></div>",
-      "popupOptions": { "maxWidth": 460 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["plains_ceremonial"],
-      "tribes": ["lakota", "crow", "northern_cheyenne", "eastern_shoshone", "kiowa"],
+      "popupOptions": {
+        "maxWidth": 460
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "plains_ceremonial"
+      ],
+      "tribes": [
+        "lakota",
+        "crow",
+        "northern_cheyenne",
+        "eastern_shoshone",
+        "kiowa"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "marker",
       "layer": "wySacredSites",
-      "geometry": { "lat": 44.6617, "lng": -104.0258 },
-      "icon": { "factory": "mkIcon", "color": "#DAA520", "size": 16 },
+      "geometry": {
+        "lat": 44.6617,
+        "lng": -104.0258
+      },
+      "icon": {
+        "factory": "mkIcon",
+        "color": "#DAA520",
+        "size": 8
+      },
       "popup": "<div style=\"max-width:430px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Vore Buffalo Jump (48CK302)</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">Late Prehistoric buffalo jump · ~1500–1800 CE · Crook County</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Beulah, Crook County, NE Wyoming · I-90 corridor</p><p style=\"font-size:13px;color:#CFD8DC\">A sinkhole-type buffalo jump used by late-Prehistoric Plains Indians from approximately 1500 to 1800 CE. Hunters drove bison into a natural sinkhole where they were dispatched and processed. The bone bed is approximately 20 feet deep. Excavations have recovered over 5,000 projectile points and the remains of an estimated 10,000–20,000 bison. The site demonstrates the scale and sophistication of communal bison hunting on the Northern Plains.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Vore Buffalo Jump Foundation; Wyoming Office of Tourism; Frison 1978</p></div>",
-      "popupOptions": { "maxWidth": 440 },
-      "timePeriods": ["late_prehistoric", "protohistoric"],
-      "cultures": ["late_prehistoric_plains"],
-      "tribes": ["crow", "lakota", "northern_cheyenne"],
+      "popupOptions": {
+        "maxWidth": 440
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "late_prehistoric_plains"
+      ],
+      "tribes": [
+        "crow",
+        "lakota",
+        "northern_cheyenne"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "polygon",
       "layer": "wyTerritories",
       "geometry": [
-        [43.8, -111.0], [44.8, -111.0], [45.0, -110.0], [45.0, -108.5],
-        [44.8, -107.0], [44.2, -107.0], [43.5, -107.5], [42.8, -108.0],
-        [42.5, -109.0], [42.5, -110.0], [43.0, -111.0], [43.8, -111.0]
+        [
+          43.8,
+          -111.0
+        ],
+        [
+          44.8,
+          -111.0
+        ],
+        [
+          45.0,
+          -110.0
+        ],
+        [
+          45.0,
+          -108.5
+        ],
+        [
+          44.8,
+          -107.0
+        ],
+        [
+          44.2,
+          -107.0
+        ],
+        [
+          43.5,
+          -107.5
+        ],
+        [
+          42.8,
+          -108.0
+        ],
+        [
+          42.5,
+          -109.0
+        ],
+        [
+          42.5,
+          -110.0
+        ],
+        [
+          43.0,
+          -111.0
+        ],
+        [
+          43.8,
+          -111.0
+        ]
       ],
       "style": {
         "color": "#DAA520",
@@ -196,19 +521,59 @@
         "dashArray": "5,5"
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Eastern Shoshone Territory (Newe)</h3><p style=\"font-size:13px;color:#CFD8DC\">The Eastern Shoshone (Newe — 'The People') occupied the Wind River country, Bighorn Basin, and surrounding mountains of western Wyoming. Today they share the 2.2-million-acre Wind River Indian Reservation with the Northern Arapaho — the seventh largest reservation in the United States. The Eastern Shoshone are the primary creators of the Dinwoody Tradition rock art.</p></div>",
-      "popupOptions": { "maxWidth": 420 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["great_basin_numic"],
-      "tribes": ["eastern_shoshone"],
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "great_basin_numic"
+      ],
+      "tribes": [
+        "eastern_shoshone"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "polygon",
       "layer": "wyTerritories",
       "geometry": [
-        [43.5, -110.5], [44.5, -110.5], [45.0, -109.5], [44.8, -108.5],
-        [44.0, -109.0], [43.2, -109.5], [43.0, -110.0], [43.5, -110.5]
+        [
+          43.5,
+          -110.5
+        ],
+        [
+          44.5,
+          -110.5
+        ],
+        [
+          45.0,
+          -109.5
+        ],
+        [
+          44.8,
+          -108.5
+        ],
+        [
+          44.0,
+          -109.0
+        ],
+        [
+          43.2,
+          -109.5
+        ],
+        [
+          43.0,
+          -110.0
+        ],
+        [
+          43.5,
+          -110.5
+        ]
       ],
       "style": {
         "color": "#8B6914",
@@ -219,19 +584,59 @@
         "dashArray": "3,6"
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#8B6914;margin:0 0 8px\">Mountain Shoshone / Tukudika (Sheep Eater) Territory</h3><p style=\"font-size:13px;color:#CFD8DC\">The Tukudika ('Sheep Eaters') were Mountain Shoshone bands who lived in the high country of the Wind River Range, Absaroka Range, and Yellowstone Plateau. Their territory overlapped with the broader Eastern Shoshone range but was concentrated above 7,000 feet. They specialized in hunting bighorn sheep and crafted distinctive horn bows. Their way of life ended when the Yellowstone area became a national park and they were forcibly removed to reservations.</p></div>",
-      "popupOptions": { "maxWidth": 420 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["mountain_shoshone_culture"],
-      "tribes": ["mountain_shoshone"],
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "mountain_shoshone_culture"
+      ],
+      "tribes": [
+        "mountain_shoshone"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "polygon",
       "layer": "wyTerritories",
       "geometry": [
-        [42.5, -108.5], [43.5, -108.5], [43.8, -107.5], [43.5, -106.0],
-        [42.8, -105.5], [42.0, -106.5], [42.0, -108.0], [42.5, -108.5]
+        [
+          42.5,
+          -108.5
+        ],
+        [
+          43.5,
+          -108.5
+        ],
+        [
+          43.8,
+          -107.5
+        ],
+        [
+          43.5,
+          -106.0
+        ],
+        [
+          42.8,
+          -105.5
+        ],
+        [
+          42.0,
+          -106.5
+        ],
+        [
+          42.0,
+          -108.0
+        ],
+        [
+          42.5,
+          -108.5
+        ]
       ],
       "style": {
         "color": "#CD853F",
@@ -242,19 +647,57 @@
         "dashArray": "5,5"
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#CD853F;margin:0 0 8px\">Northern Arapaho Territory (Hinono'eiteen)</h3><p style=\"font-size:13px;color:#CFD8DC\">The Northern Arapaho (Hinono'eiteen — 'Our People') were an Algonquian-speaking Plains people whose territory in the 18th–19th century included much of central Wyoming. Today they share the Wind River Indian Reservation with the Eastern Shoshone — a circumstance that arose from federal policy rather than choice, as the two tribes were historically rivals. The Arapaho have connections to several rock art sites and consider the White Mountain Petroglyphs sacred.</p></div>",
-      "popupOptions": { "maxWidth": 420 },
-      "timePeriods": ["late_prehistoric", "protohistoric"],
-      "cultures": ["plains_nomadic"],
-      "tribes": ["northern_arapaho"],
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "plains_nomadic"
+      ],
+      "tribes": [
+        "northern_arapaho"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "polygon",
       "layer": "wyTerritories",
       "geometry": [
-        [44.5, -110.0], [45.8, -110.5], [46.0, -108.5], [45.8, -107.0],
-        [45.0, -106.5], [44.5, -107.5], [44.2, -108.5], [44.5, -110.0]
+        [
+          44.5,
+          -110.0
+        ],
+        [
+          45.8,
+          -110.5
+        ],
+        [
+          46.0,
+          -108.5
+        ],
+        [
+          45.8,
+          -107.0
+        ],
+        [
+          45.0,
+          -106.5
+        ],
+        [
+          44.5,
+          -107.5
+        ],
+        [
+          44.2,
+          -108.5
+        ],
+        [
+          44.5,
+          -110.0
+        ]
       ],
       "style": {
         "color": "#A0522D",
@@ -265,19 +708,58 @@
         "dashArray": "5,5"
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#A0522D;margin:0 0 8px\">Crow (Apsáalooke) Territory</h3><p style=\"font-size:13px;color:#CFD8DC\">The Apsáalooke ('Children of the Large Beaked Bird') — known as the Crow — historically claimed the Bighorn Basin, Yellowstone River country, and adjacent mountain ranges of southern Montana and northern Wyoming. They are closely connected to Medicine Lodge Creek (1300s CE Crow component), the Medicine Wheel, and the Castle Gardens shield-bearing warrior tradition. The Crow split from the Hidatsa in the Missouri River region centuries ago and migrated westward.</p></div>",
-      "popupOptions": { "maxWidth": 420 },
-      "timePeriods": ["late_prehistoric", "protohistoric"],
-      "cultures": ["plains_nomadic", "crow_historic"],
-      "tribes": ["crow"],
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "plains_nomadic",
+        "crow_historic"
+      ],
+      "tribes": [
+        "crow"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "polygon",
       "layer": "wyTerritories",
       "geometry": [
-        [40.5, -111.0], [41.5, -111.0], [42.0, -110.0], [41.8, -109.0],
-        [41.0, -108.5], [40.5, -109.0], [40.0, -110.0], [40.5, -111.0]
+        [
+          40.5,
+          -111.0
+        ],
+        [
+          41.5,
+          -111.0
+        ],
+        [
+          42.0,
+          -110.0
+        ],
+        [
+          41.8,
+          -109.0
+        ],
+        [
+          41.0,
+          -108.5
+        ],
+        [
+          40.5,
+          -109.0
+        ],
+        [
+          40.0,
+          -110.0
+        ],
+        [
+          40.5,
+          -111.0
+        ]
       ],
       "style": {
         "color": "#D2691E",
@@ -288,18 +770,31 @@
         "dashArray": "5,5"
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#D2691E;margin:0 0 8px\">Ute (Núuchi-u) Territory — Northern Range</h3><p style=\"font-size:13px;color:#CFD8DC\">The Ute (Núuchi-u — 'The People') are a Numic-speaking people whose extensive territory ranged from the Colorado Rockies into southwestern Wyoming and eastern Utah. They consider the White Mountain Petroglyphs sacred and have deep historical connections to the Red Desert region of southwestern Wyoming. The Ute are one of the oldest continuous inhabitants of the Colorado Plateau.</p></div>",
-      "popupOptions": { "maxWidth": 420 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric", "protohistoric"],
-      "cultures": ["great_basin_numic"],
-      "tribes": ["ute"],
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric",
+        "protohistoric"
+      ],
+      "cultures": [
+        "great_basin_numic"
+      ],
+      "tribes": [
+        "ute"
+      ],
       "rockArtStyles": []
     },
-
     {
       "type": "circleMarker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 44.8300, "lng": -108.3300 },
-      "radius": 5,
+      "geometry": {
+        "lat": 44.83,
+        "lng": -108.33
+      },
+      "radius": 3,
       "style": {
         "color": "#B8860B",
         "fillColor": "#DAA520",
@@ -307,18 +802,33 @@
         "weight": 2
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Little Buffalo Basin ETP Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">En toto pecked (ETP) anthropomorphs · South of Meeteetse · Shoshone connections</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> South of Meeteetse, Park County, Wyoming</p><p style=\"font-size:13px;color:#CFD8DC\">An en toto pecked (ETP) petroglyph site with anthropomorphs resembling those found at Petroglyph Canyon in the Pryor Mountains (Montana). ETP petroglyphs — where the entire figure is filled in with pecking — represent a distinctive tradition concentrated in the Pryor Mountains–Bighorn area. Comparable sites with similar anthropomorphs are found in Nevada, consistent with the Numic/Shoshone cultural connection between Wyoming and the Great Basin. One of the Shoshone bands is likely responsible for these figures.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Loendorf et al., Pryor Mountains documentation; Francis & Loendorf 2002; pryormountains.org</p></div>",
-      "popupOptions": { "maxWidth": 420 },
-      "timePeriods": ["archaic", "formative"],
-      "cultures": ["dinwoody_tradition"],
-      "tribes": ["eastern_shoshone"],
-      "rockArtStyles": ["petroglyph", "en_toto_pecked", "anthropomorph"]
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "archaic",
+        "formative"
+      ],
+      "cultures": [
+        "dinwoody_tradition"
+      ],
+      "tribes": [
+        "eastern_shoshone"
+      ],
+      "rockArtStyles": [
+        "petroglyph",
+        "en_toto_pecked",
+        "anthropomorph"
+      ]
     },
-
     {
       "type": "circleMarker",
       "layer": "wyRockArt",
-      "geometry": { "lat": 44.960, "lng": -108.130 },
-      "radius": 4,
+      "geometry": {
+        "lat": 44.96,
+        "lng": -108.13
+      },
+      "radius": 2,
       "style": {
         "color": "#B8860B",
         "fillColor": "#DAA520",
@@ -326,11 +836,21 @@
         "weight": 2
       },
       "popup": "<div style=\"max-width:400px;font-family:'Crimson Text',serif\"><h3 style=\"color:#DAA520;margin:0 0 8px\">Stateline Petroglyphs</h3><p style=\"font-size:12px;color:#FFAB91;margin:0 0 6px\">WY/MT border · Big Horn County, Wyoming</p><p style=\"font-size:13px;color:#B0BEC5\"><b>Location:</b> Near Wyoming–Montana border, Big Horn County, Wyoming</p><p style=\"font-size:13px;color:#CFD8DC\">A petroglyph site located within meters of the Wyoming–Montana border in Carbon County/Big Horn County. Documented by Loendorf during the 1985 Carbon County rock art survey. Located on BLM land. Part of the broader Weatherman Draw–Cottonwood Creek rock art complex that straddles the state line.</p><p style=\"font-size:11px;color:#78909C;margin-top:8px;border-top:1px solid rgba(193,154,107,0.2);padding-top:4px\">Sources: Loendorf 1985, <i>The Rock Art Sites in Carbon County, Montana</i></p></div>",
-      "popupOptions": { "maxWidth": 420 },
-      "timePeriods": ["archaic", "formative", "late_prehistoric"],
-      "cultures": ["plains_archaic"],
+      "popupOptions": {
+        "maxWidth": 420
+      },
+      "timePeriods": [
+        "archaic",
+        "formative",
+        "late_prehistoric"
+      ],
+      "cultures": [
+        "plains_archaic"
+      ],
       "tribes": [],
-      "rockArtStyles": ["petroglyph"]
+      "rockArtStyles": [
+        "petroglyph"
+      ]
     }
   ]
 }
