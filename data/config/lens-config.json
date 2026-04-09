@@ -43,7 +43,8 @@
     "nePetro",
     "mallerySurvey",
     "gaultonNetwork",
-    "vaWvRockArt"
+    "vaWvRockArt",
+    "wyRockArt"
   ],
   "rockArtGroups": {
     "PCN (Pacific Coast Network)": {
@@ -243,6 +244,14 @@
       ],
       "color": "#4E342E",
       "description": "VA pictographs (2 known sites) + WV petroglyphs (27 recorded) — Maslowski 2024, Swauger 1974"
+    },
+    "Wyoming / Northern Plains": {
+      "layers": [
+        "wyRockArt",
+        "wySacredSites"
+      ],
+      "color": "#B8860B",
+      "description": "Dinwoody Tradition, Castle Gardens Shield Style, Medicine Lodge Creek — Francis & Loendorf 2002"
     }
   },
   "territoryLayers": {
@@ -317,6 +326,9 @@
     ],
     "tnCumberland": [
       "tnCumberlandTerr"
+    ],
+    "wyoming": [
+      "wyTerritories"
     ]
   },
   "extraCultures": {

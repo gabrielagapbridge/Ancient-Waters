@@ -54,6 +54,9 @@
     },
     "scBackgroundPane": {
       "zIndex": 350
+    },
+    "wyomingBackgroundPane": {
+      "zIndex": 345
     }
   },
   "layers": {
@@ -1877,6 +1880,27 @@
       "addedToMap": true,
       "dataSources": [
         "83-va-wv-rock-art.json"
+      ]
+    },
+    "wyRockArt": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "84-wyoming-rockart.json"
+      ]
+    },
+    "wyTerritories": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "84-wyoming-rockart.json"
+      ]
+    },
+    "wySacredSites": {
+      "type": "layerGroup",
+      "addedToMap": true,
+      "dataSources": [
+        "84-wyoming-rockart.json"
       ]
     }
   }
